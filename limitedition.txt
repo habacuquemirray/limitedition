@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+ ########################## BRASIL 1 ###########################################
 #EXTINF:-1 group-title="BRASIL",BBB 18
 http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 #EXTINF:-1 group-title="BRASIL",GLOBO
@@ -754,7 +755,7 @@ http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/949.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" VIVA HD" tvg-logo="" group-title="BRASIL",VIVA HD
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/927.m3u8
 
-
+########################## BRASIL 2 ###########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 18 SD" tvg-logo="http://3.bp.blogspot.com/-KJccJlx7v_4/UOLipNNMOHI/AAAAAAAAiyw/lUTB500AD6g/s1600/BBB.png" group-title="BRASIL 2",BBB 18 SD
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7600.ts
@@ -1578,6 +1579,8 @@ http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7617.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Estacao Full HD" tvg-logo="" group-title="BRASIL 2",TV Estacao Full HD
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7876.ts
 
+########################## BRASIL 3 ###########################################
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/75823e3a32cee821e8eebe162a9e95bb.jpg" group-title="BRASIL 3",TV CULTURA
 http://177.73.84.49/hls/live/live.m3u8
 
@@ -2211,6 +2214,8 @@ http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4100.ts?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b4a989e705b2586364d454771c6f501.jpg" group-title="BRASIL 3",Globo SP HD
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4097.ts?
+
+##########################BRASIL 4 ###########################################
 
 #EXTM3U
 #EXTINF:-1 group-title="BRASIL 4 ", Canção Nova HD
