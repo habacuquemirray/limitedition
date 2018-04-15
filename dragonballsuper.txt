@@ -1,0 +1,404 @@
+﻿#EXTINF:0 tvg-logo="http://i.imgur.com/8fHgRu5.png" group-title="Dragon Ball Super",Em Lançamento
+http://i.imgur.com/DoWrGAm.png
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",01 Tempos De Paz Cem Milhões De Zens Cairá Nas Mãos De Quem?
+http://www.blogger.com/video-play.mp4?contentId=8ca7f7f864406273&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",02 Ao Resort Prometido! Vegeta Em Uma Viagem De Família?
+http://www.blogger.com/video-play.mp4?contentId=b054ab0832971c2b&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",03 Onde Está A Continuação Dos Sonhos? Procure O Super Sayajin Deus!
+http://www.blogger.com/video-play.mp4?contentId=fa29ff5c4a946119&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",04 Acordem Esferas Do Dragão! O Grande Plano Do Esquadrão Pilaf!
+http://www.blogger.com/video-play.mp4?contentId=574a8e8cfa4e0e0b&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",05 O Confronto Do Planeta Kaiou! Goku VS Bills O Destruidor!
+http://www.blogger.com/video-play.mp4?contentId=c3e1dff138a5bb66&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",06 Não Irritem o Deus da Destruição! Uma Festa de Aniversário Animada!
+https://www.blogger.com/video-play.mp4?contentId=7a42bde55d357878&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",07 Como Ousa Bater na Minha Bulma? Vegeta Fica Furioso de Repente?!
+https://www.blogger.com/video-play.mp4?contentId=8e0499a831178fc3&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",08 A Chegada De Goku! A Última Chance De Bills-sama?!
+https://www.blogger.com/video-play.mp4?contentId=e1ff76e46945066f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",09 Desculpe a Demora Senhor Bills! Finalmente Nasce o Deus Super Saiyajin!
+https://www.blogger.com/video-play.mp4?contentId=22bfdb5c29f3e9e5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",10 Mostre a Ele Goku! O Poder do Deus Super Saiyajin!
+https://www.blogger.com/video-play.mp4?contentId=aeb22a8995b66d1&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",11 Vamos Continuar Lorde Bills! Com Esta Batalha dos Deuses!
+https://www.blogger.com/video-play.mp4?contentId=dd45c736cbda4bd&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",12 O Universo se Despedaça? Colisão! O Deus da Destruição e o Deus Super Saiyajin!
+http://www.blogger.com/video-play.mp4?contentId=c43635792ae68fe6&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",13 Goku Supere o Deus Super Saiyajin!
+http://www.blogger.com/video-play.mp4?contentId=6fca3d799fc80d5f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xVN2cBC.jpg" group-title="Dragon Ball Super",14 Este é Todo o Meu Poder! A Decisão da Batalha dos Deuses!
+http://www.blogger.com/video-play.mp4?contentId=b89de090ffe3e843&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",15 O Herói Satan Faz Um Milagre Acontecer! Um Desafio Vindo do Espaço!
+http://www.blogger.com/video-play.mp4?contentId=aef42f4e93ae77e5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",16 Realize Um Milagre Grande Herói Mister Satan! Um Desafio Vindo do Espaço!
+https://www.blogger.com/video-play.mp4?contentId=abc2724ce431ebac&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",17 A Pan Nasceu! E Goku Vai Viajar para Treinar?
+http://www.blogger.com/video-play.mp4?contentId=4886a4f63f3cddb8&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",18 Eu Também Cheguei! Começa o Treinamento no Planeta do Bills!
+https://www.blogger.com/video-play.mp4?contentId=2179e773bc8425f9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",19 O Desespero Se Repete! A Ressurreição do Imperador do Mal Freeza!
+http://www.blogger.com/video-play.mp4?contentId=60d20a5b52d0ea83&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",20 O Aviso de Jaco! Freeza E Suas Tropas de Mil Homens Se Aproximam!
+https://www.blogger.com/video-play.mp4?contentId=174429107dfe8108&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",21 O Início Da Vingança! O Exército do Mal Ataca Gohan!
+http://www.blogger.com/video-play.mp4?contentId=63ec371d29d71a60&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",22 Change! A Ressurreição Inesperada! O Seu Nome é Genyuu!
+http://www.blogger.com/video-play.mp4?contentId=63ec371d29d71a60&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",23 A Terra E Gohan Estão Em Apuros! Venha Depressa Son Goku!
+http://www.blogger.com/video-play.mp4?contentId=d3c34ca90c6127f7&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",24 O Confronto! Freeza Versus Son Goku! Este é O Resultado Do Meu Treinamento! 
+http://www.blogger.com/video-play.mp4?contentId=90f275e8d47ba207&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",25 Batalha Ao Extremo! Freeza Dourado E Sua Vingança! 
+http://www.blogger.com/video-play.mp4?contentId=af8566f41f179504&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",26 Uma Oportunidade De Vencer! O Contra-ataque De Son Goku!
+http://www.blogger.com/video-play.mp4?contentId=aca8b91771b5d9e8&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/105OW90.jpg" group-title="Dragon Ball Super",27 A Terra Explode?! O Kame Hame Ha Decisivo
+http://www.blogger.com/video-play.mp4?contentId=a8cbee1a6b5c27c0&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",28 O Deus Da Destruição Do Sexto Universo Seu Nome É Champa
+http://www.blogger.com/video-play.mp4?contentId=df5ed944386e194&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",29 Os Escolhidos! Aquele Que é Mais Forte Que O Goku
+http://www.blogger.com/video-play.mp4?contentId=5c89499de53cac79&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",30 Escolhendo Os Participantes Quem Serão Os Últimos Dois?
+http://www.blogger.com/video-play.mp4?contentId=9180e0189aca9d19&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",31 Vamos Ao Lar De Zuno-sama! Encontre O Paradeiro Da Super Esfera do Dragão!
+http://www.blogger.com/video-play.mp4?contentId=4d199ec24d0f7c6e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",32 Começa o Torneio! Todos Para o Planeta Sem Nome
+http://www.blogger.com/video-play.mp4?contentId=83de6a4d96415286&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",33 Se Surpreenda Ó Sexto Universo! Este é O Super Saiyajin – Son Goku!
+http://www.blogger.com/video-play.mp4?contentId=2a80a6621bfc36fc&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",34 Piccolo Vs Frost Apostando Tudo No Makankousappou!
+http://www.blogger.com/video-play.mp4?contentId=4238767b30c0c70f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",35 O Ódio se Torna Força! Vegeta Vai Para o Tudo ou Nada!
+https://www.blogger.com/video-play.mp4?contentId=f0ebf8bc385f43a2&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",36 Uma Inesperada Luta Complicada! A Explosão de Raiva de Vegeta!
+http://www.blogger.com/video-play.mp4?contentId=3380fe50d6cc2952&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",37 Não se Esqueça do Orgulho dos Sayajins! Vegeta VS. O Saijajin do Universo Seis!!
+http://www.blogger.com/video-play.mp4?contentId=2a57a273e8009f43&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",38 O Mais Forte Lutador Do Universo Seis! O Assassino Hit!
+http://www.blogger.com/video-play.mp4?contentId=a96eebff612eaebb&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",39 O Contra-Ataque Do Salto Temporal!
+http://www.blogger.com/video-play.mp4?contentId=3595ba3283a479be&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",40 O Desfecho! Quem Venceu Bills ou Champa?
+http://www.blogger.com/video-play.mp4?contentId=13e3dcc53de996dc&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/1W3QIwH.jpg?1" group-title="Dragon Ball Super",41 Apareça Dragão dos Deuses e Conceda o Meu Humilde Desejo. Por Favorzinho
+http://www.blogger.com/video-play.mp4?contentId=cf48d01bfed2cd40&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/wy902ME.jpg?1" group-title="Dragon Ball Super",42 A Caótica Festa de Comemoração! O Confronto Entre Monaka e Son Goku!!
+https://www.blogger.com/video-play.mp4?contentId=61baaa12b456dab4&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/wy902ME.jpg?1" group-title="Dragon Ball Super",43 O Ki de Goku Está Fora de Controle? Cuidar da Pan Não é Brinquedo!
+http://www.blogger.com/video-play.mp4?contentId=9799268c64864c41&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/wy902ME.jpg?1" group-title="Dragon Ball Super",44 O Selo do Planeta Potofu! O Segredo da Água Sobre Humana!!
+http://www.blogger.com/video-play.mp4?contentId=37cfad98bf27f77c&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/wy902ME.jpg?1" group-title="Dragon Ball Super",45 Reviravolta Total A Ameaça do Falso Vegeta!
+http://www.blogger.com/video-play.mp4?contentId=e848f371cc3b273c&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/wy902ME.jpg?1" group-title="Dragon Ball Super",46 Goku vs O Falso Vegeta! Quem vai Vencer?
+https://www.blogger.com/video-play.mp4?contentId=bd950bd875a80e59&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",47 Um Pedido de Socorro do Futuro! Um Novo Inimigo Surge Das Sobras!!
+https://www.blogger.com/video-play.mp4?contentId=a6a7e9939fe08158&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",48 Uma Nova Esperança! Desperte no Presente Trunks!
+https://www.blogger.com/video-play.mp4?contentId=fb71aa93508e4ed&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",49 Uma Mensagem do Futuro! O Ataque de Goku Black!
+http://www.blogger.com/video-play.mp4?contentId=fb79d195c8b6b751&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",50 Goku VS Black! O Caminho Para o Futuro foi Selado
+http://www.blogger.com/video-play.mp4?contentId=ee11303b72aa7655&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",51 Sentimentos Que Ultrapassam O Tempo! Trunks E Mai!
+https://a.pomf.space/qohrqaeveywr.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",52 Reunião De Professor E Aluno! Son Gohan E O Trunks Do Futuro!
+https://a.pomf.space/owyedjgkcuzb.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",53 Revelem A Verdadeira Identidade Do Black! Agora Vamos Ao Mundo Dos Kaiohshin Do Décimo Universo!
+https://a.pomf.space/dwqbvzhryekr.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",54 Aquele Que Herdou o Sangue Saiyajin! A Decisão de Trunks!
+https://a.pomf.space/ruttwtbbkgaa.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",55 Eu Quero Ver o Son Goku Né? O Grande Zen-ô Está Chamando!
+https://a.pomf.space/tkqwsepadyvp.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",56 A Revanche Contra o Goku Black! Surge o Super Saiyajin Rosé!
+https://a.pomf.space/nbmkkqjhkjpf.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",57 A Divindade de Corpo Imortal! Zamasu Chega a Terra!
+https://a.pomf.space/fqismarokksg.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",58 Zamasu e Black! O Mistério Aumenta!
+https://a.pomf.space/dqorpgvjhnxv.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",59 Proteja o Supremo Senhor Kaioh Gowasu! Acabe com Zamasu!
+https://a.pomf.space/drtuvkckonew.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",60 De Volta Para o Futuro! A Identidade de Goku Black é Revelada!
+https://a.pomf.space/vlenljocatze.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",61 A Ambição de Zamasu O Aterrorizante Plano “ZERO HUMANOS”
+https://a.pomf.space/cyixqlldpibw.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",62 Eu Vou Proteger o Mundo! A Fúria de Trunks Faz Explodir Um SuperPoder!
+https://a.pomf.space/gzzowomfgmtt.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",63 Não Subestime a Células dos Super Sayajins! Começa A Heroica Batalha de Vegeta!
+https://a.pomf.space/ufnvniiwqsja.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",64 Adorem-no! Venerem-no! A Poderosa Fusão de Zamas!!
+https://a.pomf.space/ixttnueeysfa.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",65 É o Juízo Final? O Poder Máximo do Deus Supremo!
+https://a.pomf.space/wzzzipwaabcj.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",66 A Batalha Decisiva! O Poder Milagroso Dos Guerreiros Que Nunca Desistem!
+https://a.pomf.space/wqqvypyossol.MP4
+#EXTINF:0 tvg-logo="https://i.imgur.com/eWPk8GT.png" group-title="Dragon Ball Super",67 Uma Nova Esperança Em Nossos Corações! Adeus; Trunks!
+https://a.pomf.space/juqfdqvbuedr.MP4
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/DoWrGAm.png" group-title="Dragon Ball Super Legendado",Em Lançamento 
+https://4.bp.blogspot.com/-MHF4VBN0xBA/WMgz2PcNv8I/AAAAAAAAA0E/4ydAJ8RiVOAtEqmAaVj5EtiDJikjUc4zgCLcB/s320/00.png
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",01 Tempos De Paz Cem Milhões De Zens Cairá Nas Mãos De Quem?
+http://www.blogger.com/video-play.mp4?contentId=a0aa700eeb67b291&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",02 Ao Resort Prometido! Vegeta Em Uma Viagem De Família?
+http://www.blogger.com/video-play.mp4?contentId=5c4ca4675bfe178a&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",03 Onde Está A Continuação Dos Sonhos? Procure O Super Sayajin Deus!
+http://www.blogger.com/video-play.mp4?contentId=3ad6a8e2d00cfd1c&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",04 Acordem Esferas Do Dragão! O Grande Plano Do Esquadrão Pilaf!
+http://www.blogger.com/video-play.mp4?contentId=cd4c036d8f2c0636&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",05 O Confronto Do Planeta Kaiou! Goku VS Bills O Destruidor!
+http://www.blogger.com/video-play.mp4?contentId=4198aed1a0a570f6&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",06 Não Enfureçam O Destruidor! Uma Festa De Aniversário Empolgante!
+http://www.blogger.com/video-play.mp4?contentId=6807b1bc74500188&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",07 Não Encoste Na Minha Bulma! A Fúria Repentina De Vegeta!?
+http://www.blogger.com/video-play.mp4?contentId=5ad70b43b311401a&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",08 A Chegada De Goku! A Última Chance De Bills-sama?!
+http://www.blogger.com/video-play.mp4?contentId=46d4b9da780177c8&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",09 Desculpe Por Tê-lo Feito Esperar Lorde Bills! De Repente Chega O Deus Super Saiyajin!
+http://www.blogger.com/video-play.mp4?contentId=1022ebac0cf4a10e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",10 Mostre A Ele Goku! O Poder Do Deus Super Saiyajin!!
+http://www.blogger.com/video-play.mp4?contentId=2b999207229257e1&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",11 Vamos Continuar Lorde Bills! Com Esta Batalha Dos Deuses!
+http://www.blogger.com/video-play.mp4?contentId=698d0fe626c50418&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",12 O Universo Se Despedaça? Colisão! O Deus Da Destruição E O Deus Super Saiyajin
+http://www.blogger.com/video-play.mp4?contentId=ed054d9a6f57f022&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",13 Ó Goku Supere O Deus Super Saiyajin
+http://www.blogger.com/video-play.mp4?contentId=34cbbb2e1a740abf&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/opDSImJ.png?1" group-title="Dragon Ball Super Legendado",14 Este é Todo O Meu Poder! A Decisão Da Batalha Dos Deuses!
+http://www.blogger.com/video-play.mp4?contentId=5c6b26938e3d2477&Anime
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",15 O Herói Satan Faz Um Milagre Acontecer! Um Desafio Vindo Do Espaço!
+http://www.blogger.com/video-play.mp4?contentId=835dd15c21300d4f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",16 Vegeta Se Tornou Um Discípulo?! Capture O Whis!
+http://www.blogger.com/video-play.mp4?contentId=39aac190b6f69cc7&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",17 Pan Chegou! E Agora Goku Vai Viajar Para Treinar?!
+http://www.blogger.com/video-play.mp4?contentId=a5124e6a594da2b9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",18 Eu Também Cheguei! Começa O Treinamento No Planeta Do Bills!
+http://www.blogger.com/video-play.mp4?contentId=f5c80174014c6d2f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",19 O Desespero Se Repete! A Ressurreição Do Imperador Do Mal  Freeza!
+http://www.blogger.com/video-play.mp4?contentId=a1624ec72e9e1f6e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",20 A Advertência De Jaco! O Exército De 1000 Homens De Freeza Se Aproxima
+http://www.blogger.com/video-play.mp4?contentId=6a7ccaa5db0f8507&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",21 O Começo Da Vingança! O Exército Maligno De Freeza Ataca Gohan!
+http://www.blogger.com/video-play.mp4?contentId=640d4322c316f78f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",22 Change! A Ressurreição Inesperada! O Seu Nome é Genyuu!!
+http://www.blogger.com/video-play.mp4?contentId=655ea790183903d3&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",23 A Terra E Gohan Estão Em Apuros! Venha Depressa  Son Goku!
+http://www.blogger.com/video-play.mp4?contentId=8ee0d6a167c1061e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",24 O Confronto! Freeza Versus Son Goku! Este é O Resultado Do Meu Treinamento!
+http://www.blogger.com/video-play.mp4?contentId=233c0e357d93d427&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",25 Batalha Ao Extremo! Freeza Dourado E Sua Vingança!
+http://www.blogger.com/video-play.mp4?contentId=220d2597cc5614fd&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",26 Uma Oportunidade De Vencer! O Contra-ataque De Son Goku!
+http://www.blogger.com/video-play.mp4?contentId=3ae4b5986dd7a7c9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2wnj5jB.png" group-title="Dragon Ball Super Legendado",27 A Terra Explode?! O Kame Hame Ha Decisivo
+http://www.blogger.com/video-play.mp4?contentId=8f04e7b214498487&Anime
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",28 O Deus Da Destruição Do Sexto Universo Seu Nome É Champa
+http://www.blogger.com/video-play.mp4?contentId=6cbafb9637b9cb43&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",29 Os Escolhidos! Aquele Que é Mais Forte Que O Goku
+http://www.blogger.com/video-play.mp4?contentId=b4be444320d45977&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",30 Escolhendo Os Participantes Quem Serão Os Últimos Dois?
+http://www.blogger.com/video-play.mp4?contentId=549cc232f415607e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",31 Vamos Ao Lar De Zuno-sama! Encontre O Paradeiro Da Super Esfera Co Dragão!
+http://www.blogger.com/video-play.mp4?contentId=c873d0685467d92&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",32 Começa O Torneio! Vamos Todos Para O Planeta Sem Nome!
+http://www.blogger.com/video-play.mp4?contentId=d049d67ff620b1d0&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",33 Se Surpreenda Ó Sexto Universo! Este é O Super Saiyajin - Son Goku!
+http://www.blogger.com/video-play.mp4?contentId=2889cf2a998cb7fc&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",34 Piccolo Vs Frost Apostando Tudo No Makankousappou!
+http://www.blogger.com/video-play.mp4?contentId=e0e3977bfba339c6&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",35 Convertendo Sua Fúria Em Força! Vegeta Luta Com Tudo
+http://www.blogger.com/video-play.mp4?contentId=fbc6fbe18107b0c4&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",36 Uma Luta Bem Complicada! A Grande Explosão Da Fúria De Vegeta!
+http://www.blogger.com/video-play.mp4?contentId=eb27e9536e79d181&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",37 Não Esqueça Do Seu Orgulho Saiyajin! Vegeta Versus O Saiyajin Do Sexto Universo
+http://www.blogger.com/video-play.mp4?contentId=f0820c2a27943021&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",38 O Guerreiro Mais Forte Do Sexto Universo! De Frent Com Hit O Assassino!!
+http://www.blogger.com/video-play.mp4?contentId=ae7e17a03bca0c59&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",39 Uma Reação Perfeita Ao Salto No Tempo!? Está Vindo!? A Nova Técnica De Goku!
+http://www.blogger.com/video-play.mp4?contentId=98774e63cfa97214&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",40 Finalmente Está Decidido! O Vitorioso é Bills? Ou Então é Champa?
+http://www.blogger.com/video-play.mp4?contentId=66bff546909f6c9f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/mXbeEoU.png?1" group-title="Dragon Ball Super Legendado",41 Saia Daí Deus Dos Dragões E Realize Nossos Desejos!
+http://www.blogger.com/video-play.mp4?contentId=ffd4aed012e29db4&Anime
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ZR3SrY.png" group-title="Dragon Ball Super Legendado",42 Confusão Na Reunião De Celebração Da Vitória! Finalmente O Confronto!? Monaca VS Son Goku
+http://www.blogger.com/video-play.mp4?contentId=dbe09694b1183f83&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ZR3SrY.png" group-title="Dragon Ball Super Legendado",43 Goku Não Consegue Controlar Direito O Seu Ki?! Está Muito Difícil Cuidar Da Pan
+http://www.blogger.com/video-play.mp4?contentId=6fa7d95f9341b695&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ZR3SrY.png" group-title="Dragon Ball Super Legendado",44 O Selo Do Planeta Potofu. É Liberado O Segredo Da Choujinsui
+http://www.blogger.com/video-play.mp4?contentId=e9e76326904c7f0a&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ZR3SrY.png" group-title="Dragon Ball Super Legendado",45 Vegeta Está Desaparecendo?! A Ameaça Da Réplica De Vegeta!
+http://www.blogger.com/video-play.mp4?contentId=582dc0aa9c6ebc06&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ZR3SrY.png" group-title="Dragon Ball Super Legendado",46 Goku VS A Réplica De Vegeta! Qual Dos Dois Vai Ganhar?
+http://www.blogger.com/video-play.mp4?contentId=dff8f5ca6efa7cc8&Anime
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",47 Um Pedido De Socorro Do Futuro! Aparece Um Novo Inimigo Sombrio!!
+http://www.blogger.com/video-play.mp4?contentId=b1e5fe8b3bffd5a4&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",48 Hope!!! Mais Uma Vez  Desperte No Presente  Trunks
+http://www.blogger.com/video-play.mp4?contentId=2fcf3522119a65bb&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",49 Uma Mensagem Do Futuro:O Ataque Do Goku Black!
+http://www.blogger.com/video-play.mp4?contentId=fc359141aaed4480&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",50 Goku Vs Black! O Caminho Para O Futuro é Fechado!
+http://www.blogger.com/video-play.mp4?contentId=21fe537eb333db5e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",51 Sentimentos Que Ultrapassam O Tempo! Trunks E Mai!
+http://www.blogger.com/video-play.mp4?contentId=1e31e005a71ed4bb&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",52 Reunião De Professor E Aluno! Son Gohan E O Trunks Do Futuro!
+http://www.blogger.com/video-play.mp4?contentId=a7e13c026ba6282d&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",53 Revelem A Verdadeira Identidade Do Black! Agora  Vamos Ao Mundo Dos Kaiohshin Do Décimo Universo!
+http://www.blogger.com/video-play.mp4?contentId=d3701df3a2783f5a&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",54 O Herdeiro Do Sangue Saiyajin! A Determinação De Trunks!
+http://www.blogger.com/video-play.mp4?contentId=d43b4ea153d668ce&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",55 Quero Me Encontrar Com Son Goku  Entenderam? Uma Convocação Do Todo Poderoso Zeno!
+http://www.blogger.com/video-play.mp4?contentId=99ee57ee3094532b&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",56 Revanche Contra Goku Black! Surge O Super Saiyajin Rose!
+http://www.blogger.com/video-play.mp4?contentId=993b1a165af9da30&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",57 O Deus Que Possui O Corpo Invulnerável O Advento De Zamasu!
+http://www.blogger.com/video-play.mp4?contentId=d3ce6897c42bed5e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",58 Zamasu E Black! O Mistério Dos Dois Se Aprofunda!
+http://www.blogger.com/video-play.mp4?contentId=1ead5afdaa8bdbd5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",59 Proteja O Kaioshin Gowasu  Destruam Zamasu!
+http://www.blogger.com/video-play.mp4?contentId=f99426e4591f2136&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",60 Mais Uma Vez Para O Futuro! A Verdadeira Identidade De Goku Black!
+http://www.blogger.com/video-play.mp4?contentId=791514fcf5024a07&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",61 A Ambição De Zamasu  O Aterrorizante Plano ZERO HUMANOS
+http://www.blogger.com/video-play.mp4?contentId=c6f45555952984f5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",62 Eu Vou Proteger A Terra! O Super Poder Da Ira De Trunks Explode!!
+http://www.blogger.com/video-play.mp4?contentId=3aa354919e4df3df&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",63 Não Desrespeite As Células De Um Saiyajin! A Grande Batalha De Vegeta Começa!!
+http://www.blogger.com/video-play.mp4?contentId=b3ecfaba942e83a9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",64 Reverenciem-no! Adorem-no! O Nascimento Explosivo Da Fusão De Zamasu!
+http://www.blogger.com/video-play.mp4?contentId=2548570fabc5c478&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",65 Esse é O Julgamento Final?! O Poder Supremo Do Deus Absoluto
+http://www.blogger.com/video-play.mp4?contentId=d5ff1dc1ecdda814&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",66 Batalha Decisiva! O Poder Milagroso Do Guerreiro Incansável!
+http://www.blogger.com/video-play.mp4?contentId=769641ba65f08b0d&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/2CpFA98.jpg" group-title="Dragon Ball Super Legendado",67 Uma Nova Esperança! Adeus Trunks!
+http://www.blogger.com/video-play.mp4?contentId=cca6b999044f73&Anime
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",68 Apareça  Shenlong! Quem Terá O Desejo Realizado?!
+http://www.blogger.com/video-play.mp4?contentId=722fe3b2b6ea0521&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",69 Goku Vs Arale! Uma Batalha Insana Vai Acabar Com A Terra?!
+http://www.blogger.com/video-play.mp4?contentId=1661d660e726e68e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",70 O Desafio De Champa! Dessa Vez Lutamos Com O Beisebol!
+http://www.blogger.com/video-play.mp4?contentId=594569f488ee904&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",71 A Morte De Goku! A Missão De Assassinato Garantida!
+http://www.blogger.com/video-play.mp4?contentId=b5c3a218b240b283&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",72 Haverá Contra Ataque?! O Golpe Invisível Da Morte!!
+http://www.blogger.com/video-play.mp4?contentId=dead30d1e5eaff8e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",73 O Infortúnio De Gohan! Um Filme Inesperado Do Grande Saiyaman?!
+http://www.blogger.com/video-play.mp4?contentId=fe5df3046f304fef&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",74 Pelos Que Ele Ama! O Imbatível Grande Saiyaman!!
+http://www.blogger.com/video-play.mp4?contentId=ae1009a84c4322a1&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",75 Goku E Kuririn De Volta Aos Treinos Da Antiga!
+http://www.blogger.com/video-play.mp4?contentId=9c87a19a45bcc920&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/rwRa5lH.jpg" group-title="Dragon Ball Super Legendado",76 Derrote Esses Inimigos Aterrorizantes! O Espírito De Luta De Kuririn Retorna!
+http://www.blogger.com/video-play.mp4?contentId=1b353ab792b5830e&Anime
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",77 Vamos Nessa Senhor Zen Ou! O Torneio De Artes Marciais Entre Todo O Universo!!
+http://www.blogger.com/video-play.mp4?contentId=a468bf8e6ec5be6a&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",78 Os Deuses De Cada Universo Em Choque? Perdedores Apagados No Torneio De Poder
+http://www.blogger.com/video-play.mp4?contentId=624b4a06474a7f62&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",79 Basil O Chutador Do Universo 9 VS Majin Buu Do Universo 7!!!
+http://www.blogger.com/video-play.mp4?contentId=e1d67c14545f0f65&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",80 Desperte Seu Espírito De Batalha Adormecido! A Luta De Son Gohan!!
+http://www.blogger.com/video-play.mp4?contentId=1e414de1b1e678f5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",81 Borgamo O Esmagador Vs Son Goku! Qual Deles Terá O Maior Poder?!
+http://www.blogger.com/video-play.mp4?contentId=95420774914018b2&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",82 Nunca Perdoe Son Goku! Toppo Guerreiro Da Justiça Se Intromete!
+http://www.blogger.com/video-play.mp4?contentId=9fc9aa22c922f87b&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",83 Time Representante do Universo 7! Quem São os Dez mais Fortes?
+http://www.blogger.com/video-play.mp4?contentId=dfcaebfc6446396b&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",84 Son Goku O Recrutador Convida Kuririn E Número 18!
+http://www.blogger.com/video-play.mp4?contentId=e7609b5127ea4be5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",85 Os Universos Começam a Fazer de Suas Ações Seus Motivos Individuais
+http://www.blogger.com/video-play.mp4?contentId=e98ba884cd8197e5&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",86 Punhos Se Cruzam Pela Primeira Vez! Androide 17 VS Son Goku!!
+http://www.blogger.com/video-play.mp4?contentId=710579c43494786e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",87 Caça Aos Caçadores! A Aliança de Goku e 17!
+http://www.blogger.com/video-play.mp4?contentId=91261bdc02f630f8&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",88 Gohan e Piccolo! Professor e Aluno Se Enfrentam Em Super Treino!
+http://www.blogger.com/video-play.mp4?contentId=c23f19d28a56e39e&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",89 Entra Em Cena Uma Beleza Desconhecida! O Mistério do Dojô do Estilo Tenshin?!
+http://www.blogger.com/video-play.mp4?contentId=5e0daa29e9f36da4&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",90 Veja a Barreira Que Deve Ser Superada! Goku VS Gohan!
+http://www.blogger.com/video-play.mp4?contentId=9879fe9f6c1278e9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",91 Que Universo Sairá Vencedor? Os Guerreiros Mais Fortes Reunidos!
+http://www.blogger.com/video-play.mp4?contentId=59558267b4021fe9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",92 Plano de Ação de Emergência! Não Temos Mais Dez Membros!
+http://www.blogger.com/video-play.mp4?contentId=32d1b644ba0da7ff&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",93 Você é o Décimo Guerreiro! Goku Visita Freeza Novamente!
+http://www.blogger.com/video-play.mp4?contentId=d46c21a8af18f396&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",94 O Imperador do Mal Retorna! Uma Recepção de Misteriosos Assassinos?
+http://www.blogger.com/video-play.mp4?contentId=ca0c49028f6f3b89&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",95 O Mais Maligno de Todos! A Cólera de Freeza!
+http://www.blogger.com/video-play.mp4?contentId=20ed7eb51715d6be&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",96 Chegou o Momento! O Destino do Universo Será Decidido no Reino do Vazio!
+http://www.blogger.com/video-play.mp4?contentId=ee87206550fd5fcc&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",97 Sobreviver! Abrem-se As Cortinas do Torneio do Poder!
+http://www.blogger.com/video-play.mp4?contentId=71a5f1d4440c4f6d&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",98 Ah Incerteza! Um Universo Em Desespero!
+http://www.blogger.com/video-play.mp4?contentId=87d9227fdbcf1807&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",99 Mostre a Eles! O Verdadeiro Poder de Kuririn!
+http://www.blogger.com/video-play.mp4?contentId=93f75a63e1f7e220&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",100 Fora de Controle! Uma Guerreira Enlouquecida Desperta!
+http://www.blogger.com/video-play.mp4?contentId=8d4453c801e02bd2&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",101 Os Inexoráveis Guerreiros da Justiça! A Tropa do Orgulho!
+http://www.blogger.com/video-play.mp4?contentId=e99f2bffcc941b64&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",102 O Poder do Amor Se Descontrola?! As Guerreiras Mágicas do 2º Universo!
+http://www.blogger.com/video-play.mp4?contentId=2a61a0b62e6c5c5f&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",103 Seja Implacável Gohan! O Duelo Contra o 10º Universo!
+http://www.blogger.com/video-play.mp4?contentId=ce5b77606de1644a&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",104 Uma Batalha Em Altíssima Velocidade! A Frente Unida de Goku E Hit!!
+http://www.blogger.com/video-play.mp4?contentId=d12f3dccc1627f33&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",105 Um Árduo Combate! O Fulgor do Mestre Kame!
+http://www.blogger.com/video-play.mp4?contentId=a5917b4e5d1db4ac&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",106 Encontrem-no! Duelo de Vida ou Morte Contra Um Atirador Invisível!
+http://www.blogger.com/video-play.mp4?contentId=98bd2ebdccc089a9&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",107 A Vingança de F.! Uma Inteligente Batalha?
+http://www.blogger.com/video-play.mp4?contentId=3462e24a931a3128&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",108 Freeza e Frost! A Cruel Aliança!
+http://www.blogger.com/video-play.mp4?contentId=e30488fab1415155&Anime
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",109 Goku Enfrenta o Inimigo Mais Poderoso! É Hora de Disparar Uma Genki Dama Mortal!!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-109-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",110 O Despertar de Son Goku! Novos Segredos Aguardam!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-110-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",111 Batalha Suprema e Surreal! Hit vs. Jiren!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-111-SD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",112 O Voto De Um Saiyajin! A Determinação De Vegeta!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-112-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",113 Por diversão! Os Saiyajins voltam a lutar novamente!
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-113-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",114 Paixão Intimidante! O Nascimento de Um Novo Super Guerreiro!!
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-114-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",115 Goku vs Kefla! O Super Saiyajin Azul; Derrotado?!
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-115-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",116 O Sinal de Uma Reviravolta. A Explosão do Instinto Superior! 
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-116-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",117 A Grande Batalha do Amor! Os Androides Contra o 2º Universo!
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-117-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",118 A Tragédia Se Acelera. Universos Desaparecem…
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-118-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",119 Impossível de Se Esquivar?! A Ameaça Misteriosa!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-119-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",120 A Tática de Sobrevivência Perfeita! O Ameaçador Assassino do 3º Universo!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-120-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",121 Tudo Ou nada! A Fusão Quádrupla Definitiva Vs. A Investida Total do 7º Universo!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-121-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",122 Em Nome do Orgulho! O Desafio de Vegeta Para Ser O Mais Forte!
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-122-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",123 Goku e Vegeta! Corpo e Alma; Desperta o Máximo Poder!
+http://vds.branitube.org/embed/62/dragon-ball-super/dragon-ball-super-123-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",124 Ataque Estarrecedor Implacável! A Investida Final de Gohan!
+http://vds.branitube.org/embed/63/dragon-ball-super/Dragon-Ball-Super-124-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",125 Uma Presença Imponente! Toppo; O Deus da Destruição!
+http://vds.branitube.org/embed/72/dragon-ball-super/dragon_ball_super_125_HD_fast.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",126 Supere Os Deuses! O Sacrifício de Vegeta!
+http://vds.branitube.org/embed/72/dragon-ball-super/dragon-ball-super-126-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",127 Muralha ambulante! A última barreira de esperança!
+http://vds.branitube.org/embed/63/dragon-ball-super/dragon-ball-super-127-HD.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghuSfsv.png?1" group-title="Dragon Ball Super Legendado",128 O Orgulho Nobre Até o Fim! Vegeta Sucumbi!
+http://vds.branitube.org/embed/79/dragon-ball-super/dragon-ball-super-128-HD.mp4
