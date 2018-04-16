@@ -1,5 +1,5 @@
 ﻿#EXTM3U
- ########################## BRASIL 1 ###########################################
+########################## BRASIL 1 #################
 #EXTINF:-1 group-title="BRASIL",BBB 18
 http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 #EXTINF:-1 group-title="BRASIL",GLOBO
@@ -2565,7 +2565,6 @@ http://g5.club-server.co:25461/live/oehfroka/rlbopdum/10764.ts
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/25336.ts
 
 ################################### BRASIL 5 ###########################################
-#EXTM3U
 #EXTINF:-1 group-title="BRASIL 5", 1 espn
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/178.m3u8
 #EXTINF:-1 group-title="BRASIL 5", 2 fora
