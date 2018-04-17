@@ -348,7 +348,7 @@ http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/25.m3u8
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/24.m3u8
 #EXTINF:-1 group-title="BRASIL",tnt series 
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/249.m3u8
-#EXTM3U
+
 #EXTINF:-1 group-title="BRASIL",BBB 18
 http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 #EXTINF:-1 group-title="BRASIL",GLOBO
@@ -481,194 +481,6 @@ http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/890.m3u8
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Bandeirantes" tvg-logo="" group-title="BRASIL",Bandeirantes
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" BBB 1" tvg-logo="" group-title="BRASIL",BBB 1
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Boomerang" tvg-logo="" group-title="BRASIL",Boomerang
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" CARTOON F" tvg-logo="" group-title="BRASIL",CARTOON F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cartoon Network" tvg-logo="" group-title="BRASIL",Cartoon Network
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cinemax" tvg-logo="" group-title="BRASIL",Cinemax
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Combate" tvg-logo="" group-title="BRASIL",Combate
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" COMBATE  " tvg-logo="" group-title="BRASIL",COMBATE  
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery Channel" tvg-logo="" group-title="BRASIL",Discovery Channel
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY F" tvg-logo="" group-title="BRASIL",DISCOVERY F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery H&H" tvg-logo="" group-title="BRASIL",Discovery H&H
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery Kids" tvg-logo="" group-title="BRASIL",Discovery Kids
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery Science" tvg-logo="" group-title="BRASIL",Discovery Science
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery Turbo" tvg-logo="" group-title="BRASIL",Discovery Turbo
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY TURBO F" tvg-logo="" group-title="BRASIL",DISCOVERY TURBO F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Disney" tvg-logo="" group-title="BRASIL",Disney
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Disney Junior" tvg-logo="" group-title="BRASIL",Disney Junior
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Disney XD" tvg-logo="" group-title="BRASIL",Disney XD
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN" tvg-logo="" group-title="BRASIL",ESPN
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN Brasil" tvg-logo="" group-title="BRASIL",ESPN Brasil
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Food Network" tvg-logo="" group-title="BRASIL",Food Network
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" FOX F" tvg-logo="" group-title="BRASIL",FOX F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" FOX " tvg-logo="" group-title="BRASIL",FOX 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Fox Life" tvg-logo="" group-title="BRASIL",Fox Life
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" FOX Premium 2 " tvg-logo="" group-title="BRASIL",FOX Premium 2 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" FOX PREMIUM " tvg-logo="" group-title="BRASIL",FOX PREMIUM 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Fox Sporm3u8" tvg-logo="" group-title="BRASIL",Fox Sporm3u8
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Fox Sporm3u8 2" tvg-logo="" group-title="BRASIL",Fox Sporm3u8 2
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" FOX SPORm3u8 F" tvg-logo="" group-title="BRASIL",FOX SPORm3u8 F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" GLOBO MINAS  " tvg-logo="" group-title="BRASIL",GLOBO MINAS  
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" GLOBO NORDESTE " tvg-logo="" group-title="BRASIL",GLOBO NORDESTE 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/855.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" GLOBO RJ " tvg-logo="" group-title="BRASIL",GLOBO RJ 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Globo SP " tvg-logo="" group-title="BRASIL",Globo SP 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" GloboNews" tvg-logo="" group-title="BRASIL",GloboNews
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" GLOBOSAT   " tvg-logo="" group-title="BRASIL",GLOBOSAT   
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" GNT" tvg-logo="" group-title="BRASIL",GNT
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" H2" tvg-logo="" group-title="BRASIL",H2
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" H2 " tvg-logo="" group-title="BRASIL",H2 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" HBO" tvg-logo="" group-title="BRASIL",HBO
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" HBO Family" tvg-logo="" group-title="BRASIL",HBO Family
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" HBO Plus" tvg-logo="" group-title="BRASIL",HBO Plus
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" HBO Plus*e" tvg-logo="" group-title="BRASIL",HBO Plus*e
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" HBO Signature" tvg-logo="" group-title="BRASIL",HBO Signature
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" HBO2" tvg-logo="" group-title="BRASIL",HBO2
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" ID - InvestigaĿªo Discovery" tvg-logo="" group-title="BRASIL",ID - InvestigaĿªo Discovery
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" INVESTIGAÇÃO DISCOVERY " tvg-logo="" group-title="BRASIL",INVESTIGAÇÃO DISCOVERY 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" LIFETIME " tvg-logo="" group-title="BRASIL",LIFETIME 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" MAX" tvg-logo="" group-title="BRASIL",MAX
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" MAX Prime" tvg-logo="" group-title="BRASIL",MAX Prime
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" MAX Prime*e" tvg-logo="" group-title="BRASIL",MAX Prime*e
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" MAX UP" tvg-logo="" group-title="BRASIL",MAX UP
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" MegaPix" tvg-logo="" group-title="BRASIL",MegaPix
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Multishow" tvg-logo="" group-title="BRASIL",Multishow
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" NatGeo Kids" tvg-logo="" group-title="BRASIL",NatGeo Kids
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" NatGeo Wild" tvg-logo="" group-title="BRASIL",NatGeo Wild
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" National Geographic" tvg-logo="" group-title="BRASIL",National Geographic
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Nick Jr" tvg-logo="" group-title="BRASIL",Nick Jr
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Nickelodeon" tvg-logo="" group-title="BRASIL",Nickelodeon
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" PFC CLUBES F" tvg-logo="" group-title="BRASIL",PFC CLUBES F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Playboy TV" tvg-logo="" group-title="BRASIL",Playboy TV
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 2" tvg-logo="" group-title="BRASIL",Premiere 2
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/823.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 2 " tvg-logo="" group-title="BRASIL",Premiere 2 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 3" tvg-logo="" group-title="BRASIL",Premiere 3
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 3 " tvg-logo="" group-title="BRASIL",Premiere 3 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 4" tvg-logo="" group-title="BRASIL",Premiere 4
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 4 " tvg-logo="" group-title="BRASIL",Premiere 4 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Premiere 5" tvg-logo="" group-title="BRASIL",Premiere 5
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" RECORDTV" tvg-logo="" group-title="BRASIL",RECORDTV
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" REDE TV " tvg-logo="" group-title="BRASIL",REDE TV 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Sextreme" tvg-logo="" group-title="BRASIL",Sextreme
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Sexy Hot" tvg-logo="" group-title="BRASIL",Sexy Hot
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Space" tvg-logo="" group-title="BRASIL",Space
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" SporTV" tvg-logo="" group-title="BRASIL",SporTV
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" SporTV 2" tvg-logo="" group-title="BRASIL",SporTV 2
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" SPORTV 2" tvg-logo="" group-title="BRASIL",SPORTV 2
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" SporTV 3" tvg-logo="" group-title="BRASIL",SporTV 3
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" SPORTV F" tvg-logo="" group-title="BRASIL",SPORTV F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Studio Universal" tvg-logo="" group-title="BRASIL",Studio Universal
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Syfy" tvg-logo="" group-title="BRASIL",Syfy
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TBS" tvg-logo="" group-title="BRASIL",TBS
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telecine Action" tvg-logo="" group-title="BRASIL",Telecine Action
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telecine Cult" tvg-logo="" group-title="BRASIL",Telecine Cult
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telecine Fun" tvg-logo="" group-title="BRASIL",Telecine Fun
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telecine Pipoca" tvg-logo="" group-title="BRASIL",Telecine Pipoca
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telecine Premium" tvg-logo="" group-title="BRASIL",Telecine Premium
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telecine Touch" tvg-logo="" group-title="BRASIL",Telecine Touch
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" The History Channel" tvg-logo="" group-title="BRASIL",The History Channel
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TNT" tvg-logo="" group-title="BRASIL",TNT
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TNT SERIES F" tvg-logo="" group-title="BRASIL",TNT SERIES F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Tooncast" tvg-logo="" group-title="BRASIL",Tooncast
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Universal Channel" tvg-logo="" group-title="BRASIL",Universal Channel
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Viva" tvg-logo="" group-title="BRASIL",Viva
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" WARNER CHANNEL F" tvg-logo="" group-title="BRASIL",WARNER CHANNEL F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Warnner " tvg-logo="" group-title="BRASIL",Warnner 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TNT SERIES " tvg-logo="" group-title="BRASIL",TNT SERIES 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TC Pipoca " tvg-logo="" group-title="BRASIL",TC Pipoca 
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ANIMAL PLANET " tvg-logo="" group-title="BRASIL",ANIMAL PLANET 
@@ -1104,8 +916,6 @@ http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/949.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" VIVA " tvg-logo="" group-title="BRASIL",VIVA 
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/927.m3u8
 
-########################## BRASIL 2 ###########################################
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BBB 18 SD" tvg-logo="http://3.bp.blogspot.com/-KJccJlx7v_4/UOLipNNMOHI/AAAAAAAAiyw/lUTB500AD6g/s1600/BBB.png" group-title="BRASIL 2",BBB 18 SD
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7600.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 18  " tvg-logo="http://3.bp.blogspot.com/-KJccJlx7v_4/UOLipNNMOHI/AAAAAAAAiyw/lUTB500AD6g/s1600/BBB.png" group-title="BRASIL 2",BBB 18  
@@ -1928,8 +1738,7 @@ http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7617.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Estacao  " tvg-logo="" group-title="BRASIL 2",TV Estacao  
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7876.ts
 
-########################## BRASIL 3 ###########################################
-#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/75823e3a32cee821e8eebe162a9e95bb.jpg" group-title="BRASIL 3",TV CULTURA
 http://177.73.84.49/hls/live/live.m3u8
 
