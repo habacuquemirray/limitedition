@@ -732,23 +732,6 @@ http://204.12.244.50:8080/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL 3",Turma da Mônica
 http://204.12.244.50:8080/turma-da-monica/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/13b0b9a3bf755041dba75453fc71a71f.jpg" group-title="BRASIL 3",TELECINE ACTION 
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1730.ts?token=SUZYUxZQRwJGUAlWDVZVDFRRBVQFUAdfVlAPBQNRDVwAB1EAUABQDl0RFERGFdV1loCFdHC1cDBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVwJWHkZAWwEaXxpWAg9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAhUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcIBQdQFxk=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b345a99ddd6ae71061ffe8bc907f85e.jpg" group-title="BRASIL 3",TELECINE Fun 
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1729.ts?token=SUZYUxZQRwJGUlwAUVdSC1dRUVVWUgADBVBdCwBRBlRWUAgBBwpUWQcRFERGFdV1loCFdHC1cDBwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQRWHkZAWwEaXxpWAghSBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICwlSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcJCwhTFxk=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0488d993e16abb7c5436502533201c7e.jpg" group-title="BRASIL 3",Telecine pipoca
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1722.ts?token=SUZYUxZQRwJGVllTU1VWDwMEAVEFAQIFBQAMVlNXAVcFVlQCAAwEDQIRFERGFdV1loCFdHC1cDBwsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQNXHkZAWwEaXxpWBwteBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcABAlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBg0MBAFASA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b53729290a7a77fd540f9169963e43f0.jpg" group-title="BRASIL 3",Telecine premium
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1721.ts?token=SUZYUxZQRwJGBl4EAgdXXQ5VBQcCUlJWUgJfBwFVBVEFBgAKVQAEWlwRFERGFdV1loCFdHC1cDBwgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWgBVHkZAWwEaXxpVAgleA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAQBbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcPAwRASA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8099770a962d084a8d728c12b47f3a27.jpg" group-title="BRASIL 3",Telecine premium 
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1727.ts?token=SUZYUxZQRwJGBAxSAgYDAFcEUgcHVFRfVVQOUFdUVgEGUQJWXQtWCAIRFERGFdV1loCFdHC1cDBw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWwRVHkZAWwEaXxpVCw9TAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYICgJaFxk=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2d039a20a62f4fcb15ad2ff920e3a6e3.jpg" group-title="BRASIL 3",AXN 
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.ts?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFdV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8d52a69419c1be2c15b6183fb1d7a921.jpg" group-title="BRASIL 3",boomerang
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.ts?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFdV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
@@ -822,18 +805,6 @@ http://204.12.244.50:8080/as-mumias-vivas/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d9a448efe7f7b2c94978276d4d765fcf.jpg" group-title="BRASIL 3",As Lendas
 http://204.12.244.50:8080/as-lendas/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6cef5d3261cec8d76542b9ac482582e0.jpg" group-title="BRASIL 3",Fox BRASIL 3
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1814.ts?token=SUZYUxZQRwJGBQ4AVANdW1UHAFEAA1QAVgBfUlVUBVFTVgVQVQFVCwYRFERGFdV1loCFdHC1cMBA0fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVAFWHkZAWwEaXxpVCg9XDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIBgNQF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcBCwRSFxk=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/42d37589172ecb480c52abe10823924b.jpg" group-title="BRASIL 3",HBO 2
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1798.ts?token=SUZYUxZQRwJGB1pXAlNVXQZVBFUDUAQEUA0ABlVaAgULXFYFUA5RDFURFERGFdV1loCFdHC1cDDAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJWwZXHkZAWwEaXxpWAA1UBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcACgFAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgUBAwRASA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cde935d3bceb04226579848a1d0d9fb9.jpg" group-title="BRASIL 3",Multishow
-http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFBVMGDQFWVFgFVVRXBgIBAgdXBFJXUwcHUQEQcRFERGFdV1loCFdHC1cDDQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQBFMJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVZCl0TShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVBVMIREk=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fcb8ce8acfa01d99f860326624912ec3.jpg" group-title="BRASIL 3",Globo News
-http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwA1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFdV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2a440a774b9e87d9018c0bc36e9d2e58.jpg" group-title="BRASIL 3",Mortal Kombat - Defensores da Terra
 http://204.12.244.50:8080/mortal-kombat/index.m3u8
 
@@ -846,9 +817,6 @@ http://204.12.244.50:8080/um-maluco-no-pedaco/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef9ab37303a3b2e51fd456ed3bcf94ac.jpg" group-title="BRASIL 3",I Carly
 http://204.12.244.50:8080/icarly/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3baea6bb9bfaad8496f040e43809d45e.jpg" group-title="BRASIL 3",Animal Planet
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1864.ts?token=SUZYUxZQRwJGBFlTA1tTCVMDAgQBXANRBQcPA1UGB1EGVAZUXQwGCgcRFERGFdV1loCFdHC1cMAw0fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVgNTHkZAWwEaXxpWAghRB0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAAJTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYIAQRQFxk=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL 3",ESPN BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -858,45 +826,14 @@ http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL 3",BRASIL 3 Interativo 2 
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dfaf121876d0d8ec78b9b51bcf3c356c.jpg" group-title="BRASIL 3",Real Madrid 
-http://rmtvlive-lh.akamai.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL 3",Fox BRASIL 3 
-http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/1816.ts?token=SUZYUxZQRwJGAgxWBVpSXgECVQcGVlADAVcBAAkHBVEEXFRQVVxRDlARFERGFdV1loCFdHC1cMBA8fExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYFWgdTHkZAWwEaXxpWBQ1TDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYABgdASA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL 3",Horse BRASIL 3 
-http://490636978.r.worldcdn.net/490636978/_definst_//horseBRASIL 31/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b23638ea30cd493911c5eab51415c60.jpg" group-title="BRASIL 3",VIVA
-http://185.152.66.81:25461/live/ezequiel/12345/1705.m3u8?token=SUZYUxZQRwJGV11UBlVXWlMHBlABBABRAQddBwhWV11UAgYAUgEAWQERFERGFdV1loCFdHC1cDBQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdSB1MCEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1cHRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlIGVxZI
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cde935d3bceb04226579848a1d0d9fb9.jpg" group-title="BRASIL 3",Multishow
-http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFBVMGDQFWVFgFVVRXBgIBAgdXBFJXUwcHUQEQcRFERGFdV1loCFdHC1cDDQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQBFMJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVZCl0TShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVBVMIREk=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b86949c33873bc3d67f53fba1277d41c.jpg" group-title="BRASIL 3",SYFY 
 http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/887.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/661e7aceabc5d149032e60be57d555ea.jpg" group-title="BRASIL 3",TOONCAST
-http://185.152.66.81:25461/live/leticia/123456/1713.m3u8?token=SUZYUxZQRwJGVQleBlBQD1QFAgUCUVIAAAEBAQJRB1wFAQADA1xcXQYRFERGFdV1loCFdHC1cDBAofExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAFYECkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVAABG04=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/370b125af59fd4e55889d18e90bee860.jpg" group-title="BRASIL 3",FOX 
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2160.ts?token=SUZYUxZQRwJGVl4FBlYACwEEBAdXBAACAARbVlABAQcGVlQAUF5TDAYRFERGFdV1loCFdHC1QFAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGUQNWHkZAWwEaXxpdBQxSF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcNBQBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEDQcLBxMf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a3180d8fdc2566298fe70e6be01d5d5e.jpg" group-title="BRASIL 3",RECORD 
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL 3",Sexy Hot
-http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/1744.ts?token=SUZYUxZQRwJGUVxQVgFUClQADlZWVVRSV1ELVgBaVlBXBVNTVwBXDQERFERGFdV1loCFdHC1cDAQ0fExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYHUQNdHkZAWwEaXxpVAA5QB0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDltMX11OFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNXBwAAABMf
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2d039a20a62f4fcb15ad2ff920e3a6e3.jpg" group-title="BRASIL 3",AXN 
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.ts?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFdV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8aa4ee73f17d8efaa56de53dcc7452b1.jpg" group-title="BRASIL 3",Os Simpsons
 http://204.12.244.50:8080/ossimpsons/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/869efe26c894b927c66cee37ae8d4784.jpg" group-title="BRASIL 3",canal claro 
-http://tvpremium.club/lista-gratuita/hate/s110.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abd3c9c35d5c60717e320f6715421c87.jpg" group-title="BRASIL 3",Bob Esponja
 http://204.12.244.50:8080/bobesponja/tracks-v1a1/index.m3u8
@@ -916,114 +853,6 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f63c1669332c13bdd90cf55f08980a08.jpg" group-title="BRASIL 3",RCN - TELENOVELAS
 http://tvpremium.club/lista-gratuita/hate/s113.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0de61e3e238cbc44e654922830a86231.jpg" group-title="BRASIL 3",SPACE 
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/109.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8c92e5419864ac1a1408f58adb94ed0e.jpg" group-title="BRASIL 3",CARTOON F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/884.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8847e07434322c5b36ccf4f1d0d90a86.jpg" group-title="BRASIL 3",Disney
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/872.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5565cbd4fcc402a3100e0ab4fb141303.jpg" group-title="BRASIL 3",Disney Junior
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/871.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1a71370012840575b7d0c82630cc0dbf.jpg" group-title="BRASIL 3",BBB 18  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/5459.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/56efa7769e9a70af4a96c79235293e79.jpg" group-title="BRASIL 3",A&E  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7892.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b838773bd5a6aa3a12d06c529f0e0fa3.jpg" group-title="BRASIL 3",AMC  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7898.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8c95c7d7568507aa5a844bc9de72294c.jpg" group-title="BRASIL 3",Animal Planet  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7883.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d0ed8373cfb457415440d3542e3a2597.jpg" group-title="BRASIL 3",GloboNews
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/852.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7835238db6a575dc4dae8a6176489642.jpg" group-title="BRASIL 3",BIS 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4174.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/01dff99b4eb9707b0b040f1f677596a3.jpg" group-title="BRASIL 3",Multishow
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/832.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cefd879cc33d5645d85eb370daf492ff.jpg" group-title="BRASIL 3",Nick Jr
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/828.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4b4ba9eb25367c5ca64fd4a1b6cd9bdf.jpg" group-title="BRASIL 3",PFC CLUBES F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/825.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/095d2764997115fca191e4de5b9eff0c.jpg" group-title="BRASIL 3",BRASIL 3 F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/803.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e344ffe5db538527d04b341f025e640.jpg" group-title="BRASIL 3",TNT SERIES F
-http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/791.m3u8??
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/73b4fae58db1a4cb7183b0b94d2ed67c.jpg" group-title="BRASIL 3",RECORD ES 
-http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df0ff47f938689218468982dfe33b613.jpg" group-title="BRASIL 3",Globo SP
-http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5258a7d0962c79e00b363a7a8dccbf7c.jpg" group-title="BRASIL 3",13 RECORD 
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e5d3fb6f910bba6b6febead465e4bad.jpg" group-title="BRASIL 3",ESPN2 
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f0cd7a6fc72518cce41601d97a9aa765.jpg" group-title="BRASIL 3",ESPN   
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d1b0c24fb4b85ea185328db202fdaf5d.jpg" group-title="BRASIL 3",6 Globo SP
-http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae1d01e2d738d30b5e9f9c2f61972847.jpg" group-title="BRASIL 3",BRASIL 3 Interativo 
-https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5fb91127d63670b121eadab6aa7ef5e6.jpg" group-title="BRASIL 3",Vem e Vê TV 2
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4f3d6fd7bdb9f41d175c16e2b8935a02.jpg" group-title="BRASIL 3",3 Record News 
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/51c31550d15e8e131793892b0ee1e7b0.jpg" group-title="BRASIL 3",REDE TV  FABIO.
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/005c64c65948d82af7965a08633f6532.jpg" group-title="BRASIL 3",GLOBO SP 
-http://185.152.66.81:25461/live/ezequiel/12345/1810.m3u8?token=SUZYUxZQRwJGVgFXUAcGDwQGA1VVUFJUDQwOBQkGA1wEUQJRAQ5QWVQRFERGFdV1loCFdHC1cMBAkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAlMGAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVwcDG04=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef65eff7194c968ac6ac64f8aed64851.jpg" group-title="BRASIL 3",RECORD SP
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7881e9b30fedf70fe0a053763b59c195.jpg" group-title="BRASIL 3",IFC TV GERAL
-http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd34942af6bf07b423afb3104db74992.jpg" group-title="BRASIL 3",COMBATE
-http://185.152.66.81:25461/live/ezequiel/12345/1845.m3u8?token=SUZYUxZQRwJGVw9QAAAEDA4FU1JQAANWDAYKAlcAB1xXVFQGVQhTCwARFERGFdV1loCFdHC1cMAQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1MCAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVQCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUA0MG04=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/512808659f7c8f970bf04ff7070da616.jpg" group-title="BRASIL 3",Jogos Ao Vivo 1
-http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f7a872ddb5e0f54fa48e394bc08d82d9.jpg" group-title="BRASIL 3",PREMIERES CLUBES 
-http://asdp.ddns.net:8000/live/andre/andre/221.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b7603dc2f153c5b602d281663c8ac44a.jpg" group-title="BRASIL 3",BRASIL 3 3
-http://185.152.66.81:25461/live/leticia/123456/1735.m3u8?token=SUZYUxZQRwJGAl5WUQQAXgdXUwMDXQhXA1QMBgNUBAYFBVFQVllRW1cRFERGFdV1loCFdHC1cDBgwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAVwFC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVQAVMHVBZI
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e57f28da539455107d074a28d09931ab.jpg" group-title="BRASIL 3",FOX BRASIL 3 2
-http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d6fd5cea703499c2008f549daa90dbd0.jpg" group-title="BRASIL 3",FOX BRASIL 3
-http://185.152.66.81:25461/live/leticia/123456/1815.m3u8?token=SUZYUxZQRwJGUVwDBFRWCQJWBAQDB1VXVQYIUAdVUFEAUQkFBlsAXlERFERGFdV1loCFdHC1cMBAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVBlUDB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlADVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFVwQFG04=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ea683c8eda57809f04937ff241367449.jpg" group-title="BRASIL 3",BRASIL 3 INTERATIVO
-http://185.152.66.81:25461/live/leticia/123456/2161.m3u8?token=SUZYUxZQRwJGUgxRDFZcDAQGU1lWVwAEUQwJBQdSBlwLAgUHV1tdCF0RFERGFdV1loCFdHC1QFAwgfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWClAFBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcHUgEXRA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0c49e1eafa7a9a3b2f74ea8f97be993e.jpg" group-title="BRASIL 3",BRASIL 3 INTERATIVO 2
-http://185.152.66.81:25461/live/ezequiel/12345/1827.m3u8?token=SUZYUxZQRwJGB11UDFJUAAFXAlZRBgIAVVNbBFUAAVYAVwkKUlsDWlARFERGFdV1loCFdHC1cMBw4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVcBBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVRYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYAVQMHG04=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7c18d98eeccdf3af110d560af33e9089.jpg" group-title="BRASIL 3",DESENHOS 24HRS
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
 
@@ -1032,12 +861,6 @@ http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c952146d84894e06ffb81b42102bc550.jpg" group-title="BRASIL 3",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/56e86df28dca02f3cf0837e66425bfc0.jpg" group-title="BRASIL 3",MEGA PIX
-http://185.152.66.81:25461/live/ezequiel/12345/1787.m3u8?token=SUZYUxZQRwJGBAlTBgFWDFUEVFgFUFVfUg0AVQlWUVUAXQgLA1wEXlERFERGFdV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWC1YAAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEFUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVw0HG04
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77dbe1c4a5d1abc0cd8623db4b55e45a.jpg" group-title="BRASIL 3",NATIONAL GEOGRAPHIC
-http://asdp.ddns.net:8000/live/adriano/adriano/479.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3507a60764c60638d5c6c528ecc5502c.jpg" group-title="BRASIL 3",SBT  1080
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?BRASIL 3GLAU
@@ -1074,222 +897,6 @@ http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4632.ts?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/053d91c70698945c8abb902ccbc23ffd.jpg" group-title="BRASIL 3",Globo
 http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c5bf1c872262e2eb04ad6a401ecd0f1c.jpg" group-title="BRASIL 3",Cinemax 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4162.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/66a1db46519b0b67cc7445d015b8d752.jpg" group-title="BRASIL 3",Cinemax SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4163.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2ff041d73ec06c54f7b21fce8c893d96.jpg" group-title="BRASIL 3",Canal BRASIL 3 SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4170.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/795872fec5dda4f5886f8aa3c1adb021.jpg" group-title="BRASIL 3",FOX 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4121.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7c6a6cafb6cad27991d5a4932fc91504.jpg" group-title="BRASIL 3",Fox SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4122.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4ffca213a61fb106989435f60a228b57.jpg" group-title="BRASIL 3",Fox Premium 2 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4118.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/482bb7bd8a80bcc752f2be2795dc057d.jpg" group-title="BRASIL 3",FX 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4110.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fe8287d63f618ee1d234e29a4fe62689.jpg" group-title="BRASIL 3",FX SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4111.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a02a8fd4fb64f84a92712467631104e9.jpg" group-title="BRASIL 3",HBO 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4085.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ec37d8053d9dc92029405ec8d68f5020.jpg" group-title="BRASIL 3",HBO SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4090.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/62e9ff75c77dd14d694a8568438fc8b0.jpg" group-title="BRASIL 3",HBO 2 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4088.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4916ef4c5e160f9b8328951f7da3ef90.jpg" group-title="BRASIL 3",HBO 2 SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4089.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/efd438eeabdee6446d9b28045ef1af60.jpg" group-title="BRASIL 3",HBO Family 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4086.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6de716c9edfbc302899c3f4e931d019f.jpg" group-title="BRASIL 3",HBO Family SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4087.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb6b7b4a888a0e74c07551f147f03435.jpg" group-title="BRASIL 3",HBO Plus 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4082.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8e4a23287ab8b2e79423c004e0ae3353.jpg" group-title="BRASIL 3",HBO Plus SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4084.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e3433bc8f7cb783054a003d3c5223e61.jpg" group-title="BRASIL 3",HBO Plus E SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4083.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b196889a5ab6c32c887e67bfda4b0762.jpg" group-title="BRASIL 3",ID 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4074.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/16b3a6a3d75da9b4ec78f8d5f1d7459c.jpg" group-title="BRASIL 3",ID SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4075.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c0e518dd67d51206d794b36fe0ab51d6.jpg" group-title="BRASIL 3",MAX 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4065.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d50f322f1fa359de543c565cd021f10c.jpg" group-title="BRASIL 3",Paramount 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4035.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bef979c307e0d481a1f45e6738f0c914.jpg" group-title="BRASIL 3",Paramount SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4036.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/795a7e46e58292d8cf8b04e61c0c919e.jpg" group-title="BRASIL 3",Canal Sony 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3917.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/29ac3cb95f3ea2afe13013c1280fdb43.jpg" group-title="BRASIL 3",Sony SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3918.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/52101761742b1dbf29da11e642ffa603.jpg" group-title="BRASIL 3",Space 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3915.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/649c4ab5a3a3263fb1dee9102de366f2.jpg" group-title="BRASIL 3",Space SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3916.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ea3b562788b1f6553c29a6f63f5909e3.jpg" group-title="BRASIL 3",Studio Universal 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3907.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6c54d3be848d4369cb5b9785aa436f35.jpg" group-title="BRASIL 3",Telecine Premium 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3892.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1442c82c43b3cfe5724b107e1360b5f5.jpg" group-title="BRASIL 3",Telecine Action 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3900.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a05fff26a9c60fc31ec0dda21678d2ce.jpg" group-title="BRASIL 3",Telecine Action SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3901.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0a68ffd0acebf80bfeb219adef7ec9a6.jpg" group-title="BRASIL 3",Telecine Cult 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7622.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a7c508489d167a86537ccc8bf83ec5f6.jpg" group-title="BRASIL 3",Telecine Fun 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3896.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4a82d24676f24f99d4a56b67969628e7.jpg" group-title="BRASIL 3",Telecine Fun SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3897.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/028ba05f9acc1f53e1c45450cccd64d0.jpg" group-title="BRASIL 3",Telecine Pipoca 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3894.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7a1d8249adfd3bdf3aa3dfe0f29eb9df.jpg" group-title="BRASIL 3",Telecine Pipoca SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3895.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dba6f366fb4d25d37dc10a5b376cb07d.jpg" group-title="BRASIL 3",TNT 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3886.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6611ddd7acf0add4bae8acc27c690a4e.jpg" group-title="BRASIL 3",TNT SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3887.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d644db984945099e63bd5f5f11853444.jpg" group-title="BRASIL 3",TNT Series 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3884.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cb233f7e79c8aedf8749beb3ed0183c3.jpg" group-title="BRASIL 3",Comedy Central
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4157.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ff31fa8be99468c1b505e988cd25d0d3.jpg" group-title="BRASIL 3",Telecine Premium  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7694.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/50caecac251fb6cb0c4b2654733a3d73.jpg" group-title="BRASIL 3",Animal Planet 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4190.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/07c382f0e4d6eb381fc09ff947962cee.jpg" group-title="BRASIL 3",Animal Planet SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4191.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/23cda7837f257434b993be0db893466a.jpg" group-title="BRASIL 3",Discovery Channel 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4153.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a593995ad48436f54f56cc10af8b321a.jpg" group-title="BRASIL 3",Discovery Channel SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4154.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7257b2d014c2b186a3e2388314fb7ccb.jpg" group-title="BRASIL 3",H2 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4078.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3aba5fe72404424255c3f00e39e9a7ad.jpg" group-title="BRASIL 3",H2 SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4091.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bce7ea9668c838425c1fc8850ab8260f.jpg" group-title="BRASIL 3",NatGeo Wild 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4049.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0502bf95fd23c351c4548788d05abd62.jpg" group-title="BRASIL 3",NatGeo Wild SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4050.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e4edb85a288d5dcafe055b3561ba1535.jpg" group-title="BRASIL 3",Boomerang 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4171.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0563dbbc62ebbcd67679fca50e87cdc6.jpg" group-title="BRASIL 3",Boomerang SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4172.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1a9145317f7d6d4c3ed37bc261171c8e.jpg" group-title="BRASIL 3",Cartoon Network 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4165.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/366ff5926a78c55b47bf388755baad27.jpg" group-title="BRASIL 3",Cartoon Network SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4166.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/092c2591430337acde3183ea95cb70c5.jpg" group-title="BRASIL 3",Discovery Kids SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4150.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6c814b1954244b2ff925ded6fac48263.jpg" group-title="BRASIL 3",Disney Channel 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4143.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/baa98f66f2cb0a2e654d3111116ab627.jpg" group-title="BRASIL 3",Disney Channel SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4144.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b3dc42c2a2097dd3d92938bf25b32ae.jpg" group-title="BRASIL 3",Disney JR 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4141.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b83c661698857f5fba023a387748e525.jpg" group-title="BRASIL 3",Nick Jr. SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4043.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/acc81500e98b40ccfec213fc0f063134.jpg" group-title="BRASIL 3",Nickelodeon 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/7604.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6eaba18cc748607ec0717e71d10d004e.jpg" group-title="BRASIL 3",Nickelodeon SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4041.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/321fc641f9777a97ccac77c5ccfa6feb.jpg" group-title="BRASIL 3",Combate  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4158.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bd6343814784326f04db5d91228e7533.jpg" group-title="BRASIL 3",Combate 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/5617.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/385d70727251ddec0c8c8c21c0277903.jpg" group-title="BRASIL 3",EI Maxx SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4136.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e48fd5a44a839ea717b588086337f76d.jpg" group-title="BRASIL 3",EI Maxx 2 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4134.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/087da01fa23d25a46d8daf8d930bca97.jpg" group-title="BRASIL 3",EI Maxx 2 SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4135.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9604aff9458732b11904211da80e6a74.jpg" group-title="BRASIL 3",ESPN  
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4128.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8e4025a8495bed1393b07a8ce451ee7f.jpg" group-title="BRASIL 3",ESPN+ 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/6611.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3d79ac74c051fa021ccc33993da277e1.jpg" group-title="BRASIL 3",ESPN BRASIL 3 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4130.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1936d733f23f36d3b8088d8a0b52d382.jpg" group-title="BRASIL 3",Fox BRASIL 3? 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4113.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ac7f6ce7c5554f6e4f90da941036d514.jpg" group-title="BRASIL 3",BRASIL 3 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3909.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bf53b99de8818c42a37f2f1b9f4ec162.jpg" group-title="BRASIL 3",BRASIL 3 SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3914.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b2f2cc47f9b597c7d833ffb3445a0a68.jpg" group-title="BRASIL 3",BRASIL 3 2 
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3912.ts?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cdae2d9d7141fa0970a1ade7d653d7a2.jpg" group-title="BRASIL 3",BRASIL 3 2 SD
-http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3913.ts?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8fd76802581f29661303889ebb833de6.jpg" group-title="BRASIL 3",Pica Pau
 http://204.12.244.50:8080/Pica-Pau/tracks-v1a1/index.m3u8
