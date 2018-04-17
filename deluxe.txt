@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-########################## BRASIL 1 ###########################################
 #EXTINF:-1 group-title="BRASIL",ESPN 1
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/178.m3u8
 #EXTINF:-1 group-title="BRASIL",fora
@@ -2373,9 +2372,6 @@ http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4100.ts?
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b4a989e705b2586364d454771c6f501.jpg" group-title="BRASIL 3",Globo SP 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4097.ts?
 
-##########################BRASIL 4 ###########################################
-
-#EXTM3U
 #EXTINF:-1 group-title="BRASIL 4 ", Canção Nova 
 http://tvajuhls-lh.akamai.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?sd=10&rebase=on
 
