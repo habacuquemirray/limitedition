@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 group-title="BRASIL 1", ESPN 1
+#EXTM3U
+#EXTINF:-1 group-title="BRASIL 1", ESPN 1
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/178.m3u8
 #EXTINF:-1 group-title="BRASIL 1", fora
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/181.m3u8
