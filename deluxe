@@ -669,350 +669,350 @@ http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/785.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" FOX SD" tvg-logo="" group-title="BRASIL",FOX SD
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/786.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/75823e3a32cee821e8eebe162a9e95bb.jpg" group-title="BRASIL 3",TV CULTURA
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/75823e3a32cee821e8eebe162a9e95bb.jpg" group-title="BRASIL",TV CULTURA
 http://177.73.84.49/hls/live/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/334a69c6f455c2c796f2fdca7b1224f3.jpg" group-title="BRASIL 3",Band BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/334a69c6f455c2c796f2fdca7b1224f3.jpg" group-title="BRASIL",Band BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL 3",History
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL",History
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abe8961296ca22e2179e619c8181472a.jpg" group-title="BRASIL 3",GLOBO SP
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abe8961296ca22e2179e619c8181472a.jpg" group-title="BRASIL",GLOBO SP
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/89ffe090cae7ca364e8e1002cc5791fc.jpg" group-title="BRASIL 3",REDE TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/89ffe090cae7ca364e8e1002cc5791fc.jpg" group-title="BRASIL",REDE TV
 http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/293ec6e65b2a92adf135c15ad4c993fd.jpg" group-title="BRASIL 3",TV GAZETA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/293ec6e65b2a92adf135c15ad4c993fd.jpg" group-title="BRASIL",TV GAZETA 
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d89bb220bfc30b428c8008746b32cf92.jpg" group-title="BRASIL 3",Sesc TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d89bb220bfc30b428c8008746b32cf92.jpg" group-title="BRASIL",Sesc TV 
 http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?ISAQUE
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/60c8605a2da90761521a4abd20e530fb.jpg" group-title="BRASIL 3",RECORD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/60c8605a2da90761521a4abd20e530fb.jpg" group-title="BRASIL",RECORD
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae69cd1ee4f4fa944acc0eb9fc25242f.jpg" group-title="BRASIL 3",Boa Vontade TV  
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae69cd1ee4f4fa944acc0eb9fc25242f.jpg" group-title="BRASIL",Boa Vontade TV  
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?MEGAMAXIPTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f7543b6580564ffd1d819ddc2ba95603.jpg" group-title="BRASIL 3",Rede BRASIL 3 DE 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f7543b6580564ffd1d819ddc2ba95603.jpg" group-title="BRASIL",Rede BRASIL 3 DE 
 http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?Valter
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL 3",REDE FAMÍLIA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="BRASIL",REDE FAMÍLIA 
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/526bf7239e74f300e034acc9fe492a0f.jpg" group-title="BRASIL 3",FX 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/526bf7239e74f300e034acc9fe492a0f.jpg" group-title="BRASIL",FX 
 http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/991.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a29dba6b4e30e61f2434fcf2a9ffc4c5.jpg" group-title="BRASIL 3",DISCOVERY TURBO 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a29dba6b4e30e61f2434fcf2a9ffc4c5.jpg" group-title="BRASIL",DISCOVERY TURBO 
 http://g5.club-server.co:25461/live/jessica/1234/10707.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/536c33362b69c9f7c8a7f61129c009d8.jpg" group-title="BRASIL 3",RECORD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/536c33362b69c9f7c8a7f61129c009d8.jpg" group-title="BRASIL",RECORD 
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8734de31460da29c21abbab9db0231.jpg" group-title="BRASIL 3",REDE TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8734de31460da29c21abbab9db0231.jpg" group-title="BRASIL",REDE TV 
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dfd2cf02b7c3f5c9f2469d277e26080e.jpg" group-title="BRASIL 3",BAND 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dfd2cf02b7c3f5c9f2469d277e26080e.jpg" group-title="BRASIL",BAND 
 http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/1057.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7fb84287e77d965b2f9ad8a40417d44d.jpg" group-title="BRASIL 3",A&E 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7fb84287e77d965b2f9ad8a40417d44d.jpg" group-title="BRASIL",A&E 
 http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/1063.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/af5dd6b55d063edc48ef49699a8341a6.jpg" group-title="BRASIL 3",ESPN BRASIL 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/af5dd6b55d063edc48ef49699a8341a6.jpg" group-title="BRASIL",ESPN BRASIL 3 
 http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?MEGAMAXIPTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3851be94c059e319c89ae5df2066e00c.jpg" group-title="BRASIL 3",Gloob
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3851be94c059e319c89ae5df2066e00c.jpg" group-title="BRASIL",Gloob
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1808.ts?token=SUZYUxZQRwJGAgxVBldXDVQFUgNQU1NeBAMIVVBTBFBUXVIEAFpcCAIRFERGFdV1loCFdHC1cMBQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUwBWHkZAWwEaXxpVBApUAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAAZTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQPAglWFxk=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/588013269c80b3507ebdb66d28da3086.jpg" group-title="BRASIL 3",Charlie Brown & Snoopy
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/588013269c80b3507ebdb66d28da3086.jpg" group-title="BRASIL",Charlie Brown & Snoopy
 http://204.12.244.50:8080/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL 3",Turma da Mônica
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL",Turma da Mônica
 http://204.12.244.50:8080/turma-da-monica/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8d52a69419c1be2c15b6183fb1d7a921.jpg" group-title="BRASIL 3",boomerang
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8d52a69419c1be2c15b6183fb1d7a921.jpg" group-title="BRASIL",boomerang
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.ts?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFdV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ceb9d54c15a36a7b4a4305009a763dfc.jpg" group-title="BRASIL 3",Steven Universo
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ceb9d54c15a36a7b4a4305009a763dfc.jpg" group-title="BRASIL",Steven Universo
 http://204.12.244.50:8080/steven-universe/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5de5a32d49317d2aaf91d55d1cb91d21.jpg" group-title="BRASIL 3",Irmão do Jorel
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5de5a32d49317d2aaf91d55d1cb91d21.jpg" group-title="BRASIL",Irmão do Jorel
 http://204.12.244.50:8080/irmao-do-jorel/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ca2061f5027b31dc0e0b45f0237a0eeb.jpg" group-title="BRASIL 3",Hora de Aventura
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ca2061f5027b31dc0e0b45f0237a0eeb.jpg" group-title="BRASIL",Hora de Aventura
 http://204.12.244.50:8080/hora-de-aventura/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb6296af7e8b37372996e3e93f32e366.jpg" group-title="BRASIL 3",A Mansão Foster para Amigos Imaginários
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb6296af7e8b37372996e3e93f32e366.jpg" group-title="BRASIL",A Mansão Foster para Amigos Imaginários
 http://204.12.244.50:8080/mansao-foster/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/607a6b6e041281bfb1133b31ed7d3818.jpg" group-title="BRASIL 3",Wally Gator
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/607a6b6e041281bfb1133b31ed7d3818.jpg" group-title="BRASIL",Wally Gator
 http://204.12.244.50:8080/wally-gator/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c0697afb2816c3b434b60690388472eb.jpg" group-title="BRASIL 3",Rick & Morty
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c0697afb2816c3b434b60690388472eb.jpg" group-title="BRASIL",Rick & Morty
 http://204.12.244.50:8080/rick-morty/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c2554f31d036227b480020d211911df4.jpg" group-title="BRASIL 3",O Incrível Mundo de Gumball
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c2554f31d036227b480020d211911df4.jpg" group-title="BRASIL",O Incrível Mundo de Gumball
 http://204.12.244.50:8080/gumball/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae46e438e820d8cadadcd23eedeb209e.jpg" group-title="BRASIL 3",Eek! o Gato
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae46e438e820d8cadadcd23eedeb209e.jpg" group-title="BRASIL",Eek! o Gato
 http://204.12.244.50:8080/eek-o-gato/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f9a83c8368103ee50f658402e5b6f11e.jpg" group-title="BRASIL 3",Johnny Bravo
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f9a83c8368103ee50f658402e5b6f11e.jpg" group-title="BRASIL",Johnny Bravo
 http://204.12.244.50:8080/jonny-bravo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/41b60cd223710c87debdef9c731b263c.jpg" group-title="BRASIL 3",Space Ghost
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/41b60cd223710c87debdef9c731b263c.jpg" group-title="BRASIL",Space Ghost
 http://204.12.244.50:8080/space-ghost/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2f22e830ce028ab978ed95d0846c332d.jpg" group-title="BRASIL 3",O Laboratório de Dexter
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2f22e830ce028ab978ed95d0846c332d.jpg" group-title="BRASIL",O Laboratório de Dexter
 http://204.12.244.50:8080/laboratorio-dexter/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77e788b048068b01c00b7ab4e1e1aea9.jpg" group-title="BRASIL 3",Jonny Quest
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77e788b048068b01c00b7ab4e1e1aea9.jpg" group-title="BRASIL",Jonny Quest
 http://204.12.244.50:8080/Jonny-Quest/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53fbee80583a4a28788fb27c082bac10.jpg" group-title="BRASIL 3",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53fbee80583a4a28788fb27c082bac10.jpg" group-title="BRASIL",BRASIL 3
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/675fc1836b7e1cc9ed013f45e719bab4.jpg" group-title="BRASIL 3",o Cão Covarde
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/675fc1836b7e1cc9ed013f45e719bab4.jpg" group-title="BRASIL",o Cão Covarde
 http://204.12.244.50:8080/Coragem-Cao-Covarde/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecca54954409d7ec927bd8bcb82fb45b.jpg" group-title="BRASIL 3",Premiere Clubes
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecca54954409d7ec927bd8bcb82fb45b.jpg" group-title="BRASIL",Premiere Clubes
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dcf93e43269baef3ee0852d1ff7b0df5.jpg" group-title="BRASIL 3",Futurama
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dcf93e43269baef3ee0852d1ff7b0df5.jpg" group-title="BRASIL",Futurama
 http://204.12.244.50:8080/Futurama/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ddff9067c15117507cfef2ffa82889d4.jpg" group-title="BRASIL 3",She-ra
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ddff9067c15117507cfef2ffa82889d4.jpg" group-title="BRASIL",She-ra
 http://204.12.244.50:8080/she-ra/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f9f427844bb91d1015f3acc382cbd082.jpg" group-title="BRASIL 3",Todo mundo Odeia o Chris
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f9f427844bb91d1015f3acc382cbd082.jpg" group-title="BRASIL",Todo mundo Odeia o Chris
 http://204.12.244.50:8080/todocris/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecc52cd1b0799efeeae767178ab1e1db.jpg" group-title="BRASIL 3",NICK
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecc52cd1b0799efeeae767178ab1e1db.jpg" group-title="BRASIL",NICK
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d76f8e3c3491cadd33cafcba3b5e40c.jpg" group-title="BRASIL 3",Mutante Rex
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d76f8e3c3491cadd33cafcba3b5e40c.jpg" group-title="BRASIL",Mutante Rex
 http://204.12.244.50:8080/mutante-rex/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5403db81e451cd5881c551852e370933.jpg" group-title="BRASIL 3",As Trapalhadas de Flapjack
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5403db81e451cd5881c551852e370933.jpg" group-title="BRASIL",As Trapalhadas de Flapjack
 http://204.12.244.50:8080/as-trapalhadas-de-flapjack/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c1fdb4ac652b6721ec98475852fdadf0.jpg" group-title="BRASIL 3",As Múmias Vivas
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c1fdb4ac652b6721ec98475852fdadf0.jpg" group-title="BRASIL",As Múmias Vivas
 http://204.12.244.50:8080/as-mumias-vivas/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d9a448efe7f7b2c94978276d4d765fcf.jpg" group-title="BRASIL 3",As Lendas
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d9a448efe7f7b2c94978276d4d765fcf.jpg" group-title="BRASIL",As Lendas
 http://204.12.244.50:8080/as-lendas/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2a440a774b9e87d9018c0bc36e9d2e58.jpg" group-title="BRASIL 3",Mortal Kombat - Defensores da Terra
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2a440a774b9e87d9018c0bc36e9d2e58.jpg" group-title="BRASIL",Mortal Kombat - Defensores da Terra
 http://204.12.244.50:8080/mortal-kombat/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d15d41148d5f46cade5f568c63bf3b42.jpg" group-title="BRASIL 3",a Patroa e as Crianças
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d15d41148d5f46cade5f568c63bf3b42.jpg" group-title="BRASIL",a Patroa e as Crianças
 http://204.12.244.50:8080/eu-a-patroa-e-as-criancas/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/976dc15af5cf7ebded4bbe9f163d3956.jpg" group-title="BRASIL 3",Um Maluco no Pedaco
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/976dc15af5cf7ebded4bbe9f163d3956.jpg" group-title="BRASIL",Um Maluco no Pedaco
 http://204.12.244.50:8080/um-maluco-no-pedaco/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef9ab37303a3b2e51fd456ed3bcf94ac.jpg" group-title="BRASIL 3",I Carly
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef9ab37303a3b2e51fd456ed3bcf94ac.jpg" group-title="BRASIL",I Carly
 http://204.12.244.50:8080/icarly/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL 3",ESPN BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL",ESPN BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL 3",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL",BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL 3",BRASIL 3 Interativo 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL",BRASIL 3 Interativo 2 
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b86949c33873bc3d67f53fba1277d41c.jpg" group-title="BRASIL 3",SYFY 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b86949c33873bc3d67f53fba1277d41c.jpg" group-title="BRASIL",SYFY 
 http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/887.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a3180d8fdc2566298fe70e6be01d5d5e.jpg" group-title="BRASIL 3",RECORD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a3180d8fdc2566298fe70e6be01d5d5e.jpg" group-title="BRASIL",RECORD 
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8aa4ee73f17d8efaa56de53dcc7452b1.jpg" group-title="BRASIL 3",Os Simpsons
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8aa4ee73f17d8efaa56de53dcc7452b1.jpg" group-title="BRASIL",Os Simpsons
 http://204.12.244.50:8080/ossimpsons/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abd3c9c35d5c60717e320f6715421c87.jpg" group-title="BRASIL 3",Bob Esponja
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abd3c9c35d5c60717e320f6715421c87.jpg" group-title="BRASIL",Bob Esponja
 http://204.12.244.50:8080/bobesponja/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3e829f7207dbaa1261b5f5137b1583f8.jpg" group-title="BRASIL 3",Os Vingadores
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3e829f7207dbaa1261b5f5137b1583f8.jpg" group-title="BRASIL",Os Vingadores
 http://204.12.244.50:8080/vingadores/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL 3",Turma da Mônica
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL",Turma da Mônica
 http://204.12.244.50:8080/turma-da-monica/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8413eb8fa050af7d75e333a9af23adc.jpg" group-title="BRASIL 3",SPORT 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8413eb8fa050af7d75e333a9af23adc.jpg" group-title="BRASIL",SPORT 2 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5258a7d0962c79e00b363a7a8dccbf7c.jpg" group-title="BRASIL 3",13 RECORD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5258a7d0962c79e00b363a7a8dccbf7c.jpg" group-title="BRASIL",13 RECORD 
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f63c1669332c13bdd90cf55f08980a08.jpg" group-title="BRASIL 3",RCN - TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f63c1669332c13bdd90cf55f08980a08.jpg" group-title="BRASIL",RCN - TELENOVELAS
 http://tvpremium.club/lista-gratuita/hate/s113.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7c18d98eeccdf3af110d560af33e9089.jpg" group-title="BRASIL 3",DESENHOS 24HRS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7c18d98eeccdf3af110d560af33e9089.jpg" group-title="BRASIL",DESENHOS 24HRS
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/55f16dfaba0137aec278cdf0ab58d497.jpg" group-title="BRASIL 3",CINE TERROR
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/55f16dfaba0137aec278cdf0ab58d497.jpg" group-title="BRASIL",CINE TERROR
 http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c952146d84894e06ffb81b42102bc550.jpg" group-title="BRASIL 3",CINE SKY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c952146d84894e06ffb81b42102bc550.jpg" group-title="BRASIL",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3507a60764c60638d5c6c528ecc5502c.jpg" group-title="BRASIL 3",SBT  1080
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3507a60764c60638d5c6c528ecc5502c.jpg" group-title="BRASIL",SBT  1080
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?BRASIL 3GLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL 3",ESPN BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL",ESPN BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7d653579e168c868f6dce718a59e0e54.jpg" group-title="BRASIL 3",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7d653579e168c868f6dce718a59e0e54.jpg" group-title="BRASIL",ESPN
 http://aovivo2.futeboltv.com:8081/live/16/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL 3",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL",BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c668f89698b76c48ae5333eb99109be.jpg" group-title="BRASIL 3",Fox BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c668f89698b76c48ae5333eb99109be.jpg" group-title="BRASIL",Fox BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3f700befc9b444076fc37a8b3f17a9ae.jpg" group-title="BRASIL 3",Cine Sky
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3f700befc9b444076fc37a8b3f17a9ae.jpg" group-title="BRASIL",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/09208e8d3c88f359e18596377732231b.jpg" group-title="BRASIL 3",BBB 18 *
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/09208e8d3c88f359e18596377732231b.jpg" group-title="BRASIL",BBB 18 *
 http://aovivo2.futeboltv.com:8081/live/17/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/26db1789a35b09aaee2654d92494984b.jpg" group-title="BRASIL 3",REDE GLOBO SP
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/26db1789a35b09aaee2654d92494984b.jpg" group-title="BRASIL",REDE GLOBO SP
 http://aovivo2.futeboltv.com:8081/live/18/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b7821944f292a205a192d1aa4adeb2b.jpg" group-title="BRASIL 3",Canal BRASIL 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b7821944f292a205a192d1aa4adeb2b.jpg" group-title="BRASIL",Canal BRASIL 3 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4169.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f5abcbd25221f23560b49f1b588380b1.jpg" group-title="BRASIL 3",Record  
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f5abcbd25221f23560b49f1b588380b1.jpg" group-title="BRASIL",Record  
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3936.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/00b4cf393a90f5a7b7a7bdfed5e01b7e.jpg" group-title="BRASIL 3",Globo Nordeste 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/00b4cf393a90f5a7b7a7bdfed5e01b7e.jpg" group-title="BRASIL",Globo Nordeste 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4632.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/053d91c70698945c8abb902ccbc23ffd.jpg" group-title="BRASIL 3",Globo
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/053d91c70698945c8abb902ccbc23ffd.jpg" group-title="BRASIL",Globo
 http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8fd76802581f29661303889ebb833de6.jpg" group-title="BRASIL 3",Pica Pau
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8fd76802581f29661303889ebb833de6.jpg" group-title="BRASIL",Pica Pau
 http://204.12.244.50:8080/Pica-Pau/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL 3",Turma da Mônica
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="BRASIL",Turma da Mônica
 http://204.12.244.50:8080/turma-da-monica/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6df9028b003bd16a5095a43dd23d57f5.jpg" group-title="BRASIL 3",Globo Rio 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6df9028b003bd16a5095a43dd23d57f5.jpg" group-title="BRASIL",Globo Rio 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4100.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b4a989e705b2586364d454771c6f501.jpg" group-title="BRASIL 3",Globo SP 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b4a989e705b2586364d454771c6f501.jpg" group-title="BRASIL",Globo SP 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4097.ts?
 
-#EXTINF:-1 group-title="BRASIL 4 ", Canção Nova 
+#EXTINF:-1 group-title="BRASIL", Canção Nova 
 http://tvajuhls-lh.akamai.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", Canal Brasil 
+#EXTINF:-1 group-title="BRASIL", Canal Brasil 
 http://servidor01.servertv.com/CANALBRASILF-/tracks-v1a1/mono.m3u8?token=09b05a0df74c99916625533955af89256219e712-5fa7dda08942122c4dc5014dccfc7b14-1523640859-1523630059
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", group-title="BRASIL 4 ", TV Aparecida
+#EXTINF:-1 group-title="BRASIL", group-title="BRASIL 4 ", TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TV Aparecida Alt
+#EXTINF:-1 group-title="BRASIL", TV Aparecida Alt
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TV Evangelizar
+#EXTINF:-1 group-title="BRASIL", TV Evangelizar
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TV Evangelizar Alt
+#EXTINF:-1 group-title="BRASIL", TV Evangelizar Alt
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", Século 21
+#EXTINF:-1 group-title="BRASIL", Século 21
 http://tvseculo21-lh.akamai.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", Século 21
+#EXTINF:-1 group-title="BRASIL", Século 21
 http://tvseculo21-lh.akamai.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", Rede Vida
+#EXTINF:-1 group-title="BRASIL", Rede Vida
 http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?Valter
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", GLOBO RJ 
+#EXTINF:-1 group-title="BRASIL", GLOBO RJ 
 http://servidor01.servertv.com/GLOBORJK-/tracks-v1a1/mono.m3u8?token=9cddf53b37bb6bd23d47ffa9a0217958a24ec082-e1859c04bf56b5fb4391e0ba104f65d4-1523640687-1523629887
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", GLOBO MG
+#EXTINF:-1 group-title="BRASIL", GLOBO MG
 http://servidor01.servertv.com/GLOBOMINASA-F/tracks-v1a1/mono.m3u8?token=f8f801be6cfc87f914cfd2d204aac5e66b948063-b176ecd2e96244b884c95b70f1248662-1523640734-1523629934
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", GLOBO NEWS
+#EXTINF:-1 group-title="BRASIL", GLOBO NEWS
 http://servidor01.servertv.com/GLOBONEWSJ-/tracks-v1a1/mono.m3u8?token=93543af20915167472d8d2c085f5e3130b5760db-7b7cb9f48aa1e27cdb7deac287b4ee10-1523574017-1523563217
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", MAIS GLOBOSAT
+#EXTINF:-1 group-title="BRASIL", MAIS GLOBOSAT
 http://servidor01.servertv.com/MAISGLOBOSATP-/tracks-v1a1/mono.m3u8?token=e22a0c8dc90411980c16a76a3960ece5f776447e-318f83d5d746f7f0115605494a642648-1523601389-1523590589
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", BAND SPORTS 
+#EXTINF:-1 group-title="BRASIL", BAND SPORTS 
 http://servidor01.servertv.com/BANDSPORTSX-/tracks-v1a1/mono.m3u8?token=a458eebbb7c935bfe93ec211d077995da2639b89-82f030e86db8e14bafdd2655cd2b67d5-1523601477-1523590677
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", COMBATE 
+#EXTINF:-1 group-title="BRASIL", COMBATE 
 http://servidor01.servertv.com/COMBATEF-/tracks-v1a1/mono.m3u8?token=8c99cc2a64d45029baa648e28776f71f9410d18d-7d29426e2bf623a8a44af534d19598df-1523598989-1523588189
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", FOX SPORTS 
+#EXTINF:-1 group-title="BRASIL", FOX SPORTS 
 http://servidor01.servertv.com/FOXSPORTSU-/tracks-v1a1/mono.m3u8?token=31bed2bf648c2d4b3982c0f7652b4d1a7398cdae-3660e41c014e1ea2944c8caea4f37266-1523567990-1523557190
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", FOX SPORTS 2 
+#EXTINF:-1 group-title="BRASIL", FOX SPORTS 2 
 http://servidor01.servertv.com/FOXSPORTS2X-/tracks-v1a1/mono.m3u8?token=15fb339709863133da51afb9a4fea8aa9dd8523d-c5d6fe8a340de95741989c6159df6000-1523595226-1523584426
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", REDE TV 
+#EXTINF:-1 group-title="BRASIL", REDE TV 
 http://servidor01.servertv.com/REDETVX-/tracks-v1a1/mono.m3u8?token=ded778d29cf7804e3efb6ee5fdd7d96c2f87e4b2-e464b09aa6bd4ac36fefa25e9fb7578b-1523640989-1523630189
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SBT 
+#EXTINF:-1 group-title="BRASIL", SBT 
 http://servidor01.servertv.com/SBTC-/tracks-v1a1/mono.m3u8?token=8ab37d804a9706cb76ad89e5d4f36bfe104a8600-e5e4a46ac46c41f5f5f8fd6933ca24df-1523637347-1523626547
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SPORTV  
+#EXTINF:-1 group-title="BRASIL", SPORTV  
 http://servidor01.servertv.com/SPORTVD-/tracks-v1a1/mono.m3u8?token=94c7c33bfd97f7a6aecb0f892654c4588eb2d8ae-3303d99ce5e213e9b3d2dab589be84f9-1523561953-1523551153
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SPORTV 2  
+#EXTINF:-1 group-title="BRASIL", SPORTV 2  
 http://cdn.whostreams.net:8081/wsedge/lhwiia55zgswoy/chunks.m3u8?nimblesessionid=15987257&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE4IDE6MjA6MzkgQU0maGFzaF92YWx1ZT1seStPWElLb29mOHo3OG5nQVAzdFdRPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SPORTV 3  
+#EXTINF:-1 group-title="BRASIL", SPORTV 3  
 http://servidor01.servertv.com/SPORTV3G-/tracks-v1a1/mono.m3u8?token=7a81bbe416fc43c6312b32ad49b621849ddb5ba6-8e8c970b3c7464f95935ab074ffc2773-1523569303-1523558503
 
 
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", PREMIERE CLUBES
+#EXTINF:-1 group-title="BRASIL", PREMIERE CLUBES
 http://185.216.140.38:8088/live/premiere1br8/playlist.m3u8?id=30357&wowzasessionid=614838232&pk=59739d001e9ecc2df1d4c6d9b90db47aa827ac8d935c3067915ffa52c30a6f11
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", PREMIERE 2
+#EXTINF:-1 group-title="BRASIL", PREMIERE 2
 http://163.172.41.225:8081/loadbalance/sat2/chunks.m3u8?nimblesessionid=88971208&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE4IDc6NTM6MDggUE0maGFzaF92YWx1ZT1DRHpoaGJnN3BKV0g0b0F3ZTQvNXVBPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", PREMIERE 3
+#EXTINF:-1 group-title="BRASIL", PREMIERE 3
 http://163.172.41.217:8081/loadbalance/sat3/chunks.m3u8?nimblesessionid=150003231&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE4IDc6NTY6MjkgUE0maGFzaF92YWx1ZT1QVnFvRTdteFM1ejJycHJTUnJ6UUV3PT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", PREMIERE 4 
+#EXTINF:-1 group-title="BRASIL", PREMIERE 4 
 http://163.172.41.225:8081/loadbalance/sat4/chunks.m3u8?nimblesessionid=88973186&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE4IDc6NTg6MDYgUE0maGFzaF92YWx1ZT0xVEZWUHAzd2pmMm1FWTFrSFJnWXJnPT0mdmFsaWRtaW51dGVzPTIw
 
 
@@ -1028,230 +1028,230 @@ http://cdn.whostreams.net:8081/wsedge/lhwiia55zgswoy/chunks.m3u8?nimblesessionid
 http://174.138.63.249/sportv3/tracks-v1a1/index.m3u8?pxAuth=vJsGUHyOFysHEQ4zvJ09TFdejGpbMg
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", ESPN BRASIL 
+#EXTINF:-1 group-title="BRASIL", ESPN BRASIL 
 http://servidor01.servertv.com/ESPNBRASILY-/tracks-v1a1/mono.m3u8?token=58b9de5ce5d97df6b63b99e0a57080104eb2540c-8bf3c1de0cd81eaf3ee042656af834d8-1523574391-1523563591
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", ESPN 
+#EXTINF:-1 group-title="BRASIL", ESPN 
 http://servidor01.servertv.com/ESPNR-/tracks-v1a1/mono.m3u8?token=c03b97fdeffc6eefcdfa4175095d827e3683f954-5b85e99910581debdcfb32107602fdba-1523564189-1523553389
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", ESPORTE INTERATIVO 
+#EXTINF:-1 group-title="BRASIL", ESPORTE INTERATIVO 
 http://servidor01.servertv.com/ESPORTEINTERATIVOJ-/tracks-v1a1/mono.m3u8?token=8db50fd0088d0c517687b1bc25597684bfff8c61-1140beded1520dbd776750d6c1a3fb33-1523571069-1523560269
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", EI MAX 1
+#EXTINF:-1 group-title="BRASIL", EI MAX 1
 http://servidor01.servertv.com/EIMAXXR-/tracks-v1a1/mono.m3u8?token=b5b16f1adcd3bec18ea2169e1e9fdff69b8a78ff-f24207f35b6d5dbf8d3cb95e2a2af5f4-1523574733-1523563933
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", EI MAX 2
+#EXTINF:-1 group-title="BRASIL", EI MAX 2
 http://servidor01.servertv.com/EIMAXX2T-/tracks-v1a1/mono.m3u8?token=26e93366cdf75293a5bad3affbcbf551af3aaed4-fc1607e3bdb3e7a3de8af2ba69c4ba01-1523574756-1523563956
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TELECINE PREMIUM
+#EXTINF:-1 group-title="BRASIL", TELECINE PREMIUM
 http://servidor01.servertv.com/TELECINEPREMIUMM-/tracks-v1a1/mono.m3u8?token=e23a69104fcd0b09163299681c96d38c97094e47-59ee1cf8287b898093200a279e2949e4-1523569385-1523558585
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TELECINE PIPOCA
+#EXTINF:-1 group-title="BRASIL", TELECINE PIPOCA
 http://servidor01.servertv.com/TELECINEPIPOCAO-/tracks-v1a1/mono.m3u8?token=d6f2d1228fcc196c812b22e07c0d35363c883a9f-b6298332c91d48dbedfc48f36230d7ea-1523569714-1523558914
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TELECINE TOUCH
+#EXTINF:-1 group-title="BRASIL", TELECINE TOUCH
 http://servidor01.servertv.com/TELECINETOUCHM-/tracks-v1a1/mono.m3u8?token=ef135ae72fc78d3f0675d69a0a794e888e5d52ee-a233941fa43c222d4205d9cf2b5de64c-1523569910-1523559110
 
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TELECINE ACTION
+#EXTINF:-1 group-title="BRASIL", TELECINE ACTION
 http://servidor01.servertv.com/TELECINEACTIONT-/tracks-v1a1/mono.m3u8?token=0657bfcf92e22e5cc9cd3235f960689d428f1139-1f168b5d208b0504c1e3e096770fae63-1523577289-1523566489
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TELECINE FUN
+#EXTINF:-1 group-title="BRASIL", TELECINE FUN
 http://servidor01.servertv.com/TELECINEFUNS-/tracks-v1a1/mono.m3u8?token=c3e531b8dbefefc2dc236b45d696dfd5a087098f-881012b8a1661850d5ccd59a1604bb34-1523573929-1523563129
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", HBO 
+#EXTINF:-1 group-title="BRASIL", HBO 
 http://servidor01.servertv.com/HBOP-/tracks-v1a1/mono.m3u8?token=24ce5ed5b183f9132458113b5e1deb53e31dbbdb-4e5decc6066fa7673400b497d4464670-1523574074-1523563274
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", HBO 2 
+#EXTINF:-1 group-title="BRASIL", HBO 2 
 http://servidor01.servertv.com/HBO2C-/tracks-v1a1/mono.m3u8?token=13e362504f33bb988353365a55ba8b12f699d3f1-c323b5db48c6b6e2df5b7edebbf80418-1523574100-1523563300
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", HBO PLUS
+#EXTINF:-1 group-title="BRASIL", HBO PLUS
 http://servidor01.servertv.com/HBOPLUSW-/tracks-v1a1/mono.m3u8?token=613bc9c8365fc10da08f450bf1f52b3d812bb9ad-4fefb82a474401089539e6a46fbfa0ea-1523574151-1523563351
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", HBO FAMILY
+#EXTINF:-1 group-title="BRASIL", HBO FAMILY
 http://servidor01.servertv.com/HBOPLUSW-/tracks-v1a1/mono.m3u8?token=613bc9c8365fc10da08f450bf1f52b3d812bb9ad-4fefb82a474401089539e6a46fbfa0ea-1523574151-1523563351
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", HBO SIGNATURE
+#EXTINF:-1 group-title="BRASIL", HBO SIGNATURE
 http://servidor01.servertv.com/HBOPLUSW-/tracks-v1a1/mono.m3u8?token=613bc9c8365fc10da08f450bf1f52b3d812bb9ad-4fefb82a474401089539e6a46fbfa0ea-1523574151-1523563351
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", FX
+#EXTINF:-1 group-title="BRASIL", FX
 http://servidor01.servertv.com/FXO-/tracks-v1a1/mono.m3u8?token=34d56da595dda548a38d9d32012d0576d313d5c1-4cf00be17c18dd597fbc60da8b08e6c2-1523598940-1523588140
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", FOX PREMIUM 1 
+#EXTINF:-1 group-title="BRASIL", FOX PREMIUM 1 
 http://servidor01.servertv.com/FOXPREMIUM1S-/tracks-v1a1/mono.m3u8?token=4ffcf2933c073fa5fdd817451a57078b7474f5a8-69d4061839149f82050e551cb5b1b64c-1523575130-1523564330
 
 
-#EXTINF:-1 group-title="BRASIL 4 ",FOX PREMIUM 2 
+#EXTINF:-1 group-title="BRASIL",FOX PREMIUM 2 
 http://servidor01.servertv.com/FOXPREMIUM2Z-/tracks-v1a1/mono.m3u8?token=405d9e791e2778be2e1ca05c76ea9411d6a499c2-69df786365edaa12a1cc2a66aed7fc17-1523575169-1523564369
 
 
-#EXTINF:-1 group-title="BRASIL 4 ",FOX 
+#EXTINF:-1 group-title="BRASIL",FOX 
 http://servidor01.servertv.com/FOXPREMIUM2Z-/tracks-v1a1/mono.m3u8?token=405d9e791e2778be2e1ca05c76ea9411d6a499c2-69df786365edaa12a1cc2a66aed7fc17-1523575169-1523564369
 
 
-#EXTINF:-1 group-title="BRASIL 4 ",FOX LIFE 
+#EXTINF:-1 group-title="BRASIL",FOX LIFE 
 http://servidor01.servertv.com/FOXLIFEW-/tracks-v1a1/mono.m3u8?token=1022d95ad6bd403d4c4375d2df65de99326a0d0e-fa12d60a217fd3d0c9c16ed408107eb6-1523571687-1523560887
 
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", MAX 
+#EXTINF:-1 group-title="BRASIL", MAX 
 http://servidor01.servertv.com/MAXY-/tracks-v1a1/mono.m3u8?token=f75481bf148464208df131c1c948415dd81498da-121d8360e7bb900ece96974d61d58c0b-1523600689-1523589889
 
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", MAX UP 
+#EXTINF:-1 group-title="BRASIL", MAX UP 
 http://servidor01.servertv.com/MAXUPR-/tracks-v1a1/mono.m3u8?token=61292bb2802d9ad22f4c07214829956794999908-df436b54394bf4066e7cd90e308e46d0-1523597171-1523586371
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SONY 
+#EXTINF:-1 group-title="BRASIL", SONY 
 http://servidor01.servertv.com/SONYC-/tracks-v1a1/mono.m3u8?token=b4c0b914a842cb1a4133105b34edbcec49dfec71-d77f484f3c9e1b7cbe72c642a8453479-1523600918-1523590118
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SPACE 
+#EXTINF:-1 group-title="BRASIL", SPACE 
 http://servidor01.servertv.com/SPACEH-/tracks-v1a1/mono.m3u8?token=8455858db1bf4dcbf03998ff30e72a35fb9654d8-375be667acc5f5b8423f0661a2c49691-1523600962-1523590162
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", STUDIO UNIVERSAL 
+#EXTINF:-1 group-title="BRASIL", STUDIO UNIVERSAL 
 http://servidor01.servertv.com/STUDIOUNIVERSALN-/tracks-v1a1/mono.m3u8?token=88249e8eb2eab1be9d5522192d835fd798117a52-fa5a2970ebd8dfd853fa4edd0175e8f1-1523601012-1523590212
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", BOOMERANG 
+#EXTINF:-1 group-title="BRASIL", BOOMERANG 
 http://servidor01.servertv.com/BOOMERANGS-/tracks-v1a1/mono.m3u8?token=95b86861aaacc0a036d632054db0a2924abb9b31-73cc7d1d97a887449d99a9e8091d0fcd-1523573829-1523563029
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY KIDS 
+#EXTINF:-1 group-title="BRASIL", DISCOVERY KIDS 
 http://servidor01.servertv.com/DISCOVERYKIDSO-/tracks-v1a1/mono.m3u8?token=874537e37822616dd19369b9900ddc89ced45c83-33c16a1b1323928d41ee9f5f6d44c03f-1523577368-1523566568
 
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", CARTOON NETWORK 
+#EXTINF:-1 group-title="BRASIL", CARTOON NETWORK 
 http://servidor01.servertv.com/CARTOONZ-/tracks-v1a1/mono.m3u8?token=8aa342fc245eeb998a37b9fa06dbda8b348a2075-822330db536d21d8456c79f01de9489e-1523573880-1523563080
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", GLOOB 
+#EXTINF:-1 group-title="BRASIL", GLOOB 
 http://servidor01.servertv.com/GLOOBZ-/tracks-v1a1/mono.m3u8?token=d261a6d285c0cf015f65972686ce1c97de69c357-2c0b525346f7f2bc73046cd62276258c-1523640796-1523629996
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", HISTORY 
+#EXTINF:-1 group-title="BRASIL", HISTORY 
 http://servidor01.servertv.com/HISTORYV-/tracks-v1a1/mono.m3u8?token=31ae9f9be562b3cb5fff9786c19907b0a87276d8-c13a11e47b95e9d083be688d5cbc704c-1523574510-1523563710
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", H2 
+#EXTINF:-1 group-title="BRASIL", H2 
 http://servidor01.servertv.com/H2D-/tracks-v1a1/mono.m3u8?token=786c13befabbe1b5cb85bdb66775db086ca6aec6-27c93bcd063c8e7495f6db902749147e-1523601825-1523591025
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY CHANELL 
+#EXTINF:-1 group-title="BRASIL", DISCOVERY CHANELL 
 http://servidor01.servertv.com/DISCOVERYCHANNELT-/tracks-v1a1/mono.m3u8?token=49f569901977c0f6e77cdf8601e3f47a650fabfd-5f0ef8d70a55e4234f860576382f529e-1523574560-1523563760
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY HOME E HEALTH 
+#EXTINF:-1 group-title="BRASIL", DISCOVERY HOME E HEALTH 
 http://servidor01.servertv.com/DISCOVERYHEHB-/tracks-v1a1/mono.m3u8?token=f87bfeeb94b9ea9b9e76e691866ccb09f5b015bf-f80a41eb6900678ebe9a8f0ce36625b1-1523599047-1523588247
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY TURBO 
+#EXTINF:-1 group-title="BRASIL", DISCOVERY TURBO 
 http://servidor01.servertv.com/DISCOVERYTURBOK-/tracks-v1a1/mono.m3u8?token=aa5bcb505d422d79355aaf27a2e44f37037119d1-fd5b9dcd6bfbc0a04eb4887feb4b601e-1523599151-1523588351
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY SCIENCE 
+#EXTINF:-1 group-title="BRASIL", DISCOVERY SCIENCE 
 http://servidor01.servertv.com/DISCOVERYSCIENCEF-/tracks-v1a1/mono.m3u8?token=41483032a3e217ff4b05dfced4b6002f6fb552ef-d3674ebf449bef3a19e5e0b481d7c75c-1523599195-1523588395
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY WORLD 
+#EXTINF:-1 group-title="BRASIL", DISCOVERY WORLD 
 http://servidor01.servertv.com/DISCOVERYWORLDV-/tracks-v1a1/mono.m3u8?token=cc17d521161d15553e5ec03e88ee83f3183c6cc6-20582ad3f734283d6c4b4be305af3f21-1523602805-1523592005
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", DISCOVERY THEATER
+#EXTINF:-1 group-title="BRASIL", DISCOVERY THEATER
 http://servidor01.servertv.com/DISCOVERYTHEATERM-/tracks-v1a1/mono.m3u8?token=79f4ca88de608ebefa5db7c74f0a6afeebba5729-a98556d1461441ee472283f1d5b85023-1523600019-1523589219
 
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", AXN 
+#EXTINF:-1 group-title="BRASIL", AXN 
 http://servidor01.servertv.com/AXNQ-/tracks-v1a1/mono.m3u8?token=91ab30f57523e5fe9e24c136e5031557a12841e8-66aef0c8d9a013eceb72401821d0f990-1523574815-1523564015
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TLC 
+#EXTINF:-1 group-title="BRASIL", TLC 
 http://servidor01.servertv.com/TLCQ-/tracks-v1a1/mono.m3u8?token=e1e061975c81af22e9994564105adec7d49942bb-5961900165a3b6df411124e19004871c-1523601069-1523590269
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", FOOD 
+#EXTINF:-1 group-title="BRASIL", FOOD 
 http://servidor01.servertv.com/FOODI-/tracks-v1a1/mono.m3u8?token=bd792bb44264a0d7c8fa4c6693d7ea7dd0fdd068-be5a4fa2d2c0e5e7009d54d6aa37ba8b-1523601699-1523590899
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", SYFY 
+#EXTINF:-1 group-title="BRASIL", SYFY 
 http://servidor01.servertv.com/SYFYB-/tracks-v1a1/mono.m3u8?token=a627f950f81ac32d17d8431122242dd030296899-ff99ac3d00df4de14e9d5d4a22514a32-1523601124-1523590324
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", OFF 
+#EXTINF:-1 group-title="BRASIL", OFF 
 http://servidor01.servertv.com/OFFT-/tracks-v1a1/mono.m3u8?token=09cf58e9c57644701655d320deb7397295ec40cd-d0985daa8a1ad08c6d3f7197c28e8cae-1523601884-1523591084
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", ANIMAL PLANET 
+#EXTINF:-1 group-title="BRASIL", ANIMAL PLANET 
 http://servidor01.servertv.com/ANIMALPLANETF-/tracks-v1a1/mono.m3u8?token=2b8d0ba6e94f296a8561699dcb2920fa1fb54ff6-b71be86e32faaa631b9804d6a73eb5dd-1523601163-1523590363
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", AMC 
+#EXTINF:-1 group-title="BRASIL", AMC 
 http://servidor01.servertv.com/AMCH-/tracks-v1a1/mono.m3u8?token=2bf0c3e67e28d8ded487c35dfba785519d851d19-afc2b774be5f96190a4ff4a2860fd11b-1523601222-1523590422
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TNT 
+#EXTINF:-1 group-title="BRASIL", TNT 
 http://servidor01.servertv.com/TNTG-/tracks-v1a1/mono.m3u8?token=a0f6d927914a0863c6f322fb7ec9d9bbb48cfdaa-8cde084ed8059fd6bae5c3c4715a602c-1523601268-1523590468
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", TNT SÉRIES 
+#EXTINF:-1 group-title="BRASIL", TNT SÉRIES 
 http://servidor01.servertv.com/TNTSERIESP-/tracks-v1a1/mono.m3u8?token=f801aedb1b7b166ac9a92dec688ef51261148f62-5d7744977fcda480766f481988d144e8-1523601314-1523590514
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", WARNER 
+#EXTINF:-1 group-title="BRASIL", WARNER 
 http://servidor01.servertv.com/WARNERQ-/tracks-v1a1/mono.m3u8?token=63180716a0217090ef05c699f437eb5cdc1d5c6b-067b737664d2917c7c19c259c3c23638-1523604922-1523594122
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", A&E 
+#EXTINF:-1 group-title="BRASIL", A&E 
 http://servidor01.servertv.com/AeEH-/tracks-v1a1/mono.m3u8?token=ef88cca3a4065e7cbc33e3601f860f1844f8488d-cc69ddae7f1ed153087c36ecf4bbf4ab-1523605224-1523594424
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", NATIONAL GEO WILD 
+#EXTINF:-1 group-title="BRASIL", NATIONAL GEO WILD 
 http://servidor01.servertv.com/NATGEOWILDK-/tracks-v1a1/mono.m3u8?token=66517c26d31a81a7a990a391f2c7607087924336-89c09a5f05c735c751e5a44bad675775-1523601573-1523590773
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", RÁDIO GAÚCHA
+#EXTINF:-1 group-title="BRASIL", RÁDIO GAÚCHA
 http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="BRASIL", UNIVERSAL CHANNEL
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/10513.ts
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", UNIVERSAL CHANNEL 
+#EXTINF:-1 group-title="BRASIL", UNIVERSAL CHANNEL 
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/10765.ts
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", UNIVERSAL CHANNEL  2
+#EXTINF:-1 group-title="BRASIL", UNIVERSAL CHANNEL  2
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/25334.ts
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", UNIVERSAL CHANNEL 
+#EXTINF:-1 group-title="BRASIL", UNIVERSAL CHANNEL 
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/10512.ts
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", UNIVERSAL CHANNEL  
+#EXTINF:-1 group-title="BRASIL", UNIVERSAL CHANNEL  
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/10764.ts
 
 
-#EXTINF:-1 group-title="BRASIL 4 ", UNIVERSAL CHANNEL   2
+#EXTINF:-1 group-title="BRASIL", UNIVERSAL CHANNEL   2
 http://g5.club-server.co:25461/live/oehfroka/rlbopdum/25336.ts
