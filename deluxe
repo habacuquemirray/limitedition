@@ -1386,77 +1386,77 @@ http://204.12.244.50:8080/vingadores/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a6833485aa0b6b2598fc28fcdb37f299.jpg" group-title="CANAIS 24HRS",Turma da Mônica
 http://204.12.244.50:8080/turma-da-monica/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL",ESPN BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL SD2",ESPN BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL SD 2",BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL",BRASIL 3 Interativo 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL SD 2",BRASIL 3 Interativo 2 
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b86949c33873bc3d67f53fba1277d41c.jpg" group-title="BRASIL",SYFY 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b86949c33873bc3d67f53fba1277d41c.jpg" group-title="BRASIL SD2",SYFY 
 http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/887.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8413eb8fa050af7d75e333a9af23adc.jpg" group-title="BRASIL",SPORT 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8413eb8fa050af7d75e333a9af23adc.jpg" group-title="BRASIL SD2",SPORT 2 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7c18d98eeccdf3af110d560af33e9089.jpg" group-title="CANAIS 24HRS",DESENHOS 24HRS
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/55f16dfaba0137aec278cdf0ab58d497.jpg" group-title="BRASIL",CINE TERROR
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/55f16dfaba0137aec278cdf0ab58d497.jpg" group-title="BRASIL SD2",CINE TERROR
 http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c952146d84894e06ffb81b42102bc550.jpg" group-title="BRASIL",CINE SKY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c952146d84894e06ffb81b42102bc550.jpg" group-title="BRASIL SD2",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL",ESPN BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL SD2",ESPN BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7d653579e168c868f6dce718a59e0e54.jpg" group-title="BRASIL",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7d653579e168c868f6dce718a59e0e54.jpg" group-title="BRASIL SD2",ESPN
 http://aovivo2.futeboltv.com:8081/live/16/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL SD2",BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c668f89698b76c48ae5333eb99109be.jpg" group-title="BRASIL",Fox BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c668f89698b76c48ae5333eb99109be.jpg" group-title="BRASIL SD2",Fox BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3f700befc9b444076fc37a8b3f17a9ae.jpg" group-title="BRASIL",Cine Sky
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3f700befc9b444076fc37a8b3f17a9ae.jpg" group-title="BRASIL SD2",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/26db1789a35b09aaee2654d92494984b.jpg" group-title="BRASIL",REDE GLOBO SP
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/26db1789a35b09aaee2654d92494984b.jpg" group-title="BRASIL SD2",REDE GLOBO SP
 http://aovivo2.futeboltv.com:8081/live/18/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a3180d8fdc2566298fe70e6be01d5d5e.jpg" group-title="BRASIL",RECORD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a3180d8fdc2566298fe70e6be01d5d5e.jpg" group-title="BRASIL SD2",RECORD 
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5258a7d0962c79e00b363a7a8dccbf7c.jpg" group-title="BRASIL",13 RECORD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5258a7d0962c79e00b363a7a8dccbf7c.jpg" group-title="BRASIL SD2",13 RECORD 
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3507a60764c60638d5c6c528ecc5502c.jpg" group-title="BRASIL",SBT  1080
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3507a60764c60638d5c6c528ecc5502c.jpg" group-title="BRASIL SD2",SBT  1080
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?BRASIL 3GLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f63c1669332c13bdd90cf55f08980a08.jpg" group-title="BRASIL",RCN - TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f63c1669332c13bdd90cf55f08980a08.jpg" group-title="BRASIL SD2",RCN - TELENOVELAS
 http://tvpremium.club/lista-gratuita/hate/s113.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b7821944f292a205a192d1aa4adeb2b.jpg" group-title="BRASIL",Canal BRASIL 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b7821944f292a205a192d1aa4adeb2b.jpg" group-title="BRASIL SD2",Canal BRASIL 3 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4169.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f5abcbd25221f23560b49f1b588380b1.jpg" group-title="BRASIL",Record  
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f5abcbd25221f23560b49f1b588380b1.jpg" group-title="BRASIL SD2",Record  
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3936.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/00b4cf393a90f5a7b7a7bdfed5e01b7e.jpg" group-title="BRASIL",Globo Nordeste 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/00b4cf393a90f5a7b7a7bdfed5e01b7e.jpg" group-title="BRASIL SD2",Globo Nordeste 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4632.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/053d91c70698945c8abb902ccbc23ffd.jpg" group-title="BRASIL",Globo
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/053d91c70698945c8abb902ccbc23ffd.jpg" group-title="BRASIL SD2",Globo
 http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6df9028b003bd16a5095a43dd23d57f5.jpg" group-title="BRASIL",Globo Rio 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6df9028b003bd16a5095a43dd23d57f5.jpg" group-title="BRASIL SD2",Globo Rio 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4100.ts?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b4a989e705b2586364d454771c6f501.jpg" group-title="BRASIL",Globo SP 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b4a989e705b2586364d454771c6f501.jpg" group-title="BRASIL SD2",Globo SP 
 http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4097.ts?
 
 #EXTINF:-1 group-title="BRASIL SD", Canção Nova 
@@ -1503,7 +1503,7 @@ http://servidor01.servertv.com/GLOBOMINASA-F/tracks-v1a1/mono.m3u8?token=f8f801b
 http://servidor01.servertv.com/GLOBONEWSJ-/tracks-v1a1/mono.m3u8?token=93543af20915167472d8d2c085f5e3130b5760db-7b7cb9f48aa1e27cdb7deac287b4ee10-1523574017-1523563217
 
 
-#EXTINF:-1 group-title="BRASI SDL", MAIS GLOBOSAT
+#EXTINF:-1 group-title="BRASI SD", MAIS GLOBOSAT
 http://servidor01.servertv.com/MAISGLOBOSATP-/tracks-v1a1/mono.m3u8?token=e22a0c8dc90411980c16a76a3960ece5f776447e-318f83d5d746f7f0115605494a642648-1523601389-1523590589
 
 
@@ -1533,7 +1533,7 @@ http://servidor01.servertv.com/SBTC-/tracks-v1a1/mono.m3u8?token=8ab37d804a9706c
 
 #EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="BRASIL SD",Cancao Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?FORMIGAtv?sd=10&rebase=on
-#EXTINF:-1 group-title="BRASIL",BBB 18
+#EXTINF:-1 group-title="BRASIL SD",BBB 18
 http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?FORMIGAtv
 
 #EXTINF:-1 group-title="BRASIL SD",TOP TV
@@ -1559,7 +1559,7 @@ http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctve
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?FORMIGAtv
 #EXTINF:-1 group-title="BRASIL SD",CLASSIQUE TV
 http://45.43.208.2:1935/classique/classique/live.m3u8?FORMIGAtv
-#EXTINF:-1 group-title="BRASIL",CINE
+#EXTINF:-1 group-title="BRASIL SD",CINE
 https://minhalista.live/channel/14008/hebercotrim/redirect
 #EXTINF:-1 group-title="BRASIL SD",CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?FORMIGAtv
@@ -1573,13 +1573,13 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?FORMIGAt
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?FORMIGAtv?sd=10&rebase=on
 #EXTINF:-1 group-title="BRASIL SD",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?FORMIGAtv
-#EXTINF:-1 group-title="BRASIL",TV TERCEIRO ANJO
+#EXTINF:-1 group-title="BRASIL SD",TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?FORMIGAtv
 #EXTINF:-1 group-title="BRASIL SD",IURD TV
 http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?FORMIGAtv
 #EXTINF:-1 group-title="BRASIL SD",IURD TV INTERNACIONAL
 http://api.new.livestream.com/accounm3u8?FORMIGAtv?FORMIGAtv/4486152/evenm3u8?FORMIGAtv?FORMIGAtv/2780306/live.m3u8?FORMIGAtv
-#EXTINF:-1 group-title="BRASIL",SOBRENATURAL TV
+#EXTINF:-1 group-title="CANAIS SD ",SOBRENATURAL TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?FORMIGAtv
 #EXTINF:-1 group-title="BRASIL SD",BOA VONTADE
 http://api.new.livestream.com/accounm3u8?FORMIGAtv?FORMIGAtv/15107153/evenm3u8?FORMIGAtv?FORMIGAtv/4338771/live.m3u8?FORMIGAtv
