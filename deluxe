@@ -699,21 +699,6 @@ http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w1598496838_b200000
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS SD2",       TV ESCOLA
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8iprvs9/tvaparecida_MEGAMAXIPTV.jpg" group-title="CANAIS SD2",   TV APARECIDA
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAIS SD2",            TV GAZETA
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.cxtv.com.br/img/Tvs/Logo/88864334140337d2d38cd40650fe7737.png" group-title="CANAIS SD2",             TV FUTURA
-http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/kz7of5z95/cultura_MEGAMAXIPTV.jpg" group-title="CANAIS SD2",     TV CULTURA
-http://m3u.me/br/uBry?IPTVFIRE2018?
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zXNHpHV.png" group-title="CANAIS SD2",             TV PANTANAL MS
-http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?VOCÊSABIANÃO
- 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS SD2",             TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?MEGAMAXIPTV
  
@@ -736,77 +721,9 @@ http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFB
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="CANAIS SD2", VIVA
 http://185.152.66.81:25461/live/ezequiel/12345/1705.m3u8?token=SUZYUxZQRwJGV11UBlVXWlMHBlABBABRAQddBwhWV11UAgYAUgEAWQERFERGFhddV1loCFdHC1cDBQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdSB1MCEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1cHRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlIGVxZI
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS SD2",  TV WEB NOVA PARAÍBA
-http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/an6620vql/boavontadetv.png" group-title="CANAIS SD2",             Boa Vontade Tv
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/47f10bdf3d1ccd434e2d3fb5a5916615.jpg" group-title="CANAIS SD2",             CANAL RURAL
-http://hls-live.crur.al/hlsmedium/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/qS8f4y" group-title="CANAIS SD2",             AGRO CANAL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="CANAIS SD2",            TV DIÁRIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/3yos6jby1/terraviva_MEGAMAXIPTV.jpg" group-title="CANAIS SD2",       TERRA VIVA
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/GhPFetE.png" group-title="CANAIS SD2",               CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/csh29s8l5/redesuperMEGAMAXIPTV.jpg" group-title="CANAIS SD2",            REDE SUPER
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvebahia.png" group-title="CANAIS SD2",            TVE BAHIA
-http://ebctvbrasil-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="CANAIS SD2",            TV GRAVA
-http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="CANAIS SD2",            AD ALMADA
-http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/GxhBGC" group-title="CANAIS SD2",            AMAZON SAT
-http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="CANAIS SD2",  SESC TV
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/no1Al0A.png" group-title="CANAIS SD2",            TV CÂMARA
-http://stream2.camara.gov.br:80/tv2/manifest.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/5SvcimL.png" group-title="CANAIS SD2",            CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="CANAIS SD2",            HIT SAM
-http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zjyGrV8.png" group-title="CANAIS SD2",            ADINET TV
-http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="CANAIS SD2",             ADONAI TV
-http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-45xnuFaz7Sg/AAAAAAAAAAI/AAAAAAAAAAA/ytlSE3dvFkU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS SD2",     TV COM (Maceio)
-http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/02/multitv.jpg" group-title="CANAIS SD2",            BUZIO TV
-http://wse3.player.tv.br:1935/buziostv/buziostv/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/p3ou2uvu5/tvuniversal.png" group-title="CANAIS SD2",             TV Universal
-http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?Jspedroso
- 
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1duuy2" group-title="CANAIS SD2",            CANAL PROMESSAS
 http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS SD2",            CANAL  SETE
-http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/wbk9wz2t5/nbr_MEGAMAXIPTV.jpg" group-title="CANAIS SD2",             NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="CANAIS SD2", GLOBO NEWS
 http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwAHD1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFhddV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
@@ -924,26 +841,6 @@ http://193.200.164.172:8000/live/wallace/1234/277.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="CANAIS SD2", TOONCAST
 http://185.152.66.81:25461/live/leticia/123456/1713.m3u8?token=SUZYUxZQRwJGVQleBlBQD1QFAgUCUVIAAAEBAQJRB1wFAQADA1xcXQYRFERGFhddV1loCFdHC1cDBAofExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAFYECkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVAABG04=
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/4.bp.blogspot.com/-dZOB8Xc9o0U/WHbbY4TBueI/AAAAAAAABtE/r5Q25bInVrogutwNABiEz1638NJEr7_MgCLcB/s1600/filmes%2Be%2Bseries.jpg" group-title="CANAIS SD2",             DESENHOS 24HRS
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/y5yIl96.png" group-title="CANAIS SD2", Anime TV http://www.iptvmexico.xyz/pony2/965.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/y5yIl96.png" group-title="CANAIS SD2",             ANIME TV SPANHOL
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?jhonlocao
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/mlyqbuqrx/unnamed.png" group-title="CANAIS SD2",                    CARTOON GOSPEL
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" group-title="CANAIS SD2",     CLASSIQUE TV
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8?DantasIPTV
-
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDMAIS" tvg-logo="https://s20.postimg.org/qabk9es4d/images.jpg" group-title="CANAIS SD2",TV KIDMAIS
-http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="CANAIS SD2",  TV NA ILHA
-http://video01.tvdigitalhd.org/jovani23984/jovani23984/chunklist_w1339591262.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/9iBYYHL.png" group-title="CANAIS SD2",     GOSPEL MOVEL TELEVISION
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FrancoIPTV
@@ -1083,27 +980,6 @@ http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="CANAIS SD2", DISCOVERY TURBO
 http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlUHWQ5VAlIBAVBUAgUKBQNWAVMAVgIBBF0GCFIRFERGFhddV1loCFdHC1cMBg0fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBVUEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcFXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAcBG04
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS SD2", TV RIO
-http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/caWgstt.png" group-title="CANAIS SD2",                    PLAY TV
-http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="CANAIS SD2",     MTV DANCE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="CANAIS SD2",                   MTV DANCE
-http://91.231.219.145:80/tv_mtv_dance/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/p2c8bPp.png" group-title="CANAIS SD2",     MTV LIVE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="CANAIS SD2",            HIT SAM
-http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s27.postimg.org/lii6qu8mb/TV_Clima.png" group-title="CANAIS SD2",                   TV CLIMA HD
-http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS SD2",                   TV RENACER GOSPEL
 http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
 
@@ -1113,8 +989,6 @@ http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/rff1DsY.gif" group-title="CANAIS SD2",                    FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/GHX9NT" group-title="CANAIS SD2",                   CAMERA NASA
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 ########### CANAIS SD3 ##########################
 
@@ -1233,56 +1107,6 @@ http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFB
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5aac8da02d431a359eeb07583e69fdae.jpg" group-title="CANAIS SD3",VIVA
 http://185.152.66.81:25461/live/ezequiel/12345/1705.m3u8?token=SUZYUxZQRwJGV11UBlVXWlMHBlABBABRAQddBwhWV11UAgYAUgEAWQERFERGFhddV1loCFdHC1cDBQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdSB1MCEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1cHRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlIGVxZI
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/28d8ef9d14b446721b74b1ae9210d421.jpg" group-title="CANAIS SD3",TV web nova paraiba
-http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5a7b2eedd2fad069ab3af67e5db7f1f5.jpg" group-title="CANAIS SD3",Agro Canal
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="CANAIS SD3",TV Diario
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/343d21895c85be58b446f670119d49ec.jpg" group-title="CANAIS SD3",Terra Viva
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/22c1566609640284a08aaffb1634d240.jpg" group-title="CANAIS SD3",Canal Do Boi
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e9c5782c9059206f0d8120887730c564.jpg" group-title="CANAIS SD3",Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9a426110307444f76790d23866a895b0.jpg" group-title="CANAIS SD3",TV GRAVA
-http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb2279317a0e4aff60c8ae23f707043a.jpg" group-title="CANAIS SD3",AD ALMADA
-http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80b30efd37a64311e94a39aa76c78a3c.jpg" group-title="CANAIS SD3",AMAZON SAT
-http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4288612218bc8d9729a7b3911c2e82a4.jpg" group-title="CANAIS SD3",SESC tv
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0b7e1d1a0ff5a2ba58fe1737b88eccb9.jpg" group-title="CANAIS SD3",TV C�mara
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c43a7eeacb3dfd5f00c5cf47d7c2874.jpg" group-title="CANAIS SD3",CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6aee6e72b3b58a74066030478119fb76.jpg" group-title="CANAIS SD3",HIT SAM
-http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ed5ec7ec1764079344c1bdd42524b3bb.jpg" group-title="CANAIS SD3",ADINET TV
-http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3b6d02a0579ab1e5801717ec54eb7f16.jpg" group-title="CANAIS SD3",ADONAI TV
-http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/43e8767d766921a683a3b10d2442bee4.jpg" group-title="CANAIS SD3",TV Com (Maceio)
-http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5a091733417cc043d39f62beb91a7b5f.jpg" group-title="CANAIS SD3",BUZIO TV
-http://wse3.player.tv.br:1935/buziostv/buziostv/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d9467184a11acea9b77fbfbcf5486985.jpg" group-title="CANAIS SD3",NOSSA TV
 http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@381920/index_600_av-p.m3u8
@@ -1404,45 +1228,6 @@ http://158.69.237.83:25461/live/leticia/123456/1830.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/661e7aceabc5d149032e60be57d555ea.jpg" group-title="CANAIS SD3",TOONCAST
 http://185.152.66.81:25461/live/leticia/123456/1713.m3u8?token=SUZYUxZQRwJGVQleBlBQD1QFAgUCUVIAAAEBAQJRB1wFAQADA1xcXQYRFERGFhddV1loCFdHC1cDBAofExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAFYECkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVAABG04=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b3f6d90cc927d540931b68e650279a8a.jpg" group-title="CANAIS SD3",TV FILMES 4 ESPANHOL
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/095cc56f69fcc73a23da521f7d253e36.jpg" group-title="CANAIS SD3",DESENHOS 24HRS
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bab902dc91f10915a29d8ec683da1555.jpg" group-title="CANAIS SD3",Anime TV  Espanhol
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?jhonlocao
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/14199fce6082d8884b5cabc9fd48925c.jpg" group-title="CANAIS SD3",Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/43a88cf31adcc785d8cac93e930109ec.jpg" group-title="CANAIS SD3",Classique TV
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8?DantasIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4a7044e9789d71c74df2b4bc3330a530.jpg" group-title="CANAIS SD3",TV KIDMAIS
-http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?CANAISGLAU
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/483aff7ff094c56ea0f96cbc7d23b3bc.jpg" group-title="CANAIS SD3",cine TV na ilha 2
-http://video01.tvdigitalhd.org/jovani23984/jovani23984/chunklist_w1339591262.m3u8?CANAISGLAU
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/483f2e4dc0e6eb928365cb0756cfad37.jpg" group-title="CANAIS SD3",cine TV na ilha
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?wowzasessionid=1590970955
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/82fd5fde710f382a7785926d203d5a93.jpg" group-title="CANAIS SD3",Gospel Movies Television
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FrancoIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b6a6dac2f682714793e3321a0633443c.jpg" group-title="CANAIS SD3",Cine +
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0a052b63ce110a3642eb24404b1c697b.jpg" group-title="CANAIS SD3",CINE TERROR
-http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/92fec959bce0b6fc4b2f210191443302.jpg" group-title="CANAIS SD3",cine TV 3
-http://wse.stmip.in:1935/rtguarany/rtguarany/chunklist_w1492218005.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4827f201b44b49adf4f82630e233f3d0.jpg" group-title="CANAIS SD3",cine TV Sky
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0611e75164b0eff13792f7944261b5a3.jpg" group-title="CANAIS SD3",COMEDY CENTRAL HD
 http://185.152.66.81:25461/live/ezequiel/12345/1843.m3u8?token=SUZYUxZQRwJGAl0FA1cAD1RWAlMGVlVVB1dYAAUGV1YFXQhQXQlXClQRFERGFhddV1loCFdHC1cMAQofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlEEB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClwCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlEEUgUXRA
 
@@ -1542,36 +1327,6 @@ http://cinevip.cineiptv.com:25461/live/gui/gui/783.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/251d80dc0ca8a015ee47597ce22bb3ca.jpg" group-title="CANAIS SD3",MAX PRIME BR
 http://185.152.66.81:25461/live/leticia/123456/1790.m3u8?token=SUZYUxZQRwJGAglVA1VVXgAAVFgDXVIHBQZcCwJUAQFUXQIBUgoGWVIRFERGFhddV1loCFdHC1cDDAkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1YGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcDXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUwwMG04
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e910ed5039721a7a33b3003652a6c390.jpg" group-title="CANAIS SD3",Reedbull TV
-https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_578.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5c6633f51fb9a7b54d8661df48a68788.jpg" group-title="CANAIS SD3",Movistar MotoGP HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b6deb25c93a28853505d713d6c428847.jpg" group-title="CANAIS SD3",Automoto TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/90f22ef067d929d36e42f9b740b41169.jpg" group-title="CANAIS SD3",ARENA SPORT 2
-http://66.70.129.43:8080/Arena2-SRB/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bc9c3be1933c03c594f150e8315369f8.jpg" group-title="CANAIS SD3",ARENA SPORT 3
-http://66.70.129.43:8080/Arena3-SRB/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4fa11238b4bfc65577b7cee8c7801cf.jpg" group-title="CANAIS SD3",All Sports HD
-http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?ISAQUE
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8130de470f39f66524cd7d5f44dfa81c.jpg" group-title="CANAIS SD3",LALIGA TV
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b2180922840b65af19995804ba5134c4.jpg" group-title="CANAIS SD3",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dfaf121876d0d8ec78b9b51bcf3c356c.jpg" group-title="CANAIS SD3",Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cc180b2405e5d0bfadaa304a3e204eca.jpg" group-title="CANAIS SD3",Golf Channel |USA|
-http://live-trl102.abweb.com/liveabtrl102/ngrp:golfchannel.stream_bis/chunklist_b1096000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8dc244d9e5e46dd63669ffe6e437437d.jpg" group-title="CANAIS SD3",Boa Vontade Tv
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?CANALANDRONALTAS
 
@@ -1605,41 +1360,12 @@ http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlU
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6b05d2dc4b67da6fd957c2428c1b8a56.jpg" group-title="CANAIS SD3",Discovery Science
 http://cinevip.cineiptv.com:25461/live/Eliezer1/Eliezer1/844.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/db9f5c585621890ec4d6a05d22c889e6.jpg" group-title="CANAIS SD3",Tv Rio
-http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2821ae38e38d8ec9f6021c797830a87a.jpg" group-title="CANAIS SD3",Mi música
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/580f9be191b2732d02ff6a01baffc7af.jpg" group-title="CANAIS SD3",PlayTV
-http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c140f215eed59699d5928e5d5e6b876.jpg" group-title="CANAIS SD3",MTV DANCE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ba82e7d9e3e56deff4844672475a0643.jpg" group-title="CANAIS SD3",MTV DANCE
-http://91.231.219.145:80/tv_mtv_dance/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef36606949bd4237cc3b38408612a0e5.jpg" group-title="CANAIS SD3",ADinet TV
-http://stmv2.srvstm.com/adinet/adinet/playlist.m3u8?gpctv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8d1de32fdbd2ad0dc21cc79276bcbcd.jpg" group-title="CANAIS SD3",MTV LIVE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b7eed0e5cc9fca65d2ae35f6358d7722.jpg" group-title="CANAIS SD3",TV CLIMA HD
-http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/06c1715ce9680818e575f819b7f67ed9.jpg" group-title="CANAIS SD3",TV RENACER GOSPEL
-http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/73f0aeddda87d50c97cdfe221af8bba4.jpg" group-title="CANAIS SD3",Portal Gospel TV
 http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1465a8314a9417b5cbd66c010324ba04.jpg" group-title="CANAIS SD3",Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53f5283bd52a9fc01c8b253f517a535d.jpg" group-title="CANAIS SD3",El 13 Espa�a
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3450b824bd673ce9fb3f5c0032ad1752.jpg" group-title="CANAIS SD3",Rádio Gospel
 http://192.99.150.31:9101/;?CANALANDRONALTAS
