@@ -1389,10 +1389,10 @@ http://204.12.244.50:8080/turma-da-monica/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03fb4783691f539869242f88996e7033.jpg" group-title="BRASIL SD2",ESPN BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL SD 2",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df2e30d5b7ca74c0bbacd0c25b0074f9.jpg" group-title="BRASIL SD2",BRASIL 3
 http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL SD 2",BRASIL 3 Interativo 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/653593454269c2f4105ec00ac7568025.jpg" group-title="BRASIL SD2",BRASIL 3 Interativo 2 
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b86949c33873bc3d67f53fba1277d41c.jpg" group-title="BRASIL SD2",SYFY 
@@ -1503,7 +1503,7 @@ http://servidor01.servertv.com/GLOBOMINASA-F/tracks-v1a1/mono.m3u8?token=f8f801b
 http://servidor01.servertv.com/GLOBONEWSJ-/tracks-v1a1/mono.m3u8?token=93543af20915167472d8d2c085f5e3130b5760db-7b7cb9f48aa1e27cdb7deac287b4ee10-1523574017-1523563217
 
 
-#EXTINF:-1 group-title="BRASI SD", MAIS GLOBOSAT
+#EXTINF:-1 group-title="BRASIL SD", MAIS GLOBOSAT
 http://servidor01.servertv.com/MAISGLOBOSATP-/tracks-v1a1/mono.m3u8?token=e22a0c8dc90411980c16a76a3960ece5f776447e-318f83d5d746f7f0115605494a642648-1523601389-1523590589
 
 
@@ -1579,7 +1579,7 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?FORMIGAtv
 http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?FORMIGAtv
 #EXTINF:-1 group-title="BRASIL SD",IURD TV INTERNACIONAL
 http://api.new.livestream.com/accounm3u8?FORMIGAtv?FORMIGAtv/4486152/evenm3u8?FORMIGAtv?FORMIGAtv/2780306/live.m3u8?FORMIGAtv
-#EXTINF:-1 group-title="CANAIS SD ",SOBRENATURAL TV
+#EXTINF:-1 group-title="BRASIL SD",SOBRENATURAL TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?FORMIGAtv
 #EXTINF:-1 group-title="BRASIL SD",BOA VONTADE
 http://api.new.livestream.com/accounm3u8?FORMIGAtv?FORMIGAtv/15107153/evenm3u8?FORMIGAtv?FORMIGAtv/4338771/live.m3u8?FORMIGAtv
