@@ -69,9 +69,6 @@ http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1841.ts?token=SUZYUxZQRwJG
 #EXTINF:-1 tvg-logo="" group-title="CANAIS SD1", DISCOVERY CHANNEL HD
 http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1840.ts?token=SUZYUxZQRwJGUQhRA1FSDlVVUVgAVwcCUVcLAlRUDVBRVgECVQlQXgERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcLVAUKUQRASRpCXVoEEV8AUwYGDAQIUgxVHkZAWwEaXxpdCgFfF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgQBCwVAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUKCgNASA==
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="CANAIS SD1", DISCOVERY TURBO
-http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlUHWQ5VAlIBAVBUAgUKBQNWAVMAVgIBBF0GCFIRFERGFhddV1loCFdHC1cMBg0fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBVUEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcFXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAcBG04
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS SD1", DISCOVERY HEH
 http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1838.ts?token=SUZYUxZQRwJGBA1UBQdQDgUMBFdXXQVeVlFbBlUEAQEABVVWBwxUAQERFERGFhddV1loCFdHC1cMBgEfExdGAUA7WVZHAkcLVAUKUQRASRpCXVoEEV8AUwYGDAQIUwZTHkZAWwEaXxpVBApSAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcAAQVAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBQYJAxMf
 
@@ -301,6 +298,238 @@ http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1735.ts?token=SUZYUxZQRwJG
 ################### CANAIS 24HRS ##########################
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3fe626d8b8a048fd6962f195b053c79c.jpg" group-title="CANAIS 24HRS",Pica Pau
+http://165.227.82.198/Pica-Pau/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6393e615fac2c0dc04ec1121dcbc2152.jpg" group-title="CANAIS 24HRS",Dragon Ball Z
+http://165.227.82.198/DragonBall-Z/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1532481948d9ba8aadbe32c6229e6480.jpg" group-title="CANAIS 24HRS",Dragon Ball GT
+http://165.227.82.198/dragon-ball-gt/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9ae7bb32ccebc7661d73ae16e4a501c7.jpg" group-title="CANAIS 24HRS",Dragon Ball Kai
+http://165.227.82.198/dragon-ball-kai/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9db12cee18c430792c9a862987bb5bdb.jpg" group-title="CANAIS 24HRS",Dragon Ball - A Saga Cell
+http://165.227.82.198/dragon-ball-z-saga-de-cell/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5ca5dbade1834e2bc9369395750f4cb3.jpg" group-title="CANAIS 24HRS",Dragon Ball - A Saga dos Androides
+http://165.227.82.198/dragon-ball-z-saga-dos-androides/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6288fe17c085cadfc9d8f9951e2c31f9.jpg" group-title="CANAIS 24HRS",Dragon Ball - Saga Torneio do Outro Mundo
+http://165.227.82.198/dragon-ball-z-saga-torneio-do-outro-mundo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/673c054f5a89ddeeebff32c322199e5c.jpg" group-title="CANAIS 24HRS",Dragon Ball - Saga Majin Boo
+http://165.227.82.198/dragon-ball-z-saga-majin-boo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abe6390f869db51b370787cea1ede8f1.jpg" group-title="CANAIS 24HRS",Dragon Ball - Saga de Garlic Jr
+http://165.227.82.198/dragon-ball-z-saga-garlic-jr/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/55101695eb8cae79f0bc9a2ae22bccf2.jpg" group-title="CANAIS 24HRS",Naruto
+http://165.227.82.198/naruto/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/33bef7f083e4e13fd51fb811496231a1.jpg" group-title="CANAIS 24HRS",Os Simpsons
+http://165.227.82.198/ossimpsons/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/705af1602d91815fd48a450e6d31d16d.jpg" group-title="CANAIS 24HRS",Caveleiros do Zod�aco
+http://165.227.82.198/Cavaleiros/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d29dd58b956c0bce6546bfb2cb67858d.jpg" group-title="CANAIS 24HRS",Corrida Maluca
+http://165.227.82.198/Corrida-Maluca/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/49123ca0146a82bf30b94da02b49a33d.jpg" group-title="CANAIS 24HRS",Bob Esponja
+http://165.227.82.198/bobesponja/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ffd0c8f62f7cd2115ab979ba0acaf84e.jpg" group-title="CANAIS 24HRS",a Patroa e as Crian�as
+http://165.227.82.198/eu-a-patroa-e-as-criancas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/510809cfe8963c4e469a3ef43faf492a.jpg" group-title="CANAIS 24HRS",Um Maluco no Pedaco
+http://165.227.82.198/um-maluco-no-pedaco/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dc07ad7584e9a07ac5f81b9ce16a4e45.jpg" group-title="CANAIS 24HRS",Scooby doo
+http://165.227.82.198/scooby-doo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3d24cdef28150a913ce37c5894a65ede.jpg" group-title="CANAIS 24HRS",Liga da Justica
+http://165.227.82.198/liga-da-justica/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6b11cccb1b48a5d5eb915586adabddbe.jpg" group-title="CANAIS 24HRS",I Carly
+http://165.227.82.198/icarly/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/db1311a384551ea1424a643d35336d8f.jpg" group-title="CANAIS 24HRS",Turma do Pateta
+http://165.227.82.198/turma-do-pateta/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f997bc6fa75e1fdabaaf167710720526.jpg" group-title="CANAIS 24HRS",Os Vingadores
+http://165.227.82.198/vingadores/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2717b6393aebab069ebac25e4db05353.jpg" group-title="CANAIS 24HRS",Pernalonga
+http://165.227.82.198/Pernalonga/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ada2b0d136efb997f47201d78605f6ec.jpg" group-title="CANAIS 24HRS",Fund�ncio
+http://165.227.82.198/fudencio/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f600eba435190b235795c0f9e9363923.jpg" group-title="CANAIS 24HRS",Espetacular Homem Aranha
+http://165.227.82.198/espetacular-homem-aranha/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f075b387a6849054ebffd3ea8145fc35.jpg" group-title="CANAIS 24HRS",A Pantera cor de rosa
+http://165.227.82.198/pantera-cor-de-rosa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/12ca3a2045670d6436753f8efe32e5c5.jpg" group-title="CANAIS 24HRS",Wolverine X Men
+http://165.227.82.198/wolverine-X-Men/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/84012c75a60f60dc095fed4aa6952e51.jpg" group-title="CANAIS 24HRS",Super Choque
+http://165.227.82.198/super-choque/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/92b4b73f0358090f9530d34a9b817be8.jpg" group-title="CANAIS 24HRS",Batmam: A S�rie
+http://165.227.82.198/batmam-a-serie/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ff075f31c92b34950c9ad508795b7628.jpg" group-title="CANAIS 24HRS",Batman: Cavaleiro de Gotam
+http://165.227.82.198/batman-cavaleiro-de-gotan/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7f5405093aee8529d27287020dacfc0b.jpg" group-title="CANAIS 24HRS",Tr�s Espi�s Demais
+http://165.227.82.198/tres-epiaes-demais/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3d2cd9142b73018f0865e8b0af63e8bf.jpg" group-title="CANAIS 24HRS",Castelo Ra tim bum
+http://165.227.82.198/castelo-ra-tim-bum/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b4d5e7025669d3cf5eed149534cedbe4.jpg" group-title="CANAIS 24HRS",O M�skara
+http://165.227.82.198/o-mascara/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/72acc8c2d2b109dc9c2dcddde4bba224.jpg" group-title="CANAIS 24HRS",Jiraya
+http://165.227.82.198/jiraya/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/038839c0c6e181f078f25e0c18dd9690.jpg" group-title="CANAIS 24HRS",Os Flinstones
+http://165.227.82.198/flinstones/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71998082b280f456ff73a09f261b9a52.jpg" group-title="CANAIS 24HRS",Jaspion
+http://165.227.82.198/jaspion/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/76286575261be13c4a2f226d1d9266b8.jpg" group-title="CANAIS 24HRS",Os Jovens Titas
+http://165.227.82.198/os-jovens-titas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a137aa7b762f877a00038b8a655459de.jpg" group-title="CANAIS 24HRS",King Kong
+http://165.227.82.198/king-kong/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0e8e30c2119741030c95c39beca59ff1.jpg" group-title="CANAIS 24HRS",Riquinho
+http://165.227.82.198/riquinho/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eda7a92a766c280416181d71c4155281.jpg" group-title="CANAIS 24HRS",YU-GI-OH
+http://165.227.82.198/yu-gi-oh/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/45c8276c6e0b09953245a2bc0cfa701d.jpg" group-title="CANAIS 24HRS",Charlie Brown & Snoopy
+http://165.227.82.198/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a0db7ae4e7f49b7fa4d0a97fafc53ffd.jpg" group-title="CANAIS 24HRS",Turma da M�nica
+http://165.227.82.198/turma-da-monica/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bdcff5d815e3248f482d207b276f4356.jpg" group-title="CANAIS 24HRS",Apenas um Show
+http://165.227.82.198/apenas-um-show/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e779212a02b2ed7546f4d664364c2df7.jpg" group-title="CANAIS 24HRS",Os Padrinhos M�gicos
+http://165.227.82.198/padrinhos-magicos/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5687675b3d7d3609e6996090b4b9e67a.jpg" group-title="CANAIS 24HRS",Justica Jovem
+http://165.227.82.198/justica-jovem/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9ea6b6ce4e3d4972b994c0440cec5c7e.jpg" group-title="CANAIS 24HRS",Os Jetsons
+http://165.227.82.198/Os-Jetsons/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d62f6d0dd8f6be1aa0cfb86f0561b3e6.jpg" group-title="CANAIS 24HRS",Manda Chuva
+http://165.227.82.198/Manda-Chuva/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/084065aa9557268fda96ef50a2ea557d.jpg" group-title="CANAIS 24HRS",Uma Fam�lia da Pesada
+http://165.227.82.198/uma-familia-da-pesada/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3cbc685f08d3c217af257e84f07d3b56.jpg" group-title="CANAIS 24HRS",South Park
+http://165.227.82.198/south-park/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/98c643bf333913b10c5915c24e0d54cf.jpg" group-title="CANAIS 24HRS",Comando Estrelar Flashman
+http://165.227.82.198/flashman/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cbaed71f7fe38c70616a7726bc9f3cb0.jpg" group-title="CANAIS 24HRS",Familia Dinossauro
+http://165.227.82.198/familia-dinossauro/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5ede5b3f4e5f645172fb4de7b1cb42b0.jpg" group-title="CANAIS 24HRS",Winspector
+http://165.227.82.198/winspector/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8f324f0e10145a49abe17bdf8213a5e.jpg" group-title="CANAIS 24HRS",Chaves
+http://165.227.82.198/chaves/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/805ee19766b064ea3eedcd08c798ba8d.jpg" group-title="CANAIS 24HRS",BEN 10:Omniverse
+http://165.227.82.198/ben-10-universo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e24c758d01be56b0cbd110d1778b430.jpg" group-title="CANAIS 24HRS",Thundercasts (2011)
+http://165.227.82.198/Thundercats-2011/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4b6adc454ed2a0f00ac4b4017085d053.jpg" group-title="CANAIS 24HRS",Thundercasts Cl�ssico
+http://165.227.82.198/thundercasts-classico/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77d67d6f5391400df891f5f29fcec1be.jpg" group-title="CANAIS 24HRS",Liga da Justica A��o
+http://165.227.82.198/liga-justica-acao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dab6d62c6e1eec298576ec50b002c8eb.jpg" group-title="CANAIS 24HRS",Megaman NT Warrion
+http://165.227.82.198/mega-men-nt/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/371273452e22fc99f889591059533742.jpg" group-title="CANAIS 24HRS",Aventuras de Billy e Mandy
+http://165.227.82.198/aventuras-de-billy-e-mandy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c7b355212ab4e7b5508806989a94c30a.jpg" group-title="CANAIS 24HRS",Samurai Jack
+http://165.227.82.198/samurai-jack/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6576301ae57080fbfdcfebc2ea1853db.jpg" group-title="CANAIS 24HRS",As Meninas Superpoderosas
+http://165.227.82.198/as-meninas-superpoderosas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/118c1f098afe661e1f09fd0a5701e91d.jpg" group-title="CANAIS 24HRS",Hey Arnold!
+http://165.227.82.198/hey-arnold/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/30c2feca9833ad9f72c11e498c8275e0.jpg" group-title="CANAIS 24HRS",A Casa do Mickey
+http://165.227.82.198/casa-do-mikey/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ac9a3a07a10e179bbf72c83131e26b7b.jpg" group-title="CANAIS 24HRS",Caverna do Drag�o
+http://165.227.82.198/caverna-do-dragao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b2ceedcefc3b735e21359f2a8229b79a.jpg" group-title="CANAIS 24HRS",Pok�mon
+http://165.227.82.198/pokemon/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/afaa672615c09fb2040ab437ff05c6e4.jpg" group-title="CANAIS 24HRS",Recruta Zero
+http://165.227.82.198/recruta-zero/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0507b41a3652f29ce7b64bc997d5a11f.jpg" group-title="CANAIS 24HRS",A Hora do Recreio
+http://165.227.82.198/hora-do-recreio/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2692c788fe346df892293289ae74c306.jpg" group-title="CANAIS 24HRS",Jambo e Ruiv�o
+http://165.227.82.198/jambo-ruivao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e0d210928da4ab595e4b5db9737af335.jpg" group-title="CANAIS 24HRS",Sailor Moon
+http://165.227.82.198/sailor-moon-dublado/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/34b7963f2172a2cdc74d104ddd37b706.jpg" group-title="CANAIS 24HRS",Pinky e o C�rebro
+http://165.227.82.198/pink-cerebro/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6e45afc7738b74719a663d5abf356fc9.jpg" group-title="CANAIS 24HRS",O Fant�stico Mundo de Bobby
+http://165.227.82.198/mundo-de-bobby/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/160cd5e1bc01291cb2c680c23c9ef026.jpg" group-title="CANAIS 24HRS",Gato F�lix
+http://165.227.82.198/gato-felix/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7de73e029fd1458633d13379920087de.jpg" group-title="CANAIS 24HRS",Coelho Ricochete & Blau Blau
+http://165.227.82.198/coelho-ricochete/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4a354e39e1d8cc36095e45f84897967d.jpg" group-title="CANAIS 24HRS",Vaca e o Frango
+http://165.227.82.198/Vaca-e-o-Frango/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fa3c8e6ae63e343f080937d9a1a780e9.jpg" group-title="CANAIS 24HRS",A Pequena Sereia
+http://165.227.82.198/Pequena-sereia/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b30c560143ccc41e778b288836c42d4f.jpg" group-title="CANAIS 24HRS",Dudu e Edu
+http://165.227.82.198/Du-Dudu-Edu/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/aa22ca523224d32e4d28613c1b71ebd1.jpg" group-title="CANAIS 24HRS",Z� Buscap�
+http://165.227.82.198/ze-buscape/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ab1fba73bcd71015f3a0b5442aede11c.jpg" group-title="CANAIS 24HRS",Bibo Pai e Filho
+http://165.227.82.198/Bibo-pai-e-filho/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/588013269c80b3507ebdb66d28da3086.jpg" group-title="CANAIS 24HRS",Charlie Brown & Snoopy
 http://204.12.244.50:8080/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
 
@@ -343,13 +572,13 @@ http://204.12.244.50:8080/laboratorio-dexter/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77e788b048068b01c00b7ab4e1e1aea9.jpg" group-title="CANAIS 24HRS",Jonny Quest
 http://204.12.244.50:8080/Jonny-Quest/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53fbee80583a4a28788fb27c082bac10.jpg" group-title="CANAIS SD2",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53fbee80583a4a28788fb27c082bac10.jpg" group-title="BRASIL SD",BRASIL 3
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/675fc1836b7e1cc9ed013f45e719bab4.jpg" group-title="CANAIS 24HRS",o Cão Covarde
 http://204.12.244.50:8080/Coragem-Cao-Covarde/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecca54954409d7ec927bd8bcb82fb45b.jpg" group-title="CANAIS SD2",Premiere Clubes
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecca54954409d7ec927bd8bcb82fb45b.jpg" group-title="BRASIL SD",Premiere Clubes
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dcf93e43269baef3ee0852d1ff7b0df5.jpg" group-title="CANAIS 24HRS",Futurama
@@ -1017,3 +1246,609 @@ http://192.99.150.31:8377/;
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS SD2", ROCK
 http://192.99.150.31:9125/stream?
+
+########### CANAIS SD3 ##########################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/84d2dd5439cc8702d41e7615a977f284.jpg" group-title="CANAIS SD3",GLOBO
+http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8b3123fd248a97b90775cc4a8dfce066.jpg" group-title="CANAIS SD3",Globo SP HD
+http://185.152.66.81:25461/live/ezequiel/12345/1810.m3u8?token=SUZYUxZQRwJGVgFXUAcGDwQGA1VVUFJUDQwOBQkGA1wEUQJRAQ5QWVQRFERGFhddV1loCFdHC1cMBAkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAlMGAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVwcDG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4be1d8084a7bd1f7c9531d0f41a9c246.jpg" group-title="CANAIS SD3",Globo RJ HD
+http://185.152.66.81:25461/live/ezequiel/12345/1811.m3u8?token=SUZYUxZQRwJGVwpXVlIDXgUGA1EDAVcHAAQMAVBWAgcKVVQDAQhUDAcRFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVB1QIBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEUAcAG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/14e45c6571c54232829274de93693115.jpg" group-title="CANAIS SD3",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/18ac9bac61e7e74c9e4e9e046d02e309.jpg" group-title="CANAIS SD3",SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c129dc600550b4fff36158b04fbda0a.jpg" group-title="CANAIS SD3",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4d63df92f1a07ce9dc8d37de3816efc4.jpg" group-title="CANAIS SD3",SBT Pará
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/65cd59de782c01dac96c2d87c2f1e270.jpg" group-title="CANAIS SD3",SBT SP
+https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6ab43e7602905bafb2eb2aef17c92b4e.jpg" group-title="CANAIS SD3",Record SC
+https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/782a04b73c1216ded4c078fc59e877fd.jpg" group-title="CANAIS SD3",RECORD
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w939608304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/29e1550dd0135af4281e03281a9d9fc6.jpg" group-title="CANAIS SD3",Record MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?IPTVCOTIA++++
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c7eda7d245a76296c697a0d182dbed2c.jpg" group-title="CANAIS SD3",RecordTV RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/40c833049481b1c66e4f9fdc0ba982b2.jpg" group-title="CANAIS SD3",BAND
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=161684068
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8b7918ff8a3a5c61206576693684fb67.jpg" group-title="CANAIS SD3",BAND SP
+http://185.152.66.81:25461/live/leticia/123456/1855.m3u8?token=SUZYUxZQRwJGVV5XAFEAXVcCD1YFAQNRAFZcCwJQDAECB1MLVg5XXVwRFERGFhddV1loCFdHC1cMAAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXBVYEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTAlMCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVIDVgEXRA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bf2ef59090cfe359accdd9f4e3357e97.jpg" group-title="CANAIS SD3",UFG TV Brasil
+http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bcb0cb706d1a2720b058e380973f2f02.jpg" group-title="CANAIS SD3",TV BRASIL
+http://bit.do/TV-BRASILIPTVFIRE2018
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80a3093fc524275bdfb267a482de6617.jpg" group-title="CANAIS SD3",Rede TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/10f6d92b82f991d7821e1edee4387c5e.jpg" group-title="CANAIS SD3",IPTV BRASIL 2018
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?MAXHD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5d79cbf48f4832266e517277655ef1ed.jpg" group-title="CANAIS SD3",Rede TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?MAXHD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0621ef1d9ba3acb055d7ea7e82757163.jpg" group-title="CANAIS SD3",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?MAXHD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e64be3cdd58f4bc98ffbf411ce63e16b.jpg" group-title="CANAIS SD3",REDE BRASIL PE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w1598496838_b200000.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1e0d01e05826d0e972ad5bc8d6bf067e.jpg" group-title="CANAIS SD3",Rede Brasil SP
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/chunklist_w1375102357.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/59e9606b99a53ea2f8d405481e7a40b1.jpg" group-title="CANAIS SD3",Rede Brasil SC
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/31f94dff00d7c798cfb71a904c29b171.jpg" group-title="CANAIS SD3",TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d576b588e7c6ef7b36d026f4321f7b11.jpg" group-title="CANAIS SD3",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/68a03e5d22bae6aeba4fdd9a11544df2.jpg" group-title="CANAIS SD3",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8f75d70690ac6bf83ce4183056965ba0.jpg" group-title="CANAIS SD3",TV CULTURA
+http://m3u.me/br/uBry?IPTVFIRE2018?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b5d9aae27aaa530b7fcee84c9968677d.jpg" group-title="CANAIS SD3",TV Pantanal MS
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?VOCÊSABIANÃO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a8bc6ecde77a01ef817ce726f71ec314.jpg" group-title="CANAIS SD3",TV Novo Tempo
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/076ab8c7e568e8c2c5cf26fb9b428732.jpg" group-title="CANAIS SD3",Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?jhonlocao
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/605c9fd806188d215cf1eb9e0fe3f1bd.jpg" group-title="CANAIS SD3",Rede vida
+https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/73b3026130b49cfedb2d4d67edf19e2e.jpg" group-title="CANAIS SD3",mediciCina e saude
+http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/chunklist_w755927461.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/26f7091a9d38185abcb4e0c7ef6e60e1.jpg" group-title="CANAIS SD3",Vem e vê 1
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ed211546ca0988aee806fff7f26e0029.jpg" group-title="CANAIS SD3",Vem e vê 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d6f8a09f2ce59b8b237421b8d464cb1d.jpg" group-title="CANAIS SD3",Vem e vê 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/03d81a6ff7fee9f1d095f6cc5c044dee.jpg" group-title="CANAIS SD3",MTV HD
+http://cine3.elitetv.io:25461/live/Helena/1234/780.m3u8?token=TEdaURVRFgoWU1tXAVcMVFVQBggBWwADU1oHVwcJWlYGBgQGBwBWVAAUTkBFR0cABAlvWQcaClUKCBtAE0JcEGgMVhJcGwwEDQBbQBoRQQwIARIKUxQSEltcFVhEAABQD0ceEgNBQFVGWAMOaVdQEwwHVRJZVkUOXhQVDQhuXQdaBFxURAMWABYaQAtFQxdfRyZCURBRXEJmXVsHBV5UQmRLcx5EFRZSXUIQA0JWF19HVQIJUxocQFFXQgwSQ0BADUdwYkQVFlVMQgcMRVpaC0deEl1QTQhAHhpeETlDXBFDF1dRC1xGEg4UUkAaEVgEHTtTXw1WVQFGUVgMFRMDQAZHHhILVlpZQFkQPUZaUUdfRgMBVAoDQE8=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cde935d3bceb04226579848a1d0d9fb9.jpg" group-title="CANAIS SD3",Multishow
+http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFBVMGDQFWVFgFVVRXBgIBAgdXBFJXUwcHUQEHDQcRFERGFhddV1loCFdHC1cDDQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQBFMJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVZCl0TShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVBVMIREk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5aac8da02d431a359eeb07583e69fdae.jpg" group-title="CANAIS SD3",VIVA
+http://185.152.66.81:25461/live/ezequiel/12345/1705.m3u8?token=SUZYUxZQRwJGV11UBlVXWlMHBlABBABRAQddBwhWV11UAgYAUgEAWQERFERGFhddV1loCFdHC1cDBQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdSB1MCEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1cHRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlIGVxZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/28d8ef9d14b446721b74b1ae9210d421.jpg" group-title="CANAIS SD3",TV web nova paraiba
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5a7b2eedd2fad069ab3af67e5db7f1f5.jpg" group-title="CANAIS SD3",Agro Canal
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/iptv-list.jpg" group-title="CANAIS SD3",TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/343d21895c85be58b446f670119d49ec.jpg" group-title="CANAIS SD3",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/22c1566609640284a08aaffb1634d240.jpg" group-title="CANAIS SD3",Canal Do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e9c5782c9059206f0d8120887730c564.jpg" group-title="CANAIS SD3",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9a426110307444f76790d23866a895b0.jpg" group-title="CANAIS SD3",TV GRAVA
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb2279317a0e4aff60c8ae23f707043a.jpg" group-title="CANAIS SD3",AD ALMADA
+http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80b30efd37a64311e94a39aa76c78a3c.jpg" group-title="CANAIS SD3",AMAZON SAT
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4288612218bc8d9729a7b3911c2e82a4.jpg" group-title="CANAIS SD3",SESC tv
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0b7e1d1a0ff5a2ba58fe1737b88eccb9.jpg" group-title="CANAIS SD3",TV C�mara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c43a7eeacb3dfd5f00c5cf47d7c2874.jpg" group-title="CANAIS SD3",CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6aee6e72b3b58a74066030478119fb76.jpg" group-title="CANAIS SD3",HIT SAM
+http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ed5ec7ec1764079344c1bdd42524b3bb.jpg" group-title="CANAIS SD3",ADINET TV
+http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3b6d02a0579ab1e5801717ec54eb7f16.jpg" group-title="CANAIS SD3",ADONAI TV
+http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/43e8767d766921a683a3b10d2442bee4.jpg" group-title="CANAIS SD3",TV Com (Maceio)
+http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5a091733417cc043d39f62beb91a7b5f.jpg" group-title="CANAIS SD3",BUZIO TV
+http://wse3.player.tv.br:1935/buziostv/buziostv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d9467184a11acea9b77fbfbcf5486985.jpg" group-title="CANAIS SD3",NOSSA TV
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@381920/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/30e839caaa746d750becfb6e76e27fb6.jpg" group-title="CANAIS SD3",TV Universal
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?Jspedroso
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8783c65e86c6626c808941ccd024a7ee.jpg" group-title="CANAIS SD3",SHOW DA FÉ
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/master.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4e34c4e3c68d883dc26f4b5d3e4989e8.jpg" group-title="CANAIS SD3",CANAL PROMESSAS
+http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fcb8ce8acfa01d99f860326624912ec3.jpg" group-title="CANAIS SD3",Globo News
+http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwAHD1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFhddV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7a0b105e238a21e4e15aae70536c9397.jpg" group-title="CANAIS SD3",BAND NEWS HD
+http://185.152.66.81:25461/live/ezequiel/12345/1857.m3u8?token=SUZYUxZQRwJGAw4CUQNRClADBFZXUQUDBAFcUgNWBAEFVAgCBA1XWwURFERGFhddV1loCFdHC1cMAA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRAlABEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAVAJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlUCVRZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd87e68eb230bef8bbdbb75aac38490a.jpg" group-title="CANAIS SD3",Record news HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/82a517e3c2bef564f1c22fe2c21afa14.jpg" group-title="CANAIS SD3",IFC TV Geral
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4255a4b9321198c13c0d4348403952c6.jpg" group-title="CANAIS SD3",Combate
+http://185.152.66.81:25461/live/ezequiel/12345/1845.m3u8?token=SUZYUxZQRwJGVw9QAAAEDA4FU1JQAANWDAYKAlcAB1xXVFQGVQhTCwARFERGFhddV1loCFdHC1cMAQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1MCAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVQCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUA0MG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1b54cf03e57c391290bf3e8cb6839a07.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 1
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b6af561a37e2ab9fd123ac2851876831.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 2
+http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bcde4db1290b443ac232d9e36e4b2ccb.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/192ef9d6a0c565a537bfd85d956a64f8.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 4
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2a2d8ee9e625be7a8e9d3192423b2dc3.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1821d021f1fafd3fe282a13558d03417.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 6
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d60022fe11ad35df9d2da1f3085f27ca.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 7
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/98cf464dcf2a8d6a4ca501be36578dd0.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 8
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/115988291dceaa565edee4c1cf8ca409.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 9
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae921c560123e19a984f21bb152db3c6.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 10
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e73e629a8a05c0a739500d3c10d0e90.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 11
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ea6abdcc171bae37acb4612f64eeca3d.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 12
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/456c69c5e947b2240a7dea12c188fd2b.jpg" group-title="CANAIS SD3",Jogos Ao Vivo 13
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8c668b43a74f88b1dc29ab3f3c4c34a0.jpg" group-title="CANAIS SD3",Jogos Ao Vivo BBB
+http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb1b66505d3ad0c4529ffc7f0495b163.jpg" group-title="CANAIS SD3",Premiere clubes
+http://185.152.66.81:25461/live/ezequiel/12345/1758.m3u8?token=SUZYUxZQRwJGCwsDDQAHCgQFUgMGXAMAAQBaUlNQV1BTUgRQAAxcAAYRFERGFhddV1loCFdHC1cDAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXA1MIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAFQDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQHUBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dd655ce03e7f5e65812d6ea010ba2fdc.jpg" group-title="CANAIS SD3",SporTV
+http://185.152.66.81:25461/live/ezequiel/12345/1738.m3u8?token=SUZYUxZQRwJGAVoHVFVTAFcEA1BSVQJeUQRcC1NVAVZQAQAEXAEAC1QRFERGFhddV1loCFdHC1cDBgEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXBlwFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1YBRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlwIVgwXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/85622a7d448f04474a2508b29bfdb521.jpg" group-title="CANAIS SD3",SporTV 2
+http://185.152.66.81:25461/live/ezequiel/12345/1737.m3u8?token=SUZYUxZQRwJGCwtQDFMEClMNBwALUAheVgNfBghbVFQAVwkAAQAECAYRFERGFhddV1loCFdHC1cDBg4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAlMHBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUQEMG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/12fcfa510586bb80219beecff4444e88.jpg" group-title="CANAIS SD3",SporTV 3
+http://185.152.66.81:25461/live/leticia/123456/1735.m3u8?token=SUZYUxZQRwJGAl5WUQQAXgdXUwMDXQhXA1QMBgNUBAYFBVFQVllRW1cRFERGFhddV1loCFdHC1cDBgwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAVwFC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVQAVMHVBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/852cf557e6eec3cdb7c3bfa36c350038.jpg" group-title="CANAIS SD3",Fox Sports
+http://185.152.66.81:25461/live/leticia/123456/1815.m3u8?token=SUZYUxZQRwJGUVwDBFRWCQJWBAQDB1VXVQYIUAdVUFEAUQkFBlsAXlERFERGFhddV1loCFdHC1cMBAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVBlUDB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlADVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFVwQFG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9755db1985ce115682c6c1908b4de9a5.jpg" group-title="CANAIS SD3",Fox Sports 2
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/def87b3265565bd12ce2033b0fb6d517.jpg" group-title="CANAIS SD3",ESPN
+http://185.152.66.81:25461/live/ezequiel/12345/1824.m3u8?token=SUZYUxZQRwJGUl4DBwcHAVcBUwQLUQcABAMBBQQBVlUFAAkDAQlTXgcRFERGFhddV1loCFdHC1cMBw0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAFUHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQBl0IRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVcAVBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0d37dcc2ac157b501aa0508fc2ae7eb8.jpg" group-title="CANAIS SD3",ESPN BR
+http://185.152.66.81:25461/live/genaro/12345/1866.m3u8?token=SUZYUxZQRwJGBV4DVwNUXgRRVVEFUldWAARYVlNRU1RXUwhXAApSXVARFERGFhddV1loCFdHC1cMAw8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdVA1UCAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAl0BXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgIAG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/014e4e6d643f5e10423429025353e6d1.jpg" group-title="CANAIS SD3",ESPN+
+http://193.200.164.172:8000/live/wallace/1234/408.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2bf1cfa5e2ebc447f939087a84ccf4f7.jpg" group-title="CANAIS SD3",Esporte Interativo
+http://185.152.66.81:25461/live/leticia/123456/2161.m3u8?token=SUZYUxZQRwJGUgxRDFZcDAQGU1lWVwAEUQwJBQdSBlwLAgUHV1tdCF0RFERGFhddV1loCFdHC1QFAwgfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWClAFBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcHUgEXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2cb81bfbcd0f3ffbfd41098d86a58855.jpg" group-title="CANAIS SD3",Esporte Interativo 2
+http://185.152.66.81:25461/live/ezequiel/12345/1827.m3u8?token=SUZYUxZQRwJGB11UDFJUAAFXAlZRBgIAVVNbBFUAAVYAVwkKUlsDWlARFERGFhddV1loCFdHC1cMBw4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVcBBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVRYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYAVQMHG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bcbee6dae59cc310c898dbf473ede356.jpg" group-title="CANAIS SD3",Band Sports
+http://185.152.66.81:25461/live/leticia/123456/1856.m3u8?token=SUZYUxZQRwJGAFsHVFBcWQMBVFZWAwhfV1QOBFADAlUKBQRTUgBQAAERFERGFhddV1loCFdHC1cMAA8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIUwYDG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/84b250d6f55cf705be8c63f3bfbd6126.jpg" group-title="CANAIS SD3",CARTOON NETWORK
+http://185.152.66.81:25461/live/genaro/12345/1847.m3u8?token=SUZYUxZQRwJGClkCDVABCVUDUwAAAQZXVVELCwlVBVFXVwUKUQ1dAAYRFERGFhddV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWAFQJBkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlUGXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgwHG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/159c3f08f8607cb8af4476f188226bfb.jpg" group-title="CANAIS SD3",BOOMERANG
+http://185.152.66.81:25461/live/ezequiel/12345/1852.m3u8?token=SUZYUxZQRwJGUV1fU1pSWgcBAwRQAQhfVVQNBQZQBFUFXAlTVg9UAV0RFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQAFYHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVYBlYTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVA1IHREk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/12778909b7be85f0ab887c0e100dafa5.jpg" group-title="CANAIS SD3",DISNEY CHANNEL
+http://cinevip.cineiptv.com:25461/live/gui/gui/839.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d39c7017639a50bb45a26fb7c22408a0.jpg" group-title="CANAIS SD3",Disney XD
+http://158.69.237.83:25461/live/leticia/123456/1830.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/661e7aceabc5d149032e60be57d555ea.jpg" group-title="CANAIS SD3",TOONCAST
+http://185.152.66.81:25461/live/leticia/123456/1713.m3u8?token=SUZYUxZQRwJGVQleBlBQD1QFAgUCUVIAAAEBAQJRB1wFAQADA1xcXQYRFERGFhddV1loCFdHC1cDBAofExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAFYECkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVAABG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b3f6d90cc927d540931b68e650279a8a.jpg" group-title="CANAIS SD3",TV FILMES 4 ESPANHOL
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/095cc56f69fcc73a23da521f7d253e36.jpg" group-title="CANAIS SD3",DESENHOS 24HRS
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bab902dc91f10915a29d8ec683da1555.jpg" group-title="CANAIS SD3",Anime TV  Espanhol
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?jhonlocao
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/14199fce6082d8884b5cabc9fd48925c.jpg" group-title="CANAIS SD3",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/43a88cf31adcc785d8cac93e930109ec.jpg" group-title="CANAIS SD3",Classique TV
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4a7044e9789d71c74df2b4bc3330a530.jpg" group-title="CANAIS SD3",TV KIDMAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/483aff7ff094c56ea0f96cbc7d23b3bc.jpg" group-title="CANAIS SD3",cine TV na ilha 2
+http://video01.tvdigitalhd.org/jovani23984/jovani23984/chunklist_w1339591262.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/483f2e4dc0e6eb928365cb0756cfad37.jpg" group-title="CANAIS SD3",cine TV na ilha
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?wowzasessionid=1590970955
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/82fd5fde710f382a7785926d203d5a93.jpg" group-title="CANAIS SD3",Gospel Movies Television
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FrancoIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b6a6dac2f682714793e3321a0633443c.jpg" group-title="CANAIS SD3",Cine +
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0a052b63ce110a3642eb24404b1c697b.jpg" group-title="CANAIS SD3",CINE TERROR
+http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/92fec959bce0b6fc4b2f210191443302.jpg" group-title="CANAIS SD3",cine TV 3
+http://wse.stmip.in:1935/rtguarany/rtguarany/chunklist_w1492218005.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4827f201b44b49adf4f82630e233f3d0.jpg" group-title="CANAIS SD3",cine TV Sky
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0611e75164b0eff13792f7944261b5a3.jpg" group-title="CANAIS SD3",COMEDY CENTRAL HD
+http://185.152.66.81:25461/live/ezequiel/12345/1843.m3u8?token=SUZYUxZQRwJGAl0FA1cAD1RWAlMGVlVVB1dYAAUGV1YFXQhQXQlXClQRFERGFhddV1loCFdHC1cMAQofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlEEB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClwCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlEEUgUXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/873af69a4120ac1481a761428a4012e8.jpg" group-title="CANAIS SD3",TBS
+http://185.152.66.81:25461/live/ezequiel/12345/1731.m3u8?token=SUZYUxZQRwJGCw5TBwdRAAZSVlYLUQNfAwVfBVJTVlwHAFQBXA4HWgARFERGFhddV1loCFdHC1cDBggfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1ade2b32816dc853359c20bcdf579fdf.jpg" group-title="CANAIS SD3",Fox Premium1
+http://cine3.elitetv.io:25461/live/gui/gui/825.m3u8?token=TEdaURVRFgoWAFZXBwRTUlNcCQdRDQYBUQwCWgAACFFVUlQJUAsFB1YUTkBFR0cABAlvWQcaCloADRtAE0JcEGgMVhJcGwECBQdWQBoRQQwIARIKUxQSEltcFVhEAgtXA1MQHERcTERRRAwDWmxRABMNU1VBAl4XXlQbQAlfZgZSCFNeAhsOEgQUTkBfQEVHX0ZyQgJLWQ4SbFIOA1JWDxc2HHFIGxgSVl8WEFdHUEdfRgIEWgkSThBbWBcIRUsbFV8QcjQbGBJRThYHWEBcCgtGChIOC0VaEBQVCxVuSwdEEUBVB1RRQhYMQFIUHxcIBBxvUwxWXgdRTF4NCEIbWBVUEBxEVFteXUINEGlDXAFHXhIDUQsEURBF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e72b8bb4770c6bfd255ea429a179ca9a.jpg" group-title="CANAIS SD3",Fox Premium2
+http://185.152.66.81:25461/live/ezequiel/12345/1818.m3u8?token=SUZYUxZQRwJGA1wAAVpSAVcMAwMDXFRUAQZcBlNQDAABUFFUXQ9TCVcRFERGFhddV1loCFdHC1cMBAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAlUHAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVTA1QHVxZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a85ef4ef4f5162921466f767d8552e99.jpg" group-title="CANAIS SD3",TNT SERIES BR
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/efda2f3f3176ae8268ae38d8c81e34f2.jpg" group-title="CANAIS SD3",TNT HD BR
+http://193.200.164.172:8000/live/heron/heron/380.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a693cd7e04002691905f55ecb20f3ec1.jpg" group-title="CANAIS SD3",Paramount Channel
+http://185.152.66.81:25461/live/ezequiel/12345/2117.m3u8?token=SUZYUxZQRwJGV1lWV1NcAFBSBlRWVlcFUlMIA1IHBVBXBlMAUQFVDFwRFERGFhddV1loCFdHC1QFBA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAFYEAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEHVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBXgQHG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2b902f679a487aed37643ed986dce729.jpg" group-title="CANAIS SD3",MegaPix
+http://185.152.66.81:25461/live/ezequiel/12345/1787.m3u8?token=SUZYUxZQRwJGBAlTBgFWDFUEVFgFUFVfUg0AVQlWUVUAXQgLA1wEXlERFERGFhddV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWC1YAAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEFUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVw0HG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2d3907f72ff2b944a88e5f52da46267e.jpg" group-title="CANAIS SD3",Fox Life
+http://cinevip.cineiptv.com:25461/live/Eliezer1/Eliezer1/821.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fb3225e94eaadc2b16f0fb0a6d564881.jpg" group-title="CANAIS SD3",STUDIO UNIVERSAL BR
+http://185.152.66.81:25461/live/genaro/12345/1733.m3u8?token=SUZYUxZQRwJGAAkHB1ZcWQYFBwJVU1dfDQUMUAIHAQEFUgQGAAlVAQcRFERGFhddV1loCFdHC1cDBgofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSC1MDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVWClQTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVXClAHREk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4895af3b356720bb61cfa853339c31d6.jpg" group-title="CANAIS SD3",Universal Channel HD BR
+http://185.152.66.81:25461/live/leticia/123456/1707.m3u8?token=SUZYUxZQRwJGAg1XBlAHDgRVBVAGBwJfBg0JAwFUDQUDXQELUQ5WXlYRFERGFhddV1loCFdHC1cDBQ4fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAF0IC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEJVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQDXwwHG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/50f69fa91cadfc774a237144cb8ea8b7.jpg" group-title="CANAIS SD3",FOX HD BR
+http://185.152.66.81:25461/live/genaro/12345/1820.m3u8?token=SUZYUxZQRwJGAF1RAFYHW1QMUgJXVgECBgQAAlRXU1xTVVUFUw1WC10RFERGFhddV1loCFdHC1cMBwkfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBlcHA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAAXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcFVQYCG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d26e05b0d19c5160d5c2525aa96d29d.jpg" group-title="CANAIS SD3",SPACE HD BR
+http://185.152.66.81:25461/live/genaro/12345/1742.m3u8?token=SUZYUxZQRwJGBFwCVwEDDQ4CBFkLXVMCUQUJAFAHAlVUUAlRVwhUDVwRFERGFhddV1loCFdHC1cDAQsfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWB1YAAUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEVwENG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/472ec8bb3091d8f8001a9667bd8b5b56.jpg" group-title="CANAIS SD3",CINEMAX HD BR
+http://185.152.66.81:25461/live/genaro/12345/1846.m3u8?token=SUZYUxZQRwJGUAtXBARcDQ5XU1kDUlJRVg0PBgJSAlVRUlEBA11RD1IRFERGFhddV1loCFdHC1cMAQ8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSBFQJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBVAIXhZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a210a13b5c548202125d018982ab334b.jpg" group-title="CANAIS SD3",WARNER HD BR
+http://185.152.66.81:25461/live/ezequiel/12345/1704.m3u8?token=SUZYUxZQRwJGVQsHUQBSAAcDU1VRAFdXVlYNAVNTBlxXBwJWBgBRWlwRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1UIAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClQFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQAUAQXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/25c1d3a3edd39cd18496493d7c14d1e4.jpg" group-title="CANAIS SD3",Canal Sony
+http://cinevip.cineiptv.com:25461/live/Eliezer1/Eliezer1/858.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5f616853dc9b56e84dc946a7163feb31.jpg" group-title="CANAIS SD3",AMC
+http://50.7.149.94:25461/live/paul/paul1/3660.m3u8?token=GUdQUkdbFgwQUAYEU1oFBAJaDABeAlZXAgVTVlFWA1JbUwkCV1IDU1QXTxQSF0RRAFRrDwIQD1IDAwBPEkAWURA6UVcWCRYEBgdTFE1BQl0MXBZcVh4XEVxRElkSBFYEV1waHxZWTEJXRw1XDTxSURdQVwNECFsUWVkcQV9bOlAHCFldUBEOFAMXTxQIEEYWWxt3CglHUSdZVEIGEHwLV0xHFBFWWkBEU0EGFFsNQ1gNFRYFCUdbFUdMElkSdzcWTkddS0BWWkVbWg0UW0FbBxQBFkpEW0Y+R1BDF0JQBFkHFxoJFgIWGhBYAk4+AFlaD1xXEg9dWxIXDxJSEhlHWQ0LUUdbQWtGW1FBDENSBQZUDxYb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3ca7e973f7e97678808f586ad3ca40c0.jpg" group-title="CANAIS SD3",AXN HD BR
+http://185.152.66.81:25461/live/ezequiel/12345/1860.m3u8?token=SUZYUxZQRwJGVwoDU1cDAVQDBVFWUFJVBlMPAwNaUQFTXFUFVVlUXgYRFERGFhddV1loCFdHC1cMAwkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1YFBUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlUGVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQJVQUAG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b8c455f747e34e21af7194f31836a023.jpg" group-title="CANAIS SD3",TCM
+http://185.152.66.81:25461/live/leticia/123456/1726.m3u8?token=SUZYUxZQRwJGVQtTBARXCAEDBlABUwdRVlYPAQRVV1VRUQcCUwFWCwERFERGFhddV1loCFdHC1cDBw8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdQAFIFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDlkUXwkdRFdaTF1FEExGCEZyYEcUR10cR10IRgsKVhQOFQwAEAlEGBdQQG4QUBdGFlVTCF0XGl4RCEQZQAhZTmtUDl0LVAVAXFZdQkAPRgNGHBAIVwtREFxKOUULARoMFgNTAVYTGw
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5d964c99ecaa29418dde79eec2c37d47.jpg" group-title="CANAIS SD3",SYFY
+http://185.152.66.81:25461/live/ezequiel/12345/1732.m3u8?token=SUZYUxZQRwJGAABeBAEGDFMMBVYDAQQFVVBcBAAAAwUEXAICBglWWlERFERGFhddV1loCFdHC1cDBgsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBFMJB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQHUwYBG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/922682610d17916f185c4d9c41e3a701.jpg" group-title="CANAIS SD3",Telecine Action
+http://185.152.66.81:25461/live/ezequiel/12345/1725.m3u8?token=SUZYUxZQRwJGAlpWAwdUXAVWBgBXBlVRBwcKAAUHDQJWU1MLUQ4GCAcRFERGFhddV1loCFdHC1cDBwwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVC1UGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAJVBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQIVwIEG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/569a1beaa15fe8cf6f83f7ff329648c3.jpg" group-title="CANAIS SD3",Telecine Touch
+http://185.152.66.81:25461/live/ezequiel/12345/1720.m3u8?token=SUZYUxZQRwJGBA5eVFsHCwcFAAUFVgdSAwNcBgBTUFAFVQgKV11XD1MRFERGFhddV1loCFdHC1cDBwkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBVcJAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVQBFYJUxZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/31c2f23b54b750671364bff7ab4629d7.jpg" group-title="CANAIS SD3",Telecine Fun
+http://185.152.66.81:25461/live/ezequiel/12345/1723.m3u8?token=SUZYUxZQRwJGBw8HU1pRAVUEUQcDB1IEDVYPBQUGBFZWVgRQBA4HAF0RFERGFhddV1loCFdHC1cDBwofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWBFAJBkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQIUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcHUgwNG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3115df8d0e43bcf7a9e90f397cc7bd32.jpg" group-title="CANAIS SD3",Telecine Pipoca
+http://185.152.66.81:25461/live/ezequiel/12345/1722.m3u8?token=SUZYUxZQRwJGB1pUVFEDW1AFBAIAAwkEBgIMAAEGDVxXAAcGV1lUDVERFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlECBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUwYHG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a7c67bd0f650673abcb875c07a1d5083.jpg" group-title="CANAIS SD3",Telecine premium
+http://185.152.66.81:25461/live/ezequiel/12345/1721.m3u8?token=SUZYUxZQRwJGBAxRDFQEDQMFAlVSUQNUBVMMBVAEAlUKBlQKVgBWWQYRFERGFhddV1loCFdHC1cDBwgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVACB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEDURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQBVgUGG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1ef4fffcb3b7851b20e7f5e9220ddfe5.jpg" group-title="CANAIS SD3",HBO BR
+http://185.152.66.81:25461/live/leticia/123456/1802.m3u8?token=SUZYUxZQRwJGA1pTB1EHXAMFUlRVA1VWAQRaBFMHUVIHVVYGB11VD1QRFERGFhddV1loCFdHC1cMBQsfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1QEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEIURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUQUHG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/225c829fb64eebb709d2934f02a94429.jpg" group-title="CANAIS SD3",HBO 2 BR
+http://185.152.66.81:25461/live/leticia/123456/1798.m3u8?token=SUZYUxZQRwJGBFkDVAdRCFUFAAdSVwUDBgZdB1MEDAcHBgBTBF1UDVwRFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAlACAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVUCXgMXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/52b6f8813bf67c508342afd71198647d.jpg" group-title="CANAIS SD3",HBO PLUS BR
+http://185.152.66.81:25461/live/ezequiel/12345/2154.m3u8?token=SUZYUxZQRwJGBV5fUFRVD1MFBVFQVQFRV1FaBAVXVlYCUQFTUwsHXFMRFERGFhddV1loCFdHC1QFAA0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXClYDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTB1wJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAF0BUBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/35588068924806e6cda0a20bc3b6a260.jpg" group-title="CANAIS SD3",HBO FAMILY HD BR
+http://185.152.66.81:25461/live/genaro/12345/1803.m3u8?token=SUZYUxZQRwJGClpTAAEDClcEBVQGVFAFUlAACgUHUwUEVANUVA9RXV0RFERGFhddV1loCFdHC1cMBQofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8ac03507e127914218cdf1d2f4e9904.jpg" group-title="CANAIS SD3",HBO SIGNATURE
+http://185.152.66.81:25461/live/ezequiel/12345/1799.m3u8?token=SUZYUxZQRwJGUVxRAVtTDgVSVlVSXQkDDQ0PUVQDVgULBQlRXApXAFQRFERGFhddV1loCFdHC1cDDAAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b9e84128b41ee56ad0419c6e3d15beba.jpg" group-title="CANAIS SD3",MAX
+http://185.152.66.81:25461/live/ezequiel/12345/3358.m3u8?token=SUZYUxZQRwJGVloAV1ddXAIEU1kLUlJUAFMABwBbAFRWBgkCVA1TCgARFERGFhddV1loCFdHC1UHAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/edc8257c490318b53f913e3b646f54f6.jpg" group-title="CANAIS SD3",MAX UP
+http://cinevip.cineiptv.com:25461/live/gui/gui/783.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/251d80dc0ca8a015ee47597ce22bb3ca.jpg" group-title="CANAIS SD3",MAX PRIME BR
+http://185.152.66.81:25461/live/leticia/123456/1790.m3u8?token=SUZYUxZQRwJGAglVA1VVXgAAVFgDXVIHBQZcCwJUAQFUXQIBUgoGWVIRFERGFhddV1loCFdHC1cDDAkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1YGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcDXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUwwMG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dcbd8a60b689aec64960626d909fbdb6.jpg" group-title="CANAIS SD3",Capital 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/94ea81711ce82c1936fc10b768128647.jpg" group-title="CANAIS SD3",Carioca Neet TV
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w1431750248.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9f5c5770d00d590fdc3f26a8aa528dee.jpg" group-title="CANAIS SD3",Yeeah  Teen
+http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8?wowzasessionid=1971011538
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7b5617054f92566d1bae5a5a56859b55.jpg" group-title="CANAIS SD3",TV Aracati
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/aaabbedb59a99a3246c9c1a7adbec851.jpg" group-title="CANAIS SD3",TV Teen Net
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=1444982722
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/52d09ac3e2bb1836e2528f159ec22a7d.jpg" group-title="CANAIS SD3",MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/721723511e1c415d824b14036a160991.jpg" group-title="CANAIS SD3",MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cd1b7d0535669c4a7433c6919f8a7c8e.jpg" group-title="CANAIS SD3",MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/396643ca58e06292b6eca34e7fcaad10.jpg" group-title="CANAIS SD3",MOVISTAR GOLF HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/120f293fb6a2ddc424b10add47068527.jpg" group-title="CANAIS SD3",MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dc3b53c6329a58ada5e026f962c6bf17.jpg" group-title="CANAIS SD3",TVCINE 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4191.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eabe614c3eecdb491aa41824888c4be0.jpg" group-title="CANAIS SD3",TVCINE 3 HD
+http://asdp.ddns.net:8000/live/adriano/adriano/476.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fb07782984905021231681825c0d9203.jpg" group-title="CANAIS SD3",TVCINE 4
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4189.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f568ea9ce978e3b33a5e4e2396f58bf0.jpg" group-title="CANAIS SD3",Miami TV (Spain)
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5d6f1ad6e528914c71010afc39e99ba4.jpg" group-title="CANAIS SD3",CNN (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e910ed5039721a7a33b3003652a6c390.jpg" group-title="CANAIS SD3",Reedbull TV
+https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_578.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5c6633f51fb9a7b54d8661df48a68788.jpg" group-title="CANAIS SD3",Movistar MotoGP HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b6deb25c93a28853505d713d6c428847.jpg" group-title="CANAIS SD3",Automoto TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/90f22ef067d929d36e42f9b740b41169.jpg" group-title="CANAIS SD3",ARENA SPORT 2
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bc9c3be1933c03c594f150e8315369f8.jpg" group-title="CANAIS SD3",ARENA SPORT 3
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4fa11238b4bfc65577b7cee8c7801cf.jpg" group-title="CANAIS SD3",All Sports HD
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8130de470f39f66524cd7d5f44dfa81c.jpg" group-title="CANAIS SD3",LALIGA TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b2180922840b65af19995804ba5134c4.jpg" group-title="CANAIS SD3",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dfaf121876d0d8ec78b9b51bcf3c356c.jpg" group-title="CANAIS SD3",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cc180b2405e5d0bfadaa304a3e204eca.jpg" group-title="CANAIS SD3",Golf Channel |USA|
+http://live-trl102.abweb.com/liveabtrl102/ngrp:golfchannel.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8dc244d9e5e46dd63669ffe6e437437d.jpg" group-title="CANAIS SD3",Boa Vontade Tv
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2876a11724b6089787b75093672cc2d9.jpg" group-title="CANAIS SD3",NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2238ae58ed25f2bb8ed4b134777d9ee9.jpg" group-title="CANAIS SD3",Fish TV
+http://185.152.66.81:25461/live/leticia/123456/1822.m3u8?token=SUZYUxZQRwJGVVlfVlpTXAFVDwRXVFcHDQEKAAYDBFQBXVNUUlxQDFURFERGFhddV1loCFdHC1cMBwsfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8f94918b19714baa8785cb6b46ed0ce3.jpg" group-title="CANAIS SD3",TLC
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?formigaTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0f2c05d8688d89c87ca1f20dcc04f230.jpg" group-title="CANAIS SD3",Animal Planet Russia113
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/213/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3936b0669803630acc927d120ce2f2ca.jpg" group-title="CANAIS SD3",ANIMAL PLANET
+http://158.69.237.83:25461/live/leticia/123456/1864.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/38fbf9731a5126f46d9baac72c569461.jpg" group-title="CANAIS SD3",HISTORY
+http://cinevip.cineiptv.com:25461/live/Eliezer1/Eliezer1/703.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/afa7554a6b90921bba5b9b11affccf9f.jpg" group-title="CANAIS SD3",HISTORY 2
+http://185.152.66.81:25461/live/ezequiel/12345/1806.m3u8?token=SUZYUxZQRwJGBghVDVVcDAcBAQMGBwEDUQBdUVNQAgYEXQUDXV1XCV0RFERGFhddV1loCFdHC1cMBQ8fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwJXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAMDG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5250cf8150ae1ca6ff0ffc28a07f845a.jpg" group-title="CANAIS SD3",DISCOVERY  CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b3897ae19a78f7b6039ccbc3c2968595.jpg" group-title="CANAIS SD3",Discovery Turbo
+http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlUHWQ5VAlIBAVBUAgUKBQNWAVMAVgIBBF0GCFIRFERGFhddV1loCFdHC1cMBg0fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBVUEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcFXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAcBG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6b05d2dc4b67da6fd957c2428c1b8a56.jpg" group-title="CANAIS SD3",Discovery Science
+http://cinevip.cineiptv.com:25461/live/Eliezer1/Eliezer1/844.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/db9f5c585621890ec4d6a05d22c889e6.jpg" group-title="CANAIS SD3",Tv Rio
+http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2821ae38e38d8ec9f6021c797830a87a.jpg" group-title="CANAIS SD3",Mi música
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/580f9be191b2732d02ff6a01baffc7af.jpg" group-title="CANAIS SD3",PlayTV
+http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c140f215eed59699d5928e5d5e6b876.jpg" group-title="CANAIS SD3",MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ba82e7d9e3e56deff4844672475a0643.jpg" group-title="CANAIS SD3",MTV DANCE
+http://91.231.219.145:80/tv_mtv_dance/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ef36606949bd4237cc3b38408612a0e5.jpg" group-title="CANAIS SD3",ADinet TV
+http://stmv2.srvstm.com/adinet/adinet/playlist.m3u8?gpctv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8d1de32fdbd2ad0dc21cc79276bcbcd.jpg" group-title="CANAIS SD3",MTV LIVE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b7eed0e5cc9fca65d2ae35f6358d7722.jpg" group-title="CANAIS SD3",TV CLIMA HD
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/06c1715ce9680818e575f819b7f67ed9.jpg" group-title="CANAIS SD3",TV RENACER GOSPEL
+http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/73f0aeddda87d50c97cdfe221af8bba4.jpg" group-title="CANAIS SD3",Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1465a8314a9417b5cbd66c010324ba04.jpg" group-title="CANAIS SD3",Fox TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53f5283bd52a9fc01c8b253f517a535d.jpg" group-title="CANAIS SD3",El 13 Espa�a
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3450b824bd673ce9fb3f5c0032ad1752.jpg" group-title="CANAIS SD3",Rádio Gospel
+http://192.99.150.31:9101/;?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ba2200827570a04ba167cfbce307cbef.jpg" group-title="CANAIS SD3",Sertanejo Universitário
+http://192.99.150.31:9191/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/66158fef990c4f8c6899079cc3503373.jpg" group-title="CANAIS SD3",Rádio Kids
+http://192.99.150.31:9431/;
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d21d2156377defff62051bda601a2f4c.jpg" group-title="CANAIS SD3",Radio Dance
+http://zet.cdn.eurozet.pl/ZETDAN.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f48cc0767f1e757aebf1b2cf63a3c0fc.jpg" group-title="CANAIS SD3",Radio axe
+http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bc3223d69e9638868c6cf08ba646596c.jpg" group-title="CANAIS SD3",Radio eletrônica
+http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b49ca4770b0050e1224ae1634d25a7fb.jpg" group-title="CANAIS SD3",Rádio Funk
+http://192.99.150.31:9089/;?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/856102ef14f4e6db2d597b49647743e9.jpg" group-title="CANAIS SD3",Rádio setanejo classico
+http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0721af9e8bf6a1c20dc89dd509a5dbd3.jpg" group-title="CANAIS SD3",Rádio setanejo Raiz
+http://192.99.150.31:9155/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ca3890ccff261a65635dc39353791868.jpg" group-title="ADULTOS",JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f42e98e47ad1e3b305af4d2b49a1acd8.jpg" group-title="ADULTOS",HUSTLER
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CINECANAL_HD&token=654123_111.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e6958ebccd83b877b14738ac71bb3e4b.jpg" group-title="ADULTOS",EVIL ANGEL
+https://tinyurl.com/y8qe6asb
