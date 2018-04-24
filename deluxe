@@ -572,13 +572,13 @@ http://204.12.244.50:8080/laboratorio-dexter/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77e788b048068b01c00b7ab4e1e1aea9.jpg" group-title="CANAIS 24HRS",Jonny Quest
 http://204.12.244.50:8080/Jonny-Quest/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53fbee80583a4a28788fb27c082bac10.jpg" group-title="BRASIL SD",BRASIL 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/53fbee80583a4a28788fb27c082bac10.jpg" group-title="CANAIS SD1",BRASIL 3
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/675fc1836b7e1cc9ed013f45e719bab4.jpg" group-title="CANAIS 24HRS",o Cão Covarde
 http://204.12.244.50:8080/Coragem-Cao-Covarde/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecca54954409d7ec927bd8bcb82fb45b.jpg" group-title="BRASIL SD",Premiere Clubes
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ecca54954409d7ec927bd8bcb82fb45b.jpg" group-title="CANAIS SD1",Premiere Clubes
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dcf93e43269baef3ee0852d1ff7b0df5.jpg" group-title="CANAIS 24HRS",Futurama
