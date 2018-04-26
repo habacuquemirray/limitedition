@@ -105,29 +105,50 @@ http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1824.ts?token=SUZYUxZQRwJG
 #EXTINF:-1 tvg-logo="" group-title="CANAIS SD1", ESPN + HD
 http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/3424.ts?token=SUZYUxZQRwJGAg9TBFFdWQQFVQRXAQRWVgQLBQYGU1wGAAdQBAhRAFERFERGFhddV1loCFdHC1UABw0fExdGAUA7WVZHAkcLVAUKUQRASRpCXVoEEV8AUwYGDAQIVgNWHkZAWwEaXxpdAw9WF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcWkBVXx1AVgtHCkRAHBpfGiZhGkoXBx1MU1pECFwLE1wWQUoRHUBcF20WVUERSgBZCVZKRA9AVRoaFloASzpSCVpbXFBFC1oKQUYKEFQaSRoJXFYPQQ0XZ0ZdU0MJRwhWBgwbTg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPORTE INTERATIVO 3
+#EXTINF:-1 tvg-logo="https://goo.gl/F16Vvz" group-title="CANAIS SD1", Esporte Interativo
+http://bit.ly/esporteinterativo-1hd
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Bub8eo" group-title="CANAIS SD1", Esporte Interativo BR
+http://bit.ly/esporteinterativo-brhd
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/qwqUz8" group-title="CANAIS SD1", Esporte Interativo 2
+http://bit.ly/esporteinterativo-2hd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",EI ESPORTE INTERATIVO 3 JOGOS AO VIVO 1 
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",FOX ESPORTE 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",FOX ESPORTE Jogos Ao Vivo 2 
 http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN +
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN + Jogos Ao Vivo 3 
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPORTE INTERATIVO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",EI ESPORTE INTERATIVO Jogos Ao Vivo 4 
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV 2 Jogos Ao Vivo 5 
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN Jogos Ao Vivo 6 
 http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN BRASIL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN BRASIL Jogos Ao Vivo 7 
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV PREMIERE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV PREMIERE Jogos Ao Vivo 8 
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU 
+
+#EXTINF:-1 tvg-logo="http://www.kooora.com/images/amir_ganjvar/sportstv_amir/realtv.jpg" group-title="CANAIS SD1",Real Madrid TV HD 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8 
+
+#EXTINF:-1 tvg-logo="http://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F243.png" group-title="CANAIS SD1",Sevilla FC 
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Mundo Auto https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8 #EXTINF:-1 tvg-logo="" group-title="CANAIS SD1",FIGHT NETWORK 
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ieadcvilaverde.com/images/logo/e484896866.jpg" group-title="CANAIS SD1",AD Vila Verde 
+https://5a0c3936c25c8.streamlock.net:1443/advilaverde/_definst_/advilaverde/chunklist_w1382736408.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS SD1", FOX
 http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1820.ts?token=SUZYUxZQRwJGAwpTDVdVDFNSUlIHVlNVAABdAlVWBgAAVwADAwlVDFwRFERGFhddV1loCFdHC1cMBwkfExdGAUA7WVZHAkcLVAUKUQRASRpCXVoEEV8AUwYGDAQIVwRUHkZAWwEaXxpVAAFRAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcJER1AVgtHCkRAHBpfGiZhGkoXBx1MU1pECFwLE1wWQUoRHUBcF20WVUERSgBZCVZKRA9AVRoaFloASzpSCVpbXFBFC1oKQUYKEFQaSRoJXFYPQQ0XZ0ZdU0MJRwBRBAMBEUw=
@@ -385,6 +406,239 @@ http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
 
 ################### CANAIS 24HRS ##########################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3fe626d8b8a048fd6962f195b053c79c.jpg" group-title="CANAIS 24HRS",Pica Pau
+http://165.227.82.198/Pica-Pau/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6393e615fac2c0dc04ec1121dcbc2152.jpg" group-title="CANAIS 24HRS",Dragon Ball Z
+http://165.227.82.198/DragonBall-Z/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1532481948d9ba8aadbe32c6229e6480.jpg" group-title="CANAIS 24HRS",Dragon Ball GT
+http://165.227.82.198/dragon-ball-gt/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9ae7bb32ccebc7661d73ae16e4a501c7.jpg" group-title="CANAIS 24HRS",Dragon Ball Kai
+http://165.227.82.198/dragon-ball-kai/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9db12cee18c430792c9a862987bb5bdb.jpg" group-title="CANAIS 24HRS",Dragon Ball - A Saga Cell
+http://165.227.82.198/dragon-ball-z-saga-de-cell/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5ca5dbade1834e2bc9369395750f4cb3.jpg" group-title="CANAIS 24HRS",Dragon Ball - A Saga dos Androides
+http://165.227.82.198/dragon-ball-z-saga-dos-androides/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6288fe17c085cadfc9d8f9951e2c31f9.jpg" group-title="CANAIS 24HRS",Dragon Ball - Saga Torneio do Outro Mundo
+http://165.227.82.198/dragon-ball-z-saga-torneio-do-outro-mundo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/673c054f5a89ddeeebff32c322199e5c.jpg" group-title="CANAIS 24HRS",Dragon Ball - Saga Majin Boo
+http://165.227.82.198/dragon-ball-z-saga-majin-boo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/abe6390f869db51b370787cea1ede8f1.jpg" group-title="CANAIS 24HRS",Dragon Ball - Saga de Garlic Jr
+http://165.227.82.198/dragon-ball-z-saga-garlic-jr/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/55101695eb8cae79f0bc9a2ae22bccf2.jpg" group-title="CANAIS 24HRS",Naruto
+http://165.227.82.198/naruto/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/33bef7f083e4e13fd51fb811496231a1.jpg" group-title="CANAIS 24HRS",Os Simpsons
+http://165.227.82.198/ossimpsons/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/705af1602d91815fd48a450e6d31d16d.jpg" group-title="CANAIS 24HRS",Caveleiros do Zod�aco
+http://165.227.82.198/Cavaleiros/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d29dd58b956c0bce6546bfb2cb67858d.jpg" group-title="CANAIS 24HRS",Corrida Maluca
+http://165.227.82.198/Corrida-Maluca/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/49123ca0146a82bf30b94da02b49a33d.jpg" group-title="CANAIS 24HRS",Bob Esponja
+http://165.227.82.198/bobesponja/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ffd0c8f62f7cd2115ab979ba0acaf84e.jpg" group-title="CANAIS 24HRS",a Patroa e as Crian�as
+http://165.227.82.198/eu-a-patroa-e-as-criancas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/510809cfe8963c4e469a3ef43faf492a.jpg" group-title="CANAIS 24HRS",Um Maluco no Pedaco
+http://165.227.82.198/um-maluco-no-pedaco/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dc07ad7584e9a07ac5f81b9ce16a4e45.jpg" group-title="CANAIS 24HRS",Scooby doo
+http://165.227.82.198/scooby-doo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3d24cdef28150a913ce37c5894a65ede.jpg" group-title="CANAIS 24HRS",Liga da Justica
+http://165.227.82.198/liga-da-justica/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6b11cccb1b48a5d5eb915586adabddbe.jpg" group-title="CANAIS 24HRS",I Carly
+http://165.227.82.198/icarly/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/db1311a384551ea1424a643d35336d8f.jpg" group-title="CANAIS 24HRS",Turma do Pateta
+http://165.227.82.198/turma-do-pateta/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f997bc6fa75e1fdabaaf167710720526.jpg" group-title="CANAIS 24HRS",Os Vingadores
+http://165.227.82.198/vingadores/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2717b6393aebab069ebac25e4db05353.jpg" group-title="CANAIS 24HRS",Pernalonga
+http://165.227.82.198/Pernalonga/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ada2b0d136efb997f47201d78605f6ec.jpg" group-title="CANAIS 24HRS",Fund�ncio
+http://165.227.82.198/fudencio/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f600eba435190b235795c0f9e9363923.jpg" group-title="CANAIS 24HRS",Espetacular Homem Aranha
+http://165.227.82.198/espetacular-homem-aranha/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f075b387a6849054ebffd3ea8145fc35.jpg" group-title="CANAIS 24HRS",A Pantera cor de rosa
+http://165.227.82.198/pantera-cor-de-rosa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/12ca3a2045670d6436753f8efe32e5c5.jpg" group-title="CANAIS 24HRS",Wolverine X Men
+http://165.227.82.198/wolverine-X-Men/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/84012c75a60f60dc095fed4aa6952e51.jpg" group-title="CANAIS 24HRS",Super Choque
+http://165.227.82.198/super-choque/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/92b4b73f0358090f9530d34a9b817be8.jpg" group-title="CANAIS 24HRS",Batmam: A S�rie
+http://165.227.82.198/batmam-a-serie/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ff075f31c92b34950c9ad508795b7628.jpg" group-title="CANAIS 24HRS",Batman: Cavaleiro de Gotam
+http://165.227.82.198/batman-cavaleiro-de-gotan/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7f5405093aee8529d27287020dacfc0b.jpg" group-title="CANAIS 24HRS",Tr�s Espi�s Demais
+http://165.227.82.198/tres-epiaes-demais/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3d2cd9142b73018f0865e8b0af63e8bf.jpg" group-title="CANAIS 24HRS",Castelo Ra tim bum
+http://165.227.82.198/castelo-ra-tim-bum/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b4d5e7025669d3cf5eed149534cedbe4.jpg" group-title="CANAIS 24HRS",O M�skara
+http://165.227.82.198/o-mascara/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/72acc8c2d2b109dc9c2dcddde4bba224.jpg" group-title="CANAIS 24HRS",Jiraya
+http://165.227.82.198/jiraya/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/038839c0c6e181f078f25e0c18dd9690.jpg" group-title="CANAIS 24HRS",Os Flinstones
+http://165.227.82.198/flinstones/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71998082b280f456ff73a09f261b9a52.jpg" group-title="CANAIS 24HRS",Jaspion
+http://165.227.82.198/jaspion/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/76286575261be13c4a2f226d1d9266b8.jpg" group-title="CANAIS 24HRS",Os Jovens Titas
+http://165.227.82.198/os-jovens-titas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a137aa7b762f877a00038b8a655459de.jpg" group-title="CANAIS 24HRS",King Kong
+http://165.227.82.198/king-kong/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0e8e30c2119741030c95c39beca59ff1.jpg" group-title="CANAIS 24HRS",Riquinho
+http://165.227.82.198/riquinho/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eda7a92a766c280416181d71c4155281.jpg" group-title="CANAIS 24HRS",YU-GI-OH
+http://165.227.82.198/yu-gi-oh/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/45c8276c6e0b09953245a2bc0cfa701d.jpg" group-title="CANAIS 24HRS",Charlie Brown & Snoopy
+http://165.227.82.198/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/a0db7ae4e7f49b7fa4d0a97fafc53ffd.jpg" group-title="CANAIS 24HRS",Turma da M�nica
+http://165.227.82.198/turma-da-monica/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bdcff5d815e3248f482d207b276f4356.jpg" group-title="CANAIS 24HRS",Apenas um Show
+http://165.227.82.198/apenas-um-show/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e779212a02b2ed7546f4d664364c2df7.jpg" group-title="CANAIS 24HRS",Os Padrinhos M�gicos
+http://165.227.82.198/padrinhos-magicos/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5687675b3d7d3609e6996090b4b9e67a.jpg" group-title="CANAIS 24HRS",Justica Jovem
+http://165.227.82.198/justica-jovem/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9ea6b6ce4e3d4972b994c0440cec5c7e.jpg" group-title="CANAIS 24HRS",Os Jetsons
+http://165.227.82.198/Os-Jetsons/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d62f6d0dd8f6be1aa0cfb86f0561b3e6.jpg" group-title="CANAIS 24HRS",Manda Chuva
+http://165.227.82.198/Manda-Chuva/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/084065aa9557268fda96ef50a2ea557d.jpg" group-title="CANAIS 24HRS",Uma Fam�lia da Pesada
+http://165.227.82.198/uma-familia-da-pesada/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3cbc685f08d3c217af257e84f07d3b56.jpg" group-title="CANAIS 24HRS",South Park
+http://165.227.82.198/south-park/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/98c643bf333913b10c5915c24e0d54cf.jpg" group-title="CANAIS 24HRS",Comando Estrelar Flashman
+http://165.227.82.198/flashman/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/cbaed71f7fe38c70616a7726bc9f3cb0.jpg" group-title="CANAIS 24HRS",Familia Dinossauro
+http://165.227.82.198/familia-dinossauro/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5ede5b3f4e5f645172fb4de7b1cb42b0.jpg" group-title="CANAIS 24HRS",Winspector
+http://165.227.82.198/winspector/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d8f324f0e10145a49abe17bdf8213a5e.jpg" group-title="CANAIS 24HRS",Chaves
+http://165.227.82.198/chaves/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/805ee19766b064ea3eedcd08c798ba8d.jpg" group-title="CANAIS 24HRS",BEN 10:Omniverse
+http://165.227.82.198/ben-10-universo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e24c758d01be56b0cbd110d1778b430.jpg" group-title="CANAIS 24HRS",Thundercasts (2011)
+http://165.227.82.198/Thundercats-2011/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4b6adc454ed2a0f00ac4b4017085d053.jpg" group-title="CANAIS 24HRS",Thundercasts Cl�ssico
+http://165.227.82.198/thundercasts-classico/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/77d67d6f5391400df891f5f29fcec1be.jpg" group-title="CANAIS 24HRS",Liga da Justica A��o
+http://165.227.82.198/liga-justica-acao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dab6d62c6e1eec298576ec50b002c8eb.jpg" group-title="CANAIS 24HRS",Megaman NT Warrion
+http://165.227.82.198/mega-men-nt/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/371273452e22fc99f889591059533742.jpg" group-title="CANAIS 24HRS",Aventuras de Billy e Mandy
+http://165.227.82.198/aventuras-de-billy-e-mandy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c7b355212ab4e7b5508806989a94c30a.jpg" group-title="CANAIS 24HRS",Samurai Jack
+http://165.227.82.198/samurai-jack/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6576301ae57080fbfdcfebc2ea1853db.jpg" group-title="CANAIS 24HRS",As Meninas Superpoderosas
+http://165.227.82.198/as-meninas-superpoderosas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/118c1f098afe661e1f09fd0a5701e91d.jpg" group-title="CANAIS 24HRS",Hey Arnold!
+http://165.227.82.198/hey-arnold/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/30c2feca9833ad9f72c11e498c8275e0.jpg" group-title="CANAIS 24HRS",A Casa do Mickey
+http://165.227.82.198/casa-do-mikey/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ac9a3a07a10e179bbf72c83131e26b7b.jpg" group-title="CANAIS 24HRS",Caverna do Drag�o
+http://165.227.82.198/caverna-do-dragao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b2ceedcefc3b735e21359f2a8229b79a.jpg" group-title="CANAIS 24HRS",Pok�mon
+http://165.227.82.198/pokemon/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/afaa672615c09fb2040ab437ff05c6e4.jpg" group-title="CANAIS 24HRS",Recruta Zero
+http://165.227.82.198/recruta-zero/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0507b41a3652f29ce7b64bc997d5a11f.jpg" group-title="CANAIS 24HRS",A Hora do Recreio
+http://165.227.82.198/hora-do-recreio/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2692c788fe346df892293289ae74c306.jpg" group-title="CANAIS 24HRS",Jambo e Ruiv�o
+http://165.227.82.198/jambo-ruivao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e0d210928da4ab595e4b5db9737af335.jpg" group-title="CANAIS 24HRS",Sailor Moon
+http://165.227.82.198/sailor-moon-dublado/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/34b7963f2172a2cdc74d104ddd37b706.jpg" group-title="CANAIS 24HRS",Pinky e o C�rebro
+http://165.227.82.198/pink-cerebro/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6e45afc7738b74719a663d5abf356fc9.jpg" group-title="CANAIS 24HRS",O Fant�stico Mundo de Bobby
+http://165.227.82.198/mundo-de-bobby/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/160cd5e1bc01291cb2c680c23c9ef026.jpg" group-title="CANAIS 24HRS",Gato F�lix
+http://165.227.82.198/gato-felix/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7de73e029fd1458633d13379920087de.jpg" group-title="CANAIS 24HRS",Coelho Ricochete & Blau Blau
+http://165.227.82.198/coelho-ricochete/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4a354e39e1d8cc36095e45f84897967d.jpg" group-title="CANAIS 24HRS",Vaca e o Frango
+http://165.227.82.198/Vaca-e-o-Frango/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fa3c8e6ae63e343f080937d9a1a780e9.jpg" group-title="CANAIS 24HRS",A Pequena Sereia
+http://165.227.82.198/Pequena-sereia/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b30c560143ccc41e778b288836c42d4f.jpg" group-title="CANAIS 24HRS",Dudu e Edu
+http://165.227.82.198/Du-Dudu-Edu/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/aa22ca523224d32e4d28613c1b71ebd1.jpg" group-title="CANAIS 24HRS",Z� Buscap�
+http://165.227.82.198/ze-buscape/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ab1fba73bcd71015f3a0b5442aede11c.jpg" group-title="CANAIS 24HRS",Bibo Pai e Filho
+http://165.227.82.198/Bibo-pai-e-filho/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/588013269c80b3507ebdb66d28da3086.jpg" group-title="CANAIS 24HRS",Charlie Brown & Snoopy
 http://204.12.244.50:8080/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
@@ -1189,7 +1443,7 @@ http://cinevip.cineiptv.com:25461/live/gui/gui/783.m3u8
 http://185.152.66.81:25461/live/leticia/123456/1790.m3u8?token=SUZYUxZQRwJGAglVA1VVXgAAVFgDXVIHBQZcCwJUAQFUXQIBUgoGWVIRFERGFhddV1loCFdHC1cDDAkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1YGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcDXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUwwMG04
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8dc244d9e5e46dd63669ffe6e437437d.jpg" group-title="CANAIS SD3",Boa Vontade Tv
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?CANALANDRONALTAS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2876a11724b6089787b75093672cc2d9.jpg" group-title="CANAIS SD3",NBA TV
 http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
@@ -1198,7 +1452,7 @@ http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44
 http://185.152.66.81:25461/live/leticia/123456/1822.m3u8?token=SUZYUxZQRwJGVVlfVlpTXAFVDwRXVFcHDQEKAAYDBFQBXVNUUlxQDFURFERGFhddV1loCFdHC1cMBwsfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/8f94918b19714baa8785cb6b46ed0ce3.jpg" group-title="CANAIS SD3",TLC
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?formigaTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0f2c05d8688d89c87ca1f20dcc04f230.jpg" group-title="CANAIS SD3",Animal Planet Russia113
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/213/index.m3u8
@@ -1229,4 +1483,184 @@ http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3450b824bd673ce9fb3f5c0032ad1752.jpg" group-title="CANAIS SD3",Rádio Gospel
-http://192.99.150.31:9101/;
+http://192.99.150.31:9101/;?CANALANDRONALTAS
+
+#################### CANAIS SD4 ###########################
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="CANAIS: ESPORTE",Premiere 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E BR [0]" tvg-logo="" group-title="CANAIS SD4",A&E BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3051.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC BR [0]" tvg-logo="" group-title="CANAIS SD4",AMC BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet BR [0]" tvg-logo="" group-title="CANAIS SD4",Animal Planet BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3050.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN BR [0]" tvg-logo="" group-title="CANAIS SD4",AXN BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV BR [0]" tvg-logo="" group-title="CANAIS SD4",Baby TV BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News BR [0]" tvg-logo="" group-title="CANAIS SD4",Band News BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3046.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS BR [0]" tvg-logo="" group-title="CANAIS SD4",BIS BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang BR [0]" tvg-logo="" group-title="CANAIS SD4",Boomerang BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil BR [0]" tvg-logo="" group-title="CANAIS SD4",Canal Brasil BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network BR [0]" tvg-logo="" group-title="CANAIS SD4",Cartoon Network BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax BR [0]" tvg-logo="" group-title="CANAIS SD4",Cinemax BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate BR [0]" tvg-logo="" group-title="CANAIS SD4",Combate BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central  BR [0]" tvg-logo="" group-title="CANAIS SD4",Comedy Central  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery Channel BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery Civilization BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H/H  BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery H/H  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID  BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery ID  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery Kids BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery Science BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery Theater BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo BR [0]" tvg-logo="" group-title="CANAIS SD4",Discovery Turbo BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel BR [0]" tvg-logo="" group-title="CANAIS SD4",Disney Channel BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  BR [0]" tvg-logo="" group-title="CANAIS SD4",Disney Junior  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD BR [0]" tvg-logo="" group-title="CANAIS SD4",Disney XD BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3024.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! BR [0]" tvg-logo="" group-title="CANAIS SD4",E! BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3023.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD  BR [0]" tvg-logo="" group-title="CANAIS SD4",ESPN HD  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3021.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil  BR [0]" tvg-logo="" group-title="CANAIS SD4",ESPN Brasil  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3020.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BR [0]" tvg-logo="" group-title="CANAIS SD4",ESPN BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network BR [0]" tvg-logo="" group-title="CANAIS SD4",Food Network BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2937.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX  BR [0]" tvg-logo="" group-title="CANAIS SD4",FOX  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3015.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life  BR [0]" tvg-logo="" group-title="CANAIS SD4",FOX Life  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3014.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 1 HD BR [0]" tvg-logo="" group-title="CANAIS SD4",FOX Premium 1 HD BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2931.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports  BR [0]" tvg-logo="" group-title="CANAIS SD4",FOX Sports  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3013.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2  BR [0]" tvg-logo="" group-title="CANAIS SD4",FOX Sports 2  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura  BR [0]" tvg-logo="" group-title="CANAIS SD4",Futura  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3011.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX  BR [0]" tvg-logo="" group-title="CANAIS SD4",FX  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta BR [0]" tvg-logo="" group-title="CANAIS SD4",Gazeta BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo MINAS  BR [0]" tvg-logo="" group-title="CANAIS SD4",Globo MINAS  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News  BR [0]" tvg-logo="" group-title="CANAIS SD4",Globo News  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ BR [0]" tvg-logo="" group-title="CANAIS SD4",Globo RJ BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP BR [0]" tvg-logo="" group-title="CANAIS SD4",Globo SP BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3006.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB BR [0]" tvg-logo="" group-title="CANAIS SD4",GLOOB BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3005.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 BR [0]" tvg-logo="" group-title="CANAIS SD4",H2 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3003.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO BR [0]" tvg-logo="" group-title="CANAIS SD4",HBO BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3002.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family BR 1 [0]" tvg-logo="" group-title="CANAIS SD4",HBO Family BR 1 [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3001.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus  BR- [0]" tvg-logo="" group-title="CANAIS SD4",HBO Plus  BR- [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/3000.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E BR [0]" tvg-logo="" group-title="CANAIS SD4",HBO Plus E BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2999.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature BR 1 [0]" tvg-logo="" group-title="CANAIS SD4",HBO Signature BR 1 [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2998.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  BR [0]" tvg-logo="" group-title="CANAIS SD4",HBO 2  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2997.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel BR [0]" tvg-logo="" group-title="CANAIS SD4",History Channel BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat BR [0]" tvg-logo="" group-title="CANAIS SD4",Mais Globosat BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2925.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX  BR [0]" tvg-logo="" group-title="CANAIS SD4",MAX  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2995.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime BR [0]" tvg-logo="" group-title="CANAIS SD4",MAX Prime BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2994.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime E BR [0]" tvg-logo="" group-title="CANAIS SD4",MAX Prime E BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max UP BR [0]" tvg-logo="" group-title="CANAIS SD4",Max UP BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega Pix BR [0]" tvg-logo="" group-title="CANAIS SD4",Mega Pix BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow BR [0]" tvg-logo="" group-title="CANAIS SD4",Multishow BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo BR [0]" tvg-logo="" group-title="CANAIS SD4",Nat Geo BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids BR [0]" tvg-logo="" group-title="CANAIS SD4",Nat Geo Kids BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2986.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild  BR [0]" tvg-logo="" group-title="CANAIS SD4",NatGeo Wild  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR  BR [0]" tvg-logo="" group-title="CANAIS SD4",Nick JR  BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon BR [0]" tvg-logo="" group-title="CANAIS SD4",Nickelodeon BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel BR [0]" tvg-logo="" group-title="CANAIS SD4",Paramount Channel BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2980.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC BR [0]" tvg-logo="" group-title="CANAIS SD4",PFC BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 2 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 3 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 4 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2975.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 5 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 6 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 7 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 8 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 BR [0]" tvg-logo="" group-title="CANAIS SD4",Premiere 9 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record BR [0]" tvg-logo="" group-title="CANAIS SD4",Record BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2967.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT BR [0]" tvg-logo="" group-title="CANAIS SD4",SBT BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space BR [0]" tvg-logo="" group-title="CANAIS SD4",Space BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TV BR [0]" tvg-logo="" group-title="CANAIS SD4",Sport-TV BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TV 2 BR [0]" tvg-logo="" group-title="CANAIS SD4",Sport-TV 2 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TV 3 BR [0]" tvg-logo="" group-title="CANAIS SD4",Sport-TV 3 BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal BR [0]" tvg-logo="" group-title="CANAIS SD4",Studio Universal BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2957.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy BR [0]" tvg-logo="" group-title="CANAIS SD4",SyFy BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2933.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS BR [0]" tvg-logo="" group-title="CANAIS SD4",TBS BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2932.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM BR [0]" tvg-logo="" group-title="CANAIS SD4",TCM BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action BR [0]" tvg-logo="" group-title="CANAIS SD4",Telecine Action BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine FUN BR [0]" tvg-logo="" group-title="CANAIS SD4",Telecine FUN BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca BR [0]" tvg-logo="" group-title="CANAIS SD4",Telecine Pipoca BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium BR [0]" tvg-logo="" group-title="CANAIS SD4",Telecine Premium BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch BR [0]" tvg-logo="" group-title="CANAIS SD4",Telecine Touch BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2950.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC BR [0]" tvg-logo="" group-title="CANAIS SD4",TLC BR [0]
+http://us.chileiptv.xyz:25461/live/b1aGUmK1h/oya3P2h8V5/2949.ts
