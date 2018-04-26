@@ -1,4 +1,8 @@
 #EXTM3U_PLUS
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:148004
+
 #EXTINF:-1 tvg-logo="a" group-title="CANAIS SD1", A&E
 http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/2720.ts?token=SUZYUxZQRwJGVwxXAFoHDQFQAwcHVlJQAAMJAQAGAQcFUFULAVtRDQIRFERGFhddV1loCFdHC1QDBwkfExdGAUA7WVZHAkcLVAUKUQRASRpCXVoEEV8AUwYGDAQGWw1SHkZAWwEaXxpWCw9XBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcOBghAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBg0MBQJASA==
 
@@ -104,37 +108,36 @@ http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/1824.ts?token=SUZYUxZQRwJG
 #EXTINF:-1 tvg-logo="" group-title="CANAIS SD1", ESPN + HD
 http://185.152.66.81:25461/live/finais2_m1hjbg/onyjfw/3424.ts?token=SUZYUxZQRwJGAg9TBFFdWQQFVQRXAQRWVgQLBQYGU1wGAAdQBAhRAFERFERGFhddV1loCFdHC1UABw0fExdGAUA7WVZHAkcLVAUKUQRASRpCXVoEEV8AUwYGDAQIVgNWHkZAWwEaXxpdAw9WF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcWkBVXx1AVgtHCkRAHBpfGiZhGkoXBx1MU1pECFwLE1wWQUoRHUBcF20WVUERSgBZCVZKRA9AVRoaFloASzpSCVpbXFBFC1oKQUYKEFQaSRoJXFYPQQ0XZ0ZdU0MJRwhWBgwbTg==
 
-#EXTINF:4.004000 tvg-logo="https://goo.gl/F16Vvz" group-title="CANAIS SD1", Esporte Interativo HD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/media_2500_20180426T013758_1524706678.ts?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
- 
-#EXTINF:4.004000 tvg-logo="https://goo.gl/Bub8eo" group-title="CANAIS SD1", Esporte Interativo BR HD
+#EXTINF:-0 tvg-logo="https://goo.gl/F16Vvz" group-title="CANAIS SD1", Esporte Interativo HD
+
+#EXTINF:-0 tvg-logo="https://goo.gl/Bub8eo" group-title="CANAIS SD1", Esporte Interativo BR HD
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/media_2500_20180426T043651_1524717411.ts?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 
-#EXTINF:4.004000 vg-logo="https://goo.gl/qwqUz8" group-title="CANAIS SD1", Esporte Interativo 2 HD
+#EXTINF:-0 vg-logo="https://goo.gl/qwqUz8" group-title="CANAIS SD1", Esporte Interativo 2 HD
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/media_2500_20180426T043807_1524717487.ts?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",EI ESPORTE INTERATIVO 3 JOGOS AO VIVO 1 
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
+#EXTINF:-0 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",EI ESPORTE INTERATIVO 3
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",FOX ESPORTE Jogos Ao Vivo 2 
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",FOX ESPORTE
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN + Jogos Ao Vivo 3 
-http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN +
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",EI ESPORTE INTERATIVO Jogos Ao Vivo 4 
-http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU 
+#EXTINF:-0 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",EI ESPORTE INTERATIVO
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV 2 Jogos Ao Vivo 5 
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV 2
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN Jogos Ao Vivo 6 
-http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN  
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN BRASIL Jogos Ao Vivo 7 
-http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",ESPN BRASIL
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV PREMIERE Jogos Ao Vivo 8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="CANAIS SD1",SPORTV PREMIERE
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU 
 
 #EXTINF:-1 tvg-logo="http://www.kooora.com/images/amir_ganjvar/sportstv_amir/realtv.jpg" group-title="CANAIS SD1",Real Madrid TV HD 
