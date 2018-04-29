@@ -1,7 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:1
+
+#EXT-X-TARGETDURATION:5
+
+#EXT-X-MEDIA-SEQUENCE:148004
+
 
 #EXTINF:-1 tvg-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS PREMIUM",GLOBO SP FT TV
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
