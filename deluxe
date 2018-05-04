@@ -677,325 +677,313 @@ http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlU
 
 ############## CANAIS 1.0 ###################
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Sbt HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Via Morena
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",RedeTv
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Record Goiás
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Tv Futura HD
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",RedeTv
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Record HD
-https://secure-playlist.livestream.com/streams/21076186_6180705_lsivmk9jiqr0um07y04_1/media/21076186_6180705_lsivmk9jiqr0um07y04_1@2128000p.m3u8?dw=32&token=1525323232_04cd09c36d96dea65a62e5e25e748818c5f7ccec&ts=1525147200
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",RedeTv SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?MEGAMAXIPTV
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Futura
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Viva
-http://185.216.140.39:8088/live/vivaaovivo2/playlist.m3u8?id=23269&pk=39984ee2b1dd90a31c147856fe93981d3e19becc05b4432cfb39d55d3147a9ae
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Viva
-http://2201.janjuaplayer.com:8088/live/vivaaovivo3/playlist.m3u8?id=77153&pk=39984ee2b1dd90a31c147856fe93981d3e19becc05b4432cfb39d55d3147a9ae
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Band
-http://163.172.41.217:8081/loadbalance/bandhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMTggMTE6NDY6NTcgUE0maGFzaF92YWx1ZT1BaDhVMCtuNVQwQkxQbWJ3YWJ1MmtBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Band
-http://94.102.51.27:8088/live/tvbandaovivo3/playlist.m3u8?id=28427&pk=39984ee2b1dd90a31c147856fe93981d3e19becc05b4432cfb39d55d3147a9ae
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 24 horas
-http://67.21.76.99:8080/TV1352?AuthInfo=1748bcff16952e3d55434e9d8d9e02bff02474d9db1c9a52298b60cf8707decb2be0c74976071a785ff9a0e0337d102fff81a03737b106c6b925ad720fd6daf862ce708725e112d6364a7f06ebdcc78bb9b8e81761539cde.m3h8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn Brasil
-http://67.21.76.99:8080/TV1299?AuthInfo=1748bcff16952e3d55434e9d8d9e02bff02474d9db1c9a52298b60cf8707decb2be0c74976071a785ff9a0e0337d102fff81a03737b106c6b925ad720fd6daf862ce708725e112d6364a7f06ebdcc78bb9b8e81761539cde.m3h8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Warner Channel
-http://iphdtv.site/move/live/janainalucas/4bfc3b/1227.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AeE
-http://67.21.76.99:8080/TV3141?AuthInfo=1748bcff16952e3d55434e9d8d9e02bff02474d9db1c9a52298b60cf8707decb2be0c74976071a785ff9a0e0337d102fff81a03737b106c6b925ad720fd6daf862ce708725e112d6364a7f06ebdcc78bb9b8e81761539cde.m3h8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Esporte Interativo 2 HD
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn Extra
-http://srv.elitehdbr.vip:8880/live/michelljacquesdasilvafernandes/mKllNqps6b/5397.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SporTV HD
-http://switch04.loginto.me/c08/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Gnt HD
-http://switch03.serveexchange.com/084/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn Extra HD
-http://srv.elitehdbr.vip:8880/live/GabrielRoberto/oBtcqZI3bO/5397.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Megapix HD
-http://switch02.golffan.us/033/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Sports HD
-http://switch02.golffan.us/036/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Animal Planet HD
-http://switch04.loginto.me/105/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globoob Hd
-http://switch03.serveexchange.com/089/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Discovery Civizalion
-http://switch02.golffan.us/050/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Esporte Interativo HD
-http://switch04.loginto.me/c04/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 24 Horas HD
-http://switch04.loginto.me/097/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Sports
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1815.ts?token=SUZYUxZQRwJGVllTU1VWDwMEAVEFAQIFBQAMVlNXAVcFVlQCAAwEDQIRFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQNXHkZAWwEaXxpWBwteBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcABAlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBg0MBAFASA==
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Space HD
-http://switch01.servep2p.com/029/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max Prime HD
-http://switch03.serveexchange.com/092/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Premium HD
-http://switch03.serveexchange.com/069/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Universal Channel HD
-http://switch03.serveexchange.com/067/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Premium HD
-http://switch04.loginto.me/107/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Sports HD
-http://painel.kingiptv.com.br:25461/live/elmnpewSAj/1MeAwmH7x2/6245.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Sony HD
-http://switch01.servep2p.com/003/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AeE SD
-http://u9otne3ii.redecanais.stream/hls/redecanais-aie.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AeX SD
-http://u9otne3ii.redecanais.stream/hls/redecanais-axn.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Band
-http://u9otne3ii.redecanais.stream/hls/redecanais-band.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Canal Sony
-http://u9otne3ii.redecanais.stream/hls/redecanais-sony.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Cartoon Network
-http://u9otne3ii.redecanais.stream/hls/redecanais-cartoon.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Disney XD
-http://u9otne3ii.redecanais.stream/hls/redecanais-disneyxd.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn
-http://u9otne3ii.redecanais.stream/hls/redecanais-espn.m3u8|Referer=http://www.redecanais.com/
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Action HD
-http://switch03.serveexchange.com/068/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Pipoca HD
-http://switch03.serveexchange.com/065/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Studio Universal
-http://switch03.serveexchange.com/096/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Nick Jr HD
-http://switch02.golffan.us/052/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Discovery HeH
-http://switch04.loginto.me/c013/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",HBO HD
-http://switch02.golffan.us/053/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Premium 2 HD
-http://switch04.loginto.me/109/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SyFy
-http://switch03.serveexchange.com/093/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",NatGeo HD
-http://switch03.serveexchange.com/082/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Life
-http://switch03.serveexchange.com/083/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Fun HD
-http://switch02.golffan.us/060/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",HBO Plus
-http://switch02.golffan.us/037/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Life
-http://switch03.serveexchange.com/083/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Fun
-http://switch02.golffan.us/060/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Paramount Channel HD
-http://switch01.servep2p.com/004/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",TBS
-http://switch02.golffan.us/038/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Tcm
-http://switch02.golffan.us/039/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Disney Channel
-http://switch03.serveexchange.com/075/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Nickelodeon HD
-http://switch03.serveexchange.com/077/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Warner Channel
-http://switch03.serveexchange.com/080/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max
-http://switch02.golffan.us/051/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Cult
-http://switch02.golffan.us/055/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Disney Jr
-http://switch03.serveexchange.com/087/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",BabyTv
-http://switch03.serveexchange.com/066/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Cartoon Network
-http://switch01.servep2p.com/027/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Touch
-http://switch04.loginto.me/102/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max Up
-http://switch02.golffan.us/045/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AeE
-http://switch04.loginto.me/106/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Boomerang
-http://switch03.serveexchange.com/091/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Sports HD
+#EXTINF:-1 tvg-logo="https://imgur.com/kPnqgCd.jpg" group-title="CANAIS PREMIUM 1.0",1- 3ª VIA TV
+http://streaming60.sitehosting.com.br:1935/terceiraviatv/terceiraviatv.smil/chunklist_b2000000.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/kne1Qfc.jpg" group-title="CANAIS PREMIUM 1.0",2- AGRO ARASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/kAHF94x.png" group-title="CANAIS PREMIUM 1.0",3- AMAZON SAT
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/zc3a3XQ.jpg" group-title="CANAIS PREMIUM 1.0",4- CANAL DO BOI
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/lHnp51O.jpg" group-title="CANAIS PREMIUM 1.0",5- CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/V0pFqlU.jpg" group-title="CANAIS PREMIUM 1.0",6- CANAL RURAL
+http://hls-live.crur.al:80/hlshigh/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/Kfugopt.jpg" group-title="CANAIS PREMIUM 1.0",7- TV CARIRI
+http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/Kfugopt.jpg" group-title="CANAIS PREMIUM 1.0",8- ARROIS TV
+http://213.13.26.11:1935/live/luis/livestream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/tV0dbXN.jpg" group-title="CANAIS PREMIUM 1.0",9- CONEXAO BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="http://harasindi.com.br/fotonoticias/horsebrasil.png" group-title="CANAIS PREMIUM 1.0",10- HORSE BRASIL
+http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/lfmlAu3.jpg" group-title="CANAIS PREMIUM 1.0",12- REDE BRASIL
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/xuNJyWk.jpg" group-title="CANAIS PREMIUM 1.0",13- TV DIARIO
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/gSwfmWw.jpg" group-title="CANAIS PREMIUM 1.0",15 -TV ESCOLA
+http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/m4aXITt.jpg" group-title="CANAIS PREMIUM 1.0",16- FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8?FORMIGAtv-aapl).m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/GQBBbFe.jpg" group-title="CANAIS PREMIUM 1.0",17- REDE FAMILIA
+http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/lUzPttA.jpg" group-title="CANAIS PREMIUM 1.0",18- TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eqtcpanjh/TV_Geral.png" group-title="CANAIS PREMIUM 1.0",19- TV GERAL 
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://s20.postimg.org/psbtfbd0d/Logo-_Sobrenatural-_TV-_Pra-_TV.png" group-title="CANAIS PREMIUM 1.0",SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hi7QxeI.jpg" group-title="CANAIS PREMIUM 1.0",SBT
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/mqzCO1X.jpg" group-title="CANAIS PREMIUM 1.0",18- RECORD ES-VITORIA
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/sgImkpU.jpg" group-title="CANAIS PREMIUM 1.0",- REDETV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qh4Hq9l.jpg" group-title="CANAIS PREMIUM 1.0",GLOBO 2
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kV0a3fB.jpg" group-title="CANAIS PREMIUM 1.0",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream3.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/HNqI7T2.jpg" group-title="CANAIS PREMIUM 1.0",REDE NEWS
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/tB3mevS.jpg" group-title="CANAIS PREMIUM 1.0",REDE NOTICIAS
+http://painelvj.com.br:1935/redenoticiastv/redenoticiastv.sdp/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/FhcTCJW.jpg" group-title="CANAIS PREMIUM 1.0",TV CAMARA
+http://stream2.camara.gov.br:80/tv1/manifest.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/fVwEpYs.jpg" group-title="CANAIS PREMIUM 1.0",RECORNEWS
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/qFxsZYT.jpg" group-title="CANAIS PREMIUM 1.0",ALJAZEERA
+http://aljazeera-eng-apple-live.adaptive.level3.net:80/apple/aljazeera/hq-english/1200kStream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/KvZNbd0.jpg" group-title="CANAIS PREMIUM 1.0",CBN
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/IX07fBn.jpg" group-title="CANAIS PREMIUM 1.0",CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/6AJJZ4S.jpg" group-title="CANAIS PREMIUM 1.0",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/JxxCHRc.jpg" group-title="CANAIS PREMIUM 1.0",DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iaQguC3.jpg" group-title="CANAIS PREMIUM 1.0",PLAY TV
+http://stmv1.euroti.com.br:1935/rafael5986/rafael5986/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="CANAIS PREMIUM 1.0",DJ Hits
+http://www.djing.com/tv/04.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="MusicTop" tvg-logo="http://i67.tinypic.com/2qv5g5i.png" grup-title"MUSICAS",MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/lMqZmr5.jpg" group-title="CANAIS PREMIUM 1.0",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/fVmyCzq.jpg" group-title="CANAIS PREMIUM 1.0",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KVIpeu2.jpg" group-title="CANAIS PREMIUM 1.0",ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="CANAIS PREMIUM 1.0",FOX SPORTS 
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?FORMIGAtv
+#EXTINF:-1  tvg-logo="http://i.imgur.com/OpkyrD1.png"  group-title="CANAIS PREMIUM 1.0",EI
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://bit.ly/2GLHTrI"  group-title="CANAIS PREMIUM 1.0",ESPN 
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://bit.ly/2ICVj9U" group-title="CANAIS PREMIUM 1.0",ESPN BRASIL
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gDHSHwM.png"group-title="CANAIS PREMIUM 1.0",SPORTV 
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="CANAIS PREMIUM 1.0",SPORTV2 
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?FORMIGAtv
+
+#EXTINF:0 tvg-logo="https://imgur.com/WCFQB3A.jpg" group-title="CANAIS PREMIUM 1.0",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?FORMIGAtv
+#EXTINF:0 tvg-logo="https://imgur.com/DedhaZp.jpg" group-title="CANAIS PREMIUM 1.0",AD Sports 2 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wQSn80w.jpg" group-title="CANAIS PREMIUM 1.0",CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/4pROafv.png" group-title="CANAIS PREMIUM 1.0",CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/62wznzh4l/clarocine.png" group-title="CANAIS PREMIUM 1.0",CINE CLARO
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HHbP4lo.jpg" group-title="DESENHOS",GOSPEL CARTOONS
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?FORMIGAtv
+
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",FOX SPORTS *
 http://198.255.22.59:18082/TV1459?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8?FORMIGAtv
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn Extra
-http://srv.elitehdbr.vip:8880/live/JorgeBoni/Jzd2cH1BTb/5397.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn Extra
-http://srv.elitehdbr.vip:8880/live/GabrielRoberto/oBtcqZI3bO/5397.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AMC
-http://switch01.servep2p.com/007/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globosat
-http://switch03.serveexchange.com/073/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Bis
-http://switch02.golffan.us/061/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",HBO 2
-http://switch02.golffan.us/047/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Futura
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",RedeTv
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Sbt
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT Recife
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo
-http://switch03.serveexchange.com/095/myStream/playlist.m3u8?FORMIGAtv.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo Pr
-http://switch01.servep2p.com/021/myStream/playlist.m3u8?FORMIGAtv.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo
-http://switch01.servep2p.com/020/myStream/playlist.m3u8?FORMIGAtv.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?MEGAMAXIPTV
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT Recife
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8?MEGAMAXIPTV
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT Recife
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2055128690_b216000_sleng.m3u8?MEGAMAXIPTV
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SBT HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Combate HD
-http://switch01.servep2p.com/016/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Combate
-http://switch01.servep2p.com/016/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Boomerang
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.ts?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Boomerang
-http://switch03.serveexchange.com/091/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Cartoon Network HD
-http://switch01.servep2p.com/027/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Disney Jr
-http://lb02-2.ipbr.tv:25461/live/az_iptvx83517/663/209.ts?token=TRddVURbEg9EBwdaAlYICQUKVAAEAgMOCwxUDlJcAFABVAZQBwcHUFUTTkBHEUNVAFU+WlETCwQIAR0UFkoARmlcURYNEQYDXghAThYRWF0EGlsCAAMCBw8OBwFaFUdEX1EXDllGXFlKEwcaQABDXgBUPldQR1hVXRoLWBZVCRgUWltrU1ZdVAhVQFgWVBMcQ1ESQxcLE2BRTl4WMBckGhQZF1ZeR0JUElRAWFoQXVxNGgJcQF9FREEaCxQha0cYFFBNQFJdQ1wJX0BYFhFCEk0aCEBqQ1RFTEpUVw5cFxYMFwUWGxFdVB5uAQ1aC1RTFVEOXUYTCxQJGh0UDlYLXUJaR2tHWlQXXF8XDlgY
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Disney XD
-http://switch03.serveexchange.com/086/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Nickelodeon
-http://switch03.serveexchange.com/077/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Nick Jr
-http://switch02.golffan.us/052/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Cinemax HD
-http://185.152.66.81:25461/live/genaro/12345/1846.m3u8?token=SUZYUxZQRwJGUAtXBARcDQ5XU1kDUlJRVg0PBgJSAlVRUlEBA11RD1IRFERGFhddV1loCFdHC1cMAQ8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSBFQJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBVAIXhZI
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo
-http://185.152.66.81:25461/live/ezequiel/12345/1810.m3u8?token=SUZYUxZQRwJGVgFXUAcGDwQGA1VVUFJUDQwOBQkGA1wEUQJRAQ5QWVQRFERGFhddV1loCFdHC1cMBAkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAlMGAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVwcDG04=
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox
-http://switch02.golffan.us/064/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox
-http://switch02.golffan.us/064/myStream/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AeX
-http://switch03.serveexchange.com/078/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Comedy Central
-http://switch03.serveexchange.com/078/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",HBO Plus
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/99.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Hbo Plus
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/99.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",HBO Signature
-http://switch03.serveexchange.com/071/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/89.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max HD
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/88.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max Up
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/88.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max Prime HD
-http://switch03.serveexchange.com/092/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Max Prime HD
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/87.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Megapix
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/82.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Sony HD
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Sony
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/183.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Space
-http://switch01.servep2p.com/029/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SyFy
-http://switch03.serveexchange.com/093/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Tbs
-http://switch02.golffan.us/038/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Tcm
-http://switch02.golffan.us/039/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Tcm
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/5428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",TNT
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/16.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",TNT HD
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/15.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Warner Channel
-http://switch03.serveexchange.com/080/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Animal Planet
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Discovery Sience
-http://switch03.serveexchange.com/074/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Discovery Turbo
-http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlUHWQ5VAlIBAVBUAgUKBQNWAVMAVgIBBF0GCFIRFERGFhddV1loCFdHC1cMBg0fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBVUEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcFXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAcBG04
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Discovery Turbo
-http://switch01.servep2p.com/026/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Discovery Word
-http://switch03.serveexchange.com/094/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",H2 HD
-http://switch02.golffan.us/054/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",History Channel
-http://switch01.servep2p.com/024/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",NatGeo
-http://switch03.serveexchange.com/082/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",AMC
-http://lb02-2.ipbr.tv:25461/live/az_iptvx70465/957/812.ts?token=TRddVURbEg9ECVsHVlFUAgBcA1FXAVIGW10FUFYAVwYCAFEAA1AABwQTTkBHEUNVAFU+WlETCw4JCh0UFkoARmlcURYNEQYGUQlAThYRWF0EGlsCAAMDDwgMAgJVFUdEX1EXDllGXFlKEwcaQABDXgBUPldQR1hVXRoLWBZVCRgUWltrU1ZdVAhVQFgWVBMcQ1ESQxcLE3dbXRF1DFQARlVcWhRSE2NQFEcLAVsWEVQEGChdU15DW1lMWFUCGSlAUlQVGRd+dRdKEwALQBdQRAQaW11AXV0aGlteQw1NF00UDxd2ZREcFwNJFgdaFlhfDxpbEUFCExoaUUJpEVwWQERQVFlSQRIPRAFAThYIUEg+Ww5dW1RSQlFXX0VBA0cFFBkXWVhdWUEJQz0SXQETCg9NDV9I
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Viva
-http://switch03.serveexchange.com/079/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Viva
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Viva
-http://switch03.serveexchange.com/079/myStream/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo News HD
-http://switch03.serveexchange.com/076/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Space HD
-http://switch01.servep2p.com/029/myStream/playlist.m3u8?FORMIGAtv.ts
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",TNT Series
-http://switch01.servep2p.com/025/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Espn Brasil HD
-http://switch04.loginto.me/c01/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 2
-http://switch04.loginto.me/099/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 3
-http://switch04.loginto.me/100/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 4
-http://switch02.golffan.us/044/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 5
-http://switch02.golffan.us/042/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 6
-http://switch02.golffan.us/043/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Premiere 7
-http://switch02.golffan.us/041/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",SporTV HD
-http://switch04.loginto.me/c08/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Band HD
-http://switch03.serveexchange.com/081/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo Rj
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SPORTV
+http://198.255.22.59:18082/TV1456?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SPORTV 2
+http://198.255.22.59:18082/TV1251?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SPORTV 3
+http://198.255.22.59:18082/TV1252?AuthInfo=8548259400db00882e10eda8ed1ec2ad6fb40e816c81a86c5d1f2dc6fef0fe47dbd0f734be7cba2016e539154129440092690bfba10bbebfa19d7b59c127910838dd1ada3e3ab2b73c831dfec98aa55aa7b71baa661d8c0b.m3h8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",GLOBO RJ
 http://switch01.servep2p.com/021/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Touch
-http://switch04.loginto.me/102/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Telecine Pipoca
-http://switch03.serveexchange.com/065/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",HBO Family
-http://switch03.serveexchange.com/088/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Globo
-http://switch01.servep2p.com//020/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Fox Sports
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Band Sports
+http://switch03.serveexchange.com/074/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Combate
+http://switch01.servep2p.com/016/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Discovery Turbo
+http://switch01.servep2p.com/013/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Maxx
+http://switch02.golffan.us/046/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Maxx2
+http://switch01.servep2p.com/025/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Espn
+http://switch04.loginto.me/c016/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Espn Brasil
+http://switch04.loginto.me/c01/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Espn+
+http://switch03.serveexchange.com/070/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Esporte Interativo
+http://switch04.loginto.me/c04/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Fox Sports
 http://switch02.golffan.us/036/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS PREMIUM 1.0",Megapix
-http://m.tudotv.tv/assistir-megapix-ao-vivo-24-horas/?opcaomobile=12186
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Fox Sports2
+http://switch01.servep2p.com/028/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC1
+http://switch04.loginto.me/097/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC2
+http://switch04.loginto.me/099/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC3
+http://switch04.loginto.me/100/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC5
+http://switch02.golffan.us/044/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC6
+http://switch02.golffan.us/042/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC7
+http://switch02.golffan.us/043/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",PFC8
+http://switch02.golffan.us/041/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SporTV
+http://switch04.loginto.me/c08/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SporTV2
+http://switch03.serveexchange.com/071/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SporTV3
+http://switch04.loginto.me/c06/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",BabyTV
+http://switch03.serveexchange.com/066/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Boomerang
+http://switch03.serveexchange.com/091/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",CartoonNetwork
+http://switch01.servep2p.com/027/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",DiscoveryKids
+http://switch02.golffan.us/049/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Disney
+http://switch03.serveexchange.com/075/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",DisneyJunior
+http://switch03.serveexchange.com/087/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",DisneyXD
+http://switch03.serveexchange.com/086/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Gloob
+http://switch03.serveexchange.com/089/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Nick HD
+http://switch03.serveexchange.com/077/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",NickJR
+http://switch02.golffan.us/052/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Toon Cast
+http://switch03.serveexchange.com/085/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",ZooMoo
+http://switch01.servep2p.com/006/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",BIS
+http://switch02.golffan.us/061/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",chefTV
+http://switch02.golffan.us/062/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Comedy Central
+http://switch01.servep2p.com/030/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",CURTA!
+http://switch01.servep2p.com/014/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",h&h
+http://switch04.loginto.me/c013/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Fox Life
+http://switch03.serveexchange.com/083/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",+GloboSat
+http://switch03.serveexchange.com/073/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",GNT
+http://switch03.serveexchange.com/084/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Life Time
+http://switch03.serveexchange.com/090/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",MTV
+http://switch03.serveexchange.com/072/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",MultiShow
+http://switch01.servep2p.com/012/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TLC
+http://switch02.golffan.us/034/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Tru TV
+http://switch04.loginto.me/103/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",VH1
+http://switch02.golffan.us/040/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",VIVA
+http://switch03.serveexchange.com/079/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Band
+http://switch03.serveexchange.com/081/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",RPC TV
+http://switch03.serveexchange.com/095/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Globo SP
+http://switch01.servep2p.com//020/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",REDE TV
+http://switch02.golffan.us/063/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SBT
+http://switch01.servep2p.com/031/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",A&E
+http://switch04.loginto.me/106/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",AMC
+http://switch01.servep2p.com/007/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",AXN
+http://switch01.servep2p.com/015/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",HBO
+http://switch02.golffan.us/053/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",HBO Family 
+http://switch03.serveexchange.com/088/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",HBO Plus
+http://switch02.golffan.us/037/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",HBO Signature
+http://switch01.servep2p.com/001/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",HBO 2
+http://switch02.golffan.us/047/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",MAX
+http://switch02.golffan.us/051/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",MAX Prime
+http://switch03.serveexchange.com/092/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",MAX UP
+http://switch02.golffan.us/045/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",MEGAPIX
+http://switch02.golffan.us/033/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Paramount Channel
+http://switch01.servep2p.com/004/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",CANAL SONY
+http://switch01.servep2p.com/003/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SPACE HD
+http://switch01.servep2p.com/029/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Studio Universal
+http://switch03.serveexchange.com/096/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SyFy
+http://switch03.serveexchange.com/093/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TBS
+http://switch02.golffan.us/038/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TCM
+http://switch02.golffan.us/039/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TeleCine Action
+http://switch03.serveexchange.com/068/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TeleCine Cult
+http://switch02.golffan.us/055/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TeleCine Fun
+http://switch02.golffan.us/060/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TeleCine Pipoca
+http://switch03.serveexchange.com/065/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TeleCine Premium
+http://switch03.serveexchange.com/069/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TELECINE TOUCH
+http://switch04.loginto.me/102/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TNT
+http://switch01.servep2p.com/023/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",TNT Series
+http://switch01.servep2p.com/019/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Universal Channel
+http://switch03.serveexchange.com/067/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Warner
+http://switch03.serveexchange.com/080/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Animal Planet
+http://switch04.loginto.me/105/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",BAND NEWS
+http://switch01.servep2p.com/032/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Discovery Channel
+http://switch02.golffan.us/050/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Discovery World
+http://switch03.serveexchange.com/094/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",Globo News
+http://switch03.serveexchange.com/076/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",H2
+http://switch02.golffan.us/054/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",History
+http://switch01.servep2p.com/005/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",ID
+http://switch02.golffan.us/056/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",NatGeo Wild
+http://switch03.serveexchange.com/082/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",National Geographic
+http://switch04.loginto.me/101/myStream/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",SUNDANCE TV
+http://switch01.servep2p.com/009/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",FOX ACTION
+http://switch04.loginto.me/109/myStream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/x4CgpuC.jpg"   group-title="CANAIS PREMIUM 1.0",FOX1
+http://switch04.loginto.me/107/myStream/playlist.m3u8
