@@ -1,0 +1,1647 @@
+#EXTM3U
+########### canais premium 1.0 ###################################
+
+#EXTINF:-1,group-title="Canais premium 1",Globo Minas FULL HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4586.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo Minas HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4589.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo News HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4588.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo News SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4590.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo Nordeste HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4587.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo Nordeste SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4591.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo Rio HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4657.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo Rio SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4654.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo SP HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4656.ts
+#EXTINF:-1,group-title="Canais premium 1",Globo SP SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4653.ts
+#EXTINF:-1,group-title="Canais premium 1",SBT
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4771.ts
+#EXTINF:-1,group-title="Canais premium 1",SBT GO
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4725.ts
+#EXTINF:-1,group-title="Canais premium 1",SBT HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4732.ts
+#EXTINF:-1,group-title="Canais premium 1",SBT Piau
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4774.ts
+#EXTINF:-1,group-title="Canais premium 1",SBT Recife HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4659.ts
+#EXTINF:-1,group-title="Canais premium 1",SBT Rondonia
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4770.ts
+#EXTINF:-1,group-title="Canais premium 1",Record Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4720.ts
+#EXTINF:-1,group-title="Canais premium 1",Record HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4615.ts
+#EXTINF:-1,group-title="Canais premium 1",Record News HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4625.ts
+#EXTINF:-1,group-title="Canais premium 1",Record News SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4721.ts
+#EXTINF:-1,group-title="Canais premium 1",Band  FULL HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4515.ts
+#EXTINF:-1,group-title="Canais premium 1",Band News HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4524.ts
+#EXTINF:-1,group-title="Canais premium 1",Band News SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4514.ts
+#EXTINF:-1,group-title="Canais premium 1",Band SP HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4520.ts
+#EXTINF:-1,group-title="Canais premium 1",Band Sports SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4518.ts
+#EXTINF:-1,group-title="Canais premium 1",Canal Brasil HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4555.ts
+#EXTINF:-1,group-title="Canais premium 1",Canal Brasil SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4545.ts
+#EXTINF:-1,group-title="Canais premium 1",Canal Rural SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4563.ts
+#EXTINF:-1,group-title="Canais premium 1",Agro Brasil HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4525.ts
+#EXTINF:-1,group-title="Canais premium 1",Rede TV HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4617.ts
+#EXTINF:-1,group-title="Canais premium 1",Rede Vida SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4677.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Brasil SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4745.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Camara HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4727.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Canção Nova SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4728.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Cultura BA HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4730.ts
+#EXTINF:-1,group-title="Canais premium 1",TV GAZETA
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/9495.ts
+
+#EXTINF:-1,group-title="Canais premium 1",90s
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4528.ts
+#EXTINF:-1,group-title="Canais premium 1",A&E HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4511.ts
+#EXTINF:-1,group-title="Canais premium 1",A&E SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4550.ts
+#EXTINF:-1,group-title="Canais premium 1",AXN HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4526.ts
+#EXTINF:-1,group-title="Canais premium 1",AXN SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4551.ts
+#EXTINF:-1,group-title="Canais premium 1",Alternative
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4510.ts
+#EXTINF:-1,group-title="Canais premium 1",Animal Planet HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4519.ts
+#EXTINF:-1,group-title="Canais premium 1",Animal Planet SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4516.ts
+#EXTINF:-1,group-title="Canais premium 1",Arte 1 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4513.ts
+#EXTINF:-1,group-title="Canais premium 1",Baby TV SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4523.ts
+#EXTINF:-1,group-title="Canais premium 1",BIS HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4521.ts
+#EXTINF:-1,group-title="Canais premium 1",BIS SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4522.ts
+#EXTINF:-1,group-title="Canais premium 1",Bloomberg TV HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4512.ts
+#EXTINF:-1,group-title="Canais premium 1",Boomerang HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4552.ts
+#EXTINF:-1,group-title="Canais premium 1",Boomerang SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4509.ts
+#EXTINF:-1,group-title="Canais premium 1",Brits Hits
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4504.ts
+#EXTINF:-1,group-title="Canais premium 1",Canal Sony HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4764.ts
+#EXTINF:-1,group-title="Canais premium 1",Cartoon Network HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4506.ts
+#EXTINF:-1,group-title="Canais premium 1",Cartoon Network SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4553.ts
+#EXTINF:-1,group-title="Canais premium 1",Cinemax HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4562.ts
+#EXTINF:-1,group-title="Canais premium 1",Cinemax SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4560.ts
+#EXTINF:-1,group-title="Canais premium 1",Combate
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4561.ts
+#EXTINF:-1,group-title="Canais premium 1",Combate Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4527.ts
+#EXTINF:-1,group-title="Canais premium 1",Combate HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4547.ts
+#EXTINF:-1,group-title="Canais premium 1",Comedy Central
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4557.ts
+#EXTINF:-1,group-title="Canais premium 1",Comedy Central HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4570.ts
+#EXTINF:-1,group-title="Canais premium 1",Cultura SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4566.ts
+#EXTINF:-1,group-title="Canais premium 1",Dance/EDM
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4508.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Channel Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4784.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Channel HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4569.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Channel SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4568.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Civilization HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4565.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Home & Health HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4502.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Home & Health SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4507.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Kids HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4505.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Kids SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4503.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Science HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4548.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Theater HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4549.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Turbo Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4781.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Turbo HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4593.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery Turbo SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4546.ts
+#EXTINF:-1,group-title="Canais premium 1",Discovery World HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4543.ts
+#EXTINF:-1,group-title="Canais premium 1",Disney Channel HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4592.ts
+#EXTINF:-1,group-title="Canais premium 1",Disney Channel SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4542.ts
+#EXTINF:-1,group-title="Canais premium 1",Disney JR HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4614.ts
+#EXTINF:-1,group-title="Canais premium 1",Disney JR SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4531.ts
+#EXTINF:-1,group-title="Canais premium 1",Disney XD SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4610.ts
+#EXTINF:-1,group-title="Canais premium 1",E! HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4540.ts
+#EXTINF:-1,group-title="Canais premium 1",E! SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4539.ts
+#EXTINF:-1,group-title="Canais premium 1",EI Maxx 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4532.ts
+#EXTINF:-1,group-title="Canais premium 1",EI Maxx 2 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4585.ts
+#EXTINF:-1,group-title="Canais premium 1",EI Maxx HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4535.ts
+#EXTINF:-1,group-title="Canais premium 1",EI Maxx SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4541.ts
+#EXTINF:-1,group-title="Canais premium 1",ESPN   SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4651.ts
+#EXTINF:-1,group-title="Canais premium 1",ESPN  HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4538.ts
+#EXTINF:-1,group-title="Canais premium 1",ESPN Brasil HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4534.ts
+#EXTINF:-1,group-title="Canais premium 1",ESPN Brasil SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4533.ts
+#EXTINF:-1,group-title="Canais premium 1",ESPN SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4537.ts
+#EXTINF:-1,group-title="Canais premium 1",Esporte Interativo 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4633.ts
+#EXTINF:-1,group-title="Canais premium 1",Esporte Interativo HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4529.ts
+#EXTINF:-1,group-title="Canais premium 1",Esporte Interativo SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4611.ts
+#EXTINF:-1,group-title="Canais premium 1",FISH TV SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4613.ts
+#EXTINF:-1,group-title="Canais premium 1",FOOD NETWORK HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4530.ts
+#EXTINF:-1,group-title="Canais premium 1",FOOD NETWORK SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4612.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox 1 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4595.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4783.ts
+#EXTINF:-1,group-title="Canais premium 1",FOX HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4606.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Life HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4536.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Life SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4596.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Premium 1 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4594.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Premium 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4604.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4609.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Sports 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4599.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Sports 2 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4600.ts
+#EXTINF:-1,group-title="Canais premium 1",FOX SPORTS Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4775.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Sports HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4598.ts
+#EXTINF:-1,group-title="Canais premium 1",Fox Sports SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4601.ts
+#EXTINF:-1,group-title="Canais premium 1",Futura SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4597.ts
+#EXTINF:-1,group-title="Canais premium 1",FX HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4608.ts
+#EXTINF:-1,group-title="Canais premium 1",FX SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4607.ts
+#EXTINF:-1,group-title="Canais premium 1",G2P TV HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4605.ts
+#EXTINF:-1,group-title="Canais premium 1",Gloob HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4571.ts
+#EXTINF:-1,group-title="Canais premium 1",Gloob SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4658.ts
+#EXTINF:-1,group-title="Canais premium 1",GNT HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4602.ts
+#EXTINF:-1,group-title="Canais premium 1",GNT SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4603.ts
+#EXTINF:-1,group-title="Canais premium 1",H2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4655.ts
+#EXTINF:-1,group-title="Canais premium 1",H2 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4572.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4575.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO 2 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4574.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Family HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4579.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Family SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4578.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4782.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4580.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Plus E SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4582.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Plus HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4583.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Plus SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4581.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4573.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Signature HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4584.ts
+#EXTINF:-1,group-title="Canais premium 1",HBO Signature SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4576.ts
+#EXTINF:-1,group-title="Canais premium 1",Hip Hop/R&B
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4650.ts
+#EXTINF:-1,group-title="Canais premium 1",Hit List
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4647.ts
+#EXTINF:-1,group-title="Canais premium 1",HIT TV
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4577.ts
+#EXTINF:-1,group-title="Canais premium 1",I SAT SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4640.ts
+#EXTINF:-1,group-title="Canais premium 1",ID HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4637.ts
+#EXTINF:-1,group-title="Canais premium 1",ID SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4636.ts
+#EXTINF:-1,group-title="Canais premium 1",Igreja Universal HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4639.ts
+#EXTINF:-1,group-title="Canais premium 1",Igreja Universal SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4638.ts
+#EXTINF:-1,group-title="Canais premium 1",Indie
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4649.ts
+#EXTINF:-1,group-title="Canais premium 1",IURD TV SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4646.ts
+#EXTINF:-1,group-title="Canais premium 1",Jasmin TV HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4641.ts
+#EXTINF:-1,group-title="Canais premium 1",Kidz Only!
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4648.ts
+#EXTINF:-1,group-title="Canais premium 1",LIFETIME HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4643.ts
+#EXTINF:-1,group-title="Canais premium 1",Lifetime SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4642.ts
+#EXTINF:-1,group-title="Canais premium 1",Mais Globosat HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4663.ts
+#EXTINF:-1,group-title="Canais premium 1",Mais Globosat SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4662.ts
+#EXTINF:-1,group-title="Canais premium 1",MAX HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4645.ts
+#EXTINF:-1,group-title="Canais premium 1",Max Prime E SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4789.ts
+#EXTINF:-1,group-title="Canais premium 1",MAX Prime HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4790.ts
+#EXTINF:-1,group-title="Canais premium 1",Max Prime SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4664.ts
+#EXTINF:-1,group-title="Canais premium 1",MAX SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4644.ts
+#EXTINF:-1,group-title="Canais premium 1",Max UP HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4679.ts
+#EXTINF:-1,group-title="Canais premium 1",Max UP SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4678.ts
+#EXTINF:-1,group-title="Canais premium 1",Megapix HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4681.ts
+#EXTINF:-1,group-title="Canais premium 1",Megapix SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4680.ts
+#EXTINF:-1,group-title="Canais premium 1",Metal
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4670.ts
+#EXTINF:-1,group-title="Canais premium 1",Mexicana
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4669.ts
+#EXTINF:-1,group-title="Canais premium 1",MTV HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4683.ts
+#EXTINF:-1,group-title="Canais premium 1",MTV SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4682.ts
+#EXTINF:-1,group-title="Canais premium 1",Multishow HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4685.ts
+#EXTINF:-1,group-title="Canais premium 1",Multishow SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4684.ts
+#EXTINF:-1,group-title="Canais premium 1",Music Box Brazil SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4621.ts
+#EXTINF:-1,group-title="Canais premium 1",Musica Urbana
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4665.ts
+#EXTINF:-1,group-title="Canais premium 1",NatGeo Kids HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4686.ts
+#EXTINF:-1,group-title="Canais premium 1",NatGeo Kids SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4687.ts
+#EXTINF:-1,group-title="Canais premium 1",NatGeo Wild HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4689.ts
+#EXTINF:-1,group-title="Canais premium 1",NatGeo Wild SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4688.ts
+#EXTINF:-1,group-title="Canais premium 1",National Geographic HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4691.ts
+#EXTINF:-1,group-title="Canais premium 1",National Geographic SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4690.ts
+#EXTINF:-1,group-title="Canais premium 1",NHK World Premium
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4692.ts
+#EXTINF:-1,group-title="Canais premium 1",Nick Jr HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4693.ts
+#EXTINF:-1,group-title="Canais premium 1",Nick Jr. HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4695.ts
+#EXTINF:-1,group-title="Canais premium 1",Nick Jr. SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4694.ts
+#EXTINF:-1,group-title="Canais premium 1",Nickelodeon HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4660.ts
+#EXTINF:-1,group-title="Canais premium 1",Nickelodeon SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4696.ts
+#EXTINF:-1,group-title="Canais premium 1",Novo Tempo SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4697.ts
+#EXTINF:-1,group-title="Canais premium 1",NRJ Hits HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4698.ts
+#EXTINF:-1,group-title="Canais premium 1",Off HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4700.ts
+#EXTINF:-1,group-title="Canais premium 1",Off SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4699.ts
+#EXTINF:-1,group-title="Canais premium 1",Paramount HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4702.ts
+#EXTINF:-1,group-title="Canais premium 1",Paramount SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4701.ts
+#EXTINF:-1,group-title="Canais premium 1",Play HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4666.ts
+#EXTINF:-1,group-title="Canais premium 1",Play TV SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4703.ts
+#EXTINF:-1,group-title="Canais premium 1",Pop   Country
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4632.ts
+#EXTINF:-1,group-title="Canais premium 1",Pop Hits
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4676.ts
+#EXTINF:-1,group-title="Canais premium 1",Pop Latino
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4671.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 1 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4629.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 1 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4628.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4630.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 2 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4705.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 3 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4707.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 3 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4706.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 4 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4709.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 4 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4708.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 5 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4711.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 5 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4710.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 6 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4713.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 6 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4712.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 7 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4714.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 7 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4631.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 8 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4715.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere 9 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4716.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere Clubes HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4718.ts
+#EXTINF:-1,group-title="Canais premium 1",Premiere Clubes SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4717.ts
+#EXTINF:-1,group-title="Canais premium 1",Premieres Clubes Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4776.ts
+#EXTINF:-1,group-title="Canais premium 1",Prime Box Brazil SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4624.ts
+#EXTINF:-1,group-title="Canais premium 1",Primebox Brasil SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4719.ts
+#EXTINF:-1,group-title="Canais premium 1",QVC HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4675.ts
+#EXTINF:-1,group-title="Canais premium 1",Rap
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4668.ts
+#EXTINF:-1,group-title="Canais premium 1",Rap 2K
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4667.ts
+#EXTINF:-1,group-title="Canais premium 1",RBC - Rede Brasil de Comunica
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4788.ts
+#EXTINF:-1,group-title="Canais premium 1",RIC TV (Record Curitiba) SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4620.ts
+#EXTINF:-1,group-title="Canais premium 1",RIC TV Maring
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4618.ts
+#EXTINF:-1,group-title="Canais premium 1",RIT SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4619.ts
+#EXTINF:-1,group-title="Canais premium 1",Rock
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4616.ts
+#EXTINF:-1,group-title="Canais premium 1",RTP 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4674.ts
+#EXTINF:-1,group-title="Canais premium 1",Sony SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4765.ts
+#EXTINF:-1,group-title="Canais premium 1",Space HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4762.ts
+#EXTINF:-1,group-title="Canais premium 1",Space SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4763.ts
+#EXTINF:-1,group-title="Canais premium 1",SporTV 2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4757.ts
+#EXTINF:-1,group-title="Canais premium 1",SporTV 2 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4760.ts
+#EXTINF:-1,group-title="Canais premium 1",SporTV 3 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4755.ts
+#EXTINF:-1,group-title="Canais premium 1",SporTV 3 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4756.ts
+#EXTINF:-1,group-title="Canais premium 1",SporTV Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4780.ts
+#EXTINF:-1,group-title="Canais premium 1",Sportv HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4752.ts
+#EXTINF:-1,group-title="Canais premium 1",SporTV SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4761.ts
+#EXTINF:-1,group-title="Canais premium 1",Studio Universal HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4750.ts
+#EXTINF:-1,group-title="Canais premium 1",Studio Universal SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4751.ts
+#EXTINF:-1,group-title="Canais premium 1",Syfy HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4748.ts
+#EXTINF:-1,group-title="Canais premium 1",SYFY SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4749.ts
+#EXTINF:-1,group-title="Canais premium 1",TBS HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4742.ts
+#EXTINF:-1,group-title="Canais premium 1",TBS SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4746.ts
+#EXTINF:-1,group-title="Canais premium 1",TCM SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4741.ts
+#EXTINF:-1,group-title="Canais premium 1",Teen Beats
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4809.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Action HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4795.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Action SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4794.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Cult SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4796.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Fun HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4798.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Fun SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4797.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Pipoca HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4800.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Pipoca SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4799.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Premium Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4779.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Premium HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4802.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Premium SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4801.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Touch HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4804.ts
+#EXTINF:-1,group-title="Canais premium 1",Telecine Touch SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4803.ts
+#EXTINF:-1,group-title="Canais premium 1",The History Channel Full HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4778.ts
+#EXTINF:-1,group-title="Canais premium 1",The History Channel HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4793.ts
+#EXTINF:-1,group-title="Canais premium 1",The History Channel SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4792.ts
+#EXTINF:-1,group-title="Canais premium 1",Throwback Jamz
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4811.ts
+#EXTINF:-1,group-title="Canais premium 1",TLC HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4733.ts
+#EXTINF:-1,group-title="Canais premium 1",TLC SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4735.ts
+#EXTINF:-1,group-title="Canais premium 1",TNT HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4738.ts
+#EXTINF:-1,group-title="Canais premium 1",TNT SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4734.ts
+#EXTINF:-1,group-title="Canais premium 1",TNT Series HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4740.ts
+#EXTINF:-1,group-title="Canais premium 1",TNT Series SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4739.ts
+#EXTINF:-1,group-title="Canais premium 1",Today's Country
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4805.ts
+#EXTINF:-1,group-title="Canais premium 1",Tooncast HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4807.ts
+#EXTINF:-1,group-title="Canais premium 1",Tooncast SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4806.ts
+#EXTINF:-1,group-title="Canais premium 1",Trutv SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4808.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Aparecida SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4743.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Aperipê HD (Sergipe)
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4726.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Evangelizar SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4736.ts
+#EXTINF:-1,group-title="Canais premium 1",TV INES HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4744.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Milagre
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4785.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Nova Esperança SD (Maranhão)
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4731.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Novo Tempo HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4729.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Rio Largo (Maceió) SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4723.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Século 21 SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4724.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Terceiro Anjo SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4772.ts
+#EXTINF:-1,group-title="Canais premium 1",TV Vit
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4791.ts
+#EXTINF:-1,group-title="Canais premium 1",TVW HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4818.ts
+#EXTINF:-1,group-title="Canais premium 1",TVW-2 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4817.ts
+#EXTINF:-1,group-title="Canais premium 1",Universal Channel HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4820.ts
+#EXTINF:-1,group-title="Canais premium 1",Universal Channel SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4819.ts
+#EXTINF:-1,group-title="Canais premium 1",VH1 HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4821.ts
+#EXTINF:-1,group-title="Canais premium 1",VH1 Mega Hits SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4813.ts
+#EXTINF:-1,group-title="Canais premium 1",VH1 Megahits
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4822.ts
+#EXTINF:-1,group-title="Canais premium 1",VH1 Megahits HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4812.ts
+#EXTINF:-1,group-title="Canais premium 1",Viva
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4823.ts
+#EXTINF:-1,group-title="Canais premium 1",Viva HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4824.ts
+#EXTINF:-1,group-title="Canais premium 1",Warner Channel HD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4826.ts
+#EXTINF:-1,group-title="Canais premium 1",Woohoo
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4827.ts
+#EXTINF:-1,group-title="Canais premium 1",Y2K
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/4722.ts
+#EXTINF:-1,group-title="Canais premium 1",RBS TV Porto Alegre SD
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/8077.ts
+#EXTINF:-1,group-title="Canais premium 1",Warner Channel
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/9494.ts
+#EXTINF:-1,group-title="Canais premium 1",CINE 24H
+http://svr1.floriu.cf:25461/live/Teste Planos/GRNzor7Ogb/9496.ts
+
+################# canais premium 2.0 ################################
+
+#EXTM3U
+#EXTINF:-1,group-title="Canais premium 2",A&E HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/231.ts
+#EXTINF:-1,group-title="Canais premium 2",AMC HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/229.ts
+#EXTINF:-1,group-title="Canais premium 2",Animal Planet HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/227.ts
+#EXTINF:-1,group-title="Canais premium 2",Arte1 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/226.ts
+#EXTINF:-1,group-title="Canais premium 2",AXN HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/224.ts
+#EXTINF:-1,group-title="Canais premium 2",BabyTV HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/222.ts
+#EXTINF:-1,group-title="Canais premium 2",Band Campinas HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/220.ts
+#EXTINF:-1,group-title="Canais premium 2",Band News HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/218.ts
+#EXTINF:-1,group-title="Canais premium 2",BandSports HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/216.ts
+#EXTINF:-1,group-title="Canais premium 2",BBB HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/213.ts
+#EXTINF:-1,group-title="Canais premium 2",BIS HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/212.ts
+#EXTINF:-1,group-title="Canais premium 2",Boomerang HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/210.ts
+#EXTINF:-1,group-title="Canais premium 2",Canal Curta! HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/208.ts
+#EXTINF:-1,group-title="Canais premium 2",Canal Futura HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/206.ts
+#EXTINF:-1,group-title="Canais premium 2",Canal OFF HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/204.ts
+#EXTINF:-1,group-title="Canais premium 2",Canal Woohoo HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/202.ts
+#EXTINF:-1,group-title="Canais premium 2",Cartoon Network HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/200.ts
+#EXTINF:-1,group-title="Canais premium 2",Cinemax HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/198.ts
+#EXTINF:-1,group-title="Canais premium 2",Combate HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/196.ts
+#EXTINF:-1,group-title="Canais premium 2",Comedy Central HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/194.ts
+#EXTINF:-1,group-title="Canais premium 2",Cultura HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/192.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Channel HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/190.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Civilization HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/188.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Home & Health HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/186.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Kids HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/184.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Science HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/182.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Theater HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/180.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery Turbo HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/178.ts
+#EXTINF:-1,group-title="Canais premium 2",Discovery World HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/176.ts
+#EXTINF:-1,group-title="Canais premium 2",Disney Channel  HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/174.ts
+#EXTINF:-1,group-title="Canais premium 2",Disney Junior HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/172.ts
+#EXTINF:-1,group-title="Canais premium 2",Disney XD HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/170.ts
+#EXTINF:-1,group-title="Canais premium 2",E! HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/168.ts
+#EXTINF:-1,group-title="Canais premium 2",EPTV Campinas HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/166.ts
+#EXTINF:-1,group-title="Canais premium 2",Espn  HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/160.ts
+#EXTINF:-1,group-title="Canais premium 2",Espn Brasil HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/164.ts
+#EXTINF:-1,group-title="Canais premium 2",Espn HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/162.ts
+#EXTINF:-1,group-title="Canais premium 2",Esporte Interativo 2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/158.ts
+#EXTINF:-1,group-title="Canais premium 2",Esporte Interativo HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/156.ts
+#EXTINF:-1,group-title="Canais premium 2",FOX HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/154.ts
+#EXTINF:-1,group-title="Canais premium 2",FOX Life HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/153.ts
+#EXTINF:-1,group-title="Canais premium 2",Fox Premium 2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/151.ts
+#EXTINF:-1,group-title="Canais premium 2",Fox Premium HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/149.ts
+#EXTINF:-1,group-title="Canais premium 2",Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/146.ts
+#EXTINF:-1,group-title="Canais premium 2",Fox Sports HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/144.ts
+#EXTINF:-1,group-title="Canais premium 2",FX HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/142.ts
+#EXTINF:-1,group-title="Canais premium 2",GloboNews HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/140.ts
+#EXTINF:-1,group-title="Canais premium 2",Gloob HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/138.ts
+#EXTINF:-1,group-title="Canais premium 2",GNT HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/136.ts
+#EXTINF:-1,group-title="Canais premium 2",H2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/134.ts
+#EXTINF:-1,group-title="Canais premium 2",HBO 2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/132.ts
+#EXTINF:-1,group-title="Canais premium 2",HBO Family HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/130.ts
+#EXTINF:-1,group-title="Canais premium 2",HBO HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/128.ts
+#EXTINF:-1,group-title="Canais premium 2",HBO Plus *e HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/127.ts
+#EXTINF:-1,group-title="Canais premium 2",HBO Plus HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/125.ts
+#EXTINF:-1,group-title="Canais premium 2",HBO Signature HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/122.ts
+#EXTINF:-1,group-title="Canais premium 2",History Channel HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/120.ts
+#EXTINF:-1,group-title="Canais premium 2",ID HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/118.ts
+#EXTINF:-1,group-title="Canais premium 2",Lifetime HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/116.ts
+#EXTINF:-1,group-title="Canais premium 2",Mais Globosat HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/114.ts
+#EXTINF:-1,group-title="Canais premium 2",Max HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/112.ts
+#EXTINF:-1,group-title="Canais premium 2",Max Prime *e HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/111.ts
+#EXTINF:-1,group-title="Canais premium 2",MAX Prime HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/109.ts
+#EXTINF:-1,group-title="Canais premium 2",Max UP HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/106.ts
+#EXTINF:-1,group-title="Canais premium 2",Megapix HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/104.ts
+#EXTINF:-1,group-title="Canais premium 2",MTV HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/102.ts
+#EXTINF:-1,group-title="Canais premium 2",MULTISHOW HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/100.ts
+#EXTINF:-1,group-title="Canais premium 2",Nat Geo Kids HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/98.ts
+#EXTINF:-1,group-title="Canais premium 2",NatGeo Wild HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/96.ts
+#EXTINF:-1,group-title="Canais premium 2",National Geographic HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/94.ts
+#EXTINF:-1,group-title="Canais premium 2",NHK HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/92.ts
+#EXTINF:-1,group-title="Canais premium 2",Nick Jr HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/90.ts
+#EXTINF:-1,group-title="Canais premium 2",Nickelodeon HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/88.ts
+#EXTINF:-1,group-title="Canais premium 2",Paramount Channel HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/86.ts
+#EXTINF:-1,group-title="Canais premium 2",Playboy HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/84.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 1 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/82.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/80.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 3 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/78.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 4 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/76.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 5 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/74.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 6 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/72.ts
+#EXTINF:-1,group-title="Canais premium 2",Premiere 7 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/70.ts
+#EXTINF:-1,group-title="Canais premium 2",Prime Box Brazil HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/68.ts
+#EXTINF:-1,group-title="Canais premium 2",Rá-Tim-Bum HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/66.ts
+#EXTINF:-1,group-title="Canais premium 2",Record HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/64.ts
+#EXTINF:-1,group-title="Canais premium 2",Rede Vida HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/62.ts
+#EXTINF:-1,group-title="Canais premium 2",RedeTV HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/60.ts
+#EXTINF:-1,group-title="Canais premium 2",SBT HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/58.ts
+#EXTINF:-1,group-title="Canais premium 2",Sextreme HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/56.ts
+#EXTINF:-1,group-title="Canais premium 2",Sexy Hot HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/54.ts
+#EXTINF:-1,group-title="Canais premium 2",Sony HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/52.ts
+#EXTINF:-1,group-title="Canais premium 2",Space HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/50.ts
+#EXTINF:-1,group-title="Canais premium 2",SporTV HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/48.ts
+#EXTINF:-1,group-title="Canais premium 2",SporTV2 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/46.ts
+#EXTINF:-1,group-title="Canais premium 2",SporTV3 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/44.ts
+#EXTINF:-1,group-title="Canais premium 2",Studio Universal HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/42.ts
+#EXTINF:-1,group-title="Canais premium 2",Syfy HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/40.ts
+#EXTINF:-1,group-title="Canais premium 2",TBS HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/38.ts
+#EXTINF:-1,group-title="Canais premium 2",TCM HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/36.ts
+#EXTINF:-1,group-title="Canais premium 2",Telecine Action HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/34.ts
+#EXTINF:-1,group-title="Canais premium 2",Telecine Cultura  HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/31.ts
+#EXTINF:-1,group-title="Canais premium 2",Telecine Fun HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/30.ts
+#EXTINF:-1,group-title="Canais premium 2",Telecine Pipoca HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/28.ts
+#EXTINF:-1,group-title="Canais premium 2",Telecine Premium HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/26.ts
+#EXTINF:-1,group-title="Canais premium 2",Telecine Touch HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/24.ts
+#EXTINF:-1,group-title="Canais premium 2",TLC HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/22.ts
+#EXTINF:-1,group-title="Canais premium 2",TNT HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/20.ts
+#EXTINF:-1,group-title="Canais premium 2",TNT Series HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/18.ts
+#EXTINF:-1,group-title="Canais premium 2",Tooncast HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/16.ts
+#EXTINF:-1,group-title="Canais: Religioso",TV Aparecida HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/14.ts
+#EXTINF:-1,group-title="Canais premium 2",Universal Channel HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/12.ts
+#EXTINF:-1,group-title="Canais premium 2",Venus HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/10.ts
+#EXTINF:-1,group-title="Canais premium 2",VH1 HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/8.ts
+#EXTINF:-1,group-title="Canais premium 2",Viva HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/6.ts
+#EXTINF:-1,group-title="Canais premium 2",Warner Bros HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/4.ts
+#EXTINF:-1,group-title="Canais premium 2",Zoomoo HD
+http://maxptv.ddns.net:25461/live/ultra100/100ultra/2.ts
+
+
+############### canais premium 3.0 ##########################
+
+
+#EXTINF:-1 tvg-logo="" group-title="Series",GLOBO SP
+rtmp://192.240.99.20/live//rio_2?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDE4IDExOjQ3OjM0IFBNJmhhc2hfdmFsdWU9QzhNMVdQY1dNWEppUzJTK0tVY2FxUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="A&E (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="Series",A&E (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4917.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="A&E HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Series",A&E HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4918.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="AMC (VIP)" tvg-logo="http://www.lamac.org/res/channels/logos/logo-amc.png" group-title="Filmes",AMC (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4916.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="AMC HD (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png" group-title="Filmes",AMC HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4559.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Animal Planet (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4913.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Animal Planet FullHD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4914.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Animal Planet HD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4915.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Aparecida (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_rede_aparecida_comunicacao.png" group-title="Canais Abertos",Aparecida (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4911.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Arte 1 (VIP)" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="Variedades",Arte 1 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4912.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Arte 1 HD (VIP)" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="Variedades",Arte 1 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4558.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="AXN (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Series",AXN (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4908.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="AXN FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Series",AXN FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4909.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="AXN HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Series",AXN HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4910.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Band HD (VIP)" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/07/band.png" group-title="Canais Abertos",Band HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4907.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Band News (VIP)" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Canais Abertos",Band News (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4906.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Band Sports (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg" group-title="Esportes",Band Sports (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4903.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Band Sports FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4904.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Band Sports HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4905.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Bandeirantes (VIP)" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Bandeirantes (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4902.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="BIS (VIP)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entretenimento",BIS (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4900.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="BIS HD (VIP)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entretenimento",BIS HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4901.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Boomerang (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="Infantis",Boomerang (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4899.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Canal Brasil (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="Filmes",Canal Brasil (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4897.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Canal Brasil HD (VIP)" tvg-logo="http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png" group-title="Filmes",Canal Brasil HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4898.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Canal Rural (VIP)" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="Variedades",Canal Rural (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4896.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Canal Sony (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_Sony.svg/1280px-Canal_Sony.svg.png" group-title="Series",Canal Sony (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4895.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Cancao Nova (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Canais Abertos",Cancao Nova (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4894.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Cartoon Network (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/31/Cartoon_Network_Logo_(2004-2010).png/revision/latest?cb=20111202084325" group-title="Infantis",Cartoon Network (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4892.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Cartoon Network HD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/CN_Logo_HD.png" group-title="Infantis",Cartoon Network HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4893.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Cinemax (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="Canais HBO",Cinemax (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4890.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Cinemax HD (VIP)" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/03/cineamaxHD.png" group-title="Canais HBO",Cinemax HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4891.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Combate (VIP)" tvg-logo="http://cdn2.vendasclarohdtv.com.br/Content/Hotsites/luta/img/banner_012.png" group-title="Esportes",Combate (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4888.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Combate HD (VIP)" tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Esportes",Combate HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4889.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Comedy Central (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Series",Comedy Central (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4887.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Curta! (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/curta.png" group-title="Variedades",Curta! (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4886.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Channel (VIP)" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Documentarios",Discovery Channel (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4883.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Channel FullHD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="Documentarios",Discovery Channel FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4884.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Channel HD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="Documentarios",Discovery Channel HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4885.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Civilization (VIP)" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-75Ug_YWwX-M/T6b5af5m9DI/AAAAAAAAEzQ/Yzpl1PNuWHc/s1600/discovery%2Bcivilization%2Bsky.png" group-title="Documentarios",Discovery Civilization (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4882.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Civilization HD (VIP)" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-75Ug_YWwX-M/T6b5af5m9DI/AAAAAAAAEzQ/Yzpl1PNuWHc/s1600/discovery%2Bcivilization%2Bsky.png" group-title="Documentarios",Discovery Civilization HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4556.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery H&H (VIP)" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery H&H (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4880.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery H&H FullHD (VIP)" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery H&H FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4881.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Home & Health HD (VIP)" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery Home & Health HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4879.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Kids (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4877.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Kids HD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4878.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Science HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Documentarios",Discovery Science HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4555.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Theater FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentarios",Discovery Theater FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4875.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Theater HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentarios",Discovery Theater HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4876.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Turbo (VIP)" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png/revision/latest?cb=20140513095732" group-title="Documentarios",Discovery Turbo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4872.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Turbo FullHD (VIP)" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png/revision/latest?cb=20140513095732" group-title="Documentarios",Discovery Turbo FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4873.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery Turbo HD (VIP)" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png/revision/latest?cb=20140513095732" group-title="Documentarios",Discovery Turbo HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4874.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery World FullHD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Documentarios",Discovery World FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4870.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Discovery World HD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Documentarios",Discovery World HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4871.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Disney (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4868.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Disney Junior (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4869.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Disney XD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantis",Disney XD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4867.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DisneyChannel HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantis",DisneyChannel HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4866.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="E! (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E!_Logo_2012.svg/1000px-E!_Logo_2012.svg.png" group-title="Variedades",E! (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4864.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="E! HD (VIP)" tvg-logo="https://vignette2.wikia.nocookie.net/logosfake/images/2/25/E%21_HD.png" group-title="Variedades",E! HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4865.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="EI Maxx (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4858.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="EI Maxx 2 (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4861.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="EI Maxx 2 FullHD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4862.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Ei Maxx 2 HD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",Ei Maxx 2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4863.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="EI Maxx FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/eimaxxb.png" group-title="Esportes",EI Maxx FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4859.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Ei Maxx HD (VIP)" tvg-logo="http://4.bp.blogspot.com/-x9DbV37Lns0/U1salrGOexI/AAAAAAAAiRw/vv0u-5dRYZ8/s1600/Esporte-interativo.png" group-title="Esportes",Ei Maxx HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4860.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Espn (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",Espn (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4554.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN HD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4857.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN  (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN  (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4660.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4852.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN Brasil (VIP)" tvg-logo="https://vector.me/files/images/6/3/63341/espn_brasil.png" group-title="Esportes",ESPN Brasil (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4854.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN Brasil FullHD (VIP)" tvg-logo="https://vector.me/files/images/6/3/63341/espn_brasil.png" group-title="Esportes",ESPN Brasil FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4855.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN Brasil HD (VIP)" tvg-logo="https://vector.me/files/images/6/3/63341/espn_brasil.png" group-title="Esportes",ESPN Brasil HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4856.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN HD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4853.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ESPN Plus FullHD (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/espnmaisb.png" group-title="Esportes",ESPN Plus FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4851.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Esporte Interativo FullHD (VIP)" tvg-logo="http://4.bp.blogspot.com/-x9DbV37Lns0/U1salrGOexI/AAAAAAAAiRw/vv0u-5dRYZ8/s1600/Esporte-interativo.png" group-title="Esportes",Esporte Interativo FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4849.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Esporte Interativo HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" group-title="Esportes",Esporte Interativo HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4850.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fish TV (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4848.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Food Network (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4846.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Food Network HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG" group-title="Variedades",Food Network HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4847.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="FOX (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4838.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox 1 FullHD (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fox1b.png" group-title="Series",Fox 1 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4844.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox 1 HD (VIP)" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23" group-title="Series",Fox 1 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4845.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Action HD (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445" group-title="Series",Fox Action HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4843.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="FOX CRIME HD (VIP)" tvg-logo="http://s14.postimg.org/9zpap24hd/foxcrime.png" group-title="Series",FOX CRIME HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4553.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="FOX HD (VIP)" tvg-logo="http://convergecom.com.br/wp-content/uploads/2015/03/FOX.png" group-title="Series",FOX HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4842.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Life (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4839.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Life FullHD (VIP)" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/2/2c/FOXlife_HD_Logo.png/revision/latest?cb=20140414171410" group-title="Variedades",Fox Life FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4840.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="BBB HD 2018 (VIP)" tvg-logo="http://www.gshowbbb2018.com/wp-content/uploads/2017/04/bigWelcomePic_4-300x169.png" group-title="Variedades",BBB HD 2018 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4552.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Sports (VIP)" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",Fox Sports (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4833.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Sports 2 (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4835.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Sports 2 FullHD (VIP)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="Esportes",Fox Sports 2 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4836.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Sports 2 HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4837.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Fox Sports HD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/de/IvIPy8fZekp1X.png/revision/latest?cb=20121102222303" group-title="Esportes",Fox Sports HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4834.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Futura (VIP)" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Canais Abertos",Futura (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4832.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="FX (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/2000px-FX_Italia_logo.svg.png" group-title="Series",FX (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4829.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="FX FullHD (VIP)" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/a/af/FX_HD.png/revision/latest?cb=20140310141055" group-title="Series",FX FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4830.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="FX HD (VIP)" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/a/af/FX_HD.png/revision/latest?cb=20140310141055" group-title="Series",FX HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4831.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo Bahia - (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo Bahia - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4541.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo Brasília (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo Brasília (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4659.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo Minas (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo Minas (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4658.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo News HD (VIP)" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",Globo News HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4828.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo Nordeste - (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo Nordeste - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4540.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo RJ (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo RJ (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4657.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo RJ FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo RJ FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4826.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo RJ HD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo RJ HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4827.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Globo SP (VIP)" tvg-logo="https://iptvwebcsgo.com/images/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos",Globo SP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4825.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="GloboNews (VIP)" tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",GloboNews (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4824.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Gloob (VIP)" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="Infantis",Gloob (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4822.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Gloob HD (VIP)" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="Infantis",Gloob HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4823.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="GNT (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gnt.png" group-title="Canais Globosat",GNT (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4819.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="GNT FullHD (VIP)" tvg-logo="http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png" group-title="Canais Globosat",GNT FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4820.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="GNT HD (VIP)" tvg-logo="http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png" group-title="Canais Globosat",GNT HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4821.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="H2 (VIP)" tvg-logo="http://listaiptvbrasil.com/logos/h2.png" group-title="Documentarios",H2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4817.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="H2 HD (VIP)" tvg-logo="http://2.bp.blogspot.com/-1wyWYE6VL80/VCwJ3TJfRtI/AAAAAAAAAFg/depxSjME-N4/s1600/History-2-logo-2011.png" group-title="Documentarios",H2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4818.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais HBO",HBO (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4810.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO 2 HD (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Canais HBO",HBO 2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4816.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Family (VIP)" tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png" group-title="Canais HBO",HBO Family (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4813.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Family FullHD (VIP)" tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png" group-title="Canais HBO",HBO Family FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4814.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Family HD (VIP)" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="Canais HBO",HBO Family HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4815.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO FullHD (VIP)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Canais HBO",HBO FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4811.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO HD (VIP)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Canais HBO",HBO HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4812.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Plus (VIP)" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="Canais HBO",HBO Plus (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4806.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Plus e (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus2.png" group-title="Canais HBO",HBO Plus e (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4809.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Plus FullHD (VIP)" tvg-logo="https://www.redesat.com.br/uploads/canal_1421441982.png" group-title="Canais HBO",HBO Plus FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4807.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Plus HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO",HBO Plus HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4808.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Signature (VIP)" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="Canais HBO",HBO Signature (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4803.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Signature FullHD (VIP)" tvg-logo="http://i60.tinypic.com/2i11o5v.png" group-title="Canais HBO",HBO Signature FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4804.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO Signature HD (VIP)" tvg-logo="http://i60.tinypic.com/2i11o5v.png" group-title="Canais HBO",HBO Signature HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4805.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO2 (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4801.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="HBO2 FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="Canais HBO",HBO2 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4802.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="History 2 FullHD (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/History_2.png/revision/latest?cb=20120907221049" group-title="Documentarios",History 2 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4800.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="History 2 HD (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/History_2.png/revision/latest?cb=20120907221049" group-title="Documentarios",History 2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4551.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="History Channel HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentarios",History Channel HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4799.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="I-SAT (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="Series",I-SAT (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4798.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ID - Investigacao Discovery (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Documentarios",ID - Investigacao Discovery (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4796.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ID - Investigação Discovery HD (VIP)" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="Documentarios",ID - Investigação Discovery HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4797.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="ID FullHD (VIP)" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Investigation_Discovery_HD.png/revision/latest?cb=20130116175440" group-title="Series",ID FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4795.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Ideal TV (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Ideal TV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4794.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Inter TV Cabugi - (VIP)" tvg-logo="http://i.imgur.com/59Qo7rt.png" group-title="Canais Abertos",Inter TV Cabugi - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4539.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Life Time HD (VIP)" tvg-logo="https://3.bp.blogspot.com/-mUdQV_xkyQE/Vb6w5B_iTZI/AAAAAAAAk38/iFBK83jFQck/s1600/Lifetime_us_hd.png" group-title="Variedades",Life Time HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4793.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Lifetime (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/deviousmaids/images/b/bc/Lifetime_Logo.png/revision/latest?cb=20140216020400" group-title="Series",Lifetime (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4792.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Mais Globo Sat HD (VIP)" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Mais Globo Sat HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4791.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Mais Globosat (VIP)" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Mais Globosat (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4790.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Mau UP HD (VIP)" tvg-logo="http://www.clarotvinternet.com/Content/Hotsites/hdtv/img/hdtv/max-up-hd.png" group-title="Canais HBO",Mau UP HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4789.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MAX (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",MAX (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4787.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Max HD (VIP)" tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Canais HBO",Max HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4788.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MAX Prime (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais HBO",MAX Prime (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4784.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MAX Prime e (VIP)" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",MAX Prime e (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4786.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Max Prime HD (VIP)" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/max_prime_oeste.png" group-title="Canais HBO",Max Prime HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4785.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MAX UP (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4783.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Max UP HD (VIP)" tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Canais HBO",Max UP HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4550.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MegaPix (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",MegaPix (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4780.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Megapix FullHD (VIP)" tvg-logo="http://www.sopromocoes.com.br/img/promocoes/g/09255042a3b0578fa03b5c3880816201.png" group-title="Filmes",Megapix FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4781.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Megapix HD (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",Megapix HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4782.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MTV (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="Entretenimento",MTV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4778.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="MTV HD (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MTV_HD.png/revision/latest?cb=20110408015707" group-title="Entretenimento",MTV HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4779.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Multishow (VIP)" tvg-logo="http://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="Canais Globosat",Multishow (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4775.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Multishow FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Canais Globosat",Multishow FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4776.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Multishow HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Canais Globosat",Multishow HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4777.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Music Box Brazil (VIP)" tvg-logo="http://tudotv.tv/fotos/c80c2cbdd39021dc0d0af2134cdb88fd.png" group-title="Entretenimento",Music Box Brazil (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4774.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NatGeo FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentarios",NatGeo FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4773.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NatGeo Kids (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Infantis",NatGeo Kids (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4772.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NatGeo Kids HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Infantis",NatGeo Kids HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4549.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NatGeo Wild (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentarios",NatGeo Wild (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4771.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NatGeoWild HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="Documentarios",NatGeoWild HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4770.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="National Geographic (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="Documentarios",National Geographic (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4769.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="National Geography HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentarios",National Geography HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4768.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NBR (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="Canais Abertos",NBR (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4767.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="NHK (VIP)" tvg-logo="http://logonoid.com/images/nhk-logo.png" group-title="Variedades",NHK (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4766.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Nick hd (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="Infantis",Nick hd (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4765.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Nick Jr (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Infantis",Nick Jr (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4764.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Nick Junior HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="Infantis",Nick Junior HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4548.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Nickelodeon (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="Infantis",Nickelodeon (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4763.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Nickelodeon HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="Infantis",Nickelodeon HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4547.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Novo Tempo (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Variedades",Novo Tempo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4762.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="OFF (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="Canais Globosat",OFF (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4760.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="OFF HD (VIP)" tvg-logo="http://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="Canais Globosat",OFF HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4761.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Paramount (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4757.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Paramount FullHD (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/opoderosochefao/images/5/5e/Paramount.png/revision/latest?cb=20120816001553&path-prefix=pt" group-title="Filmes",Paramount FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4758.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Paramount HD (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/opoderosochefao/images/5/5e/Paramount.png/revision/latest?cb=20120816001553&path-prefix=pt" group-title="Filmes",Paramount HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4759.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Play TV (VIP)" tvg-logo="https://iptvwebcsgo.com/images/playtv4.fw.png" group-title="Entretenimento",Play TV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4756.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Playboy HD (VIP)" tvg-logo="http://logonoid.com/images/playboy-tv-logo.png" group-title="Adultos",Playboy HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4615.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Playboy TV (VIP)" tvg-logo="http://logonoid.com/images/playboy-tv-logo.png" group-title="Adultos",Playboy TV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4755.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 2 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4752.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 2 FullHD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 2 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4753.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 2 HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4754.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 3 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 3 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4750.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 3 HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 3 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4751.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 4 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 4 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4747.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 4 FullHD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 4 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4748.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 4 HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 4 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4749.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 5 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 5 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4744.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 5 FullHD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 5 FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4745.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 5 HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 5 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4746.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 6 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 6 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4743.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 6 HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 6 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4546.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 7 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 7 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4742.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 7 HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 7 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4545.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 8 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 8 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4741.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere 9 (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere 9 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4740.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere Clubes (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere Clubes (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4737.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere Clubes FullHD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere Clubes FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4738.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Premiere Clubes HD (VIP)" tvg-logo="http://i.imgur.com/Vq7DCh7.png" group-title="Esportes",Premiere Clubes HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4739.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Prime Box Brazil (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png" group-title="Filmes",Prime Box Brazil (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4736.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rádio | Dance Music (VIP)" tvg-logo="" group-title="",Rádio | Dance Music (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4735.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="RBI (VIP)" tvg-logo="http://i.imgur.com/WeTDguD.png" group-title="Canais Abertos",RBI (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4734.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="RBS TV Porto Alegre (VIP)" tvg-logo="http://www.gruporbs.com.br/noticias/wp-content/uploads/sites/3/2015/05/Logo_RBS_TV.png" group-title="Canais Abertos",RBS TV Porto Alegre (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4733.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Record HD (VIP)" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="Canais Abertos",Record HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4732.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Record News (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4731.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Record (VIP)" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="Canais Abertos",Record (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4730.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rede Amazonica - (VIP)" tvg-logo="http://s2.glbimg.com/NnbGCyELy4SUwoJgQ_nsmdA9f7U=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/03/26/rede_am.png" group-title="Canais Abertos",Rede Amazonica - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4538.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rede Brasil (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4729.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rede TV (VIP)" tvg-logo="" group-title="Canais Abertos",Rede TV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4727.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rede TV HD (VIP)" tvg-logo="" group-title="Canais Abertos",Rede TV HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4728.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rede Vida (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Abertos",Rede Vida (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4726.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="RIT (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="Canais Abertos",RIT (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4725.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SBT (VIP)" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4722.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SBT FullHD (VIP)" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4723.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SBT HD (VIP)" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="Canais Abertos",SBT HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4724.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SCT (VIP)" tvg-logo="" group-title="Adultos",SCT (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4612.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Sextreme (VIP)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" group-title="Adultos",Sextreme (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4721.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XX_Sexy Hot (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="Adultos",XX_Sexy Hot (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4720.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SIC Internacional (VIP)" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4719.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Sony HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Sony HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4718.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Space (VIP)" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4716.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Space HD (VIP)" tvg-logo="http://3.bp.blogspot.com/-CNxee4SfnJ4/TyJIrX9VP8I/AAAAAAAAADM/yLEZuzTbpBw/s1600/Space_lam_hd.png" group-title="Filmes",Space HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4717.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4708.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV 2 (VIP)" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4713.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV 2 Alternativo (VIP)" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2 Alternativo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4715.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV 2 HD (VIP)" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155032-canal-sport-tv-2-hd.png" group-title="Esportes",SporTV 2 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4714.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV 3 (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4711.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV 3 HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4712.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Sportv FullHD (VIP)" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",Sportv FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4709.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="SporTV HD (VIP)" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",SporTV HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4710.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Studio Universal (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4706.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Studio Universal HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4707.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Syfy (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/c/c9/Syfy.png/revision/latest?cb=20100219134730&path-prefix=en" group-title="Series",Syfy (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4704.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Syfy HD (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/c/c9/Syfy.png/revision/latest?cb=20100219134730&path-prefix=en" group-title="Series",Syfy HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4705.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TBS (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4701.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TBS FullHD (VIP)" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/83/TBS_HD.png/revision/latest?cb=20141030215616" group-title="Series",TBS FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4702.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TBS HD (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4703.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TC Action FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcactionb.png" group-title="Canais Telecine",TC Action FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4700.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TC Cult HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ea/TC_Cult.png" group-title="Canais Telecine",TC Cult HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4699.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TC Pipoca FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcpipocab.png" group-title="Canais Telecine",TC Pipoca FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4698.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TC Premium FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/efcea727d37ed2a49bff35a79fb91a25.png" group-title="Canais Telecine",TC Premium FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4697.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TC Touch FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tctouchb.png" group-title="Canais Telecine",TC Touch FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4696.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TCM (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/world-of-media/images/c/c0/TCM_logo.png/revision/latest?cb=20140103150834" group-title="Filmes",TCM (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4695.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Action (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4693.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Action HD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcactionb.png" group-title="Canais Telecine",Telecine Action HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4694.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Cult (VIP)" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Canais Telecine",Telecine Cult (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4692.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Fun (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcfunb.png" group-title="Canais Telecine",Telecine Fun (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4690.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Fun HD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcfunb.png" group-title="Canais Telecine",Telecine Fun HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4691.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Pipoca (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4688.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Pipoca HD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4689.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Premium (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4686.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Premium HD (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4687.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Touch (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4684.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Telecine Touch HD (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4685.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Terra Viva (VIP)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="Canais Abertos",Terra Viva (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4544.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="The History Channel (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4682.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="The History Channel 2 (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel 2 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4543.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="The History Channel HD (VIP)" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4683.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TLC (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TLC-HD_Logo_Germany.png" group-title="Variedades",TLC (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4680.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TLC HD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TLC-HD_Logo_Germany.png" group-title="Variedades",TLC HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4681.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TNT (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes",TNT (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4677.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TNT FullHD (VIP)" tvg-logo="https://vignette2.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png/revision/latest?cb=20140407183245" group-title="Filmes",TNT FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4678.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TNT HD (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filmes",TNT HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4679.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TNT Series (VIP)" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Series (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4674.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TNT Series FullHD (VIP)" tvg-logo="http://www.tcc.tv.br/suaimagemtv/imagens/logo_canais/tntseries_logo.png" group-title="Series",TNT Series FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4675.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TNT Series HD (VIP)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/69/TNT_Series_Logo_2016_Hu.png/revision/latest?cb=20170122154513" group-title="Series",TNT Series HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4676.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Tooncast (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="Infantis",Tooncast (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4673.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TruTV (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/57/TruTV_Anglosaw_current_logo_%28Trendon_attacks%29.png/revision/latest?cb=20160112065824" group-title="Variedades",TruTV (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4656.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Anhanguera Goiânia (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Logotipo_TV_Anhanguera.png" group-title="Canais Abertos",TV Anhanguera Goiânia (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4655.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Brasil (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/TV_Brasil_logo.png/revision/latest?cb=20171127021727" group-title="Canais Abertos",TV Brasil (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4654.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Cultura (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais Abertos",TV Cultura (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4653.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Liberal Belem - (VIP)" tvg-logo="https://portalquem.files.wordpress.com/2013/03/tv-liberal.png" group-title="Canais Abertos",TV Liberal Belem - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4537.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Ra tim bum (VIP)" tvg-logo="http://tvratimbum.cmais.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/out-2014/b01/banner-logo-tvrtb.png" group-title="Infantis",TV Ra tim bum (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4652.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Tem Bauru (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/69/20150630212208%21TV_TEM.png" group-title="Canais Abertos",TV Tem Bauru (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4651.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Tem Sorocaba (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/69/20150630212208%21TV_TEM.png" group-title="Canais Abertos",TV Tem Sorocaba (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4650.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TV Verdes Mares - (VIP)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest?cb=20140408150355" group-title="Canais Abertos",TV Verdes Mares - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4536.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TVE (VIP)" tvg-logo="" group-title="Variedades",TVE (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4649.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="TVE Internacional (VIP)" tvg-logo="" group-title="Variedades",TVE Internacional (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4542.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Universal Channel (VIP)" tvg-logo="http://exorbeo.com/wp-content/uploads/2013/06/universal_channel_hd.png" group-title="Series",Universal Channel (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4670.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Universal Channel FullHD (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/9f/Universal_Channel_HD_alt.png" group-title="Series",Universal Channel FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4671.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Universal Channel HD (VIP)" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/512-UniversalChannel.png" group-title="Series",Universal Channel HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4672.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XX_Venus - (VIP)" tvg-logo="http://consultoriapt.com/images/venus-logo.png" group-title="Adultos",XX_Venus - (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4535.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XX_Venus (VIP)" tvg-logo="http://consultoriapt.com/images/venus-logo.png" group-title="Adultos",XX_Venus (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4609.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="VH1 HD (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/vh1hd.png" group-title="Entretenimento",VH1 HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4669.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="VH1 Megahits (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Entretenimento",VH1 Megahits (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4668.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Viva (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Viva_HD.svg/2000px-Viva_HD.svg.png" group-title="Canais Globosat",Viva (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4665.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Viva FullHD (VIP)" tvg-logo="" group-title="Canais Globosat",Viva FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4666.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Viva HD (VIP)" tvg-logo="http://1.bp.blogspot.com/-9dMEH-pU25E/U3eKe1UeOtI/AAAAAAAAiew/lTGTkCArT3U/s1600/Canal_Viva_logo.png" group-title="Canais Globosat",Viva HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4667.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Warner Channel (VIP)" tvg-logo="https://seeklogo.com/images/W/Warner_Channel-logo-3B1E0E4A2B-seeklogo.com.png" group-title="Series",Warner Channel (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4663.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Warner Channel HD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/warnerchannel.png" group-title="Series",Warner Channel HD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4664.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Warner FullHD (VIP)" tvg-logo="https://iptvwebcsgo.com/images/warnerchannel.png" group-title="Series",Warner FullHD (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4662.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Woohoo (VIP)" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" group-title="Variedades",Woohoo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4661.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Apenas um Show 1º e 2º TP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/apenas-um-show.png" group-title="Especiais",Apenas um Show 1º e 2º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4950.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Bob Esponja 1º e 2º TP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/logo_bob_esponja.png" group-title="Especiais",Bob Esponja 1º e 2º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4948.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Caverna do Dragao (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/caverna2013.png" group-title="Especiais",Caverna do Dragao (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4939.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="CDZ1 - Santuario (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/cdz-santuario.png" group-title="Especiais",CDZ1 - Santuario (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4977.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="CDZ2 - Doze Casas (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Saga_12Casas.png" group-title="Especiais",CDZ2 - Doze Casas (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4976.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="CDZ3 - Asgard (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/CDZ_Asgard.fw.png" group-title="Especiais",CDZ3 - Asgard (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4975.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="CDZ4 - Poseidon (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/cdz-poseidon.png" group-title="Especiais",CDZ4 - Poseidon (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4974.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="CDZ5 - Hades (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/cdz-hades.png" group-title="Especiais",CDZ5 - Hades (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4973.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="CDZ6 - Lost Canvas (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/lost-canvas.png" group-title="Especiais",CDZ6 - Lost Canvas (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4940.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Chapolim (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/chapolin.png" group-title="Especiais",Chapolim (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4972.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Chaves (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/chaves.png" group-title="Especiais",Chaves (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4971.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DB1 - Pilaf e 21º Torneio (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/DB1.fw.png" group-title="Especiais",DB1 - Pilaf e 21º Torneio (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4942.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DB2 - Red Ribbon (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/DB2.fw.png" group-title="Especiais",DB2 - Red Ribbon (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4928.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DB3 - 22º Torneio (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/DB3.1.fw.png" group-title="Especiais",DB3 - 22º Torneio (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4920.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBS - 1º e 2º TP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/dragon_ball_super_logo.png" group-title="Especiais",DBS - 1º e 2º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4967.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBS - 3º e 4º TP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/dragon_ball_super_logo.png" group-title="Especiais",DBS - 3º e 4º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4966.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBZ1 - Sayajins (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/saga1.png" group-title="Especiais",DBZ1 - Sayajins (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4970.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBZ2 - Freeza (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/DBZ2.fw.png" group-title="Especiais",DBZ2 - Freeza (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4969.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBZ3 - Androides (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/DBZ3.fw.png" group-title="Especiais",DBZ3 - Androides (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4968.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBZ4 - Cell (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/sagal-cell.fw.png" group-title="Especiais",DBZ4 - Cell (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4956.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DBZ5 - Majinn-Boo (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/saga-boo.fw.png" group-title="Especiais",DBZ5 - Majinn-Boo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4944.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="DuckTales (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/ducktales_remastered___icon_by_blagoicons-dbbdy30.png" group-title="Especiais",DuckTales (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4965.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Eu a Patroa e as Criancas 1ºTP e 2ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/euapatroaeascriancas.fw.png" group-title="Especiais",Eu a Patroa e as Criancas 1ºTP e 2ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4931.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Eu a Patroa e as Criancas 3ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/euapatroaeascriancas.fw.png" group-title="Especiais",Eu a Patroa e as Criancas 3ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4930.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Eu a Patroa e as Criancas 4ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/euapatroaeascriancas.fw.png" group-title="Especiais",Eu a Patroa e as Criancas 4ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4921.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Homem-Aranha [90's] (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/spider-man-logo.png" group-title="Especiais",Homem-Aranha [90's] (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4954.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Homem-Aranha [Espetacular] (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Download.png" group-title="Especiais",Homem-Aranha [Espetacular] (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4946.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Hora de Aventura - 1°TP e 2ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Hora-de-Aventura-3.png" group-title="Especiais",Hora de Aventura - 1°TP e 2ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4949.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Hora de Aventura 3ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Hora-de-Aventura-1.png" group-title="Especiais",Hora de Aventura 3ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4919.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Looney Tunes (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/LogoLT.png" group-title="Especiais",Looney Tunes (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4952.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Mickey & Donald (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/mickey-donald.jpg" group-title="Especiais",Mickey & Donald (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4964.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Mundo de Gumball (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Gumball.png" group-title="Especiais",Mundo de Gumball (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4945.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pica-Pau (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/logo.png" group-title="Especiais",Pica-Pau (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4963.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 01 - Liga Indigo (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Pokemon-Indigo.png" group-title="Especiais",Pokemon 01 - Liga Indigo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4962.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 02 - Ilhas Laranja (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/pokemon-ilhas-laranja.png" group-title="Especiais",Pokemon 02 - Ilhas Laranja (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4961.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 03  - Jornada Johto (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Season3_logo.png" group-title="Especiais",Pokemon 03  - Jornada Johto (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4960.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 04 - Campeoes Johto (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Campe%C3%B5es%20da%20Liga%20Johto.png" group-title="Especiais",Pokemon 04 - Campeoes Johto (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4959.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 05 - Master Quest (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/season05_logo.png" group-title="Especiais",Pokemon 05 - Master Quest (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4957.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 06 - Geracao Avancada (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Sexta_temporada.png" group-title="Especiais",Pokemon 06 - Geracao Avancada (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4955.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 07 - Desafio Avancado (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/season07_logo.png" group-title="Especiais",Pokemon 07 - Desafio Avancado (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4943.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 08 - Batalha Avancada (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Pok%C3%A9mon_-_Advanced_Battle.png" group-title="Especiais",Pokemon 08 - Batalha Avancada (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4936.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 09 - Batalha da Fronteira (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Pok%C3%A9mon_-_Battle_Frontier.png" group-title="Especiais",Pokemon 09 - Batalha da Fronteira (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4929.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Pokemon 10 - Diamante e Perola (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Pok%C3%A9mon_-_Diamond_and_Pearl.png" group-title="Especiais",Pokemon 10 - Diamante e Perola (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4923.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Rick & Morty 1º e 2º TP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/rick-and-morty.png" group-title="Especiais",Rick & Morty 1º e 2º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4951.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Samurai Warriors (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/ronin-warriors-4f9daa786cd17.png" group-title="Especiais",Samurai Warriors (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4947.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Scooby-Doo (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/ScoobyDooLogo.png" group-title="Especiais",Scooby-Doo (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4932.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Shurato (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/sign_shurato__assinatura_modelada_shurato__by_hibarip-d73jsfr.png" group-title="Especiais",Shurato (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4926.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Simpsons 27º TP (VIP)" tvg-logo="https://lh5.googleusercontent.com/-uXWV_wVcTyk/UHEVnowZSHI/AAAAAAAACa8/qyukZwwW2RU/s256/The-Simpsons.png" group-title="Especiais",Simpsons 27º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4941.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Simpsons 28º TP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/The_Simpsons_Simpsons_FamilyPicture.png" group-title="Especiais",Simpsons 28º TP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4958.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Street Fighter (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/STF.png" group-title="Especiais",Street Fighter (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4925.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Tartarugas Ninja 1ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/teenage-mutant-ninja-turtles.png" group-title="Especiais",Tartarugas Ninja 1ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4934.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Thundercats (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/thundercats-logo.png" group-title="Especiais",Thundercats (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4933.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Todo Mundo Odeia o Chris 1ºTP e 2ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/todomundoodeiaochris.png" group-title="Especiais",Todo Mundo Odeia o Chris 1ºTP e 2ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4935.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Todo Mundo Odeia o Chris 3ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/todomundoodeiaochris.png" group-title="Especiais",Todo Mundo Odeia o Chris 3ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4927.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Todo Mundo Odeia o Chris 4ºTP (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/todomundoodeiaochris.png" group-title="Especiais",Todo Mundo Odeia o Chris 4ºTP (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4922.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Tom & Jerry (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/Tom-Jerry.png" group-title="Especiais",Tom & Jerry (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4953.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Vingadores (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/avengers-vector.fw.png" group-title="Especiais",Vingadores (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4937.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="X-Men Evolution (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/x-men-evolution-4f9335655da98.png" group-title="Especiais",X-Men Evolution (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4938.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="Yu Yu Hakusho - 1 (VIP)" tvg-logo="http://pagweb.center/images/ESPECIAL/yuyu.fw.png" group-title="Especiais",Yu Yu Hakusho - 1 (VIP)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/4924.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX - Sasha Grey" tvg-logo="https://files.gamebanana.com/img/ico/sprays/55b6e0e8a162b.png" group-title="Adultos",XXX - Sasha Grey
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/3566.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ADULT HOTCLUB 1 HD" tvg-logo="" group-title="Adultos",XXX: ADULT HOTCLUB 1 HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5400.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ADULT HOTCLUB 2 HD" tvg-logo="" group-title="Adultos",XXX: ADULT HOTCLUB 2 HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5399.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ADULT HOTCLUB 3 HD" tvg-logo="" group-title="Adultos",XXX: ADULT HOTCLUB 3 HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5398.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ADULT HOTCLUB 4 HD" tvg-logo="" group-title="Adultos",XXX: ADULT HOTCLUB 4 HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5397.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: AnySex" tvg-logo="" group-title="Adultos",XXX: AnySex
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5396.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Babes 1" tvg-logo="" group-title="Adultos",XXX: Babes 1
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5395.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Babes 2" tvg-logo="" group-title="Adultos",XXX: Babes 2
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5394.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Babes 3" tvg-logo="" group-title="Adultos",XXX: Babes 3
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5393.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Babes 4" tvg-logo="" group-title="Adultos",XXX: Babes 4
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5392.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Blue Hustler TV" tvg-logo="" group-title="Adultos",XXX: Blue Hustler TV
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5391.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: BRAZZERS" tvg-logo="" group-title="Adultos",XXX: BRAZZERS
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5390.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: BRAZZERS TV EUROPE" tvg-logo="" group-title="Adultos",XXX: BRAZZERS TV EUROPE
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5389.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: CENTOXCENTO TV" tvg-logo="" group-title="Adultos",XXX: CENTOXCENTO TV
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5388.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: CHANNEL X 1 (digitalb)" tvg-logo="" group-title="Adultos",XXX: CHANNEL X 1 (digitalb)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5387.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: CHANNEL X 2 (digitalb)" tvg-logo="" group-title="Adultos",XXX: CHANNEL X 2 (digitalb)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5386.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: CHANNEL X 3 (digitalb)" tvg-logo="" group-title="Adultos",XXX: CHANNEL X 3 (digitalb)
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5385.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: DAUGHTER SWAP" tvg-logo="" group-title="Adultos",XXX: DAUGHTER SWAP
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5384.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: DORCEL" tvg-logo="" group-title="Adultos",XXX: DORCEL
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5383.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: DUSK" tvg-logo="" group-title="Adultos",XXX: DUSK
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5382.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ENJOY PREMIUM" tvg-logo="" group-title="Adultos",XXX: ENJOY PREMIUM
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5381.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: EROTIC 1" tvg-logo="" group-title="Adultos",XXX: EROTIC 1
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5380.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: EROTIC 2" tvg-logo="" group-title="Adultos",XXX: EROTIC 2
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5379.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: EROTIC 3" tvg-logo="" group-title="Adultos",XXX: EROTIC 3
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5378.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: EROTIC 4" tvg-logo="" group-title="Adultos",XXX: EROTIC 4
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5377.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: EROXXX" tvg-logo="" group-title="Adultos",XXX: EROXXX
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5376.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: EXOTICA TV" tvg-logo="" group-title="Adultos",XXX: EXOTICA TV
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5375.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: FAKE TAXI" tvg-logo="" group-title="Adultos",XXX: FAKE TAXI
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5374.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: HONEY HOT HD" tvg-logo="" group-title="Adultos",XXX: HONEY HOT HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5373.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: HUSTLER TV" tvg-logo="" group-title="Adultos",XXX: HUSTLER TV
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5372.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: HUSTLERXXX" tvg-logo="" group-title="Adultos",XXX: HUSTLERXXX
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5371.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: JASMIN.TV HD" tvg-logo="" group-title="Adultos",XXX: JASMIN.TV HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5370.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: KS XXX TV 1 HD" tvg-logo="" group-title="Adultos",XXX: KS XXX TV 1 HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5369.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Maiden van Holland" tvg-logo="" group-title="Adultos",XXX: Maiden van Holland
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5368.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: MOFOS" tvg-logo="" group-title="Adultos",XXX: MOFOS
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5367.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ORGY CHANNEL" tvg-logo="" group-title="Adultos",XXX: ORGY CHANNEL
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5366.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: ORGY CHANNELX" tvg-logo="" group-title="Adultos",XXX: ORGY CHANNELX
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5365.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PASSIEXXX" tvg-logo="" group-title="Adultos",XXX: PASSIEXXX
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5364.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PENTHOUSE EUROPE" tvg-logo="" group-title="Adultos",XXX: PENTHOUSE EUROPE
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5363.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PENTHOUSE HD" tvg-logo="" group-title="Adultos",XXX: PENTHOUSE HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5362.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PENTHOUSE." tvg-logo="" group-title="Adultos",XXX: PENTHOUSE.
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5361.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PINK O" tvg-logo="" group-title="Adultos",XXX: PINK O
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5360.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PLAYBOY TV HD  18" tvg-logo="" group-title="Adultos",XXX: PLAYBOY TV HD  18
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5359.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PLEASURE" tvg-logo="" group-title="Adultos",XXX: PLEASURE
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5358.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PRIVATE" tvg-logo="" group-title="Adultos",XXX: PRIVATE
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5357.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: PRIVATE HD" tvg-logo="" group-title="Adultos",XXX: PRIVATE HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5356.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: Reality Sex" tvg-logo="" group-title="Adultos",XXX: Reality Sex
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5355.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: RK HD" tvg-logo="" group-title="Adultos",XXX: RK HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5354.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: SEX STATION" tvg-logo="" group-title="Adultos",XXX: SEX STATION
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5353.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: SExTO SENSO" tvg-logo="" group-title="Adultos",XXX: SExTO SENSO
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5352.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: SIRINA 1" tvg-logo="" group-title="Adultos",XXX: SIRINA 1
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5351.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: SUPERONE" tvg-logo="" group-title="Adultos",XXX: SUPERONE
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5350.ts
+#EXTINF:-1,group-title="Canais premium 3", tvg-name="XXX: VENUS HD" tvg-logo="" group-title="Adultos",XXX: VENUS HD
+http://lista.webcs.in:25461/live/hoenig5208@gmail.com/u0LcGEMNtg/5349.ts
