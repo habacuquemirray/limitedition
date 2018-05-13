@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U_PLUS
 ########### Canais premium 1.0 ##################
 
 #EXTINF:-1,group-title="Canais Premium 1",A&E HD
@@ -1422,8 +1422,6 @@ http://149.56.98.189:25461/live/mike/mike/1927.ts
 http://149.56.98.189:25461/live/mike/mike/1926.ts
 ############### Canais premium 3.0 ###############
 
-
-
 #EXTINF:-1, group-title="Canais Premium 3",A&E HD
 http://142.44.137.22:8080/live/erica/erica/1063.ts
 #EXTINF:-1, group-title="Canais Premium 3",A&E SD
@@ -2086,73 +2084,1122 @@ http://142.44.137.22:8080/live/erica/erica/841.ts
 ############## Canais premium 4.0 ####################
 
 
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET SD
-http://54.39.53.45:8880/live/sergio/sergio/69.ts
-#EXTINF:-1, group-title="Canais Premium 4",Band ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/1536.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND HD
-http://54.39.53.45:8880/live/sergio/sergio/294.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SD
-http://54.39.53.45:8880/live/sergio/sergio/292.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/1503.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS SD
-http://54.39.53.45:8880/live/sergio/sergio/293.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND PARA SD
-http://54.39.53.45:8880/live/sergio/sergio/66.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS HD
-http://54.39.53.45:8880/live/sergio/sergio/291.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS SD
-http://54.39.53.45:8880/live/sergio/sergio/290.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG SD
-http://54.39.53.45:8880/live/sergio/sergio/284.ts
-#EXTINF:-1, group-title="Canais Premium 4",Boomerang HD ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/1563.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS HD
-http://54.39.53.45:8880/live/sergio/sergio/286.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS HD ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/1552.ts
-#EXTINF:-1, group-title="Canais Premium 4",BABY TV
-http://54.39.53.45:8880/live/sergio/sergio/2361.ts
-#EXTINF:-1, group-title="Canais Premium 4",BaByTV ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/2344.ts
-#EXTINF:-1, group-title="Canais Premium 4",Boa Vontade (2)
-http://54.39.53.45:8880/live/sergio/sergio/4660.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS SD
-http://54.39.53.45:8880/live/sergio/sergio/65.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL BRASIL HD
-http://54.39.53.45:8880/live/sergio/sergio/283.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL BRASIL SD
-http://54.39.53.45:8880/live/sergio/sergio/282.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL RURAL SD
-http://54.39.53.45:8880/live/sergio/sergio/64.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANCAO NOVA
-http://54.39.53.45:8880/live/sergio/sergio/279.ts
-#EXTINF:-1, group-title="Canais Premium 4",Cancao nova Alternativo
-http://54.39.53.45:8880/live/sergio/sergio/4661.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK HD
-http://54.39.53.45:8880/live/sergio/sergio/278.ts
-#EXTINF:-1, group-title="Canais Premium 4",CartoonNetwork HD ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/1562.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK SD
-http://54.39.53.45:8880/live/sergio/sergio/62.ts
-#EXTINF:-1, group-title="Canais Premium 4",CHEF TV HD ALTERNATIVO
-http://54.39.53.45:8880/live/sergio/sergio/1551.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE SD
-http://54.39.53.45:8880/live/sergio/sergio/270.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE HD 720
-http://54.39.53.45:8880/live/sergio/sergio/271.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE HD
-http://54.39.53.45:8880/live/sergio/sergio/272.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE HD Alternativo
-http://54.39.53.45:8880/live/sergio/sergio/2339.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE FULL HD
-http://54.39.53.45:8880/live/sergio/sergio/4465.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX SD
-http://54.39.53.45:8880/live/sergio/sergio/274.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX HD
-http://54.39.53.45:8880/live/sergio/sergio/275.ts
-#EXTINF:-1, group-title="Canais Premium 4",CNN INTERNACIONAL SD
-http://54.39.53.45:8880/live/sergio/sergio/273.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMEDY CENTRAL SD
-http://54.39.53.45:8880/live/sergio/sergio/268.ts
+#EXTINF:-1,group-title="Canais Premium 4",A&E
+http://54.39.46.113:80/live/mara/mara/36800.ts
+#EXTINF:-1,group-title="Canais Premium 4",A&E HD
+http://54.39.46.113:80/live/mara/mara/36799.ts
+#EXTINF:-1,group-title="Canais Premium 4",Agro Canal
+http://54.39.46.113:80/live/mara/mara/36798.ts
+#EXTINF:-1,group-title="Canais Premium 4",AMC
+http://54.39.46.113:80/live/mara/mara/36797.ts
+#EXTINF:-1,group-title="Canais Premium 4",AMC HD
+http://54.39.46.113:80/live/mara/mara/36796.ts
+#EXTINF:-1,group-title="Canais Premium 4",Animal Planet
+http://54.39.46.113:80/live/mara/mara/36795.ts
+#EXTINF:-1,group-title="Canais Premium 4",Animal Planet HD
+http://54.39.46.113:80/live/mara/mara/36794.ts
+#EXTINF:-1,group-title="Canais Premium 4",Anime TV
+http://54.39.46.113:80/live/mara/mara/36793.ts
+#EXTINF:-1,group-title="Canais Premium 4",Aparecida
+http://54.39.46.113:80/live/mara/mara/36792.ts
+#EXTINF:-1,group-title="Canais Premium 4",Arte 1
+http://54.39.46.113:80/live/mara/mara/36791.ts
+#EXTINF:-1,group-title="Canais Premium 4",AXN
+http://54.39.46.113:80/live/mara/mara/36790.ts
+#EXTINF:-1,group-title="Canais Premium 4",AXN HD
+http://54.39.46.113:80/live/mara/mara/36789.ts
+#EXTINF:-1,group-title="Canais Premium 4",Baby TV
+http://54.39.46.113:80/live/mara/mara/36788.ts
+#EXTINF:-1,group-title="Canais Premium 4",Band
+http://54.39.46.113:80/live/mara/mara/36787.ts
+#EXTINF:-1,group-title="Canais Premium 4",Band HD
+http://54.39.46.113:80/live/mara/mara/36786.ts
+#EXTINF:-1,group-title="Canais Premium 4",Band News
+http://54.39.46.113:80/live/mara/mara/36785.ts
+#EXTINF:-1,group-title="Canais Premium 4",Band Sports
+http://54.39.46.113:80/live/mara/mara/36784.ts
+#EXTINF:-1,group-title="Canais Premium 4",Band Sports HD
+http://54.39.46.113:80/live/mara/mara/36783.ts
+#EXTINF:-1,group-title="Canais Premium 4",BBC NEWS
+http://54.39.46.113:80/live/mara/mara/36782.ts
+#EXTINF:-1,group-title="Canais Premium 4",BIS
+http://54.39.46.113:80/live/mara/mara/36781.ts
+#EXTINF:-1,group-title="Canais Premium 4",BIS HD
+http://54.39.46.113:80/live/mara/mara/36780.ts
+#EXTINF:-1,group-title="Canais Premium 4",Bloomberg TV
+http://54.39.46.113:80/live/mara/mara/36779.ts
+#EXTINF:-1,group-title="Canais Premium 4",Boomerang
+http://54.39.46.113:80/live/mara/mara/36778.ts
+#EXTINF:-1,group-title="Canais Premium 4",Canal Brasil
+http://54.39.46.113:80/live/mara/mara/36777.ts
+#EXTINF:-1,group-title="Canais Premium 4",Canal Rural
+http://54.39.46.113:80/live/mara/mara/36776.ts
+#EXTINF:-1,group-title="Canais Premium 4",Canal Sony
+http://54.39.46.113:80/live/mara/mara/36775.ts
+#EXTINF:-1,group-title="Canais Premium 4",Canal Sony HD
+http://54.39.46.113:80/live/mara/mara/36774.ts
+#EXTINF:-1,group-title="Canais Premium 4",Cancao Nova
+http://54.39.46.113:80/live/mara/mara/36773.ts
+#EXTINF:-1,group-title="Canais Premium 4",Cartoon Network
+http://54.39.46.113:80/live/mara/mara/36772.ts
+#EXTINF:-1,group-title="Canais Premium 4",Cartoon Network HD
+http://54.39.46.113:80/live/mara/mara/36771.ts
+#EXTINF:-1,group-title="Canais Premium 4",Cinemax
+http://54.39.46.113:80/live/mara/mara/36770.ts
+#EXTINF:-1,group-title="Canais Premium 4",Cinemax HD
+http://54.39.46.113:80/live/mara/mara/36769.ts
+#EXTINF:-1,group-title="Canais Premium 4",Combate
+http://54.39.46.113:80/live/mara/mara/36768.ts
+#EXTINF:-1,group-title="Canais Premium 4",Combate HD
+http://54.39.46.113:80/live/mara/mara/36767.ts
+#EXTINF:-1,group-title="Canais Premium 4",Comedy Central
+http://54.39.46.113:80/live/mara/mara/36766.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Channel
+http://54.39.46.113:80/live/mara/mara/36765.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Channel HD
+http://54.39.46.113:80/live/mara/mara/36764.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Civilization FHD
+http://54.39.46.113:80/live/mara/mara/36763.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery H&H
+http://54.39.46.113:80/live/mara/mara/36762.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Home & Health HD
+http://54.39.46.113:80/live/mara/mara/36761.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Kids
+http://54.39.46.113:80/live/mara/mara/36760.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Kids HD
+http://54.39.46.113:80/live/mara/mara/36759.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Science FHD
+http://54.39.46.113:80/live/mara/mara/36758.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Theater HD
+http://54.39.46.113:80/live/mara/mara/36757.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Turbo
+http://54.39.46.113:80/live/mara/mara/36756.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery Turbo HD
+http://54.39.46.113:80/live/mara/mara/36755.ts
+#EXTINF:-1,group-title="Canais Premium 4",Discovery World HD
+http://54.39.46.113:80/live/mara/mara/36754.ts
+#EXTINF:-1,group-title="Canais Premium 4",Disney Channel
+http://54.39.46.113:80/live/mara/mara/36753.ts
+#EXTINF:-1,group-title="Canais Premium 4",Disney Channel HD
+http://54.39.46.113:80/live/mara/mara/36752.ts
+#EXTINF:-1,group-title="Canais Premium 4",Disney Junior
+http://54.39.46.113:80/live/mara/mara/36751.ts
+#EXTINF:-1,group-title="Canais Premium 4",Disney XD
+http://54.39.46.113:80/live/mara/mara/36750.ts
+#EXTINF:-1,group-title="Canais Premium 4",E! Entertainment Television
+http://54.39.46.113:80/live/mara/mara/36749.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN
+http://54.39.46.113:80/live/mara/mara/36748.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN   HD
+http://54.39.46.113:80/live/mara/mara/36747.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN  Brasil
+http://54.39.46.113:80/live/mara/mara/36746.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN  HD
+http://54.39.46.113:80/live/mara/mara/36745.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN Brasil HD
+http://54.39.46.113:80/live/mara/mara/36744.ts
+#EXTINF:-1,group-title="Canais Premium 4",Esporte Interativo
+http://54.39.46.113:80/live/mara/mara/36743.ts
+#EXTINF:-1,group-title="Canais Premium 4",Esporte Interativo 2
+http://54.39.46.113:80/live/mara/mara/36742.ts
+#EXTINF:-1,group-title="Canais Premium 4",Esporte Interativo 2 HD
+http://54.39.46.113:80/live/mara/mara/36741.ts
+#EXTINF:-1,group-title="Canais Premium 4",Esporte Interativo HD
+http://54.39.46.113:80/live/mara/mara/36740.ts
+#EXTINF:-1,group-title="Canais Premium 4",Food Network
+http://54.39.46.113:80/live/mara/mara/36739.ts
+#EXTINF:-1,group-title="Canais Premium 4",Food Network HD
+http://54.39.46.113:80/live/mara/mara/36738.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX
+http://54.39.46.113:80/live/mara/mara/36737.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX Crime HD [ PT ]
+http://54.39.46.113:80/live/mara/mara/36736.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX HD
+http://54.39.46.113:80/live/mara/mara/36735.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX HD [ ALTERNATIVO ]
+http://54.39.46.113:80/live/mara/mara/36734.ts
+#EXTINF:-1,group-title="Canais Premium 4",Fox Life
+http://54.39.46.113:80/live/mara/mara/36733.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX Life HD
+http://54.39.46.113:80/live/mara/mara/36732.ts
+#EXTINF:-1,group-title="Canais Premium 4",Fox News
+http://54.39.46.113:80/live/mara/mara/36731.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX Premium 1
+http://54.39.46.113:80/live/mara/mara/36730.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX Premium 2
+http://54.39.46.113:80/live/mara/mara/36729.ts
+#EXTINF:-1,group-title="Canais Premium 4",Fox Sports
+http://54.39.46.113:80/live/mara/mara/36728.ts
+#EXTINF:-1,group-title="Canais Premium 4",Fox Sports 2
+http://54.39.46.113:80/live/mara/mara/36727.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX Sports 2 HD
+http://54.39.46.113:80/live/mara/mara/36726.ts
+#EXTINF:-1,group-title="Canais Premium 4",Fox Sports HD
+http://54.39.46.113:80/live/mara/mara/36725.ts
+#EXTINF:-1,group-title="Canais Premium 4",Futura
+http://54.39.46.113:80/live/mara/mara/36724.ts
+#EXTINF:-1,group-title="Canais Premium 4",FX
+http://54.39.46.113:80/live/mara/mara/36723.ts
+#EXTINF:-1,group-title="Canais Premium 4",FX HD
+http://54.39.46.113:80/live/mara/mara/36722.ts
+#EXTINF:-1,group-title="Canais Premium 4",Gazeta SP HD
+http://54.39.46.113:80/live/mara/mara/36721.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo Brasilia
+http://54.39.46.113:80/live/mara/mara/36720.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo HD
+http://54.39.46.113:80/live/mara/mara/36719.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo News
+http://54.39.46.113:80/live/mara/mara/36718.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo News HD
+http://54.39.46.113:80/live/mara/mara/36717.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo Nordeste
+http://54.39.46.113:80/live/mara/mara/36716.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo Parana
+http://54.39.46.113:80/live/mara/mara/36715.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo RJ
+http://54.39.46.113:80/live/mara/mara/36714.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo RJ HD
+http://54.39.46.113:80/live/mara/mara/36713.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo Sorocaba
+http://54.39.46.113:80/live/mara/mara/36712.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo SP
+http://54.39.46.113:80/live/mara/mara/36711.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo SP HD
+http://54.39.46.113:80/live/mara/mara/36710.ts
+#EXTINF:-1,group-title="Canais Premium 4",Gloob
+http://54.39.46.113:80/live/mara/mara/36709.ts
+#EXTINF:-1,group-title="Canais Premium 4",Gloob HD
+http://54.39.46.113:80/live/mara/mara/36708.ts
+#EXTINF:-1,group-title="Canais Premium 4",GNT
+http://54.39.46.113:80/live/mara/mara/36707.ts
+#EXTINF:-1,group-title="Canais Premium 4",GNT HD
+http://54.39.46.113:80/live/mara/mara/36706.ts
+#EXTINF:-1,group-title="Canais Premium 4",H2
+http://54.39.46.113:80/live/mara/mara/36705.ts
+#EXTINF:-1,group-title="Canais Premium 4",H2 HD
+http://54.39.46.113:80/live/mara/mara/36704.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO
+http://54.39.46.113:80/live/mara/mara/36703.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO 2
+http://54.39.46.113:80/live/mara/mara/36702.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO 2 HD
+http://54.39.46.113:80/live/mara/mara/36701.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Family
+http://54.39.46.113:80/live/mara/mara/36700.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Family HD
+http://54.39.46.113:80/live/mara/mara/36699.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO HD
+http://54.39.46.113:80/live/mara/mara/36698.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Plus
+http://54.39.46.113:80/live/mara/mara/36697.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Plus * e
+http://54.39.46.113:80/live/mara/mara/36696.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Plus HD
+http://54.39.46.113:80/live/mara/mara/36695.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Plus Panregiona
+http://54.39.46.113:80/live/mara/mara/36694.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Signature
+http://54.39.46.113:80/live/mara/mara/36693.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO Signature HD
+http://54.39.46.113:80/live/mara/mara/36692.ts
+#EXTINF:-1,group-title="Canais Premium 4",History Channel
+http://54.39.46.113:80/live/mara/mara/36691.ts
+#EXTINF:-1,group-title="Canais Premium 4",History Channel HD
+http://54.39.46.113:80/live/mara/mara/36690.ts
+#EXTINF:-1,group-title="Canais Premium 4",Hustler tv
+http://54.39.46.113:80/live/mara/mara/36689.ts
+#EXTINF:-1,group-title="Canais Premium 4",ID - Investigacao Discovery
+http://54.39.46.113:80/live/mara/mara/36688.ts
+#EXTINF:-1,group-title="Canais Premium 4",ID - Investigacao Discovery HD
+http://54.39.46.113:80/live/mara/mara/36687.ts
+#EXTINF:-1,group-title="Canais Premium 4",Lifetime
+http://54.39.46.113:80/live/mara/mara/36686.ts
+#EXTINF:-1,group-title="Canais Premium 4",Lifetime HD
+http://54.39.46.113:80/live/mara/mara/36685.ts
+#EXTINF:-1,group-title="Canais Premium 4",Mais Globosat
+http://54.39.46.113:80/live/mara/mara/36684.ts
+#EXTINF:-1,group-title="Canais Premium 4",Mais Globosat HD
+http://54.39.46.113:80/live/mara/mara/36683.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX
+http://54.39.46.113:80/live/mara/mara/36682.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX Prime
+http://54.39.46.113:80/live/mara/mara/36681.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX Prime e
+http://54.39.46.113:80/live/mara/mara/36680.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX Prime HD
+http://54.39.46.113:80/live/mara/mara/36679.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX UP
+http://54.39.46.113:80/live/mara/mara/36678.ts
+#EXTINF:-1,group-title="Canais Premium 4",MegaPix
+http://54.39.46.113:80/live/mara/mara/36677.ts
+#EXTINF:-1,group-title="Canais Premium 4",Megapix HD
+http://54.39.46.113:80/live/mara/mara/36676.ts
+#EXTINF:-1,group-title="Canais Premium 4",MTV
+http://54.39.46.113:80/live/mara/mara/36675.ts
+#EXTINF:-1,group-title="Canais Premium 4",MTV HD
+http://54.39.46.113:80/live/mara/mara/36674.ts
+#EXTINF:-1,group-title="Canais Premium 4",Multishow
+http://54.39.46.113:80/live/mara/mara/36673.ts
+#EXTINF:-1,group-title="Canais Premium 4",Multishow HD
+http://54.39.46.113:80/live/mara/mara/36672.ts
+#EXTINF:-1,group-title="Canais Premium 4",Music Box Brasil
+http://54.39.46.113:80/live/mara/mara/36671.ts
+#EXTINF:-1,group-title="Canais Premium 4",NatGeo Kids
+http://54.39.46.113:80/live/mara/mara/36670.ts
+#EXTINF:-1,group-title="Canais Premium 4",NatGeo Wild
+http://54.39.46.113:80/live/mara/mara/36669.ts
+#EXTINF:-1,group-title="Canais Premium 4",NatGeoWild HD
+http://54.39.46.113:80/live/mara/mara/36668.ts
+#EXTINF:-1,group-title="Canais Premium 4",National Geographic
+http://54.39.46.113:80/live/mara/mara/36667.ts
+#EXTINF:-1,group-title="Canais Premium 4",National Geography HD
+http://54.39.46.113:80/live/mara/mara/36666.ts
+#EXTINF:-1,group-title="Canais Premium 4",NBR
+http://54.39.46.113:80/live/mara/mara/36665.ts
+#EXTINF:-1,group-title="Canais Premium 4",NHK
+http://54.39.46.113:80/live/mara/mara/36664.ts
+#EXTINF:-1,group-title="Canais Premium 4",NHK HD
+http://54.39.46.113:80/live/mara/mara/36663.ts
+#EXTINF:-1,group-title="Canais Premium 4",Nick Jr
+http://54.39.46.113:80/live/mara/mara/36662.ts
+#EXTINF:-1,group-title="Canais Premium 4",Nickelodeon HD
+http://54.39.46.113:80/live/mara/mara/36661.ts
+#EXTINF:-1,group-title="Canais Premium 4",Novo Tempo
+http://54.39.46.113:80/live/mara/mara/36660.ts
+#EXTINF:-1,group-title="Canais Premium 4",OFF
+http://54.39.46.113:80/live/mara/mara/36659.ts
+#EXTINF:-1,group-title="Canais Premium 4",OFF HD
+http://54.39.46.113:80/live/mara/mara/36658.ts
+#EXTINF:-1,group-title="Canais Premium 4",Paramount
+http://54.39.46.113:80/live/mara/mara/36657.ts
+#EXTINF:-1,group-title="Canais Premium 4",Paramount HD
+http://54.39.46.113:80/live/mara/mara/36656.ts
+#EXTINF:-1,group-title="Canais Premium 4",Passie XXX
+http://54.39.46.113:80/live/mara/mara/36655.ts
+#EXTINF:-1,group-title="Canais Premium 4",PFC
+http://54.39.46.113:80/live/mara/mara/36654.ts
+#EXTINF:-1,group-title="Canais Premium 4",PFC  [ ALTERNATIVO ]
+http://54.39.46.113:80/live/mara/mara/36653.ts
+#EXTINF:-1,group-title="Canais Premium 4",Play TV
+http://54.39.46.113:80/live/mara/mara/36652.ts
+#EXTINF:-1,group-title="Canais Premium 4",Playboy TV
+http://54.39.46.113:80/live/mara/mara/36651.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 2
+http://54.39.46.113:80/live/mara/mara/36650.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 2 HD
+http://54.39.46.113:80/live/mara/mara/36649.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 3
+http://54.39.46.113:80/live/mara/mara/36648.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 3 HD
+http://54.39.46.113:80/live/mara/mara/36647.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 4
+http://54.39.46.113:80/live/mara/mara/36646.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 4 HD
+http://54.39.46.113:80/live/mara/mara/36645.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 5
+http://54.39.46.113:80/live/mara/mara/36644.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 5 HD
+http://54.39.46.113:80/live/mara/mara/36643.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 6
+http://54.39.46.113:80/live/mara/mara/36642.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 7
+http://54.39.46.113:80/live/mara/mara/36641.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 8
+http://54.39.46.113:80/live/mara/mara/36640.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 9
+http://54.39.46.113:80/live/mara/mara/36639.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere Clubes
+http://54.39.46.113:80/live/mara/mara/36638.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere Clubes HD
+http://54.39.46.113:80/live/mara/mara/36637.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere Clubes HD [ ALTERNATIVO ]
+http://54.39.46.113:80/live/mara/mara/36636.ts
+#EXTINF:-1,group-title="Canais Premium 4",Prime Box Brazil
+http://54.39.46.113:80/live/mara/mara/36635.ts
+#EXTINF:-1,group-title="Canais Premium 4",Rai Movie HD
+http://54.39.46.113:80/live/mara/mara/36634.ts
+#EXTINF:-1,group-title="Canais Premium 4",RBS TV Porto Alegre
+http://54.39.46.113:80/live/mara/mara/36633.ts
+#EXTINF:-1,group-title="Canais Premium 4",Record
+http://54.39.46.113:80/live/mara/mara/36632.ts
+#EXTINF:-1,group-title="Canais Premium 4",Record HD
+http://54.39.46.113:80/live/mara/mara/36631.ts
+#EXTINF:-1,group-title="Canais Premium 4",Record News
+http://54.39.46.113:80/live/mara/mara/36630.ts
+#EXTINF:-1,group-title="Canais Premium 4",Rede Super
+http://54.39.46.113:80/live/mara/mara/36629.ts
+#EXTINF:-1,group-title="Canais Premium 4",Rede TV
+http://54.39.46.113:80/live/mara/mara/36628.ts
+#EXTINF:-1,group-title="Canais Premium 4",Rede TV HD
+http://54.39.46.113:80/live/mara/mara/36627.ts
+#EXTINF:-1,group-title="Canais Premium 4",Rede Vida
+http://54.39.46.113:80/live/mara/mara/36626.ts
+#EXTINF:-1,group-title="Canais Premium 4",Rede Vida HD
+http://54.39.46.113:80/live/mara/mara/36625.ts
+#EXTINF:-1,group-title="Canais Premium 4",Retro Cartoon
+http://54.39.46.113:80/live/mara/mara/36624.ts
+#EXTINF:-1,group-title="Canais Premium 4",SBT
+http://54.39.46.113:80/live/mara/mara/36623.ts
+#EXTINF:-1,group-title="Canais Premium 4",SBT HD
+http://54.39.46.113:80/live/mara/mara/36622.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sextreme
+http://54.39.46.113:80/live/mara/mara/36621.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sexy Hot
+http://54.39.46.113:80/live/mara/mara/36620.ts
+#EXTINF:-1,group-title="Canais Premium 4",Space
+http://54.39.46.113:80/live/mara/mara/36619.ts
+#EXTINF:-1,group-title="Canais Premium 4",Space HD
+http://54.39.46.113:80/live/mara/mara/36618.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sport TV
+http://54.39.46.113:80/live/mara/mara/36617.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sport TV 2
+http://54.39.46.113:80/live/mara/mara/36616.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sport TV 2 HD
+http://54.39.46.113:80/live/mara/mara/36615.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sport TV 3
+http://54.39.46.113:80/live/mara/mara/36614.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sport TV 3 HD
+http://54.39.46.113:80/live/mara/mara/36613.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sport TV HD
+http://54.39.46.113:80/live/mara/mara/36612.ts
+#EXTINF:-1,group-title="Canais Premium 4",Studio Universal
+http://54.39.46.113:80/live/mara/mara/36611.ts
+#EXTINF:-1,group-title="Canais Premium 4",Studio Universal HD
+http://54.39.46.113:80/live/mara/mara/36610.ts
+#EXTINF:-1,group-title="Canais Premium 4",Syfy
+http://54.39.46.113:80/live/mara/mara/36609.ts
+#EXTINF:-1,group-title="Canais Premium 4",Syfy HD
+http://54.39.46.113:80/live/mara/mara/36608.ts
+#EXTINF:-1,group-title="Canais Premium 4",TBS
+http://54.39.46.113:80/live/mara/mara/36607.ts
+#EXTINF:-1,group-title="Canais Premium 4",TBS HD
+http://54.39.46.113:80/live/mara/mara/36606.ts
+#EXTINF:-1,group-title="Canais Premium 4",TCM
+http://54.39.46.113:80/live/mara/mara/36605.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Action
+http://54.39.46.113:80/live/mara/mara/36604.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Action HD
+http://54.39.46.113:80/live/mara/mara/36603.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Cult
+http://54.39.46.113:80/live/mara/mara/36602.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Fun
+http://54.39.46.113:80/live/mara/mara/36601.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Fun HD
+http://54.39.46.113:80/live/mara/mara/36600.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Pipoca
+http://54.39.46.113:80/live/mara/mara/36599.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Pipoca HD
+http://54.39.46.113:80/live/mara/mara/36598.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Premium
+http://54.39.46.113:80/live/mara/mara/36597.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Premium HD
+http://54.39.46.113:80/live/mara/mara/36596.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Touch
+http://54.39.46.113:80/live/mara/mara/36595.ts
+#EXTINF:-1,group-title="Canais Premium 4",Telecine Touch HD
+http://54.39.46.113:80/live/mara/mara/36594.ts
+#EXTINF:-1,group-title="Canais Premium 4",Terra Viva
+http://54.39.46.113:80/live/mara/mara/36593.ts
+#EXTINF:-1,group-title="Canais Premium 4",TLC
+http://54.39.46.113:80/live/mara/mara/36592.ts
+#EXTINF:-1,group-title="Canais Premium 4",TLC HD
+http://54.39.46.113:80/live/mara/mara/36591.ts
+#EXTINF:-1,group-title="Canais Premium 4",TNT
+http://54.39.46.113:80/live/mara/mara/36590.ts
+#EXTINF:-1,group-title="Canais Premium 4",TNT HD
+http://54.39.46.113:80/live/mara/mara/36589.ts
+#EXTINF:-1,group-title="Canais Premium 4",TNT Series
+http://54.39.46.113:80/live/mara/mara/36588.ts
+#EXTINF:-1,group-title="Canais Premium 4",TNT Series HD
+http://54.39.46.113:80/live/mara/mara/36587.ts
+#EXTINF:-1,group-title="Canais Premium 4",Tooncast
+http://54.39.46.113:80/live/mara/mara/36586.ts
+#EXTINF:-1,group-title="Canais Premium 4",TruTV
+http://54.39.46.113:80/live/mara/mara/36585.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV Evangelizar
+http://54.39.46.113:80/live/mara/mara/36584.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV Ra tim bum
+http://54.39.46.113:80/live/mara/mara/36583.ts
+#EXTINF:-1,group-title="Canais Premium 4",TVE Bahia
+http://54.39.46.113:80/live/mara/mara/36582.ts
+#EXTINF:-1,group-title="Canais Premium 4",TVE HD
+http://54.39.46.113:80/live/mara/mara/36581.ts
+#EXTINF:-1,group-title="Canais Premium 4",Universal Channel
+http://54.39.46.113:80/live/mara/mara/36580.ts
+#EXTINF:-1,group-title="Canais Premium 4",Universal Channels HD
+http://54.39.46.113:80/live/mara/mara/36579.ts
+#EXTINF:-1,group-title="Canais Premium 4",Venus
+http://54.39.46.113:80/live/mara/mara/36578.ts
+#EXTINF:-1,group-title="Canais Premium 4",VH1 Megahits
+http://54.39.46.113:80/live/mara/mara/36577.ts
+#EXTINF:-1,group-title="Canais Premium 4",Viva
+http://54.39.46.113:80/live/mara/mara/36576.ts
+#EXTINF:-1,group-title="Canais Premium 4",Viva HD
+http://54.39.46.113:80/live/mara/mara/36575.ts
+#EXTINF:-1,group-title="Canais Premium 4",Warner Channel
+http://54.39.46.113:80/live/mara/mara/36574.ts
+#EXTINF:-1,group-title="Canais Premium 4",Warner Channel HD
+http://54.39.46.113:80/live/mara/mara/36573.ts
+
+########### Canais premium 5.0 ##############
+
+#EXTINF:-1,group-title="Canais Premium 5",ATENÇÃO VEJA ISSO
+http://142.44.137.22:8080/live/peter/peter/3874.ts
+#EXTINF:-1,group-title="Canais Premium 5",A&E HD
+http://142.44.137.22:8080/live/peter/peter/1063.ts
+#EXTINF:-1,group-title="Canais Premium 5",A&E SD
+http://142.44.137.22:8080/live/peter/peter/833.ts
+#EXTINF:-1,group-title="Canais Premium 5",AMC HD
+http://142.44.137.22:8080/live/peter/peter/1062.ts
+#EXTINF:-1,group-title="Canais Premium 5",AMC SD
+http://142.44.137.22:8080/live/peter/peter/1061.ts
+#EXTINF:-1,group-title="Canais Premium 5",ANIMAL PLANET HD
+http://142.44.137.22:8080/live/peter/peter/1060.ts
+#EXTINF:-1,group-title="Canais Premium 5",ANIMAL PLANET SD
+http://142.44.137.22:8080/live/peter/peter/832.ts
+#EXTINF:-1,group-title="Canais Premium 5",AXN HD
+http://142.44.137.22:8080/live/peter/peter/1059.ts
+#EXTINF:-1,group-title="Canais Premium 5",AXN SD
+http://142.44.137.22:8080/live/peter/peter/831.ts
+#EXTINF:-1,group-title="Canais Premium 5",BABY TV SD
+http://142.44.137.22:8080/live/peter/peter/1058.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND HD
+http://142.44.137.22:8080/live/peter/peter/1057.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND NEWS SD
+http://142.44.137.22:8080/live/peter/peter/1056.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND PARA SD
+http://142.44.137.22:8080/live/peter/peter/829.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND SD
+http://142.44.137.22:8080/live/peter/peter/830.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND  SD
+http://142.44.137.22:8080/live/peter/peter/1055.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND SPORTS HD
+http://142.44.137.22:8080/live/peter/peter/1054.ts
+#EXTINF:-1,group-title="Canais Premium 5",BAND SPORTS SD
+http://142.44.137.22:8080/live/peter/peter/1053.ts
+#EXTINF:-1,group-title="Canais Premium 5",BEN 10 24HRS
+http://142.44.137.22:8080/live/peter/peter/1050.ts
+#EXTINF:-1,group-title="Canais Premium 5",BIS HD
+http://142.44.137.22:8080/live/peter/peter/1049.ts
+#EXTINF:-1,group-title="Canais Premium 5",BIS SD
+http://142.44.137.22:8080/live/peter/peter/828.ts
+#EXTINF:-1,group-title="Canais Premium 5",BOB ESPONJA
+http://142.44.137.22:8080/live/peter/peter/1048.ts
+#EXTINF:-1,group-title="Canais Premium 5",BOOMERANG SD
+http://142.44.137.22:8080/live/peter/peter/1047.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL BRASIL HD
+http://142.44.137.22:8080/live/peter/peter/1046.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL BRASIL SD
+http://142.44.137.22:8080/live/peter/peter/1045.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL DO BOI SD
+http://142.44.137.22:8080/live/peter/peter/798.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL FUTEBOL
+http://142.44.137.22:8080/live/peter/peter/1044.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL RURAL SD
+http://142.44.137.22:8080/live/peter/peter/827.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL SONY HD
+http://142.44.137.22:8080/live/peter/peter/1043.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANAL SONY SD
+http://142.44.137.22:8080/live/peter/peter/826.ts
+#EXTINF:-1,group-title="Canais Premium 5",CANCAO NOVA
+http://142.44.137.22:8080/live/peter/peter/1042.ts
+#EXTINF:-1,group-title="Canais Premium 5",CARTOON NETWORK HD
+http://142.44.137.22:8080/live/peter/peter/1041.ts
+#EXTINF:-1,group-title="Canais Premium 5",CARTOON NETWORK  RETRO SD
+http://142.44.137.22:8080/live/peter/peter/1040.ts
+#EXTINF:-1,group-title="Canais Premium 5",CARTOON NETWORK SD
+http://142.44.137.22:8080/live/peter/peter/825.ts
+#EXTINF:-1,group-title="Canais Premium 5",CAVALEIROS ZODIACO 24HRS
+http://142.44.137.22:8080/live/peter/peter/1039.ts
+#EXTINF:-1,group-title="Canais Premium 5",CHAVES
+http://142.44.137.22:8080/live/peter/peter/835.ts
+#EXTINF:-1,group-title="Canais Premium 5",CHAVES DESENHO
+http://142.44.137.22:8080/live/peter/peter/834.ts
+#EXTINF:-1,group-title="Canais Premium 5",CINEMAX HD
+http://142.44.137.22:8080/live/peter/peter/1038.ts
+#EXTINF:-1,group-title="Canais Premium 5",CINEMAX SD
+http://142.44.137.22:8080/live/peter/peter/1037.ts
+#EXTINF:-1,group-title="Canais Premium 5",CNN INTERNACIONAL SD
+http://142.44.137.22:8080/live/peter/peter/1036.ts
+#EXTINF:-1,group-title="Canais Premium 5",COMBATE FHD
+http://142.44.137.22:8080/live/peter/peter/1035.ts
+#EXTINF:-1,group-title="Canais Premium 5",COMBATE FULL HD
+http://142.44.137.22:8080/live/peter/peter/6321.ts
+#EXTINF:-1,group-title="Canais Premium 5",COMBATE HD
+http://142.44.137.22:8080/live/peter/peter/1034.ts
+#EXTINF:-1,group-title="Canais Premium 5",COMBATE SD
+http://142.44.137.22:8080/live/peter/peter/1033.ts
+#EXTINF:-1,group-title="Canais Premium 5",COMEDY CENTRAL HD
+http://142.44.137.22:8080/live/peter/peter/1032.ts
+#EXTINF:-1,group-title="Canais Premium 5",COMEDY CENTRAL SD
+http://142.44.137.22:8080/live/peter/peter/1031.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY CHANNEL HD
+http://142.44.137.22:8080/live/peter/peter/1030.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/824.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY CIVILIZATION FULL HD
+http://142.44.137.22:8080/live/peter/peter/6335.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY CIVILIZATION HD
+http://142.44.137.22:8080/live/peter/peter/1029.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY HOME & HEALTH HD
+http://142.44.137.22:8080/live/peter/peter/1028.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY HOME & HEALTH SD
+http://142.44.137.22:8080/live/peter/peter/823.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY KIDS HD
+http://142.44.137.22:8080/live/peter/peter/1027.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY KIDS SD
+http://142.44.137.22:8080/live/peter/peter/1026.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY SCIENCE FULL HD
+http://142.44.137.22:8080/live/peter/peter/6336.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY SCIENCE HD
+http://142.44.137.22:8080/live/peter/peter/1025.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY THEATER HD
+http://142.44.137.22:8080/live/peter/peter/1024.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY THEATER SD
+http://142.44.137.22:8080/live/peter/peter/822.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY TURBO HD
+http://142.44.137.22:8080/live/peter/peter/1023.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY TURBO SD
+http://142.44.137.22:8080/live/peter/peter/821.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISCOVERY WORLD  HD
+http://142.44.137.22:8080/live/peter/peter/1022.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISNEY CHANNEL HD
+http://142.44.137.22:8080/live/peter/peter/1021.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISNEY JUNIOR SD
+http://142.44.137.22:8080/live/peter/peter/1020.ts
+#EXTINF:-1,group-title="Canais Premium 5",DISNEY XD SD
+http://142.44.137.22:8080/live/peter/peter/1019.ts
+#EXTINF:-1,group-title="Canais Premium 5",DRAGON BALL
+http://142.44.137.22:8080/live/peter/peter/1018.ts
+#EXTINF:-1,group-title="Canais Premium 5",DRAGON BALL SUPER
+http://142.44.137.22:8080/live/peter/peter/1017.ts
+#EXTINF:-1,group-title="Canais Premium 5",Dois Homens e Meio
+http://142.44.137.22:8080/live/peter/peter/1016.ts
+#EXTINF:-1,group-title="Canais Premium 5",E! HD
+http://142.44.137.22:8080/live/peter/peter/1015.ts
+#EXTINF:-1,group-title="Canais Premium 5",E! SD
+http://142.44.137.22:8080/live/peter/peter/1014.ts
+#EXTINF:-1,group-title="Canais Premium 5",EI MAXX 2 HD
+http://142.44.137.22:8080/live/peter/peter/1013.ts
+#EXTINF:-1,group-title="Canais Premium 5",EI MAXX 2 SD
+http://142.44.137.22:8080/live/peter/peter/1012.ts
+#EXTINF:-1,group-title="Canais Premium 5",EI MAXX HD
+http://142.44.137.22:8080/live/peter/peter/1011.ts
+#EXTINF:-1,group-title="Canais Premium 5",EI MAXX SD
+http://142.44.137.22:8080/live/peter/peter/1010.ts
+#EXTINF:-1,group-title="Canais Premium 5",EPTV CAMPINAS HD
+http://142.44.137.22:8080/live/peter/peter/1009.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN
+http://142.44.137.22:8080/live/peter/peter/5288.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN BRASIL HD
+http://142.44.137.22:8080/live/peter/peter/1007.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN BRASIL SD
+http://142.44.137.22:8080/live/peter/peter/1006.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN Brasil
+http://142.44.137.22:8080/live/peter/peter/5287.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN FHD
+http://142.44.137.22:8080/live/peter/peter/1005.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN   HD
+http://142.44.137.22:8080/live/peter/peter/1008.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN   SD
+http://142.44.137.22:8080/live/peter/peter/820.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPN SD ALTERNATIVO
+http://142.44.137.22:8080/live/peter/peter/819.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPORTE INTERATIVO 2 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6323.ts
+#EXTINF:-1,group-title="Canais Premium 5",ESPORTE INTERATIVO FULL HD
+http://142.44.137.22:8080/live/peter/peter/6322.ts
+#EXTINF:-1,group-title="Canais Premium 5",EUROSPORT
+http://142.44.137.22:8080/live/peter/peter/1004.ts
+#EXTINF:-1,group-title="Canais Premium 5",Esporte Interativo
+http://142.44.137.22:8080/live/peter/peter/5286.ts
+#EXTINF:-1,group-title="Canais Premium 5",FISH TV SD
+http://142.44.137.22:8080/live/peter/peter/1003.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOOD NETWORK HD
+http://142.44.137.22:8080/live/peter/peter/1002.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOOD NETWORK SD
+http://142.44.137.22:8080/live/peter/peter/818.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX FULL HD
+http://142.44.137.22:8080/live/peter/peter/6324.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX HD
+http://142.44.137.22:8080/live/peter/peter/1001.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX LIFE HD
+http://142.44.137.22:8080/live/peter/peter/1000.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX LIFE  SD
+http://142.44.137.22:8080/live/peter/peter/816.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX PREMIUM 1 HD
+http://142.44.137.22:8080/live/peter/peter/999.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX PREMIUM 2 HD
+http://142.44.137.22:8080/live/peter/peter/998.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SD
+http://142.44.137.22:8080/live/peter/peter/817.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX  SD
+http://142.44.137.22:8080/live/peter/peter/997.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SPORTS 2 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6320.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SPORTS 2 HD
+http://142.44.137.22:8080/live/peter/peter/996.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SPORTS 2 SD
+http://142.44.137.22:8080/live/peter/peter/995.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SPORTS FULL HD
+http://142.44.137.22:8080/live/peter/peter/6319.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SPORTS HD
+http://142.44.137.22:8080/live/peter/peter/994.ts
+#EXTINF:-1,group-title="Canais Premium 5",FOX SPORTS SD
+http://142.44.137.22:8080/live/peter/peter/993.ts
+#EXTINF:-1,group-title="Canais Premium 5",FUTURA
+http://142.44.137.22:8080/live/peter/peter/992.ts
+#EXTINF:-1,group-title="Canais Premium 5",FX HD
+http://142.44.137.22:8080/live/peter/peter/991.ts
+#EXTINF:-1,group-title="Canais Premium 5",FX SD
+http://142.44.137.22:8080/live/peter/peter/990.ts
+#EXTINF:-1,group-title="Canais Premium 5",GALINHA PINTADINHA 24 HORAS
+http://142.44.137.22:8080/live/peter/peter/6313.ts
+#EXTINF:-1,group-title="Canais Premium 5",GAZETA SP HD
+http://142.44.137.22:8080/live/peter/peter/989.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO BRASILIA HD
+http://142.44.137.22:8080/live/peter/peter/988.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO BRASILIA SD
+http://142.44.137.22:8080/live/peter/peter/987.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO INTERNACIONAL FULL HD
+http://142.44.137.22:8080/live/peter/peter/986.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO INTERNACIONAL  SD
+http://142.44.137.22:8080/live/peter/peter/985.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO MINAS HD
+http://142.44.137.22:8080/live/peter/peter/984.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO NEWS FULL HD
+http://142.44.137.22:8080/live/peter/peter/6327.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO NEWS HD
+http://142.44.137.22:8080/live/peter/peter/983.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO NEWS SD
+http://142.44.137.22:8080/live/peter/peter/815.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO NORDESTE
+http://142.44.137.22:8080/live/peter/peter/811.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO NORDESTE HD
+http://142.44.137.22:8080/live/peter/peter/982.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO NORDESTE SD ALT
+http://142.44.137.22:8080/live/peter/peter/782.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO PARANA  HD
+http://142.44.137.22:8080/live/peter/peter/981.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO PORTO ALEGRE
+http://142.44.137.22:8080/live/peter/peter/5289.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO PORTUGAL SD
+http://142.44.137.22:8080/live/peter/peter/980.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO RJ
+http://142.44.137.22:8080/live/peter/peter/5293.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO RJ HD
+http://142.44.137.22:8080/live/peter/peter/979.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO RJ SD
+http://142.44.137.22:8080/live/peter/peter/978.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO RPC
+http://142.44.137.22:8080/live/peter/peter/5291.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO SP
+http://142.44.137.22:8080/live/peter/peter/5292.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO SP HD
+http://142.44.137.22:8080/live/peter/peter/977.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBO SP SD
+http://142.44.137.22:8080/live/peter/peter/976.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBOSAT HD
+http://142.44.137.22:8080/live/peter/peter/975.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOBOSAT SD
+http://142.44.137.22:8080/live/peter/peter/813.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOOB  HD
+http://142.44.137.22:8080/live/peter/peter/974.ts
+#EXTINF:-1,group-title="Canais Premium 5",GLOOB  SD
+http://142.44.137.22:8080/live/peter/peter/812.ts
+#EXTINF:-1,group-title="Canais Premium 5",GNT HD
+http://142.44.137.22:8080/live/peter/peter/973.ts
+#EXTINF:-1,group-title="Canais Premium 5",GNT SD
+http://142.44.137.22:8080/live/peter/peter/814.ts
+#EXTINF:-1,group-title="Canais Premium 5",Globo Brasilia
+http://142.44.137.22:8080/live/peter/peter/5294.ts
+#EXTINF:-1,group-title="Canais Premium 5",Globo EPTV Campinas
+http://142.44.137.22:8080/live/peter/peter/5290.ts
+#EXTINF:-1,group-title="Canais Premium 5",Gr6 Explode FM
+http://142.44.137.22:8080/live/peter/peter/6032.ts
+#EXTINF:-1,group-title="Canais Premium 5",H 2 SD
+http://142.44.137.22:8080/live/peter/peter/810.ts
+#EXTINF:-1,group-title="Canais Premium 5",H2 HD
+http://142.44.137.22:8080/live/peter/peter/972.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO 2 HD
+http://142.44.137.22:8080/live/peter/peter/971.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO 2 SD
+http://142.44.137.22:8080/live/peter/peter/970.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO FAMILY HD
+http://142.44.137.22:8080/live/peter/peter/969.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO FAMILY  SD
+http://142.44.137.22:8080/live/peter/peter/809.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO HD
+http://142.44.137.22:8080/live/peter/peter/968.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO PLUS E SD
+http://142.44.137.22:8080/live/peter/peter/967.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO PLUS HD
+http://142.44.137.22:8080/live/peter/peter/966.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO PLUS PANREGIONAL SD
+http://142.44.137.22:8080/live/peter/peter/965.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO PLUS SD
+http://142.44.137.22:8080/live/peter/peter/964.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO PLUS  SD
+http://142.44.137.22:8080/live/peter/peter/808.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO SD
+http://142.44.137.22:8080/live/peter/peter/963.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO SIGNATURE HD
+http://142.44.137.22:8080/live/peter/peter/962.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO SIGNATURE SD
+http://142.44.137.22:8080/live/peter/peter/961.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO SIGNATURE  SD
+http://142.44.137.22:8080/live/peter/peter/807.ts
+#EXTINF:-1,group-title="Canais Premium 5",HBO2  SD
+http://142.44.137.22:8080/live/peter/peter/806.ts
+#EXTINF:-1,group-title="Canais Premium 5",HISTORY CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/960.ts
+#EXTINF:-1,group-title="Canais Premium 5",HISTORY FULL HD
+http://142.44.137.22:8080/live/peter/peter/6325.ts
+#EXTINF:-1,group-title="Canais Premium 5",I-SAT SD
+http://142.44.137.22:8080/live/peter/peter/959.ts
+#EXTINF:-1,group-title="Canais Premium 5",INVESTIGATION DISCOVERY HD
+http://142.44.137.22:8080/live/peter/peter/958.ts
+#EXTINF:-1,group-title="Canais Premium 5",INVESTIGATION DISCOVERY SD
+http://142.44.137.22:8080/live/peter/peter/805.ts
+#EXTINF:-1,group-title="Canais Premium 5",LIFETIME HD
+http://142.44.137.22:8080/live/peter/peter/957.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX HD
+http://142.44.137.22:8080/live/peter/peter/956.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX PRIME E SD
+http://142.44.137.22:8080/live/peter/peter/955.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX PRIME HD
+http://142.44.137.22:8080/live/peter/peter/954.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX PRIME SD
+http://142.44.137.22:8080/live/peter/peter/803.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX SD
+http://142.44.137.22:8080/live/peter/peter/802.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX UP HD
+http://142.44.137.22:8080/live/peter/peter/953.ts
+#EXTINF:-1,group-title="Canais Premium 5",MAX UP SD
+http://142.44.137.22:8080/live/peter/peter/801.ts
+#EXTINF:-1,group-title="Canais Premium 5",MEGAPIX FULL HD
+http://142.44.137.22:8080/live/peter/peter/6334.ts
+#EXTINF:-1,group-title="Canais Premium 5",MEGAPIX HD
+http://142.44.137.22:8080/live/peter/peter/952.ts
+#EXTINF:-1,group-title="Canais Premium 5",MEGAPIX SD
+http://142.44.137.22:8080/live/peter/peter/800.ts
+#EXTINF:-1,group-title="Canais Premium 5",MTV DANCE
+http://142.44.137.22:8080/live/peter/peter/951.ts
+#EXTINF:-1,group-title="Canais Premium 5",MTV HD
+http://142.44.137.22:8080/live/peter/peter/950.ts
+#EXTINF:-1,group-title="Canais Premium 5",MTV PORTUGAL
+http://142.44.137.22:8080/live/peter/peter/949.ts
+#EXTINF:-1,group-title="Canais Premium 5",MTV SD
+http://142.44.137.22:8080/live/peter/peter/804.ts
+#EXTINF:-1,group-title="Canais Premium 5",MULTISHOW HD
+http://142.44.137.22:8080/live/peter/peter/948.ts
+#EXTINF:-1,group-title="Canais Premium 5",MULTISHOW SD
+http://142.44.137.22:8080/live/peter/peter/947.ts
+#EXTINF:-1,group-title="Canais Premium 5",MUSIC BOX BRASIL HD
+http://142.44.137.22:8080/live/peter/peter/946.ts
+#EXTINF:-1,group-title="Canais Premium 5",NARUTO 24 HORAS
+http://142.44.137.22:8080/live/peter/peter/6312.ts
+#EXTINF:-1,group-title="Canais Premium 5",NAT GEO KIDS
+http://142.44.137.22:8080/live/peter/peter/944.ts
+#EXTINF:-1,group-title="Canais Premium 5",NAT GEO KIDS HD
+http://142.44.137.22:8080/live/peter/peter/945.ts
+#EXTINF:-1,group-title="Canais Premium 5",NAT GEO SD
+http://142.44.137.22:8080/live/peter/peter/797.ts
+#EXTINF:-1,group-title="Canais Premium 5",NATGEO WILD HD
+http://142.44.137.22:8080/live/peter/peter/943.ts
+#EXTINF:-1,group-title="Canais Premium 5",NATGEO WILD SD
+http://142.44.137.22:8080/live/peter/peter/799.ts
+#EXTINF:-1,group-title="Canais Premium 5",NHK SD
+http://142.44.137.22:8080/live/peter/peter/942.ts
+#EXTINF:-1,group-title="Canais Premium 5",NICK JR SD
+http://142.44.137.22:8080/live/peter/peter/941.ts
+#EXTINF:-1,group-title="Canais Premium 5",NICKELODEON HD
+http://142.44.137.22:8080/live/peter/peter/940.ts
+#EXTINF:-1,group-title="Canais Premium 5",NICKELODEON SD
+http://142.44.137.22:8080/live/peter/peter/939.ts
+#EXTINF:-1,group-title="Canais Premium 5",O MASCARA 24HRS
+http://142.44.137.22:8080/live/peter/peter/938.ts
+#EXTINF:-1,group-title="Canais Premium 5",OFF HD
+http://142.44.137.22:8080/live/peter/peter/937.ts
+#EXTINF:-1,group-title="Canais Premium 5",OFF SD
+http://142.44.137.22:8080/live/peter/peter/796.ts
+#EXTINF:-1,group-title="Canais Premium 5",OS SIMPSONS 24HRS
+http://142.44.137.22:8080/live/peter/peter/936.ts
+#EXTINF:-1,group-title="Canais Premium 5",PARAMOUNT CHANNEL HD
+http://142.44.137.22:8080/live/peter/peter/935.ts
+#EXTINF:-1,group-title="Canais Premium 5",PARAMOUNT CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/795.ts
+#EXTINF:-1,group-title="Canais Premium 5",PICA PAU
+http://142.44.137.22:8080/live/peter/peter/934.ts
+#EXTINF:-1,group-title="Canais Premium 5",PLAY TV SD
+http://142.44.137.22:8080/live/peter/peter/933.ts
+#EXTINF:-1,group-title="Canais Premium 5",PLAYBOY SD
+http://142.44.137.22:8080/live/peter/peter/932.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIER CLUBES SD
+http://142.44.137.22:8080/live/peter/peter/773.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 2 HD
+http://142.44.137.22:8080/live/peter/peter/928.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 2 SD
+http://142.44.137.22:8080/live/peter/peter/771.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 2 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5301.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 3 HD
+http://142.44.137.22:8080/live/peter/peter/927.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 3 SD
+http://142.44.137.22:8080/live/peter/peter/770.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 4 HD
+http://142.44.137.22:8080/live/peter/peter/926.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 4 SD
+http://142.44.137.22:8080/live/peter/peter/769.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 4 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5299.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 5 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6326.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 5 HD
+http://142.44.137.22:8080/live/peter/peter/925.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 5 SD
+http://142.44.137.22:8080/live/peter/peter/768.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 5 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5298.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 6 HD
+http://142.44.137.22:8080/live/peter/peter/924.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 6 SD
+http://142.44.137.22:8080/live/peter/peter/767.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 6 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5297.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 7 HD
+http://142.44.137.22:8080/live/peter/peter/923.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 7 SD
+http://142.44.137.22:8080/live/peter/peter/766.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 8 HD
+http://142.44.137.22:8080/live/peter/peter/922.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 8 SD
+http://142.44.137.22:8080/live/peter/peter/765.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 9 HD
+http://142.44.137.22:8080/live/peter/peter/921.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE 9 SD
+http://142.44.137.22:8080/live/peter/peter/764.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE CLUBES FHD
+http://142.44.137.22:8080/live/peter/peter/929.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE CLUBES FULL HD
+http://142.44.137.22:8080/live/peter/peter/6315.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE CLUBES HD
+http://142.44.137.22:8080/live/peter/peter/930.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE CLUBES HD ALT
+http://142.44.137.22:8080/live/peter/peter/772.ts
+#EXTINF:-1,group-title="Canais Premium 5",PREMIERE CLUBES SD
+http://142.44.137.22:8080/live/peter/peter/931.ts
+#EXTINF:-1,group-title="Canais Premium 5",PRIME BOX BRASIL SD
+http://142.44.137.22:8080/live/peter/peter/920.ts
+#EXTINF:-1,group-title="Canais Premium 5",Premiere 3 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5300.ts
+#EXTINF:-1,group-title="Canais Premium 5",Premiere 7 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5296.ts
+#EXTINF:-1,group-title="Canais Premium 5",Premiere Clubes
+http://142.44.137.22:8080/live/peter/peter/5295.ts
+#EXTINF:-1,group-title="Canais Premium 5",RBS TV PORTO ALEGRE SD
+http://142.44.137.22:8080/live/peter/peter/919.ts
+#EXTINF:-1,group-title="Canais Premium 5",RBS TV SD
+http://142.44.137.22:8080/live/peter/peter/794.ts
+#EXTINF:-1,group-title="Canais Premium 5",RECORD FULL HD
+http://142.44.137.22:8080/live/peter/peter/6337.ts
+#EXTINF:-1,group-title="Canais Premium 5",REDE RECORD FULL HD
+http://142.44.137.22:8080/live/peter/peter/910.ts
+#EXTINF:-1,group-title="Canais Premium 5",SBT HD
+http://142.44.137.22:8080/live/peter/peter/905.ts
+#EXTINF:-1,group-title="Canais Premium 5",SBT SD
+http://142.44.137.22:8080/live/peter/peter/903.ts
+#EXTINF:-1,group-title="Canais Premium 5",SBT  SD ALT
+http://142.44.137.22:8080/live/peter/peter/904.ts
+#EXTINF:-1,group-title="Canais Premium 5",SCOOBY DOO 24 HORAS
+http://142.44.137.22:8080/live/peter/peter/6314.ts
+#EXTINF:-1,group-title="Canais Premium 5",SEXTREME  SD
+http://142.44.137.22:8080/live/peter/peter/902.ts
+#EXTINF:-1,group-title="Canais Premium 5",SEXY HOT  SD
+http://142.44.137.22:8080/live/peter/peter/901.ts
+#EXTINF:-1,group-title="Canais Premium 5",SEXZONE 2 HD
+http://142.44.137.22:8080/live/peter/peter/836.ts
+#EXTINF:-1,group-title="Canais Premium 5",SEXZONE HD
+http://142.44.137.22:8080/live/peter/peter/837.ts
+#EXTINF:-1,group-title="Canais Premium 5",SIC INTERNACIONAL
+http://142.44.137.22:8080/live/peter/peter/900.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPACE HD
+http://142.44.137.22:8080/live/peter/peter/899.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPACE SD
+http://142.44.137.22:8080/live/peter/peter/791.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORT TV 1 HD - PT
+http://142.44.137.22:8080/live/peter/peter/898.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORT TV 2 HD - PT
+http://142.44.137.22:8080/live/peter/peter/897.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORT TV 3 HD - PT
+http://142.44.137.22:8080/live/peter/peter/896.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORT TV 4 HD - PT
+http://142.44.137.22:8080/live/peter/peter/895.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV 2 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6317.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV 2 HD
+http://142.44.137.22:8080/live/peter/peter/894.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV 2 SD
+http://142.44.137.22:8080/live/peter/peter/893.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV 3 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6318.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV 3 HD
+http://142.44.137.22:8080/live/peter/peter/892.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV 3 SD
+http://142.44.137.22:8080/live/peter/peter/891.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV FULL HD
+http://142.44.137.22:8080/live/peter/peter/6316.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV HD
+http://142.44.137.22:8080/live/peter/peter/890.ts
+#EXTINF:-1,group-title="Canais Premium 5",SPORTV SD
+http://142.44.137.22:8080/live/peter/peter/889.ts
+#EXTINF:-1,group-title="Canais Premium 5",STUDIO UNIVERSAL HD
+http://142.44.137.22:8080/live/peter/peter/888.ts
+#EXTINF:-1,group-title="Canais Premium 5",STUDIO UNIVERSAL SD
+http://142.44.137.22:8080/live/peter/peter/789.ts
+#EXTINF:-1,group-title="Canais Premium 5",SYFY HD
+http://142.44.137.22:8080/live/peter/peter/887.ts
+#EXTINF:-1,group-title="Canais Premium 5",SYFY SD
+http://142.44.137.22:8080/live/peter/peter/790.ts
+#EXTINF:-1,group-title="Canais Premium 5",SporTV SD ALT
+http://142.44.137.22:8080/live/peter/peter/5303.ts
+#EXTINF:-1,group-title="Canais Premium 5",Sportv 2 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5302.ts
+#EXTINF:-1,group-title="Canais Premium 5",TBS SD
+http://142.44.137.22:8080/live/peter/peter/886.ts
+#EXTINF:-1,group-title="Canais Premium 5",TCM SD
+http://142.44.137.22:8080/live/peter/peter/785.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE ACTION FULL HD
+http://142.44.137.22:8080/live/peter/peter/6329.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE ACTION HD
+http://142.44.137.22:8080/live/peter/peter/885.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE ACTION  SD
+http://142.44.137.22:8080/live/peter/peter/884.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE CULT FULL HD
+http://142.44.137.22:8080/live/peter/peter/6331.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE CULT HD
+http://142.44.137.22:8080/live/peter/peter/883.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE CULT  SD
+http://142.44.137.22:8080/live/peter/peter/882.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE FUN FULL HD
+http://142.44.137.22:8080/live/peter/peter/6330.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE FUN HD
+http://142.44.137.22:8080/live/peter/peter/881.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE FUN SD
+http://142.44.137.22:8080/live/peter/peter/880.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PIPOCA FHD
+http://142.44.137.22:8080/live/peter/peter/879.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PIPOCA FULL HD
+http://142.44.137.22:8080/live/peter/peter/6332.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PIPOCA HD
+http://142.44.137.22:8080/live/peter/peter/788.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PIPOCA  SD
+http://142.44.137.22:8080/live/peter/peter/878.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PREMIUM FHD
+http://142.44.137.22:8080/live/peter/peter/877.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PREMIUM FULL HD
+http://142.44.137.22:8080/live/peter/peter/6328.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PREMIUM SD
+http://142.44.137.22:8080/live/peter/peter/787.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE PREMIUM  SD
+http://142.44.137.22:8080/live/peter/peter/876.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE TOUCH FULL HD
+http://142.44.137.22:8080/live/peter/peter/6333.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE TOUCH HD
+http://142.44.137.22:8080/live/peter/peter/875.ts
+#EXTINF:-1,group-title="Canais Premium 5",TELECINE TOUCH SD
+http://142.44.137.22:8080/live/peter/peter/874.ts
+#EXTINF:-1,group-title="Canais Premium 5",THE HISTORY CHANNEL HD
+http://142.44.137.22:8080/live/peter/peter/873.ts
+#EXTINF:-1,group-title="Canais Premium 5",TLC HD
+http://142.44.137.22:8080/live/peter/peter/872.ts
+#EXTINF:-1,group-title="Canais Premium 5",TLC SD
+http://142.44.137.22:8080/live/peter/peter/786.ts
+#EXTINF:-1,group-title="Canais Premium 5",TNT HD
+http://142.44.137.22:8080/live/peter/peter/871.ts
+#EXTINF:-1,group-title="Canais Premium 5",TNT  SD
+http://142.44.137.22:8080/live/peter/peter/870.ts
+#EXTINF:-1,group-title="Canais Premium 5",TNT SERIES HD
+http://142.44.137.22:8080/live/peter/peter/869.ts
+#EXTINF:-1,group-title="Canais Premium 5",TNT SERIES  SD
+http://142.44.137.22:8080/live/peter/peter/868.ts
+#EXTINF:-1,group-title="Canais Premium 5",TODO MUNDO ODEIA O CHRIS
+http://142.44.137.22:8080/live/peter/peter/867.ts
+#EXTINF:-1,group-title="Canais Premium 5",TOONCAST SD
+http://142.44.137.22:8080/live/peter/peter/866.ts
+#EXTINF:-1,group-title="Canais Premium 5",TRU TV SD
+http://142.44.137.22:8080/live/peter/peter/865.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV ANHANGUERA FULL HD
+http://142.44.137.22:8080/live/peter/peter/864.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV APARECIDA
+http://142.44.137.22:8080/live/peter/peter/863.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV BAHIA SD
+http://142.44.137.22:8080/live/peter/peter/862.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV CINE 1 HD
+http://142.44.137.22:8080/live/peter/peter/861.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV CINE 2 HD
+http://142.44.137.22:8080/live/peter/peter/860.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV CINE  3 HD
+http://142.44.137.22:8080/live/peter/peter/859.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV CINE 4 HD
+http://142.44.137.22:8080/live/peter/peter/858.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV CULTURA
+http://142.44.137.22:8080/live/peter/peter/857.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV CULTURA SD
+http://142.44.137.22:8080/live/peter/peter/781.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV GAZETA ES HD
+http://142.44.137.22:8080/live/peter/peter/856.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV GLOBO RIO DE JANEIRO SD
+http://142.44.137.22:8080/live/peter/peter/780.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV GLOBO SAO PAULO SD
+http://142.44.137.22:8080/live/peter/peter/779.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV LIBERAL BELEM SD
+http://142.44.137.22:8080/live/peter/peter/855.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV MIRAMAR SD
+http://142.44.137.22:8080/live/peter/peter/783.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV NOVO TEMPO SD
+http://142.44.137.22:8080/live/peter/peter/784.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV RA TIM BUM SD
+http://142.44.137.22:8080/live/peter/peter/854.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV TEM BAURU
+http://142.44.137.22:8080/live/peter/peter/853.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV TEM BAURU SD
+http://142.44.137.22:8080/live/peter/peter/778.ts
+#EXTINF:-1,group-title="Canais Premium 5",TV TEM SOROCABA SD
+http://142.44.137.22:8080/live/peter/peter/852.ts
+#EXTINF:-1,group-title="Canais Premium 5",UNIVERSAL CHANNEL HD
+http://142.44.137.22:8080/live/peter/peter/851.ts
+#EXTINF:-1,group-title="Canais Premium 5",UNIVERSAL CHANNEL  SD
+http://142.44.137.22:8080/live/peter/peter/777.ts
+#EXTINF:-1,group-title="Canais Premium 5",VENUS SD
+http://142.44.137.22:8080/live/peter/peter/850.ts
+#EXTINF:-1,group-title="Canais Premium 5",VH1 MEGA HITS SD
+http://142.44.137.22:8080/live/peter/peter/848.ts
+#EXTINF:-1,group-title="Canais Premium 5",VH1 MEGAHITS HD
+http://142.44.137.22:8080/live/peter/peter/849.ts
+#EXTINF:-1,group-title="Canais Premium 5",VIVA HD
+http://142.44.137.22:8080/live/peter/peter/847.ts
+#EXTINF:-1,group-title="Canais Premium 5",VIVA SD
+http://142.44.137.22:8080/live/peter/peter/775.ts
+#EXTINF:-1,group-title="Canais Premium 5",WARNER CHANNEL HD
+http://142.44.137.22:8080/live/peter/peter/846.ts
+#EXTINF:-1,group-title="Canais Premium 5",WARNER CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/776.ts
+#EXTINF:-1,group-title="Canais Premium 5",WOOHOO
+http://142.44.137.22:8080/live/peter/peter/774.ts
+#EXTINF:-1,group-title="Canais Premium 5",XXX HOT HD
+http://142.44.137.22:8080/live/peter/peter/844.ts
+#EXTINF:-1,group-title="Canais Premium 5",XXX PASSIE 2 HD
+http://142.44.137.22:8080/live/peter/peter/840.ts
+#EXTINF:-1,group-title="Canais Premium 5",XXX PASSIE HD
+http://142.44.137.22:8080/live/peter/peter/842.ts
+#EXTINF:-1,group-title="Canais Premium 5",XXX PENTHOUSE HD
+http://142.44.137.22:8080/live/peter/peter/839.ts
+#EXTINF:-1,group-title="Canais Premium 5",XXX SEXTREME SD
+http://142.44.137.22:8080/live/peter/peter/843.ts
+#EXTINF:-1,group-title="Canais Premium 5",XXX VENUS HD
+http://142.44.137.22:8080/live/peter/peter/838.ts
+#EXTINF:-1,group-title="Canais Premium 5",XxX HD
+http://142.44.137.22:8080/live/peter/peter/845.ts
+#EXTINF:-1,group-title="Canais Premium 5",XxX Sexx SD
+http://142.44.137.22:8080/live/peter/peter/841.ts
