@@ -1,5 +1,5 @@
-#EXTM3U_PLUS
-########### Canais premium 1.0 ##################
+#EXTM3U
+### Canais premium 1.0 ####
 
 #EXTINF:-1,group-title="Canais Premium 1",A&E HD
 http://maxptv.ddns.net:25461/live/ultra100/100ultra/231.ts
@@ -235,8 +235,7 @@ http://maxptv.ddns.net:25461/live/ultra100/100ultra/4.ts
 http://maxptv.ddns.net:25461/live/ultra100/100ultra/2.ts
 
 
-########## Canais premium 2.0 ##########################
-
+### Canais premium 2.0 ###
 
 #EXTINF:-1,group-title="Canais Premium 2",Super Tabela Jogos Premiere
 http://149.56.98.189:25461/live/mike/mike/1290.ts
@@ -1420,8 +1419,8 @@ http://149.56.98.189:25461/live/mike/mike/1962.ts
 http://149.56.98.189:25461/live/mike/mike/1927.ts
 #EXTINF:-1,group-title="Canais Premium 2",TV Cult FULLHD 1080
 http://149.56.98.189:25461/live/mike/mike/1926.ts
-############### Canais premium 3.0 ###############
 
+### Canais premium 3.0 ###
 #EXTINF:-1, group-title="Canais Premium 3",A&E HD
 http://142.44.137.22:8080/live/erica/erica/1063.ts
 #EXTINF:-1, group-title="Canais Premium 3",A&E SD
