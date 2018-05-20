@@ -1285,643 +1285,661 @@ http://lista.digitalgroup.me:80/live/jerry/jerry/18089.ts
 
 ### Canais premium 4.0 ###
 
-#EXTINF:-1,group-title="Canais Premium 4",A&E
-http://lista.digitalgroup.me:80/live/fat/fat/1120.ts
 #EXTINF:-1,group-title="Canais Premium 4",A&E HD
-http://lista.digitalgroup.me:80/live/fat/fat/5078.ts
-#EXTINF:-1,group-title="Canais Premium 4",AGRO CANAL
-http://lista.digitalgroup.me:80/live/fat/fat/2389.ts
-#EXTINF:-1,group-title="Canais Premium 4",ALL SPORTS TV
-http://lista.digitalgroup.me:80/live/fat/fat/2393.ts
-#EXTINF:-1,group-title="Canais Premium 4",AMC
-http://lista.digitalgroup.me:80/live/fat/fat/9609.ts
+http://142.44.137.22:8080/live/peter/peter/1063.ts
+#EXTINF:-1,group-title="Canais Premium 4",A&E SD
+http://142.44.137.22:8080/live/peter/peter/833.ts
 #EXTINF:-1,group-title="Canais Premium 4",AMC HD
-http://lista.digitalgroup.me:80/live/fat/fat/15406.ts
-#EXTINF:-1,group-title="Canais Premium 4",ANIMAL PLANET
-http://lista.digitalgroup.me:80/live/fat/fat/1719.ts
+http://142.44.137.22:8080/live/peter/peter/1062.ts
+#EXTINF:-1,group-title="Canais Premium 4",AMC SD
+http://142.44.137.22:8080/live/peter/peter/1061.ts
 #EXTINF:-1,group-title="Canais Premium 4",ANIMAL PLANET HD
-http://lista.digitalgroup.me:80/live/fat/fat/1117.ts
-#EXTINF:-1,group-title="Canais Premium 4",APARECIDA
-http://lista.digitalgroup.me:80/live/fat/fat/916.ts
-#EXTINF:-1,group-title="Canais Premium 4",ARTE 1
-http://lista.digitalgroup.me:80/live/fat/fat/1218.ts
-#EXTINF:-1,group-title="Canais Premium 4",AXN
-http://lista.digitalgroup.me:80/live/fat/fat/1712.ts
-#EXTINF:-1,group-title="Canais Premium 4",AXN FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5033.ts
+http://142.44.137.22:8080/live/peter/peter/1060.ts
+#EXTINF:-1,group-title="Canais Premium 4",ANIMAL PLANET SD
+http://142.44.137.22:8080/live/peter/peter/832.ts
 #EXTINF:-1,group-title="Canais Premium 4",AXN HD
-http://lista.digitalgroup.me:80/live/fat/fat/1114.ts
-#EXTINF:-1,group-title="Canais Premium 4",BABY TV
-http://lista.digitalgroup.me:80/live/fat/fat/11970.ts
-#EXTINF:-1,group-title="Canais Premium 4",BAND
-http://lista.digitalgroup.me:80/live/fat/fat/1713.ts
+http://142.44.137.22:8080/live/peter/peter/1059.ts
+#EXTINF:-1,group-title="Canais Premium 4",AXN SD
+http://142.44.137.22:8080/live/peter/peter/831.ts
+#EXTINF:-1,group-title="Canais Premium 4",BABY TV SD
+http://142.44.137.22:8080/live/peter/peter/1058.ts
 #EXTINF:-1,group-title="Canais Premium 4",BAND HD
-http://lista.digitalgroup.me:80/live/fat/fat/1108.ts
-#EXTINF:-1,group-title="Canais Premium 4",BAND NEWS
-http://lista.digitalgroup.me:80/live/fat/fat/1107.ts
-#EXTINF:-1,group-title="Canais Premium 4",BAND NEWS FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18028.ts
-#EXTINF:-1,group-title="Canais Premium 4",BAND NEWS HD
-http://lista.digitalgroup.me:80/live/fat/fat/17951.ts
-#EXTINF:-1,group-title="Canais Premium 4",BAND SPORTS
-http://lista.digitalgroup.me:80/live/fat/fat/1106.ts
-#EXTINF:-1,group-title="Canais Premium 4",BAND SPORTS FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5034.ts
+http://142.44.137.22:8080/live/peter/peter/1057.ts
+#EXTINF:-1,group-title="Canais Premium 4",BAND NEWS SD
+http://142.44.137.22:8080/live/peter/peter/1056.ts
+#EXTINF:-1,group-title="Canais Premium 4",BAND PARA SD
+http://142.44.137.22:8080/live/peter/peter/829.ts
+#EXTINF:-1,group-title="Canais Premium 4",BAND SD
+http://142.44.137.22:8080/live/peter/peter/830.ts
+#EXTINF:-1,group-title="Canais Premium 4",BAND  SD
+http://142.44.137.22:8080/live/peter/peter/1055.ts
 #EXTINF:-1,group-title="Canais Premium 4",BAND SPORTS HD
-http://lista.digitalgroup.me:80/live/fat/fat/2407.ts
-#EXTINF:-1,group-title="Canais Premium 4",BIS
-http://lista.digitalgroup.me:80/live/fat/fat/2408.ts
+http://142.44.137.22:8080/live/peter/peter/1054.ts
+#EXTINF:-1,group-title="Canais Premium 4",BAND SPORTS SD
+http://142.44.137.22:8080/live/peter/peter/1053.ts
+#EXTINF:-1,group-title="Canais Premium 4",BEN 10 24HRS
+http://142.44.137.22:8080/live/peter/peter/1050.ts
 #EXTINF:-1,group-title="Canais Premium 4",BIS HD
-http://lista.digitalgroup.me:80/live/fat/fat/1104.ts
-#EXTINF:-1,group-title="Canais Premium 4",BOA VONTADE TV
-http://lista.digitalgroup.me:80/live/fat/fat/18030.ts
-#EXTINF:-1,group-title="Canais Premium 4",BOOMERANG
-http://lista.digitalgroup.me:80/live/fat/fat/1102.ts
-#EXTINF:-1,group-title="Canais Premium 4",CANAL BRASIL
-http://lista.digitalgroup.me:80/live/fat/fat/1098.ts
+http://142.44.137.22:8080/live/peter/peter/1049.ts
+#EXTINF:-1,group-title="Canais Premium 4",BIS SD
+http://142.44.137.22:8080/live/peter/peter/828.ts
+#EXTINF:-1,group-title="Canais Premium 4",BOB ESPONJA
+http://142.44.137.22:8080/live/peter/peter/1048.ts
+#EXTINF:-1,group-title="Canais Premium 4",BOOMERANG SD
+http://142.44.137.22:8080/live/peter/peter/1047.ts
 #EXTINF:-1,group-title="Canais Premium 4",CANAL BRASIL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5079.ts
-#EXTINF:-1,group-title="Canais Premium 4",CANAL DO BOI
-http://lista.digitalgroup.me:80/live/fat/fat/2382.ts
-#EXTINF:-1,group-title="Canais Premium 4",CANAL RURAL
-http://lista.digitalgroup.me:80/live/fat/fat/2482.ts
+http://142.44.137.22:8080/live/peter/peter/1046.ts
+#EXTINF:-1,group-title="Canais Premium 4",CANAL BRASIL SD
+http://142.44.137.22:8080/live/peter/peter/1045.ts
+#EXTINF:-1,group-title="Canais Premium 4",CANAL DO BOI SD
+http://142.44.137.22:8080/live/peter/peter/798.ts
+#EXTINF:-1,group-title="Canais Premium 4",CANAL FUTEBOL
+http://142.44.137.22:8080/live/peter/peter/1044.ts
+#EXTINF:-1,group-title="Canais Premium 4",CANAL RURAL SD
+http://142.44.137.22:8080/live/peter/peter/827.ts
+#EXTINF:-1,group-title="Canais Premium 4",CANAL SONY HD
+http://142.44.137.22:8080/live/peter/peter/1043.ts
+#EXTINF:-1,group-title="Canais Premium 4",CANAL SONY SD
+http://142.44.137.22:8080/live/peter/peter/826.ts
 #EXTINF:-1,group-title="Canais Premium 4",CANCAO NOVA
-http://lista.digitalgroup.me:80/live/fat/fat/1220.ts
-#EXTINF:-1,group-title="Canais Premium 4",CARTOON NETWORK
-http://lista.digitalgroup.me:80/live/fat/fat/1095.ts
+http://142.44.137.22:8080/live/peter/peter/1042.ts
 #EXTINF:-1,group-title="Canais Premium 4",CARTOON NETWORK HD
-http://lista.digitalgroup.me:80/live/fat/fat/2479.ts
-#EXTINF:-1,group-title="Canais Premium 4",CINEMAX
-http://lista.digitalgroup.me:80/live/fat/fat/2483.ts
+http://142.44.137.22:8080/live/peter/peter/1041.ts
+#EXTINF:-1,group-title="Canais Premium 4",CARTOON NETWORK  RETRO SD
+http://142.44.137.22:8080/live/peter/peter/1040.ts
+#EXTINF:-1,group-title="Canais Premium 4",CARTOON NETWORK SD
+http://142.44.137.22:8080/live/peter/peter/825.ts
+#EXTINF:-1,group-title="Canais Premium 4",CAVALEIROS ZODIACO 24HRS
+http://142.44.137.22:8080/live/peter/peter/1039.ts
+#EXTINF:-1,group-title="Canais Premium 4",CHAVES
+http://142.44.137.22:8080/live/peter/peter/835.ts
+#EXTINF:-1,group-title="Canais Premium 4",CHAVES DESENHO
+http://142.44.137.22:8080/live/peter/peter/834.ts
 #EXTINF:-1,group-title="Canais Premium 4",CINEMAX HD
-http://lista.digitalgroup.me:80/live/fat/fat/5080.ts
-#EXTINF:-1,group-title="Canais Premium 4",CNN ESPANHOL
-http://lista.digitalgroup.me:80/live/fat/fat/18033.ts
-#EXTINF:-1,group-title="Canais Premium 4",CNN INTERNACIONAL
-http://lista.digitalgroup.me:80/live/fat/fat/18029.ts
-#EXTINF:-1,group-title="Canais Premium 4",CNT
-http://lista.digitalgroup.me:80/live/fat/fat/18031.ts
-#EXTINF:-1,group-title="Canais Premium 4",COMBATE
-http://lista.digitalgroup.me:80/live/fat/fat/1089.ts
+http://142.44.137.22:8080/live/peter/peter/1038.ts
+#EXTINF:-1,group-title="Canais Premium 4",CINEMAX SD
+http://142.44.137.22:8080/live/peter/peter/1037.ts
+#EXTINF:-1,group-title="Canais Premium 4",CNN INTERNACIONAL SD
+http://142.44.137.22:8080/live/peter/peter/1036.ts
+#EXTINF:-1,group-title="Canais Premium 4",COMBATE FHD
+http://142.44.137.22:8080/live/peter/peter/1035.ts
 #EXTINF:-1,group-title="Canais Premium 4",COMBATE FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18019.ts
+http://142.44.137.22:8080/live/peter/peter/6321.ts
 #EXTINF:-1,group-title="Canais Premium 4",COMBATE HD
-http://lista.digitalgroup.me:80/live/fat/fat/1088.ts
-#EXTINF:-1,group-title="Canais Premium 4",COMEDY CENTRAL
-http://lista.digitalgroup.me:80/live/fat/fat/2484.ts
+http://142.44.137.22:8080/live/peter/peter/1034.ts
+#EXTINF:-1,group-title="Canais Premium 4",COMBATE SD
+http://142.44.137.22:8080/live/peter/peter/1033.ts
 #EXTINF:-1,group-title="Canais Premium 4",COMEDY CENTRAL HD
-http://lista.digitalgroup.me:80/live/fat/fat/16004.ts
-#EXTINF:-1,group-title="Canais Premium 4",CULTURA
-http://lista.digitalgroup.me:80/live/fat/fat/2505.ts
-#EXTINF:-1,group-title="Canais Premium 4",CURTA
-http://lista.digitalgroup.me:80/live/fat/fat/2485.ts
-#EXTINF:-1,group-title="Canais Premium 4",DEUTSCH+
-http://lista.digitalgroup.me:80/live/fat/fat/18034.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY CHANNEL
-http://lista.digitalgroup.me:80/live/fat/fat/1084.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY CHANNEL FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5035.ts
+http://142.44.137.22:8080/live/peter/peter/1032.ts
+#EXTINF:-1,group-title="Canais Premium 4",COMEDY CENTRAL SD
+http://142.44.137.22:8080/live/peter/peter/1031.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY CHANNEL HD
-http://lista.digitalgroup.me:80/live/fat/fat/2410.ts
+http://142.44.137.22:8080/live/peter/peter/1030.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/824.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY CIVILIZATION FULL HD
+http://142.44.137.22:8080/live/peter/peter/6335.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY CIVILIZATION HD
-http://lista.digitalgroup.me:80/live/fat/fat/16005.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY HOME & HEALTH
-http://lista.digitalgroup.me:80/live/fat/fat/2399.ts
+http://142.44.137.22:8080/live/peter/peter/1029.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY HOME & HEALTH HD
-http://lista.digitalgroup.me:80/live/fat/fat/1082.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY KIDS
-http://lista.digitalgroup.me:80/live/fat/fat/1080.ts
+http://142.44.137.22:8080/live/peter/peter/1028.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY HOME & HEALTH SD
+http://142.44.137.22:8080/live/peter/peter/823.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY KIDS HD
-http://lista.digitalgroup.me:80/live/fat/fat/5081.ts
+http://142.44.137.22:8080/live/peter/peter/1027.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY KIDS SD
+http://142.44.137.22:8080/live/peter/peter/1026.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY SCIENCE FULL HD
+http://142.44.137.22:8080/live/peter/peter/6336.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY SCIENCE HD
-http://lista.digitalgroup.me:80/live/fat/fat/16006.ts
+http://142.44.137.22:8080/live/peter/peter/1025.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY THEATER HD
-http://lista.digitalgroup.me:80/live/fat/fat/2460.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY TURBO
-http://lista.digitalgroup.me:80/live/fat/fat/1072.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY TURBO FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5038.ts
+http://142.44.137.22:8080/live/peter/peter/1024.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY THEATER SD
+http://142.44.137.22:8080/live/peter/peter/822.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISCOVERY TURBO HD
-http://lista.digitalgroup.me:80/live/fat/fat/2411.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY WORLD HD
-http://lista.digitalgroup.me:80/live/fat/fat/2461.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISNEY CHANNEL
-http://lista.digitalgroup.me:80/live/fat/fat/1071.ts
+http://142.44.137.22:8080/live/peter/peter/1023.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY TURBO SD
+http://142.44.137.22:8080/live/peter/peter/821.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISCOVERY WORLD  HD
+http://142.44.137.22:8080/live/peter/peter/1022.ts
 #EXTINF:-1,group-title="Canais Premium 4",DISNEY CHANNEL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5082.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISNEY JR
-http://lista.digitalgroup.me:80/live/fat/fat/1068.ts
-#EXTINF:-1,group-title="Canais Premium 4",DISNEY XD
-http://lista.digitalgroup.me:80/live/fat/fat/1065.ts
-#EXTINF:-1,group-title="Canais Premium 4",E!
-http://lista.digitalgroup.me:80/live/fat/fat/1063.ts
+http://142.44.137.22:8080/live/peter/peter/1021.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISNEY JUNIOR SD
+http://142.44.137.22:8080/live/peter/peter/1020.ts
+#EXTINF:-1,group-title="Canais Premium 4",DISNEY XD SD
+http://142.44.137.22:8080/live/peter/peter/1019.ts
+#EXTINF:-1,group-title="Canais Premium 4",DRAGON BALL
+http://142.44.137.22:8080/live/peter/peter/1018.ts
+#EXTINF:-1,group-title="Canais Premium 4",DRAGON BALL SUPER
+http://142.44.137.22:8080/live/peter/peter/1017.ts
+#EXTINF:-1,group-title="Canais Premium 4",Dois Homens e Meio
+http://142.44.137.22:8080/live/peter/peter/1016.ts
 #EXTINF:-1,group-title="Canais Premium 4",E! HD
-http://lista.digitalgroup.me:80/live/fat/fat/5083.ts
+http://142.44.137.22:8080/live/peter/peter/1015.ts
+#EXTINF:-1,group-title="Canais Premium 4",E! SD
+http://142.44.137.22:8080/live/peter/peter/1014.ts
+#EXTINF:-1,group-title="Canais Premium 4",EI MAXX 2 HD
+http://142.44.137.22:8080/live/peter/peter/1013.ts
+#EXTINF:-1,group-title="Canais Premium 4",EI MAXX 2 SD
+http://142.44.137.22:8080/live/peter/peter/1012.ts
+#EXTINF:-1,group-title="Canais Premium 4",EI MAXX HD
+http://142.44.137.22:8080/live/peter/peter/1011.ts
+#EXTINF:-1,group-title="Canais Premium 4",EI MAXX SD
+http://142.44.137.22:8080/live/peter/peter/1010.ts
+#EXTINF:-1,group-title="Canais Premium 4",EPTV CAMPINAS HD
+http://142.44.137.22:8080/live/peter/peter/1009.ts
 #EXTINF:-1,group-title="Canais Premium 4",ESPN
-http://lista.digitalgroup.me:80/live/fat/fat/1718.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPN BRASIL
-http://lista.digitalgroup.me:80/live/fat/fat/1060.ts
+http://142.44.137.22:8080/live/peter/peter/5288.ts
 #EXTINF:-1,group-title="Canais Premium 4",ESPN BRASIL HD
-http://lista.digitalgroup.me:80/live/fat/fat/2387.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPN HD
-http://lista.digitalgroup.me:80/live/fat/fat/1129.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPN+
-http://lista.digitalgroup.me:80/live/fat/fat/2395.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPN+ HD
-http://lista.digitalgroup.me:80/live/fat/fat/2394.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPORTE INTERATIVO
-http://lista.digitalgroup.me:80/live/fat/fat/2397.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPORTE INTERATIVO 2
-http://lista.digitalgroup.me:80/live/fat/fat/11988.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPORTE INTERATIVO 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/14786.ts
-#EXTINF:-1,group-title="Canais Premium 4",ESPORTE INTERATIVO HD
-http://lista.digitalgroup.me:80/live/fat/fat/2396.ts
-#EXTINF:-1,group-title="Canais Premium 4",FISH TV
-http://lista.digitalgroup.me:80/live/fat/fat/1050.ts
-#EXTINF:-1,group-title="Canais Premium 4",FOOD NETWORK
-http://lista.digitalgroup.me:80/live/fat/fat/1049.ts
+http://142.44.137.22:8080/live/peter/peter/1007.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN BRASIL SD
+http://142.44.137.22:8080/live/peter/peter/1006.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN Brasil
+http://142.44.137.22:8080/live/peter/peter/5287.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN FHD
+http://142.44.137.22:8080/live/peter/peter/1005.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN   HD
+http://142.44.137.22:8080/live/peter/peter/1008.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN   SD
+http://142.44.137.22:8080/live/peter/peter/820.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPN SD ALTERNATIVO
+http://142.44.137.22:8080/live/peter/peter/819.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPORTE INTERATIVO 2 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6323.ts
+#EXTINF:-1,group-title="Canais Premium 4",ESPORTE INTERATIVO FULL HD
+http://142.44.137.22:8080/live/peter/peter/6322.ts
+#EXTINF:-1,group-title="Canais Premium 4",EUROSPORT
+http://142.44.137.22:8080/live/peter/peter/1004.ts
+#EXTINF:-1,group-title="Canais Premium 4",Esporte Interativo
+http://142.44.137.22:8080/live/peter/peter/5286.ts
+#EXTINF:-1,group-title="Canais Premium 4",FISH TV SD
+http://142.44.137.22:8080/live/peter/peter/1003.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOOD NETWORK HD
-http://lista.digitalgroup.me:80/live/fat/fat/5084.ts
-#EXTINF:-1,group-title="Canais Premium 4",FOX
-http://lista.digitalgroup.me:80/live/fat/fat/1329.ts
+http://142.44.137.22:8080/live/peter/peter/1002.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOOD NETWORK SD
+http://142.44.137.22:8080/live/peter/peter/818.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18020.ts
+http://142.44.137.22:8080/live/peter/peter/6324.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX HD
-http://lista.digitalgroup.me:80/live/fat/fat/1047.ts
-#EXTINF:-1,group-title="Canais Premium 4",FOX LIFE
-http://lista.digitalgroup.me:80/live/fat/fat/1038.ts
+http://142.44.137.22:8080/live/peter/peter/1001.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX LIFE HD
-http://lista.digitalgroup.me:80/live/fat/fat/1037.ts
+http://142.44.137.22:8080/live/peter/peter/1000.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX LIFE  SD
+http://142.44.137.22:8080/live/peter/peter/816.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX PREMIUM 1 HD
-http://lista.digitalgroup.me:80/live/fat/fat/2464.ts
+http://142.44.137.22:8080/live/peter/peter/999.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX PREMIUM 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/2465.ts
-#EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS
-http://lista.digitalgroup.me:80/live/fat/fat/2391.ts
-#EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS 2
-http://lista.digitalgroup.me:80/live/fat/fat/1717.ts
+http://142.44.137.22:8080/live/peter/peter/998.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX SD
+http://142.44.137.22:8080/live/peter/peter/817.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX  SD
+http://142.44.137.22:8080/live/peter/peter/997.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS 2 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6320.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1031.ts
+http://142.44.137.22:8080/live/peter/peter/996.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS 2 SD
+http://142.44.137.22:8080/live/peter/peter/995.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18021.ts
+http://142.44.137.22:8080/live/peter/peter/6319.ts
 #EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS HD
-http://lista.digitalgroup.me:80/live/fat/fat/1033.ts
+http://142.44.137.22:8080/live/peter/peter/994.ts
+#EXTINF:-1,group-title="Canais Premium 4",FOX SPORTS SD
+http://142.44.137.22:8080/live/peter/peter/993.ts
 #EXTINF:-1,group-title="Canais Premium 4",FUTURA
-http://lista.digitalgroup.me:80/live/fat/fat/1029.ts
-#EXTINF:-1,group-title="Canais Premium 4",FX
-http://lista.digitalgroup.me:80/live/fat/fat/1028.ts
+http://142.44.137.22:8080/live/peter/peter/992.ts
 #EXTINF:-1,group-title="Canais Premium 4",FX HD
-http://lista.digitalgroup.me:80/live/fat/fat/2386.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO BAHIA
-http://lista.digitalgroup.me:80/live/fat/fat/19420.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO BRASILIA
-http://lista.digitalgroup.me:80/live/fat/fat/2512.ts
+http://142.44.137.22:8080/live/peter/peter/991.ts
+#EXTINF:-1,group-title="Canais Premium 4",FX SD
+http://142.44.137.22:8080/live/peter/peter/990.ts
+#EXTINF:-1,group-title="Canais Premium 4",GALINHA PINTADINHA 24 HORAS
+http://142.44.137.22:8080/live/peter/peter/6313.ts
+#EXTINF:-1,group-title="Canais Premium 4",GAZETA SP HD
+http://142.44.137.22:8080/live/peter/peter/989.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO BRASILIA HD
-http://lista.digitalgroup.me:80/live/fat/fat/17121.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO EPTV CAMPINAS
-http://lista.digitalgroup.me:80/live/fat/fat/17962.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO EPTV RIBEIRAO PRETO
-http://lista.digitalgroup.me:80/live/fat/fat/17852.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO EPTV RIBEIRAO PRETO HD
-http://lista.digitalgroup.me:80/live/fat/fat/17853.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO EPTV SAO CARLOS
-http://lista.digitalgroup.me:80/live/fat/fat/18035.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO INTER TV CABUGI
-http://lista.digitalgroup.me:80/live/fat/fat/16209.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO MG
-http://lista.digitalgroup.me:80/live/fat/fat/2412.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO MG HD
-http://lista.digitalgroup.me:80/live/fat/fat/17129.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO NEWS
-http://lista.digitalgroup.me:80/live/fat/fat/1027.ts
+http://142.44.137.22:8080/live/peter/peter/988.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO BRASILIA SD
+http://142.44.137.22:8080/live/peter/peter/987.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO INTERNACIONAL FULL HD
+http://142.44.137.22:8080/live/peter/peter/986.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO INTERNACIONAL  SD
+http://142.44.137.22:8080/live/peter/peter/985.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO MINAS HD
+http://142.44.137.22:8080/live/peter/peter/984.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO NEWS FULL HD
+http://142.44.137.22:8080/live/peter/peter/6327.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO NEWS HD
-http://lista.digitalgroup.me:80/live/fat/fat/5085.ts
+http://142.44.137.22:8080/live/peter/peter/983.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO NEWS SD
+http://142.44.137.22:8080/live/peter/peter/815.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO NORDESTE
-http://lista.digitalgroup.me:80/live/fat/fat/15405.ts
+http://142.44.137.22:8080/live/peter/peter/811.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO NORDESTE HD
-http://lista.digitalgroup.me:80/live/fat/fat/17130.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO RBS TV PORTO ALEGRE
-http://lista.digitalgroup.me:80/live/fat/fat/968.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO REDE AMAZONICA
-http://lista.digitalgroup.me:80/live/fat/fat/9580.ts
+http://142.44.137.22:8080/live/peter/peter/982.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO NORDESTE SD ALT
+http://142.44.137.22:8080/live/peter/peter/782.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO PARANA  HD
+http://142.44.137.22:8080/live/peter/peter/981.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO PORTO ALEGRE
+http://142.44.137.22:8080/live/peter/peter/5289.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO PORTUGAL SD
+http://142.44.137.22:8080/live/peter/peter/980.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO RJ
-http://lista.digitalgroup.me:80/live/fat/fat/2508.ts
+http://142.44.137.22:8080/live/peter/peter/5293.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO RJ HD
-http://lista.digitalgroup.me:80/live/fat/fat/1207.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO RPC CURITIBA
-http://lista.digitalgroup.me:80/live/fat/fat/18032.ts
+http://142.44.137.22:8080/live/peter/peter/979.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO RJ SD
+http://142.44.137.22:8080/live/peter/peter/978.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO RPC
+http://142.44.137.22:8080/live/peter/peter/5291.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO SP
-http://lista.digitalgroup.me:80/live/fat/fat/1024.ts
+http://142.44.137.22:8080/live/peter/peter/5292.ts
 #EXTINF:-1,group-title="Canais Premium 4",GLOBO SP HD
-http://lista.digitalgroup.me:80/live/fat/fat/17122.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV ANHANGUERA
-http://lista.digitalgroup.me:80/live/fat/fat/2511.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV ANHANGUERA HD
-http://lista.digitalgroup.me:80/live/fat/fat/17967.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV CENTRO AMERICA
-http://lista.digitalgroup.me:80/live/fat/fat/18036.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV LIBERAL BELEM
-http://lista.digitalgroup.me:80/live/fat/fat/16217.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV TEM SAO JOSE DO RIO PRETO
-http://lista.digitalgroup.me:80/live/fat/fat/18038.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS
-http://lista.digitalgroup.me:80/live/fat/fat/18039.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOBO TV VERDES MARES
-http://lista.digitalgroup.me:80/live/fat/fat/9583.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOOB
-http://lista.digitalgroup.me:80/live/fat/fat/1023.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOOB HD
-http://lista.digitalgroup.me:80/live/fat/fat/5086.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOOBINHO
-http://lista.digitalgroup.me:80/live/fat/fat/17135.ts
-#EXTINF:-1,group-title="Canais Premium 4",GLOOBINHO HD
-http://lista.digitalgroup.me:80/live/fat/fat/17136.ts
-#EXTINF:-1,group-title="Canais Premium 4",GNT
-http://lista.digitalgroup.me:80/live/fat/fat/1022.ts
+http://142.44.137.22:8080/live/peter/peter/977.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBO SP SD
+http://142.44.137.22:8080/live/peter/peter/976.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBOSAT HD
+http://142.44.137.22:8080/live/peter/peter/975.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOBOSAT SD
+http://142.44.137.22:8080/live/peter/peter/813.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOOB  HD
+http://142.44.137.22:8080/live/peter/peter/974.ts
+#EXTINF:-1,group-title="Canais Premium 4",GLOOB  SD
+http://142.44.137.22:8080/live/peter/peter/812.ts
 #EXTINF:-1,group-title="Canais Premium 4",GNT HD
-http://lista.digitalgroup.me:80/live/fat/fat/2466.ts
-#EXTINF:-1,group-title="Canais Premium 4",H2
-http://lista.digitalgroup.me:80/live/fat/fat/2486.ts
-#EXTINF:-1,group-title="Canais Premium 4",H2 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5056.ts
+http://142.44.137.22:8080/live/peter/peter/973.ts
+#EXTINF:-1,group-title="Canais Premium 4",GNT SD
+http://142.44.137.22:8080/live/peter/peter/814.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo Brasilia
+http://142.44.137.22:8080/live/peter/peter/5294.ts
+#EXTINF:-1,group-title="Canais Premium 4",Globo EPTV Campinas
+http://142.44.137.22:8080/live/peter/peter/5290.ts
+#EXTINF:-1,group-title="Canais Premium 4",Gr6 Explode FM
+http://142.44.137.22:8080/live/peter/peter/6032.ts
+#EXTINF:-1,group-title="Canais Premium 4",H 2 SD
+http://142.44.137.22:8080/live/peter/peter/810.ts
 #EXTINF:-1,group-title="Canais Premium 4",H2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1021.ts
-#EXTINF:-1,group-title="Canais Premium 4",HBO
-http://lista.digitalgroup.me:80/live/fat/fat/1020.ts
-#EXTINF:-1,group-title="Canais Premium 4",HBO 2
-http://lista.digitalgroup.me:80/live/fat/fat/2489.ts
+http://142.44.137.22:8080/live/peter/peter/972.ts
 #EXTINF:-1,group-title="Canais Premium 4",HBO 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1017.ts
-#EXTINF:-1,group-title="Canais Premium 4",HBO FAMILY
-http://lista.digitalgroup.me:80/live/fat/fat/1016.ts
+http://142.44.137.22:8080/live/peter/peter/971.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO 2 SD
+http://142.44.137.22:8080/live/peter/peter/970.ts
 #EXTINF:-1,group-title="Canais Premium 4",HBO FAMILY HD
-http://lista.digitalgroup.me:80/live/fat/fat/2392.ts
+http://142.44.137.22:8080/live/peter/peter/969.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO FAMILY  SD
+http://142.44.137.22:8080/live/peter/peter/809.ts
 #EXTINF:-1,group-title="Canais Premium 4",HBO HD
-http://lista.digitalgroup.me:80/live/fat/fat/1209.ts
-#EXTINF:-1,group-title="Canais Premium 4",HBO PLUS
-http://lista.digitalgroup.me:80/live/fat/fat/1014.ts
-#EXTINF:-1,group-title="Canais Premium 4",HBO PLUS E
-http://lista.digitalgroup.me:80/live/fat/fat/2487.ts
+http://142.44.137.22:8080/live/peter/peter/968.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO PLUS E SD
+http://142.44.137.22:8080/live/peter/peter/967.ts
 #EXTINF:-1,group-title="Canais Premium 4",HBO PLUS HD
-http://lista.digitalgroup.me:80/live/fat/fat/2467.ts
-#EXTINF:-1,group-title="Canais Premium 4",HBO SIGNATURE
-http://lista.digitalgroup.me:80/live/fat/fat/2488.ts
+http://142.44.137.22:8080/live/peter/peter/966.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO PLUS PANREGIONAL SD
+http://142.44.137.22:8080/live/peter/peter/965.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO PLUS SD
+http://142.44.137.22:8080/live/peter/peter/964.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO PLUS  SD
+http://142.44.137.22:8080/live/peter/peter/808.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO SD
+http://142.44.137.22:8080/live/peter/peter/963.ts
 #EXTINF:-1,group-title="Canais Premium 4",HBO SIGNATURE HD
-http://lista.digitalgroup.me:80/live/fat/fat/1013.ts
-#EXTINF:-1,group-title="Canais Premium 4",HIT TV
-http://lista.digitalgroup.me:80/live/fat/fat/17790.ts
-#EXTINF:-1,group-title="Canais Premium 4",HIT TV HD
-http://lista.digitalgroup.me:80/live/fat/fat/17792.ts
-#EXTINF:-1,group-title="Canais Premium 4",I-SAT
-http://lista.digitalgroup.me:80/live/fat/fat/2490.ts
-#EXTINF:-1,group-title="Canais Premium 4",IDEAL TV
-http://lista.digitalgroup.me:80/live/fat/fat/2491.ts
-#EXTINF:-1,group-title="Canais Premium 4",INVESTIGACAO DISCOVERY
-http://lista.digitalgroup.me:80/live/fat/fat/1011.ts
-#EXTINF:-1,group-title="Canais Premium 4",INVESTIGACAO DISCOVERY HD
-http://lista.digitalgroup.me:80/live/fat/fat/2469.ts
-#EXTINF:-1,group-title="Canais Premium 4",LIFETIME
-http://lista.digitalgroup.me:80/live/fat/fat/2492.ts
+http://142.44.137.22:8080/live/peter/peter/962.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO SIGNATURE SD
+http://142.44.137.22:8080/live/peter/peter/961.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO SIGNATURE  SD
+http://142.44.137.22:8080/live/peter/peter/807.ts
+#EXTINF:-1,group-title="Canais Premium 4",HBO2  SD
+http://142.44.137.22:8080/live/peter/peter/806.ts
+#EXTINF:-1,group-title="Canais Premium 4",HISTORY CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/960.ts
+#EXTINF:-1,group-title="Canais Premium 4",HISTORY FULL HD
+http://142.44.137.22:8080/live/peter/peter/6325.ts
+#EXTINF:-1,group-title="Canais Premium 4",I-SAT SD
+http://142.44.137.22:8080/live/peter/peter/959.ts
+#EXTINF:-1,group-title="Canais Premium 4",INVESTIGATION DISCOVERY HD
+http://142.44.137.22:8080/live/peter/peter/958.ts
+#EXTINF:-1,group-title="Canais Premium 4",INVESTIGATION DISCOVERY SD
+http://142.44.137.22:8080/live/peter/peter/805.ts
 #EXTINF:-1,group-title="Canais Premium 4",LIFETIME HD
-http://lista.digitalgroup.me:80/live/fat/fat/5087.ts
-#EXTINF:-1,group-title="Canais Premium 4",MAIS GLOBOSAT
-http://lista.digitalgroup.me:80/live/fat/fat/1008.ts
-#EXTINF:-1,group-title="Canais Premium 4",MAIS GLOBOSAT HD
-http://lista.digitalgroup.me:80/live/fat/fat/5088.ts
-#EXTINF:-1,group-title="Canais Premium 4",MAX
-http://lista.digitalgroup.me:80/live/fat/fat/1007.ts
+http://142.44.137.22:8080/live/peter/peter/957.ts
 #EXTINF:-1,group-title="Canais Premium 4",MAX HD
-http://lista.digitalgroup.me:80/live/fat/fat/5089.ts
-#EXTINF:-1,group-title="Canais Premium 4",MAX PRIME
-http://lista.digitalgroup.me:80/live/fat/fat/1006.ts
-#EXTINF:-1,group-title="Canais Premium 4",MAX PRIME E
-http://lista.digitalgroup.me:80/live/fat/fat/2493.ts
+http://142.44.137.22:8080/live/peter/peter/956.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX PRIME E SD
+http://142.44.137.22:8080/live/peter/peter/955.ts
 #EXTINF:-1,group-title="Canais Premium 4",MAX PRIME HD
-http://lista.digitalgroup.me:80/live/fat/fat/5090.ts
-#EXTINF:-1,group-title="Canais Premium 4",MAX UP
-http://lista.digitalgroup.me:80/live/fat/fat/1005.ts
+http://142.44.137.22:8080/live/peter/peter/954.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX PRIME SD
+http://142.44.137.22:8080/live/peter/peter/803.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX SD
+http://142.44.137.22:8080/live/peter/peter/802.ts
 #EXTINF:-1,group-title="Canais Premium 4",MAX UP HD
-http://lista.digitalgroup.me:80/live/fat/fat/5091.ts
-#EXTINF:-1,group-title="Canais Premium 4",MEGAPIX
-http://lista.digitalgroup.me:80/live/fat/fat/1004.ts
+http://142.44.137.22:8080/live/peter/peter/953.ts
+#EXTINF:-1,group-title="Canais Premium 4",MAX UP SD
+http://142.44.137.22:8080/live/peter/peter/801.ts
+#EXTINF:-1,group-title="Canais Premium 4",MEGAPIX FULL HD
+http://142.44.137.22:8080/live/peter/peter/6334.ts
 #EXTINF:-1,group-title="Canais Premium 4",MEGAPIX HD
-http://lista.digitalgroup.me:80/live/fat/fat/2470.ts
-#EXTINF:-1,group-title="Canais Premium 4",MTV
-http://lista.digitalgroup.me:80/live/fat/fat/1000.ts
+http://142.44.137.22:8080/live/peter/peter/952.ts
+#EXTINF:-1,group-title="Canais Premium 4",MEGAPIX SD
+http://142.44.137.22:8080/live/peter/peter/800.ts
+#EXTINF:-1,group-title="Canais Premium 4",MTV DANCE
+http://142.44.137.22:8080/live/peter/peter/951.ts
 #EXTINF:-1,group-title="Canais Premium 4",MTV HD
-http://lista.digitalgroup.me:80/live/fat/fat/5092.ts
-#EXTINF:-1,group-title="Canais Premium 4",MULTISHOW
-http://lista.digitalgroup.me:80/live/fat/fat/1211.ts
+http://142.44.137.22:8080/live/peter/peter/950.ts
+#EXTINF:-1,group-title="Canais Premium 4",MTV PORTUGAL
+http://142.44.137.22:8080/live/peter/peter/949.ts
+#EXTINF:-1,group-title="Canais Premium 4",MTV SD
+http://142.44.137.22:8080/live/peter/peter/804.ts
 #EXTINF:-1,group-title="Canais Premium 4",MULTISHOW HD
-http://lista.digitalgroup.me:80/live/fat/fat/2385.ts
-#EXTINF:-1,group-title="Canais Premium 4",MUSIC BOX BRASIL
-http://lista.digitalgroup.me:80/live/fat/fat/997.ts
-#EXTINF:-1,group-title="Canais Premium 4",NATGEO KIDS
-http://lista.digitalgroup.me:80/live/fat/fat/11965.ts
-#EXTINF:-1,group-title="Canais Premium 4",NATGEO KIDS HD
-http://lista.digitalgroup.me:80/live/fat/fat/11996.ts
-#EXTINF:-1,group-title="Canais Premium 4",NATGEO WILD
-http://lista.digitalgroup.me:80/live/fat/fat/995.ts
-#EXTINF:-1,group-title="Canais Premium 4",NATGEO WILD FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18022.ts
+http://142.44.137.22:8080/live/peter/peter/948.ts
+#EXTINF:-1,group-title="Canais Premium 4",MULTISHOW SD
+http://142.44.137.22:8080/live/peter/peter/947.ts
+#EXTINF:-1,group-title="Canais Premium 4",MUSIC BOX BRASIL HD
+http://142.44.137.22:8080/live/peter/peter/946.ts
+#EXTINF:-1,group-title="Canais Premium 4",NARUTO 24 HORAS
+http://142.44.137.22:8080/live/peter/peter/6312.ts
+#EXTINF:-1,group-title="Canais Premium 4",NAT GEO KIDS
+http://142.44.137.22:8080/live/peter/peter/944.ts
+#EXTINF:-1,group-title="Canais Premium 4",NAT GEO KIDS HD
+http://142.44.137.22:8080/live/peter/peter/945.ts
+#EXTINF:-1,group-title="Canais Premium 4",NAT GEO SD
+http://142.44.137.22:8080/live/peter/peter/797.ts
 #EXTINF:-1,group-title="Canais Premium 4",NATGEO WILD HD
-http://lista.digitalgroup.me:80/live/fat/fat/994.ts
-#EXTINF:-1,group-title="Canais Premium 4",NATIONAL GEOGRAPHICS
-http://lista.digitalgroup.me:80/live/fat/fat/991.ts
-#EXTINF:-1,group-title="Canais Premium 4",NATIONAL GEOGRAPHICS HD
-http://lista.digitalgroup.me:80/live/fat/fat/990.ts
-#EXTINF:-1,group-title="Canais Premium 4",NBR
-http://lista.digitalgroup.me:80/live/fat/fat/2494.ts
-#EXTINF:-1,group-title="Canais Premium 4",NHK
-http://lista.digitalgroup.me:80/live/fat/fat/2495.ts
-#EXTINF:-1,group-title="Canais Premium 4",NICK
-http://lista.digitalgroup.me:80/live/fat/fat/1206.ts
-#EXTINF:-1,group-title="Canais Premium 4",NICK HD
-http://lista.digitalgroup.me:80/live/fat/fat/5093.ts
-#EXTINF:-1,group-title="Canais Premium 4",NICK JR
-http://lista.digitalgroup.me:80/live/fat/fat/986.ts
-#EXTINF:-1,group-title="Canais Premium 4",NICK JR HD
-http://lista.digitalgroup.me:80/live/fat/fat/16210.ts
-#EXTINF:-1,group-title="Canais Premium 4",NOVO CANAL
-http://lista.digitalgroup.me:80/live/fat/fat/11985.ts
-#EXTINF:-1,group-title="Canais Premium 4",NOVO TEMPO
-http://lista.digitalgroup.me:80/live/fat/fat/2496.ts
-#EXTINF:-1,group-title="Canais Premium 4",OFF
-http://lista.digitalgroup.me:80/live/fat/fat/1219.ts
+http://142.44.137.22:8080/live/peter/peter/943.ts
+#EXTINF:-1,group-title="Canais Premium 4",NATGEO WILD SD
+http://142.44.137.22:8080/live/peter/peter/799.ts
+#EXTINF:-1,group-title="Canais Premium 4",NHK SD
+http://142.44.137.22:8080/live/peter/peter/942.ts
+#EXTINF:-1,group-title="Canais Premium 4",NICK JR SD
+http://142.44.137.22:8080/live/peter/peter/941.ts
+#EXTINF:-1,group-title="Canais Premium 4",NICKELODEON HD
+http://142.44.137.22:8080/live/peter/peter/940.ts
+#EXTINF:-1,group-title="Canais Premium 4",NICKELODEON SD
+http://142.44.137.22:8080/live/peter/peter/939.ts
+#EXTINF:-1,group-title="Canais Premium 4",O MASCARA 24HRS
+http://142.44.137.22:8080/live/peter/peter/938.ts
 #EXTINF:-1,group-title="Canais Premium 4",OFF HD
-http://lista.digitalgroup.me:80/live/fat/fat/2471.ts
-#EXTINF:-1,group-title="Canais Premium 4",PARAMOUNT CHANNEL
-http://lista.digitalgroup.me:80/live/fat/fat/980.ts
+http://142.44.137.22:8080/live/peter/peter/937.ts
+#EXTINF:-1,group-title="Canais Premium 4",OFF SD
+http://142.44.137.22:8080/live/peter/peter/796.ts
+#EXTINF:-1,group-title="Canais Premium 4",OS SIMPSONS 24HRS
+http://142.44.137.22:8080/live/peter/peter/936.ts
 #EXTINF:-1,group-title="Canais Premium 4",PARAMOUNT CHANNEL HD
-http://lista.digitalgroup.me:80/live/fat/fat/2472.ts
-#EXTINF:-1,group-title="Canais Premium 4",PLAY TV
-http://lista.digitalgroup.me:80/live/fat/fat/2497.ts
-#EXTINF:-1,group-title="Canais Premium 4",POLISHOP TV
-http://lista.digitalgroup.me:80/live/fat/fat/18045.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 2
-http://lista.digitalgroup.me:80/live/fat/fat/978.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 2 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5062.ts
+http://142.44.137.22:8080/live/peter/peter/935.ts
+#EXTINF:-1,group-title="Canais Premium 4",PARAMOUNT CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/795.ts
+#EXTINF:-1,group-title="Canais Premium 4",PICA PAU
+http://142.44.137.22:8080/live/peter/peter/934.ts
+#EXTINF:-1,group-title="Canais Premium 4",PLAY TV SD
+http://142.44.137.22:8080/live/peter/peter/933.ts
+#EXTINF:-1,group-title="Canais Premium 4",PLAYBOY SD
+http://142.44.137.22:8080/live/peter/peter/932.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIER CLUBES SD
+http://142.44.137.22:8080/live/peter/peter/773.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1213.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 3
-http://lista.digitalgroup.me:80/live/fat/fat/977.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 3 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18023.ts
+http://142.44.137.22:8080/live/peter/peter/928.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 2 SD
+http://142.44.137.22:8080/live/peter/peter/771.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 2 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5301.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 3 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1214.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 4
-http://lista.digitalgroup.me:80/live/fat/fat/976.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 4 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5063.ts
+http://142.44.137.22:8080/live/peter/peter/927.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 3 SD
+http://142.44.137.22:8080/live/peter/peter/770.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 4 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1215.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 5
-http://lista.digitalgroup.me:80/live/fat/fat/975.ts
+http://142.44.137.22:8080/live/peter/peter/926.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 4 SD
+http://142.44.137.22:8080/live/peter/peter/769.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 4 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5299.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 5 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5064.ts
+http://142.44.137.22:8080/live/peter/peter/6326.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 5 HD
-http://lista.digitalgroup.me:80/live/fat/fat/1216.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 6
-http://lista.digitalgroup.me:80/live/fat/fat/974.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 6 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18024.ts
+http://142.44.137.22:8080/live/peter/peter/925.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 5 SD
+http://142.44.137.22:8080/live/peter/peter/768.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 5 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5298.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 6 HD
-http://lista.digitalgroup.me:80/live/fat/fat/16211.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 7
-http://lista.digitalgroup.me:80/live/fat/fat/973.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 7 FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18025.ts
+http://142.44.137.22:8080/live/peter/peter/924.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 6 SD
+http://142.44.137.22:8080/live/peter/peter/767.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 6 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5297.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE 7 HD
-http://lista.digitalgroup.me:80/live/fat/fat/16213.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 8
-http://lista.digitalgroup.me:80/live/fat/fat/972.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 9
-http://lista.digitalgroup.me:80/live/fat/fat/971.ts
-#EXTINF:-1,group-title="Canais Premium 4",PREMIERE CLUBES
-http://lista.digitalgroup.me:80/live/fat/fat/970.ts
+http://142.44.137.22:8080/live/peter/peter/923.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 7 SD
+http://142.44.137.22:8080/live/peter/peter/766.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 8 HD
+http://142.44.137.22:8080/live/peter/peter/922.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 8 SD
+http://142.44.137.22:8080/live/peter/peter/765.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 9 HD
+http://142.44.137.22:8080/live/peter/peter/921.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE 9 SD
+http://142.44.137.22:8080/live/peter/peter/764.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE CLUBES FHD
+http://142.44.137.22:8080/live/peter/peter/929.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE CLUBES FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5065.ts
+http://142.44.137.22:8080/live/peter/peter/6315.ts
 #EXTINF:-1,group-title="Canais Premium 4",PREMIERE CLUBES HD
-http://lista.digitalgroup.me:80/live/fat/fat/1714.ts
-#EXTINF:-1,group-title="Canais Premium 4",PRIME BOX BRASIL
-http://lista.digitalgroup.me:80/live/fat/fat/969.ts
-#EXTINF:-1,group-title="Canais Premium 4",RAI
-http://lista.digitalgroup.me:80/live/fat/fat/18044.ts
-#EXTINF:-1,group-title="Canais Premium 4",RCI
-http://lista.digitalgroup.me:80/live/fat/fat/18043.ts
-#EXTINF:-1,group-title="Canais Premium 4",REAL MADRID TV
-http://lista.digitalgroup.me:80/live/fat/fat/967.ts
-#EXTINF:-1,group-title="Canais Premium 4",RECORD
-http://lista.digitalgroup.me:80/live/fat/fat/1710.ts
-#EXTINF:-1,group-title="Canais Premium 4",RECORD HD
-http://lista.digitalgroup.me:80/live/fat/fat/1210.ts
-#EXTINF:-1,group-title="Canais Premium 4",RECORD NEWS
-http://lista.digitalgroup.me:80/live/fat/fat/966.ts
-#EXTINF:-1,group-title="Canais Premium 4",RECORD NEWS HD
-http://lista.digitalgroup.me:80/live/fat/fat/2400.ts
-#EXTINF:-1,group-title="Canais Premium 4",REDE BRASIL
-http://lista.digitalgroup.me:80/live/fat/fat/965.ts
-#EXTINF:-1,group-title="Canais Premium 4",REDE TV
-http://lista.digitalgroup.me:80/live/fat/fat/963.ts
-#EXTINF:-1,group-title="Canais Premium 4",REDE TV HD
-http://lista.digitalgroup.me:80/live/fat/fat/2406.ts
-#EXTINF:-1,group-title="Canais Premium 4",REDE VIDA
-http://lista.digitalgroup.me:80/live/fat/fat/2499.ts
-#EXTINF:-1,group-title="Canais Premium 4",SBT
-http://lista.digitalgroup.me:80/live/fat/fat/955.ts
+http://142.44.137.22:8080/live/peter/peter/930.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE CLUBES HD ALT
+http://142.44.137.22:8080/live/peter/peter/772.ts
+#EXTINF:-1,group-title="Canais Premium 4",PREMIERE CLUBES SD
+http://142.44.137.22:8080/live/peter/peter/931.ts
+#EXTINF:-1,group-title="Canais Premium 4",PRIME BOX BRASIL SD
+http://142.44.137.22:8080/live/peter/peter/920.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 3 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5300.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere 7 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5296.ts
+#EXTINF:-1,group-title="Canais Premium 4",Premiere Clubes
+http://142.44.137.22:8080/live/peter/peter/5295.ts
+#EXTINF:-1,group-title="Canais Premium 4",RBS TV PORTO ALEGRE SD
+http://142.44.137.22:8080/live/peter/peter/919.ts
+#EXTINF:-1,group-title="Canais Premium 4",RBS TV SD
+http://142.44.137.22:8080/live/peter/peter/794.ts
+#EXTINF:-1,group-title="Canais Premium 4",RECORD FULL HD
+http://142.44.137.22:8080/live/peter/peter/6337.ts
+#EXTINF:-1,group-title="Canais Premium 4",REDE RECORD FULL HD
+http://142.44.137.22:8080/live/peter/peter/910.ts
 #EXTINF:-1,group-title="Canais Premium 4",SBT HD
-http://lista.digitalgroup.me:80/live/fat/fat/1208.ts
-#EXTINF:-1,group-title="Canais Premium 4",SESC TV HD
-http://lista.digitalgroup.me:80/live/fat/fat/953.ts
-#EXTINF:-1,group-title="Canais Premium 4",SIC INTERNATIONAL
-http://lista.digitalgroup.me:80/live/fat/fat/952.ts
-#EXTINF:-1,group-title="Canais Premium 4",SONY
-http://lista.digitalgroup.me:80/live/fat/fat/1096.ts
-#EXTINF:-1,group-title="Canais Premium 4",SONY HD
-http://lista.digitalgroup.me:80/live/fat/fat/2409.ts
-#EXTINF:-1,group-title="Canais Premium 4",SPACE
-http://lista.digitalgroup.me:80/live/fat/fat/2501.ts
+http://142.44.137.22:8080/live/peter/peter/905.ts
+#EXTINF:-1,group-title="Canais Premium 4",SBT SD
+http://142.44.137.22:8080/live/peter/peter/903.ts
+#EXTINF:-1,group-title="Canais Premium 4",SBT  SD ALT
+http://142.44.137.22:8080/live/peter/peter/904.ts
+#EXTINF:-1,group-title="Canais Premium 4",SCOOBY DOO 24 HORAS
+http://142.44.137.22:8080/live/peter/peter/6314.ts
+#EXTINF:-1,group-title="Canais Premium 4",SEXTREME  SD
+http://142.44.137.22:8080/live/peter/peter/902.ts
+#EXTINF:-1,group-title="Canais Premium 4",SEXY HOT  SD
+http://142.44.137.22:8080/live/peter/peter/901.ts
+#EXTINF:-1,group-title="Canais Premium 4",SEXZONE 2 HD
+http://142.44.137.22:8080/live/peter/peter/836.ts
+#EXTINF:-1,group-title="Canais Premium 4",SEXZONE HD
+http://142.44.137.22:8080/live/peter/peter/837.ts
+#EXTINF:-1,group-title="Canais Premium 4",SIC INTERNACIONAL
+http://142.44.137.22:8080/live/peter/peter/900.ts
 #EXTINF:-1,group-title="Canais Premium 4",SPACE HD
-http://lista.digitalgroup.me:80/live/fat/fat/1327.ts
-#EXTINF:-1,group-title="Canais Premium 4",SPORTV
-http://lista.digitalgroup.me:80/live/fat/fat/943.ts
-#EXTINF:-1,group-title="Canais Premium 4",SPORTV 2
-http://lista.digitalgroup.me:80/live/fat/fat/942.ts
+http://142.44.137.22:8080/live/peter/peter/899.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPACE SD
+http://142.44.137.22:8080/live/peter/peter/791.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORT TV 1 HD - PT
+http://142.44.137.22:8080/live/peter/peter/898.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORT TV 2 HD - PT
+http://142.44.137.22:8080/live/peter/peter/897.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORT TV 3 HD - PT
+http://142.44.137.22:8080/live/peter/peter/896.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORT TV 4 HD - PT
+http://142.44.137.22:8080/live/peter/peter/895.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORTV 2 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6317.ts
 #EXTINF:-1,group-title="Canais Premium 4",SPORTV 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/2401.ts
-#EXTINF:-1,group-title="Canais Premium 4",SPORTV 3
-http://lista.digitalgroup.me:80/live/fat/fat/941.ts
+http://142.44.137.22:8080/live/peter/peter/894.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORTV 2 SD
+http://142.44.137.22:8080/live/peter/peter/893.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORTV 3 FULL HD
+http://142.44.137.22:8080/live/peter/peter/6318.ts
 #EXTINF:-1,group-title="Canais Premium 4",SPORTV 3 HD
-http://lista.digitalgroup.me:80/live/fat/fat/2402.ts
+http://142.44.137.22:8080/live/peter/peter/892.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORTV 3 SD
+http://142.44.137.22:8080/live/peter/peter/891.ts
 #EXTINF:-1,group-title="Canais Premium 4",SPORTV FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5067.ts
+http://142.44.137.22:8080/live/peter/peter/6316.ts
 #EXTINF:-1,group-title="Canais Premium 4",SPORTV HD
-http://lista.digitalgroup.me:80/live/fat/fat/1203.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 1
-http://lista.digitalgroup.me:80/live/fat/fat/17113.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 1 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17114.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 10
-http://lista.digitalgroup.me:80/live/fat/fat/17133.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 10 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17134.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 2
-http://lista.digitalgroup.me:80/live/fat/fat/17111.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 2 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17112.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 3
-http://lista.digitalgroup.me:80/live/fat/fat/17115.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 3 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17116.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 4
-http://lista.digitalgroup.me:80/live/fat/fat/17117.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 4 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17118.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 5
-http://lista.digitalgroup.me:80/live/fat/fat/17119.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 5 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17120.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 6
-http://lista.digitalgroup.me:80/live/fat/fat/17127.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 6 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17128.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 7
-http://lista.digitalgroup.me:80/live/fat/fat/17123.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 7 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17124.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 8
-http://lista.digitalgroup.me:80/live/fat/fat/17125.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 8 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17126.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 9
-http://lista.digitalgroup.me:80/live/fat/fat/17131.ts
-#EXTINF:-1,group-title="Canais Premium 4",StarBR 9 HD
-http://lista.digitalgroup.me:80/live/fat/fat/17132.ts
-#EXTINF:-1,group-title="Canais Premium 4",STUDIO UNIVERSAL
-http://lista.digitalgroup.me:80/live/fat/fat/2384.ts
+http://142.44.137.22:8080/live/peter/peter/890.ts
+#EXTINF:-1,group-title="Canais Premium 4",SPORTV SD
+http://142.44.137.22:8080/live/peter/peter/889.ts
 #EXTINF:-1,group-title="Canais Premium 4",STUDIO UNIVERSAL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5094.ts
-#EXTINF:-1,group-title="Canais Premium 4",SYFY
-http://lista.digitalgroup.me:80/live/fat/fat/939.ts
+http://142.44.137.22:8080/live/peter/peter/888.ts
+#EXTINF:-1,group-title="Canais Premium 4",STUDIO UNIVERSAL SD
+http://142.44.137.22:8080/live/peter/peter/789.ts
 #EXTINF:-1,group-title="Canais Premium 4",SYFY HD
-http://lista.digitalgroup.me:80/live/fat/fat/18087.ts
-#EXTINF:-1,group-title="Canais Premium 4",TBS
-http://lista.digitalgroup.me:80/live/fat/fat/937.ts
-#EXTINF:-1,group-title="Canais Premium 4",TBS HD
-http://lista.digitalgroup.me:80/live/fat/fat/2473.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC ACTION
-http://lista.digitalgroup.me:80/live/fat/fat/935.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC ACTION FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5069.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC ACTION HD
-http://lista.digitalgroup.me:80/live/fat/fat/936.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC CULT
-http://lista.digitalgroup.me:80/live/fat/fat/933.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC CULT FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18026.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC CULT HD
-http://lista.digitalgroup.me:80/live/fat/fat/5096.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC FUN
-http://lista.digitalgroup.me:80/live/fat/fat/931.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC FUN FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/18027.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC FUN HD
-http://lista.digitalgroup.me:80/live/fat/fat/932.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC PIPOCA
-http://lista.digitalgroup.me:80/live/fat/fat/929.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC PIPOCA FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5070.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC PIPOCA HD
-http://lista.digitalgroup.me:80/live/fat/fat/930.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC PREMIUM
-http://lista.digitalgroup.me:80/live/fat/fat/2415.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC PREMIUM FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5071.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC PREMIUM HD
-http://lista.digitalgroup.me:80/live/fat/fat/928.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC TOUCH
-http://lista.digitalgroup.me:80/live/fat/fat/926.ts
-#EXTINF:-1,group-title="Canais Premium 4",TC TOUCH HD
-http://lista.digitalgroup.me:80/live/fat/fat/927.ts
-#EXTINF:-1,group-title="Canais Premium 4",TCM
-http://lista.digitalgroup.me:80/live/fat/fat/925.ts
-#EXTINF:-1,group-title="Canais Premium 4",TERRA VIVA
-http://lista.digitalgroup.me:80/live/fat/fat/2504.ts
-#EXTINF:-1,group-title="Canais Premium 4",THE HISTORY CHANNEL
-http://lista.digitalgroup.me:80/live/fat/fat/923.ts
-#EXTINF:-1,group-title="Canais Premium 4",THE HISTORY CHANNEL FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/16216.ts
+http://142.44.137.22:8080/live/peter/peter/887.ts
+#EXTINF:-1,group-title="Canais Premium 4",SYFY SD
+http://142.44.137.22:8080/live/peter/peter/790.ts
+#EXTINF:-1,group-title="Canais Premium 4",SporTV SD ALT
+http://142.44.137.22:8080/live/peter/peter/5303.ts
+#EXTINF:-1,group-title="Canais Premium 4",Sportv 2 SD ALT
+http://142.44.137.22:8080/live/peter/peter/5302.ts
+#EXTINF:-1,group-title="Canais Premium 4",TBS SD
+http://142.44.137.22:8080/live/peter/peter/886.ts
+#EXTINF:-1,group-title="Canais Premium 4",TCM SD
+http://142.44.137.22:8080/live/peter/peter/785.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE ACTION FULL HD
+http://142.44.137.22:8080/live/peter/peter/6329.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE ACTION HD
+http://142.44.137.22:8080/live/peter/peter/885.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE ACTION  SD
+http://142.44.137.22:8080/live/peter/peter/884.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE CULT FULL HD
+http://142.44.137.22:8080/live/peter/peter/6331.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE CULT HD
+http://142.44.137.22:8080/live/peter/peter/883.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE CULT  SD
+http://142.44.137.22:8080/live/peter/peter/882.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE FUN FULL HD
+http://142.44.137.22:8080/live/peter/peter/6330.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE FUN HD
+http://142.44.137.22:8080/live/peter/peter/881.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE FUN SD
+http://142.44.137.22:8080/live/peter/peter/880.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PIPOCA FHD
+http://142.44.137.22:8080/live/peter/peter/879.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PIPOCA FULL HD
+http://142.44.137.22:8080/live/peter/peter/6332.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PIPOCA HD
+http://142.44.137.22:8080/live/peter/peter/788.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PIPOCA  SD
+http://142.44.137.22:8080/live/peter/peter/878.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PREMIUM FHD
+http://142.44.137.22:8080/live/peter/peter/877.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PREMIUM FULL HD
+http://142.44.137.22:8080/live/peter/peter/6328.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PREMIUM SD
+http://142.44.137.22:8080/live/peter/peter/787.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE PREMIUM  SD
+http://142.44.137.22:8080/live/peter/peter/876.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE TOUCH FULL HD
+http://142.44.137.22:8080/live/peter/peter/6333.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE TOUCH HD
+http://142.44.137.22:8080/live/peter/peter/875.ts
+#EXTINF:-1,group-title="Canais Premium 4",TELECINE TOUCH SD
+http://142.44.137.22:8080/live/peter/peter/874.ts
 #EXTINF:-1,group-title="Canais Premium 4",THE HISTORY CHANNEL HD
-http://lista.digitalgroup.me:80/live/fat/fat/2468.ts
-#EXTINF:-1,group-title="Canais Premium 4",TLC
-http://lista.digitalgroup.me:80/live/fat/fat/922.ts
+http://142.44.137.22:8080/live/peter/peter/873.ts
 #EXTINF:-1,group-title="Canais Premium 4",TLC HD
-http://lista.digitalgroup.me:80/live/fat/fat/5097.ts
-#EXTINF:-1,group-title="Canais Premium 4",TNT
-http://lista.digitalgroup.me:80/live/fat/fat/921.ts
-#EXTINF:-1,group-title="Canais Premium 4",TNT FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5073.ts
+http://142.44.137.22:8080/live/peter/peter/872.ts
+#EXTINF:-1,group-title="Canais Premium 4",TLC SD
+http://142.44.137.22:8080/live/peter/peter/786.ts
 #EXTINF:-1,group-title="Canais Premium 4",TNT HD
-http://lista.digitalgroup.me:80/live/fat/fat/2383.ts
-#EXTINF:-1,group-title="Canais Premium 4",TNT SERIES
-http://lista.digitalgroup.me:80/live/fat/fat/1204.ts
-#EXTINF:-1,group-title="Canais Premium 4",TNT SERIES FULL HD
-http://lista.digitalgroup.me:80/live/fat/fat/5074.ts
+http://142.44.137.22:8080/live/peter/peter/871.ts
+#EXTINF:-1,group-title="Canais Premium 4",TNT  SD
+http://142.44.137.22:8080/live/peter/peter/870.ts
 #EXTINF:-1,group-title="Canais Premium 4",TNT SERIES HD
-http://lista.digitalgroup.me:80/live/fat/fat/2474.ts
-#EXTINF:-1,group-title="Canais Premium 4",TOONCAST
-http://lista.digitalgroup.me:80/live/fat/fat/919.ts
-#EXTINF:-1,group-title="Canais Premium 4",TOONCAST HD
-http://lista.digitalgroup.me:80/live/fat/fat/17974.ts
-#EXTINF:-1,group-title="Canais Premium 4",TRU TV
-http://lista.digitalgroup.me:80/live/fat/fat/917.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV BRASIL
-http://lista.digitalgroup.me:80/live/fat/fat/915.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV CAMARA
-http://lista.digitalgroup.me:80/live/fat/fat/18042.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV DIARIO
-http://lista.digitalgroup.me:80/live/fat/fat/2388.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV EVANGELIZAR
-http://lista.digitalgroup.me:80/live/fat/fat/11974.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV GAZETA
-http://lista.digitalgroup.me:80/live/fat/fat/11973.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV GERAL
-http://lista.digitalgroup.me:80/live/fat/fat/2413.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV JUSTICA
-http://lista.digitalgroup.me:80/live/fat/fat/18041.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV MUNDIAL
-http://lista.digitalgroup.me:80/live/fat/fat/11971.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV PLENITUDE
-http://lista.digitalgroup.me:80/live/fat/fat/18400.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV POÇOS
-http://lista.digitalgroup.me:80/live/fat/fat/17788.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV RA TIM BUM
-http://lista.digitalgroup.me:80/live/fat/fat/2506.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV SENADO
-http://lista.digitalgroup.me:80/live/fat/fat/18040.ts
-#EXTINF:-1,group-title="Canais Premium 4",TV5 MONDE
-http://lista.digitalgroup.me:80/live/fat/fat/18046.ts
-#EXTINF:-1,group-title="Canais Premium 4",TVE
-http://lista.digitalgroup.me:80/live/fat/fat/2507.ts
-#EXTINF:-1,group-title="Canais Premium 4",UNIVERSAL CHANNEL
-http://lista.digitalgroup.me:80/live/fat/fat/940.ts
+http://142.44.137.22:8080/live/peter/peter/869.ts
+#EXTINF:-1,group-title="Canais Premium 4",TNT SERIES  SD
+http://142.44.137.22:8080/live/peter/peter/868.ts
+#EXTINF:-1,group-title="Canais Premium 4",TODO MUNDO ODEIA O CHRIS
+http://142.44.137.22:8080/live/peter/peter/867.ts
+#EXTINF:-1,group-title="Canais Premium 4",TOONCAST SD
+http://142.44.137.22:8080/live/peter/peter/866.ts
+#EXTINF:-1,group-title="Canais Premium 4",TRU TV SD
+http://142.44.137.22:8080/live/peter/peter/865.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV ANHANGUERA FULL HD
+http://142.44.137.22:8080/live/peter/peter/864.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV APARECIDA
+http://142.44.137.22:8080/live/peter/peter/863.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV BAHIA SD
+http://142.44.137.22:8080/live/peter/peter/862.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV CINE 1 HD
+http://142.44.137.22:8080/live/peter/peter/861.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV CINE 2 HD
+http://142.44.137.22:8080/live/peter/peter/860.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV CINE  3 HD
+http://142.44.137.22:8080/live/peter/peter/859.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV CINE 4 HD
+http://142.44.137.22:8080/live/peter/peter/858.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV CULTURA
+http://142.44.137.22:8080/live/peter/peter/857.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV CULTURA SD
+http://142.44.137.22:8080/live/peter/peter/781.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV GAZETA ES HD
+http://142.44.137.22:8080/live/peter/peter/856.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV GLOBO RIO DE JANEIRO SD
+http://142.44.137.22:8080/live/peter/peter/780.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV GLOBO SAO PAULO SD
+http://142.44.137.22:8080/live/peter/peter/779.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV LIBERAL BELEM SD
+http://142.44.137.22:8080/live/peter/peter/855.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV MIRAMAR SD
+http://142.44.137.22:8080/live/peter/peter/783.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV NOVO TEMPO SD
+http://142.44.137.22:8080/live/peter/peter/784.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV RA TIM BUM SD
+http://142.44.137.22:8080/live/peter/peter/854.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV TEM BAURU
+http://142.44.137.22:8080/live/peter/peter/853.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV TEM BAURU SD
+http://142.44.137.22:8080/live/peter/peter/778.ts
+#EXTINF:-1,group-title="Canais Premium 4",TV TEM SOROCABA SD
+http://142.44.137.22:8080/live/peter/peter/852.ts
 #EXTINF:-1,group-title="Canais Premium 4",UNIVERSAL CHANNEL HD
-http://lista.digitalgroup.me:80/live/fat/fat/2475.ts
-#EXTINF:-1,group-title="Canais Premium 4",VH1 MEGA HITS
-http://lista.digitalgroup.me:80/live/fat/fat/898.ts
-#EXTINF:-1,group-title="Canais Premium 4",VH1 MEGA HITS HD
-http://lista.digitalgroup.me:80/live/fat/fat/5098.ts
-#EXTINF:-1,group-title="Canais Premium 4",VIVA
-http://lista.digitalgroup.me:80/live/fat/fat/897.ts
+http://142.44.137.22:8080/live/peter/peter/851.ts
+#EXTINF:-1,group-title="Canais Premium 4",UNIVERSAL CHANNEL  SD
+http://142.44.137.22:8080/live/peter/peter/777.ts
+#EXTINF:-1,group-title="Canais Premium 4",VENUS SD
+http://142.44.137.22:8080/live/peter/peter/850.ts
+#EXTINF:-1,group-title="Canais Premium 4",VH1 MEGA HITS SD
+http://142.44.137.22:8080/live/peter/peter/848.ts
+#EXTINF:-1,group-title="Canais Premium 4",VH1 MEGAHITS HD
+http://142.44.137.22:8080/live/peter/peter/849.ts
 #EXTINF:-1,group-title="Canais Premium 4",VIVA HD
-http://lista.digitalgroup.me:80/live/fat/fat/2476.ts
-#EXTINF:-1,group-title="Canais Premium 4",WARNER CHANNEL
-http://lista.digitalgroup.me:80/live/fat/fat/896.ts
+http://142.44.137.22:8080/live/peter/peter/847.ts
+#EXTINF:-1,group-title="Canais Premium 4",VIVA SD
+http://142.44.137.22:8080/live/peter/peter/775.ts
 #EXTINF:-1,group-title="Canais Premium 4",WARNER CHANNEL HD
-http://lista.digitalgroup.me:80/live/fat/fat/2478.ts
+http://142.44.137.22:8080/live/peter/peter/846.ts
+#EXTINF:-1,group-title="Canais Premium 4",WARNER CHANNEL SD
+http://142.44.137.22:8080/live/peter/peter/776.ts
 #EXTINF:-1,group-title="Canais Premium 4",WOOHOO
-http://lista.digitalgroup.me:80/live/fat/fat/894.ts
-#EXTINF:-1,group-title="Canais Premium 4",WOOHOO HD
-http://lista.digitalgroup.me:80/live/fat/fat/16214.ts
+http://142.44.137.22:8080/live/peter/peter/774.ts
+#EXTINF:-1,group-title="Canais Premium 4",XXX HOT HD
+http://142.44.137.22:8080/live/peter/peter/844.ts
+#EXTINF:-1,group-title="Canais Premium 4",XXX PASSIE 2 HD
+http://142.44.137.22:8080/live/peter/peter/840.ts
+#EXTINF:-1,group-title="Canais Premium 4",XXX PASSIE HD
+http://142.44.137.22:8080/live/peter/peter/842.ts
+#EXTINF:-1,group-title="Canais Premium 4",XXX PENTHOUSE HD
+http://142.44.137.22:8080/live/peter/peter/839.ts
+#EXTINF:-1,group-title="Canais Premium 4",XXX SEXTREME SD
+http://142.44.137.22:8080/live/peter/peter/843.ts
+#EXTINF:-1,group-title="Canais Premium 4",XXX VENUS HD
+http://142.44.137.22:8080/live/peter/peter/838.ts
+#EXTINF:-1,group-title="Canais Premium 4",XxX HD
+http://142.44.137.22:8080/live/peter/peter/845.ts
+#EXTINF:-1,group-title="Canais Premium 4",XxX Sexx SD
+http://142.44.137.22:8080/live/peter/peter/841.ts
