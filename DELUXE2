@@ -2277,3 +2277,821 @@ http://srv.unionsrv.com:8880/live/UJ9FZtB4LW/hCw6z6pQvi/7977.ts
 ------------ Canais Premium 5.0 ---------------------
 #EXTINF:0group-title="Canais Premium 5", Mirray
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/9b/a5/VqgGwqoD_o.png" group-title="WEB TV 24 HORAS",FAST CINE
+http://stmv5.srvstm.com/fastcine/fastcine/playlist.m3u8
+com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="Canais Premium 5",    GLOBO SP
+http://185.152.66.81:25461/live/ezequiel/12345/1810.m3u8?token=SUZYUxZQRwJGVgFXUAcGDwQGA1VVUFJUDQwOBQkGA1wEUQJRAQ5QWVQRFERGFhddV1loCFdHC1cMBAkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAlMGAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVwcDG04=
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="Canais Premium 5",   GLOBO RJ HD
+http://185.152.66.81:25461/live/ezequiel/12345/1811.m3u8?token=SUZYUxZQRwJGVwpXVlIDXgUGA1EDAVcHAAQMAVBWAgcKVVQDAQhUDAcRFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVB1QIBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEUAcAG04
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="Canais Premium 5",   GLOBO MG
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/3497.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="Canais Premium 5",   GLOBO BRASILIA
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2232.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",   SBT SP
+http://178.132.4.88:25461/live/Paulo/12345/373.m3u8?token=TxAMVEBeQwMQAlENUVVUAgIHAFEKDgUKAwYLVwZUAAAMAwBRBQ4CXQMUGxoRRRBRV1hpXFYbDwAGUR5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTV1NaBQdGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcDBwAXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEAAoDBhMf
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",  SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",     SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",      SBT SP
+http://178.132.4.88:25461/live/Paulo/12345/373.m3u8?token=TxAMVEBeQwMQAlENUVVUAgIHAFEKDgUKAwYLVwZUAAAMAwBRBQ4CXQMUGxoRRRBRV1hpXFYbDwAGUR5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTV1NaBQdGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcDBwAXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEAAoDBhMf
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",      SBT PARÁ
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="Canais Premium 5",    RECORD SP
+http://185.2.83.16:25461/live/Santiago/12345/252.m3u8?token=TxAMVEBeQwMQBwYBVwIDBFAHVVAHXFNSB1VTUFBWVFMDVFMCClRUX1AUGxoRRRBRV1hpXFYbDwEEUB5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTUFpTAxBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAMAAxsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwIMBwoXTg
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="Canais Premium 5",     RECORD RN
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="Canais Premium 5",    RECORD ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="Canais Premium 5",    RECORD MT
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w939608304.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Premium 5",   BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Premium 5",   BAND
+http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/888.m3u8?canaliptv2018?canaliptv2018 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Premium 5",   BAND SP
+http://185.152.66.81:25461/live/leticia/123456/1855.m3u8?token=SUZYUxZQRwJGVV5XAFEAXVcCD1YFAQNRAFZcCwJQDAECB1MLVg5XXVwRFERGFhddV1loCFdHC1cMAAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXBVYEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTAlMCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVIDVgEXRA==
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette1.wikia.nocookie.net/logopedia/images/c/cc/200px-TV_Brasil_logo.png/revision/latest?cb=20130129165234" group-title="Canais Premium 5",    TV BRASIL
+http://bit.do/TV-BRASILIPTVFIRE2018
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lo1b71nzh/redegospel.png" group-title="Canais Premium 5",     IPTV BRASIL
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?MAXHD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/Sr2UQE" group-title="Canais Premium 5",  REDE TV GO
+http://srv3.zoeweb.tv:1935/z94-live/stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/Sr2UQE" group-title="Canais Premium 5",  REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/Sr2UQE" group-title="Canais Premium 5",  REDETV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/sf6y0zx95/redebrasil_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvescola.png" group-title="Canais Premium 5",        TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8iprvs9/tvaparecida_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",    TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="Canais Premium 5",             TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.cxtv.com.br/img/Tvs/Logo/88864334140337d2d38cd40650fe7737.png" group-title="Canais Premium 5",              TV FUTURA
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/kz7of5z95/cultura_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",      TV CULTURA
+http://m3u.me/br/uBry?IPTVFIRE2018?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zXNHpHV.png" group-title="Canais Premium 5",              TV PANTANAL MS
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?VOCÊSABIANÃO
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Canais Premium 5",              TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/v8VrAi" group-title="Canais Premium 5",    TV CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?jhonlocao
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="Canais Premium 5", CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Canais Premium 5",   TV REDE VIDA
+https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
+
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="Canais Premium 5",   MEDICINA E SAÚDE
+http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/chunklist_w755927461.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Canais Premium 5",   VEM & VÊ 1
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Canais Premium 5",   VEM & VÊ 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Canais Premium 5",   VEM & VÊ 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Canais Premium 5", MAIS GLOBOSAT
+http://185.2.83.16:25461/live/Jair/12345/122.m3u8?token=TxAMVEBeQwMQBQ8NAwRQBg9QBQEBXQAFBgBQBwZUW1VWAlNTAVMED1AUGxoRRRBRV1hpXFYbDwIDUB5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTU1BUBRBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAUMBxsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwEHBwkXTg==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais Premium 5",  MTV
+http://178.132.4.88:25461/live/wallace/1234/128.m3u8?token=TxAMVEBeQwMQBABeWwlSUFdXBgBWWFYAUlAGVgRWA1IAClYAVlNQWAYUGxoRRRBRV1hpXFYbDwIDWh5ARBcHEGtbABcJFFAJAQYDCkAdQEBfWFMXCAkZEUELVkALRlBQAgNWFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAwgGER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAsCBQBATw==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais Premium 5",TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Canais Premium 5",  MULTISHOW
+http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFBVMGDQFWVFgFVVRXBgIBAgdXBFJXUwcHUQEHDQcRFERGFhddV1loCFdHC1cDDQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQBFMJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVZCl0TShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVBVMIREk=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Canais Premium 5",  VIVA
+http://185.152.66.81:25461/live/ezequiel/12345/1705.m3u8?token=SUZYUxZQRwJGV11UBlVXWlMHBlABBABRAQddBwhWV11UAgYAUgEAWQERFERGFhddV1loCFdHC1cDBQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdSB1MCEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1cHRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlIGVxZI
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",   TV WEB NOVA PARAÍBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/an6620vql/boavontadetv.png" group-title="Canais Premium 5",              Boa Vontade Tv
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/47f10bdf3d1ccd434e2d3fb5a5916615.jpg" group-title="Canais Premium 5",              CANAL RURAL
+http://hls-live.crur.al/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/qS8f4y" group-title="Canais Premium 5",              AGRO CANAL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="Canais Premium 5",             TV DIÁRIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/3yos6jby1/terraviva_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",        TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/GhPFetE.png" group-title="Canais Premium 5",                CANAL DO BOI
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/csh29s8l5/redesuperMEGAMAXIPTV.jpg" group-title="Canais Premium 5",    REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvebahia.png" group-title="Canais Premium 5",    TVE BAHIA
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="Canais Premium 5",     TV GRAVA
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Canais Premium 5",   AD ALMADA
+http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/GxhBGC" 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="Canais Premium 5",   SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/no1Al0A.png" group-title="Canais Premium 5",             TV CÂMARA
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/5SvcimL.png" group-title="Canais Premium 5",             CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="Canais Premium 5",             HIT SAM
+http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zjyGrV8.png" group-title="Canais Premium 5",             ADINET TV
+http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Canais Premium 5",              ADONAI TV
+http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-45xnuFaz7Sg/AAAAAAAAAAI/AAAAAAAAAAA/ytlSE3dvFkU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canais Premium 5",      TV COM (Maceio)
+http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/02/multitv.jpg" group-title="Canais Premium 5",             BUZIO TV
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/p3ou2uvu5/tvuniversal.png" group-title="Canais Premium 5",              TV Universal
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?Jspedroso
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1duuy2" group-title="Canais Premium 5",             CANAL PROMESSAS
+http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",             CANAL  SETE
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/wbk9wz2t5/nbr_MEGAMAXIPTV.jpg" group-title="Canais Premium 5",   NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cbqlIU5.png" group-title="Canais Premium 5",   POLISHOP
+http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Canais Premium 5",  GLOBO NEWS
+http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwAHD1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFhddV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Canais Premium 5",  GLOBO NEWS ALTERNATVO
+http://185.2.83.16:25461/live/Santiago/12345/227.m3u8?token=TxAMVEBeQwMQUAQNAwNRAVJTUwVXCAYLVQQHB1UFUVcCAFFRVQNYDVcUGxoRRRBRV1hpXFYbDwEDVR5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTV1JUBRBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAECChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcBAwsXTg==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Canais Premium 5",      BAND NEWS ALTERNATIVO
+http://193.200.164.172:8000/live/cibele/cibele/239.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Canais Premium 5",      BAND NEWS
+http://185.152.66.81:25461/live/ezequiel/12345/1857.m3u8?token=SUZYUxZQRwJGAw4CUQNRClADBFZXUQUDBAFcUgNWBAEFVAgCBA1XWwURFERGFhddV1loCFdHC1cMAA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRAlABEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAVAJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlUCVRZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Canais Premium 5",   RECORD NEWS
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/5w1sib7zd/Cnn.png" group-title="Canais Premium 5", CNN (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Canais Premium 5",   IFC TV GERAL
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Canais Premium 5",  UFC NETWORK
+http://144.217.79.223:8000/live/candy/candy123/1382.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Canais Premium 5",  COMBATE ALTERNATIVO
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Canais Premium 5",  COMBATE
+http://185.152.66.81:25461/live/ezequiel/12345/1845.m3u8?token=SUZYUxZQRwJGVw9QAAAEDA4FU1JQAANWDAYKAlcAB1xXVFQGVQhTCwARFERGFhddV1loCFdHC1cMAQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1MCAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVQCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUA0MG04=
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 1
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 2
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 4
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 6
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 7
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 8
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 9
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://classificados.folhadebarbacena.com.br/wp-content/uploads/2017/08/180540.futebol-tv.jpg" group-title="Canais Premium 5",              Jogos Ao Vivo 10
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Canais Premium 5",  PREMIERES CLUBES
+http://185.152.66.81:25461/live/ezequiel/12345/1758.m3u8?token=SUZYUxZQRwJGCwsDDQAHCgQFUgMGXAMAAQBaUlNQV1BTUgRQAAxcAAYRFERGFhddV1loCFdHC1cDAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXA1MIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAFQDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQHUBZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Canais Premium 5",  PREMIERES CLUBES ALTERNATIVO
+http://185.2.83.16:25461/live/Jair/12345/1930.m3u8?token=TxAMVEBeQwMQUFQKW1dVV1RWAwACXQYCBQRRUwFVUFIEUQVXAFcHW1MUGxoRRRBRV1hpXFYbDwIIUQJOExERB0ZtDVERDEMOAwABC0AdQEBfWFMXCAkZEUELVkALRlBSAAZSFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAgwBER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAw8BAgRATw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Canais Premium 5", SPORTV ALTERNATVO
+http://193.200.164.172:8000/live/Jair/12345/109.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Canais Premium 5",  SPORTV
+http://185.152.66.81:25461/live/ezequiel/12345/1738.m3u8?token=SUZYUxZQRwJGAVoHVFVTAFcEA1BSVQJeUQRcC1NVAVZQAQAEXAEAC1QRFERGFhddV1loCFdHC1cDBgEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXBlwFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1YBRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlwIVgwXRA
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Canais Premium 5", SPORTV 2 ALTERNATVO
+http://cine3.elitetv.io:25461/live/Eliezer1/Eliezer1/725.m3u8?token=TEdaURVRFgoWDwRSB1ABA1EFUQJQDFNTAQ8CV19QC1UGXVAHA1oCU1IUTkBFR0cABAlvWQcaClUADRtAE0JcEGgMVhJcGwwHAgZWQBoRQQwIARIKUxQSEltcFVhEBQ9bAUceEgNBQFVGWAMOaVdQEwwHVRJZVkUOXhQVDQhuXQdaBFxURAMWABYaQAtFQxdfRyZCURBRXEJmXVsHBV5UQmRLcx5EFRZSXUIQA0JWF19HVQMCVxocQFFXQgwSQ0BADUdwYkQVFlVMQgcMRVpaC0deEl1QTQhAHhpeETlDXBFDF1dRC1xGEg4UUkAaEVgEHTtTXw1WVQFGUVgMFRMDQAZHHhILVlpZQFkQPUZaUUdfRgMBUwgGQE8=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Canais Premium 5",  SPORTV 2
+http://185.152.66.81:25461/live/ezequiel/12345/1737.m3u8?token=SUZYUxZQRwJGCwtQDFMEClMNBwALUAheVgNfBghbVFQAVwkAAQAECAYRFERGFhddV1loCFdHC1cDBg4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAlMHBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUQEMG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Canais Premium 5", SporTV 3 ALTERNATVO
+http://178.132.4.88:25461/live/Lea/1234/366.m3u8?token=TxAMVEBeQwMQBgBeWgBaAlUBUwIEWgQLUlpUWwQCBlpXAFZRAg8ECAEUGxoRRRBRV1hpXFYbDwAHVB5ARBcHEGtbABcJFFMBBwcEGk4TFl1bUBQPAhUXQ1gGEFgTVVpTBwNGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcGCwkXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHBg4EARMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Canais Premium 5",  SPORTV 3
+http://185.152.66.81:25461/live/leticia/123456/1735.m3u8?token=SUZYUxZQRwJGAl5WUQQAXgdXUwMDXQhXA1QMBgNUBAYFBVFQVllRW1cRFERGFhddV1loCFdHC1cDBgwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAVwFC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVQAVMHVBZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais Premium 5",  FOX SPORTS
+http://185.152.66.81:25461/live/leticia/123456/1815.m3u8?token=SUZYUxZQRwJGUVwDBFRWCQJWBAQDB1VXVQYIUAdVUFEAUQkFBlsAXlERFERGFhddV1loCFdHC1cMBAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVBlUDB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlADVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFVwQFG04=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais Premium 5",  FOX SPORTS
+http://185.152.66.81:25461/live/leticia/123456/1815.m3u8?token=SUZYUxZQRwJGUVwDBFRWCQJWBAQDB1VXVQYIUAdVUFEAUQkFBlsAXlERFERGFhddV1loCFdHC1cMBAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVBlUDB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlADVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFVwQFG04=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Canais Premium 5",  FOX SPORTS 2
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Canais Premium 5", FOX SPORT 2 HD ALTERNATIVO
+http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/717.m3u8?canaliptv218?canaliptv218 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="Canais Premium 5", ESPN BR
+http://185.152.66.81:25461/live/genaro/12345/1866.m3u8?token=SUZYUxZQRwJGBV4DVwNUXgRRVVEFUldWAARYVlNRU1RXUwhXAApSXVARFERGFhddV1loCFdHC1cMAw8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdVA1UCAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAl0BXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgIAG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="Canais Premium 5",  ESPN BR
+http://185.2.83.16:25461/live/Santiago/12345/369.m3u8?token=TxAMVEBeQwMQVQ8IBFBQVQVQUAEDWA1WBAMFBggHW1UECl0EClNRXQIUGxoRRRBRV1hpXFYbDwAHWx5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVVNTBgJGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcHAgwXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQDAwAMEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PRy9hgO.png" group-title="Canais Premium 5",  ESPN+
+http://178.132.4.88:25461/live/Santiago/12345/408.m3u8?token=TxAMVEBeQwMQAwNZVQEAV1JUBwEDDAZWA1oCAwNUBFECAlUCAwBZXFMUGxoRRRBRV1hpXFYbDwcBWh5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVlVSBRBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UAwcFEBUXUF4XXBZDHUBYFnA2Fx8UBEFGU1lLC14MFgwXWwZHARcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBgYMBAgXTg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PRy9hgO.png" group-title="Canais Premium 5",  ESPN+
+http://cinevip.cineiptv.com:25461/live/cynthia/cynthia1234/654.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="Canais Premium 5",   ESPORTE INTERATIVO ALTERNATIVO
+http://178.132.4.88:25461/live/Ramon/Ramon/365.m3u8?token=TxAMVEBeQwMQUg4JUwUHBA9XAgBUDAIAUgZUUlUAVVsNAVNTUFRUAVQUGxoRRRBRV1hpXFYbDwAHVx5ARBcHEGtbABcJFFgMBAMFGk4TFl1bUBQPAhUXQ1gGEFgTUldUBhBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAQGABsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwAABgAXTg==
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="Canais Premium 5",   ESPORTE INTERATIVO
+http://193.200.164.172:8000/live/Paulo/12345/365.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="Canais Premium 5", ESPORTE INTERATIVO 2 
+http://185.152.66.81:25461/live/ezequiel/12345/1827.m3u8?token=SUZYUxZQRwJGB11UDFJUAAFXAlZRBgIAVVNbBFUAAVYAVwkKUlsDWlARFERGFhddV1loCFdHC1cMBw4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVcBBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVRYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYAVQMHG04=
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="Canais Premium 5", ESPORTE INTERATIVO 2 ALTERNATIVO
+http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/217.m3u8?canaliptv2018?canaliptv2018
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Canais Premium 5",  BAND SPORT
+http://185.152.66.81:25461/live/leticia/123456/1856.m3u8?token=SUZYUxZQRwJGAFsHVFBcWQMBVFZWAwhfV1QOBFADAlUKBQRTUgBQAAERFERGFhddV1loCFdHC1cMAA8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIUwYDG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Canais Premium 5",  BAND SPORT ALTERNATIVO
+http://185.2.83.16:25461/live/Paulo/12345/370.m3u8?token=TxAMVEBeQwMQBgUAV1JXAlUNAQVXX1AFA1cCU1NcUFQGBFAHVQECCQMUGxoRRRBRV1hpXFYbDwAGUh5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTXVVTAxBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAIFARsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFw8CAg8XTg==
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",  TOROS TV
+https://ssh101.com/m3u8/dyn/RTVTOROS/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="CANAIS ", OFF
+http://178.132.4.88:25461/live/Ramon/Ramon/2624.m3u8?token=TxAMVEBeQwMQUwIOA1VQBgZUD1QCCFRRCVRXBAhQVQMCUVQHV1BRCgMUGxoRRRBRV1hpXFYbDwEHUAZOExERB0ZtDVERDEMABwACCkAdQEBfWFMXCAkZEUELVkALRlNSAwNWFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAwgMER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAwkCAwdATw==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Canais Premium 5", BABY TV
+http://178.132.4.88:25461/live/Jair/12345/5904.m3u8?token=TxAMVEBeQwMQUAUKVQUDBlRTUgdRXFFQU1YGAFdcUAEEBVcNCgRZD1QUGxoRRRBRV1hpXFYbDwYIUgZOExERB0ZtDVERDEMOAwABC0AdQEBfWFMXCAkZEUELVkALRlBTAQVUFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQABgEXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQDCwgGEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais Premium 5",   CARTOON NETWORK
+http://185.152.66.81:25461/live/genaro/12345/1847.m3u8?token=SUZYUxZQRwJGClkCDVABCVUDUwAAAQZXVVELCwlVBVFXVwUKUQ1dAAYRFERGFhddV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWAFQJBkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlUGXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgwHG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Canais Premium 5",   BOOMERANG
+http://185.152.66.81:25461/live/ezequiel/12345/1852.m3u8?token=SUZYUxZQRwJGUV1fU1pSWgcBAwRQAQhfVVQNBQZQBFUFXAlTVg9UAV0RFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQAFYHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVYBlYTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVA1IHREk
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Canais Premium 5",      DISNEY CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/3366.m3u8?token=SUZYUxZQRwJGCgBTA1ZcXAVQBAQAAwNWUgMAUFRbAVAABlYCU1sEC1YRFERGFhddV1loCFdHC1UHAw8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais Premium 5",  DISNEY XD
+http://193.200.164.172:8000/live/Ramon/Ramon/277.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais Premium 5",  DISNEY XD
+http://193.200.164.172:8000/live/cibele/cibele/277.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Canais Premium 5",  TOONCAST
+http://185.152.66.81:25461/live/leticia/123456/1713.m3u8?token=SUZYUxZQRwJGVQleBlBQD1QFAgUCUVIAAAEBAQJRB1wFAQADA1xcXQYRFERGFhddV1loCFdHC1cDBAofExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAFYECkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVAABG04=
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/4.bp.blogspot.com/-dZOB8Xc9o0U/WHbbY4TBueI/AAAAAAAABtE/r5Q25bInVrogutwNABiEz1638NJEr7_MgCLcB/s1600/filmes%2Be%2Bseries.jpg" group-title="Canais Premium 5",              DESENHOS 24HRS
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/y5yIl96.png" group-title="Canais Premium 5",              ANIME TV SPANHOL
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?jhonlocao
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/mlyqbuqrx/unnamed.png" group-title="Canais Premium 5",                     CARTOON GOSPEL
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" group-title="Canais Premium 5",      CLASSIQUE TV
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.org/qabk9es4d/images.jpg" group-title="Canais Premium 5", TV KIDMAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="Canais Premium 5",   TV NA ILHA
+http://video01.tvdigitalhd.org/jovani23984/jovani23984/chunklist_w1339591262.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/9iBYYHL.png" group-title="Canais Premium 5",      GOSPEL MOVEL TELEVISION
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FrancoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/zG3XXJ" group-title="Canais Premium 5",              CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="Canais Premium 5",            TRAILER DE FILMES  
+http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="Canais Premium 5",   CINE SKY 1
+http://wse.stmip.in:1935/rtguarany/rtguarany/chunklist_w1492218005.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="Canais Premium 5",   CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Canais Premium 5", A&E
+http://178.132.4.88:25461/live/Santiago/12345/1487.m3u8?token=TxAMVEBeQwMQAAAIU1JWVgJTUgMKDAUFVAQHVFQAV1pXAFQEVgdXCFcUGxoRRRBRV1hpXFYbDwIFWgVOExERB0ZtDVERDEMMCgQOAUAdQEBfWFMXCAkZEUELVkALRlVSAwBGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcECwEXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQCAg8CEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Canais Premium 5", LIFETIME
+http://178.132.4.88:25461/live/Jair/12345/1725.m3u8?token=TxAMVEBeQwMQDgcBAwIGA1RWUAwBCgcLU1VXUVMGW1sAAlMFV1VYAQsUGxoRRRBRV1hpXFYbDwIGUAdOExERB0ZtDVERDEMOAwABC0AdQEBfWFMXCAkZEUELVkALRlBaBAJVFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAQ0AER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAA4MCgJATw==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Canais Premium 5", PRIME BOX BRASIL
+http://178.132.4.88:25461/live/Lea/1234/1781.m3u8?token=TxAMVEBeQwMQBAVdAQUDAAAFDwQDCwFVBlEBWwJcAQABCgJUC1dVWgsUGxoRRRBRV1hpXFYbDwIGWgNOExERB0ZtDVERDEMLCgMGC0AdQEBfWFMXCAkZEUELVkALChcOWB5GUEtCBEtcV1tnBlQUXVVQFA9cTFlfHUBdDG4ABw9VXAAXCRRQGx4UXksSE1gWdEdXRltVFWdUDlcBXglCMRpzShcfFANQRkRWTAcTWFpDWVoZEFpaRl8WQBsTXkAgZhBIF1ZOFVxcRV5XDBNYFlsGQw0QFRdaQj1AB0IQEAdVXwFHEQxDCRAaFVUDST1XWVtYUFFNXFxfERBYE1VAThZfC1taQg5LbUZeXEALDEFaWUs=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Canais Premium 5",    COMEDY CENTRAL
+http://185.152.66.81:25461/live/ezequiel/12345/1843.m3u8?token=SUZYUxZQRwJGAl0FA1cAD1RWAlMGVlVVB1dYAAUGV1YFXQhQXQlXClQRFERGFhddV1loCFdHC1cMAQofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlEEB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClwCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlEEUgUXRA
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Canais Premium 5",    COMEDY CENTRAL ALTERNATIVO
+http://178.132.4.88:25461/live/Ramon/Ramon/93.m3u8?token=TxAMVEBeQwMQAAYJAQhVUgAGAgIEWgYCUgNWUgRQV1VXUFUAAQFYAFYUGxoRRRBRV1hpXFYbDwoCThAXQgEQPV1WRg8RD1QPBwQVFEBFC1lTFwwFHhtFWlVACEADVVZbBRBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAQBARsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBgEHEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais Premium 5",  TBS
+http://185.152.66.81:25461/live/ezequiel/12345/1731.m3u8?token=SUZYUxZQRwJGCw5TBwdRAAZSVlYLUQNfAwVfBVJTVlwHAFQBXA4HWgARFERGFhddV1loCFdHC1cDBggfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais Premium 5",  TBS ALTERNATIVO
+http://cinevip.cineiptv.com:25461/live/gui/gui/717.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bpt5lOz.png" group-title="Canais Premium 5",  FOX ACTION
+http://www.ipcctv.org/live/paul/paul1/3685.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="Canais Premium 5",  FOX PREMIUM 2        
+http://178.132.4.88:25461/live/Santiago/12345/1635.m3u8?token=TxAMVEBeQwMQU1RaBwMGV1RTU1cKDwUBUwADWwNXVFsGBgJQVwUDXFEUGxoRRRBRV1hpXFYbDwIHUQdOExERB0ZtDVERDEMMCgQOAUAdQEBfWFMXCAkZEUELVkALRlBXBQJRFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQHAA8AER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAwkNAQVATw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="Canais Premium 5",  FOX PREMIUM 2 ALTERNATIVO
+http://178.132.4.88:25461/live/Paulo/12345/1635.m3u8?token=TxAMVEBeQwMQVQ5eVwVVB1NXUFdRDFBVA1YAUgMHBFUGA10ABwdWWwcUGxoRRRBRV1hpXFYbDwIHUQdOExERB0ZtDVERDEMABwEEAEAdQEBfWFMXCAkZEUELVkALChcOWB5GUEtCBEtcV1tnBlQUXVVQFA9cTFlfHUBdDG4ABw9VXAAXCRRQGx4UXksSE1gWdEdXRltVFWdUDlcBXglCMRpzShcfFANQRkRWTAcTWFpDWVoZEFpaRl8WQBsTXkAgZhBIF1ZOFVxcRV5XDBNYFlsGQw0QFRdaQj1AB0IQEAdVXwFHEQxDCRAaFVUDST1XWVtYUFFNXFxfERBYE1VAThZfC1taQg5LbUZeXEALDEFaWUs=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Canais Premium 5",           TNT SERIES
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Canais Premium 5",           TNT SERIES ALTERNATIVO
+http://178.132.4.88:25461/live/Lea/1234/798.m3u8?token=TxAMVEBeQwMQVw8PWgQADQUHUwZUAQMFBlMGAwkHAFAMAQUGAA5ZCQIUGxoRRRBRV1hpXFYbDwQIWh5ARBcHEGtbABcJFFMBBwcEGk4TFl1bUBQPAhUXQ1gGEFgTVVdSAwNGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcEAQsXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQBCw0HEUw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Canais Premium 5",    TNT
+http://178.132.4.88:25461/live/Paulo/12345/380.m3u8?token=TxAMVEBeQwMQVFRZWgNRBQcCUFNWDVQABVsBAwlUAFUEVFJTUg9UX1AUGxoRRRBRV1hpXFYbDwAJUh5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTUldXFh5GUEtCBEtcV1tnBlQUXVVQFA9cTFlfHUBdDG4ABw9VXAAXCRRQGx4UXksSE1gWdEdXRltVFWdUDlcBXglCMRpzShcfFANQRkRWTAcTWBYDDAEXHhtWXEQMRhBIRlhAdmBGGRFTGU1XWERRDV9ADhRYBUAKGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYHBAMNARtI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Canais Premium 5",    TNT ALTERNATIVO
+http://178.132.4.88:25461/live/cibele/cibele/380.m3u8?token=TxAMVEBeQwMQUFNdUlJWUVdTV1AKXFMFBlcKVFRVWwYCA1AAAwJVDgUUGxoRRRBRV1hpXFYbDwAJUh5ARBcHEGtbABcJFFYBAQYDGk4TFl1bUBQPAhUXQ1gGEFgTVVRUBQpGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcGAAAXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHBQACARMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais Premium 5",  PARAMOUNT CHANNEL
+http://185.152.66.81:25461/live/ezequiel/12345/2117.m3u8?token=SUZYUxZQRwJGV1lWV1NcAFBSBlRWVlcFUlMIA1IHBVBXBlMAUQFVDFwRFERGFhddV1loCFdHC1QFBA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAFYEAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEHVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBXgQHG04=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais Premium 5",  PARAMOUNT CHANNEL ALTERNATIVO
+http://178.132.4.88:25461/live/Santiago/12345/211.m3u8?token=TxAMVEBeQwMQUlEMWwZSDVQBAVZXWARXAgYFVVBSWlEHUVMAAwNRWgEUGxoRRRBRV1hpXFYbDwEAUx5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVVVSBANGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcFBQwXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQMCwAEEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Canais Premium 5",   MEGA PIX ALTERNATIVO
+http://185.2.83.16:25461/live/Lea/1234/112.m3u8?token=TxAMVEBeQwMQBVILBwgEUQIAB1YBWwNXCVcCUQgABgdVCwJWBw9TXQMUGxoRRRBRV1hpXFYbDwIAUB5ARBcHEGtbABcJFFMBBwcEGk4TFl1bUBQPAhUXQ1gGEFgTVVNUAgBGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcHBwAXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHBw4FEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Canais Premium 5",   MEGA PIX
+http://185.152.66.81:25461/live/ezequiel/12345/1787.m3u8?token=SUZYUxZQRwJGBAlTBgFWDFUEVFgFUFVfUg0AVQlWUVUAXQgLA1wEXlERFERGFhddV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWC1YAAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEFUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVw0HG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="Canais Premium 5",   FOX LIFE
+http://178.132.4.88:25461/live/Ramon/Ramon/391.m3u8?token=TxAMVEBeQwMQVQMKVQgEAgcBVQxUXQJVA1VXVwhVVFIMB1EMUAMAAAMUGxoRRRBRV1hpXFYbDwAIUx5ARBcHEGtbABcJFFgMBAMFGk4TFl1bUBQPAhUXQ1gGEFgTVldbBQdGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwEBBxsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFw8FABtI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="Canais Premium 5",   FOX LIFE ALTERNATIVO
+http://178.132.4.88:25461/live/Ramon/Ramon/391.m3u8?token=TxAMVEBeQwMQBwMBVFVWVQRWU1ALCgZWAlVWWghSAVQEAgFXVlAEXQcUGxoRRRBRV1hpXFYbDwAIUx5ARBcHEGtbABcJFFgMBAMFGk4TFl1bUBQPAhUXQ1gGEFgTVVdSAgVGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcFBAgXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQNAwEFEUw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais Premium 5",           STUDIO UNIVERSAL
+http://193.200.164.172:8000/live/Santiago/12345/174.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais Premium 5",     STUDIO UNIVERSAL ALTERNATIVO
+http://178.132.4.88:25461/live/Santiago/12345/174.m3u8?token=TxAMVEBeQwMQDgFbVAcDAVANBQ0ECVZSAVQLVwZdWlZSBFYEBQNSCgcUGxoRRRBRV1hpXFYbDwIGVh5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTV1BbARBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAIGARsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwUHBA4XTg==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Canais Premium 5",  UNIVELSAL CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1707.m3u8?token=SUZYUxZQRwJGAg1XBlAHDgRVBVAGBwJfBg0JAwFUDQUDXQELUQ5WXlYRFERGFhddV1loCFdHC1cDBQ4fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAF0IC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEJVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQDXwwHG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Canais Premium 5",  UNIVELSAL CHANNEL ALTERNATIVO
+http://178.132.4.88:25461/live/Lea/1234/265.m3u8?token=TxAMVEBeQwMQBQ5bAwgHVwQCV1ZRXQMLV1VXVAhcUgZQBwIHAwUFCwIUGxoRRRBRV1hpXFYbDwEHVx5ARBcHEGtbABcJFFMBBwcEGk4TFl1bUBQPAhUXQ1gGEFgTVVVWDAVGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcGBA8XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHCg8FCxMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais Premium 5",  FOX SÉRIES
+http://144.217.180.197:25461/live/efrain/EFRAIN/14996.m3u8?token=SUZaB0cOEV8VUgcFAwFTVApVV11UAAUKVwIHB1UABlxRAFNSBl4CUwZGSBVETUcEWFk5UFYbCAIHXwwHHxpCS1cWbQ9QRAlHBlJdBQIbGUNNXQtcEAMCHxEWXFURAhUKA1IDUhZKEQBPEAFFWVhZPl1REFBRXBAJXRNZXR8aWFZtAFcLVQhXRw1GVRUbG1wSSRZcG3BLU0BaChVlVlRSW10JEjUaJx1HG0YGXkNLVBVcFlwbAwoDBhFKF1JcTVlMQB0QXBYkYUcbRgFPQ1xbElBbCBsIG18ARl4XHRFRRGdAAUESRgNSCFIWRg0VCRdNG1kHQW1aXV1dA1ZFWldZSxBeEFQWShEIWAoNQ1hLahFQUEQDEAsAAwFVF0w
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais Premium 5",  FX
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/1395.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais Premium 5",           FOX
+http://185.152.66.81:25461/live/genaro/12345/1820.m3u8?token=SUZYUxZQRwJGAF1RAFYHW1QMUgJXVgECBgQAAlRXU1xTVVUFUw1WC10RFERGFhddV1loCFdHC1cMBwkfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBlcHA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAAXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcFVQYCG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais Premium 5",           FOX ALTERNATIVO
+http://178.132.4.88:25461/live/Lea/1234/260.m3u8?token=TxAMVEBeQwMQDg4BB1dSUQIMBwAAXwFRVVtTA1VXVFBRVFcAV1RTDAoUGxoRRRBRV1hpXFYbDwEHUh5ARBcHEGtbABcJFFMBBwcEGk4TFl1bUBQPAhUXQ1gGEFgTVVFbAwZGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFw4MCxsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcFCwwFEUw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais Premium 5",       SPACE
+http://185.152.66.81:25461/live/genaro/12345/1742.m3u8?token=SUZYUxZQRwJGBFwCVwEDDQ4CBFkLXVMCUQUJAFAHAlVUUAlRVwhUDVwRFERGFhddV1loCFdHC1cDAQsfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWB1YAAUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEVwENG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais Premium 5",       SPACE ALTERNATIVO
+http://178.132.4.88:25461/live/Ramon/Ramon/98.m3u8?token=TxAMVEBeQwMQDgQABAMAAVQEV1MKC1AKBFAEVFBQUloGUAUFAFRRX1AUGxoRRRBRV1hpXFYbDwoJThAXQgEQPV1WRg8RD1QPBwQVFEBFC1lTFwwFHhtFWlVACEAAU1ZaDRBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAcCChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcMBwsMEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais Premium 5",  CINEMAX ALTERNATIVO
+http://178.132.4.88:25461/live/Jair/12345/236.m3u8?token=TxAMVEBeQwMQBgILWgRVVwFRUw0DWARVCVNWWgICUlAABV0HUgQDC1AUGxoRRRBRV1hpXFYbDwECVB5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTVltbBwdGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcECw8XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEAwsFBxMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais Premium 5",  CINEMAX
+http://185.152.66.81:25461/live/genaro/12345/1846.m3u8?token=SUZYUxZQRwJGUAtXBARcDQ5XU1kDUlJRVg0PBgJSAlVRUlEBA11RD1IRFERGFhddV1loCFdHC1cMAQ8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSBFQJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBVAIXhZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Canais Premium 5",  WARNER
+http://185.152.66.81:25461/live/ezequiel/12345/1704.m3u8?token=SUZYUxZQRwJGVQsHUQBSAAcDU1VRAFdXVlYNAVNTBlxXBwJWBgBRWlwRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1UIAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClQFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQAUAQXRA
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Canais Premium 5",  WARNER ALTERNATIVO
+http://178.132.4.88:25461/live/Ramon/Ramon/266.m3u8?token=TxAMVEBeQwMQBwMMV1MHUQ8HDwcKAQVSAlBQAwIFAFsMBlEEAA9SCQMUGxoRRRBRV1hpXFYbDwEHVB5ARBcHEGtbABcJFFgMBAMFGk4TFl1bUBQPAhUXQ1gGEFgTVltWDApGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcGCgoXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHAAkEBhMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais Premium 5",  CANAL SONY
+http://178.132.4.88:25461/live/Paulo/12345/186.m3u8?token=TxAMVEBeQwMQBgVZAABQUFNTAwYKXQcCVFYLVQQFB1QGBlZRCwNTWwMUGxoRRRBRV1hpXFYbDwIJVB5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTVlZTBQNGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMW0NZXhUXUF4XXBZDHUBYFnA2Fx8UBEFGU1lLC14MFgwXWwZHARcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwICAQ8XTg==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais Premium 5",  CANAL SONY ALTERNATIVO
+http://178.132.4.88:25461/live/Ramon/Ramon/186.m3u8?token=TxAMVEBeQwMQBAILVAYDAQ5WDlYHXQJVVVJTAFAGVwQCClxXUFVXCFMUGxoRRRBRV1hpXFYbDwIJVB5ARBcHEGtbABcJFFgMBAMFGk4TFl1bUBQPAhUXQ1gGEFgTVlJWBwFGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcGAAgXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQHAg0FBRMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Canais Premium 5",  AMC ALTERNATIVO
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2326.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Canais Premium 5",  AMC
+http://50.7.149.94:25461/live/paul/paul1/3660.m3u8?token=GUdQUkdbFgwQUAYEU1oFBAJaDABeAlZXAgVTVlFWA1JbUwkCV1IDU1QXTxQSF0RRAFRrDwIQD1IDAwBPEkAWURA6UVcWCRYEBgdTFE1BQl0MXBZcVh4XEVxRElkSBFYEV1waHxZWTEJXRw1XDTxSURdQVwNECFsUWVkcQV9bOlAHCFldUBEOFAMXTxQIEEYWWxt3CglHUSdZVEIGEHwLV0xHFBFWWkBEU0EGFFsNQ1gNFRYFCUdbFUdMElkSdzcWTkddS0BWWkVbWg0UW0FbBxQBFkpEW0Y+R1BDF0JQBFkHFxoJFgIWGhBYAk4+AFlaD1xXEg9dWxIXDxJSEhlHWQ0LUUdbQWtGW1FBDENSBQZUDxYb
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Canais Premium 5",  AXN ALTERNATIVO
+http://178.132.4.88:25461/live/Santiago/12345/188.m3u8?token=TxAMVEBeQwMQBlIIA1IGAlVWVFRXAQIBUlsEAQhSVAMMU1ABAwBRDwAUGxoRRRBRV1hpXFYbDwIJWh5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVVFXAAJGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcMCggXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEAQwEAxMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Canais Premium 5",  AXN
+http://185.152.66.81:25461/live/ezequiel/12345/1860.m3u8?token=SUZYUxZQRwJGVwoDU1cDAVQDBVFWUFJVBlMPAwNaUQFTXFUFVVlUXgYRFERGFhddV1loCFdHC1cMAwkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1YFBUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlUGVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQJVQUAG04=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Canais Premium 5",  TCM ALTERNATIVO
+http://178.132.4.88:25461/live/Jair/12345/173.m3u8?token=TxAMVEBeQwMQUgYMBAFXUgAGD1ACCVYBV1sCVwRQAVsDCgUCBQcEXVEUGxoRRRBRV1hpXFYbDwIGUR5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTVVJSAgNGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwEBBhsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwUEBAkFEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Canais Premium 5",  TCM
+http://185.152.66.81:25461/live/leticia/123456/1726.m3u8?token=SUZYUxZQRwJGVQtTBARXCAEDBlABUwdRVlYPAQRVV1VRUQcCUwFWCwERFERGFhddV1loCFdHC1cDBw8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdQAFIFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDlkUXwkdRFdaTF1FEExGCEZyYEcUR10cR10IRgsKVhQOFQwAEAlEGBdQQG4QUBdGFlVTCF0XGl4RCEQZQAhZTmtUDl0LVAVAXFZdQkAPRgNGHBAIVwtREFxKOUULARoMFgNTAVYTGw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Canais Premium 5",  SYFY ALTERNATIVO
+http://178.132.4.88:25461/live/Jair/12345/103.m3u8?token=TxAMVEBeQwMQDgELUgEDBgVTV1dRDlYFBlUAAwBTBAQGAgBRAFMCAFAUGxoRRRBRV1hpXFYbDwIBUR5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTVVZSDQNGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcFAQ8XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEBgsBAxMf
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Canais Premium 5",  SYFY
+http://185.152.66.81:25461/live/ezequiel/12345/1732.m3u8?token=SUZYUxZQRwJGAABeBAEGDFMMBVYDAQQFVVBcBAAAAwUEXAICBglWWlERFERGFhddV1loCFdHC1cDBgsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBFMJB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQHUwYBG04=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais Premium 5",  TELECINE ACTION
+http://185.152.66.81:25461/live/ezequiel/12345/1725.m3u8?token=SUZYUxZQRwJGAlpWAwdUXAVWBgBXBlVRBwcKAAUHDQJWU1MLUQ4GCAcRFERGFhddV1loCFdHC1cDBwwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVC1UGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAJVBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQIVwIEG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais Premium 5",  TELECINE ACTION ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais Premium 5",  TELECINE TOUCH
+http://185.152.66.81:25461/live/ezequiel/12345/1720.m3u8?token=SUZYUxZQRwJGBA5eVFsHCwcFAAUFVgdSAwNcBgBTUFAFVQgKV11XD1MRFERGFhddV1loCFdHC1cDBwkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBVcJAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg0PRgldShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVQBFYJUxZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais Premium 5",  TELECINE TOUCH ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais Premium 5",  TELECINE FUN
+http://185.152.66.81:25461/live/ezequiel/12345/1723.m3u8?token=SUZYUxZQRwJGBw8HU1pRAVUEUQcDB1IEDVYPBQUGBFZWVgRQBA4HAF0RFERGFhddV1loCFdHC1cDBwofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWBFAJBkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQIUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcHUgwNG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais Premium 5",  TELECINE FUN ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais Premium 5",  TELECINE PIPOCA
+http://185.152.66.81:25461/live/ezequiel/12345/1722.m3u8?token=SUZYUxZQRwJGB1pUVFEDW1AFBAIAAwkEBgIMAAEGDVxXAAcGV1lUDVERFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlECBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUwYHG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais Premium 5",  TELECINE PIPOCA ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais Premium 5",  TELECINE PREMIUM
+http://185.152.66.81:25461/live/ezequiel/12345/1721.m3u8?token=SUZYUxZQRwJGBAxRDFQEDQMFAlVSUQNUBVMMBVAEAlUKBlQKVgBWWQYRFERGFhddV1loCFdHC1cDBwgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVACB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEDURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQBVgUGG04=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais Premium 5",  TELECINE PREMIUM ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais Premium 5",      HBO
+http://185.152.66.81:25461/live/leticia/123456/1802.m3u8?token=SUZYUxZQRwJGA1pTB1EHXAMFUlRVA1VWAQRaBFMHUVIHVVYGB11VD1QRFERGFhddV1loCFdHC1cMBQsfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1QEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEIURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUQUHG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais Premium 5",      HBO ALTERNATIVO
+http://185.2.83.16:25461/live/cibele/cibele/390.m3u8?token=TxAMVEBeQwMQBFEAWgRVUVdXVw0GDQQHBgABW1dcBwBWAABXVg8HDQAUGxoRRRBRV1hpXFYbDwAIUh5ARBcHEGtbABcJFFYBAQYDGk4TFl1bUBQPAhUXQ1gGEFgTV1NbAwBGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwAFAhsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwUEBQoBEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais Premium 5",        HBO 2 BR
+http://185.152.66.81:25461/live/leticia/123456/1798.m3u8?token=SUZYUxZQRwJGBFkDVAdRCFUFAAdSVwUDBgZdB1MEDAcHBgBTBF1UDVwRFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAlACAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVUCXgMXRA
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais Premium 5", HBO 2 ALTERNATIVO
+http://185.2.83.16:25461/live/Lea/1234/387.m3u8?token=TxAMVEBeQwMQUgBZVlBaVVMDVw1RDFcDA1sFUgMFWgYMUFUDAgdRAVMUGxoRRRBRV1hpXFYbDwAJVR5ARBcHEGtbABcJFFMBBwcEGk4TFl1bUBQPAhUXQ1gGEFgTV1JRAQtGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwMNABsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcMBwkFEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais Premium 5",      HBO PLUS BR
+http://185.152.66.81:25461/live/ezequiel/12345/2154.m3u8?token=SUZYUxZQRwJGBV5fUFRVD1MFBVFQVQFRV1FaBAVXVlYCUQFTUwsHXFMRFERGFhddV1loCFdHC1QFAA0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXClYDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTB1wJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAF0BUBZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais Premium 5", HBO PLUS ALTERNATIVO
+http://178.132.4.88:25461/live/Santiago/12345/357.m3u8?token=TxAMVEBeQwMQBVNdWgRVUgIFDgwAClMFUwABUAdUA1pQUF1RVlAFAAQUGxoRRRBRV1hpXFYbDwAEVR5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVVNSDAtGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwINBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcMCgsCEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais Premium 5",    HBO FAMILY HD BR
+http://185.152.66.81:25461/live/genaro/12345/1803.m3u8?token=SUZYUxZQRwJGClpTAAEDClcEBVQGVFAFUlAACgUHUwUEVANUVA9RXV0RFERGFhddV1loCFdHC1cMBQofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais Premium 5", HBO FAMILY ALTERNATIVO
+http://178.132.4.88:25461/live/Paulo/12345/219.m3u8?token=TxAMVEBeQwMQBwUKVQlTVwYEBgYCDwAKBgMBBgBSVVYDAAJRAQNYCVMUGxoRRRBRV1hpXFYbDwEAWx5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTVVJRBQFGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwEEBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwUHBwsMEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais Premium 5",  HBO SIGNATURE
+http://185.152.66.81:25461/live/ezequiel/12345/1799.m3u8?token=SUZYUxZQRwJGUVxRAVtTDgVSVlVSXQkDDQ0PUVQDVgULBQlRXApXAFQRFERGFhddV1loCFdHC1cDDAAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais Premium 5", HBO SIGNATURE ALTERNATIVO
+http://178.132.4.88:25461/live/Paulo/12345/1485.m3u8?token=TxAMVEBeQwMQAAEPUwNSBwAEDgAFCgYEUFNXUwACW1BWU1xXBg8AXVAUGxoRRRBRV1hpXFYbDwIFWgdOExERB0ZtDVERDEMABwEEAEAdQEBfWFMXCAkZEUELVkALRlBTBwJRFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAQ4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAAECghATw== 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Canais Premium 5",  MAX
+http://185.152.66.81:25461/live/ezequiel/12345/3358.m3u8?token=SUZYUxZQRwJGVloAV1ddXAIEU1kLUlJUAFMABwBbAFRWBgkCVA1TCgARFERGFhddV1loCFdHC1UHAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Canais Premium 5",  MAX ALTERNATIVO
+http://178.132.4.88:25461/live/cibele/cibele/215.m3u8?token=TxAMVEBeQwMQAAUJAwZSBgACUgRUWAAHCVRWBFdVBARVUVYCAVMHDQoUGxoRRRBRV1hpXFYbDwEAVx5ARBcHEGtbABcJFFYBAQYDGk4TFl1bUBQPAhUXQ1gGEFgTVVZXAgZGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwcHCw4XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdfCkALE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEBg4CChMf
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 5",  MAX UP
+http://193.200.164.172:8000/live/cibele/cibele/213.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 5", MAX UP ALTERNATIVO
+http://178.132.4.88:25461/live/cibele/cibele/213.m3u8?token=TxAMVEBeQwMQD1MIUlMGAwAMUlcKAFRQV1FUBgRRUFFVBQUFBwRUWAYUGxoRRRBRV1hpXFYbDwEAUR5ARBcHEGtbABcJFFYBAQYDGk4TFl1bUBQPAhUXQ1gGEFgTVVtTAxBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UBAcMBBsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcMAgAXTg==
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais Premium 5",   MAX PRIME BR
+http://178.132.4.88:25461/live/Paulo/12345/214.m3u8?token=TxAMVEBeQwMQAwBdAQJXBg4FBwcBCANWBgNUBFVQBFIAVFBWB1NZXQIUGxoRRRBRV1hpXFYbDwEAVh5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTVlNUBAJGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFw4CBhsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBwAEEUw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais Premium 5", MAX PRIME ALTERNATIVO
+http://178.132.4.88:25461/live/Jair/12345/214.m3u8?token=TxAMVEBeQwMQV1UPAVNRAQ4EUAAADlcKCFFWBAhQAwYDAwZXBQADAVYUGxoRRRBRV1hpXFYbDwEAVh5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTU1VbDRBIF1ZOFVxAWFZUPVUHQl9WUxcIV0BfXU4QDV87BgdZUwpREQxDCBAaFVERQUAOFHdEVEFQWRNlB14HUgsPQmccJRsRGkNbW0JFWRZUQA4UAA8FEBUXUF4XXBZDHUBYFnA2Fx8UBEFGU1lLC14MFgwXWwZHARcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UAAYHChtI
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",   CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",   CARIOCA NET TV
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w1431750248.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",   YEEAH TEEN
+http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8?wowzasessionid=1971011538
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",   TV ARACATI
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",   TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=1444982722
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/portal4.files.wordpress.com/2013/07/tv-1.png" group-title="Canais Premium 5",              TV FILMES 4 ESPANHOL
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="Canais Premium 5",      MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637" group-title="Canais Premium 5",              MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104" group-title="Canais Premium 5",      MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="Canais Premium 5",      MOVISTAR GOLF HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" group-title="Canais Premium 5",      MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2E5cQzM.png" group-title="Canais Premium 5",  MOVISTAR MOTO GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" group-title="Canais Premium 5",    TVCINE 2 (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4191.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" group-title="Canais Premium 5",    TVCINE 3
+http://asdp.ddns.net:8000/live/adriano/adriano/476.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="Canais Premium 5",    TVCINE 4
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4189.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="Canais Premium 5",   REED BULL TV
+https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_578.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",  AUTO MOTO TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",  ARENA SPORT 2
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",  ARENA SPORT 3
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="Canais Premium 5",      ALL SPORTS
+https://5a0c3936c25c8.streamlock.net:1443/allsportstv/_definst_/allsportstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.underconsideration.com/brandnew/archives/la_liga_logo.png" group-title="Canais Premium 5", LALIGA TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/X0rwGWK.png" group-title="Canais Premium 5",                     REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BARCATV.png" group-title="Canais Premium 5", BARCELONA TV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/sherwoodforestgc.com/wp-content/uploads/2016/03/Golf_Flat.jpg" group-title="Canais Premium 5",                    GOLF CHANNEL |USA|
+http://live-trl102.abweb.com/liveabtrl102/ngrp:golfchannel.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/autoiptv.net/images/logos/nbatv.png" group-title="Canais Premium 5",                    NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Canais Premium 5",  FISH TV
+http://185.152.66.81:25461/live/leticia/123456/1822.m3u8?token=SUZYUxZQRwJGVVlfVlpTXAFVDwRXVFcHDQEKAAYDBFQBXVNUUlxQDFURFERGFhddV1loCFdHC1cMBwsfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.anuncioz.com.br/img/anuncios/0c21234137447a367ed8a11ae60d322b.png" group-title="Canais Premium 5",  HORSE BRASIL CHANNEL
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png" group-title="Canais Premium 5",                    TLC
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Canais Premium 5", NATGEO WILD ALTERNATIVO
+http://178.132.4.88:25461/live/Jair/12345/375.m3u8?token=TxAMVEBeQwMQUAQJUlRRVlBWBlcHCFQFVQMBBwlVVQMAVgYFAgNYCAYUGxoRRRBRV1hpXFYbDwAGVx5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTVVJVAARGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwMMABsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwAHBBtI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Canais Premium 5",   NATGEO WILD
+http://178.132.4.88:25461/live/Jair/12345/375.m3u8?token=TxAMVEBeQwMQAg5aUgQGAFUAB1RUClQLBQACAwgGBAAAUFMBAlIACVQUGxoRRRBRV1hpXFYbDwAGVx5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTVltWAQJGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwAFBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQMAQ4FEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Canais Premium 5",  ANIMAL PLANET RÚSSIA
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/213/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Canais Premium 5",  ANIMAL PLANET
+http://185.152.66.81:25461/live/leticia/123456/1864.m3u8?token=SUZYUxZQRwJGAFoABVpTDwIFAQdXBAMCDVdYUQIADFQFXFRTVQFXD1QRFERGFhddV1loCFdHC1cMAw0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBddAFEIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA10HRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DClcAVhZI
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais Premium 5",  HISTORY
+http://cinevip.cineiptv.com:25461/live/cynthia/cynthia1234/703.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais Premium 5",  HISTORY ALTERNATIVO
+http://178.132.4.88:25461/live/Jair/12345/172.m3u8?token=TxAMVEBeQwMQVQ5ZAABQV1IHVwRUXVACUlRTBlVSB1dWVAcGAlQHC1YUGxoRRRBRV1hpXFYbDwIGUB5ARBcHEGtbABcJFFYIBAAEGk4TFl1bUBQPAhUXQ1gGEFgTVVJSAgtGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwEBBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQBBAsFEUw=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Canais Premium 5",   HISTORY 2
+http://185.152.66.81:25461/live/ezequiel/12345/1806.m3u8?token=SUZYUxZQRwJGBghVDVVcDAcBAQMGBwEDUQBdUVNQAgYEXQUDXV1XCV0RFERGFhddV1loCFdHC1cMBQ8fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwJXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAMDG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Canais Premium 5",   HISTORY 2 ALTERNATIVO
+http://178.132.4.88:25461/live/Santiago/12345/222.m3u8?token=TxAMVEBeQwMQBVYMVFQHUQNXUFFUXQ1XU1AKVFACUgcMC1NQCwIEWFMUGxoRRRBRV1hpXFYbDwEDUB5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVVNbAgBGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwACBxsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBQwXTg== 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Canais Premium 5",  DISCOVERY  CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Canais Premium 5",  DISCOVERY TURBO
+http://185.152.66.81:25461/live/genaro/12345/1834.m3u8?token=SUZYUxZQRwJGAAAHBlUHWQ5VAlIBAVBUAgUKBQNWAVMAVgIBBF0GCFIRFERGFhddV1loCFdHC1cMBg0fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBVUEA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcFXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAcBG04
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",  TV RIO
+http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Canais Premium 5",                     PLAY TV
+http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="Canais Premium 5",      MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="Canais Premium 5",                    MTV DANCE
+http://91.231.219.145:80/tv_mtv_dance/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/p2c8bPp.png" group-title="Canais Premium 5",      MTV LIVE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="Canais Premium 5",             HIT SAM
+http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s27.postimg.org/lii6qu8mb/TV_Clima.png" group-title="Canais Premium 5",                    TV CLIMA HD
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="Canais Premium 5",                    TV RENACER GOSPEL
+http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.aroodawakening.tv/wp-content/uploads/Gospel-TV-logo-best.jpeg" group-title="Canais Premium 5",                    PORTAL GOSPEL TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/rff1DsY.gif" group-title="Canais Premium 5",                     FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/GHX9NT" group-title="Canais Premium 5",                    CAMERA NASA
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    GOSPEL
+http://192.99.150.31:9101/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",   SERTANEJO CLÁSSICO
+http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    SERTANEJO RAIZ
+http://192.99.150.31:9155/stream?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    KIDS
+http://192.99.150.31:9431/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",  JOVEM GUARDA
+http://192.99.150.31:8801/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    ELETRÔNICA
+http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",   DANCE
+http://zet.cdn.eurozet.pl/ZETDAN.mp3
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    AXÉ
+http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    FUNK
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",    PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",  FORRÓ
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",  RAP NACIONAL
+http://192.99.150.31:8377/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="Canais Premium 5",  ROCK
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",  JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",   FUNDORADO TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",PLAY BOY
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/142/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5", Sextreme
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTOS", Sexy Hot
+
+#EXTINF:1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",MIAMI TV LATINA
+http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",BABIESTATION 24
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Canais Premium 5",VISIT-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HRS" tvg-logo="https://tbsila.cdn.turner.com/toonla/images/cnlatam/content/36/promotion/ben-10/ar/card-ben-10-(1).jpg" group-title="Canais Premium 5",BEN 10 24HRS
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://2.bp.blogspot.com/-lRY7XozpuWA/V478h-D93pI/AAAAAAAALI8/nK46CCPLOIQ2QlR2lNt67bWRc8lO8M7TACLcB/s1600/a.png" group-title="Canais Premium 5",Peppa Pig
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/7437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS ZODIACO 24HRS" tvg-logo="http://4.bp.blogspot.com/-Qw4lL7LrJno/Vdpqor3zj3I/AAAAAAAAcu4/4s35y_jSJ_M/s420/Todos-os-Epis%25C3%25B3dios-de-Os-Cavaleiros-Do-Zod%25C3%25ADaco-Dublados.jpg" group-title="Canais Premium 5",CAVALEIROS ZODIACO 24HRS
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O MASCARA 24HRS" tvg-logo="https://http2.mlstatic.com/mascara-de-latex-o-mascara-verde-jim-carrey-the-mask-em-mos-D_NQ_NP_343711-MLB20626449279_032016-F.jpg" group-title="Canais Premium 5",O MASCARA 24HRS
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="http://i.imgur.com/Lvu4YNW.jpg" group-title="Canais Premium 5",OS SIMPSONS 24HRS
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="http://www.ibahia.com/fileadmin/ibahia/audio/caverna-do-drajhga.png" group-title="Canais Premium 5",Caverna do Dragão
+http://painel.iptvmove.com:25461/live/marcos92/fabyani47/2364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaves &
