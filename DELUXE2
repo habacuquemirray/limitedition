@@ -2,6 +2,7 @@
 ------------ Canais premium 1.0 ---------------
 #EXTINF:0 group-title="Canais Premium 1", Mirray
 http://0.0.0.0
+
 #EXTINF:-1,group-title="Canais Premium 1",A&E HD
 http://maxptv.ddns.net:25461/live/ultra100/100ultra/231.ts
 #EXTINF:-1,group-title="Canais Premium 1",AMC HD
@@ -239,514 +240,514 @@ http://maxptv.ddns.net:25461/live/ultra100/100ultra/2.ts
 ------------- Canais premium 2.0 ---------------------
 #EXTINF:0 group-title="Canais Premium 2", Mirray
 http://0.0.0.0
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",A&E
-http://142.44.215.45:25461/live/marcio/marcio/14309.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",A&E HD
-http://142.44.215.45:25461/live/marcio/marcio/14308.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",AMC
-http://142.44.215.45:25461/live/marcio/marcio/14307.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",AMC HD
-http://142.44.215.45:25461/live/marcio/marcio/14306.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ANIMAL PLANET
-http://142.44.215.45:25461/live/marcio/marcio/14305.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ANIMAL PLANET HD
-http://142.44.215.45:25461/live/marcio/marcio/14304.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ARTE 1
-http://142.44.215.45:25461/live/marcio/marcio/14303.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ARTE 1 HD
-http://142.44.215.45:25461/live/marcio/marcio/14302.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",AXN
-http://142.44.215.45:25461/live/marcio/marcio/14301.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",AXN HD
-http://142.44.215.45:25461/live/marcio/marcio/14300.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BAND
-http://142.44.215.45:25461/live/marcio/marcio/14298.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BAND HD
-http://142.44.215.45:25461/live/marcio/marcio/14297.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BAND NEWS
-http://142.44.215.45:25461/live/marcio/marcio/14296.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BAND NEWS HD
-http://142.44.215.45:25461/live/marcio/marcio/14295.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BAND SPORTS
-http://142.44.215.45:25461/live/marcio/marcio/14294.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BAND SPORTS HD
-http://142.44.215.45:25461/live/marcio/marcio/14293.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BIS
-http://142.44.215.45:25461/live/marcio/marcio/14292.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BIS HD
-http://142.44.215.45:25461/live/marcio/marcio/14291.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BOA VONTADE
-http://142.44.215.45:25461/live/marcio/marcio/14290.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BOOMERANG
-http://142.44.215.45:25461/live/marcio/marcio/14289.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",BOOMERANG HD
-http://142.44.215.45:25461/live/marcio/marcio/14288.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CANAL SONY
-http://142.44.215.45:25461/live/marcio/marcio/14285.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CANAL SONY HD
-http://142.44.215.45:25461/live/marcio/marcio/14284.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CANÇÃO NOVA
-http://142.44.215.45:25461/live/marcio/marcio/14283.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CARTOON NETWORK
-http://142.44.215.45:25461/live/marcio/marcio/14282.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CARTOON NETWORK HD
-http://142.44.215.45:25461/live/marcio/marcio/14281.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CINEMAX
-http://142.44.215.45:25461/live/marcio/marcio/14280.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CINEMAX HD
-http://142.44.215.45:25461/live/marcio/marcio/14279.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",COMBATE
-http://142.44.215.45:25461/live/marcio/marcio/14278.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",COMBATE HD
-http://142.44.215.45:25461/live/marcio/marcio/14277.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",COMEDY CENTRAL
-http://142.44.215.45:25461/live/marcio/marcio/14276.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",COMEDY CENTRAL HD
-http://142.44.215.45:25461/live/marcio/marcio/14275.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Curta!
-http://142.44.215.45:25461/live/marcio/marcio/14274.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",CURTA! HD
-http://142.44.215.45:25461/live/marcio/marcio/14273.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14272.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14271.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY CIVILIZATION
-http://142.44.215.45:25461/live/marcio/marcio/14270.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY CIVILIZATION HD
-http://142.44.215.45:25461/live/marcio/marcio/14269.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY HOME & HEALTH
-http://142.44.215.45:25461/live/marcio/marcio/14268.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY HOME & HEALTH HD
-http://142.44.215.45:25461/live/marcio/marcio/14267.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY KIDS
-http://142.44.215.45:25461/live/marcio/marcio/14266.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY KIDS HD
-http://142.44.215.45:25461/live/marcio/marcio/14265.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY SCIENCE
-http://142.44.215.45:25461/live/marcio/marcio/14264.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY SCIENCE HD
-http://142.44.215.45:25461/live/marcio/marcio/14263.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY THEATER
-http://142.44.215.45:25461/live/marcio/marcio/14262.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY THEATER HD
-http://142.44.215.45:25461/live/marcio/marcio/14261.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY TURBO
-http://142.44.215.45:25461/live/marcio/marcio/14260.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY TURBO HD
-http://142.44.215.45:25461/live/marcio/marcio/14259.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY WORLD
-http://142.44.215.45:25461/live/marcio/marcio/14258.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISCOVERY WORLD  HD
-http://142.44.215.45:25461/live/marcio/marcio/14257.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISNEY CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14256.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISNEY CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14255.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISNEY JUNIOR
-http://142.44.215.45:25461/live/marcio/marcio/14254.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",DISNEY XD
-http://142.44.215.45:25461/live/marcio/marcio/14253.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",E!
-http://142.44.215.45:25461/live/marcio/marcio/14252.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",E! HD
-http://142.44.215.45:25461/live/marcio/marcio/14251.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPN
-http://142.44.215.45:25461/live/marcio/marcio/14250.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPN   HD
-http://142.44.215.45:25461/live/marcio/marcio/14249.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPN BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14248.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPN BRASIL HD
-http://142.44.215.45:25461/live/marcio/marcio/14247.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPN HD
-http://142.44.215.45:25461/live/marcio/marcio/14244.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Esporte Interativo
-http://142.44.215.45:25461/live/marcio/marcio/14243.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Esporte Interativo 2
-http://142.44.215.45:25461/live/marcio/marcio/14241.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Esporte Interativo 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14240.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPORTE INTERATIVO BR
-http://142.44.215.45:25461/live/marcio/marcio/14239.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",ESPORTE INTERATIVO BR HD
-http://142.44.215.45:25461/live/marcio/marcio/14238.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Esporte Interativo HD
-http://142.44.215.45:25461/live/marcio/marcio/14242.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FISH TV
-http://142.44.215.45:25461/live/marcio/marcio/14237.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FISH TV HD
-http://142.44.215.45:25461/live/marcio/marcio/14236.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOOD NETWORK
-http://142.44.215.45:25461/live/marcio/marcio/14235.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOOD NETWORK HD
-http://142.44.215.45:25461/live/marcio/marcio/14234.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX
-http://142.44.215.45:25461/live/marcio/marcio/14233.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX HD
-http://142.44.215.45:25461/live/marcio/marcio/14232.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX LIFE
-http://142.44.215.45:25461/live/marcio/marcio/14231.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX LIFE HD
-http://142.44.215.45:25461/live/marcio/marcio/14230.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX PREMIUM 1
-http://142.44.215.45:25461/live/marcio/marcio/14229.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX PREMIUM 1 HD
-http://142.44.215.45:25461/live/marcio/marcio/14228.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX PREMIUM 2
-http://142.44.215.45:25461/live/marcio/marcio/14227.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX PREMIUM 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14226.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX SPORTS
-http://142.44.215.45:25461/live/marcio/marcio/14225.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX SPORTS 2
-http://142.44.215.45:25461/live/marcio/marcio/14223.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX SPORTS 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14222.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FOX SPORTS HD
-http://142.44.215.45:25461/live/marcio/marcio/14224.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FUTURA
-http://142.44.215.45:25461/live/marcio/marcio/14221.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FUTURA HD
-http://142.44.215.45:25461/live/marcio/marcio/14220.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FX
-http://142.44.215.45:25461/live/marcio/marcio/14219.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",FX HD
-http://142.44.215.45:25461/live/marcio/marcio/14218.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO BRASILIA
-http://142.44.215.45:25461/live/marcio/marcio/14217.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO BRASILIA HD
-http://142.44.215.45:25461/live/marcio/marcio/14216.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO EPTV CAMPINAS
-http://142.44.215.45:25461/live/marcio/marcio/14215.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO EPTV HD CAMPINAS
-http://142.44.215.45:25461/live/marcio/marcio/14214.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO EPTV HD RIBEIRÃO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14213.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO EPTV RIBEIRÃO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14212.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO MINAS
-http://142.44.215.45:25461/live/marcio/marcio/14211.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO MINAS HD
-http://142.44.215.45:25461/live/marcio/marcio/14210.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO NEWS
-http://142.44.215.45:25461/live/marcio/marcio/14209.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO NEWS HD
-http://142.44.215.45:25461/live/marcio/marcio/14208.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO NORDESTE
-http://142.44.215.45:25461/live/marcio/marcio/14207.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO NORDESTE HD
-http://142.44.215.45:25461/live/marcio/marcio/14206.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO RBS HD TV PORTO ALEGRE
-http://142.44.215.45:25461/live/marcio/marcio/14204.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO RBS TV PORTO ALEGRE
-http://142.44.215.45:25461/live/marcio/marcio/14205.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO RJ
-http://142.44.215.45:25461/live/marcio/marcio/14203.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO RJ HD
-http://142.44.215.45:25461/live/marcio/marcio/14202.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO RPC CURITIBA
-http://142.44.215.45:25461/live/marcio/marcio/14201.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO RPC CURITIBA HD
-http://142.44.215.45:25461/live/marcio/marcio/14200.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO SP
-http://142.44.215.45:25461/live/marcio/marcio/14199.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO SP HD
-http://142.44.215.45:25461/live/marcio/marcio/14198.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV ANHANGUERA
-http://142.44.215.45:25461/live/marcio/marcio/14197.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV ANHANGUERA HD
-http://142.44.215.45:25461/live/marcio/marcio/14196.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV BAHIA
-http://142.44.215.45:25461/live/marcio/marcio/14195.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV BAHIA HD
-http://142.44.215.45:25461/live/marcio/marcio/14194.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV TEM BAURU
-http://142.44.215.45:25461/live/marcio/marcio/14193.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV TEM HD S. J. DO RIO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14192.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV TEM S. J. DO RIO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14191.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOBO TV TEM SOROCABA
-http://142.44.215.45:25461/live/marcio/marcio/14190.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOOB
-http://142.44.215.45:25461/live/marcio/marcio/14189.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOOB HD
-http://142.44.215.45:25461/live/marcio/marcio/14188.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOOBINHO HD
-http://142.44.215.45:25461/live/marcio/marcio/14187.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GLOOBINHO SD
-http://142.44.215.45:25461/live/marcio/marcio/14186.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GNT
-http://142.44.215.45:25461/live/marcio/marcio/14185.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",GNT HD
-http://142.44.215.45:25461/live/marcio/marcio/14184.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",H2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14182.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",H2 SD
-http://142.44.215.45:25461/live/marcio/marcio/14183.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO
-http://142.44.215.45:25461/live/marcio/marcio/14181.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO 2
-http://142.44.215.45:25461/live/marcio/marcio/14180.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14179.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO FAMILY
-http://142.44.215.45:25461/live/marcio/marcio/14178.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO FAMILY HD
-http://142.44.215.45:25461/live/marcio/marcio/14177.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO HD
-http://142.44.215.45:25461/live/marcio/marcio/14176.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO PLUS
-http://142.44.215.45:25461/live/marcio/marcio/14175.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO PLUS HD
-http://142.44.215.45:25461/live/marcio/marcio/14173.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO SIGNATURE
-http://142.44.215.45:25461/live/marcio/marcio/14172.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HBO SIGNATURE HD
-http://142.44.215.45:25461/live/marcio/marcio/14171.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HISTORY
-http://142.44.215.45:25461/live/marcio/marcio/14170.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",HISTORY HD
-http://142.44.215.45:25461/live/marcio/marcio/14169.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",INVESTIGATION DISCOVERY
-http://142.44.215.45:25461/live/marcio/marcio/14168.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",INVESTIGATION DISCOVERY HD
-http://142.44.215.45:25461/live/marcio/marcio/14167.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",LIFETIME
-http://142.44.215.45:25461/live/marcio/marcio/14166.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",LIFETIME HD
-http://142.44.215.45:25461/live/marcio/marcio/14165.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAIS GLOBOSAT
-http://142.44.215.45:25461/live/marcio/marcio/14164.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAIS GLOBOSAT HD
-http://142.44.215.45:25461/live/marcio/marcio/14163.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAX
-http://142.44.215.45:25461/live/marcio/marcio/14162.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAX HD
-http://142.44.215.45:25461/live/marcio/marcio/14161.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAX PRIME
-http://142.44.215.45:25461/live/marcio/marcio/14160.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAX PRIME HD
-http://142.44.215.45:25461/live/marcio/marcio/14158.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAX UP
-http://142.44.215.45:25461/live/marcio/marcio/14157.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MAX UP HD
-http://142.44.215.45:25461/live/marcio/marcio/14156.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MEGAPIX
-http://142.44.215.45:25461/live/marcio/marcio/14155.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MEGAPIX HD
-http://142.44.215.45:25461/live/marcio/marcio/14154.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MTV
-http://142.44.215.45:25461/live/marcio/marcio/14153.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MTV HD
-http://142.44.215.45:25461/live/marcio/marcio/14152.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MULTISHOW
-http://142.44.215.45:25461/live/marcio/marcio/14151.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MULTISHOW HD
-http://142.44.215.45:25461/live/marcio/marcio/14150.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MUSIC BOX BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14149.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",MUSIC BOX BRASIL HD
-http://142.44.215.45:25461/live/marcio/marcio/14148.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NAT GEO
-http://142.44.215.45:25461/live/marcio/marcio/14147.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NAT GEO HD
-http://142.44.215.45:25461/live/marcio/marcio/14146.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NAT GEO KIDS
-http://142.44.215.45:25461/live/marcio/marcio/14145.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NAT GEO KIDS HD
-http://142.44.215.45:25461/live/marcio/marcio/14144.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NAT GEO WILD HD
-http://142.44.215.45:25461/live/marcio/marcio/14143.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NATGEO WILD
-http://142.44.215.45:25461/live/marcio/marcio/14142.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NICK JR
-http://142.44.215.45:25461/live/marcio/marcio/14140.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NICK JR HD
-http://142.44.215.45:25461/live/marcio/marcio/14139.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NICKELODEN
-http://142.44.215.45:25461/live/marcio/marcio/14138.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",NICKELODEON HD
-http://142.44.215.45:25461/live/marcio/marcio/14137.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",OFF
-http://142.44.215.45:25461/live/marcio/marcio/14136.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",OFF HD
-http://142.44.215.45:25461/live/marcio/marcio/14135.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PARAMOUNT CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14134.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PARAMOUNT CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14133.m3u8?FORMIGAtv
+#EXTINF:-1    group-title="Canais premium 2",A&E
+http://142.44.215.45:25461/live/marcio/marcio/14309.m3u8
+#EXTINF:-1    group-title="Canais premium 2",A&E HD
+http://142.44.215.45:25461/live/marcio/marcio/14308.m3u8
+#EXTINF:-1    group-title="Canais premium 2",AMC
+http://142.44.215.45:25461/live/marcio/marcio/14307.m3u8
+#EXTINF:-1    group-title="Canais premium 2",AMC HD
+http://142.44.215.45:25461/live/marcio/marcio/14306.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ANIMAL PLANET
+http://142.44.215.45:25461/live/marcio/marcio/14305.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ANIMAL PLANET HD
+http://142.44.215.45:25461/live/marcio/marcio/14304.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ARTE 1
+http://142.44.215.45:25461/live/marcio/marcio/14303.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ARTE 1 HD
+http://142.44.215.45:25461/live/marcio/marcio/14302.m3u8
+#EXTINF:-1    group-title="Canais premium 2",AXN
+http://142.44.215.45:25461/live/marcio/marcio/14301.m3u8
+#EXTINF:-1    group-title="Canais premium 2",AXN HD
+http://142.44.215.45:25461/live/marcio/marcio/14300.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BAND
+http://142.44.215.45:25461/live/marcio/marcio/14298.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BAND HD
+http://142.44.215.45:25461/live/marcio/marcio/14297.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BAND NEWS
+http://142.44.215.45:25461/live/marcio/marcio/14296.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BAND NEWS HD
+http://142.44.215.45:25461/live/marcio/marcio/14295.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BAND SPORTS
+http://142.44.215.45:25461/live/marcio/marcio/14294.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BAND SPORTS HD
+http://142.44.215.45:25461/live/marcio/marcio/14293.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BIS
+http://142.44.215.45:25461/live/marcio/marcio/14292.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BIS HD
+http://142.44.215.45:25461/live/marcio/marcio/14291.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BOA VONTADE
+http://142.44.215.45:25461/live/marcio/marcio/14290.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BOOMERANG
+http://142.44.215.45:25461/live/marcio/marcio/14289.m3u8
+#EXTINF:-1    group-title="Canais premium 2",BOOMERANG HD
+http://142.44.215.45:25461/live/marcio/marcio/14288.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CANAL SONY
+http://142.44.215.45:25461/live/marcio/marcio/14285.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CANAL SONY HD
+http://142.44.215.45:25461/live/marcio/marcio/14284.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CANÇÃO NOVA
+http://142.44.215.45:25461/live/marcio/marcio/14283.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CARTOON NETWORK
+http://142.44.215.45:25461/live/marcio/marcio/14282.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CARTOON NETWORK HD
+http://142.44.215.45:25461/live/marcio/marcio/14281.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CINEMAX
+http://142.44.215.45:25461/live/marcio/marcio/14280.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CINEMAX HD
+http://142.44.215.45:25461/live/marcio/marcio/14279.m3u8
+#EXTINF:-1    group-title="Canais premium 2",COMBATE
+http://142.44.215.45:25461/live/marcio/marcio/14278.m3u8
+#EXTINF:-1    group-title="Canais premium 2",COMBATE HD
+http://142.44.215.45:25461/live/marcio/marcio/14277.m3u8
+#EXTINF:-1    group-title="Canais premium 2",COMEDY CENTRAL
+http://142.44.215.45:25461/live/marcio/marcio/14276.m3u8
+#EXTINF:-1    group-title="Canais premium 2",COMEDY CENTRAL HD
+http://142.44.215.45:25461/live/marcio/marcio/14275.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Curta!
+http://142.44.215.45:25461/live/marcio/marcio/14274.m3u8
+#EXTINF:-1    group-title="Canais premium 2",CURTA! HD
+http://142.44.215.45:25461/live/marcio/marcio/14273.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY CHANNEL
+http://142.44.215.45:25461/live/marcio/marcio/14272.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY CHANNEL HD
+http://142.44.215.45:25461/live/marcio/marcio/14271.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY CIVILIZATION
+http://142.44.215.45:25461/live/marcio/marcio/14270.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY CIVILIZATION HD
+http://142.44.215.45:25461/live/marcio/marcio/14269.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY HOME & HEALTH
+http://142.44.215.45:25461/live/marcio/marcio/14268.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY HOME & HEALTH HD
+http://142.44.215.45:25461/live/marcio/marcio/14267.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY KIDS
+http://142.44.215.45:25461/live/marcio/marcio/14266.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY KIDS HD
+http://142.44.215.45:25461/live/marcio/marcio/14265.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY SCIENCE
+http://142.44.215.45:25461/live/marcio/marcio/14264.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY SCIENCE HD
+http://142.44.215.45:25461/live/marcio/marcio/14263.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY THEATER
+http://142.44.215.45:25461/live/marcio/marcio/14262.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY THEATER HD
+http://142.44.215.45:25461/live/marcio/marcio/14261.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY TURBO
+http://142.44.215.45:25461/live/marcio/marcio/14260.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY TURBO HD
+http://142.44.215.45:25461/live/marcio/marcio/14259.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY WORLD
+http://142.44.215.45:25461/live/marcio/marcio/14258.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISCOVERY WORLD  HD
+http://142.44.215.45:25461/live/marcio/marcio/14257.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISNEY CHANNEL
+http://142.44.215.45:25461/live/marcio/marcio/14256.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISNEY CHANNEL HD
+http://142.44.215.45:25461/live/marcio/marcio/14255.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISNEY JUNIOR
+http://142.44.215.45:25461/live/marcio/marcio/14254.m3u8
+#EXTINF:-1    group-title="Canais premium 2",DISNEY XD
+http://142.44.215.45:25461/live/marcio/marcio/14253.m3u8
+#EXTINF:-1    group-title="Canais premium 2",E!
+http://142.44.215.45:25461/live/marcio/marcio/14252.m3u8
+#EXTINF:-1    group-title="Canais premium 2",E! HD
+http://142.44.215.45:25461/live/marcio/marcio/14251.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPN
+http://142.44.215.45:25461/live/marcio/marcio/14250.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPN   HD
+http://142.44.215.45:25461/live/marcio/marcio/14249.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPN BRASIL
+http://142.44.215.45:25461/live/marcio/marcio/14248.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPN BRASIL HD
+http://142.44.215.45:25461/live/marcio/marcio/14247.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPN HD
+http://142.44.215.45:25461/live/marcio/marcio/14244.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Esporte Interativo
+http://142.44.215.45:25461/live/marcio/marcio/14243.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Esporte Interativo 2
+http://142.44.215.45:25461/live/marcio/marcio/14241.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Esporte Interativo 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14240.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPORTE INTERATIVO BR
+http://142.44.215.45:25461/live/marcio/marcio/14239.m3u8
+#EXTINF:-1    group-title="Canais premium 2",ESPORTE INTERATIVO BR HD
+http://142.44.215.45:25461/live/marcio/marcio/14238.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Esporte Interativo HD
+http://142.44.215.45:25461/live/marcio/marcio/14242.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FISH TV
+http://142.44.215.45:25461/live/marcio/marcio/14237.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FISH TV HD
+http://142.44.215.45:25461/live/marcio/marcio/14236.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOOD NETWORK
+http://142.44.215.45:25461/live/marcio/marcio/14235.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOOD NETWORK HD
+http://142.44.215.45:25461/live/marcio/marcio/14234.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX
+http://142.44.215.45:25461/live/marcio/marcio/14233.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX HD
+http://142.44.215.45:25461/live/marcio/marcio/14232.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX LIFE
+http://142.44.215.45:25461/live/marcio/marcio/14231.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX LIFE HD
+http://142.44.215.45:25461/live/marcio/marcio/14230.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX PREMIUM 1
+http://142.44.215.45:25461/live/marcio/marcio/14229.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX PREMIUM 1 HD
+http://142.44.215.45:25461/live/marcio/marcio/14228.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX PREMIUM 2
+http://142.44.215.45:25461/live/marcio/marcio/14227.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX PREMIUM 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14226.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX SPORTS
+http://142.44.215.45:25461/live/marcio/marcio/14225.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX SPORTS 2
+http://142.44.215.45:25461/live/marcio/marcio/14223.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX SPORTS 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14222.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FOX SPORTS HD
+http://142.44.215.45:25461/live/marcio/marcio/14224.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FUTURA
+http://142.44.215.45:25461/live/marcio/marcio/14221.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FUTURA HD
+http://142.44.215.45:25461/live/marcio/marcio/14220.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FX
+http://142.44.215.45:25461/live/marcio/marcio/14219.m3u8
+#EXTINF:-1    group-title="Canais premium 2",FX HD
+http://142.44.215.45:25461/live/marcio/marcio/14218.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO BRASILIA
+http://142.44.215.45:25461/live/marcio/marcio/14217.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO BRASILIA HD
+http://142.44.215.45:25461/live/marcio/marcio/14216.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO EPTV CAMPINAS
+http://142.44.215.45:25461/live/marcio/marcio/14215.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO EPTV HD CAMPINAS
+http://142.44.215.45:25461/live/marcio/marcio/14214.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO EPTV HD RIBEIRÃO PRETO
+http://142.44.215.45:25461/live/marcio/marcio/14213.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO EPTV RIBEIRÃO PRETO
+http://142.44.215.45:25461/live/marcio/marcio/14212.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO MINAS
+http://142.44.215.45:25461/live/marcio/marcio/14211.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO MINAS HD
+http://142.44.215.45:25461/live/marcio/marcio/14210.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO NEWS
+http://142.44.215.45:25461/live/marcio/marcio/14209.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO NEWS HD
+http://142.44.215.45:25461/live/marcio/marcio/14208.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO NORDESTE
+http://142.44.215.45:25461/live/marcio/marcio/14207.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO NORDESTE HD
+http://142.44.215.45:25461/live/marcio/marcio/14206.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO RBS HD TV PORTO ALEGRE
+http://142.44.215.45:25461/live/marcio/marcio/14204.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO RBS TV PORTO ALEGRE
+http://142.44.215.45:25461/live/marcio/marcio/14205.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO RJ
+http://142.44.215.45:25461/live/marcio/marcio/14203.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO RJ HD
+http://142.44.215.45:25461/live/marcio/marcio/14202.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO RPC CURITIBA
+http://142.44.215.45:25461/live/marcio/marcio/14201.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO RPC CURITIBA HD
+http://142.44.215.45:25461/live/marcio/marcio/14200.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO SP
+http://142.44.215.45:25461/live/marcio/marcio/14199.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO SP HD
+http://142.44.215.45:25461/live/marcio/marcio/14198.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV ANHANGUERA
+http://142.44.215.45:25461/live/marcio/marcio/14197.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV ANHANGUERA HD
+http://142.44.215.45:25461/live/marcio/marcio/14196.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV BAHIA
+http://142.44.215.45:25461/live/marcio/marcio/14195.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV BAHIA HD
+http://142.44.215.45:25461/live/marcio/marcio/14194.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV TEM BAURU
+http://142.44.215.45:25461/live/marcio/marcio/14193.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV TEM HD S. J. DO RIO PRETO
+http://142.44.215.45:25461/live/marcio/marcio/14192.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV TEM S. J. DO RIO PRETO
+http://142.44.215.45:25461/live/marcio/marcio/14191.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOBO TV TEM SOROCABA
+http://142.44.215.45:25461/live/marcio/marcio/14190.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOOB
+http://142.44.215.45:25461/live/marcio/marcio/14189.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOOB HD
+http://142.44.215.45:25461/live/marcio/marcio/14188.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOOBINHO HD
+http://142.44.215.45:25461/live/marcio/marcio/14187.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GLOOBINHO SD
+http://142.44.215.45:25461/live/marcio/marcio/14186.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GNT
+http://142.44.215.45:25461/live/marcio/marcio/14185.m3u8
+#EXTINF:-1    group-title="Canais premium 2",GNT HD
+http://142.44.215.45:25461/live/marcio/marcio/14184.m3u8
+#EXTINF:-1    group-title="Canais premium 2",H2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14182.m3u8
+#EXTINF:-1    group-title="Canais premium 2",H2 SD
+http://142.44.215.45:25461/live/marcio/marcio/14183.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO
+http://142.44.215.45:25461/live/marcio/marcio/14181.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO 2
+http://142.44.215.45:25461/live/marcio/marcio/14180.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14179.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO FAMILY
+http://142.44.215.45:25461/live/marcio/marcio/14178.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO FAMILY HD
+http://142.44.215.45:25461/live/marcio/marcio/14177.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO HD
+http://142.44.215.45:25461/live/marcio/marcio/14176.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO PLUS
+http://142.44.215.45:25461/live/marcio/marcio/14175.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO PLUS HD
+http://142.44.215.45:25461/live/marcio/marcio/14173.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO SIGNATURE
+http://142.44.215.45:25461/live/marcio/marcio/14172.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HBO SIGNATURE HD
+http://142.44.215.45:25461/live/marcio/marcio/14171.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HISTORY
+http://142.44.215.45:25461/live/marcio/marcio/14170.m3u8
+#EXTINF:-1    group-title="Canais premium 2",HISTORY HD
+http://142.44.215.45:25461/live/marcio/marcio/14169.m3u8
+#EXTINF:-1    group-title="Canais premium 2",INVESTIGATION DISCOVERY
+http://142.44.215.45:25461/live/marcio/marcio/14168.m3u8
+#EXTINF:-1    group-title="Canais premium 2",INVESTIGATION DISCOVERY HD
+http://142.44.215.45:25461/live/marcio/marcio/14167.m3u8
+#EXTINF:-1    group-title="Canais premium 2",LIFETIME
+http://142.44.215.45:25461/live/marcio/marcio/14166.m3u8
+#EXTINF:-1    group-title="Canais premium 2",LIFETIME HD
+http://142.44.215.45:25461/live/marcio/marcio/14165.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAIS GLOBOSAT
+http://142.44.215.45:25461/live/marcio/marcio/14164.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAIS GLOBOSAT HD
+http://142.44.215.45:25461/live/marcio/marcio/14163.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAX
+http://142.44.215.45:25461/live/marcio/marcio/14162.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAX HD
+http://142.44.215.45:25461/live/marcio/marcio/14161.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAX PRIME
+http://142.44.215.45:25461/live/marcio/marcio/14160.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAX PRIME HD
+http://142.44.215.45:25461/live/marcio/marcio/14158.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAX UP
+http://142.44.215.45:25461/live/marcio/marcio/14157.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MAX UP HD
+http://142.44.215.45:25461/live/marcio/marcio/14156.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MEGAPIX
+http://142.44.215.45:25461/live/marcio/marcio/14155.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MEGAPIX HD
+http://142.44.215.45:25461/live/marcio/marcio/14154.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MTV
+http://142.44.215.45:25461/live/marcio/marcio/14153.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MTV HD
+http://142.44.215.45:25461/live/marcio/marcio/14152.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MULTISHOW
+http://142.44.215.45:25461/live/marcio/marcio/14151.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MULTISHOW HD
+http://142.44.215.45:25461/live/marcio/marcio/14150.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MUSIC BOX BRASIL
+http://142.44.215.45:25461/live/marcio/marcio/14149.m3u8
+#EXTINF:-1    group-title="Canais premium 2",MUSIC BOX BRASIL HD
+http://142.44.215.45:25461/live/marcio/marcio/14148.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NAT GEO
+http://142.44.215.45:25461/live/marcio/marcio/14147.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NAT GEO HD
+http://142.44.215.45:25461/live/marcio/marcio/14146.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NAT GEO KIDS
+http://142.44.215.45:25461/live/marcio/marcio/14145.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NAT GEO KIDS HD
+http://142.44.215.45:25461/live/marcio/marcio/14144.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NAT GEO WILD HD
+http://142.44.215.45:25461/live/marcio/marcio/14143.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NATGEO WILD
+http://142.44.215.45:25461/live/marcio/marcio/14142.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NICK JR
+http://142.44.215.45:25461/live/marcio/marcio/14140.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NICK JR HD
+http://142.44.215.45:25461/live/marcio/marcio/14139.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NICKELODEN
+http://142.44.215.45:25461/live/marcio/marcio/14138.m3u8
+#EXTINF:-1    group-title="Canais premium 2",NICKELODEON HD
+http://142.44.215.45:25461/live/marcio/marcio/14137.m3u8
+#EXTINF:-1    group-title="Canais premium 2",OFF
+http://142.44.215.45:25461/live/marcio/marcio/14136.m3u8
+#EXTINF:-1    group-title="Canais premium 2",OFF HD
+http://142.44.215.45:25461/live/marcio/marcio/14135.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PARAMOUNT CHANNEL
+http://142.44.215.45:25461/live/marcio/marcio/14134.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PARAMOUNT CHANNEL HD
+http://142.44.215.45:25461/live/marcio/marcio/14133.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 2
-http://142.44.215.45:25461/live/marcio/marcio/14132.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14131.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 3
-http://142.44.215.45:25461/live/marcio/marcio/14130.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 3 HD
-http://142.44.215.45:25461/live/marcio/marcio/14129.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 4
-http://142.44.215.45:25461/live/marcio/marcio/14128.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 4 HD
-http://142.44.215.45:25461/live/marcio/marcio/14127.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 5
-http://142.44.215.45:25461/live/marcio/marcio/14126.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 5 HD
-http://142.44.215.45:25461/live/marcio/marcio/14125.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 6
-http://142.44.215.45:25461/live/marcio/marcio/14124.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 6 HD
-http://142.44.215.45:25461/live/marcio/marcio/14123.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 7
-http://142.44.215.45:25461/live/marcio/marcio/14122.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PREMIERE 7 HD
-http://142.44.215.45:25461/live/marcio/marcio/14121.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Premiere Clubes
-http://142.44.215.45:25461/live/marcio/marcio/14120.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Premiere Clubes HD
-http://142.44.215.45:25461/live/marcio/marcio/14119.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PRIME BOX BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14118.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",PRIME BOX BRASIL HD
-http://142.44.215.45:25461/live/marcio/marcio/14117.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",RECORD
-http://142.44.215.45:25461/live/marcio/marcio/14116.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",RECORD HD
-http://142.44.215.45:25461/live/marcio/marcio/14111.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",RECORD HD Alternativo
-http://142.44.215.45:25461/live/marcio/marcio/14115.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",RECORD SP
-http://142.44.215.45:25461/live/marcio/marcio/14112.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",REDE BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14110.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",REDE TV
-http://142.44.215.45:25461/live/marcio/marcio/14109.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",REDE TV HD
-http://142.44.215.45:25461/live/marcio/marcio/14108.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",REDE VIDA
-http://142.44.215.45:25461/live/marcio/marcio/14107.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",RECORD NEWS
-http://142.44.215.45:25461/live/marcio/marcio/24695.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",RECORD NEWS HD
-http://142.44.215.45:25461/live/marcio/marcio/24694.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SBT
-http://142.44.215.45:25461/live/marcio/marcio/14106.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SBT HD
-http://142.44.215.45:25461/live/marcio/marcio/14105.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SBT SP INTERIOR
-http://142.44.215.45:25461/live/marcio/marcio/14104.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SEXTREME -$
-http://142.44.215.45:25461/live/marcio/marcio/14042.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SEXY HOT -$
-http://142.44.215.45:25461/live/marcio/marcio/14041.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPACE
-http://142.44.215.45:25461/live/marcio/marcio/14101.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPACE HD
-http://142.44.215.45:25461/live/marcio/marcio/14100.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPORTV
-http://142.44.215.45:25461/live/marcio/marcio/14099.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPORTV 2
-http://142.44.215.45:25461/live/marcio/marcio/14098.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPORTV 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14097.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPORTV 3
-http://142.44.215.45:25461/live/marcio/marcio/14096.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPORTV 3 HD
-http://142.44.215.45:25461/live/marcio/marcio/14095.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SPORTV HD
-http://142.44.215.45:25461/live/marcio/marcio/14094.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",STUDIO UNIVERSAL
-http://142.44.215.45:25461/live/marcio/marcio/14093.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",STUDIO UNIVERSAL HD
-http://142.44.215.45:25461/live/marcio/marcio/14092.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SYFY
-http://142.44.215.45:25461/live/marcio/marcio/14103.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",SYFY HD
-http://142.44.215.45:25461/live/marcio/marcio/14102.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",Tabela Jogos Premiere
-http://142.44.215.45:25461/live/marcio/marcio/14044.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TBS
-http://142.44.215.45:25461/live/marcio/marcio/14089.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TBS HD
-http://142.44.215.45:25461/live/marcio/marcio/14088.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TCM
-http://142.44.215.45:25461/live/marcio/marcio/14087.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE ACTION
-http://142.44.215.45:25461/live/marcio/marcio/14086.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE ACTION HD
-http://142.44.215.45:25461/live/marcio/marcio/14085.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE CULT
-http://142.44.215.45:25461/live/marcio/marcio/14084.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE CULT HD
-http://142.44.215.45:25461/live/marcio/marcio/14083.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE FUN
-http://142.44.215.45:25461/live/marcio/marcio/14082.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE FUN HD
-http://142.44.215.45:25461/live/marcio/marcio/14081.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE PIPOCA
-http://142.44.215.45:25461/live/marcio/marcio/14080.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE PIPOCA HD
-http://142.44.215.45:25461/live/marcio/marcio/14079.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE PREMIUM
-http://142.44.215.45:25461/live/marcio/marcio/14078.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE PREMIUM HD
-http://142.44.215.45:25461/live/marcio/marcio/14077.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE TOUCH
-http://142.44.215.45:25461/live/marcio/marcio/14076.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TELECINE TOUCH HD
-http://142.44.215.45:25461/live/marcio/marcio/14075.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TLC
-http://142.44.215.45:25461/live/marcio/marcio/14073.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TLC HD
-http://142.44.215.45:25461/live/marcio/marcio/14072.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TNT
-http://142.44.215.45:25461/live/marcio/marcio/14071.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TNT HD
-http://142.44.215.45:25461/live/marcio/marcio/14070.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TNT SERIES
-http://142.44.215.45:25461/live/marcio/marcio/14069.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TNT SERIES HD
-http://142.44.215.45:25461/live/marcio/marcio/14068.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TOONCAST
-http://142.44.215.45:25461/live/marcio/marcio/14067.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TruTV
-http://142.44.215.45:25461/live/marcio/marcio/14057.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TruTV HD
-http://142.44.215.45:25461/live/marcio/marcio/14056.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TV Câmara
-http://142.44.215.45:25461/live/marcio/marcio/14062.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TV Escola
-http://142.44.215.45:25461/live/marcio/marcio/14061.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TV JUSTICA
-http://142.44.215.45:25461/live/marcio/marcio/14065.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TV RA TIM BUM
-http://142.44.215.45:25461/live/marcio/marcio/14059.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TV RA TIM BUM HD
-http://142.44.215.45:25461/live/marcio/marcio/14058.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",TV SENADO
-http://142.44.215.45:25461/live/marcio/marcio/14066.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",UNIVERSAL CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14055.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",UNIVERSAL CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14054.m3u8?FORMIGAtv
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 2
+http://142.44.215.45:25461/live/marcio/marcio/14132.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14131.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 3
+http://142.44.215.45:25461/live/marcio/marcio/14130.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 3 HD
+http://142.44.215.45:25461/live/marcio/marcio/14129.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 4
+http://142.44.215.45:25461/live/marcio/marcio/14128.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 4 HD
+http://142.44.215.45:25461/live/marcio/marcio/14127.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 5
+http://142.44.215.45:25461/live/marcio/marcio/14126.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 5 HD
+http://142.44.215.45:25461/live/marcio/marcio/14125.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 6
+http://142.44.215.45:25461/live/marcio/marcio/14124.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 6 HD
+http://142.44.215.45:25461/live/marcio/marcio/14123.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 7
+http://142.44.215.45:25461/live/marcio/marcio/14122.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PREMIERE 7 HD
+http://142.44.215.45:25461/live/marcio/marcio/14121.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Premiere Clubes
+http://142.44.215.45:25461/live/marcio/marcio/14120.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Premiere Clubes HD
+http://142.44.215.45:25461/live/marcio/marcio/14119.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PRIME BOX BRASIL
+http://142.44.215.45:25461/live/marcio/marcio/14118.m3u8
+#EXTINF:-1    group-title="Canais premium 2",PRIME BOX BRASIL HD
+http://142.44.215.45:25461/live/marcio/marcio/14117.m3u8
+#EXTINF:-1    group-title="Canais premium 2",RECORD
+http://142.44.215.45:25461/live/marcio/marcio/14116.m3u8
+#EXTINF:-1    group-title="Canais premium 2",RECORD HD
+http://142.44.215.45:25461/live/marcio/marcio/14111.m3u8
+#EXTINF:-1    group-title="Canais premium 2",RECORD HD Alternativo
+http://142.44.215.45:25461/live/marcio/marcio/14115.m3u8
+#EXTINF:-1    group-title="Canais premium 2",RECORD SP
+http://142.44.215.45:25461/live/marcio/marcio/14112.m3u8
+#EXTINF:-1    group-title="Canais premium 2",REDE BRASIL
+http://142.44.215.45:25461/live/marcio/marcio/14110.m3u8
+#EXTINF:-1    group-title="Canais premium 2",REDE TV
+http://142.44.215.45:25461/live/marcio/marcio/14109.m3u8
+#EXTINF:-1    group-title="Canais premium 2",REDE TV HD
+http://142.44.215.45:25461/live/marcio/marcio/14108.m3u8
+#EXTINF:-1    group-title="Canais premium 2",REDE VIDA
+http://142.44.215.45:25461/live/marcio/marcio/14107.m3u8
+#EXTINF:-1    group-title="Canais premium 2",RECORD NEWS
+http://142.44.215.45:25461/live/marcio/marcio/24695.m3u8
+#EXTINF:-1    group-title="Canais premium 2",RECORD NEWS HD
+http://142.44.215.45:25461/live/marcio/marcio/24694.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SBT
+http://142.44.215.45:25461/live/marcio/marcio/14106.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SBT HD
+http://142.44.215.45:25461/live/marcio/marcio/14105.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SBT SP INTERIOR
+http://142.44.215.45:25461/live/marcio/marcio/14104.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SEXTREME -$
+http://142.44.215.45:25461/live/marcio/marcio/14042.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SEXY HOT -$
+http://142.44.215.45:25461/live/marcio/marcio/14041.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPACE
+http://142.44.215.45:25461/live/marcio/marcio/14101.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPACE HD
+http://142.44.215.45:25461/live/marcio/marcio/14100.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPORTV
+http://142.44.215.45:25461/live/marcio/marcio/14099.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPORTV 2
+http://142.44.215.45:25461/live/marcio/marcio/14098.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPORTV 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14097.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPORTV 3
+http://142.44.215.45:25461/live/marcio/marcio/14096.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPORTV 3 HD
+http://142.44.215.45:25461/live/marcio/marcio/14095.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SPORTV HD
+http://142.44.215.45:25461/live/marcio/marcio/14094.m3u8
+#EXTINF:-1    group-title="Canais premium 2",STUDIO UNIVERSAL
+http://142.44.215.45:25461/live/marcio/marcio/14093.m3u8
+#EXTINF:-1    group-title="Canais premium 2",STUDIO UNIVERSAL HD
+http://142.44.215.45:25461/live/marcio/marcio/14092.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SYFY
+http://142.44.215.45:25461/live/marcio/marcio/14103.m3u8
+#EXTINF:-1    group-title="Canais premium 2",SYFY HD
+http://142.44.215.45:25461/live/marcio/marcio/14102.m3u8
+#EXTINF:-1    group-title="Canais premium 2",Tabela Jogos Premiere
+http://142.44.215.45:25461/live/marcio/marcio/14044.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TBS
+http://142.44.215.45:25461/live/marcio/marcio/14089.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TBS HD
+http://142.44.215.45:25461/live/marcio/marcio/14088.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TCM
+http://142.44.215.45:25461/live/marcio/marcio/14087.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE ACTION
+http://142.44.215.45:25461/live/marcio/marcio/14086.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE ACTION HD
+http://142.44.215.45:25461/live/marcio/marcio/14085.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE CULT
+http://142.44.215.45:25461/live/marcio/marcio/14084.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE CULT HD
+http://142.44.215.45:25461/live/marcio/marcio/14083.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE FUN
+http://142.44.215.45:25461/live/marcio/marcio/14082.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE FUN HD
+http://142.44.215.45:25461/live/marcio/marcio/14081.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE PIPOCA
+http://142.44.215.45:25461/live/marcio/marcio/14080.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE PIPOCA HD
+http://142.44.215.45:25461/live/marcio/marcio/14079.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE PREMIUM
+http://142.44.215.45:25461/live/marcio/marcio/14078.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE PREMIUM HD
+http://142.44.215.45:25461/live/marcio/marcio/14077.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE TOUCH
+http://142.44.215.45:25461/live/marcio/marcio/14076.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TELECINE TOUCH HD
+http://142.44.215.45:25461/live/marcio/marcio/14075.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TLC
+http://142.44.215.45:25461/live/marcio/marcio/14073.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TLC HD
+http://142.44.215.45:25461/live/marcio/marcio/14072.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TNT
+http://142.44.215.45:25461/live/marcio/marcio/14071.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TNT HD
+http://142.44.215.45:25461/live/marcio/marcio/14070.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TNT SERIES
+http://142.44.215.45:25461/live/marcio/marcio/14069.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TNT SERIES HD
+http://142.44.215.45:25461/live/marcio/marcio/14068.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TOONCAST
+http://142.44.215.45:25461/live/marcio/marcio/14067.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TruTV
+http://142.44.215.45:25461/live/marcio/marcio/14057.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TruTV HD
+http://142.44.215.45:25461/live/marcio/marcio/14056.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TV Câmara
+http://142.44.215.45:25461/live/marcio/marcio/14062.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TV Escola
+http://142.44.215.45:25461/live/marcio/marcio/14061.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TV JUSTICA
+http://142.44.215.45:25461/live/marcio/marcio/14065.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TV RA TIM BUM
+http://142.44.215.45:25461/live/marcio/marcio/14059.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TV RA TIM BUM HD
+http://142.44.215.45:25461/live/marcio/marcio/14058.m3u8
+#EXTINF:-1    group-title="Canais premium 2",TV SENADO
+http://142.44.215.45:25461/live/marcio/marcio/14066.m3u8
+#EXTINF:-1    group-title="Canais premium 2",UNIVERSAL CHANNEL
+http://142.44.215.45:25461/live/marcio/marcio/14055.m3u8
+#EXTINF:-1    group-title="Canais premium 2",UNIVERSAL CHANNEL HD
+http://142.44.215.45:25461/live/marcio/marcio/14054.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",VH1
-http://142.44.215.45:25461/live/marcio/marcio/14053.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",VH1 HD
-http://142.44.215.45:25461/live/marcio/marcio/14052.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",VIVA
-http://142.44.215.45:25461/live/marcio/marcio/14050.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",VIVA HD
-http://142.44.215.45:25461/live/marcio/marcio/14049.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",WARNER CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14048.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",WARNER CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14047.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",WOOHOO
-http://142.44.215.45:25461/live/marcio/marcio/14046.m3u8?FORMIGAtv
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",WOOHOO HD
-http://142.44.215.45:25461/live/marcio/marcio/14045.m3u8?FORMIGAtv
+#EXTINF:-1    group-title="Canais premium 2",VH1
+http://142.44.215.45:25461/live/marcio/marcio/14053.m3u8
+#EXTINF:-1    group-title="Canais premium 2",VH1 HD
+http://142.44.215.45:25461/live/marcio/marcio/14052.m3u8
+#EXTINF:-1    group-title="Canais premium 2",VIVA
+http://142.44.215.45:25461/live/marcio/marcio/14050.m3u8
+#EXTINF:-1    group-title="Canais premium 2",VIVA HD
+http://142.44.215.45:25461/live/marcio/marcio/14049.m3u8
+#EXTINF:-1    group-title="Canais premium 2",WARNER CHANNEL
+http://142.44.215.45:25461/live/marcio/marcio/14048.m3u8
+#EXTINF:-1    group-title="Canais premium 2",WARNER CHANNEL HD
+http://142.44.215.45:25461/live/marcio/marcio/14047.m3u8
+#EXTINF:-1    group-title="Canais premium 2",WOOHOO
+http://142.44.215.45:25461/live/marcio/marcio/14046.m3u8
+#EXTINF:-1    group-title="Canais premium 2",WOOHOO HD
+http://142.44.215.45:25461/live/marcio/marcio/14045.m3u8
 
 ------- CANAIS PREMIUM 3.0 ------------------------
 #EXTINF:0 group-title="Canais Premium 3", Mirray
@@ -1413,6 +1414,7 @@ http://142.44.137.22:8080/live/peter/peter/841.ts
 ---------------- Canais premium 4.0 ------------------------
 #EXTINF:0 group-title="Canais Premium 4", Mirray
 http://0.0.0.0
+
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Canais Premium 4",ARTE 1
 http://srv.unionsrv.com:8880/live/UJ9FZtB4LW/hCw6z6pQvi/8153.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Canais Premium 4",ARTE 1 HD
@@ -2275,6 +2277,7 @@ http://srv.unionsrv.com:8880/live/UJ9FZtB4LW/hCw6z6pQvi/7977.ts
 ------------ Canais Premium 5.0 ---------------------
 #EXTINF:0 group-title="Canais Premium 5", Mirray
 http://0.0.0.0
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRecord" group-title="Canais Premium 5",TV RECORD HD
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id="0" group-title="Canais Premium 5",BLOOMBERG
