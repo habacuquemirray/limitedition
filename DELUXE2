@@ -1,6 +1,7 @@
 #EXTM3U
 ------------ Canais premium 1.0 ---------------
-
+#EXTINF:0 group-title="Canais Premium 1", Mirray
+http://0.0.0.0
 #EXTINF:-1,group-title="Canais Premium 1",A&E HD
 http://maxptv.ddns.net:25461/live/ultra100/100ultra/231.ts
 #EXTINF:-1,group-title="Canais Premium 1",AMC HD
@@ -236,6 +237,8 @@ http://maxptv.ddns.net:25461/live/ultra100/100ultra/2.ts
 
 
 ------------- Canais premium 2.0 ---------------------
+#EXTINF:0 group-title="Canais Premium 2", Mirray
+http://0.0.0.0
 #EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",A&E
 http://142.44.215.45:25461/live/marcio/marcio/14309.m3u8?FORMIGAtv
 #EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais premium 2",A&E HD
@@ -746,7 +749,8 @@ http://142.44.215.45:25461/live/marcio/marcio/14046.m3u8?FORMIGAtv
 http://142.44.215.45:25461/live/marcio/marcio/14045.m3u8?FORMIGAtv
 
 ------- CANAIS PREMIUM 3.0 ------------------------
-
+#EXTINF:0 group-title="Canais Premium 3", Mirray
+http://0.0.0.0
 #EXTINF:-1,group-title="Canais Premium 3",A&E HD
 http://142.44.137.22:8080/live/peter/peter/1063.ts
 #EXTINF:-1,group-title="Canais Premium 3",A&E SD
@@ -1407,7 +1411,8 @@ http://142.44.137.22:8080/live/peter/peter/845.ts
 http://142.44.137.22:8080/live/peter/peter/841.ts
 
 ---------------- Canais premium 4.0 ------------------------
-
+#EXTINF:0 group-title="Canais Premium 4", Mirray
+http://0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Canais Premium 4",ARTE 1
 http://srv.unionsrv.com:8880/live/UJ9FZtB4LW/hCw6z6pQvi/8153.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Canais Premium 4",ARTE 1 HD
@@ -2268,6 +2273,8 @@ http://srv.unionsrv.com:8880/live/UJ9FZtB4LW/hCw6z6pQvi/8157.ts
 http://srv.unionsrv.com:8880/live/UJ9FZtB4LW/hCw6z6pQvi/7977.ts
 
 ------------ Canais Premium 5.0 ---------------------
+#EXTINF:0 group-title="Canais Premium 5", Mirray
+http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRecord" group-title="Canais Premium 5",TV RECORD HD
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id="0" group-title="Canais Premium 5",BLOOMBERG
