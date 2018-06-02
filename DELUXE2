@@ -240,514 +240,842 @@ http://maxptv.ddns.net:25461/live/ultra100/100ultra/2.ts
 ------------- Canais premium 2.0 ---------------------
 #EXTINF:0 group-title="Canais Premium 2", Mirray
 http://0.0.0.0
-#EXTINF:-1    group-title="Canais Premium 2",A&E
-http://142.44.215.45:25461/live/marcio/marcio/14309.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",A&E HD
-http://142.44.215.45:25461/live/marcio/marcio/14308.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",AMC
-http://142.44.215.45:25461/live/marcio/marcio/14307.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",AMC HD
-http://142.44.215.45:25461/live/marcio/marcio/14306.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ANIMAL PLANET
-http://142.44.215.45:25461/live/marcio/marcio/14305.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ANIMAL PLANET HD
-http://142.44.215.45:25461/live/marcio/marcio/14304.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ARTE 1
-http://142.44.215.45:25461/live/marcio/marcio/14303.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ARTE 1 HD
-http://142.44.215.45:25461/live/marcio/marcio/14302.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",AXN
-http://142.44.215.45:25461/live/marcio/marcio/14301.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",AXN HD
-http://142.44.215.45:25461/live/marcio/marcio/14300.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BAND
-http://142.44.215.45:25461/live/marcio/marcio/14298.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BAND HD
-http://142.44.215.45:25461/live/marcio/marcio/14297.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BAND NEWS
-http://142.44.215.45:25461/live/marcio/marcio/14296.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BAND NEWS HD
-http://142.44.215.45:25461/live/marcio/marcio/14295.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BAND SPORTS
-http://142.44.215.45:25461/live/marcio/marcio/14294.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BAND SPORTS HD
-http://142.44.215.45:25461/live/marcio/marcio/14293.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BIS
-http://142.44.215.45:25461/live/marcio/marcio/14292.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BIS HD
-http://142.44.215.45:25461/live/marcio/marcio/14291.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BOA VONTADE
-http://142.44.215.45:25461/live/marcio/marcio/14290.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BOOMERANG
-http://142.44.215.45:25461/live/marcio/marcio/14289.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",BOOMERANG HD
-http://142.44.215.45:25461/live/marcio/marcio/14288.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CANAL SONY
-http://142.44.215.45:25461/live/marcio/marcio/14285.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CANAL SONY HD
-http://142.44.215.45:25461/live/marcio/marcio/14284.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CANÇÃO NOVA
-http://142.44.215.45:25461/live/marcio/marcio/14283.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CARTOON NETWORK
-http://142.44.215.45:25461/live/marcio/marcio/14282.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CARTOON NETWORK HD
-http://142.44.215.45:25461/live/marcio/marcio/14281.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CINEMAX
-http://142.44.215.45:25461/live/marcio/marcio/14280.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CINEMAX HD
-http://142.44.215.45:25461/live/marcio/marcio/14279.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",COMBATE
-http://142.44.215.45:25461/live/marcio/marcio/14278.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",COMBATE HD
-http://142.44.215.45:25461/live/marcio/marcio/14277.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",COMEDY CENTRAL
-http://142.44.215.45:25461/live/marcio/marcio/14276.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",COMEDY CENTRAL HD
-http://142.44.215.45:25461/live/marcio/marcio/14275.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Curta!
-http://142.44.215.45:25461/live/marcio/marcio/14274.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",CURTA! HD
-http://142.44.215.45:25461/live/marcio/marcio/14273.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14272.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14271.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY CIVILIZATION
-http://142.44.215.45:25461/live/marcio/marcio/14270.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY CIVILIZATION HD
-http://142.44.215.45:25461/live/marcio/marcio/14269.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY HOME & HEALTH
-http://142.44.215.45:25461/live/marcio/marcio/14268.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY HOME & HEALTH HD
-http://142.44.215.45:25461/live/marcio/marcio/14267.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY KIDS
-http://142.44.215.45:25461/live/marcio/marcio/14266.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY KIDS HD
-http://142.44.215.45:25461/live/marcio/marcio/14265.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY SCIENCE
-http://142.44.215.45:25461/live/marcio/marcio/14264.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY SCIENCE HD
-http://142.44.215.45:25461/live/marcio/marcio/14263.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY THEATER
-http://142.44.215.45:25461/live/marcio/marcio/14262.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY THEATER HD
-http://142.44.215.45:25461/live/marcio/marcio/14261.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY TURBO
-http://142.44.215.45:25461/live/marcio/marcio/14260.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY TURBO HD
-http://142.44.215.45:25461/live/marcio/marcio/14259.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY WORLD
-http://142.44.215.45:25461/live/marcio/marcio/14258.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISCOVERY WORLD  HD
-http://142.44.215.45:25461/live/marcio/marcio/14257.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISNEY CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14256.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISNEY CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14255.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISNEY JUNIOR
-http://142.44.215.45:25461/live/marcio/marcio/14254.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",DISNEY XD
-http://142.44.215.45:25461/live/marcio/marcio/14253.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",E!
-http://142.44.215.45:25461/live/marcio/marcio/14252.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",E! HD
-http://142.44.215.45:25461/live/marcio/marcio/14251.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPN
-http://142.44.215.45:25461/live/marcio/marcio/14250.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPN   HD
-http://142.44.215.45:25461/live/marcio/marcio/14249.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPN BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14248.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPN BRASIL HD
-http://142.44.215.45:25461/live/marcio/marcio/14247.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPN HD
-http://142.44.215.45:25461/live/marcio/marcio/14244.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Esporte Interativo
-http://142.44.215.45:25461/live/marcio/marcio/14243.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Esporte Interativo 2
-http://142.44.215.45:25461/live/marcio/marcio/14241.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Esporte Interativo 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14240.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPORTE INTERATIVO BR
-http://142.44.215.45:25461/live/marcio/marcio/14239.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",ESPORTE INTERATIVO BR HD
-http://142.44.215.45:25461/live/marcio/marcio/14238.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Esporte Interativo HD
-http://142.44.215.45:25461/live/marcio/marcio/14242.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FISH TV
-http://142.44.215.45:25461/live/marcio/marcio/14237.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FISH TV HD
-http://142.44.215.45:25461/live/marcio/marcio/14236.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOOD NETWORK
-http://142.44.215.45:25461/live/marcio/marcio/14235.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOOD NETWORK HD
-http://142.44.215.45:25461/live/marcio/marcio/14234.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX
-http://142.44.215.45:25461/live/marcio/marcio/14233.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX HD
-http://142.44.215.45:25461/live/marcio/marcio/14232.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX LIFE
-http://142.44.215.45:25461/live/marcio/marcio/14231.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX LIFE HD
-http://142.44.215.45:25461/live/marcio/marcio/14230.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX PREMIUM 1
-http://142.44.215.45:25461/live/marcio/marcio/14229.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX PREMIUM 1 HD
-http://142.44.215.45:25461/live/marcio/marcio/14228.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX PREMIUM 2
-http://142.44.215.45:25461/live/marcio/marcio/14227.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX PREMIUM 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14226.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX SPORTS
-http://142.44.215.45:25461/live/marcio/marcio/14225.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX SPORTS 2
-http://142.44.215.45:25461/live/marcio/marcio/14223.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX SPORTS 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14222.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FOX SPORTS HD
-http://142.44.215.45:25461/live/marcio/marcio/14224.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FUTURA
-http://142.44.215.45:25461/live/marcio/marcio/14221.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FUTURA HD
-http://142.44.215.45:25461/live/marcio/marcio/14220.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FX
-http://142.44.215.45:25461/live/marcio/marcio/14219.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",FX HD
-http://142.44.215.45:25461/live/marcio/marcio/14218.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO BRASILIA
-http://142.44.215.45:25461/live/marcio/marcio/14217.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO BRASILIA HD
-http://142.44.215.45:25461/live/marcio/marcio/14216.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO EPTV CAMPINAS
-http://142.44.215.45:25461/live/marcio/marcio/14215.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO EPTV HD CAMPINAS
-http://142.44.215.45:25461/live/marcio/marcio/14214.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO EPTV HD RIBEIRÃO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14213.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO EPTV RIBEIRÃO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14212.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO MINAS
-http://142.44.215.45:25461/live/marcio/marcio/14211.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO MINAS HD
-http://142.44.215.45:25461/live/marcio/marcio/14210.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO NEWS
-http://142.44.215.45:25461/live/marcio/marcio/14209.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO NEWS HD
-http://142.44.215.45:25461/live/marcio/marcio/14208.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO NORDESTE
-http://142.44.215.45:25461/live/marcio/marcio/14207.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO NORDESTE HD
-http://142.44.215.45:25461/live/marcio/marcio/14206.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO RBS HD TV PORTO ALEGRE
-http://142.44.215.45:25461/live/marcio/marcio/14204.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO RBS TV PORTO ALEGRE
-http://142.44.215.45:25461/live/marcio/marcio/14205.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO RJ
-http://142.44.215.45:25461/live/marcio/marcio/14203.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO RJ HD
-http://142.44.215.45:25461/live/marcio/marcio/14202.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO RPC CURITIBA
-http://142.44.215.45:25461/live/marcio/marcio/14201.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO RPC CURITIBA HD
-http://142.44.215.45:25461/live/marcio/marcio/14200.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO SP
-http://142.44.215.45:25461/live/marcio/marcio/14199.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO SP HD
-http://142.44.215.45:25461/live/marcio/marcio/14198.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV ANHANGUERA
-http://142.44.215.45:25461/live/marcio/marcio/14197.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV ANHANGUERA HD
-http://142.44.215.45:25461/live/marcio/marcio/14196.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV BAHIA
-http://142.44.215.45:25461/live/marcio/marcio/14195.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV BAHIA HD
-http://142.44.215.45:25461/live/marcio/marcio/14194.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV TEM BAURU
-http://142.44.215.45:25461/live/marcio/marcio/14193.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV TEM HD S. J. DO RIO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14192.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV TEM S. J. DO RIO PRETO
-http://142.44.215.45:25461/live/marcio/marcio/14191.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOBO TV TEM SOROCABA
-http://142.44.215.45:25461/live/marcio/marcio/14190.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOOB
-http://142.44.215.45:25461/live/marcio/marcio/14189.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOOB HD
-http://142.44.215.45:25461/live/marcio/marcio/14188.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOOBINHO HD
-http://142.44.215.45:25461/live/marcio/marcio/14187.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GLOOBINHO SD
-http://142.44.215.45:25461/live/marcio/marcio/14186.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GNT
-http://142.44.215.45:25461/live/marcio/marcio/14185.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",GNT HD
-http://142.44.215.45:25461/live/marcio/marcio/14184.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",H2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14182.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",H2 SD
-http://142.44.215.45:25461/live/marcio/marcio/14183.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO
-http://142.44.215.45:25461/live/marcio/marcio/14181.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO 2
-http://142.44.215.45:25461/live/marcio/marcio/14180.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14179.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO FAMILY
-http://142.44.215.45:25461/live/marcio/marcio/14178.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO FAMILY HD
-http://142.44.215.45:25461/live/marcio/marcio/14177.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO HD
-http://142.44.215.45:25461/live/marcio/marcio/14176.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO PLUS
-http://142.44.215.45:25461/live/marcio/marcio/14175.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO PLUS HD
-http://142.44.215.45:25461/live/marcio/marcio/14173.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO SIGNATURE
-http://142.44.215.45:25461/live/marcio/marcio/14172.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HBO SIGNATURE HD
-http://142.44.215.45:25461/live/marcio/marcio/14171.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HISTORY
-http://142.44.215.45:25461/live/marcio/marcio/14170.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",HISTORY HD
-http://142.44.215.45:25461/live/marcio/marcio/14169.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",INVESTIGATION DISCOVERY
-http://142.44.215.45:25461/live/marcio/marcio/14168.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",INVESTIGATION DISCOVERY HD
-http://142.44.215.45:25461/live/marcio/marcio/14167.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",LIFETIME
-http://142.44.215.45:25461/live/marcio/marcio/14166.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",LIFETIME HD
-http://142.44.215.45:25461/live/marcio/marcio/14165.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAIS GLOBOSAT
-http://142.44.215.45:25461/live/marcio/marcio/14164.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAIS GLOBOSAT HD
-http://142.44.215.45:25461/live/marcio/marcio/14163.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAX
-http://142.44.215.45:25461/live/marcio/marcio/14162.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAX HD
-http://142.44.215.45:25461/live/marcio/marcio/14161.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAX PRIME
-http://142.44.215.45:25461/live/marcio/marcio/14160.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAX PRIME HD
-http://142.44.215.45:25461/live/marcio/marcio/14158.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAX UP
-http://142.44.215.45:25461/live/marcio/marcio/14157.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MAX UP HD
-http://142.44.215.45:25461/live/marcio/marcio/14156.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MEGAPIX
-http://142.44.215.45:25461/live/marcio/marcio/14155.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MEGAPIX HD
-http://142.44.215.45:25461/live/marcio/marcio/14154.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MTV
-http://142.44.215.45:25461/live/marcio/marcio/14153.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MTV HD
-http://142.44.215.45:25461/live/marcio/marcio/14152.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MULTISHOW
-http://142.44.215.45:25461/live/marcio/marcio/14151.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MULTISHOW HD
-http://142.44.215.45:25461/live/marcio/marcio/14150.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MUSIC BOX BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14149.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",MUSIC BOX BRASIL HD
-http://142.44.215.45:25461/live/marcio/marcio/14148.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NAT GEO
-http://142.44.215.45:25461/live/marcio/marcio/14147.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NAT GEO HD
-http://142.44.215.45:25461/live/marcio/marcio/14146.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NAT GEO KIDS
-http://142.44.215.45:25461/live/marcio/marcio/14145.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NAT GEO KIDS HD
-http://142.44.215.45:25461/live/marcio/marcio/14144.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NAT GEO WILD HD
-http://142.44.215.45:25461/live/marcio/marcio/14143.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NATGEO WILD
-http://142.44.215.45:25461/live/marcio/marcio/14142.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NICK JR
-http://142.44.215.45:25461/live/marcio/marcio/14140.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NICK JR HD
-http://142.44.215.45:25461/live/marcio/marcio/14139.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NICKELODEN
-http://142.44.215.45:25461/live/marcio/marcio/14138.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",NICKELODEON HD
-http://142.44.215.45:25461/live/marcio/marcio/14137.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",OFF
-http://142.44.215.45:25461/live/marcio/marcio/14136.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",OFF HD
-http://142.44.215.45:25461/live/marcio/marcio/14135.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PARAMOUNT CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14134.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PARAMOUNT CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14133.m3u8
-
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 2
-http://142.44.215.45:25461/live/marcio/marcio/14132.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14131.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 3
-http://142.44.215.45:25461/live/marcio/marcio/14130.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 3 HD
-http://142.44.215.45:25461/live/marcio/marcio/14129.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 4
-http://142.44.215.45:25461/live/marcio/marcio/14128.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 4 HD
-http://142.44.215.45:25461/live/marcio/marcio/14127.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 5
-http://142.44.215.45:25461/live/marcio/marcio/14126.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 5 HD
-http://142.44.215.45:25461/live/marcio/marcio/14125.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 6
-http://142.44.215.45:25461/live/marcio/marcio/14124.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 6 HD
-http://142.44.215.45:25461/live/marcio/marcio/14123.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 7
-http://142.44.215.45:25461/live/marcio/marcio/14122.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PREMIERE 7 HD
-http://142.44.215.45:25461/live/marcio/marcio/14121.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Premiere Clubes
-http://142.44.215.45:25461/live/marcio/marcio/14120.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Premiere Clubes HD
-http://142.44.215.45:25461/live/marcio/marcio/14119.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PRIME BOX BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14118.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",PRIME BOX BRASIL HD
-http://142.44.215.45:25461/live/marcio/marcio/14117.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",RECORD
-http://142.44.215.45:25461/live/marcio/marcio/14116.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",RECORD HD
-http://142.44.215.45:25461/live/marcio/marcio/14111.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",RECORD HD Alternativo
-http://142.44.215.45:25461/live/marcio/marcio/14115.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",RECORD SP
-http://142.44.215.45:25461/live/marcio/marcio/14112.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",REDE BRASIL
-http://142.44.215.45:25461/live/marcio/marcio/14110.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",REDE TV
-http://142.44.215.45:25461/live/marcio/marcio/14109.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",REDE TV HD
-http://142.44.215.45:25461/live/marcio/marcio/14108.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",REDE VIDA
-http://142.44.215.45:25461/live/marcio/marcio/14107.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",RECORD NEWS
-http://142.44.215.45:25461/live/marcio/marcio/24695.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",RECORD NEWS HD
-http://142.44.215.45:25461/live/marcio/marcio/24694.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SBT
-http://142.44.215.45:25461/live/marcio/marcio/14106.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SBT HD
-http://142.44.215.45:25461/live/marcio/marcio/14105.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SBT SP INTERIOR
-http://142.44.215.45:25461/live/marcio/marcio/14104.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SEXTREME -$
-http://142.44.215.45:25461/live/marcio/marcio/14042.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SEXY HOT -$
-http://142.44.215.45:25461/live/marcio/marcio/14041.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPACE
-http://142.44.215.45:25461/live/marcio/marcio/14101.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPACE HD
-http://142.44.215.45:25461/live/marcio/marcio/14100.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPORTV
-http://142.44.215.45:25461/live/marcio/marcio/14099.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPORTV 2
-http://142.44.215.45:25461/live/marcio/marcio/14098.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPORTV 2 HD
-http://142.44.215.45:25461/live/marcio/marcio/14097.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPORTV 3
-http://142.44.215.45:25461/live/marcio/marcio/14096.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPORTV 3 HD
-http://142.44.215.45:25461/live/marcio/marcio/14095.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SPORTV HD
-http://142.44.215.45:25461/live/marcio/marcio/14094.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",STUDIO UNIVERSAL
-http://142.44.215.45:25461/live/marcio/marcio/14093.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",STUDIO UNIVERSAL HD
-http://142.44.215.45:25461/live/marcio/marcio/14092.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SYFY
-http://142.44.215.45:25461/live/marcio/marcio/14103.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",SYFY HD
-http://142.44.215.45:25461/live/marcio/marcio/14102.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",Tabela Jogos Premiere
-http://142.44.215.45:25461/live/marcio/marcio/14044.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TBS
-http://142.44.215.45:25461/live/marcio/marcio/14089.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TBS HD
-http://142.44.215.45:25461/live/marcio/marcio/14088.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TCM
-http://142.44.215.45:25461/live/marcio/marcio/14087.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE ACTION
-http://142.44.215.45:25461/live/marcio/marcio/14086.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE ACTION HD
-http://142.44.215.45:25461/live/marcio/marcio/14085.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE CULT
-http://142.44.215.45:25461/live/marcio/marcio/14084.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE CULT HD
-http://142.44.215.45:25461/live/marcio/marcio/14083.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE FUN
-http://142.44.215.45:25461/live/marcio/marcio/14082.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE FUN HD
-http://142.44.215.45:25461/live/marcio/marcio/14081.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE PIPOCA
-http://142.44.215.45:25461/live/marcio/marcio/14080.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE PIPOCA HD
-http://142.44.215.45:25461/live/marcio/marcio/14079.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE PREMIUM
-http://142.44.215.45:25461/live/marcio/marcio/14078.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE PREMIUM HD
-http://142.44.215.45:25461/live/marcio/marcio/14077.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE TOUCH
-http://142.44.215.45:25461/live/marcio/marcio/14076.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TELECINE TOUCH HD
-http://142.44.215.45:25461/live/marcio/marcio/14075.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TLC
-http://142.44.215.45:25461/live/marcio/marcio/14073.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TLC HD
-http://142.44.215.45:25461/live/marcio/marcio/14072.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TNT
-http://142.44.215.45:25461/live/marcio/marcio/14071.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TNT HD
-http://142.44.215.45:25461/live/marcio/marcio/14070.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TNT SERIES
-http://142.44.215.45:25461/live/marcio/marcio/14069.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TNT SERIES HD
-http://142.44.215.45:25461/live/marcio/marcio/14068.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TOONCAST
-http://142.44.215.45:25461/live/marcio/marcio/14067.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TruTV
-http://142.44.215.45:25461/live/marcio/marcio/14057.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TruTV HD
-http://142.44.215.45:25461/live/marcio/marcio/14056.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TV Câmara
-http://142.44.215.45:25461/live/marcio/marcio/14062.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TV Escola
-http://142.44.215.45:25461/live/marcio/marcio/14061.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TV JUSTICA
-http://142.44.215.45:25461/live/marcio/marcio/14065.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TV RA TIM BUM
-http://142.44.215.45:25461/live/marcio/marcio/14059.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TV RA TIM BUM HD
-http://142.44.215.45:25461/live/marcio/marcio/14058.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",TV SENADO
-http://142.44.215.45:25461/live/marcio/marcio/14066.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",UNIVERSAL CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14055.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",UNIVERSAL CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14054.m3u8
-
-#EXTINF:-1    group-title="Canais Premium 2",VH1
-http://142.44.215.45:25461/live/marcio/marcio/14053.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",VH1 HD
-http://142.44.215.45:25461/live/marcio/marcio/14052.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",VIVA
-http://142.44.215.45:25461/live/marcio/marcio/14050.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",VIVA HD
-http://142.44.215.45:25461/live/marcio/marcio/14049.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",WARNER CHANNEL
-http://142.44.215.45:25461/live/marcio/marcio/14048.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",WARNER CHANNEL HD
-http://142.44.215.45:25461/live/marcio/marcio/14047.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",WOOHOO
-http://142.44.215.45:25461/live/marcio/marcio/14046.m3u8
-#EXTINF:-1    group-title="Canais Premium 2",WOOHOO HD
-http://142.44.215.45:25461/live/marcio/marcio/14045.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",A&E HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4193.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",A&E SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4194.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",AMC HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4192.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",AMC SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7670.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Animal Planet HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4190.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Animal Planet SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4191.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Arte 1 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4582.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",AXN HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4185.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",AXN SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4186.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Agro Brasil HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3099.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Baby TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4184.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4628.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7631.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",BAND Nordeste HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7683.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band SP HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4183.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band Sports HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6613.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band Sports SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4179.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band News HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4177.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band News SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4180.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",BIS HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4174.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",BIS SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4175.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Bloomberg TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/1891.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Boa Vontade TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4173.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Boomerang HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4171.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Boomerang SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4172.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal Brasil HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4169.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal Brasil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4170.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal Rural SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4168.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal RBI
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4591.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Cartoon Network HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4165.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Cartoon Network SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4166.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Cinemax HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4162.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Cinemax SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4163.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CNN International
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4161.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CNN International SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3140.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CNT SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4160.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Combate Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/10781.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Combate HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/5617.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Combate SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7632.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Comedy Central HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4603.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Comedy Central SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7629.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CULTURA SP HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7695.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Cultura BA HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6898.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CULTURA NORDESTE
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7693.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Cultura SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4156.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Curta! SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4155.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Channel HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4153.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Channel SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4154.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Civilization HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4581.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Civilization SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4600.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Home & Health HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6612.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Home & Health SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4152.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Kids HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4149.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Kids SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4150.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Science HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3135.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Science SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7633.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Theater HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4148.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Turbo HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4146.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Turbo SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4147.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery World HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4145.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Disney Channel HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4143.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Disney Channel SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4144.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Disney JR HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4141.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Disney JR SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4142.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Disney XD SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4140.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",E! HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4137.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",E! SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4138.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EI Maxx HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4133.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EI Maxx SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4136.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EI Maxx 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4134.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EI Maxx 2 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4135.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN  HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4128.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4132.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN+ HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6611.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN + SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/5620.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN Brasil HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4130.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN Brasil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4131.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ESPN EXTRA HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7634.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Esporte Interativo HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6610.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Esporte Interativo SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4127.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Esporte Interativo 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4126.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FISH TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4125.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOOD NETWORK HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4123.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOOD NETWORK SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4124.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOX HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4121.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4122.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Life HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4119.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Life SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4120.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox 1 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4579.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Premium 1 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4604.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Premium 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4118.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Sports HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4113.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Sports SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4116.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Sports 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4114.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Sports 2 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4115.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Futura SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4112.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FX HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4110.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FX SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4111.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Gazeta ES HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7610.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Gazeta SP HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7609.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Curitiba HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/10780.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Nordeste HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4632.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Nordeste SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4103.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Minas HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4107.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Brasilia HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7606.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Brasilia SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7605.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Rio HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4100.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Rio SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4101.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo SP HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4097.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo SP SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4098.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",GLOBO SÃO JOSÉ DOS CAMPOS SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7708.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",GLOBO INTER TV CABUGI SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7706.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",GLOBO AMAZÔNICA MANAUS SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7705.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Bahia HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7687.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Paraná HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7607.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EPTV Campinas
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4630.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EPTV RIBEIRÃO PRETO SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7696.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo News HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4096.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo News SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4104.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Internacional SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7619.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Premium
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4612.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Gloob HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4094.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Gloob SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4095.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",GNT HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4092.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",GNT SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4093.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",H2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4078.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",H2 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4091.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4085.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4090.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4088.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO 2 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4089.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Family HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4086.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Family SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4087.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Plus HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4082.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Plus SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4084.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Plus E SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4083.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Signature HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4080.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Signature SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4081.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ID HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4074.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ID SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4075.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",LIFETIME HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4069.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Lifetime SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4070.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Mais Globosat HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4067.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Mais Globosat SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4068.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",MAX HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4065.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",MAX SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4066.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",MAX Prime HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4062.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Max Prime SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4064.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Max Prime E SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4063.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Max UP HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4060.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Max UP SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4061.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Megapix HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4058.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Megapix SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4059.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",MTV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4056.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",MTV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4057.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Multishow HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4054.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Multishow SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4055.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Music Box Brazil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4607.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NatGeo Kids HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4053.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NatGeo Kids SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4052.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NatGeo Wild HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4049.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NatGeo Wild SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4050.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",National Geographic HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4047.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",National Geographic SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4048.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NBR SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4620.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NHK World Premium
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4045.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nick Jr. HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4042.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nick Jr HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4044.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nick Jr. SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4043.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nickelodeon HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7604.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nickelodeon SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4041.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Off HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4037.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Off SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4038.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Paramount HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4035.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Paramount SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4036.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Play HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3066.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Play TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4034.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Playboy HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4033.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PLAYBOY SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/5623.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Polishop TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4609.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere Clubes HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4019.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4020.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 1 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6609.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 1 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4616.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4615.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 2 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4032.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 3 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4030.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 3 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4031.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 4 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4028.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 4 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4029.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 5 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4026.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 5 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4027.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 6 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4024.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 6 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4025.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 7 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4023.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 7 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4614.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 8 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4022.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4021.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PFC SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7636.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Primebox Brasil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4018.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3933.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RECORD TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/5621.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record Nordeste HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7684.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RECORD SP Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7639.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record Internacional
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7641.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record News HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4593.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record News SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3935.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rede Família HD (Record News Campinas)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6928.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Vitória (Record ES) SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6891.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RIC TV (Record Curitiba) SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6894.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RIC TV Maringá ( Record ) SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6896.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Igreja Universal HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6906.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Igreja Universal SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4073.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RBC - Rede Brasil de Comunicação
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7685.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rede Brasil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4623.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rede TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3929.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rede TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4627.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rede Vida SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3930.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3926.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT Recife HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6890.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT Goiás HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7690.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT GO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6921.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT Rondonia
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3923.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT Piauí HD (TV Cidade Verde)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6895.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Tv Jornal HD (Filiada da SBT Pernambuco - Interior)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6919.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Sextreme SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3922.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Sexzone HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3920.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Sexy hot SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3921.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal Sony HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3917.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Sony SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3918.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Space HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3915.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Space SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3916.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Sportv HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3909.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SporTV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3914.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SporTV 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3912.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SporTV 2 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3913.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SporTV 3 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3910.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SporTV 3 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3911.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SPORTV 4 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7674.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Studio Universal HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3907.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Studio Universal SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3908.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Syfy HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3905.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SYFY SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3906.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TBS HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3903.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TBS SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3904.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TCM SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3902.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Action HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3900.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Action SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3901.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Cult HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7622.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Cult SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3899.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Fun HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3896.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Fun SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3897.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Pipoca HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3894.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Pipoca SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3895.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Premium HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3892.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Premium SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3893.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3890.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Touch SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3891.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",The History Channel HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4077.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",The History Channel SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4079.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TLC HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3888.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TLC SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3889.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TNT HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3886.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TNT SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3887.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TNT Series HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3884.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TNT Series SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3885.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Tooncast HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3882.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Tooncast SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3883.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV CINE 1 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7624.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV CINE 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7625.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV CINE  3 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7626.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV CINE 4 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7627.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Camara HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6905.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Tv Camara
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4622.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Canção Nova SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4167.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Brasil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3878.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV JUSTICA
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3875.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Tv Escola
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4621.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Ra-tim-bum SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4595.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Rio Largo (Maceió) SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6932.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV SENADO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3873.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Universal Channel HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3871.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Universal Channel SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3872.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",VH1 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3870.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",VH1 Megahits HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4610.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",VH1 Mega Hits SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4611.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Viva HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3867.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Viva
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3868.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Warner Channel HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4617.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Warner Channel SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4618.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Woohoo
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3864.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Verdes Mares (CE) SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7689.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Trutv SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3881.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Mar (Alagoas)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6931.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",90s
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3051.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Brits   Hits
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3064.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CANÇÃO NOVA HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7691.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Alternative
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3065.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",CARTOON RETRO SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4597.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",California Music Channel HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3086.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Combate
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4159.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Dance/EDM
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3063.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal Comunitario
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4624.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Bein 10 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7672.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Liberal Belém
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7613.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globinho HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7707.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Aperipê HD (Sergipe)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6910.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Novo Tempo HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6900.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Nova Esperança SD (Maranhão)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6893.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Evangelizar SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3107.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Diário Fortaleza SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6885.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Aparecida SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3879.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV INES HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3100.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rock
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3053.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SIC TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/1895.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV INES
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3876.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",ShopTime SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4608.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SIC Internacional SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3919.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4629.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rap 2K
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3054.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Rap
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3055.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Pop Latino
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3046.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RTP 1 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/1901.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Red Bull TV FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/786.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RTP 2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/1900.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",QVC FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3084.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Pop Hits
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3057.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",EPTV SÃO CARLOS SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7698.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Pop   Country
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3058.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HIT TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3927.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Prime Box Brazil SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4606.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Novo Tempo SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4040.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Milagre
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7686.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Musica Urbana
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3047.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NRJ Hits HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4039.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Metal
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3059.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Mexicana
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3048.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",RBS TV Porto Alegre SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4631.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HIT TV
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/5471.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Hip Hop/R&B
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3062.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Indie
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3060.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Kidz Only!
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3043.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Hit List
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3061.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",IURD TV SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3105.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Jasmin TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4071.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Hot TV
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4585.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",G2P TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6901.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Dorcel TV HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4584.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Terceiro Anjo SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3102.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Século 21 SD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6922.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV TEM Bauru HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7612.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",VH1 Megahits
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3869.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TVW HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3083.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TVW-2 HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3082.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Tv Gideoes
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3877.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Throwback Jamz
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3050.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Teen Beats
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3044.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Today's Country
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3052.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Y2K
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3049.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",A&E Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7892.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",AMC Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7898.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Animal Planet Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7883.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",AXN Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7897.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Baby Tv Full Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8676.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Band Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7873.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Boomerang Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7890.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Canal OFF Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7895.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Cartoon Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7888.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Channel Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7688.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Kids Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7879.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Discovery Turbo Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7697.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Disney JR Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7891.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Espn Brasil Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7882.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Esporte Interativo Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7881.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Eurosport 1 FULL HD (USA)
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3136.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Food Network Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7893.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fox Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7701.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOX Life Full Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8677.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOX Premium 1 Full Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8678.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOX Premium 2 Full Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8679.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOX Sports 2 Full Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8680.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",FOX SPORTS Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7703.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Fullmetal Alchemist
+http://br1.e-tv.xyz:8081/movie/like2freem@/nuz7l5BurI/8170.mp4
+#EXTINF:-1,  group-title="Canais Premium 2",FX Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8681.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Internacional Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7620.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Globo Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7871.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HBO Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7704.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",HUSTLER FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/6883.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",MSNBC FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3092.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Multishow Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7889.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nat Geo Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7887.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NAT GEO WILD Full Hd
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8682.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",NatGeoKids Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7894.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",News 12 (Brooklyn) FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3081.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nick JR Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7880.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Nova Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7874.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PAC 12 Arizona FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/798.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PAC 12 Bay Area FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/797.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PAC 12 Los Angeles FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/796.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PAC 12 Whashington FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/793.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",PAC-12 National FULL HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3089.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Penthouse Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/4583.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Premieres Clubes Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7700.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3936.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record Internacional Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7621.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Record Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7875.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SBT Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7872.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SexyZone Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7877.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Space Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7884.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SporTV Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7699.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Studio Universal Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7896.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",SyFy Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7899.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Action Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7885.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Pipoca Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7878.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Premium Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7694.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",Telecine Touch Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7886.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",The History Channel Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7702.m3u8
+#EXTINF:-1,  group-title="Canais Premium 2",TV Estacao Full HD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7876.m3u8
 
 ------- CANAIS PREMIUM 3.0 ------------------------
 #EXTINF:0 group-title="Canais Premium 3", Mirray
