@@ -4766,22 +4766,6 @@ http://142.44.215.45:25461/live/nana/nana/14220.ts
 http://142.44.215.45:25461/live/nana/nana/14219.ts
 #EXTINF:-1, group-title="Canais Premium 8",FX HD
 http://142.44.215.45:25461/live/nana/nana/14218.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO BRASILIA
-http://142.44.215.45:25461/live/nana/nana/14217.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO BRASILIA HD
-http://142.44.215.45:25461/live/nana/nana/14216.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV CAMPINAS
-http://142.44.215.45:25461/live/nana/nana/14215.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV HD CAMPINAS
-http://142.44.215.45:25461/live/nana/nana/14214.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV HD RIBEIRÃO PRETO
-http://142.44.215.45:25461/live/nana/nana/14213.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV RIBEIRÃO PRETO
-http://142.44.215.45:25461/live/nana/nana/14212.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO MINAS
-http://142.44.215.45:25461/live/nana/nana/14211.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO MINAS HD
-http://142.44.215.45:25461/live/nana/nana/14210.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBO NEWS
 http://142.44.215.45:25461/live/nana/nana/14209.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBO NEWS HD
@@ -5276,30 +5260,6 @@ http://142.44.215.45:25461/live/nana/nana/34373.ts
 http://142.44.215.45:25461/live/nana/nana/34505.ts
 #EXTINF:-1, group-title="Canais Premium 8",GALINHA PINTADINHA BABY 24 HORAS-(W)
 http://142.44.215.45:25461/live/nana/nana/34592.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO  PORTO ALEGRE SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34498.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO ANHANGUERA GOIANIA SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34497.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO BELEM SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34496.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO BRASÍLIA HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34372.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO BRASÍLIA SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34503.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO CABUGI SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34495.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO CUIABA SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34494.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV CAMPINAS HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34371.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV CAMPINAS SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34493.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO EPTV SÃO CARLOS SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34492.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO MG HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34370.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO MG SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34502.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBO NEWS HD-(W)
 http://142.44.215.45:25461/live/nana/nana/34369.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBO NEWS SD-(W)
@@ -5318,16 +5278,6 @@ http://142.44.215.45:25461/live/nana/nana/34366.ts
 http://142.44.215.45:25461/live/nana/nana/34365.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBO SP SD-(W)
 http://142.44.215.45:25461/live/nana/nana/34499.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO TV TEM BAURU SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34490.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO TV TEM SOROCABA SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34489.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO TV TRIBUNA SANTOS SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34488.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO TV VANGUARDA S.J. DOS CAMPOS SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34487.ts
-#EXTINF:-1, group-title="Canais Premium 8",GLOBO TV VERDES MARES - FORTALEZA SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34486.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBOSAT HD-(W)
 http://142.44.215.45:25461/live/nana/nana/34364.ts
 #EXTINF:-1, group-title="Canais Premium 8",GLOBOSAT SD-(W)
@@ -5474,38 +5424,6 @@ http://142.44.215.45:25461/live/nana/nana/34451.ts
 http://142.44.215.45:25461/live/nana/nana/34332.ts
 #EXTINF:-1, group-title="Canais Premium 8",PREMIERE CLUBES SD-(W)
 http://142.44.215.45:25461/live/nana/nana/34447.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : ANIMAL PLANET SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34577.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : CARTOON NETWORK HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34573.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : DISNEY CHANNEL HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34572.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : NATIONAL GEOGRAPHIC HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34570.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : NATIONAL GEOGRAPHIC SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34569.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : PORTO CANAL HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34568.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : RECORD HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34567.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : RECORD SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34566.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : RTP 1 HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34564.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : RTP 1-(W)
-http://142.44.215.45:25461/live/nana/nana/34565.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : RTP 2 HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34562.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : RTP 2-(W)
-http://142.44.215.45:25461/live/nana/nana/34563.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : SIC HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34560.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : SIC MULHER HD-(W)
-http://142.44.215.45:25461/live/nana/nana/34559.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : SIC MULHER SD-(W)
-http://142.44.215.45:25461/live/nana/nana/34558.ts
-#EXTINF:-1, group-title="Canais Premium 8",PT : SIC-(W)
-http://142.44.215.45:25461/live/nana/nana/34561.ts
 #EXTINF:-1, group-title="Canais Premium 8",RECORD HD-(W)
 http://142.44.215.45:25461/live/nana/nana/34331.ts
 #EXTINF:-1, group-title="Canais Premium 8",RECORD NEWS HD-(W)
@@ -5672,35 +5590,409 @@ http://142.44.215.45:25461/live/nana/nana/34605.ts
 http://142.44.215.45:25461/live/nana/nana/34604.ts
 #EXTINF:-1, ,TELECINE PREMIUM FULL HD*-(W)
 http://142.44.215.45:25461/live/nana/nana/34602.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 12  -$
-http://142.44.215.45:25461/live/nana/nana/22237.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 11 -$
-http://142.44.215.45:25461/live/nana/nana/22236.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 10  -$
-http://142.44.215.45:25461/live/nana/nana/22235.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 09 -$
-http://142.44.215.45:25461/live/nana/nana/22234.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 08 -$
-http://142.44.215.45:25461/live/nana/nana/22233.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 07 -$
-http://142.44.215.45:25461/live/nana/nana/22232.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 06 -$
-http://142.44.215.45:25461/live/nana/nana/22231.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 05 -$
-http://142.44.215.45:25461/live/nana/nana/22230.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 04 -$
-http://142.44.215.45:25461/live/nana/nana/22229.ts
-#EXTINF:-1,group-title="Canais Premium 8",JASMIN CHANNEL -$
-http://142.44.215.45:25461/live/nana/nana/22244.ts
-#EXTINF:-1,group-title="Canais Premium 8",Jasmin TV  -$
-http://142.44.215.45:25461/live/nana/nana/22239.ts
-#EXTINF:-1,group-title="Canais Premium 8",Adulto 13  -$
-http://142.44.215.45:25461/live/nana/nana/22243.ts
-#EXTINF:-1,group-title="Canais Premium 8",MIAMI TV 02 -$
-http://142.44.215.45:25461/live/nana/nana/22242.ts
-#EXTINF:-1,group-title="Canais Premium 8",MIAMI TV 03 -$
-http://142.44.215.45:25461/live/nana/nana/22241.ts
-#EXTINF:-1,group-title="Canais Premium 8",MIAMI TV 04 -$
-http://142.44.215.45:25461/live/nana/nana/22240.ts
-#EXTINF:-1,group-title="Canais Premium 8",Visit-X TV -$
-http://142.44.215.45:25461/live/nana/nana/22238.ts
+------- Canais Premium 9.0 ---------------
+
+#EXTINF:0, group-title="Canais Premium 9",A&E
+http://paraisotv.ddns.net:80/031/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ALL SPORTS TV
+http://5a0c3936c25c8.streamlock.net:1935/allsportstv/allsportstv/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ANIMAL PLANET
+http://paraisotv.ddns.net:80/017/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",AXN
+http://paraisotv.ddns.net:80/078/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",BAND NEWS
+http://paraisotv.ddns.net:80/032/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",BAND SPORTS
+http://paraisotv.ddns.net:80/c015/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",BIS
+http://paraisotv.ddns.net:80/061/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",BOOMERANG
+http://paraisotv.ddns.net:80/091/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",BYU TV INTERNATIONAL
+http://byubhls-i.akamaihd.net:80/hls/live/267282/byutvintport/master_1664.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL 20 NET
+http://cdn.jmvstream.com:80/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL 20 TV
+http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL 24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL DE SÃO PAULO
+http://stream01.msolutionbrasil.com.br:80/hls/canaldesaopaulo/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL JESUS
+http://stmv3.euroti.com.br:1935/imagem/imagem/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL OITO CAMPINAS
+http://stmv2.euroti.com.br:1935/matheus3411/matheus3411/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL PROMESSAS
+http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL RURAL
+http://67149o.ha.azioncdn.net:80/hlshigh/playlist.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL SETE
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANAL SONY
+http://paraisotv.ddns.net:80/003/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CARTOON NETWORK
+http://paraisotv.ddns.net:80/027/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CINEMAX
+http://paraisotv.ddns.net:80/035/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",COMBATE
+http://paraisotv.ddns.net:80/016/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",COMEDY CENTRAL
+http://paraisotv.ddns.net:80/030/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CREATIVE TV
+http://streaming63.sitehosting.com.br:1935/jandy/jandy/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CURTA!
+http://paraisotv.ddns.net:80/014/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",CWB TV
+http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY CHANNEL
+http://paraisotv.ddns.net:80/c011/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY CIVILIZATION
+http://paraisotv.ddns.net:80/050/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY HOME & HEALTH
+http://paraisotv.ddns.net:80/c013/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY KIDS
+http://paraisotv.ddns.net:80/c014/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY SCIENCE
+http://paraisotv.ddns.net:80/074/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY THEATER
+http://paraisotv.ddns.net:80/028/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY TURBO
+http://paraisotv.ddns.net:80/026/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISCOVERY WORLD
+http://paraisotv.ddns.net:80/094/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISNEY CHANNEL
+http://paraisotv.ddns.net:80/075/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISNEY JUNIOR
+http://paraisotv.ddns.net:80/087/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",DISNEY XD
+http://paraisotv.ddns.net:80/086/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",E!
+http://paraisotv.ddns.net:80/070/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ESPN
+http://paraisotv.ddns.net:80/c002/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ESPN BRASIL
+http://paraisotv.ddns.net:80/c001/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ESPN+
+http://paraisotv.ddns.net:80/c003/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ESPORTE INTERATIVO
+http://paraisotv.ddns.net:80/c004/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ESPORTE INTERATIVO 2
+http://paraisotv.ddns.net:80/c005/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",ESPORTE INTERATIVO BR
+http://paraisotv.ddns.net:80/048/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FAST CINE
+http://stmv1.euroti.com.br:1935/fastcine/fastcine/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FISH TV
+http://paraisotv.ddns.net:80/108/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOOD NETWORK
+http://paraisotv.ddns.net:80/c012/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX
+http://paraisotv.ddns.net:80/064/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX LIFE
+http://paraisotv.ddns.net:80/083/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX PREMIUM 1
+http://paraisotv.ddns.net:80/018/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX PREMIUM 2
+http://paraisotv.ddns.net:80/019/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX SPORTS
+http://paraisotv.ddns.net:80/036/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX SPORTS
+http://paraisotv.ddns.net:80/c006/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",FOX SPORTS 2
+http://paraisotv.ddns.net:80/c009/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",GLOBO NEWS
+http://paraisotv.ddns.net:80/013/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",GLOBO RJ
+http://paraisotv.ddns.net:80/020/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",GLOBO SP
+http://paraisotv.ddns.net:80/021/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",GLOOB
+http://paraisotv.ddns.net:80/089/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HBO
+http://paraisotv.ddns.net:80/053/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HBO 2
+http://paraisotv.ddns.net:80/047/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HBO FAMILY
+http://paraisotv.ddns.net:80/088/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HBO PLUS
+http://paraisotv.ddns.net:80/037/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HBO SIGNATURE
+http://paraisotv.ddns.net:80/071/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HISTORY
+http://paraisotv.ddns.net:80/024/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",HISTORY 2
+http://paraisotv.ddns.net:80/054/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",INVESTIGAÇÃO DISCOVERY
+http://paraisotv.ddns.net:80/056/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",MAIS GLOBOSAT
+http://paraisotv.ddns.net:80/073/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",MAX
+http://paraisotv.ddns.net:80/051/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",MAX UP
+http://paraisotv.ddns.net:80/045/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",MEGAPIX
+http://paraisotv.ddns.net:80/033/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",MTV
+http://paraisotv.ddns.net:80/072/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",MULTISHOW
+http://paraisotv.ddns.net:80/022/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",NAT GEO
+http://paraisotv.ddns.net:80/101/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",NAT GEO WILD
+http://paraisotv.ddns.net:80/082/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",NICKELODEON
+http://paraisotv.ddns.net:80/015/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",NICK JR.
+http://paraisotv.ddns.net:80/052/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PARAMOUNT CHANNEL
+http://paraisotv.ddns.net:80/004/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 2
+http://paraisotv.ddns.net:80/099/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 3
+http://paraisotv.ddns.net:80/100/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 4
+http://paraisotv.ddns.net:80/110/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 5
+http://paraisotv.ddns.net:80/044/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 6
+http://paraisotv.ddns.net:80/042/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 7
+http://paraisotv.ddns.net:80/043/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE 8
+http://paraisotv.ddns.net:80/041/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",PREMIERE CLUBES
+http://paraisotv.ddns.net:80/097/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",RECORD NEWS
+http://paraisotv.ddns.net:80/049/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",RECORD TV
+http://paraisotv.ddns.net:80/109/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",REDE TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",REDE TV!
+http://paraisotv.ddns.net:80/063/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",REDE VIDA
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",RIC TV RECORD
+http://streaming.sc.gruporic.com.br:80/show/ric_hd720.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SBT
+http://paraisotv.ddns.net:80/084/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SBT INTERIOR
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SBT SC
+http://slrp.sambavideos.sambatech.com:80/liveevent/livesc_7669e5c05e7b20455acc3bdec60c7f23/livestream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SEC TV
+http://hd4.com.br:1935/sectv2/sectv2/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SESC TV
+http://api.new.livestream.com:80/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SEVEN TV
+http://11.fm5.com.br:1935/seventv/seventv/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SPACE
+http://paraisotv.ddns.net:80/029/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SPORTV
+http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SPORTV 2
+http://paraisotv.ddns.net:80/c007/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SPORTV 3
+http://paraisotv.ddns.net:80/c016/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",STUDIO UNIVERSAL
+http://paraisotv.ddns.net:80/096/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",SYFY
+http://paraisotv.ddns.net:80/093/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TBS
+http://paraisotv.ddns.net:80/038/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TCM
+http://paraisotv.ddns.net:80/039/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TCM 10
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TELECINE ACTION
+http://paraisotv.ddns.net:80/068/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TELECINE CULT
+http://paraisotv.ddns.net:80/055/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TELECINE FUN
+http://paraisotv.ddns.net:80/060/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TELECINE PIPOCA
+http://paraisotv.ddns.net:80/065/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TELECINE PREMIUM
+http://paraisotv.ddns.net:80/069/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TELECINE TOUCH
+http://paraisotv.ddns.net:80/102/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TLC
+http://paraisotv.ddns.net:80/034/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TNT
+http://paraisotv.ddns.net:80/009/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TNT SÉRIES
+http://paraisotv.ddns.net:80/025/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TOONCAST
+http://paraisotv.ddns.net:80/085/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TOP TV
+http://stmv3.euroti.com.br:1935/toptv/toptv/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TRU TV
+http://paraisotv.ddns.net:80/103/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TV NEWS
+http://stmv3.euroti.com.br:1935/tvrevista/tvrevista/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TV RÁ TIM BUM!
+http://paraisotv.ddns.net:80/023/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TV SENADO
+http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",TV SENADO
+http://tvmpf.mpf.mp.br:1935/event1238/event1238.stream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",UNIVERSAL CHANNEL
+http://paraisotv.ddns.net:80/067/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",VIVA
+http://paraisotv.ddns.net:80/079/myStream/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",VIVA NA TV
+http://painelvj.com.br:1935/vivanatv/vivanatv.sdp/live.m3u8
+
+#EXTINF:0, group-title="Canais Premium 9",WARNER TV
+http://paraisotv.ddns.net:80/080/myStream/live.m3u8
