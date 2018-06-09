@@ -4451,3 +4451,3412 @@ http://painel.iptvmove.com:80/live/MAURICIO21988345677/12345678/7461.m3u8
 http://painel.iptvmove.com:80/live/MAURICIO21988345677/12345678/2657.m3u8 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://3.bp.blogspot.com/-WbNyWpseGFc/Whs8UK0P-qI/AAAAAAAABZc/91A56OPsOnIVlzSQ2cTcu4VuPsi21dlrgCLcBGAs/s1600/multishow.png" group-title="Canais Premium 8",MULTISHOW HD
 http://painel.iptvmove.com:80/live/MAURICIO21988345677/12345678/1383.m3u8
+
+------------ Canais Premium 9 --------------------
+
+#EXTINF:-1,group-title="Canais Premium 9",A&E
+http://145.239.5.118:25461/live/luca/luca/10755.ts
+#EXTINF:-1,group-title="Canais Premium 9",A&E SD Op2
+http://145.239.5.118:25461/live/luca/luca/41798.ts
+#EXTINF:-1,group-title="Canais Premium 9",A&E ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10967.ts
+#EXTINF:-1,group-title="Canais Premium 9",A&E HD
+http://145.239.5.118:25461/live/luca/luca/10754.ts
+#EXTINF:-1,group-title="Canais Premium 9",A&E HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10966.ts
+#EXTINF:-1,group-title="Canais Premium 9",A&E HD Op2
+http://145.239.5.118:25461/live/luca/luca/41894.ts
+#EXTINF:-1,group-title="Canais Premium 9",A&E FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41843.ts
+#EXTINF:-1,group-title="Canais Premium 9",AGROCANAL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",AMAZON SAT ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10963.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC
+http://145.239.5.118:25461/live/luca/luca/10753.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC SD Op2
+http://145.239.5.118:25461/live/luca/luca/41797.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10962.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC HD
+http://145.239.5.118:25461/live/luca/luca/11901.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10961.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC HD Op2
+http://145.239.5.118:25461/live/luca/luca/41893.ts
+#EXTINF:-1,group-title="Canais Premium 9",AMC FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41842.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET
+http://145.239.5.118:25461/live/luca/luca/10752.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET SD Op2
+http://145.239.5.118:25461/live/luca/luca/41796.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10960.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET HD
+http://145.239.5.118:25461/live/luca/luca/10751.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10959.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET HD Op2
+http://145.239.5.118:25461/live/luca/luca/41892.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL PLANET FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41841.ts
+#EXTINF:-1,group-title="Canais Premium 9",ARTE 1
+http://145.239.5.118:25461/live/luca/luca/10750.ts
+#EXTINF:-1,group-title="Canais Premium 9",ARTE 1 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41795.ts
+#EXTINF:-1,group-title="Canais Premium 9",ARTE 1 HD
+http://145.239.5.118:25461/live/luca/luca/10749.ts
+#EXTINF:-1,group-title="Canais Premium 9",AUTO MOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",AXN
+http://145.239.5.118:25461/live/luca/luca/10748.ts
+#EXTINF:-1,group-title="Canais Premium 9",AXN SD Op2
+http://145.239.5.118:25461/live/luca/luca/41794.ts
+#EXTINF:-1,group-title="Canais Premium 9",AXN ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10965.ts
+#EXTINF:-1,group-title="Canais Premium 9",AXN HD
+http://145.239.5.118:25461/live/luca/luca/10747.ts
+#EXTINF:-1,group-title="Canais Premium 9",AXN HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10964.ts
+#EXTINF:-1,group-title="Canais Premium 9",AXN FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41840.ts
+#EXTINF:-1,group-title="Canais Premium 9",BABY TV
+http://145.239.5.118:25461/live/luca/luca/10746.ts
+#EXTINF:-1,group-title="Canais Premium 9",BABY TV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41793.ts
+#EXTINF:-1,group-title="Canais Premium 9",BABY TV ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10958.ts
+#EXTINF:-1,group-title="Canais Premium 9",BABY TV FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41903.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND
+http://145.239.5.118:25461/live/luca/luca/10745.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10957.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND SD Op2
+http://145.239.5.118:25461/live/luca/luca/41791.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND HD
+http://145.239.5.118:25461/live/luca/luca/10744.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10956.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NEWS
+http://145.239.5.118:25461/live/luca/luca/10743.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NEWS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41792.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NEWS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10955.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NEWS HD
+http://145.239.5.118:25461/live/luca/luca/10742.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NORDESTE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41839.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NORDESTE HD Op2
+http://145.239.5.118:25461/live/luca/luca/41891.ts
+#EXTINF:-1,group-title="Canais Premium 9",Band News: O É da Coisa, com Reinaldo Azevedo
+http://145.239.5.118:25461/live/luca/luca/39667.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND SPORTS
+http://145.239.5.118:25461/live/luca/luca/10741.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND SPORTS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10954.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND SPORTS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41790.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND SPORTS HD
+http://145.239.5.118:25461/live/luca/luca/10740.ts
+#EXTINF:-1,group-title="Canais Premium 9",BIS
+http://145.239.5.118:25461/live/luca/luca/10739.ts
+#EXTINF:-1,group-title="Canais Premium 9",BIS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10953.ts
+#EXTINF:-1,group-title="Canais Premium 9",BIS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41789.ts
+#EXTINF:-1,group-title="Canais Premium 9",BIS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10952.ts
+#EXTINF:-1,group-title="Canais Premium 9",BIS HD
+http://145.239.5.118:25461/live/luca/luca/10738.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOA VONTADE
+http://145.239.5.118:25461/live/luca/luca/3884.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG
+http://145.239.5.118:25461/live/luca/luca/10737.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10951.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG SD Op2
+http://145.239.5.118:25461/live/luca/luca/41788.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG HD
+http://145.239.5.118:25461/live/luca/luca/11902.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10950.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG HD Op2
+http://145.239.5.118:25461/live/luca/luca/41847.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41838.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL BRASIL
+http://145.239.5.118:25461/live/luca/luca/10736.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL BRASIL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10948.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL BRASIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41787.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL BRASIL HD
+http://145.239.5.118:25461/live/luca/luca/10735.ts
+#EXTINF:-1,group-title="Canais Premium 9",Canal Ricos G5
+http://145.239.5.118:25461/live/luca/luca/42250.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL RURAL
+http://145.239.5.118:25461/live/luca/luca/10734.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL RURAL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41786.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL SONY
+http://145.239.5.118:25461/live/luca/luca/10733.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL SONY ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10947.ts
+#EXTINF:-1,group-title="Canais Premium 9",SONY SD Op2
+http://145.239.5.118:25461/live/luca/luca/41695.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL SONY HD
+http://145.239.5.118:25461/live/luca/luca/10732.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL SONY HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10946.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL SONY HD Op2
+http://145.239.5.118:25461/live/luca/luca/41890.ts
+#EXTINF:-1,group-title="Canais Premium 9",SONY FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41802.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANÇÃO NOVA
+http://145.239.5.118:25461/live/luca/luca/10731.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON NETWORK
+http://145.239.5.118:25461/live/luca/luca/10730.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON NETWORK ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10945.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON NETWORK SD Op2
+http://145.239.5.118:25461/live/luca/luca/41785.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON NETWORK HD
+http://145.239.5.118:25461/live/luca/luca/10729.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON NETWORK HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10944.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON NETWORK HD Op2
+http://145.239.5.118:25461/live/luca/luca/41889.ts
+#EXTINF:-1,group-title="Canais Premium 9",CARTOON FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41836.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINE SKY 1 G5
+http://145.239.5.118:25461/live/luca/luca/41201.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINE SKY 2 G5
+http://145.239.5.118:25461/live/luca/luca/41200.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINE SKY 3 G5
+http://145.239.5.118:25461/live/luca/luca/41199.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINE SKY 4 G5
+http://145.239.5.118:25461/live/luca/luca/41198.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINE SKY 5 G5
+http://145.239.5.118:25461/live/luca/luca/41197.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINE +
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+#EXTINF:-1,group-title="Canais Premium 9",CINE CLARO
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX
+http://145.239.5.118:25461/live/luca/luca/10728.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10939.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX SD Op2
+http://145.239.5.118:25461/live/luca/luca/41784.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX HD
+http://145.239.5.118:25461/live/luca/luca/10727.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10938.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX HD Op2
+http://145.239.5.118:25461/live/luca/luca/41888.ts
+#EXTINF:-1,group-title="Canais Premium 9",CINEMAX FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41806.ts
+#EXTINF:-1,group-title="Canais Premium 9",CLASSIQUE TV
+http://145.239.5.118:25461/live/luca/luca/10937.ts
+#EXTINF:-1,group-title="Canais Premium 9",CJC TV
+http://145.239.5.118:25461/live/luca/luca/6005.ts
+#EXTINF:-1,group-title="Canais Premium 9",CNN INTERNATIONAL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10942.ts
+#EXTINF:-1,group-title="Canais Premium 9",CNN INTERNATIONAL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41783.ts
+#EXTINF:-1,group-title="Canais Premium 9",CNT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41782.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMBATE
+http://145.239.5.118:25461/live/luca/luca/10726.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMBATE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10936.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMBATE SD Op2
+http://145.239.5.118:25461/live/luca/luca/41781.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMBATE HD
+http://145.239.5.118:25461/live/luca/luca/10725.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMBATE HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10935.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMEDY CENTRAL
+http://145.239.5.118:25461/live/luca/luca/10724.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMEDY CENTRAL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10933.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMEDY CENTRAL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41780.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMEDY CENTRAL HD
+http://145.239.5.118:25461/live/luca/luca/10723.ts
+#EXTINF:-1,group-title="Canais Premium 9",CULTURA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41779.ts
+#EXTINF:-1,group-title="Canais Premium 9",Curta!
+http://145.239.5.118:25461/live/luca/luca/10722.ts
+#EXTINF:-1,group-title="Canais Premium 9",CURTA! SD Op2
+http://145.239.5.118:25461/live/luca/luca/41778.ts
+#EXTINF:-1,group-title="Canais Premium 9",CURTA! HD
+http://145.239.5.118:25461/live/luca/luca/10721.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CHANNEL
+http://145.239.5.118:25461/live/luca/luca/10720.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10932.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CHANNEL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41777.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CHANNEL HD
+http://145.239.5.118:25461/live/luca/luca/10719.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10931.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY HD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41883.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41835.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CIVILIZATION
+http://145.239.5.118:25461/live/luca/luca/10718.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CIVILIZATION SD Op2
+http://145.239.5.118:25461/live/luca/luca/41776.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CIVILIZATION HD
+http://145.239.5.118:25461/live/luca/luca/10717.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY HOME & HEALTH
+http://145.239.5.118:25461/live/luca/luca/10716.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY H&H ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10930.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY HOME & HEALTH SD Op2
+http://145.239.5.118:25461/live/luca/luca/41775.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY H&H HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10929.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY HOME & HEALTH HD
+http://145.239.5.118:25461/live/luca/luca/10715.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS
+http://145.239.5.118:25461/live/luca/luca/10714.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10928.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41774.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS HD
+http://145.239.5.118:25461/live/luca/luca/10713.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10927.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS HD Op2
+http://145.239.5.118:25461/live/luca/luca/41884.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41834.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY SCIENCE
+http://145.239.5.118:25461/live/luca/luca/10712.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY SCIENCE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10926.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY SCIENCE SD Op2
+http://145.239.5.118:25461/live/luca/luca/41773.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY SCIENCE HD
+http://145.239.5.118:25461/live/luca/luca/10711.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY THEATER
+http://145.239.5.118:25461/live/luca/luca/10710.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY THEATER ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10925.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY THEATER HD
+http://145.239.5.118:25461/live/luca/luca/10709.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY TURBO
+http://145.239.5.118:25461/live/luca/luca/10708.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY TURBO ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10924.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY TURBO SD Op2
+http://145.239.5.118:25461/live/luca/luca/41772.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY TURBO HD
+http://145.239.5.118:25461/live/luca/luca/10707.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY TURBO HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10923.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY WORLD  HD
+http://145.239.5.118:25461/live/luca/luca/10705.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY WORLD HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10922.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY WORLD
+http://145.239.5.118:25461/live/luca/luca/10706.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY CHANNEL
+http://145.239.5.118:25461/live/luca/luca/10704.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10921.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY CHANNEL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41771.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10920.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY CHANNEL HD
+http://145.239.5.118:25461/live/luca/luca/10703.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY JUNIOR
+http://145.239.5.118:25461/live/luca/luca/10702.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY JR ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10919.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY JR SD Op2
+http://145.239.5.118:25461/live/luca/luca/41770.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY JR HD Op2
+http://145.239.5.118:25461/live/luca/luca/41885.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY JR FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41833.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY XD
+http://145.239.5.118:25461/live/luca/luca/10701.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY XD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10917.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY XD SD Op2
+http://145.239.5.118:25461/live/luca/luca/41769.ts
+#EXTINF:-1,group-title="Canais Premium 9",DOGTV
+http://145.239.5.118:25461/live/luca/luca/33354.ts
+#EXTINF:-1,group-title="Canais Premium 9",DOGTV HD
+http://145.239.5.118:25461/live/luca/luca/33355.ts
+#EXTINF:-1,group-title="Canais Premium 9",E!
+http://145.239.5.118:25461/live/luca/luca/10700.ts
+#EXTINF:-1,group-title="Canais Premium 9",E! ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10916.ts
+#EXTINF:-1,group-title="Canais Premium 9",E! SD Op2
+http://145.239.5.118:25461/live/luca/luca/41768.ts
+#EXTINF:-1,group-title="Canais Premium 9",E! HD
+http://145.239.5.118:25461/live/luca/luca/10699.ts
+#EXTINF:-1,group-title="Canais Premium 9",E! HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10915.ts
+#EXTINF:-1,group-title="Canais Premium 9",EI MAXX ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10914.ts
+#EXTINF:-1,group-title="Canais Premium 9",EI MAXX SD Op2
+http://145.239.5.118:25461/live/luca/luca/41766.ts
+#EXTINF:-1,group-title="Canais Premium 9",EI MAXX HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10913.ts
+#EXTINF:-1,group-title="Canais Premium 9",EI MAXX 2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10912.ts
+#EXTINF:-1,group-title="Canais Premium 9",EI MAXX 2 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41767.ts
+#EXTINF:-1,group-title="Canais Premium 9",EI MAXX 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10911.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN
+http://145.239.5.118:25461/live/luca/luca/10698.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN  ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10902.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10909.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN SD Op2
+http://145.239.5.118:25461/live/luca/luca/41763.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN   SD Op2
+http://145.239.5.118:25461/live/luca/luca/41765.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN HD
+http://145.239.5.118:25461/live/luca/luca/10692.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN   HD
+http://145.239.5.118:25461/live/luca/luca/10697.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN HD  ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10900.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN  HD Op2
+http://145.239.5.118:25461/live/luca/luca/41882.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10908.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN  HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10901.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL
+http://145.239.5.118:25461/live/luca/luca/10696.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10907.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41764.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL HD
+http://145.239.5.118:25461/live/luca/luca/10695.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10906.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL HD Op2
+http://145.239.5.118:25461/live/luca/luca/41860.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL HD Op2 (2)
+http://145.239.5.118:25461/live/luca/luca/41886.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41832.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN MAIS FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41805.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN EXTRA
+http://145.239.5.118:25461/live/luca/luca/10694.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN EXTRA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10905.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN EXTRA HD
+http://145.239.5.118:25461/live/luca/luca/10693.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN EXTRA HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10904.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN PLUS HD Op2 (2)
+http://145.239.5.118:25461/live/luca/luca/41887.ts
+#EXTINF:-1,group-title="Canais Premium 9",Esporte Interativo
+http://145.239.5.118:25461/live/luca/luca/10691.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPORTE INTERATIVO SD Op2
+http://145.239.5.118:25461/live/luca/luca/41762.ts
+#EXTINF:-1,group-title="Canais Premium 9",Esporte Interativo HD
+http://145.239.5.118:25461/live/luca/luca/10688.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPORTE INTERATIVO HD Op2
+http://145.239.5.118:25461/live/luca/luca/41876.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPORTE INTERATIVO FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41831.ts
+#EXTINF:-1,group-title="Canais Premium 9",Esporte Interativo 2
+http://145.239.5.118:25461/live/luca/luca/10690.ts
+#EXTINF:-1,group-title="Canais Premium 9",Esporte Interativo 2 HD
+http://145.239.5.118:25461/live/luca/luca/10689.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPORTE INTERATIVO 2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10899.ts
+#EXTINF:-1,group-title="Canais Premium 9",FISH TV
+http://145.239.5.118:25461/live/luca/luca/10687.ts
+#EXTINF:-1,group-title="Canais Premium 9",FISH TV ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10896.ts
+#EXTINF:-1,group-title="Canais Premium 9",FISH TV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41761.ts
+#EXTINF:-1,group-title="Canais Premium 9",FISH TV HD
+http://145.239.5.118:25461/live/luca/luca/24203.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOOD NETWORK
+http://145.239.5.118:25461/live/luca/luca/10686.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOOD NETWORK SD Op2
+http://145.239.5.118:25461/live/luca/luca/41760.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOOD NETWORK HD
+http://145.239.5.118:25461/live/luca/luca/10685.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOODNETWORK HD Op2
+http://145.239.5.118:25461/live/luca/luca/41861.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOOD NETWORK FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41830.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX
+http://145.239.5.118:25461/live/luca/luca/10684.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10895.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SD Op2
+http://145.239.5.118:25461/live/luca/luca/41758.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX HD
+http://145.239.5.118:25461/live/luca/luca/10683.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10894.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX HD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41862.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41829.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX LIFE
+http://145.239.5.118:25461/live/luca/luca/10682.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX LIFE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10893.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX LIFE SD Op2
+http://145.239.5.118:25461/live/luca/luca/41759.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX LIFE HD
+http://145.239.5.118:25461/live/luca/luca/10681.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX LIFE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41902.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 1
+http://145.239.5.118:25461/live/luca/luca/11903.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 1 HD
+http://145.239.5.118:25461/live/luca/luca/10680.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 1 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10892.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 1 FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41901.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 2
+http://145.239.5.118:25461/live/luca/luca/11904.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 2 HD
+http://145.239.5.118:25461/live/luca/luca/10679.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10891.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 2 FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41900.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS
+http://145.239.5.118:25461/live/luca/luca/10678.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41756.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS HD
+http://145.239.5.118:25461/live/luca/luca/10675.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10890.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41898.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2
+http://145.239.5.118:25461/live/luca/luca/10677.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10889.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41757.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 HD
+http://145.239.5.118:25461/live/luca/luca/10676.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10888.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41881.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41899.ts
+#EXTINF:-1,group-title="Canais Premium 9",FX
+http://145.239.5.118:25461/live/luca/luca/10672.ts
+#EXTINF:-1,group-title="Canais Premium 9",FX ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10898.ts
+#EXTINF:-1,group-title="Canais Premium 9",FX SD Op2
+http://145.239.5.118:25461/live/luca/luca/41754.ts
+#EXTINF:-1,group-title="Canais Premium 9",FX HD
+http://145.239.5.118:25461/live/luca/luca/10671.ts
+#EXTINF:-1,group-title="Canais Premium 9",FX HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10897.ts
+#EXTINF:-1,group-title="Canais Premium 9",FX FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41897.ts
+#EXTINF:-1,group-title="Canais Premium 9",FUTURA
+http://145.239.5.118:25461/live/luca/luca/10674.ts
+#EXTINF:-1,group-title="Canais Premium 9",FUTURA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10887.ts
+#EXTINF:-1,group-title="Canais Premium 9",FUTURA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41755.ts
+#EXTINF:-1,group-title="Canais Premium 9",FUTURA HD
+http://145.239.5.118:25461/live/luca/luca/10673.ts
+#EXTINF:-1,group-title="Canais Premium 9",Galinha Pintadinha 24 horas
+http://145.239.5.118:25461/live/luca/luca/23778.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO BH G5
+http://145.239.5.118:25461/live/luca/luca/41244.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO BRASILIA
+http://145.239.5.118:25461/live/luca/luca/10670.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO BRASILIA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10884.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO BRASILIA  G5
+http://145.239.5.118:25461/live/luca/luca/41240.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO BRASILIA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41753.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO EPTV CAMPINAS
+http://145.239.5.118:25461/live/luca/luca/10669.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO EPTV CAMPINAS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10910.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO EPTV RIBEIRÃO PRETO
+http://145.239.5.118:25461/live/luca/luca/10666.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO EPTV HD RIBEIRÃO PRETO
+http://145.239.5.118:25461/live/luca/luca/10667.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO EPTV HD CAMPINAS
+http://145.239.5.118:25461/live/luca/luca/10668.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO INTERNACIONAL
+http://145.239.5.118:25461/live/luca/luca/10665.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO LIBERAL BELEM G5
+http://145.239.5.118:25461/live/luca/luca/41224.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO MINAS
+http://145.239.5.118:25461/live/luca/luca/10664.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO MG ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10881.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO MINAS HD
+http://145.239.5.118:25461/live/luca/luca/10663.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO MG HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10880.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NEWS
+http://145.239.5.118:25461/live/luca/luca/10662.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NEWS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10878.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NEWS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41752.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NEWS HD
+http://145.239.5.118:25461/live/luca/luca/10661.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NEWS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10877.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE
+http://145.239.5.118:25461/live/luca/luca/10660.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10883.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE G5
+http://145.239.5.118:25461/live/luca/luca/41239.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE SD Op2
+http://145.239.5.118:25461/live/luca/luca/41751.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE HD
+http://145.239.5.118:25461/live/luca/luca/10659.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10882.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE HD Op2
+http://145.239.5.118:25461/live/luca/luca/41869.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NORDESTE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41828.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RBS TV PORTO ALEGRE
+http://145.239.5.118:25461/live/luca/luca/10657.ts
+#EXTINF:-1,group-title="Canais Premium 9",RBS TV PORTO ALEGRE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10809.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RBS TV RS G5
+http://145.239.5.118:25461/live/luca/luca/41187.ts
+#EXTINF:-1,group-title="Canais Premium 9",RBS TV PORTO ALEGRE SD Op2
+http://145.239.5.118:25461/live/luca/luca/41704.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RBS HD TV PORTO ALEGRE
+http://145.239.5.118:25461/live/luca/luca/10656.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ
+http://145.239.5.118:25461/live/luca/luca/10655.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10876.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ G5
+http://145.239.5.118:25461/live/luca/luca/41242.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RIO SD Op2
+http://145.239.5.118:25461/live/luca/luca/41750.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ HD
+http://145.239.5.118:25461/live/luca/luca/10654.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10875.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ HD ALTERNATIVO H265
+http://145.239.5.118:25461/live/luca/luca/10874.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RPC CURITIBA
+http://145.239.5.118:25461/live/luca/luca/10653.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO CURITIBA HD Op2 (2)
+http://145.239.5.118:25461/live/luca/luca/41864.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP
+http://145.239.5.118:25461/live/luca/luca/10652.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10873.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP G5
+http://145.239.5.118:25461/live/luca/luca/41241.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP SD Op2
+http://145.239.5.118:25461/live/luca/luca/41749.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP HD
+http://145.239.5.118:25461/live/luca/luca/10651.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10872.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP HD Op2 (2)
+http://145.239.5.118:25461/live/luca/luca/41880.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV ANHANGUERA
+http://145.239.5.118:25461/live/luca/luca/10650.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV ANHANGUERA G5
+http://145.239.5.118:25461/live/luca/luca/41143.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV ANHANGUERA HD
+http://145.239.5.118:25461/live/luca/luca/10649.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV BAHIA
+http://145.239.5.118:25461/live/luca/luca/10648.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV BAHIA HD
+http://145.239.5.118:25461/live/luca/luca/10647.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV TEM BAURU
+http://145.239.5.118:25461/live/luca/luca/10646.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV TEM HD S. J. DO RIO PRETO
+http://145.239.5.118:25461/live/luca/luca/10645.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV TEM S. J. DO RIO PRETO
+http://145.239.5.118:25461/live/luca/luca/10644.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO TV TEM SOROCABA
+http://145.239.5.118:25461/live/luca/luca/10643.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO VANG SAO J.CAMPOS G5
+http://145.239.5.118:25461/live/luca/luca/41126.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO VANG TAUBATE G5
+http://145.239.5.118:25461/live/luca/luca/41125.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBOSAT   HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10870.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOB
+http://145.239.5.118:25461/live/luca/luca/10642.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOB ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10869.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOB SD Op2
+http://145.239.5.118:25461/live/luca/luca/41748.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOB HD
+http://145.239.5.118:25461/live/luca/luca/10641.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOB HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10868.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOBINHO HD
+http://145.239.5.118:25461/live/luca/luca/10640.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOBINHO SD
+http://145.239.5.118:25461/live/luca/luca/10639.ts
+#EXTINF:-1,group-title="Canais Premium 9",GNT
+http://145.239.5.118:25461/live/luca/luca/10638.ts
+#EXTINF:-1,group-title="Canais Premium 9",GNT ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10886.ts
+#EXTINF:-1,group-title="Canais Premium 9",GNT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41747.ts
+#EXTINF:-1,group-title="Canais Premium 9",GNT HD
+http://145.239.5.118:25461/live/luca/luca/10637.ts
+#EXTINF:-1,group-title="Canais Premium 9",GNT HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10885.ts
+#EXTINF:-1,group-title="Canais Premium 9",GOSPEL MUSIC TV
+http://145.239.5.118:25461/live/luca/luca/33522.ts
+#EXTINF:-1,group-title="Canais Premium 9",GOSPEL CARTOON TV
+http://145.239.5.118:25461/live/luca/luca/28387.ts
+#EXTINF:-1,group-title="Canais Premium 9",H2 SD
+http://145.239.5.118:25461/live/luca/luca/10636.ts
+#EXTINF:-1,group-title="Canais Premium 9",H2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10866.ts
+#EXTINF:-1,group-title="Canais Premium 9",H2 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41746.ts
+#EXTINF:-1,group-title="Canais Premium 9",H2 HD
+http://145.239.5.118:25461/live/luca/luca/10635.ts
+#EXTINF:-1,group-title="Canais Premium 9",H2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10865.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO
+http://145.239.5.118:25461/live/luca/luca/10634.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10864.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO SD Op2
+http://145.239.5.118:25461/live/luca/luca/41741.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO HD
+http://145.239.5.118:25461/live/luca/luca/10629.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10863.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO HD Op2
+http://145.239.5.118:25461/live/luca/luca/41879.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41827.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2
+http://145.239.5.118:25461/live/luca/luca/10633.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10862.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41745.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 HD
+http://145.239.5.118:25461/live/luca/luca/10632.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10861.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41865.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41804.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FAMILY
+http://145.239.5.118:25461/live/luca/luca/10631.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FAMILY ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10860.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FAMILY SD Op2
+http://145.239.5.118:25461/live/luca/luca/41744.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FAMILY HD
+http://145.239.5.118:25461/live/luca/luca/10630.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FAMILY HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10859.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS
+http://145.239.5.118:25461/live/luca/luca/10628.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS .
+http://145.239.5.118:25461/live/luca/luca/10627.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10858.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41742.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS HD
+http://145.239.5.118:25461/live/luca/luca/10625.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10857.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS E
+http://145.239.5.118:25461/live/luca/luca/10626.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS*E ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10856.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO PLUS E SD Op2
+http://145.239.5.118:25461/live/luca/luca/41743.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO SIGNATURE
+http://145.239.5.118:25461/live/luca/luca/10624.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO SIGNATURE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10855.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO SIGN. SD Op2
+http://145.239.5.118:25461/live/luca/luca/41740.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO SIGNATURE HD
+http://145.239.5.118:25461/live/luca/luca/10623.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO SIGNATURE HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10854.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10853.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY HD
+http://145.239.5.118:25461/live/luca/luca/10622.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10852.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY CHANNEL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41680.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY HD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41878.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41826.ts
+#EXTINF:-1,group-title="Canais Premium 9",HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+#EXTINF:-1,group-title="Canais Premium 9",I-SAT
+http://145.239.5.118:25461/live/luca/luca/10621.ts
+#EXTINF:-1,group-title="Canais Premium 9",I SAT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41739.ts
+#EXTINF:-1,group-title="Canais Premium 9",IDEAL TV
+http://145.239.5.118:25461/live/luca/luca/10620.ts
+#EXTINF:-1,group-title="Canais Premium 9",INVESTIGATION DISCOVERY
+http://145.239.5.118:25461/live/luca/luca/10619.ts
+#EXTINF:-1,group-title="Canais Premium 9",INVESTIGAÇÃO DISCOVERY ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10851.ts
+#EXTINF:-1,group-title="Canais Premium 9",ID SD Op2
+http://145.239.5.118:25461/live/luca/luca/41738.ts
+#EXTINF:-1,group-title="Canais Premium 9",INVESTIGATION DISCOVERY HD
+http://145.239.5.118:25461/live/luca/luca/10618.ts
+#EXTINF:-1,group-title="Canais Premium 9",INVESTIGAÇÃO DISCOVERY HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10850.ts
+#EXTINF:-1,group-title="Canais Premium 9",IURD TV
+http://145.239.5.118:25461/live/luca/luca/6006.ts
+#EXTINF:-1,group-title="Canais Premium 9",IURD TV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41737.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jazz: Chillhop Essentials
+http://145.239.5.118:25461/live/luca/luca/39305.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jazz: Rainy Day
+http://145.239.5.118:25461/live/luca/luca/39307.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jazz: Relaxamento
+http://145.239.5.118:25461/live/luca/luca/39306.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jovem Pan: 3 em 1
+http://145.239.5.118:25461/live/luca/luca/39668.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jovem Pan: Pânico (das 12hs ás 14hs ao Vivo)
+http://145.239.5.118:25461/live/luca/luca/39666.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jovem Pan: Pingo nos Is
+http://145.239.5.118:25461/live/luca/luca/39669.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - CANTAR E BRINCAR VOL 1
+http://145.239.5.118:25461/live/luca/luca/28512.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Cocoricó
+http://145.239.5.118:25461/live/luca/luca/28509.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Cocoricó 02
+http://145.239.5.118:25461/live/luca/luca/28508.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Contos de fadas
+http://145.239.5.118:25461/live/luca/luca/28518.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Doutora Brinquedos - O Luau de Leilani
+http://145.239.5.118:25461/live/luca/luca/28505.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Galinha Pintadinha 1
+http://145.239.5.118:25461/live/luca/luca/28522.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Galinha Pintadinha 2
+http://145.239.5.118:25461/live/luca/luca/28521.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Galinha Pintadinha 3
+http://145.239.5.118:25461/live/luca/luca/28520.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Galinha Pintadinha 4
+http://145.239.5.118:25461/live/luca/luca/28519.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Masha e o Urso
+http://145.239.5.118:25461/live/luca/luca/28504.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MÚSICAS GOSPEL INFANTIL
+http://145.239.5.118:25461/live/luca/luca/28510.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 01
+http://145.239.5.118:25461/live/luca/luca/28503.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 02
+http://145.239.5.118:25461/live/luca/luca/28502.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 03
+http://145.239.5.118:25461/live/luca/luca/28501.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 04
+http://145.239.5.118:25461/live/luca/luca/28500.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 05
+http://145.239.5.118:25461/live/luca/luca/28499.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 06
+http://145.239.5.118:25461/live/luca/luca/28498.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 07
+http://145.239.5.118:25461/live/luca/luca/28497.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 08
+http://145.239.5.118:25461/live/luca/luca/28496.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - MUSICAS INFANTIS 09
+http://145.239.5.118:25461/live/luca/luca/28495.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 01
+http://145.239.5.118:25461/live/luca/luca/28494.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 02
+http://145.239.5.118:25461/live/luca/luca/28493.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 03
+http://145.239.5.118:25461/live/luca/luca/28492.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 04
+http://145.239.5.118:25461/live/luca/luca/28491.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 05
+http://145.239.5.118:25461/live/luca/luca/28490.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 06
+http://145.239.5.118:25461/live/luca/luca/28489.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - OS AMIGUINHOS 07
+http://145.239.5.118:25461/live/luca/luca/28488.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Patati e Patata
+http://145.239.5.118:25461/live/luca/luca/28514.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Patati e Patata - Volta ao Mundo
+http://145.239.5.118:25461/live/luca/luca/28513.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Peppa Pig
+http://145.239.5.118:25461/live/luca/luca/28516.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Peppa Pig Espanhol
+http://145.239.5.118:25461/live/luca/luca/28515.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Pequenos Sábios Gospel
+http://145.239.5.118:25461/live/luca/luca/28511.ts
+#EXTINF:-1,group-title="Canais Premium 9",KIDS - Turminha Paraíso
+http://145.239.5.118:25461/live/luca/luca/28507.ts
+#EXTINF:-1,group-title="Canais Premium 9",LIFETIME
+http://145.239.5.118:25461/live/luca/luca/11905.ts
+#EXTINF:-1,group-title="Canais Premium 9",LIFETIME SD Op2
+http://145.239.5.118:25461/live/luca/luca/41736.ts
+#EXTINF:-1,group-title="Canais Premium 9",LIFETIME HD
+http://145.239.5.118:25461/live/luca/luca/10617.ts
+#EXTINF:-1,group-title="Canais Premium 9",LIFETIME HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10849.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAIS GLOBOSAT
+http://145.239.5.118:25461/live/luca/luca/10616.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAIS GLOBOSAT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41735.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAIS GLOBOSAT HD
+http://145.239.5.118:25461/live/luca/luca/10615.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX
+http://145.239.5.118:25461/live/luca/luca/10614.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10846.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX SD Op2
+http://145.239.5.118:25461/live/luca/luca/41732.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX HD
+http://145.239.5.118:25461/live/luca/luca/10613.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX PRIME
+http://145.239.5.118:25461/live/luca/luca/10612.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX PRIME ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10845.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX PRIME E
+http://145.239.5.118:25461/live/luca/luca/10611.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX PRIME E SD Op2
+http://145.239.5.118:25461/live/luca/luca/41734.ts
+#EXTINF:-1,group-title="Canais Premium 9",Max Prime SD Op2
+http://145.239.5.118:25461/live/luca/luca/41733.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX PRIME HD
+http://145.239.5.118:25461/live/luca/luca/10610.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX PRIME HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10844.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX UP
+http://145.239.5.118:25461/live/luca/luca/10609.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX UP SD Op2
+http://145.239.5.118:25461/live/luca/luca/41731.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX UP ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10843.ts
+#EXTINF:-1,group-title="Canais Premium 9",MAX UP HD
+http://145.239.5.118:25461/live/luca/luca/10608.ts
+#EXTINF:-1,group-title="Canais Premium 9",MEGAPIX
+http://145.239.5.118:25461/live/luca/luca/10607.ts
+#EXTINF:-1,group-title="Canais Premium 9",MEGAPIX ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10842.ts
+#EXTINF:-1,group-title="Canais Premium 9",MEGAPIX SD Op2
+http://145.239.5.118:25461/live/luca/luca/41730.ts
+#EXTINF:-1,group-title="Canais Premium 9",MEGAPIX HD
+http://145.239.5.118:25461/live/luca/luca/10606.ts
+#EXTINF:-1,group-title="Canais Premium 9",MEGAPIX HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10841.ts
+#EXTINF:-1,group-title="Canais Premium 9",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",MTV
+http://145.239.5.118:25461/live/luca/luca/10605.ts
+#EXTINF:-1,group-title="Canais Premium 9",MTV ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10848.ts
+#EXTINF:-1,group-title="Canais Premium 9",MTV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41729.ts
+#EXTINF:-1,group-title="Canais Premium 9",MTV HD
+http://145.239.5.118:25461/live/luca/luca/10604.ts
+#EXTINF:-1,group-title="Canais Premium 9",MTV HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10847.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW
+http://145.239.5.118:25461/live/luca/luca/10602.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10840.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW SD Op2
+http://145.239.5.118:25461/live/luca/luca/41728.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW HD
+http://145.239.5.118:25461/live/luca/luca/10601.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10839.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW HD Op2
+http://145.239.5.118:25461/live/luca/luca/41877.ts
+#EXTINF:-1,group-title="Canais Premium 9",MULTISHOW FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41825.ts
+#EXTINF:-1,group-title="Canais Premium 9",MUSIC BOX BRASIL
+http://145.239.5.118:25461/live/luca/luca/10600.ts
+#EXTINF:-1,group-title="Canais Premium 9",MUSIC BOX BRASIL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10838.ts
+#EXTINF:-1,group-title="Canais Premium 9",MUSIC BOX BRAZIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41727.ts
+#EXTINF:-1,group-title="Canais Premium 9",MUNDO AUTO
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",MUSIC BOX BRASIL HD
+http://145.239.5.118:25461/live/luca/luca/11906.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO
+http://145.239.5.118:25461/live/luca/luca/10599.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO HD
+http://145.239.5.118:25461/live/luca/luca/10598.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATIONAL GEOGRAPHIC ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10834.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATIONAL GEOGRAPHIC SD Op2
+http://145.239.5.118:25461/live/luca/luca/41724.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATIONAL GEOGRAPHIC HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10833.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATIONAL GEOGRAPHIC HD Op2
+http://145.239.5.118:25461/live/luca/luca/41875.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41896.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEO KIDS
+http://145.239.5.118:25461/live/luca/luca/10837.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO KIDS
+http://145.239.5.118:25461/live/luca/luca/10597.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEO KIDS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41726.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO KIDS HD
+http://145.239.5.118:25461/live/luca/luca/10596.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEOKIDS HD Op2
+http://145.239.5.118:25461/live/luca/luca/41859.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEOKIDS FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41824.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEO WILD
+http://145.239.5.118:25461/live/luca/luca/10594.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEO WILD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10836.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEO WILD SD Op2
+http://145.239.5.118:25461/live/luca/luca/41725.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO WILD HD
+http://145.239.5.118:25461/live/luca/luca/10595.ts
+#EXTINF:-1,group-title="Canais Premium 9",NATGEO WILD HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10835.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO WILD FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41895.ts
+#EXTINF:-1,group-title="Canais Premium 9",NBA Live
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1,group-title="Canais Premium 9",NBR
+http://145.239.5.118:25461/live/luca/luca/10593.ts
+#EXTINF:-1,group-title="Canais Premium 9",NBR HD
+http://145.239.5.118:25461/live/luca/luca/3887.ts
+#EXTINF:-1,group-title="Canais Premium 9",NFL TV
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",NICK JR
+http://145.239.5.118:25461/live/luca/luca/10591.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICK JR ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10832.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICK JR. SD Op2
+http://145.239.5.118:25461/live/luca/luca/41723.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICK JR HD
+http://145.239.5.118:25461/live/luca/luca/11907.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICK-JR HD Op2
+http://145.239.5.118:25461/live/luca/luca/41874.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICK JR FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41823.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICKELODEN
+http://145.239.5.118:25461/live/luca/luca/10590.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICKELODEON ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10830.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICKELODEON SD Op2
+http://145.239.5.118:25461/live/luca/luca/41722.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICKELODEON HD
+http://145.239.5.118:25461/live/luca/luca/11908.ts
+#EXTINF:-1,group-title="Canais Premium 9",NHK
+http://145.239.5.118:25461/live/luca/luca/10592.ts
+#EXTINF:-1,group-title="Canais Premium 9",NOVA NORDESTE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41822.ts
+#EXTINF:-1,group-title="Canais Premium 9",NOVO TEMPO SD Op2
+http://145.239.5.118:25461/live/luca/luca/41721.ts
+#EXTINF:-1,group-title="Canais Premium 9",OFF
+http://145.239.5.118:25461/live/luca/luca/10589.ts
+#EXTINF:-1,group-title="Canais Premium 9",OFF SD Op2
+http://145.239.5.118:25461/live/luca/luca/41720.ts
+#EXTINF:-1,group-title="Canais Premium 9",OFF HD
+http://145.239.5.118:25461/live/luca/luca/10588.ts
+#EXTINF:-1,group-title="Canais Premium 9",OFF HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10829.ts
+#EXTINF:-1,group-title="Canais Premium 9",OFF HD Op2
+http://145.239.5.118:25461/live/luca/luca/41821.ts
+#EXTINF:-1,group-title="Canais Premium 9",CANAL OFF FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41837.ts
+#EXTINF:-1,group-title="Canais Premium 9",PARAMOUNT CHANNEL
+http://145.239.5.118:25461/live/luca/luca/10587.ts
+#EXTINF:-1,group-title="Canais Premium 9",PARAMOUNT ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10828.ts
+#EXTINF:-1,group-title="Canais Premium 9",PARAMOUNT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41719.ts
+#EXTINF:-1,group-title="Canais Premium 9",PARAMOUNT CHANNEL HD
+http://145.239.5.118:25461/live/luca/luca/10586.ts
+#EXTINF:-1,group-title="Canais Premium 9",PARAMOUNT HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10827.ts
+#EXTINF:-1,group-title="Canais Premium 9",PFC ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10826.ts
+#EXTINF:-1,group-title="Canais Premium 9",PLAY TV ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10825.ts
+#EXTINF:-1,group-title="Canais Premium 9",PLAY TV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41718.ts
+#EXTINF:-1,group-title="Canais Premium 9",Portal Gospel
+http://145.239.5.118:25461/live/luca/luca/6011.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE TABELA DE JOGOS
+http://145.239.5.118:25461/live/luca/luca/33356.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 1 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41716.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2
+http://145.239.5.118:25461/live/luca/luca/10585.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10824.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41715.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2 HD
+http://145.239.5.118:25461/live/luca/luca/10584.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10823.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41870.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3
+http://145.239.5.118:25461/live/luca/luca/10583.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10822.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41714.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 HD
+http://145.239.5.118:25461/live/luca/luca/10582.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10821.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41868.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41799.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4
+http://145.239.5.118:25461/live/luca/luca/10581.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10820.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41713.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4 HD
+http://145.239.5.118:25461/live/luca/luca/10580.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10819.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41867.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 5
+http://145.239.5.118:25461/live/luca/luca/10579.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 5 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10817.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 5 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41712.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 5 HD
+http://145.239.5.118:25461/live/luca/luca/10578.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 5 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10816.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 6
+http://145.239.5.118:25461/live/luca/luca/10577.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 6 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10815.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 6 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41711.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 6 HD
+http://145.239.5.118:25461/live/luca/luca/10576.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 7
+http://145.239.5.118:25461/live/luca/luca/10575.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 7 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10814.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 7 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41710.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 7 HD
+http://145.239.5.118:25461/live/luca/luca/10574.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 8 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10813.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 8 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41709.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 9 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10812.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 9 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41708.ts
+#EXTINF:-1,group-title="Canais Premium 9",Premiere Clubes
+http://145.239.5.118:25461/live/luca/luca/10573.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBES ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10811.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBES G5
+http://145.239.5.118:25461/live/luca/luca/41196.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBES SD Op2
+http://145.239.5.118:25461/live/luca/luca/41707.ts
+#EXTINF:-1,group-title="Canais Premium 9",Premiere Clubes HD
+http://145.239.5.118:25461/live/luca/luca/10572.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBES HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10810.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBE HD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41873.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBES FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41820.ts
+#EXTINF:-1,group-title="Canais Premium 9",PRIME BOX BRASIL
+http://145.239.5.118:25461/live/luca/luca/10571.ts
+#EXTINF:-1,group-title="Canais Premium 9",PRIME BOX BRAZIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41706.ts
+#EXTINF:-1,group-title="Canais Premium 9",PRIMEBOX BRASIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41705.ts
+#EXTINF:-1,group-title="Canais Premium 9",PRIME BOX BRASIL HD
+http://145.239.5.118:25461/live/luca/luca/11910.ts
+#EXTINF:-1,group-title="Canais Premium 9",Real Madrid Tv Online
+http://145.239.5.118:25461/live/luca/luca/23782.ts
+#EXTINF:-1,group-title="Canais Premium 9",REAL MADRID TV
+http://145.239.5.118:25461/live/luca/luca/6013.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD
+http://145.239.5.118:25461/live/luca/luca/10570.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10808.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD TV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41702.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD HD
+http://145.239.5.118:25461/live/luca/luca/10565.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD HD Alternativo
+http://145.239.5.118:25461/live/luca/luca/10569.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NEWS
+http://145.239.5.118:25461/live/luca/luca/10568.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NEWS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41703.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NEWS HD
+http://145.239.5.118:25461/live/luca/luca/10567.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NEWS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10806.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NEWS HD Op2
+http://145.239.5.118:25461/live/luca/luca/41866.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NEWS FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41803.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD SP
+http://145.239.5.118:25461/live/luca/luca/10566.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NORDESTE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41819.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD NORDESTE HD Op2
+http://145.239.5.118:25461/live/luca/luca/41872.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE BRASIL
+http://145.239.5.118:25461/live/luca/luca/10564.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE BRASIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41701.ts
+#EXTINF:-1,group-title="Canais Premium 9",Rede Gênesis
+http://145.239.5.118:25461/live/luca/luca/6012.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE METRÓPOLE DE COMUNICAÇÃO
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1,group-title="Canais Premium 9",REDE SECULO 21
+http://145.239.5.118:25461/live/luca/luca/6004.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE TV
+http://145.239.5.118:25461/live/luca/luca/10563.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE TV ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10805.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE TV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41700.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE TV HD
+http://145.239.5.118:25461/live/luca/luca/10562.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE TV RJ
+http://145.239.5.118:25461/live/luca/luca/4908.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE VIDA
+http://145.239.5.118:25461/live/luca/luca/10561.ts
+#EXTINF:-1,group-title="Canais Premium 9",REDE VIDA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41699.ts
+#EXTINF:-1,group-title="Canais Premium 9",RIT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41698.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT
+http://145.239.5.118:25461/live/luca/luca/10560.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10804.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT G5
+http://145.239.5.118:25461/live/luca/luca/41173.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT HD
+http://145.239.5.118:25461/live/luca/luca/10559.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10803.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT SP INTERIOR
+http://145.239.5.118:25461/live/luca/luca/10558.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT NORDESTE HD Op2
+http://145.239.5.118:25461/live/luca/luca/41871.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT NORDESTE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41818.ts
+#EXTINF:-1,group-title="Canais Premium 9",SHOW DA FE
+http://145.239.5.118:25461/live/luca/luca/3886.ts
+#EXTINF:-1,group-title="Canais Premium 9",SOBRENATURAL TV
+http://145.239.5.118:25461/live/luca/luca/42252.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE
+http://145.239.5.118:25461/live/luca/luca/10555.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10802.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE SD Op2
+http://145.239.5.118:25461/live/luca/luca/41694.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE HD
+http://145.239.5.118:25461/live/luca/luca/10554.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10801.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE HD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41863.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPACE FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41816.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV
+http://145.239.5.118:25461/live/luca/luca/10553.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10800.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV G5
+http://145.239.5.118:25461/live/luca/luca/41156.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41691.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV HD
+http://145.239.5.118:25461/live/luca/luca/10548.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10799.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV HD Op2
+http://145.239.5.118:25461/live/luca/luca/41855.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41815.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2
+http://145.239.5.118:25461/live/luca/luca/10552.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10798.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41693.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 HD
+http://145.239.5.118:25461/live/luca/luca/10551.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10797.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41845.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41801.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 3
+http://145.239.5.118:25461/live/luca/luca/10550.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 3 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10796.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 3 SD Op2
+http://145.239.5.118:25461/live/luca/luca/41692.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 3 HD
+http://145.239.5.118:25461/live/luca/luca/10549.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 3 HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10795.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL
+http://145.239.5.118:25461/live/luca/luca/10547.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10794.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41690.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL HD
+http://145.239.5.118:25461/live/luca/luca/10546.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10793.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL HD Op2
+http://145.239.5.118:25461/live/luca/luca/41856.ts
+#EXTINF:-1,group-title="Canais Premium 9",STUDIO UNIVERSAL FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41814.ts
+#EXTINF:-1,group-title="Canais Premium 9",SundanceTV
+http://145.239.5.118:25461/live/luca/luca/10545.ts
+#EXTINF:-1,group-title="Canais Premium 9",SundanceTV HD
+http://145.239.5.118:25461/live/luca/luca/10544.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY
+http://145.239.5.118:25461/live/luca/luca/10557.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10792.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY HD
+http://145.239.5.118:25461/live/luca/luca/10556.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10791.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY SD Op2
+http://145.239.5.118:25461/live/luca/luca/41689.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY HD Op2
+http://145.239.5.118:25461/live/luca/luca/41857.ts
+#EXTINF:-1,group-title="Canais Premium 9",SYFY FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41813.ts
+#EXTINF:-1,group-title="Canais Premium 9",TBS
+http://145.239.5.118:25461/live/luca/luca/10543.ts
+#EXTINF:-1,group-title="Canais Premium 9",TBS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10790.ts
+#EXTINF:-1,group-title="Canais Premium 9",TBS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41688.ts
+#EXTINF:-1,group-title="Canais Premium 9",TBS HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10789.ts
+#EXTINF:-1,group-title="Canais Premium 9",TBS HD
+http://145.239.5.118:25461/live/luca/luca/10542.ts
+#EXTINF:-1,group-title="Canais Premium 9",TCM
+http://145.239.5.118:25461/live/luca/luca/10541.ts
+#EXTINF:-1,group-title="Canais Premium 9",TCM ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10788.ts
+#EXTINF:-1,group-title="Canais Premium 9",TCM SD Op2
+http://145.239.5.118:25461/live/luca/luca/41687.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION
+http://145.239.5.118:25461/live/luca/luca/10540.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10781.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION HD
+http://145.239.5.118:25461/live/luca/luca/10539.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10780.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION SD Op2
+http://145.239.5.118:25461/live/luca/luca/41686.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION HD Op2
+http://145.239.5.118:25461/live/luca/luca/41858.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41812.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT
+http://145.239.5.118:25461/live/luca/luca/10538.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10779.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT G5
+http://145.239.5.118:25461/live/luca/luca/41153.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41685.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT HD
+http://145.239.5.118:25461/live/luca/luca/10537.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10778.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT HD Op2
+http://145.239.5.118:25461/live/luca/luca/41846.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE CULT FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41800.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN
+http://145.239.5.118:25461/live/luca/luca/10536.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10777.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN G5
+http://145.239.5.118:25461/live/luca/luca/41152.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN HD
+http://145.239.5.118:25461/live/luca/luca/10535.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10776.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN SD Op2
+http://145.239.5.118:25461/live/luca/luca/41684.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN HD Op2
+http://145.239.5.118:25461/live/luca/luca/41854.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41811.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA
+http://145.239.5.118:25461/live/luca/luca/10534.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10775.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41683.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA HD
+http://145.239.5.118:25461/live/luca/luca/10533.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10774.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA HD Op2
+http://145.239.5.118:25461/live/luca/luca/41853.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41810.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM
+http://145.239.5.118:25461/live/luca/luca/10532.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10773.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM G5
+http://145.239.5.118:25461/live/luca/luca/41151.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM SD Op2
+http://145.239.5.118:25461/live/luca/luca/41682.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM HD
+http://145.239.5.118:25461/live/luca/luca/10531.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10772.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM H265 HD Op2
+http://145.239.5.118:25461/live/luca/luca/41852.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM FHD H265 Op2
+http://145.239.5.118:25461/live/luca/luca/41809.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH
+http://145.239.5.118:25461/live/luca/luca/10530.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10771.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH G5
+http://145.239.5.118:25461/live/luca/luca/41150.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH SD Op2
+http://145.239.5.118:25461/live/luca/luca/41681.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH HD
+http://145.239.5.118:25461/live/luca/luca/10529.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10770.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH HD Op2
+http://145.239.5.118:25461/live/luca/luca/41851.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41808.ts
+#EXTINF:-1,group-title="Canais Premium 9",Terra Viva
+http://145.239.5.118:25461/live/luca/luca/10528.ts
+#EXTINF:-1,group-title="Canais Premium 9",TLC
+http://145.239.5.118:25461/live/luca/luca/10527.ts
+#EXTINF:-1,group-title="Canais Premium 9",TLC ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10787.ts
+#EXTINF:-1,group-title="Canais Premium 9",TLC SD Op2
+http://145.239.5.118:25461/live/luca/luca/41679.ts
+#EXTINF:-1,group-title="Canais Premium 9",TLC HD
+http://145.239.5.118:25461/live/luca/luca/10526.ts
+#EXTINF:-1,group-title="Canais Premium 9",TLC HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10786.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT
+http://145.239.5.118:25461/live/luca/luca/10525.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10785.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT SD Op2
+http://145.239.5.118:25461/live/luca/luca/41678.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT HD
+http://145.239.5.118:25461/live/luca/luca/10524.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10784.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT SERIES
+http://145.239.5.118:25461/live/luca/luca/10523.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT SÉRIES ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10783.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT SERIES SD Op2
+http://145.239.5.118:25461/live/luca/luca/41677.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT SERIES HD
+http://145.239.5.118:25461/live/luca/luca/10522.ts
+#EXTINF:-1,group-title="Canais Premium 9",TNT SÉRIES HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10782.ts
+#EXTINF:-1,group-title="Canais Premium 9",TOONCAST
+http://145.239.5.118:25461/live/luca/luca/10521.ts
+#EXTINF:-1,group-title="Canais Premium 9",TOONCAST ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10769.ts
+#EXTINF:-1,group-title="Canais Premium 9",TruTV
+http://145.239.5.118:25461/live/luca/luca/24205.ts
+#EXTINF:-1,group-title="Canais Premium 9",TRUTV SD Op2
+http://145.239.5.118:25461/live/luca/luca/41676.ts
+#EXTINF:-1,group-title="Canais Premium 9",TruTV HD
+http://145.239.5.118:25461/live/luca/luca/24204.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV APARECIDA
+http://145.239.5.118:25461/live/luca/luca/10520.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV APARECIDA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10768.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV BRASIL
+http://145.239.5.118:25461/live/luca/luca/10519.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV BRASIL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41675.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV BRASIL HD Op2
+http://145.239.5.118:25461/live/luca/luca/41850.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV BRASIL FHD Op2
+http://145.239.5.118:25461/live/luca/luca/41807.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Câmara
+http://145.239.5.118:25461/live/luca/luca/10518.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV CANÇÃO NOVA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41674.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Cultura BA
+http://145.239.5.118:25461/live/luca/luca/24208.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Cultura GO
+http://145.239.5.118:25461/live/luca/luca/24210.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Cultura MG
+http://145.239.5.118:25461/live/luca/luca/24211.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Cultura PA
+http://145.239.5.118:25461/live/luca/luca/24209.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Cultura PB HD
+http://145.239.5.118:25461/live/luca/luca/24206.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV CULTURA PE
+http://145.239.5.118:25461/live/luca/luca/24212.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Cultura PR
+http://145.239.5.118:25461/live/luca/luca/24207.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV DIÁRIO FORTALEZA SD Op2
+http://145.239.5.118:25461/live/luca/luca/41673.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Escola
+http://145.239.5.118:25461/live/luca/luca/10517.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV EVANGELIZAR
+http://145.239.5.118:25461/live/luca/luca/23786.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV EVANGELIZAR SD Op2
+http://145.239.5.118:25461/live/luca/luca/41672.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV GAZETA SP HD
+http://145.239.5.118:25461/live/luca/luca/10516.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV GAZETA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10767.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV MUNDIAL
+http://145.239.5.118:25461/live/luca/luca/3885.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV NOVA NORDESTE HD Op2
+http://145.239.5.118:25461/live/luca/luca/41849.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV NOVO TEMPO HD Op2
+http://145.239.5.118:25461/live/luca/luca/41848.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV RA TIM BUM
+http://145.239.5.118:25461/live/luca/luca/10515.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV RA-TIM-BUM SD Op2
+http://145.239.5.118:25461/live/luca/luca/41671.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV RA TIM BUM HD
+http://145.239.5.118:25461/live/luca/luca/11909.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV RIO LARGO AL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41670.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV SENADO
+http://145.239.5.118:25461/live/luca/luca/10514.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV Terceiro Anjo
+http://145.239.5.118:25461/live/luca/luca/6010.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV TERCEIRO ANJO SD Op2
+http://145.239.5.118:25461/live/luca/luca/41669.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV TRIBUNA SANTOS ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10766.ts
+#EXTINF:-1,group-title="Canais Premium 9",TV VITÓRIA ES SD Op2
+http://145.239.5.118:25461/live/luca/luca/41668.ts
+#EXTINF:-1,group-title="Canais Premium 9",UNIVERSAL CHANNEL
+http://145.239.5.118:25461/live/luca/luca/10513.ts
+#EXTINF:-1,group-title="Canais Premium 9",UNIVERSAL CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10765.ts
+#EXTINF:-1,group-title="Canais Premium 9",UNIVERSAL CHANNEL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41667.ts
+#EXTINF:-1,group-title="Canais Premium 9",UNIVERSAL CHANNEL HD
+http://145.239.5.118:25461/live/luca/luca/10512.ts
+#EXTINF:-1,group-title="Canais Premium 9",UNIVERSAL CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10764.ts
+#EXTINF:-1,group-title="Canais Premium 9",Vem & Vê TV 3
+http://145.239.5.118:25461/live/luca/luca/6009.ts
+#EXTINF:-1,group-title="Canais Premium 9",Vem & Vê TV 2
+http://145.239.5.118:25461/live/luca/luca/6008.ts
+#EXTINF:-1,group-title="Canais Premium 9",Vem & Vê TV 1
+http://145.239.5.118:25461/live/luca/luca/6007.ts
+#EXTINF:-1,group-title="Canais Premium 9",VIVA
+http://145.239.5.118:25461/live/luca/luca/10509.ts
+#EXTINF:-1,group-title="Canais Premium 9",VIVA ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10762.ts
+#EXTINF:-1,group-title="Canais Premium 9",VIVA HD
+http://145.239.5.118:25461/live/luca/luca/10508.ts
+#EXTINF:-1,group-title="Canais Premium 9",VIVA HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10761.ts
+#EXTINF:-1,group-title="Canais Premium 9",VH1
+http://145.239.5.118:25461/live/luca/luca/11911.ts
+#EXTINF:-1,group-title="Canais Premium 9",VH1 MEGA HITS
+http://145.239.5.118:25461/live/luca/luca/10510.ts
+#EXTINF:-1,group-title="Canais Premium 9",VH1 ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10763.ts
+#EXTINF:-1,group-title="Canais Premium 9",VH1 MEGA HITS SD Op2
+http://145.239.5.118:25461/live/luca/luca/41666.ts
+#EXTINF:-1,group-title="Canais Premium 9",VH1 HD
+http://145.239.5.118:25461/live/luca/luca/10511.ts
+#EXTINF:-1,group-title="Canais Premium 9",WARNER CHANNEL
+http://145.239.5.118:25461/live/luca/luca/10507.ts
+#EXTINF:-1,group-title="Canais Premium 9",WARNER CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10760.ts
+#EXTINF:-1,group-title="Canais Premium 9",WARNER CHANNEL SD Op2
+http://145.239.5.118:25461/live/luca/luca/41665.ts
+#EXTINF:-1,group-title="Canais Premium 9",WARNER CHANNEL HD
+http://145.239.5.118:25461/live/luca/luca/10506.ts
+#EXTINF:-1,group-title="Canais Premium 9",WARNER CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10759.ts
+#EXTINF:-1,group-title="Canais Premium 9",WOOHOO
+http://145.239.5.118:25461/live/luca/luca/10505.ts
+#EXTINF:-1,group-title="Canais Premium 9",WOOHOO ALTERNATIVO
+http://145.239.5.118:25461/live/luca/luca/10758.ts
+#EXTINF:-1,group-title="Canais Premium 9",WOOHOO HD
+http://145.239.5.118:25461/live/luca/luca/10504.ts
+#EXTINF:-1,group-title="Canais Premium 9",ANIMAL  PLANET FULLHD
+http://145.239.5.118:25461/live/luca/luca/27352.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND FULLHD
+http://145.239.5.118:25461/live/luca/luca/27387.ts
+#EXTINF:-1,group-title="Canais Premium 9",BAND NEWS FULLHD
+http://145.239.5.118:25461/live/luca/luca/27351.ts
+#EXTINF:-1,group-title="Canais Premium 9",BIS FULLHD
+http://145.239.5.118:25461/live/luca/luca/27372.ts
+#EXTINF:-1,group-title="Canais Premium 9",BOOMERANG  FULLHD
+http://145.239.5.118:25461/live/luca/luca/27350.ts
+#EXTINF:-1,group-title="Canais Premium 9",COMBATE FULLHD
+http://145.239.5.118:25461/live/luca/luca/27397.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY CHANNEL FULLHD
+http://145.239.5.118:25461/live/luca/luca/27363.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY HOME & HEALTH FULLHD
+http://145.239.5.118:25461/live/luca/luca/27360.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY KIDS FULLHD
+http://145.239.5.118:25461/live/luca/luca/27359.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY TURBO FULLHD
+http://145.239.5.118:25461/live/luca/luca/27358.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISCOVERY WORLD FULLHD
+http://145.239.5.118:25461/live/luca/luca/27357.ts
+#EXTINF:-1,group-title="Canais Premium 9",DISNEY CHANNEL FULLHD
+http://145.239.5.118:25461/live/luca/luca/27371.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN BRASIL FULLHD
+http://145.239.5.118:25461/live/luca/luca/27381.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN EXTRA FULLHD
+http://145.239.5.118:25461/live/luca/luca/33353.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPN FULLHD
+http://145.239.5.118:25461/live/luca/luca/27370.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPORTE INTERATIVO 2 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27362.ts
+#EXTINF:-1,group-title="Canais Premium 9",ESPORTE INTERATIVO FULLHD
+http://145.239.5.118:25461/live/luca/luca/27361.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX FULLHD
+http://145.239.5.118:25461/live/luca/luca/27390.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX PREMIUM 2 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27356.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS 2 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27369.ts
+#EXTINF:-1,group-title="Canais Premium 9",FOX SPORTS FULLHD
+http://145.239.5.118:25461/live/luca/luca/27380.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO MINAS FULLHD
+http://145.239.5.118:25461/live/luca/luca/27382.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO NEWS FULLHD
+http://145.239.5.118:25461/live/luca/luca/27368.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO RJ FULLHD
+http://145.239.5.118:25461/live/luca/luca/27384.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOBO SP FULLHD
+http://145.239.5.118:25461/live/luca/luca/27383.ts
+#EXTINF:-1,group-title="Canais Premium 9",GLOOB FULLHD
+http://145.239.5.118:25461/live/luca/luca/27367.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO 2 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27388.ts
+#EXTINF:-1,group-title="Canais Premium 9",HBO FULLHD
+http://145.239.5.118:25461/live/luca/luca/27389.ts
+#EXTINF:-1,group-title="Canais Premium 9",HISTORY FULLHD
+http://145.239.5.118:25461/live/luca/luca/27355.ts
+#EXTINF:-1,group-title="Canais Premium 9",NAT GEO WILD FULLHD
+http://145.239.5.118:25461/live/luca/luca/27349.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICK JR FULLHD
+http://145.239.5.118:25461/live/luca/luca/27354.ts
+#EXTINF:-1,group-title="Canais Premium 9",NICKELODEON FULLHD
+http://145.239.5.118:25461/live/luca/luca/27348.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 2 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27378.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 3 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27377.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 4 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27376.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 5 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27375.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 6 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27374.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE 7 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27373.ts
+#EXTINF:-1,group-title="Canais Premium 9",PREMIERE CLUBES FULLHD
+http://145.239.5.118:25461/live/luca/luca/27379.ts
+#EXTINF:-1,group-title="Canais Premium 9",RECORD FULLHD
+http://145.239.5.118:25461/live/luca/luca/27386.ts
+#EXTINF:-1,group-title="Canais Premium 9",SBT FULLHD
+http://145.239.5.118:25461/live/luca/luca/27385.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 2 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27366.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV 3 FULLHD
+http://145.239.5.118:25461/live/luca/luca/27365.ts
+#EXTINF:-1,group-title="Canais Premium 9",SPORTV FULLHD
+http://145.239.5.118:25461/live/luca/luca/27396.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE ACTION FULLHD
+http://145.239.5.118:25461/live/luca/luca/27395.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE FUN FULLHD
+http://145.239.5.118:25461/live/luca/luca/27394.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PIPOCA FULLHD
+http://145.239.5.118:25461/live/luca/luca/27393.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE PREMIUM FULLHD
+http://145.239.5.118:25461/live/luca/luca/27392.ts
+#EXTINF:-1,group-title="Canais Premium 9",TELECINE TOUCH FULLHD
+http://145.239.5.118:25461/live/luca/luca/27391.ts
+#EXTINF:-1,group-title="Canais Premium 9",VIVA FULLHD
+http://145.239.5.118:25461/live/luca/luca/27364.ts
+#EXTINF:-1,group-title="Canais Premium 9",WARNER FULLHD
+http://145.239.5.118:25461/live/luca/luca/27353.ts
+#EXTINF:-1,group-title="Canais Premium 9",Jovem Pan News
+http://145.239.5.118:25461/live/luca/luca/39304.ts
+
+------------ Canais Premium 10 -------------------
+#EXTINF:-1,group-title="Canais Premium 10",A&E
+http://145.239.5.118:25461/live/michael/michael/10755.ts
+#EXTINF:-1,group-title="Canais Premium 10",A&E SD Op2
+http://145.239.5.118:25461/live/michael/michael/41798.ts
+#EXTINF:-1,group-title="Canais Premium 10",A&E ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10967.ts
+#EXTINF:-1,group-title="Canais Premium 10",A&E HD
+http://145.239.5.118:25461/live/michael/michael/10754.ts
+#EXTINF:-1,group-title="Canais Premium 10",A&E HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10966.ts
+#EXTINF:-1,group-title="Canais Premium 10",A&E HD Op2
+http://145.239.5.118:25461/live/michael/michael/41894.ts
+#EXTINF:-1,group-title="Canais Premium 10",A&E FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41843.ts
+#EXTINF:-1,group-title="Canais Premium 10",AGROCANAL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",AMAZON SAT ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10963.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC
+http://145.239.5.118:25461/live/michael/michael/10753.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC SD Op2
+http://145.239.5.118:25461/live/michael/michael/41797.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10962.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC HD
+http://145.239.5.118:25461/live/michael/michael/11901.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10961.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC HD Op2
+http://145.239.5.118:25461/live/michael/michael/41893.ts
+#EXTINF:-1,group-title="Canais Premium 10",AMC FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41842.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET
+http://145.239.5.118:25461/live/michael/michael/10752.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET SD Op2
+http://145.239.5.118:25461/live/michael/michael/41796.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10960.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET HD
+http://145.239.5.118:25461/live/michael/michael/10751.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10959.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET HD Op2
+http://145.239.5.118:25461/live/michael/michael/41892.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL PLANET FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41841.ts
+#EXTINF:-1,group-title="Canais Premium 10",ARTE 1
+http://145.239.5.118:25461/live/michael/michael/10750.ts
+#EXTINF:-1,group-title="Canais Premium 10",ARTE 1 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41795.ts
+#EXTINF:-1,group-title="Canais Premium 10",ARTE 1 HD
+http://145.239.5.118:25461/live/michael/michael/10749.ts
+#EXTINF:-1,group-title="Canais Premium 10",AUTO MOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",AXN
+http://145.239.5.118:25461/live/michael/michael/10748.ts
+#EXTINF:-1,group-title="Canais Premium 10",AXN SD Op2
+http://145.239.5.118:25461/live/michael/michael/41794.ts
+#EXTINF:-1,group-title="Canais Premium 10",AXN ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10965.ts
+#EXTINF:-1,group-title="Canais Premium 10",AXN HD
+http://145.239.5.118:25461/live/michael/michael/10747.ts
+#EXTINF:-1,group-title="Canais Premium 10",AXN HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10964.ts
+#EXTINF:-1,group-title="Canais Premium 10",AXN FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41840.ts
+#EXTINF:-1,group-title="Canais Premium 10",BABY TV
+http://145.239.5.118:25461/live/michael/michael/10746.ts
+#EXTINF:-1,group-title="Canais Premium 10",BABY TV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41793.ts
+#EXTINF:-1,group-title="Canais Premium 10",BABY TV ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10958.ts
+#EXTINF:-1,group-title="Canais Premium 10",BABY TV FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41903.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND
+http://145.239.5.118:25461/live/michael/michael/10745.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10957.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND SD Op2
+http://145.239.5.118:25461/live/michael/michael/41791.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND HD
+http://145.239.5.118:25461/live/michael/michael/10744.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10956.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NEWS
+http://145.239.5.118:25461/live/michael/michael/10743.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NEWS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41792.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NEWS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10955.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NEWS HD
+http://145.239.5.118:25461/live/michael/michael/10742.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NORDESTE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41839.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NORDESTE HD Op2
+http://145.239.5.118:25461/live/michael/michael/41891.ts
+#EXTINF:-1,group-title="Canais Premium 10",Band News: O É da Coisa, com Reinaldo Azevedo
+http://145.239.5.118:25461/live/michael/michael/39667.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND SPORTS
+http://145.239.5.118:25461/live/michael/michael/10741.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND SPORTS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10954.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND SPORTS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41790.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND SPORTS HD
+http://145.239.5.118:25461/live/michael/michael/10740.ts
+#EXTINF:-1,group-title="Canais Premium 10",BIS
+http://145.239.5.118:25461/live/michael/michael/10739.ts
+#EXTINF:-1,group-title="Canais Premium 10",BIS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10953.ts
+#EXTINF:-1,group-title="Canais Premium 10",BIS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41789.ts
+#EXTINF:-1,group-title="Canais Premium 10",BIS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10952.ts
+#EXTINF:-1,group-title="Canais Premium 10",BIS HD
+http://145.239.5.118:25461/live/michael/michael/10738.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOA VONTADE
+http://145.239.5.118:25461/live/michael/michael/3884.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG
+http://145.239.5.118:25461/live/michael/michael/10737.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10951.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG SD Op2
+http://145.239.5.118:25461/live/michael/michael/41788.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG HD
+http://145.239.5.118:25461/live/michael/michael/11902.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10950.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG HD Op2
+http://145.239.5.118:25461/live/michael/michael/41847.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41838.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL BRASIL
+http://145.239.5.118:25461/live/michael/michael/10736.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL BRASIL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10948.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL BRASIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41787.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL BRASIL HD
+http://145.239.5.118:25461/live/michael/michael/10735.ts
+#EXTINF:-1,group-title="Canais Premium 10",Canal Ricos G5
+http://145.239.5.118:25461/live/michael/michael/42250.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL RURAL
+http://145.239.5.118:25461/live/michael/michael/10734.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL RURAL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41786.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL SONY
+http://145.239.5.118:25461/live/michael/michael/10733.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL SONY ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10947.ts
+#EXTINF:-1,group-title="Canais Premium 10",SONY SD Op2
+http://145.239.5.118:25461/live/michael/michael/41695.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL SONY HD
+http://145.239.5.118:25461/live/michael/michael/10732.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL SONY HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10946.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL SONY HD Op2
+http://145.239.5.118:25461/live/michael/michael/41890.ts
+#EXTINF:-1,group-title="Canais Premium 10",SONY FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41802.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANÇÃO NOVA
+http://145.239.5.118:25461/live/michael/michael/10731.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON NETWORK
+http://145.239.5.118:25461/live/michael/michael/10730.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON NETWORK ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10945.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON NETWORK SD Op2
+http://145.239.5.118:25461/live/michael/michael/41785.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON NETWORK HD
+http://145.239.5.118:25461/live/michael/michael/10729.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON NETWORK HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10944.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON NETWORK HD Op2
+http://145.239.5.118:25461/live/michael/michael/41889.ts
+#EXTINF:-1,group-title="Canais Premium 10",CARTOON FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41836.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINE SKY 1 G5
+http://145.239.5.118:25461/live/michael/michael/41201.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINE SKY 2 G5
+http://145.239.5.118:25461/live/michael/michael/41200.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINE SKY 3 G5
+http://145.239.5.118:25461/live/michael/michael/41199.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINE SKY 4 G5
+http://145.239.5.118:25461/live/michael/michael/41198.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINE SKY 5 G5
+http://145.239.5.118:25461/live/michael/michael/41197.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINE +
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+#EXTINF:-1,group-title="Canais Premium 10",CINE CLARO
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX
+http://145.239.5.118:25461/live/michael/michael/10728.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10939.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX SD Op2
+http://145.239.5.118:25461/live/michael/michael/41784.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX HD
+http://145.239.5.118:25461/live/michael/michael/10727.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10938.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX HD Op2
+http://145.239.5.118:25461/live/michael/michael/41888.ts
+#EXTINF:-1,group-title="Canais Premium 10",CINEMAX FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41806.ts
+#EXTINF:-1,group-title="Canais Premium 10",CLASSIQUE TV
+http://145.239.5.118:25461/live/michael/michael/10937.ts
+#EXTINF:-1,group-title="Canais Premium 10",CJC TV
+http://145.239.5.118:25461/live/michael/michael/6005.ts
+#EXTINF:-1,group-title="Canais Premium 10",CNN INTERNATIONAL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10942.ts
+#EXTINF:-1,group-title="Canais Premium 10",CNN INTERNATIONAL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41783.ts
+#EXTINF:-1,group-title="Canais Premium 10",CNT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41782.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMBATE
+http://145.239.5.118:25461/live/michael/michael/10726.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMBATE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10936.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMBATE SD Op2
+http://145.239.5.118:25461/live/michael/michael/41781.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMBATE HD
+http://145.239.5.118:25461/live/michael/michael/10725.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMBATE HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10935.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMEDY CENTRAL
+http://145.239.5.118:25461/live/michael/michael/10724.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMEDY CENTRAL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10933.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMEDY CENTRAL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41780.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMEDY CENTRAL HD
+http://145.239.5.118:25461/live/michael/michael/10723.ts
+#EXTINF:-1,group-title="Canais Premium 10",CULTURA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41779.ts
+#EXTINF:-1,group-title="Canais Premium 10",Curta!
+http://145.239.5.118:25461/live/michael/michael/10722.ts
+#EXTINF:-1,group-title="Canais Premium 10",CURTA! SD Op2
+http://145.239.5.118:25461/live/michael/michael/41778.ts
+#EXTINF:-1,group-title="Canais Premium 10",CURTA! HD
+http://145.239.5.118:25461/live/michael/michael/10721.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CHANNEL
+http://145.239.5.118:25461/live/michael/michael/10720.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10932.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CHANNEL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41777.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CHANNEL HD
+http://145.239.5.118:25461/live/michael/michael/10719.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10931.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY HD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41883.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41835.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CIVILIZATION
+http://145.239.5.118:25461/live/michael/michael/10718.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CIVILIZATION SD Op2
+http://145.239.5.118:25461/live/michael/michael/41776.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CIVILIZATION HD
+http://145.239.5.118:25461/live/michael/michael/10717.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY HOME & HEALTH
+http://145.239.5.118:25461/live/michael/michael/10716.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY H&H ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10930.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY HOME & HEALTH SD Op2
+http://145.239.5.118:25461/live/michael/michael/41775.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY H&H HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10929.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY HOME & HEALTH HD
+http://145.239.5.118:25461/live/michael/michael/10715.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS
+http://145.239.5.118:25461/live/michael/michael/10714.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10928.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41774.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS HD
+http://145.239.5.118:25461/live/michael/michael/10713.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10927.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS HD Op2
+http://145.239.5.118:25461/live/michael/michael/41884.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41834.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY SCIENCE
+http://145.239.5.118:25461/live/michael/michael/10712.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY SCIENCE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10926.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY SCIENCE SD Op2
+http://145.239.5.118:25461/live/michael/michael/41773.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY SCIENCE HD
+http://145.239.5.118:25461/live/michael/michael/10711.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY THEATER
+http://145.239.5.118:25461/live/michael/michael/10710.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY THEATER ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10925.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY THEATER HD
+http://145.239.5.118:25461/live/michael/michael/10709.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY TURBO
+http://145.239.5.118:25461/live/michael/michael/10708.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY TURBO ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10924.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY TURBO SD Op2
+http://145.239.5.118:25461/live/michael/michael/41772.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY TURBO HD
+http://145.239.5.118:25461/live/michael/michael/10707.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY TURBO HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10923.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY WORLD  HD
+http://145.239.5.118:25461/live/michael/michael/10705.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY WORLD HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10922.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY WORLD
+http://145.239.5.118:25461/live/michael/michael/10706.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY CHANNEL
+http://145.239.5.118:25461/live/michael/michael/10704.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10921.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY CHANNEL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41771.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10920.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY CHANNEL HD
+http://145.239.5.118:25461/live/michael/michael/10703.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY JUNIOR
+http://145.239.5.118:25461/live/michael/michael/10702.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY JR ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10919.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY JR SD Op2
+http://145.239.5.118:25461/live/michael/michael/41770.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY JR HD Op2
+http://145.239.5.118:25461/live/michael/michael/41885.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY JR FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41833.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY XD
+http://145.239.5.118:25461/live/michael/michael/10701.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY XD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10917.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY XD SD Op2
+http://145.239.5.118:25461/live/michael/michael/41769.ts
+#EXTINF:-1,group-title="Canais Premium 10",DOGTV
+http://145.239.5.118:25461/live/michael/michael/33354.ts
+#EXTINF:-1,group-title="Canais Premium 10",DOGTV HD
+http://145.239.5.118:25461/live/michael/michael/33355.ts
+#EXTINF:-1,group-title="Canais Premium 10",E!
+http://145.239.5.118:25461/live/michael/michael/10700.ts
+#EXTINF:-1,group-title="Canais Premium 10",E! ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10916.ts
+#EXTINF:-1,group-title="Canais Premium 10",E! SD Op2
+http://145.239.5.118:25461/live/michael/michael/41768.ts
+#EXTINF:-1,group-title="Canais Premium 10",E! HD
+http://145.239.5.118:25461/live/michael/michael/10699.ts
+#EXTINF:-1,group-title="Canais Premium 10",E! HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10915.ts
+#EXTINF:-1,group-title="Canais Premium 10",EI MAXX ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10914.ts
+#EXTINF:-1,group-title="Canais Premium 10",EI MAXX SD Op2
+http://145.239.5.118:25461/live/michael/michael/41766.ts
+#EXTINF:-1,group-title="Canais Premium 10",EI MAXX HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10913.ts
+#EXTINF:-1,group-title="Canais Premium 10",EI MAXX 2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10912.ts
+#EXTINF:-1,group-title="Canais Premium 10",EI MAXX 2 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41767.ts
+#EXTINF:-1,group-title="Canais Premium 10",EI MAXX 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10911.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN
+http://145.239.5.118:25461/live/michael/michael/10698.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN  ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10902.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10909.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN SD Op2
+http://145.239.5.118:25461/live/michael/michael/41763.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN   SD Op2
+http://145.239.5.118:25461/live/michael/michael/41765.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN HD
+http://145.239.5.118:25461/live/michael/michael/10692.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN   HD
+http://145.239.5.118:25461/live/michael/michael/10697.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN HD  ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10900.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN  HD Op2
+http://145.239.5.118:25461/live/michael/michael/41882.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10908.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN  HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10901.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL
+http://145.239.5.118:25461/live/michael/michael/10696.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10907.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41764.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL HD
+http://145.239.5.118:25461/live/michael/michael/10695.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10906.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL HD Op2
+http://145.239.5.118:25461/live/michael/michael/41860.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL HD Op2 (2)
+http://145.239.5.118:25461/live/michael/michael/41886.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41832.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN MAIS FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41805.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN EXTRA
+http://145.239.5.118:25461/live/michael/michael/10694.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN EXTRA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10905.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN EXTRA HD
+http://145.239.5.118:25461/live/michael/michael/10693.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN EXTRA HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10904.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN PLUS HD Op2 (2)
+http://145.239.5.118:25461/live/michael/michael/41887.ts
+#EXTINF:-1,group-title="Canais Premium 10",Esporte Interativo
+http://145.239.5.118:25461/live/michael/michael/10691.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPORTE INTERATIVO SD Op2
+http://145.239.5.118:25461/live/michael/michael/41762.ts
+#EXTINF:-1,group-title="Canais Premium 10",Esporte Interativo HD
+http://145.239.5.118:25461/live/michael/michael/10688.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPORTE INTERATIVO HD Op2
+http://145.239.5.118:25461/live/michael/michael/41876.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPORTE INTERATIVO FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41831.ts
+#EXTINF:-1,group-title="Canais Premium 10",Esporte Interativo 2
+http://145.239.5.118:25461/live/michael/michael/10690.ts
+#EXTINF:-1,group-title="Canais Premium 10",Esporte Interativo 2 HD
+http://145.239.5.118:25461/live/michael/michael/10689.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPORTE INTERATIVO 2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10899.ts
+#EXTINF:-1,group-title="Canais Premium 10",FISH TV
+http://145.239.5.118:25461/live/michael/michael/10687.ts
+#EXTINF:-1,group-title="Canais Premium 10",FISH TV ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10896.ts
+#EXTINF:-1,group-title="Canais Premium 10",FISH TV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41761.ts
+#EXTINF:-1,group-title="Canais Premium 10",FISH TV HD
+http://145.239.5.118:25461/live/michael/michael/24203.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOOD NETWORK
+http://145.239.5.118:25461/live/michael/michael/10686.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOOD NETWORK SD Op2
+http://145.239.5.118:25461/live/michael/michael/41760.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOOD NETWORK HD
+http://145.239.5.118:25461/live/michael/michael/10685.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOODNETWORK HD Op2
+http://145.239.5.118:25461/live/michael/michael/41861.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOOD NETWORK FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41830.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX
+http://145.239.5.118:25461/live/michael/michael/10684.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10895.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SD Op2
+http://145.239.5.118:25461/live/michael/michael/41758.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX HD
+http://145.239.5.118:25461/live/michael/michael/10683.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10894.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX HD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41862.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41829.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX LIFE
+http://145.239.5.118:25461/live/michael/michael/10682.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX LIFE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10893.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX LIFE SD Op2
+http://145.239.5.118:25461/live/michael/michael/41759.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX LIFE HD
+http://145.239.5.118:25461/live/michael/michael/10681.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX LIFE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41902.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 1
+http://145.239.5.118:25461/live/michael/michael/11903.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 1 HD
+http://145.239.5.118:25461/live/michael/michael/10680.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 1 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10892.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 1 FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41901.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 2
+http://145.239.5.118:25461/live/michael/michael/11904.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 2 HD
+http://145.239.5.118:25461/live/michael/michael/10679.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10891.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 2 FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41900.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS
+http://145.239.5.118:25461/live/michael/michael/10678.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41756.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS HD
+http://145.239.5.118:25461/live/michael/michael/10675.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10890.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41898.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2
+http://145.239.5.118:25461/live/michael/michael/10677.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10889.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41757.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 HD
+http://145.239.5.118:25461/live/michael/michael/10676.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10888.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41881.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41899.ts
+#EXTINF:-1,group-title="Canais Premium 10",FX
+http://145.239.5.118:25461/live/michael/michael/10672.ts
+#EXTINF:-1,group-title="Canais Premium 10",FX ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10898.ts
+#EXTINF:-1,group-title="Canais Premium 10",FX SD Op2
+http://145.239.5.118:25461/live/michael/michael/41754.ts
+#EXTINF:-1,group-title="Canais Premium 10",FX HD
+http://145.239.5.118:25461/live/michael/michael/10671.ts
+#EXTINF:-1,group-title="Canais Premium 10",FX HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10897.ts
+#EXTINF:-1,group-title="Canais Premium 10",FX FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41897.ts
+#EXTINF:-1,group-title="Canais Premium 10",FUTURA
+http://145.239.5.118:25461/live/michael/michael/10674.ts
+#EXTINF:-1,group-title="Canais Premium 10",FUTURA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10887.ts
+#EXTINF:-1,group-title="Canais Premium 10",FUTURA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41755.ts
+#EXTINF:-1,group-title="Canais Premium 10",FUTURA HD
+http://145.239.5.118:25461/live/michael/michael/10673.ts
+#EXTINF:-1,group-title="Canais Premium 10",Galinha Pintadinha 24 horas
+http://145.239.5.118:25461/live/michael/michael/23778.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO BH G5
+http://145.239.5.118:25461/live/michael/michael/41244.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO BRASILIA
+http://145.239.5.118:25461/live/michael/michael/10670.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO BRASILIA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10884.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO BRASILIA  G5
+http://145.239.5.118:25461/live/michael/michael/41240.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO BRASILIA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41753.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO EPTV CAMPINAS
+http://145.239.5.118:25461/live/michael/michael/10669.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO EPTV CAMPINAS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10910.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO EPTV RIBEIRÃO PRETO
+http://145.239.5.118:25461/live/michael/michael/10666.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO EPTV HD RIBEIRÃO PRETO
+http://145.239.5.118:25461/live/michael/michael/10667.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO EPTV HD CAMPINAS
+http://145.239.5.118:25461/live/michael/michael/10668.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO INTERNACIONAL
+http://145.239.5.118:25461/live/michael/michael/10665.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO LIBERAL BELEM G5
+http://145.239.5.118:25461/live/michael/michael/41224.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO MINAS
+http://145.239.5.118:25461/live/michael/michael/10664.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO MG ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10881.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO MINAS HD
+http://145.239.5.118:25461/live/michael/michael/10663.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO MG HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10880.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NEWS
+http://145.239.5.118:25461/live/michael/michael/10662.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NEWS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10878.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NEWS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41752.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NEWS HD
+http://145.239.5.118:25461/live/michael/michael/10661.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NEWS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10877.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE
+http://145.239.5.118:25461/live/michael/michael/10660.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10883.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE G5
+http://145.239.5.118:25461/live/michael/michael/41239.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE SD Op2
+http://145.239.5.118:25461/live/michael/michael/41751.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE HD
+http://145.239.5.118:25461/live/michael/michael/10659.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10882.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE HD Op2
+http://145.239.5.118:25461/live/michael/michael/41869.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NORDESTE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41828.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RBS TV PORTO ALEGRE
+http://145.239.5.118:25461/live/michael/michael/10657.ts
+#EXTINF:-1,group-title="Canais Premium 10",RBS TV PORTO ALEGRE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10809.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RBS TV RS G5
+http://145.239.5.118:25461/live/michael/michael/41187.ts
+#EXTINF:-1,group-title="Canais Premium 10",RBS TV PORTO ALEGRE SD Op2
+http://145.239.5.118:25461/live/michael/michael/41704.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RBS HD TV PORTO ALEGRE
+http://145.239.5.118:25461/live/michael/michael/10656.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ
+http://145.239.5.118:25461/live/michael/michael/10655.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10876.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ G5
+http://145.239.5.118:25461/live/michael/michael/41242.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RIO SD Op2
+http://145.239.5.118:25461/live/michael/michael/41750.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ HD
+http://145.239.5.118:25461/live/michael/michael/10654.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10875.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ HD ALTERNATIVO H265
+http://145.239.5.118:25461/live/michael/michael/10874.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RPC CURITIBA
+http://145.239.5.118:25461/live/michael/michael/10653.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO CURITIBA HD Op2 (2)
+http://145.239.5.118:25461/live/michael/michael/41864.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP
+http://145.239.5.118:25461/live/michael/michael/10652.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10873.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP G5
+http://145.239.5.118:25461/live/michael/michael/41241.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP SD Op2
+http://145.239.5.118:25461/live/michael/michael/41749.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP HD
+http://145.239.5.118:25461/live/michael/michael/10651.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10872.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP HD Op2 (2)
+http://145.239.5.118:25461/live/michael/michael/41880.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV ANHANGUERA
+http://145.239.5.118:25461/live/michael/michael/10650.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV ANHANGUERA G5
+http://145.239.5.118:25461/live/michael/michael/41143.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV ANHANGUERA HD
+http://145.239.5.118:25461/live/michael/michael/10649.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV BAHIA
+http://145.239.5.118:25461/live/michael/michael/10648.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV BAHIA HD
+http://145.239.5.118:25461/live/michael/michael/10647.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV TEM BAURU
+http://145.239.5.118:25461/live/michael/michael/10646.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV TEM HD S. J. DO RIO PRETO
+http://145.239.5.118:25461/live/michael/michael/10645.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV TEM S. J. DO RIO PRETO
+http://145.239.5.118:25461/live/michael/michael/10644.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO TV TEM SOROCABA
+http://145.239.5.118:25461/live/michael/michael/10643.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO VANG SAO J.CAMPOS G5
+http://145.239.5.118:25461/live/michael/michael/41126.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO VANG TAUBATE G5
+http://145.239.5.118:25461/live/michael/michael/41125.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBOSAT   HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10870.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOB
+http://145.239.5.118:25461/live/michael/michael/10642.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOB ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10869.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOB SD Op2
+http://145.239.5.118:25461/live/michael/michael/41748.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOB HD
+http://145.239.5.118:25461/live/michael/michael/10641.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOB HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10868.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOBINHO HD
+http://145.239.5.118:25461/live/michael/michael/10640.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOBINHO SD
+http://145.239.5.118:25461/live/michael/michael/10639.ts
+#EXTINF:-1,group-title="Canais Premium 10",GNT
+http://145.239.5.118:25461/live/michael/michael/10638.ts
+#EXTINF:-1,group-title="Canais Premium 10",GNT ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10886.ts
+#EXTINF:-1,group-title="Canais Premium 10",GNT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41747.ts
+#EXTINF:-1,group-title="Canais Premium 10",GNT HD
+http://145.239.5.118:25461/live/michael/michael/10637.ts
+#EXTINF:-1,group-title="Canais Premium 10",GNT HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10885.ts
+#EXTINF:-1,group-title="Canais Premium 10",GOSPEL MUSIC TV
+http://145.239.5.118:25461/live/michael/michael/33522.ts
+#EXTINF:-1,group-title="Canais Premium 10",GOSPEL CARTOON TV
+http://145.239.5.118:25461/live/michael/michael/28387.ts
+#EXTINF:-1,group-title="Canais Premium 10",H2 SD
+http://145.239.5.118:25461/live/michael/michael/10636.ts
+#EXTINF:-1,group-title="Canais Premium 10",H2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10866.ts
+#EXTINF:-1,group-title="Canais Premium 10",H2 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41746.ts
+#EXTINF:-1,group-title="Canais Premium 10",H2 HD
+http://145.239.5.118:25461/live/michael/michael/10635.ts
+#EXTINF:-1,group-title="Canais Premium 10",H2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10865.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO
+http://145.239.5.118:25461/live/michael/michael/10634.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10864.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO SD Op2
+http://145.239.5.118:25461/live/michael/michael/41741.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO HD
+http://145.239.5.118:25461/live/michael/michael/10629.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10863.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO HD Op2
+http://145.239.5.118:25461/live/michael/michael/41879.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41827.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2
+http://145.239.5.118:25461/live/michael/michael/10633.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10862.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41745.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 HD
+http://145.239.5.118:25461/live/michael/michael/10632.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10861.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41865.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41804.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FAMILY
+http://145.239.5.118:25461/live/michael/michael/10631.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FAMILY ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10860.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FAMILY SD Op2
+http://145.239.5.118:25461/live/michael/michael/41744.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FAMILY HD
+http://145.239.5.118:25461/live/michael/michael/10630.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FAMILY HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10859.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS
+http://145.239.5.118:25461/live/michael/michael/10628.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS .
+http://145.239.5.118:25461/live/michael/michael/10627.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10858.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41742.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS HD
+http://145.239.5.118:25461/live/michael/michael/10625.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10857.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS E
+http://145.239.5.118:25461/live/michael/michael/10626.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS*E ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10856.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO PLUS E SD Op2
+http://145.239.5.118:25461/live/michael/michael/41743.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO SIGNATURE
+http://145.239.5.118:25461/live/michael/michael/10624.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO SIGNATURE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10855.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO SIGN. SD Op2
+http://145.239.5.118:25461/live/michael/michael/41740.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO SIGNATURE HD
+http://145.239.5.118:25461/live/michael/michael/10623.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO SIGNATURE HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10854.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10853.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY HD
+http://145.239.5.118:25461/live/michael/michael/10622.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10852.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY CHANNEL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41680.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY HD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41878.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41826.ts
+#EXTINF:-1,group-title="Canais Premium 10",HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+#EXTINF:-1,group-title="Canais Premium 10",I-SAT
+http://145.239.5.118:25461/live/michael/michael/10621.ts
+#EXTINF:-1,group-title="Canais Premium 10",I SAT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41739.ts
+#EXTINF:-1,group-title="Canais Premium 10",IDEAL TV
+http://145.239.5.118:25461/live/michael/michael/10620.ts
+#EXTINF:-1,group-title="Canais Premium 10",INVESTIGATION DISCOVERY
+http://145.239.5.118:25461/live/michael/michael/10619.ts
+#EXTINF:-1,group-title="Canais Premium 10",INVESTIGAÇÃO DISCOVERY ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10851.ts
+#EXTINF:-1,group-title="Canais Premium 10",ID SD Op2
+http://145.239.5.118:25461/live/michael/michael/41738.ts
+#EXTINF:-1,group-title="Canais Premium 10",INVESTIGATION DISCOVERY HD
+http://145.239.5.118:25461/live/michael/michael/10618.ts
+#EXTINF:-1,group-title="Canais Premium 10",INVESTIGAÇÃO DISCOVERY HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10850.ts
+#EXTINF:-1,group-title="Canais Premium 10",IURD TV
+http://145.239.5.118:25461/live/michael/michael/6006.ts
+#EXTINF:-1,group-title="Canais Premium 10",IURD TV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41737.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jazz: Chillhop Essentials
+http://145.239.5.118:25461/live/michael/michael/39305.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jazz: Rainy Day
+http://145.239.5.118:25461/live/michael/michael/39307.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jazz: Relaxamento
+http://145.239.5.118:25461/live/michael/michael/39306.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jovem Pan: 3 em 1
+http://145.239.5.118:25461/live/michael/michael/39668.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jovem Pan: Pânico (das 12hs ás 14hs ao Vivo)
+http://145.239.5.118:25461/live/michael/michael/39666.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jovem Pan: Pingo nos Is
+http://145.239.5.118:25461/live/michael/michael/39669.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - CANTAR E BRINCAR VOL 1
+http://145.239.5.118:25461/live/michael/michael/28512.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Cocoricó
+http://145.239.5.118:25461/live/michael/michael/28509.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Cocoricó 02
+http://145.239.5.118:25461/live/michael/michael/28508.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Contos de fadas
+http://145.239.5.118:25461/live/michael/michael/28518.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Doutora Brinquedos - O Luau de Leilani
+http://145.239.5.118:25461/live/michael/michael/28505.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Galinha Pintadinha 1
+http://145.239.5.118:25461/live/michael/michael/28522.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Galinha Pintadinha 2
+http://145.239.5.118:25461/live/michael/michael/28521.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Galinha Pintadinha 3
+http://145.239.5.118:25461/live/michael/michael/28520.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Galinha Pintadinha 4
+http://145.239.5.118:25461/live/michael/michael/28519.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Masha e o Urso
+http://145.239.5.118:25461/live/michael/michael/28504.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MÚSICAS GOSPEL INFANTIL
+http://145.239.5.118:25461/live/michael/michael/28510.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 01
+http://145.239.5.118:25461/live/michael/michael/28503.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 02
+http://145.239.5.118:25461/live/michael/michael/28502.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 03
+http://145.239.5.118:25461/live/michael/michael/28501.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 04
+http://145.239.5.118:25461/live/michael/michael/28500.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 05
+http://145.239.5.118:25461/live/michael/michael/28499.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 06
+http://145.239.5.118:25461/live/michael/michael/28498.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 07
+http://145.239.5.118:25461/live/michael/michael/28497.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 08
+http://145.239.5.118:25461/live/michael/michael/28496.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - MUSICAS INFANTIS 09
+http://145.239.5.118:25461/live/michael/michael/28495.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 01
+http://145.239.5.118:25461/live/michael/michael/28494.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 02
+http://145.239.5.118:25461/live/michael/michael/28493.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 03
+http://145.239.5.118:25461/live/michael/michael/28492.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 04
+http://145.239.5.118:25461/live/michael/michael/28491.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 05
+http://145.239.5.118:25461/live/michael/michael/28490.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 06
+http://145.239.5.118:25461/live/michael/michael/28489.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - OS AMIGUINHOS 07
+http://145.239.5.118:25461/live/michael/michael/28488.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Patati e Patata
+http://145.239.5.118:25461/live/michael/michael/28514.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Patati e Patata - Volta ao Mundo
+http://145.239.5.118:25461/live/michael/michael/28513.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Peppa Pig
+http://145.239.5.118:25461/live/michael/michael/28516.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Peppa Pig Espanhol
+http://145.239.5.118:25461/live/michael/michael/28515.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Pequenos Sábios Gospel
+http://145.239.5.118:25461/live/michael/michael/28511.ts
+#EXTINF:-1,group-title="Canais Premium 10",KIDS - Turminha Paraíso
+http://145.239.5.118:25461/live/michael/michael/28507.ts
+#EXTINF:-1,group-title="Canais Premium 10",LIFETIME
+http://145.239.5.118:25461/live/michael/michael/11905.ts
+#EXTINF:-1,group-title="Canais Premium 10",LIFETIME SD Op2
+http://145.239.5.118:25461/live/michael/michael/41736.ts
+#EXTINF:-1,group-title="Canais Premium 10",LIFETIME HD
+http://145.239.5.118:25461/live/michael/michael/10617.ts
+#EXTINF:-1,group-title="Canais Premium 10",LIFETIME HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10849.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAIS GLOBOSAT
+http://145.239.5.118:25461/live/michael/michael/10616.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAIS GLOBOSAT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41735.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAIS GLOBOSAT HD
+http://145.239.5.118:25461/live/michael/michael/10615.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX
+http://145.239.5.118:25461/live/michael/michael/10614.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10846.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX SD Op2
+http://145.239.5.118:25461/live/michael/michael/41732.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX HD
+http://145.239.5.118:25461/live/michael/michael/10613.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX PRIME
+http://145.239.5.118:25461/live/michael/michael/10612.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX PRIME ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10845.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX PRIME E
+http://145.239.5.118:25461/live/michael/michael/10611.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX PRIME E SD Op2
+http://145.239.5.118:25461/live/michael/michael/41734.ts
+#EXTINF:-1,group-title="Canais Premium 10",Max Prime SD Op2
+http://145.239.5.118:25461/live/michael/michael/41733.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX PRIME HD
+http://145.239.5.118:25461/live/michael/michael/10610.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX PRIME HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10844.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX UP
+http://145.239.5.118:25461/live/michael/michael/10609.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX UP SD Op2
+http://145.239.5.118:25461/live/michael/michael/41731.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX UP ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10843.ts
+#EXTINF:-1,group-title="Canais Premium 10",MAX UP HD
+http://145.239.5.118:25461/live/michael/michael/10608.ts
+#EXTINF:-1,group-title="Canais Premium 10",MEGAPIX
+http://145.239.5.118:25461/live/michael/michael/10607.ts
+#EXTINF:-1,group-title="Canais Premium 10",MEGAPIX ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10842.ts
+#EXTINF:-1,group-title="Canais Premium 10",MEGAPIX SD Op2
+http://145.239.5.118:25461/live/michael/michael/41730.ts
+#EXTINF:-1,group-title="Canais Premium 10",MEGAPIX HD
+http://145.239.5.118:25461/live/michael/michael/10606.ts
+#EXTINF:-1,group-title="Canais Premium 10",MEGAPIX HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10841.ts
+#EXTINF:-1,group-title="Canais Premium 10",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",MTV
+http://145.239.5.118:25461/live/michael/michael/10605.ts
+#EXTINF:-1,group-title="Canais Premium 10",MTV ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10848.ts
+#EXTINF:-1,group-title="Canais Premium 10",MTV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41729.ts
+#EXTINF:-1,group-title="Canais Premium 10",MTV HD
+http://145.239.5.118:25461/live/michael/michael/10604.ts
+#EXTINF:-1,group-title="Canais Premium 10",MTV HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10847.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW
+http://145.239.5.118:25461/live/michael/michael/10602.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10840.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW SD Op2
+http://145.239.5.118:25461/live/michael/michael/41728.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW HD
+http://145.239.5.118:25461/live/michael/michael/10601.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10839.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW HD Op2
+http://145.239.5.118:25461/live/michael/michael/41877.ts
+#EXTINF:-1,group-title="Canais Premium 10",MULTISHOW FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41825.ts
+#EXTINF:-1,group-title="Canais Premium 10",MUSIC BOX BRASIL
+http://145.239.5.118:25461/live/michael/michael/10600.ts
+#EXTINF:-1,group-title="Canais Premium 10",MUSIC BOX BRASIL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10838.ts
+#EXTINF:-1,group-title="Canais Premium 10",MUSIC BOX BRAZIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41727.ts
+#EXTINF:-1,group-title="Canais Premium 10",MUNDO AUTO
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",MUSIC BOX BRASIL HD
+http://145.239.5.118:25461/live/michael/michael/11906.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO
+http://145.239.5.118:25461/live/michael/michael/10599.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO HD
+http://145.239.5.118:25461/live/michael/michael/10598.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATIONAL GEOGRAPHIC ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10834.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATIONAL GEOGRAPHIC SD Op2
+http://145.239.5.118:25461/live/michael/michael/41724.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATIONAL GEOGRAPHIC HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10833.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATIONAL GEOGRAPHIC HD Op2
+http://145.239.5.118:25461/live/michael/michael/41875.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41896.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEO KIDS
+http://145.239.5.118:25461/live/michael/michael/10837.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO KIDS
+http://145.239.5.118:25461/live/michael/michael/10597.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEO KIDS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41726.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO KIDS HD
+http://145.239.5.118:25461/live/michael/michael/10596.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEOKIDS HD Op2
+http://145.239.5.118:25461/live/michael/michael/41859.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEOKIDS FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41824.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEO WILD
+http://145.239.5.118:25461/live/michael/michael/10594.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEO WILD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10836.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEO WILD SD Op2
+http://145.239.5.118:25461/live/michael/michael/41725.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO WILD HD
+http://145.239.5.118:25461/live/michael/michael/10595.ts
+#EXTINF:-1,group-title="Canais Premium 10",NATGEO WILD HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10835.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO WILD FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41895.ts
+#EXTINF:-1,group-title="Canais Premium 10",NBA Live
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1,group-title="Canais Premium 10",NBR
+http://145.239.5.118:25461/live/michael/michael/10593.ts
+#EXTINF:-1,group-title="Canais Premium 10",NBR HD
+http://145.239.5.118:25461/live/michael/michael/3887.ts
+#EXTINF:-1,group-title="Canais Premium 10",NFL TV
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",NICK JR
+http://145.239.5.118:25461/live/michael/michael/10591.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICK JR ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10832.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICK JR. SD Op2
+http://145.239.5.118:25461/live/michael/michael/41723.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICK JR HD
+http://145.239.5.118:25461/live/michael/michael/11907.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICK-JR HD Op2
+http://145.239.5.118:25461/live/michael/michael/41874.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICK JR FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41823.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICKELODEN
+http://145.239.5.118:25461/live/michael/michael/10590.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICKELODEON ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10830.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICKELODEON SD Op2
+http://145.239.5.118:25461/live/michael/michael/41722.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICKELODEON HD
+http://145.239.5.118:25461/live/michael/michael/11908.ts
+#EXTINF:-1,group-title="Canais Premium 10",NHK
+http://145.239.5.118:25461/live/michael/michael/10592.ts
+#EXTINF:-1,group-title="Canais Premium 10",NOVA NORDESTE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41822.ts
+#EXTINF:-1,group-title="Canais Premium 10",NOVO TEMPO SD Op2
+http://145.239.5.118:25461/live/michael/michael/41721.ts
+#EXTINF:-1,group-title="Canais Premium 10",OFF
+http://145.239.5.118:25461/live/michael/michael/10589.ts
+#EXTINF:-1,group-title="Canais Premium 10",OFF SD Op2
+http://145.239.5.118:25461/live/michael/michael/41720.ts
+#EXTINF:-1,group-title="Canais Premium 10",OFF HD
+http://145.239.5.118:25461/live/michael/michael/10588.ts
+#EXTINF:-1,group-title="Canais Premium 10",OFF HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10829.ts
+#EXTINF:-1,group-title="Canais Premium 10",OFF HD Op2
+http://145.239.5.118:25461/live/michael/michael/41821.ts
+#EXTINF:-1,group-title="Canais Premium 10",CANAL OFF FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41837.ts
+#EXTINF:-1,group-title="Canais Premium 10",PARAMOUNT CHANNEL
+http://145.239.5.118:25461/live/michael/michael/10587.ts
+#EXTINF:-1,group-title="Canais Premium 10",PARAMOUNT ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10828.ts
+#EXTINF:-1,group-title="Canais Premium 10",PARAMOUNT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41719.ts
+#EXTINF:-1,group-title="Canais Premium 10",PARAMOUNT CHANNEL HD
+http://145.239.5.118:25461/live/michael/michael/10586.ts
+#EXTINF:-1,group-title="Canais Premium 10",PARAMOUNT HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10827.ts
+#EXTINF:-1,group-title="Canais Premium 10",PFC ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10826.ts
+#EXTINF:-1,group-title="Canais Premium 10",PLAY TV ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10825.ts
+#EXTINF:-1,group-title="Canais Premium 10",PLAY TV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41718.ts
+#EXTINF:-1,group-title="Canais Premium 10",Portal Gospel
+http://145.239.5.118:25461/live/michael/michael/6011.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE TABELA DE JOGOS
+http://145.239.5.118:25461/live/michael/michael/33356.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 1 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41716.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2
+http://145.239.5.118:25461/live/michael/michael/10585.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10824.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41715.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2 HD
+http://145.239.5.118:25461/live/michael/michael/10584.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10823.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41870.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3
+http://145.239.5.118:25461/live/michael/michael/10583.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10822.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41714.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 HD
+http://145.239.5.118:25461/live/michael/michael/10582.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10821.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41868.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41799.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4
+http://145.239.5.118:25461/live/michael/michael/10581.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10820.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41713.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4 HD
+http://145.239.5.118:25461/live/michael/michael/10580.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10819.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41867.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 5
+http://145.239.5.118:25461/live/michael/michael/10579.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 5 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10817.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 5 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41712.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 5 HD
+http://145.239.5.118:25461/live/michael/michael/10578.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 5 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10816.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 6
+http://145.239.5.118:25461/live/michael/michael/10577.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 6 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10815.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 6 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41711.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 6 HD
+http://145.239.5.118:25461/live/michael/michael/10576.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 7
+http://145.239.5.118:25461/live/michael/michael/10575.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 7 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10814.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 7 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41710.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 7 HD
+http://145.239.5.118:25461/live/michael/michael/10574.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 8 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10813.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 8 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41709.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 9 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10812.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 9 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41708.ts
+#EXTINF:-1,group-title="Canais Premium 10",Premiere Clubes
+http://145.239.5.118:25461/live/michael/michael/10573.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBES ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10811.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBES G5
+http://145.239.5.118:25461/live/michael/michael/41196.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBES SD Op2
+http://145.239.5.118:25461/live/michael/michael/41707.ts
+#EXTINF:-1,group-title="Canais Premium 10",Premiere Clubes HD
+http://145.239.5.118:25461/live/michael/michael/10572.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBES HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10810.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBE HD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41873.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBES FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41820.ts
+#EXTINF:-1,group-title="Canais Premium 10",PRIME BOX BRASIL
+http://145.239.5.118:25461/live/michael/michael/10571.ts
+#EXTINF:-1,group-title="Canais Premium 10",PRIME BOX BRAZIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41706.ts
+#EXTINF:-1,group-title="Canais Premium 10",PRIMEBOX BRASIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41705.ts
+#EXTINF:-1,group-title="Canais Premium 10",PRIME BOX BRASIL HD
+http://145.239.5.118:25461/live/michael/michael/11910.ts
+#EXTINF:-1,group-title="Canais Premium 10",Real Madrid Tv Online
+http://145.239.5.118:25461/live/michael/michael/23782.ts
+#EXTINF:-1,group-title="Canais Premium 10",REAL MADRID TV
+http://145.239.5.118:25461/live/michael/michael/6013.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD
+http://145.239.5.118:25461/live/michael/michael/10570.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10808.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD TV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41702.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD HD
+http://145.239.5.118:25461/live/michael/michael/10565.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD HD Alternativo
+http://145.239.5.118:25461/live/michael/michael/10569.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NEWS
+http://145.239.5.118:25461/live/michael/michael/10568.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NEWS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41703.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NEWS HD
+http://145.239.5.118:25461/live/michael/michael/10567.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NEWS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10806.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NEWS HD Op2
+http://145.239.5.118:25461/live/michael/michael/41866.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NEWS FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41803.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD SP
+http://145.239.5.118:25461/live/michael/michael/10566.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NORDESTE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41819.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD NORDESTE HD Op2
+http://145.239.5.118:25461/live/michael/michael/41872.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE BRASIL
+http://145.239.5.118:25461/live/michael/michael/10564.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE BRASIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41701.ts
+#EXTINF:-1,group-title="Canais Premium 10",Rede Gênesis
+http://145.239.5.118:25461/live/michael/michael/6012.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE METRÓPOLE DE COMUNICAÇÃO
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1,group-title="Canais Premium 10",REDE SECULO 21
+http://145.239.5.118:25461/live/michael/michael/6004.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE TV
+http://145.239.5.118:25461/live/michael/michael/10563.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE TV ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10805.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE TV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41700.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE TV HD
+http://145.239.5.118:25461/live/michael/michael/10562.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE TV RJ
+http://145.239.5.118:25461/live/michael/michael/4908.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE VIDA
+http://145.239.5.118:25461/live/michael/michael/10561.ts
+#EXTINF:-1,group-title="Canais Premium 10",REDE VIDA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41699.ts
+#EXTINF:-1,group-title="Canais Premium 10",RIT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41698.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT
+http://145.239.5.118:25461/live/michael/michael/10560.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10804.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT G5
+http://145.239.5.118:25461/live/michael/michael/41173.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT HD
+http://145.239.5.118:25461/live/michael/michael/10559.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10803.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT SP INTERIOR
+http://145.239.5.118:25461/live/michael/michael/10558.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT NORDESTE HD Op2
+http://145.239.5.118:25461/live/michael/michael/41871.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT NORDESTE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41818.ts
+#EXTINF:-1,group-title="Canais Premium 10",SHOW DA FE
+http://145.239.5.118:25461/live/michael/michael/3886.ts
+#EXTINF:-1,group-title="Canais Premium 10",SOBRENATURAL TV
+http://145.239.5.118:25461/live/michael/michael/42252.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE
+http://145.239.5.118:25461/live/michael/michael/10555.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10802.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE SD Op2
+http://145.239.5.118:25461/live/michael/michael/41694.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE HD
+http://145.239.5.118:25461/live/michael/michael/10554.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10801.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE HD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41863.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPACE FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41816.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV
+http://145.239.5.118:25461/live/michael/michael/10553.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10800.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV G5
+http://145.239.5.118:25461/live/michael/michael/41156.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41691.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV HD
+http://145.239.5.118:25461/live/michael/michael/10548.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10799.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV HD Op2
+http://145.239.5.118:25461/live/michael/michael/41855.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41815.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2
+http://145.239.5.118:25461/live/michael/michael/10552.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10798.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41693.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 HD
+http://145.239.5.118:25461/live/michael/michael/10551.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10797.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41845.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41801.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 3
+http://145.239.5.118:25461/live/michael/michael/10550.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 3 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10796.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 3 SD Op2
+http://145.239.5.118:25461/live/michael/michael/41692.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 3 HD
+http://145.239.5.118:25461/live/michael/michael/10549.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 3 HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10795.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL
+http://145.239.5.118:25461/live/michael/michael/10547.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10794.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41690.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL HD
+http://145.239.5.118:25461/live/michael/michael/10546.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10793.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL HD Op2
+http://145.239.5.118:25461/live/michael/michael/41856.ts
+#EXTINF:-1,group-title="Canais Premium 10",STUDIO UNIVERSAL FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41814.ts
+#EXTINF:-1,group-title="Canais Premium 10",SundanceTV
+http://145.239.5.118:25461/live/michael/michael/10545.ts
+#EXTINF:-1,group-title="Canais Premium 10",SundanceTV HD
+http://145.239.5.118:25461/live/michael/michael/10544.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY
+http://145.239.5.118:25461/live/michael/michael/10557.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10792.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY HD
+http://145.239.5.118:25461/live/michael/michael/10556.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10791.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY SD Op2
+http://145.239.5.118:25461/live/michael/michael/41689.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY HD Op2
+http://145.239.5.118:25461/live/michael/michael/41857.ts
+#EXTINF:-1,group-title="Canais Premium 10",SYFY FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41813.ts
+#EXTINF:-1,group-title="Canais Premium 10",TBS
+http://145.239.5.118:25461/live/michael/michael/10543.ts
+#EXTINF:-1,group-title="Canais Premium 10",TBS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10790.ts
+#EXTINF:-1,group-title="Canais Premium 10",TBS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41688.ts
+#EXTINF:-1,group-title="Canais Premium 10",TBS HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10789.ts
+#EXTINF:-1,group-title="Canais Premium 10",TBS HD
+http://145.239.5.118:25461/live/michael/michael/10542.ts
+#EXTINF:-1,group-title="Canais Premium 10",TCM
+http://145.239.5.118:25461/live/michael/michael/10541.ts
+#EXTINF:-1,group-title="Canais Premium 10",TCM ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10788.ts
+#EXTINF:-1,group-title="Canais Premium 10",TCM SD Op2
+http://145.239.5.118:25461/live/michael/michael/41687.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION
+http://145.239.5.118:25461/live/michael/michael/10540.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10781.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION HD
+http://145.239.5.118:25461/live/michael/michael/10539.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10780.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION SD Op2
+http://145.239.5.118:25461/live/michael/michael/41686.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION HD Op2
+http://145.239.5.118:25461/live/michael/michael/41858.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41812.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT
+http://145.239.5.118:25461/live/michael/michael/10538.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10779.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT G5
+http://145.239.5.118:25461/live/michael/michael/41153.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41685.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT HD
+http://145.239.5.118:25461/live/michael/michael/10537.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10778.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT HD Op2
+http://145.239.5.118:25461/live/michael/michael/41846.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE CULT FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41800.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN
+http://145.239.5.118:25461/live/michael/michael/10536.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10777.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN G5
+http://145.239.5.118:25461/live/michael/michael/41152.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN HD
+http://145.239.5.118:25461/live/michael/michael/10535.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10776.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN SD Op2
+http://145.239.5.118:25461/live/michael/michael/41684.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN HD Op2
+http://145.239.5.118:25461/live/michael/michael/41854.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41811.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA
+http://145.239.5.118:25461/live/michael/michael/10534.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10775.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41683.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA HD
+http://145.239.5.118:25461/live/michael/michael/10533.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10774.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA HD Op2
+http://145.239.5.118:25461/live/michael/michael/41853.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41810.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM
+http://145.239.5.118:25461/live/michael/michael/10532.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10773.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM G5
+http://145.239.5.118:25461/live/michael/michael/41151.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM SD Op2
+http://145.239.5.118:25461/live/michael/michael/41682.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM HD
+http://145.239.5.118:25461/live/michael/michael/10531.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10772.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM H265 HD Op2
+http://145.239.5.118:25461/live/michael/michael/41852.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM FHD H265 Op2
+http://145.239.5.118:25461/live/michael/michael/41809.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH
+http://145.239.5.118:25461/live/michael/michael/10530.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10771.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH G5
+http://145.239.5.118:25461/live/michael/michael/41150.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH SD Op2
+http://145.239.5.118:25461/live/michael/michael/41681.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH HD
+http://145.239.5.118:25461/live/michael/michael/10529.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10770.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH HD Op2
+http://145.239.5.118:25461/live/michael/michael/41851.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41808.ts
+#EXTINF:-1,group-title="Canais Premium 10",Terra Viva
+http://145.239.5.118:25461/live/michael/michael/10528.ts
+#EXTINF:-1,group-title="Canais Premium 10",TLC
+http://145.239.5.118:25461/live/michael/michael/10527.ts
+#EXTINF:-1,group-title="Canais Premium 10",TLC ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10787.ts
+#EXTINF:-1,group-title="Canais Premium 10",TLC SD Op2
+http://145.239.5.118:25461/live/michael/michael/41679.ts
+#EXTINF:-1,group-title="Canais Premium 10",TLC HD
+http://145.239.5.118:25461/live/michael/michael/10526.ts
+#EXTINF:-1,group-title="Canais Premium 10",TLC HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10786.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT
+http://145.239.5.118:25461/live/michael/michael/10525.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10785.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT SD Op2
+http://145.239.5.118:25461/live/michael/michael/41678.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT HD
+http://145.239.5.118:25461/live/michael/michael/10524.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10784.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT SERIES
+http://145.239.5.118:25461/live/michael/michael/10523.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT SÉRIES ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10783.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT SERIES SD Op2
+http://145.239.5.118:25461/live/michael/michael/41677.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT SERIES HD
+http://145.239.5.118:25461/live/michael/michael/10522.ts
+#EXTINF:-1,group-title="Canais Premium 10",TNT SÉRIES HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10782.ts
+#EXTINF:-1,group-title="Canais Premium 10",TOONCAST
+http://145.239.5.118:25461/live/michael/michael/10521.ts
+#EXTINF:-1,group-title="Canais Premium 10",TOONCAST ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10769.ts
+#EXTINF:-1,group-title="Canais Premium 10",TruTV
+http://145.239.5.118:25461/live/michael/michael/24205.ts
+#EXTINF:-1,group-title="Canais Premium 10",TRUTV SD Op2
+http://145.239.5.118:25461/live/michael/michael/41676.ts
+#EXTINF:-1,group-title="Canais Premium 10",TruTV HD
+http://145.239.5.118:25461/live/michael/michael/24204.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV APARECIDA
+http://145.239.5.118:25461/live/michael/michael/10520.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV APARECIDA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10768.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV BRASIL
+http://145.239.5.118:25461/live/michael/michael/10519.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV BRASIL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41675.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV BRASIL HD Op2
+http://145.239.5.118:25461/live/michael/michael/41850.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV BRASIL FHD Op2
+http://145.239.5.118:25461/live/michael/michael/41807.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Câmara
+http://145.239.5.118:25461/live/michael/michael/10518.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV CANÇÃO NOVA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41674.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Cultura BA
+http://145.239.5.118:25461/live/michael/michael/24208.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Cultura GO
+http://145.239.5.118:25461/live/michael/michael/24210.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Cultura MG
+http://145.239.5.118:25461/live/michael/michael/24211.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Cultura PA
+http://145.239.5.118:25461/live/michael/michael/24209.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Cultura PB HD
+http://145.239.5.118:25461/live/michael/michael/24206.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV CULTURA PE
+http://145.239.5.118:25461/live/michael/michael/24212.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Cultura PR
+http://145.239.5.118:25461/live/michael/michael/24207.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV DIÁRIO FORTALEZA SD Op2
+http://145.239.5.118:25461/live/michael/michael/41673.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Escola
+http://145.239.5.118:25461/live/michael/michael/10517.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV EVANGELIZAR
+http://145.239.5.118:25461/live/michael/michael/23786.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV EVANGELIZAR SD Op2
+http://145.239.5.118:25461/live/michael/michael/41672.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV GAZETA SP HD
+http://145.239.5.118:25461/live/michael/michael/10516.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV GAZETA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10767.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV MUNDIAL
+http://145.239.5.118:25461/live/michael/michael/3885.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV NOVA NORDESTE HD Op2
+http://145.239.5.118:25461/live/michael/michael/41849.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV NOVO TEMPO HD Op2
+http://145.239.5.118:25461/live/michael/michael/41848.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV RA TIM BUM
+http://145.239.5.118:25461/live/michael/michael/10515.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV RA-TIM-BUM SD Op2
+http://145.239.5.118:25461/live/michael/michael/41671.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV RA TIM BUM HD
+http://145.239.5.118:25461/live/michael/michael/11909.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV RIO LARGO AL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41670.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV SENADO
+http://145.239.5.118:25461/live/michael/michael/10514.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV Terceiro Anjo
+http://145.239.5.118:25461/live/michael/michael/6010.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV TERCEIRO ANJO SD Op2
+http://145.239.5.118:25461/live/michael/michael/41669.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV TRIBUNA SANTOS ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10766.ts
+#EXTINF:-1,group-title="Canais Premium 10",TV VITÓRIA ES SD Op2
+http://145.239.5.118:25461/live/michael/michael/41668.ts
+#EXTINF:-1,group-title="Canais Premium 10",UNIVERSAL CHANNEL
+http://145.239.5.118:25461/live/michael/michael/10513.ts
+#EXTINF:-1,group-title="Canais Premium 10",UNIVERSAL CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10765.ts
+#EXTINF:-1,group-title="Canais Premium 10",UNIVERSAL CHANNEL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41667.ts
+#EXTINF:-1,group-title="Canais Premium 10",UNIVERSAL CHANNEL HD
+http://145.239.5.118:25461/live/michael/michael/10512.ts
+#EXTINF:-1,group-title="Canais Premium 10",UNIVERSAL CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10764.ts
+#EXTINF:-1,group-title="Canais Premium 10",Vem & Vê TV 3
+http://145.239.5.118:25461/live/michael/michael/6009.ts
+#EXTINF:-1,group-title="Canais Premium 10",Vem & Vê TV 2
+http://145.239.5.118:25461/live/michael/michael/6008.ts
+#EXTINF:-1,group-title="Canais Premium 10",Vem & Vê TV 1
+http://145.239.5.118:25461/live/michael/michael/6007.ts
+#EXTINF:-1,group-title="Canais Premium 10",VIVA
+http://145.239.5.118:25461/live/michael/michael/10509.ts
+#EXTINF:-1,group-title="Canais Premium 10",VIVA ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10762.ts
+#EXTINF:-1,group-title="Canais Premium 10",VIVA HD
+http://145.239.5.118:25461/live/michael/michael/10508.ts
+#EXTINF:-1,group-title="Canais Premium 10",VIVA HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10761.ts
+#EXTINF:-1,group-title="Canais Premium 10",VH1
+http://145.239.5.118:25461/live/michael/michael/11911.ts
+#EXTINF:-1,group-title="Canais Premium 10",VH1 MEGA HITS
+http://145.239.5.118:25461/live/michael/michael/10510.ts
+#EXTINF:-1,group-title="Canais Premium 10",VH1 ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10763.ts
+#EXTINF:-1,group-title="Canais Premium 10",VH1 MEGA HITS SD Op2
+http://145.239.5.118:25461/live/michael/michael/41666.ts
+#EXTINF:-1,group-title="Canais Premium 10",VH1 HD
+http://145.239.5.118:25461/live/michael/michael/10511.ts
+#EXTINF:-1,group-title="Canais Premium 10",WARNER CHANNEL
+http://145.239.5.118:25461/live/michael/michael/10507.ts
+#EXTINF:-1,group-title="Canais Premium 10",WARNER CHANNEL ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10760.ts
+#EXTINF:-1,group-title="Canais Premium 10",WARNER CHANNEL SD Op2
+http://145.239.5.118:25461/live/michael/michael/41665.ts
+#EXTINF:-1,group-title="Canais Premium 10",WARNER CHANNEL HD
+http://145.239.5.118:25461/live/michael/michael/10506.ts
+#EXTINF:-1,group-title="Canais Premium 10",WARNER CHANNEL HD ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10759.ts
+#EXTINF:-1,group-title="Canais Premium 10",WOOHOO
+http://145.239.5.118:25461/live/michael/michael/10505.ts
+#EXTINF:-1,group-title="Canais Premium 10",WOOHOO ALTERNATIVO
+http://145.239.5.118:25461/live/michael/michael/10758.ts
+#EXTINF:-1,group-title="Canais Premium 10",WOOHOO HD
+http://145.239.5.118:25461/live/michael/michael/10504.ts
+#EXTINF:-1,group-title="Canais Premium 10",ANIMAL  PLANET FULLHD
+http://145.239.5.118:25461/live/michael/michael/27352.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND FULLHD
+http://145.239.5.118:25461/live/michael/michael/27387.ts
+#EXTINF:-1,group-title="Canais Premium 10",BAND NEWS FULLHD
+http://145.239.5.118:25461/live/michael/michael/27351.ts
+#EXTINF:-1,group-title="Canais Premium 10",BIS FULLHD
+http://145.239.5.118:25461/live/michael/michael/27372.ts
+#EXTINF:-1,group-title="Canais Premium 10",BOOMERANG  FULLHD
+http://145.239.5.118:25461/live/michael/michael/27350.ts
+#EXTINF:-1,group-title="Canais Premium 10",COMBATE FULLHD
+http://145.239.5.118:25461/live/michael/michael/27397.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY CHANNEL FULLHD
+http://145.239.5.118:25461/live/michael/michael/27363.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY HOME & HEALTH FULLHD
+http://145.239.5.118:25461/live/michael/michael/27360.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY KIDS FULLHD
+http://145.239.5.118:25461/live/michael/michael/27359.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY TURBO FULLHD
+http://145.239.5.118:25461/live/michael/michael/27358.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISCOVERY WORLD FULLHD
+http://145.239.5.118:25461/live/michael/michael/27357.ts
+#EXTINF:-1,group-title="Canais Premium 10",DISNEY CHANNEL FULLHD
+http://145.239.5.118:25461/live/michael/michael/27371.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN BRASIL FULLHD
+http://145.239.5.118:25461/live/michael/michael/27381.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN EXTRA FULLHD
+http://145.239.5.118:25461/live/michael/michael/33353.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPN FULLHD
+http://145.239.5.118:25461/live/michael/michael/27370.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPORTE INTERATIVO 2 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27362.ts
+#EXTINF:-1,group-title="Canais Premium 10",ESPORTE INTERATIVO FULLHD
+http://145.239.5.118:25461/live/michael/michael/27361.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX FULLHD
+http://145.239.5.118:25461/live/michael/michael/27390.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX PREMIUM 2 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27356.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS 2 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27369.ts
+#EXTINF:-1,group-title="Canais Premium 10",FOX SPORTS FULLHD
+http://145.239.5.118:25461/live/michael/michael/27380.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO MINAS FULLHD
+http://145.239.5.118:25461/live/michael/michael/27382.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO NEWS FULLHD
+http://145.239.5.118:25461/live/michael/michael/27368.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO RJ FULLHD
+http://145.239.5.118:25461/live/michael/michael/27384.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOBO SP FULLHD
+http://145.239.5.118:25461/live/michael/michael/27383.ts
+#EXTINF:-1,group-title="Canais Premium 10",GLOOB FULLHD
+http://145.239.5.118:25461/live/michael/michael/27367.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO 2 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27388.ts
+#EXTINF:-1,group-title="Canais Premium 10",HBO FULLHD
+http://145.239.5.118:25461/live/michael/michael/27389.ts
+#EXTINF:-1,group-title="Canais Premium 10",HISTORY FULLHD
+http://145.239.5.118:25461/live/michael/michael/27355.ts
+#EXTINF:-1,group-title="Canais Premium 10",NAT GEO WILD FULLHD
+http://145.239.5.118:25461/live/michael/michael/27349.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICK JR FULLHD
+http://145.239.5.118:25461/live/michael/michael/27354.ts
+#EXTINF:-1,group-title="Canais Premium 10",NICKELODEON FULLHD
+http://145.239.5.118:25461/live/michael/michael/27348.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 2 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27378.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 3 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27377.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 4 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27376.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 5 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27375.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 6 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27374.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE 7 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27373.ts
+#EXTINF:-1,group-title="Canais Premium 10",PREMIERE CLUBES FULLHD
+http://145.239.5.118:25461/live/michael/michael/27379.ts
+#EXTINF:-1,group-title="Canais Premium 10",RECORD FULLHD
+http://145.239.5.118:25461/live/michael/michael/27386.ts
+#EXTINF:-1,group-title="Canais Premium 10",SBT FULLHD
+http://145.239.5.118:25461/live/michael/michael/27385.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 2 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27366.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV 3 FULLHD
+http://145.239.5.118:25461/live/michael/michael/27365.ts
+#EXTINF:-1,group-title="Canais Premium 10",SPORTV FULLHD
+http://145.239.5.118:25461/live/michael/michael/27396.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE ACTION FULLHD
+http://145.239.5.118:25461/live/michael/michael/27395.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE FUN FULLHD
+http://145.239.5.118:25461/live/michael/michael/27394.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PIPOCA FULLHD
+http://145.239.5.118:25461/live/michael/michael/27393.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE PREMIUM FULLHD
+http://145.239.5.118:25461/live/michael/michael/27392.ts
+#EXTINF:-1,group-title="Canais Premium 10",TELECINE TOUCH FULLHD
+http://145.239.5.118:25461/live/michael/michael/27391.ts
+#EXTINF:-1,group-title="Canais Premium 10",VIVA FULLHD
+http://145.239.5.118:25461/live/michael/michael/27364.ts
+#EXTINF:-1,group-title="Canais Premium 10",WARNER FULLHD
+http://145.239.5.118:25461/live/michael/michael/27353.ts
+#EXTINF:-1,group-title="Canais Premium 10",Jovem Pan News
+http://145.239.5.118:25461/live/michael/michael/39304.ts
