@@ -3571,6 +3571,271 @@ http://dns.infinitytv.xyz:8000/live/sanderson1/hmjPQkQXPX/19991.m3u8
 http://dns.infinitytv.xyz:8000/live/sanderson1/hmjPQkQXPX/13525.m3u8
 #EXTINF:-1 group-title="Canais Premium 3" tvg-logo="http://prinplay.000webhostapp.com/server/A&E%20HD.png",A&E Dual
 http://dns.infinitytv.xyz:8000/live/sanderson1/hmjPQkQXPX/8679.m3u8
-------------- Canais Premium 5 -----------------
+------------- Canais Premium 4 -----------------
+
+#EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="Canais Premium 4",GLOBO RJ
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4101.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?"group-title="Canais Premium 4",GLOBO RJ
+http://paraisotv.ddns.net/021/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="Canais Premium 4",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="Canais Premium 4",BAND
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7631.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Record.igor"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="Canais Premium 4",RECORD
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/5621.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Rede TV.igor"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="Canais Premium 4",REDE TV
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+
+#EXTINF:-1 tvg-id="Rede TV.igor"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?"group-title="Canais Premium 4",REDE TV
+http://paraisotv.ddns.net/063/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Canais Premium 4",SPORTV
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3914.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Canais Premium 4",ESPN BRASIL
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4131.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Canais Premium 4",FOX SPORTS
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4116.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Canais Premium 4",ESPN
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4132.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Canais Premium 4",SPORTV 2
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3913.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Canais Premium 4",SPORTV 3
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3911.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4020.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Canais Premium 4",COMBATE
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7632.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Canais Premium 4",FOX SPORTS 2
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4115.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Canais Premium 4",BAND SPORTS
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4179.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Canais Premium 4",ESPORTE INTERATIVO
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4127.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo 2.igor" tvg-logo="https://goo.gl/vAiaCs?Esporte_Interativo_2.png?" group-title="Canais Premium 4",ESPORTE INTERATIVO 2
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4136.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Canais Premium 4",ESPORTE INTERATIVO BR
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4134.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN+.igor"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="Canais Premium 4",ESPN+
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/5620.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 1
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4616.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 2
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4032.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 3
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4031.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 4
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4029.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 5
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4027.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 6
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4025.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 7
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4614.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 8
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4022.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 9.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Canais Premium 4",PREMIERE 9
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4021.ts?|User-Agent=iPhone
+
+
+#EXTINF:-1 tvg-id="TcPipoca.igor"  tvg-logo="http://goo.gl/5IKysn?" group-title="Canais Premium 4",TELECINE PIPOCA
+http://paraisotv.ddns.net/065/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcPremium.igor"  tvg-logo="http://goo.gl/XaOWO6?" group-title="Canais Premium 4",TELECINE PREMIUM
+http://paraisotv.ddns.net/069/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/P79aKf?" group-title="Canais Premium 4",TELECINE ACTION
+http://paraisotv.ddns.net/068/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcFun.igor"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="Canais Premium 4",TELECINE FUN
+http://paraisotv.ddns.net/060/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcTouch.igor"  tvg-logo="http://goo.gl/AfJkib?" group-title="Canais Premium 4",TELECINE TOUCH
+http://paraisotv.ddns.net/102/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcCult.igor"  tvg-logo="http://goo.gl/fLmSUL?" group-title="Canais Premium 4",TELECINE CULT
+http://paraisotv.ddns.net/055/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Canais Premium 4",HBO
+http://paraisotv.ddns.net/053/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2.igor"  tvg-logo="http://goo.gl/yrDz67?" group-title="Canais Premium 4",HBO 2
+http://paraisotv.ddns.net/047/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family.igor"  tvg-logo="http://goo.gl/2BXhGr?" group-title="Canais Premium 4",HBO FAMILY
+http://paraisotv.ddns.net/088/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus.igor"  tvg-logo="http://goo.gl/ISXYSM?" group-title="Canais Premium 4",HBO PLUS
+http://paraisotv.ddns.net/037/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE.igor"  tvg-logo="http://goo.gl/pTRcv8?" group-title="Canais Premium 4",HBO SIGNATURE
+http://paraisotv.ddns.net/071/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM?" group-title="Canais Premium 4",SPACE
+http://paraisotv.ddns.net/029/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Megapix.igor" tvg-logo="http://goo.gl/qXR9CS?" group-title="Canais Premium 4",MEGAPIX
+http://paraisotv.ddns.net/033/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT.igor" tvg-logo="https://goo.gl/iwCiPM?" group-title="Canais Premium 4",PARAMOUNT CHANNEL
+http://paraisotv.ddns.net/004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/vUl6oy?" group-title="Canais Premium 4",TNT
+http://paraisotv.ddns.net/009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM.igor"  tvg-logo="https://goo.gl/MBRjjf?" group-title="Canais Premium 4",TCM
+http://paraisotv.ddns.net/039/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX.igor" tvg-logo="https://goo.gl/oDAihL?" group-title="Canais Premium 4",CINEMAX
+http://paraisotv.ddns.net/035/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX.igor" tvg-logo="https://goo.gl/db6g8k?" group-title="Canais Premium 4",MAX
+http://paraisotv.ddns.net/051/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP.igor" tvg-logo="http://goo.gl/Hbr506?" group-title="Canais Premium 4",MAX UP
+http://paraisotv.ddns.net/045/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX PRIME.igor" tvg-logo="http://goo.gl/JG4dUv?" group-title="Canais Premium 4",MAX PRIME
+http://paraisotv.ddns.net/092/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUniversal.igor" tvg-logo="http://goo.gl/T8ICde?" group-title="Canais Premium 4",STUDIO
+http://paraisotv.ddns.net/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII?" group-title="Canais Premium 4",MULTISHOW
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4055.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="MTV.igor"  tvg-logo="http://goo.gl/XQfSPS?" group-title="Canais Premium 4",MTV
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4057.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="MIX TV.igor"  tvg-logo="http://goo.gl/9XI6AQ?" group-title="Canais Premium 4",MIX TV
+
+
+#EXTINF:-1 tvg-id="GNT.igor"  tvg-logo="http://goo.gl/YyHiwq?" group-title="Canais Premium 4",GNT
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4093.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Viva.igor"  tvg-logo="http://goo.gl/TWuTpO?" group-title="Canais Premium 4",VIVA
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3868.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="BIS.igor"  tvg-logo="https://goo.gl/09Wgmh?" group-title="Canais Premium 4",BIS
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4175.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FishTV.igor"  tvg-logo="http://goo.gl/Lcrqe6?" group-title="Canais Premium 4",FISH TV
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4125.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="OFF.igor"  tvg-logo="https://goo.gl/B5pwdb?" group-title="Canais Premium 4",OFF
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4038.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Home.igor"  tvg-logo="http://goo.gl/ewCTK1?" group-title="Canais Premium 4",HOME & HEALTH
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4152.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOOD NETWORK.igor"  tvg-logo="https://goo.gl/sJijSQ?" group-title="Canais Premium 4",FOOD NETWORK
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4124.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="+GLOBOSAT.igor"  tvg-logo="https://goo.gl/cfDftL?" group-title="Canais Premium 4",+GLOBOSAT
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4068.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E! Entertainment.igor"  tvg-logo="https://goo.gl/n5bzdX?" group-title="Canais Premium 4",E! Entertainment
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4138.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HIT TV.igor"  tvg-logo="https://goo.gl/Eroxub?" group-title="Canais Premium 4",HIT TV
+
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL.igor"  tvg-logo="https://goo.gl/zu7UD8?" group-title="Canais Premium 4",PRIME BOX BRASIL
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4606.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ARTE 1.igor"  tvg-logo="https://goo.gl/BuuxB8?" group-title="Canais Premium 4",ARTE 1
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4582.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="NAT GEO KIDS.igor" tvg-logo="https://goo.gl/B59eLy?" group-title="Canais Premium 4",NAT GEO KIDS
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4052.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu?" group-title="Canais Premium 4",CARTOON NETWORK
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4166.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nick.igor" tvg-logo="http://goo.gl/welGCW?" group-title="Canais Premium 4",NICK
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4041.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Disney XD.igor" tvg-logo="http://goo.gl/aWbwb4?" group-title="Canais Premium 4",DISNEY XD
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4140.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aHrprS?" group-title="Canais Premium 4",DISNEY CHANNEL
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4144.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0?" group-title="Canais Premium 4",DISNEY JR
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4142.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw?" group-title="Canais Premium 4",DISCOVERY KIDS
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4150.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Gloob.igor" tvg-logo="http://goo.gl/aghxnu?" group-title="Canais Premium 4",GLOOB
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4095.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/gZkEi0?" group-title="Canais Premium 4",NICK JR
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4043.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="https://goo.gl/kRtYPd?" group-title="Canais Premium 4",BOOMERANG
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4172.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Tooncast.igor" tvg-logo="http://goo.gl/9ytu52?" group-title="Canais Premium 4",TOONCAST
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3883.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Canais Premium 4",ANIMAL PLANET
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4191.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery.igor" tvg-logo="http://goo.gl/5ObfPV?"  group-title="Canais Premium 4",DISCOVERY CHANNEL
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4154.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nat Geo Wild.igor" tvg-logo="http://goo.gl/t0czad?"  group-title="Canais Premium 4",NAT GEO WILD
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4050.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Civilization.igor" tvg-logo="http://goo.gl/vZm1PM?"  group-title="Canais Premium 4",DISCOVERY CIVILIZATION
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4600.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab?" group-title="Canais Premium 4",THE HISTORY CHANNEL
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4154.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="National Geo.igor" tvg-logo="http://goo.gl/INXrU0?" group-title="Canais Premium 4",NAT GEO
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4048.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Turbo.igor" tvg-logo="http://goo.gl/B8yVJo?"  group-title="Canais Premium 4",DISCOVERY TURBO
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4147.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="H2.igor" tvg-logo="https://goo.gl/dzX1M2?"  group-title="Canais Premium 4",H2
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4091.ts?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="TLC.igor?" group-title="Canais Premium 4" tvg-logo="https://goo.gl/46JvTg?",TLC
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3889.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8?"  group-title="Canais Premium 4",DISCOVERY ID
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4074.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Theater.igor" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="Canais Premium 4",Discovery HD THEATER
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4148.ts?|User-Agent=iPhone
+
 ------------- Canais Premium 6 -----------------
 ------------- Canais Premium 7 -----------------
