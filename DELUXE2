@@ -656,6 +656,718 @@ http://deltatvfull.net:25461/live/Reyges/222/12035.ts
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD" tvg-logo="https://imgur.com/jGFqIZM.jpg" group-title="Canais Premium 0",WOOHOO HD
 http://deltatvfull.net:25461/live/Reyges/222/12034.ts
 
+
+------------- Canais Premium 1 -----------------
+#EXTM3U
+#EXTINF:-1, group-title="Canais Premium 1",Arte 1
+http://142.44.139.236:25461/live/liberato/liberato/7904.ts
+#EXTINF:-1, group-title="Canais Premium 1",Arte 1 HD
+http://142.44.139.236:25461/live/liberato/liberato/10235.ts
+#EXTINF:-1, group-title="Canais Premium 1",AMC
+http://142.44.139.236:25461/live/liberato/liberato/7448.ts
+#EXTINF:-1, group-title="Canais Premium 1",AMC HD
+http://142.44.139.236:25461/live/liberato/liberato/7691.ts
+#EXTINF:-1, group-title="Canais Premium 1",AMC FHD
+http://142.44.139.236:25461/live/liberato/liberato/9343.ts
+#EXTINF:-1, group-title="Canais Premium 1",AlJazeera HD
+http://142.44.139.236:25461/live/liberato/liberato/7550.ts
+#EXTINF:-1, group-title="Canais Premium 1",A&E
+http://142.44.139.236:25461/live/liberato/liberato/4404.ts
+#EXTINF:-1, group-title="Canais Premium 1",A&E HD
+http://142.44.139.236:25461/live/liberato/liberato/8139.ts
+#EXTINF:-1, group-title="Canais Premium 1",A&E FHD
+http://142.44.139.236:25461/live/liberato/liberato/9344.ts
+#EXTINF:-1, group-title="Canais Premium 1",Agro Canal
+http://142.44.139.236:25461/live/liberato/liberato/5983.ts
+#EXTINF:-1, group-title="Canais Premium 1",Animal Planet
+http://142.44.139.236:25461/live/liberato/liberato/4403.ts
+#EXTINF:-1, group-title="Canais Premium 1",Animal Planet HD
+http://142.44.139.236:25461/live/liberato/liberato/6142.ts
+#EXTINF:-1, group-title="Canais Premium 1",All Sport
+http://142.44.139.236:25461/live/liberato/liberato/6812.ts
+#EXTINF:-1, group-title="Canais Premium 1",Aparecida
+http://142.44.139.236:25461/live/liberato/liberato/4438.ts
+#EXTINF:-1, group-title="Canais Premium 1",AXN
+http://142.44.139.236:25461/live/liberato/liberato/4402.ts
+#EXTINF:-1, group-title="Canais Premium 1",AXN HD
+http://142.44.139.236:25461/live/liberato/liberato/6140.ts
+#EXTINF:-1, group-title="Canais Premium 1",Arirang TV
+http://142.44.139.236:25461/live/liberato/liberato/4407.ts
+#EXTINF:-1, group-title="Canais Premium 1",Baby TV
+http://142.44.139.236:25461/live/liberato/liberato/4401.ts
+#EXTINF:-1, group-title="Canais Premium 1",Band
+http://142.44.139.236:25461/live/liberato/liberato/4400.ts
+#EXTINF:-1, group-title="Canais Premium 1",Band HD
+http://142.44.139.236:25461/live/liberato/liberato/6882.ts
+#EXTINF:-1, group-title="Canais Premium 1",Band Sports
+http://142.44.139.236:25461/live/liberato/liberato/4398.ts
+#EXTINF:-1, group-title="Canais Premium 1",Band Sports HD
+http://142.44.139.236:25461/live/liberato/liberato/6138.ts
+#EXTINF:-1, group-title="Canais Premium 1",Band News
+http://142.44.139.236:25461/live/liberato/liberato/4399.ts
+#EXTINF:-1, group-title="Canais Premium 1",Band News HD
+http://142.44.139.236:25461/live/liberato/liberato/10296.ts
+#EXTINF:-1, group-title="Canais Premium 1",Boa Vontade
+http://142.44.139.236:25461/live/liberato/liberato/10295.ts
+#EXTINF:-1, group-title="Canais Premium 1",BIS
+http://142.44.139.236:25461/live/liberato/liberato/6964.ts
+#EXTINF:-1, group-title="Canais Premium 1",BIS HD
+http://142.44.139.236:25461/live/liberato/liberato/6881.ts
+#EXTINF:-1, group-title="Canais Premium 1",Boomerang
+http://142.44.139.236:25461/live/liberato/liberato/4396.ts
+#EXTINF:-1, group-title="Canais Premium 1",Boomerang HD
+http://142.44.139.236:25461/live/liberato/liberato/10294.ts
+#EXTINF:-1, group-title="Canais Premium 1",BBC NEWS
+http://142.44.139.236:25461/live/liberato/liberato/6167.ts
+#EXTINF:-1, group-title="Canais Premium 1",Bloomberg TV
+http://142.44.139.236:25461/live/liberato/liberato/7424.ts
+#EXTINF:-1, group-title="Canais Premium 1",Canal Brasil
+http://142.44.139.236:25461/live/liberato/liberato/6963.ts
+#EXTINF:-1, group-title="Canais Premium 1",Canal Brasil HD
+http://142.44.139.236:25461/live/liberato/liberato/10293.ts
+#EXTINF:-1, group-title="Canais Premium 1",Canal Rural
+http://142.44.139.236:25461/live/liberato/liberato/7449.ts
+#EXTINF:-1, group-title="Canais Premium 1",Canal Sony
+http://142.44.139.236:25461/live/liberato/liberato/4395.ts
+#EXTINF:-1, group-title="Canais Premium 1",Canal Sony HD
+http://142.44.139.236:25461/live/liberato/liberato/6961.ts
+#EXTINF:-1, group-title="Canais Premium 1",Cancao Nova
+http://142.44.139.236:25461/live/liberato/liberato/6173.ts
+#EXTINF:-1, group-title="Canais Premium 1",Cartoon Network
+http://142.44.139.236:25461/live/liberato/liberato/4394.ts
+#EXTINF:-1, group-title="Canais Premium 1",Cartoon Network HD
+http://142.44.139.236:25461/live/liberato/liberato/7817.ts
+#EXTINF:-1, group-title="Canais Premium 1",Cinemax
+http://142.44.139.236:25461/live/liberato/liberato/4393.ts
+#EXTINF:-1, group-title="Canais Premium 1",Cinemax HD
+http://142.44.139.236:25461/live/liberato/liberato/7802.ts
+#EXTINF:-1, group-title="Canais Premium 1",Combate
+http://142.44.139.236:25461/live/liberato/liberato/4392.ts
+#EXTINF:-1, group-title="Canais Premium 1",Combate HD
+http://142.44.139.236:25461/live/liberato/liberato/6172.ts
+#EXTINF:-1, group-title="Canais Premium 1",Combate FHD
+http://142.44.139.236:25461/live/liberato/liberato/8152.ts
+#EXTINF:-1, group-title="Canais Premium 1",Comedy Central
+http://142.44.139.236:25461/live/liberato/liberato/4391.ts
+#EXTINF:-1, group-title="Canais Premium 1",Comedy Central HD
+http://142.44.139.236:25461/live/liberato/liberato/10292.ts
+#EXTINF:-1, group-title="Canais Premium 1",Chaves 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10411.ts
+#EXTINF:-1, group-title="Canais Premium 1",Curta!
+http://142.44.139.236:25461/live/liberato/liberato/10291.ts
+#EXTINF:-1, group-title="Canais Premium 1",Curta! HD
+http://142.44.139.236:25461/live/liberato/liberato/10290.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rai Movie HD
+http://142.44.139.236:25461/live/liberato/liberato/7665.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Channel
+http://142.44.139.236:25461/live/liberato/liberato/4390.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Channel HD
+http://142.44.139.236:25461/live/liberato/liberato/6132.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Home & Health
+http://142.44.139.236:25461/live/liberato/liberato/4389.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Home & Health HD
+http://142.44.139.236:25461/live/liberato/liberato/6131.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Civilization
+http://142.44.139.236:25461/live/liberato/liberato/10236.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Civilization HD
+http://142.44.139.236:25461/live/liberato/liberato/7862.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Science
+http://142.44.139.236:25461/live/liberato/liberato/10237.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Science HD
+http://142.44.139.236:25461/live/liberato/liberato/7861.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Kids
+http://142.44.139.236:25461/live/liberato/liberato/4388.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Kids HD
+http://142.44.139.236:25461/live/liberato/liberato/7538.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery World
+http://142.44.139.236:25461/live/liberato/liberato/10288.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery World HD
+http://142.44.139.236:25461/live/liberato/liberato/6128.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Theater
+http://142.44.139.236:25461/live/liberato/liberato/10289.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Theater HD
+http://142.44.139.236:25461/live/liberato/liberato/6130.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Turbo
+http://142.44.139.236:25461/live/liberato/liberato/4386.ts
+#EXTINF:-1, group-title="Canais Premium 1",Discovery Turbo HD
+http://142.44.139.236:25461/live/liberato/liberato/6877.ts
+#EXTINF:-1, group-title="Canais Premium 1",Disney Channel
+http://142.44.139.236:25461/live/liberato/liberato/4385.ts
+#EXTINF:-1, group-title="Canais Premium 1",Disney Channel HD
+http://142.44.139.236:25461/live/liberato/liberato/7902.ts
+#EXTINF:-1, group-title="Canais Premium 1",Disney Junior
+http://142.44.139.236:25461/live/liberato/liberato/4384.ts
+#EXTINF:-1, group-title="Canais Premium 1",Disney XD
+http://142.44.139.236:25461/live/liberato/liberato/4383.ts
+#EXTINF:-1, group-title="Canais Premium 1",DW
+http://142.44.139.236:25461/live/liberato/liberato/4425.ts
+#EXTINF:-1, group-title="Canais Premium 1",DoGTV
+http://142.44.139.236:25461/live/liberato/liberato/10287.ts
+#EXTINF:-1, group-title="Canais Premium 1",DoGTV HD
+http://142.44.139.236:25461/live/liberato/liberato/10286.ts
+#EXTINF:-1, group-title="Canais Premium 1",Digimon 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10414.ts
+#EXTINF:-1, group-title="Canais Premium 1",Dragon Ball Super 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10408.ts
+#EXTINF:-1, group-title="Canais Premium 1",Dragon Ball Z 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10410.ts
+#EXTINF:-1, group-title="Canais Premium 1",E! Entertainment Television
+http://142.44.139.236:25461/live/liberato/liberato/4382.ts
+#EXTINF:-1, group-title="Canais Premium 1",E! Entertainment Television HD
+http://142.44.139.236:25461/live/liberato/liberato/10285.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN
+http://142.44.139.236:25461/live/liberato/liberato/4381.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN  HD
+http://142.44.139.236:25461/live/liberato/liberato/6127.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN +
+http://142.44.139.236:25461/live/liberato/liberato/7988.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN + HD
+http://142.44.139.236:25461/live/liberato/liberato/6143.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN  Brasil HD
+http://142.44.139.236:25461/live/liberato/liberato/6124.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN Brasil
+http://142.44.139.236:25461/live/liberato/liberato/4380.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN Extra
+http://142.44.139.236:25461/live/liberato/liberato/10284.ts
+#EXTINF:-1, group-title="Canais Premium 1",ESPN Extra HD
+http://142.44.139.236:25461/live/liberato/liberato/10283.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo
+http://142.44.139.236:25461/live/liberato/liberato/6960.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo HD
+http://142.44.139.236:25461/live/liberato/liberato/6123.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo FHD
+http://142.44.139.236:25461/live/liberato/liberato/9145.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo 2
+http://142.44.139.236:25461/live/liberato/liberato/4378.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo 2 HD
+http://142.44.139.236:25461/live/liberato/liberato/6125.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo 2 FHD
+http://142.44.139.236:25461/live/liberato/liberato/9146.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo BR
+http://142.44.139.236:25461/live/liberato/liberato/10282.ts
+#EXTINF:-1, group-title="Canais Premium 1",Esporte Interativo BR HD
+http://142.44.139.236:25461/live/liberato/liberato/10281.ts
+#EXTINF:-1, group-title="Canais Premium 1",EPTV Campinas
+http://142.44.139.236:25461/live/liberato/liberato/7932.ts
+#EXTINF:-1, group-title="Canais Premium 1",EPTV Campinas HD
+http://142.44.139.236:25461/live/liberato/liberato/10234.ts
+#EXTINF:-1, group-title="Canais Premium 1",Eu a Patroa e as Criancas 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10586.ts
+#EXTINF:-1, group-title="Canais Premium 1",Food Network
+http://142.44.139.236:25461/live/liberato/liberato/6959.ts
+#EXTINF:-1, group-title="Canais Premium 1",Food Network HD
+http://142.44.139.236:25461/live/liberato/liberato/7534.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX
+http://142.44.139.236:25461/live/liberato/liberato/4375.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX HD
+http://142.44.139.236:25461/live/liberato/liberato/6122.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX FHD
+http://142.44.139.236:25461/live/liberato/liberato/9141.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX HD*
+http://142.44.139.236:25461/live/liberato/liberato/8193.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fox Life
+http://142.44.139.236:25461/live/liberato/liberato/4374.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Life HD
+http://142.44.139.236:25461/live/liberato/liberato/6876.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Premium 1
+http://142.44.139.236:25461/live/liberato/liberato/6120.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Premium 1 HD
+http://142.44.139.236:25461/live/liberato/liberato/10279.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Premium 2
+http://142.44.139.236:25461/live/liberato/liberato/6119.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Premium 2 HD
+http://142.44.139.236:25461/live/liberato/liberato/10278.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fox Sports
+http://142.44.139.236:25461/live/liberato/liberato/4373.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fox Sports HD
+http://142.44.139.236:25461/live/liberato/liberato/6118.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fox Sport FHD
+http://142.44.139.236:25461/live/liberato/liberato/8150.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fox Sports 2
+http://142.44.139.236:25461/live/liberato/liberato/4372.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Sports 2 HD
+http://142.44.139.236:25461/live/liberato/liberato/6117.ts
+#EXTINF:-1, group-title="Canais Premium 1",FOX Sports 2 FHD
+http://142.44.139.236:25461/live/liberato/liberato/8151.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fox News
+http://142.44.139.236:25461/live/liberato/liberato/6835.ts
+#EXTINF:-1, group-title="Canais Premium 1",FX
+http://142.44.139.236:25461/live/liberato/liberato/4371.ts
+#EXTINF:-1, group-title="Canais Premium 1",FX HD
+http://142.44.139.236:25461/live/liberato/liberato/6116.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fish TV
+http://142.44.139.236:25461/live/liberato/liberato/4377.ts
+#EXTINF:-1, group-title="Canais Premium 1",Fish TV HD
+http://142.44.139.236:25461/live/liberato/liberato/10280.ts
+#EXTINF:-1, group-title="Canais Premium 1",Futura
+http://142.44.139.236:25461/live/liberato/liberato/10277.ts
+#EXTINF:-1, group-title="Canais Premium 1",Futura HD
+http://142.44.139.236:25461/live/liberato/liberato/6182.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Brasilia
+http://142.44.139.236:25461/live/liberato/liberato/7530.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Brasilia HD
+http://142.44.139.236:25461/live/liberato/liberato/10239.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Nordeste
+http://142.44.139.236:25461/live/liberato/liberato/7527.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Nordeste HD
+http://142.44.139.236:25461/live/liberato/liberato/10240.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo EPTV Ribeirao Preto
+http://142.44.139.236:25461/live/liberato/liberato/9471.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo EPTV Ribeirao Preto HD
+http://142.44.139.236:25461/live/liberato/liberato/10231.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Porto Alegre
+http://142.44.139.236:25461/live/liberato/liberato/9469.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Porto Alegre HD
+http://142.44.139.236:25461/live/liberato/liberato/10232.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Rio Preto
+http://142.44.139.236:25461/live/liberato/liberato/9468.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Rio Preto HD
+http://142.44.139.236:25461/live/liberato/liberato/10233.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo TV Tem Bauru
+http://142.44.139.236:25461/live/liberato/liberato/9465.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo RJ
+http://142.44.139.236:25461/live/liberato/liberato/7547.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo RJ HD
+http://142.44.139.236:25461/live/liberato/liberato/6113.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo RJ FHD
+http://142.44.139.236:25461/live/liberato/liberato/9318.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo RJ HD*
+http://142.44.139.236:25461/live/liberato/liberato/8189.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo SP
+http://142.44.139.236:25461/live/liberato/liberato/4431.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo SP HD
+http://142.44.139.236:25461/live/liberato/liberato/7529.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo SP HD*
+http://142.44.139.236:25461/live/liberato/liberato/8190.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Sorocaba
+http://142.44.139.236:25461/live/liberato/liberato/7684.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo RPC Curitiba
+http://142.44.139.236:25461/live/liberato/liberato/7866.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo RPC Curitiba HD
+http://142.44.139.236:25461/live/liberato/liberato/10273.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo TV Anhanguera
+http://142.44.139.236:25461/live/liberato/liberato/10272.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Tv Anhaguera HD
+http://142.44.139.236:25461/live/liberato/liberato/7521.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo TV Bahia
+http://142.44.139.236:25461/live/liberato/liberato/7539.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo TV Bahia HD
+http://142.44.139.236:25461/live/liberato/liberato/10238.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Minas
+http://142.44.139.236:25461/live/liberato/liberato/10276.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo Minas HD
+http://142.44.139.236:25461/live/liberato/liberato/7528.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo News
+http://142.44.139.236:25461/live/liberato/liberato/4432.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo News HD
+http://142.44.139.236:25461/live/liberato/liberato/7442.ts
+#EXTINF:-1, group-title="Canais Premium 1",Globo News FHD
+http://142.44.139.236:25461/live/liberato/liberato/9152.ts
+#EXTINF:-1, group-title="Canais Premium 1",Gloob
+http://142.44.139.236:25461/live/liberato/liberato/4369.ts
+#EXTINF:-1, group-title="Canais Premium 1",Gloob HD
+http://142.44.139.236:25461/live/liberato/liberato/7526.ts
+#EXTINF:-1, group-title="Canais Premium 1",Gloobinho
+http://142.44.139.236:25461/live/liberato/liberato/10270.ts
+#EXTINF:-1, group-title="Canais Premium 1",Gloobinho HD
+http://142.44.139.236:25461/live/liberato/liberato/10271.ts
+#EXTINF:-1, group-title="Canais Premium 1",Gazeta SP HD
+http://142.44.139.236:25461/live/liberato/liberato/8975.ts
+#EXTINF:-1, group-title="Canais Premium 1",Galinha.Pintadinha 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10409.ts
+#EXTINF:-1, group-title="Canais Premium 1",GNT
+http://142.44.139.236:25461/live/liberato/liberato/4368.ts
+#EXTINF:-1, group-title="Canais Premium 1",GNT HD
+http://142.44.139.236:25461/live/liberato/liberato/6956.ts
+#EXTINF:-1, group-title="Canais Premium 1",Gospel Movies Television
+http://142.44.139.236:25461/live/liberato/liberato/7656.ts
+#EXTINF:-1, group-title="Canais Premium 1",H2
+http://142.44.139.236:25461/live/liberato/liberato/4367.ts
+#EXTINF:-1, group-title="Canais Premium 1",H2 HD
+http://142.44.139.236:25461/live/liberato/liberato/6111.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO
+http://142.44.139.236:25461/live/liberato/liberato/4366.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO HD
+http://142.44.139.236:25461/live/liberato/liberato/6108.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO 2
+http://142.44.139.236:25461/live/liberato/liberato/4365.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO 2 HD
+http://142.44.139.236:25461/live/liberato/liberato/6110.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO Family
+http://142.44.139.236:25461/live/liberato/liberato/4364.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO Family HD
+http://142.44.139.236:25461/live/liberato/liberato/6109.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO Plus
+http://142.44.139.236:25461/live/liberato/liberato/4363.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO Plus HD
+http://142.44.139.236:25461/live/liberato/liberato/6106.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO Signature
+http://142.44.139.236:25461/live/liberato/liberato/4361.ts
+#EXTINF:-1, group-title="Canais Premium 1",HBO Signature HD
+http://142.44.139.236:25461/live/liberato/liberato/6105.ts
+#EXTINF:-1, group-title="Canais Premium 1",Heart TV
+http://142.44.139.236:25461/live/liberato/liberato/6179.ts
+#EXTINF:-1, group-title="Canais Premium 1",History Channel
+http://142.44.139.236:25461/live/liberato/liberato/4314.ts
+#EXTINF:-1, group-title="Canais Premium 1",History Channel HD
+http://142.44.139.236:25461/live/liberato/liberato/6104.ts
+#EXTINF:-1, group-title="Canais Premium 1",History Channel FHD
+http://142.44.139.236:25461/live/liberato/liberato/9142.ts
+#EXTINF:-1, group-title="Canais Premium 1",Horse Brasil Channel HD
+http://142.44.139.236:25461/live/liberato/liberato/5976.ts
+#EXTINF:-1, group-title="Canais Premium 1",I-SAT
+http://142.44.139.236:25461/live/liberato/liberato/6955.ts
+#EXTINF:-1, group-title="Canais Premium 1",ID - Investigacao Discovery
+http://142.44.139.236:25461/live/liberato/liberato/4360.ts
+#EXTINF:-1, group-title="Canais Premium 1",ID - Investigacao Discovery HD
+http://142.44.139.236:25461/live/liberato/liberato/6869.ts
+#EXTINF:-1, group-title="Canais Premium 1",ID - Investigacao Discovery FHD
+http://142.44.139.236:25461/live/liberato/liberato/9143.ts
+#EXTINF:-1, group-title="Canais Premium 1",IURD TV
+http://142.44.139.236:25461/live/liberato/liberato/6210.ts
+#EXTINF:-1, group-title="Canais Premium 1",Lifetime
+http://142.44.139.236:25461/live/liberato/liberato/7876.ts
+#EXTINF:-1, group-title="Canais Premium 1",Lifetime HD
+http://142.44.139.236:25461/live/liberato/liberato/7525.ts
+#EXTINF:-1, group-title="Canais Premium 1",Mais Globosat
+http://142.44.139.236:25461/live/liberato/liberato/6953.ts
+#EXTINF:-1, group-title="Canais Premium 1",Mais Globosat HD
+http://142.44.139.236:25461/live/liberato/liberato/9262.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX
+http://142.44.139.236:25461/live/liberato/liberato/4358.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX HD
+http://142.44.139.236:25461/live/liberato/liberato/10266.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX Prime
+http://142.44.139.236:25461/live/liberato/liberato/4357.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX Prime HD
+http://142.44.139.236:25461/live/liberato/liberato/7850.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX Prime e
+http://142.44.139.236:25461/live/liberato/liberato/6952.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX UP
+http://142.44.139.236:25461/live/liberato/liberato/4355.ts
+#EXTINF:-1, group-title="Canais Premium 1",MAX UP HD
+http://142.44.139.236:25461/live/liberato/liberato/10265.ts
+#EXTINF:-1, group-title="Canais Premium 1",Music Box Brasil
+http://142.44.139.236:25461/live/liberato/liberato/7848.ts
+#EXTINF:-1, group-title="Canais Premium 1",Music Box Brasil HD
+http://142.44.139.236:25461/live/liberato/liberato/10264.ts
+#EXTINF:-1, group-title="Canais Premium 1",Mc Music Choice 2
+http://142.44.139.236:25461/live/liberato/liberato/6216.ts
+#EXTINF:-1, group-title="Canais Premium 1",MegaPix
+http://142.44.139.236:25461/live/liberato/liberato/4354.ts
+#EXTINF:-1, group-title="Canais Premium 1",Megapix HD
+http://142.44.139.236:25461/live/liberato/liberato/6101.ts
+#EXTINF:-1, group-title="Canais Premium 1",Megapix FHD
+http://142.44.139.236:25461/live/liberato/liberato/8146.ts
+#EXTINF:-1, group-title="Canais Premium 1",MTV
+http://142.44.139.236:25461/live/liberato/liberato/4353.ts
+#EXTINF:-1, group-title="Canais Premium 1",MTV HD
+http://142.44.139.236:25461/live/liberato/liberato/7524.ts
+#EXTINF:-1, group-title="Canais Premium 1",Multishow
+http://142.44.139.236:25461/live/liberato/liberato/4352.ts
+#EXTINF:-1, group-title="Canais Premium 1",Multishow HD
+http://142.44.139.236:25461/live/liberato/liberato/6867.ts
+#EXTINF:-1, group-title="Canais Premium 1",NatGeo Wild
+http://142.44.139.236:25461/live/liberato/liberato/4349.ts
+#EXTINF:-1, group-title="Canais Premium 1",NatGeoWild HD
+http://142.44.139.236:25461/live/liberato/liberato/6099.ts
+#EXTINF:-1, group-title="Canais Premium 1",National Geographic
+http://142.44.139.236:25461/live/liberato/liberato/4348.ts
+#EXTINF:-1, group-title="Canais Premium 1",National Geography HD
+http://142.44.139.236:25461/live/liberato/liberato/6098.ts
+#EXTINF:-1, group-title="Canais Premium 1",Nick Jr
+http://142.44.139.236:25461/live/liberato/liberato/4346.ts
+#EXTINF:-1, group-title="Canais Premium 1",Nick Jr HD
+http://142.44.139.236:25461/live/liberato/liberato/10260.ts
+#EXTINF:-1, group-title="Canais Premium 1",Nickeloden
+http://142.44.139.236:25461/live/liberato/liberato/4345.ts
+#EXTINF:-1, group-title="Canais Premium 1",Nickelodeon HD
+http://142.44.139.236:25461/live/liberato/liberato/7537.ts
+#EXTINF:-1, group-title="Canais Premium 1",NatGeo Kids
+http://142.44.139.236:25461/live/liberato/liberato/4350.ts
+#EXTINF:-1, group-title="Canais Premium 1",NatGeo Kids HD
+http://142.44.139.236:25461/live/liberato/liberato/10261.ts
+#EXTINF:-1, group-title="Canais Premium 1",Naruto 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10412.ts
+#EXTINF:-1, group-title="Canais Premium 1",NBR
+http://142.44.139.236:25461/live/liberato/liberato/6950.ts
+#EXTINF:-1, group-title="Canais Premium 1",NHK
+http://142.44.139.236:25461/live/liberato/liberato/6949.ts
+#EXTINF:-1, group-title="Canais Premium 1",NHK HD
+http://142.44.139.236:25461/live/liberato/liberato/4347.ts
+#EXTINF:-1, group-title="Canais Premium 1",Novo Tempo
+http://142.44.139.236:25461/live/liberato/liberato/6948.ts
+#EXTINF:-1, group-title="Canais Premium 1",NSC TV Florianopolis
+http://142.44.139.236:25461/live/liberato/liberato/10275.ts
+#EXTINF:-1, group-title="Canais Premium 1",NSC TV Florianopolis HD
+http://142.44.139.236:25461/live/liberato/liberato/5973.ts
+#EXTINF:-1, group-title="Canais Premium 1",NFL Now
+http://142.44.139.236:25461/live/liberato/liberato/5971.ts
+#EXTINF:-1, group-title="Canais Premium 1",OFF
+http://142.44.139.236:25461/live/liberato/liberato/4344.ts
+#EXTINF:-1, group-title="Canais Premium 1",OFF HD
+http://142.44.139.236:25461/live/liberato/liberato/6947.ts
+#EXTINF:-1, group-title="Canais Premium 1",3ABN KIDS HD
+http://142.44.139.236:25461/live/liberato/liberato/7660.ts
+#EXTINF:-1, group-title="Canais Premium 1",Paramount
+http://142.44.139.236:25461/live/liberato/liberato/6946.ts
+#EXTINF:-1, group-title="Canais Premium 1",Paramount HD
+http://142.44.139.236:25461/live/liberato/liberato/6945.ts
+#EXTINF:-1, group-title="Canais Premium 1",Play TV
+http://142.44.139.236:25461/live/liberato/liberato/6944.ts
+#EXTINF:-1, group-title="Canais Premium 1",Portal Gospel TV
+http://142.44.139.236:25461/live/liberato/liberato/6207.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere Clubes
+http://142.44.139.236:25461/live/liberato/liberato/4333.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere Clubes HD
+http://142.44.139.236:25461/live/liberato/liberato/6089.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere Clubes FHD
+http://142.44.139.236:25461/live/liberato/liberato/9144.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere Clubes HD [ ALTERNATIVO ]
+http://142.44.139.236:25461/live/liberato/liberato/8191.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere Clubes *
+http://142.44.139.236:25461/live/liberato/liberato/7541.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere Clubes HD*
+http://142.44.139.236:25461/live/liberato/liberato/7543.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 2
+http://142.44.139.236:25461/live/liberato/liberato/4341.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 2 HD
+http://142.44.139.236:25461/live/liberato/liberato/6093.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 2 FHD
+http://142.44.139.236:25461/live/liberato/liberato/8149.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 3
+http://142.44.139.236:25461/live/liberato/liberato/4340.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 3 HD
+http://142.44.139.236:25461/live/liberato/liberato/6092.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 3 FHD
+http://142.44.139.236:25461/live/liberato/liberato/9230.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 4
+http://142.44.139.236:25461/live/liberato/liberato/4339.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 4 HD
+http://142.44.139.236:25461/live/liberato/liberato/6091.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 5
+http://142.44.139.236:25461/live/liberato/liberato/4338.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 5 HD
+http://142.44.139.236:25461/live/liberato/liberato/6090.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 5 FHD
+http://142.44.139.236:25461/live/liberato/liberato/9231.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 6
+http://142.44.139.236:25461/live/liberato/liberato/4337.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 6 HD
+http://142.44.139.236:25461/live/liberato/liberato/10259.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 7
+http://142.44.139.236:25461/live/liberato/liberato/4336.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 7 HD
+http://142.44.139.236:25461/live/liberato/liberato/10258.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 8
+http://142.44.139.236:25461/live/liberato/liberato/4335.ts
+#EXTINF:-1, group-title="Canais Premium 1",Premiere 9
+http://142.44.139.236:25461/live/liberato/liberato/4334.ts
+#EXTINF:-1, group-title="Canais Premium 1",Prime Box Brazil
+http://142.44.139.236:25461/live/liberato/liberato/4332.ts
+#EXTINF:-1, group-title="Canais Premium 1",Prime Box Brazil HD
+http://142.44.139.236:25461/live/liberato/liberato/10256.ts
+#EXTINF:-1, group-title="Canais Premium 1",Pokemon
+http://142.44.139.236:25461/live/liberato/liberato/10413.ts
+#EXTINF:-1, group-title="Canais Premium 1",RBS TV Porto Alegre
+http://142.44.139.236:25461/live/liberato/liberato/6942.ts
+#EXTINF:-1, group-title="Canais Premium 1",Real Madrid TV
+http://142.44.139.236:25461/live/liberato/liberato/6183.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede TV ! Rondonia
+http://142.44.139.236:25461/live/liberato/liberato/6809.ts
+#EXTINF:-1, group-title="Canais Premium 1",Record
+http://142.44.139.236:25461/live/liberato/liberato/4423.ts
+#EXTINF:-1, group-title="Canais Premium 1",Record HD
+http://142.44.139.236:25461/live/liberato/liberato/7836.ts
+#EXTINF:-1, group-title="Canais Premium 1",Record FHD
+http://142.44.139.236:25461/live/liberato/liberato/6938.ts
+#EXTINF:-1, group-title="Canais Premium 1",Record SP
+http://142.44.139.236:25461/live/liberato/liberato/10254.ts
+#EXTINF:-1, group-title="Canais Premium 1",Record News
+http://142.44.139.236:25461/live/liberato/liberato/6941.ts
+#EXTINF:-1, group-title="Canais Premium 1",Record News HD
+http://142.44.139.236:25461/live/liberato/liberato/10255.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede Brasil
+http://142.44.139.236:25461/live/liberato/liberato/4421.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede Super
+http://142.44.139.236:25461/live/liberato/liberato/6154.ts
+#EXTINF:-1, group-title="Canais Premium 1",RIT TV
+http://142.44.139.236:25461/live/liberato/liberato/9458.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede TV
+http://142.44.139.236:25461/live/liberato/liberato/4420.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede TV HD
+http://142.44.139.236:25461/live/liberato/liberato/6940.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede Vida
+http://142.44.139.236:25461/live/liberato/liberato/6939.ts
+#EXTINF:-1, group-title="Canais Premium 1",Rede Vida HD
+http://142.44.139.236:25461/live/liberato/liberato/4419.ts
+#EXTINF:-1, group-title="Canais Premium 1",Tabela Jogos Premiere
+http://142.44.139.236:25461/live/liberato/liberato/5977.ts
+#EXTINF:-1, group-title="Canais Premium 1",RT Documentary Channel
+http://142.44.139.236:25461/live/liberato/liberato/7444.ts
+#EXTINF:-1, group-title="Canais Premium 1",SporTV
+http://142.44.139.236:25461/live/liberato/liberato/4327.ts
+#EXTINF:-1, group-title="Canais Premium 1",SporTV  HD
+http://142.44.139.236:25461/live/liberato/liberato/6082.ts
+#EXTINF:-1, group-title="Canais Premium 1",Sport TV FHD
+http://142.44.139.236:25461/live/liberato/liberato/8147.ts
+#EXTINF:-1, group-title="Canais Premium 1",SporTV 2
+http://142.44.139.236:25461/live/liberato/liberato/4326.ts
+#EXTINF:-1, group-title="Canais Premium 1",SporTV 2 HD
+http://142.44.139.236:25461/live/liberato/liberato/6084.ts
+#EXTINF:-1, group-title="Canais Premium 1",Sport TV 2 FHD
+http://142.44.139.236:25461/live/liberato/liberato/8148.ts
+#EXTINF:-1, group-title="Canais Premium 1",SporTV 3
+http://142.44.139.236:25461/live/liberato/liberato/4325.ts
+#EXTINF:-1, group-title="Canais Premium 1",SporTV 3 HD
+http://142.44.139.236:25461/live/liberato/liberato/6083.ts
+#EXTINF:-1, group-title="Canais Premium 1",SIC Internacional HD
+http://142.44.139.236:25461/live/liberato/liberato/6937.ts
+#EXTINF:-1, group-title="Canais Premium 1",SBT
+http://142.44.139.236:25461/live/liberato/liberato/4331.ts
+#EXTINF:-1, group-title="Canais Premium 1",SBT HD
+http://142.44.139.236:25461/live/liberato/liberato/6889.ts
+#EXTINF:-1, group-title="Canais Premium 1",SBT SP INTERIOR
+http://142.44.139.236:25461/live/liberato/liberato/10253.ts
+#EXTINF:-1, group-title="Canais Premium 1",SundanceTV
+http://142.44.139.236:25461/live/liberato/liberato/10249.ts
+#EXTINF:-1, group-title="Canais Premium 1",SundanceTV HD
+http://142.44.139.236:25461/live/liberato/liberato/10248.ts
+#EXTINF:-1, group-title="Canais Premium 1",Space
+http://142.44.139.236:25461/live/liberato/liberato/4328.ts
+#EXTINF:-1, group-title="Canais Premium 1",Space HD
+http://142.44.139.236:25461/live/liberato/liberato/6085.ts
+#EXTINF:-1, group-title="Canais Premium 1",Studio Universal
+http://142.44.139.236:25461/live/liberato/liberato/4324.ts
+#EXTINF:-1, group-title="Canais Premium 1",Studio Universal HD
+http://142.44.139.236:25461/live/liberato/liberato/7874.ts
+#EXTINF:-1, group-title="Canais Premium 1",Syfy
+http://142.44.139.236:25461/live/liberato/liberato/4323.ts
+#EXTINF:-1, group-title="Canais Premium 1",Syfy HD
+http://142.44.139.236:25461/live/liberato/liberato/7795.ts
+#EXTINF:-1, group-title="Canais Premium 1",TBS
+http://142.44.139.236:25461/live/liberato/liberato/4322.ts
+#EXTINF:-1, group-title="Canais Premium 1",TBS HD
+http://142.44.139.236:25461/live/liberato/liberato/7873.ts
+#EXTINF:-1, group-title="Canais Premium 1",TNT
+http://142.44.139.236:25461/live/liberato/liberato/4312.ts
+#EXTINF:-1, group-title="Canais Premium 1",TNT HD
+http://142.44.139.236:25461/live/liberato/liberato/6074.ts
+#EXTINF:-1, group-title="Canais Premium 1",TNT HD*
+http://142.44.139.236:25461/live/liberato/liberato/8188.ts
+#EXTINF:-1, group-title="Canais Premium 1",TNT Series
+http://142.44.139.236:25461/live/liberato/liberato/4311.ts
+#EXTINF:-1, group-title="Canais Premium 1",TNT Series HD
+http://142.44.139.236:25461/live/liberato/liberato/6073.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Cult
+http://142.44.139.236:25461/live/liberato/liberato/4319.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Cult HD
+http://142.44.139.236:25461/live/liberato/liberato/10247.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Cult FHD
+http://142.44.139.236:25461/live/liberato/liberato/8143.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Fun
+http://142.44.139.236:25461/live/liberato/liberato/4318.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Fun HD
+http://142.44.139.236:25461/live/liberato/liberato/6079.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium
+http://142.44.139.236:25461/live/liberato/liberato/4316.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium HD
+http://142.44.139.236:25461/live/liberato/liberato/6077.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium HD*
+http://142.44.139.236:25461/live/liberato/liberato/8192.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium FHD
+http://142.44.139.236:25461/live/liberato/liberato/8140.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Touch
+http://142.44.139.236:25461/live/liberato/liberato/4315.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Touch HD
+http://142.44.139.236:25461/live/liberato/liberato/6076.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Touch FHD
+http://142.44.139.236:25461/live/liberato/liberato/8145.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Action
+http://142.44.139.236:25461/live/liberato/liberato/4320.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Action HD
+http://142.44.139.236:25461/live/liberato/liberato/6080.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Action FHD
+http://142.44.139.236:25461/live/liberato/liberato/8141.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Pipoca
+http://142.44.139.236:25461/live/liberato/liberato/4317.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Pipoca HD
+http://142.44.139.236:25461/live/liberato/liberato/6078.ts
+#EXTINF:-1, group-title="Canais Premium 1",Telecine Pipoca FHD
+http://142.44.139.236:25461/live/liberato/liberato/8144.ts
+#EXTINF:-1, group-title="Canais Premium 1",TCM
+http://142.44.139.236:25461/live/liberato/liberato/4321.ts
+#EXTINF:-1, group-title="Canais Premium 1",TLC
+http://142.44.139.236:25461/live/liberato/liberato/4313.ts
+#EXTINF:-1, group-title="Canais Premium 1",TLC HD
+http://142.44.139.236:25461/live/liberato/liberato/7872.ts
+#EXTINF:-1, group-title="Canais Premium 1",Terra Viva
+http://142.44.139.236:25461/live/liberato/liberato/6936.ts
+#EXTINF:-1, group-title="Canais Premium 1",TruTV
+http://142.44.139.236:25461/live/liberato/liberato/6935.ts
+#EXTINF:-1, group-title="Canais Premium 1",TruTV HD
+http://142.44.139.236:25461/live/liberato/liberato/10244.ts
+#EXTINF:-1, group-title="Canais Premium 1",Tooncast
+http://142.44.139.236:25461/live/liberato/liberato/4310.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Liberal Belem
+http://142.44.139.236:25461/live/liberato/liberato/7871.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Brasil
+http://142.44.139.236:25461/live/liberato/liberato/4442.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Justica
+http://142.44.139.236:25461/live/liberato/liberato/5970.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Escola
+http://142.44.139.236:25461/live/liberato/liberato/5975.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Camara
+http://142.44.139.236:25461/live/liberato/liberato/10245.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Senado
+http://142.44.139.236:25461/live/liberato/liberato/10246.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Miramar
+http://142.44.139.236:25461/live/liberato/liberato/8108.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Serra Dourada
+http://142.44.139.236:25461/live/liberato/liberato/6931.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Vitoria
+http://142.44.139.236:25461/live/liberato/liberato/6817.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Cultura
+http://142.44.139.236:25461/live/liberato/liberato/4412.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Ra tim bum HD
+http://142.44.139.236:25461/live/liberato/liberato/6933.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Diario
+http://142.44.139.236:25461/live/liberato/liberato/4411.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV Evangelizar
+http://142.44.139.236:25461/live/liberato/liberato/6206.ts
+#EXTINF:-1, group-title="Canais Premium 1",TV5 Monde
+http://142.44.139.236:25461/live/liberato/liberato/6178.ts
+#EXTINF:-1, group-title="Canais Premium 1",TVE Bahia
+http://142.44.139.236:25461/live/liberato/liberato/6966.ts
+#EXTINF:-1, group-title="Canais Premium 1",TVE HD
+http://142.44.139.236:25461/live/liberato/liberato/4440.ts
+#EXTINF:-1, group-title="Canais Premium 1",Todo Mundo Odeia o Chris 24Hrs
+http://142.44.139.236:25461/live/liberato/liberato/10589.ts
+#EXTINF:-1, group-title="Canais Premium 1",Universal Channel
+http://142.44.139.236:25461/live/liberato/liberato/4308.ts
+#EXTINF:-1, group-title="Canais Premium 1",Universal Channels HD
+http://142.44.139.236:25461/live/liberato/liberato/5987.ts
+#EXTINF:-1, group-title="Canais Premium 1",VH1 Megahits HD
+http://142.44.139.236:25461/live/liberato/liberato/6929.ts
+#EXTINF:-1, group-title="Canais Premium 1",VH1 Megahits
+http://142.44.139.236:25461/live/liberato/liberato/10243.ts
+#EXTINF:-1, group-title="Canais Premium 1",VH1 HD
+http://142.44.139.236:25461/live/liberato/liberato/10361.ts
+#EXTINF:-1, group-title="Canais Premium 1",Virgin Radio TV
+http://142.44.139.236:25461/live/liberato/liberato/4441.ts
+#EXTINF:-1, group-title="Canais Premium 1",Viva
+http://142.44.139.236:25461/live/liberato/liberato/6928.ts
+#EXTINF:-1, group-title="Canais Premium 1",Viva HD
+http://142.44.139.236:25461/live/liberato/liberato/6848.ts
+#EXTINF:-1, group-title="Canais Premium 1",Warner Channel
+http://142.44.139.236:25461/live/liberato/liberato/4307.ts
+#EXTINF:-1, group-title="Canais Premium 1",Warner Channel HD
+http://142.44.139.236:25461/live/liberato/liberato/6072.ts
+#EXTINF:-1, group-title="Canais Premium 1",Woohoo
+http://142.44.139.236:25461/live/liberato/liberato/4306.ts
+#EXTINF:-1, group-title="Canais Premium 1",Woohoo HD
+http://142.44.139.236:25461/live/liberato/liberato/10242.ts
+
 ------------- Canais Premium 2 -----------------
 
 #EXTINF:-1, group-title="Canais Premium 2",Cartoon Network
