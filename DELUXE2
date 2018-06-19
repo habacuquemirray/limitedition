@@ -8595,6 +8595,8 @@ http://mypanel.tv:8080/movie/vf/vf2017/34357.mp4
 http://mypanel.tv:8080/movie/vf/vf2017/34327.mp4
 ------------- Canais Premium 7 -----------------
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"group-title="Canais Premium 7"
 ,Filmes e Séries
 http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
@@ -8665,11 +8667,11 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6613.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://t.likeiptv.com/bandsport.png" group-title="Canais Premium 7"
 ,Band Sports SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4179.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Notícias",Notícias
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Canais Premium 7",Notícias
 http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Notícias",Band News HD
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Canais Premium 7",Band News HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4177.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Notícias",Band News SD
+#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Canais Premium 7",Band News SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4180.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Canais Premium 7"
@@ -8706,9 +8708,9 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4170.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://t.likeiptv.com/canalrural.png" group-title="Canais Premium 7"
 ,Canal Rural SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4168.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Religiosos",Religiosos
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 7",Religiosos
 http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?FORMIGAtv.ts?formigaTV
-#EXTINF:-1 tvg-id="" tvg-name="Canal RBI" tvg-logo="" group-title="Religiosos",Canal RBI
+#EXTINF:-1 tvg-id="" tvg-name="Canal RBI" tvg-logo="" group-title="Canais Premium 7",Canal RBI
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4591.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Canais Premium 7"
 ,Cartoon Network HD
@@ -8983,9 +8985,9 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4630.ts
 #EXTINF:-1 tvg-id="" tvg-name="EPTV RIBEIRÃO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Canais Premium 7"
 ,EPTV RIBEIRÃO PRETO SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7696.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="" group-title="Notícias",Globo News HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="" group-title="Canais Premium 7",Globo News HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4096.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://t.likeiptv.com/GLOBONEWS.png" group-title="Notícias",Globo News SD
+#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://t.likeiptv.com/GLOBONEWS.png" group-title="Canais Premium 7",Globo News SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4104.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo Internacional SD" tvg-logo="http://recrutadores.com.br/wp-content/uploads/2016/11/tv-globo-international-logo.png" group-title="Canais Premium 7"
 ,Globo Internacional SD
@@ -9161,11 +9163,11 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3066.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="" group-title="Canais Premium 7"
 ,Play TV SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4034.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Adultos",Adultos
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 7",Adultos
 http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?FORMIGAtv.ts?formigaTV
-#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="" group-title="Adultos",Playboy HD
+#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="" group-title="Canais Premium 7",Playboy HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4033.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="" group-title="Adultos",PLAYBOY SD
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="" group-title="Canais Premium 7",PLAYBOY SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/5623.ts
 #EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="" group-title="Canais Premium 7"
 ,Polishop TV SD
@@ -9245,7 +9247,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7639.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record Internacional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Rede_Record_logo_2013.png/revision/latest?cb=20161202204831" group-title="Canais Premium 7"
 ,Record Internacional
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7641.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Notícias",Record News HD
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Canais Premium 7",Record News HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4593.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://t.likeiptv.com/recordnewshd.png" group-title="Canais Premium 7"
 ,Record News SD
@@ -9548,7 +9550,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6900.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Nova Esperança SD (Maranhão)" tvg-logo="http://t.likeiptv.com/tvnovaesperanca.png" group-title="Canais Premium 7"
 ,TV Nova Esperança SD (Maranhão)
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6893.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="http://t.likeiptv.com/tvevangelizar.png" group-title="Religiosos",TV Evangelizar SD
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="http://t.likeiptv.com/tvevangelizar.png" group-title="Canais Premium 7",TV Evangelizar SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3107.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário Fortaleza SD" tvg-logo="" group-title="Canais Premium 7"
 ,TV Diário Fortaleza SD
@@ -9616,7 +9618,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4606.ts
 #EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="http://t.likeiptv.com/novotempo.png" group-title="Canais Premium 7"
 ,Novo Tempo SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4040.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Milagre" tvg-logo="https://static.tvmilagre.com.br/assets/images/marca.png" group-title="Religiosos",TV Milagre
+#EXTINF:-1 tvg-id="" tvg-name="TV Milagre" tvg-logo="https://static.tvmilagre.com.br/assets/images/marca.png" group-title="Canais Premium 7",TV Milagre
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7686.ts
 #EXTINF:-1 tvg-id="" tvg-name="Musica Urbana" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 7"
 ,Musica Urbana
@@ -9648,20 +9650,20 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3043.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hit List" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 7"
 ,Hit List
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3061.ts
-#EXTINF:-1 tvg-id="" tvg-name="IURD TV SD" tvg-logo="http://t.likeiptv.com/iurd.png" group-title="Religiosos",IURD TV SD
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV SD" tvg-logo="http://t.likeiptv.com/iurd.png" group-title="Canais Premium 7",IURD TV SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3105.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV HD" tvg-logo="http://t.likeiptv.com/jasmintv.png" group-title="Adultos",Jasmin TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV HD" tvg-logo="http://t.likeiptv.com/jasmintv.png" group-title="Canais Premium 7",Jasmin TV HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4071.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hot TV" tvg-logo="" group-title="Adultos",Hot TV
+#EXTINF:-1 tvg-id="" tvg-name="Hot TV" tvg-logo="" group-title="Canais Premium 7",Hot TV
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4585.ts
 #EXTINF:-1 tvg-id="" tvg-name="G2P TV HD" tvg-logo="http://t.likeiptv.com/g2ptv.png" group-title="Canais Premium 7"
 ,G2P TV HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV HD" tvg-logo="" group-title="Adultos",Dorcel TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV HD" tvg-logo="" group-title="Canais Premium 7",Dorcel TV HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4584.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo SD" tvg-logo="http://t.likeiptv.com/terceiroanjo.png" group-title="Religiosos",TV Terceiro Anjo SD
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo SD" tvg-logo="http://t.likeiptv.com/terceiroanjo.png" group-title="Canais Premium 7",TV Terceiro Anjo SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3102.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Século 21 SD" tvg-logo="http://t.likeiptv.com/tvseculo.png" group-title="Religiosos",TV Século 21 SD
+#EXTINF:-1 tvg-id="" tvg-name="TV Século 21 SD" tvg-logo="http://t.likeiptv.com/tvseculo.png" group-title="Canais Premium 7",TV Século 21 SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6922.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/69/20150630212208%21TV_TEM.png" group-title="Canais Premium 7"
 ,TV TEM Bauru HD
@@ -9765,7 +9767,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/8681.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Full HD" tvg-logo="http://t.likeiptv.com/hbohd.png"group-title="Canais Premium 7"
 ,HBO Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7704.ts
-#EXTINF:-1 tvg-id="" tvg-name="HUSTLER FULL HD" tvg-logo="" group-title="Adultos",HUSTLER FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER FULL HD" tvg-logo="" group-title="Canais Premium 7",HUSTLER FULL HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6883.ts
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC FULL HD" tvg-logo="http://t.likeiptv.com/msnbc.png" group-title="Canais Premium 7"
 ,MSNBC FULL HD
@@ -9806,7 +9808,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/793.ts
 #EXTINF:-1 tvg-id="" tvg-name="PAC-12 National FULL HD" tvg-logo="http://t.likeiptv.com/pac12national.png" group-title="Canais Premium 7"
 ,PAC-12 National FULL HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3089.ts
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Full HD" tvg-logo="" group-title="Adultos",Penthouse Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Full HD" tvg-logo="" group-title="Canais Premium 7",Penthouse Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4583.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premieres Clubes Full HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Canais Premium 7"
 ,Premieres Clubes Full HD
@@ -9823,7 +9825,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7875.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,SBT Nordeste Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7872.ts
-#EXTINF:-1 tvg-id="" tvg-name="SexyZone Full HD" tvg-logo="" group-title="Adultos",SexyZone Full HD
+#EXTINF:-1 tvg-id="" tvg-name="SexyZone Full HD" tvg-logo="" group-title="Canais Premium 7",SexyZone Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7877.ts
 #EXTINF:-1 tvg-id="" tvg-name="Space Full HD" tvg-logo=""group-title="Canais Premium 7"
 ,Space Full HD
@@ -9855,7 +9857,3 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7702.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Estacao Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,TV Estacao Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7876.ts
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="---☛★EXTRAS - USEM LOOP★☚---",
-
