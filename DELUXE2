@@ -8597,19 +8597,19 @@ http://mypanel.tv:8080/movie/vf/vf2017/34327.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Canais Premium 7"
 ,Filmes e Séries
 http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://t.likeiptv.com/a&ehd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://t.likeiptv.com/a&ehd.png" group-title="Canais Premium 7"
 ,A&E HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4193.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="http://t.likeiptv.com/a&e.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="http://t.likeiptv.com/a&e.png" group-title="Canais Premium 7"
 ,A&E SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4194.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://t.likeiptv.com/amc.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Canais Premium 7"
 ,AMC HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4192.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://t.likeiptv.com/amc.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Canais Premium 7"
 ,AMC SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7670.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Canais Premium 7"
@@ -8627,10 +8627,10 @@ http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Canais Premium 7"
 ,Arte 1 SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4582.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://t.likeiptv.com/axnhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Canais Premium 7"
 ,AXN HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4185.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://t.likeiptv.com/axnhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Canais Premium 7"
 ,AXN SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4186.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Canais Premium 7"
@@ -8699,10 +8699,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4171.ts
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="http://t.likeiptv.com/Boomerang.png" group-title="Canais Premium 7"
 ,Boomerang SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://t.likeiptv.com/canalbrasil.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Canais Premium 7"
 ,Canal Brasil HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4169.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="http://t.likeiptv.com/canalbrasil.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Canais Premium 7"
 ,Canal Brasil SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4170.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://t.likeiptv.com/canalrural.png" group-title="Canais Premium 7"
@@ -8718,10 +8718,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4165.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Canais Premium 7"
 ,Cartoon Network SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4166.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://t.likeiptv.com/cinemaxhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://t.likeiptv.com/cinemaxhd.png" group-title="Canais Premium 7"
 ,Cinemax HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://t.likeiptv.com/cinemax1080.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://t.likeiptv.com/cinemax1080.png" group-title="Canais Premium 7"
 ,Cinemax SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4163.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 7"
@@ -8745,10 +8745,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/5617.ts
 #EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Canais Premium 7"
 ,Combate SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7632.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="Canais Premium 7"
 ,Comedy Central HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4603.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD" tvg-logo="" group-title="Canais Premium 7"
 ,Comedy Central SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7629.ts
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA SP HD" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Canais Premium 7"
@@ -8793,7 +8793,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4150.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://t.likeiptv.com/discoverryscience.png" group-title="Canais Premium 7"
 ,Discovery Science HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3135.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD" tvg-logo="http://t.likeiptv.com/discoverryscience.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD" tvg-logo="http://t.likeiptv.com/discoverryscience.png" group-title="Canais Premium 7"
 ,Discovery Science SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7633.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://t.likeiptv.com/Discoverytheater.png" group-title="Canais Premium 7"
@@ -8880,25 +8880,25 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4123.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD" tvg-logo="" group-title="Canais Premium 7"
 ,FOOD NETWORK SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4124.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://t.likeiptv.com/foxhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://t.likeiptv.com/foxhd.png" group-title="Canais Premium 7"
 ,FOX HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4121.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox SD" tvg-logo="http://t.likeiptv.com/fox.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox SD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Canais Premium 7"
 ,Fox SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4122.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png" group-title="Canais Premium 7"
 ,Fox Life HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4119.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life SD" tvg-logo="http://t.likeiptv.com/lifenovo.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life SD" tvg-logo="http://t.likeiptv.com/lifenovo.png" group-title="Canais Premium 7"
 ,Fox Life SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4120.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="" group-title="Canais Premium 7"
 ,Fox 1 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4579.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="" group-title="Canais Premium 7"
 ,Fox Premium 1 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4604.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://t.likeiptv.com/fp2.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://t.likeiptv.com/fp2.png" group-title="Canais Premium 7"
 ,Fox Premium 2 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4118.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://t.likeiptv.com/foxsporthd.png" group-title="Canais Premium 7"
@@ -8916,10 +8916,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4115.ts
 #EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://t.likeiptv.com/futura.png" group-title="Canais Premium 7"
 ,Futura SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4112.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://t.likeiptv.com/fxhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://t.likeiptv.com/fxhd.png" group-title="Canais Premium 7"
 ,FX HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4110.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://t.likeiptv.com/fx.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://t.likeiptv.com/fx.png" group-title="Canais Premium 7"
 ,FX SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4111.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo Internacional Full HD" tvg-logo="http://recrutadores.com.br/wp-content/uploads/2016/11/tv-globo-international-logo.png" group-title="Canais Premium 7"
@@ -9013,49 +9013,49 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4078.ts
 #EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="http://t.likeiptv.com/h2.PNG" group-title="Canais Premium 7"
 ,H2 SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4091.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais Premium 7"
 ,HBO HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4085.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://t.likeiptv.com/hbo.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://t.likeiptv.com/hbo.png" group-title="Canais Premium 7"
 ,HBO SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4090.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais Premium 7"
 ,HBO 2 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4088.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://t.likeiptv.com/hbo2.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://t.likeiptv.com/hbo2.png" group-title="Canais Premium 7"
 ,HBO 2 SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4089.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais Premium 7"
 ,HBO Family HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4086.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://t.likeiptv.com/hbofamilia.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://t.likeiptv.com/hbofamilia.png" group-title="Canais Premium 7"
 ,HBO Family SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4087.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Canais Premium 7"
 ,HBO Plus HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4082.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png" group-title="Canais Premium 7"
 ,HBO Plus SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4084.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png" group-title="Canais Premium 7"
 ,HBO Plus E SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4083.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://t.likeiptv.com/hbosignature1.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Canais Premium 7"
 ,HBO Signature HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4080.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://t.likeiptv.com/hbosignature1.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Canais Premium 7"
 ,HBO Signature SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4081.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="http://t.likeiptv.com/idhd1.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="http://t.likeiptv.com/idhd1.png" group-title="Canais Premium 7"
 ,ID HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4074.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID SD" tvg-logo="http://t.likeiptv.com/id.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="ID SD" tvg-logo="http://t.likeiptv.com/id.png" group-title="Canais Premium 7"
 ,ID SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4075.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Canais Premium 7"
 ,LIFETIME HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4069.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="http://t.likeiptv.com/lifetime.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="http://t.likeiptv.com/lifetime.png" group-title="Canais Premium 7"
 ,Lifetime SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4070.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="" group-title="Canais Premium 7"
@@ -9064,31 +9064,31 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4067.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mais Globosat SD" tvg-logo="" group-title="Canais Premium 7"
 ,Mais Globosat SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4068.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="http://t.likeiptv.com/maxhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="http://t.likeiptv.com/maxhd.png" group-title="Canais Premium 7"
 ,MAX HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4065.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="http://t.likeiptv.com/max.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="http://t.likeiptv.com/max.png" group-title="Canais Premium 7"
 ,MAX SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4066.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Canais Premium 7"
 ,MAX Prime HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4062.ts
-#EXTINF:-1 tvg-id="" tvg-name="Max Prime SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Canais Premium 7"
 ,Max Prime SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4064.ts
-#EXTINF:-1 tvg-id="" tvg-name="Max Prime E SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime E SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Canais Premium 7"
 ,Max Prime E SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4063.ts
-#EXTINF:-1 tvg-id="" tvg-name="Max UP HD" tvg-logo="http://t.likeiptv.com/maxup1.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Max UP HD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Canais Premium 7"
 ,Max UP HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4060.ts
-#EXTINF:-1 tvg-id="" tvg-name="Max UP SD" tvg-logo="http://t.likeiptv.com/maxup1.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Max UP SD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Canais Premium 7"
 ,Max UP SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4061.ts
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://t.likeiptv.com/megap.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Canais Premium 7"
 ,Megapix HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4058.ts
-#EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="http://t.likeiptv.com/megap.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Canais Premium 7"
 ,Megapix SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4059.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Canais Premium 7"
@@ -9151,10 +9151,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4037.ts
 #EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="http://t.likeiptv.com/canaloff.png" group-title="Canais Premium 7"
 ,Off SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4038.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://t.likeiptv.com/paramouth.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Canais Premium 7"
 ,Paramount HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4035.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount SD" tvg-logo="http://t.likeiptv.com/paramouth.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Paramount SD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Canais Premium 7"
 ,Paramount SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4036.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play HD" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 7"
@@ -9229,7 +9229,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4021.ts
 #EXTINF:-1 tvg-id="" tvg-name="PFC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="Canais Premium 7"
 ,PFC SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7636.ts
-#EXTINF:-1 tvg-id="" tvg-name="Primebox Brasil SD" tvg-logo="http://t.likeiptv.com/primebox.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Primebox Brasil SD" tvg-logo="http://t.likeiptv.com/primebox.png" group-title="Canais Premium 7"
 ,Primebox Brasil SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4018.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Canais Premium 7"
@@ -9307,16 +9307,16 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6895.ts
 ,Tv Jornal HD (Filiada da SBT Pernambuco - Interior)
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6919.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="http://t.likeiptv.com/sonnyhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="http://t.likeiptv.com/sonnyhd.png" group-title="Canais Premium 7"
 ,Canal Sony HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3917.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony SD" tvg-logo="http://t.likeiptv.com/canalsonynovo.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Sony SD" tvg-logo="http://t.likeiptv.com/canalsonynovo.png" group-title="Canais Premium 7"
 ,Sony SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3918.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://t.likeiptv.com/spaacehd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://t.likeiptv.com/spaacehd.png" group-title="Canais Premium 7"
 ,Space HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3915.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="http://t.likeiptv.com/space.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="http://t.likeiptv.com/space.png" group-title="Canais Premium 7"
 ,Space SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3916.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Canais Premium 7"
@@ -9340,61 +9340,61 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3911.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="Canais Premium 7"
 ,SPORTV 4 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7674.ts
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://t.likeiptv.com/uhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://t.likeiptv.com/uhd.png" group-title="Canais Premium 7"
 ,Studio Universal HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3907.ts
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal SD" tvg-logo="http://t.likeiptv.com/studio.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal SD" tvg-logo="http://t.likeiptv.com/studio.png" group-title="Canais Premium 7"
 ,Studio Universal SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3908.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://t.likeiptv.com/syhd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://t.likeiptv.com/syhd.png" group-title="Canais Premium 7"
 ,Syfy HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3905.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="http://t.likeiptv.com/sy.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="http://t.likeiptv.com/sy.png" group-title="Canais Premium 7"
 ,SYFY SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3906.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://t.likeiptv.com/tbshd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://t.likeiptv.com/tbshd.png" group-title="Canais Premium 7"
 ,TBS HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3903.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://t.likeiptv.com/tbs.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://t.likeiptv.com/tbs.png" group-title="Canais Premium 7"
 ,TBS SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3904.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="http://t.likeiptv.com/tcm.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="http://t.likeiptv.com/tcm.png" group-title="Canais Premium 7"
 ,TCM SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3902.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Action HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3900.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Action SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Cult HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7622.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Cult SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3899.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Fun HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3896.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Fun SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3897.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Pipoca HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3894.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Pipoca SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3895.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Premium 7"
 ,Telecine Premium HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3892.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Premium SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3893.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Touch HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3890.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Touch SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3891.ts
 #EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://t.likeiptv.com/historyhd1.png" group-title="Canais Premium 7"
@@ -9409,16 +9409,16 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3888.ts
 #EXTINF:-1 tvg-id="TLC SD" tvg-name="TLC SD" tvg-logo="" group-title="Canais Premium 7"
 ,TLC SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3889.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais Premium 7"
 ,TNT HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3886.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://t.likeiptv.com/tnt.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://t.likeiptv.com/tnt.png" group-title="Canais Premium 7"
 ,TNT SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3887.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Canais Premium 7"
 ,TNT Series HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3884.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series SD" tvg-logo="http://t.likeiptv.com/tntseries.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series SD" tvg-logo="http://t.likeiptv.com/tntseries.png" group-title="Canais Premium 7"
 ,TNT Series SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3885.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="" group-title="Canais Premium 7"
@@ -9427,16 +9427,16 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3882.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="" group-title="Canais Premium 7"
 ,Tooncast SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3883.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 1 HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 1 HD" tvg-logo="" group-title="Canais Premium 7"
 ,TV CINE 1 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7624.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 2 HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 2 HD" tvg-logo="" group-title="Canais Premium 7"
 ,TV CINE 2 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7625.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE  3 HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE  3 HD" tvg-logo="" group-title="Canais Premium 7"
 ,TV CINE  3 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7626.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 4 HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 4 HD" tvg-logo="" group-title="Canais Premium 7"
 ,TV CINE 4 HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7627.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Camara HD" tvg-logo="http://t.likeiptv.com/tvcamara.png" group-title="Canais Premium 7"
@@ -9466,10 +9466,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6932.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://t.likeiptv.com/tvsenado.png" group-title="Canais Premium 7"
 ,TV SENADO
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3873.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="" group-title="Canais Premium 7"
 ,Universal Channel HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3871.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD" tvg-logo="" group-title="Canais Premium 7"
 ,Universal Channel SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3872.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="Canais Premium 7"
@@ -9487,10 +9487,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3867.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="" group-title="Canais Premium 7"
 ,Viva
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3868.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Canais Premium 7"
 ,Warner Channel HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4617.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="" group-title="Canais Premium 7"
 ,Warner Channel SD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4618.ts
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="" group-title="Canais Premium 7"
@@ -9692,16 +9692,16 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3052.ts
 #EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 7"
 ,Y2K
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3049.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,A&E Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7892.ts
-#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="AMC Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="AMC Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,AMC Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7898.ts
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Animal Planet Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7883.ts
-#EXTINF:-1 tvg-id="AXN Full HD" tvg-name="AXN Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="AXN Full HD" tvg-name="AXN Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,AXN Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7897.ts
 #EXTINF:-1 tvg-id="" tvg-name="Baby Tv Full Hd" tvg-logo="" group-title="Canais Premium 7"
@@ -9725,7 +9725,7 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7688.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Discovery Kids Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Canais Premium 7"
 ,Discovery Turbo Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7697.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney JR Full HD" tvg-logo="" group-title="Canais Premium 7"
@@ -9743,16 +9743,16 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3136.ts
 #EXTINF:-1 tvg-id="" tvg-name="Food Network Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Food Network Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7893.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Full HD" tvg-logo="http://t.likeiptv.com/fox.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Fox Full HD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Canais Premium 7"
 ,Fox Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7701.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life Full Hd" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life Full Hd" tvg-logo="" group-title="Canais Premium 7"
 ,FOX Life Full Hd
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/8677.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 1 Full Hd" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 1 Full Hd" tvg-logo="" group-title="Canais Premium 7"
 ,FOX Premium 1 Full Hd
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/8678.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 2 Full Hd" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 2 Full Hd" tvg-logo="" group-title="Canais Premium 7"
 ,FOX Premium 2 Full Hd
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/8679.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Full Hd" tvg-logo="" group-title="Canais Premium 7"
@@ -9761,10 +9761,10 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/8680.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS Full HD" tvg-logo="http://t.likeiptv.com/foxsport.png" group-title="Canais Premium 7"
 ,FOX SPORTS Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7703.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="FX Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,FX Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/8681.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Full HD" tvg-logo="http://t.likeiptv.com/hbohd.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="HBO Full HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais Premium 7"
 ,HBO Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7704.ts
 #EXTINF:-1 tvg-id="" tvg-name="HUSTLER FULL HD" tvg-logo="" group-title="Canais Premium 7",HUSTLER FULL HD
@@ -9827,28 +9827,28 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7875.ts
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7872.ts
 #EXTINF:-1 tvg-id="" tvg-name="SexyZone Full HD" tvg-logo="" group-title="Canais Premium 7",SexyZone Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7877.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Space Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Space Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7884.ts
 #EXTINF:-1 tvg-id="" tvg-name="SporTV Full HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Canais Premium 7"
 ,SporTV Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7699.ts
-#EXTINF:-1 tvg-id="Studio Universal Full HD" tvg-name="Studio Universal Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="Studio Universal Full HD" tvg-name="Studio Universal Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Studio Universal Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7896.ts
-#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SyFy Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SyFy Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,SyFy Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7899.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Action Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7885.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Pipoca Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png"group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png " group-title="Canais Premium 7"
 ,Telecine Premium Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7694.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch Full HD" tvg-logo=""group-title="Canais Premium 7"
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch Full HD" tvg-logo="" group-title="Canais Premium 7"
 ,Telecine Touch Full HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7886.ts
 #EXTINF:-1 tvg-id="" tvg-name="The History Channel Full HD" tvg-logo="http://t.likeiptv.com/historyhd1.png" group-title="Canais Premium 7"
