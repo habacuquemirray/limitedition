@@ -106,11 +106,11 @@ http://deltatvfull.net:25461/live/Reyges/222/12200.ts
 http://deltatvfull.net:25461/live/Reyges/222/12347.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="Canais Premium 0",GLOBO MINAS HD
 http://deltatvfull.net:25461/live/Reyges/222/12199.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://3.bp.blogspot.com/-1tO5wqNtFjU/U08aBwJW2RI/AAAAAAABQbU/bRAG9Yy7Q1k/s1600/globo+logo.jpg" group-title="CANAIS NOTICIAS - BR",GLOBO NEWS
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://3.bp.blogspot.com/-1tO5wqNtFjU/U08aBwJW2RI/AAAAAAABQbU/bRAG9Yy7Q1k/s1600/globo+logo.jpg"  group-title="Canais Premium 0",GLOBO NEWS
 http://deltatvfull.net:25461/live/Reyges/222/12198.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FULLHD" tvg-logo="http://3.bp.blogspot.com/-1tO5wqNtFjU/U08aBwJW2RI/AAAAAAABQbU/bRAG9Yy7Q1k/s1600/globo+logo.jpg" group-title="CANAIS NOTICIAS - BR",GLOBO NEWS FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FULLHD" tvg-logo="http://3.bp.blogspot.com/-1tO5wqNtFjU/U08aBwJW2RI/AAAAAAABQbU/bRAG9Yy7Q1k/s1600/globo+logo.jpg"  group-title="Canais Premium 0",GLOBO NEWS FULLHD
 http://deltatvfull.net:25461/live/Reyges/222/12318.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="http://3.bp.blogspot.com/-1tO5wqNtFjU/U08aBwJW2RI/AAAAAAABQbU/bRAG9Yy7Q1k/s1600/globo+logo.jpg" group-title="CANAIS NOTICIAS - BR",GLOBO NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="http://3.bp.blogspot.com/-1tO5wqNtFjU/U08aBwJW2RI/AAAAAAABQbU/bRAG9Yy7Q1k/s1600/globo+logo.jpg"  group-title="Canais Premium 0",GLOBO NEWS HD
 http://deltatvfull.net:25461/live/Reyges/222/12197.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="Canais Premium 0",GLOBO NORDESTE
 http://deltatvfull.net:25461/live/Reyges/222/12196.ts
@@ -154,11 +154,11 @@ http://deltatvfull.net:25461/live/Reyges/222/12287.ts
 http://deltatvfull.net:25461/live/Reyges/222/12350.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="http://guiadatv.net/wp-content/plugins/userpro/lib/timthumb.php?src=%2Fwp-content%2Fuploads%2Fuserpro%2F11%2FBAN.jpg&w=128&h=128&a=t&q=100" group-title="Canais Premium 0",BAND HD
 http://deltatvfull.net:25461/live/Reyges/222/12286.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://goo.gl/6Kr46g" group-title="CANAIS NOTICIAS - BR",BAND NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://goo.gl/6Kr46g"  group-title="Canais Premium 0",BAND NEWS
 http://deltatvfull.net:25461/live/Reyges/222/12285.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple18/v4/95/f8/1e/95f81edb-eefe-1489-c5e9-ce66ff55564c/source/256x256bb.jpg" group-title="CANAIS NOTICIAS - BR",BAND NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple18/v4/95/f8/1e/95f81edb-eefe-1489-c5e9-ce66ff55564c/source/256x256bb.jpg"  group-title="Canais Premium 0",BAND NEWS FHD
 http://deltatvfull.net:25461/live/Reyges/222/12312.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://goo.gl/6Kr46g" group-title="CANAIS NOTICIAS - BR",BAND NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://goo.gl/6Kr46g"  group-title="Canais Premium 0",BAND NEWS HD
 http://deltatvfull.net:25461/live/Reyges/222/12284.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://images.mi.tv/channels/br_bandsports_m.png" group-title="Canais Premium 0",BAND SPORTS
 http://deltatvfull.net:25461/live/Reyges/222/12283.ts
@@ -170,7 +170,7 @@ http://deltatvfull.net:25461/live/Reyges/222/12324.ts
 http://deltatvfull.net:25461/live/Reyges/222/12281.ts
 #EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://goo.gl/h7Racn" group-title="Canais Premium 0",BIS HD
 http://deltatvfull.net:25461/live/Reyges/222/12280.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE" tvg-logo="https://goo.gl/Pjv4Yc" group-title="CANAIS RELIGIOSOS - BR",BOA VONTADE
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE" tvg-logo="https://goo.gl/Pjv4Yc" group-title="Canais Premium 0",BOA VONTADE
 http://deltatvfull.net:25461/live/Reyges/222/12279.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://goo.gl/GjMPSV" group-title="Canais Premium 0",BOOMERANG
 http://deltatvfull.net:25461/live/Reyges/222/12278.ts
@@ -200,13 +200,13 @@ http://deltatvfull.net:25461/live/Reyges/222/12264.ts
 http://deltatvfull.net:25461/live/Reyges/222/12263.ts
 #EXTINF:-1 tvg-id="" tvg-name="CURTA! HD" tvg-logo="https://goo.gl/hLgz35" group-title="Canais Premium 0",CURTA! HD
 http://deltatvfull.net:25461/live/Reyges/222/12262.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS*" tvg-logo="http://sleepypod.com/latest/wp-content/uploads/2016/03/cbs.logo_.jpg" group-title="CANAIS NOTICIAS - BR",CBS NEWS*
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS*" tvg-logo="http://sleepypod.com/latest/wp-content/uploads/2016/03/cbs.logo_.jpg"  group-title="Canais Premium 0",CBS NEWS*
 http://deltatvfull.net:25461/live/Reyges/222/8090.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="https://goo.gl/AYB9yH" group-title="Canais Premium 0",CANAL SONY
 http://deltatvfull.net:25461/live/Reyges/222/12274.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="https://goo.gl/AYB9yH" group-title="Canais Premium 0",CANAL SONY HD
 http://deltatvfull.net:25461/live/Reyges/222/12273.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://goo.gl/5WDpi2" group-title="CANAIS RELIGIOSOS - BR",CANÇÃO NOVA
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://goo.gl/5WDpi2" group-title="Canais Premium 0",CANÇÃO NOVA
 http://deltatvfull.net:25461/live/Reyges/222/12272.ts
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://goo.gl/cTZQko" group-title="Canais Premium 0",CARTOON NETWORK
 http://deltatvfull.net:25461/live/Reyges/222/12271.ts
@@ -448,7 +448,7 @@ http://deltatvfull.net:25461/live/Reyges/222/12305.ts
 http://deltatvfull.net:25461/live/Reyges/222/12132.ts
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/505.png" group-title="Canais Premium 0",NATGEO WILD
 http://deltatvfull.net:25461/live/Reyges/222/12131.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="https://imgur.com/dUV1FRj.jpg" group-title="CANAIS NOTICIAS - BR",NBR
+#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="https://imgur.com/dUV1FRj.jpg"  group-title="Canais Premium 0",NBR
 http://deltatvfull.net:25461/live/Reyges/222/12130.ts
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://imgur.com/kg0L2n4.jpg" group-title="Canais Premium 0",NICK JR
 http://deltatvfull.net:25461/live/Reyges/222/12129.ts
@@ -470,7 +470,7 @@ http://deltatvfull.net:25461/live/Reyges/222/12124.ts
 http://deltatvfull.net:25461/live/Reyges/222/12123.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://imgur.com/ISi5DIY.jpg" group-title="Canais Premium 0",PARAMOUNT CHANNEL HD
 http://deltatvfull.net:25461/live/Reyges/222/12122.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="FOR ADULTS",PLAYBOY
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo=""  group-title="Canais Premium 0",PLAYBOY
 http://deltatvfull.net:25461/live/Reyges/222/12032.ts
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRASIL" tvg-logo="https://imgur.com/QIVYpmA.jpg" group-title="Canais Premium 0",PRIME BOX BRASIL
 http://deltatvfull.net:25461/live/Reyges/222/12107.ts
@@ -486,9 +486,9 @@ http://deltatvfull.net:25461/live/Reyges/222/12342.ts
 http://deltatvfull.net:25461/live/Reyges/222/12100.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD HD Alternativo" tvg-logo="https://imgur.com/dWQL8Kz.jpg" group-title="Canais Premium 0",RECORD HD Alternativo
 http://deltatvfull.net:25461/live/Reyges/222/12104.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://imgur.com/2czJOnJ.jpg" group-title="CANAIS NOTICIAS - BR",RECORD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://imgur.com/2czJOnJ.jpg"  group-title="Canais Premium 0",RECORD NEWS
 http://deltatvfull.net:25461/live/Reyges/222/12103.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="https://imgur.com/2czJOnJ.jpg" group-title="CANAIS NOTICIAS - BR",RECORD NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="https://imgur.com/2czJOnJ.jpg"  group-title="Canais Premium 0",RECORD NEWS HD
 http://deltatvfull.net:25461/live/Reyges/222/12102.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="https://imgur.com/dWQL8Kz.jpg" group-title="Canais Premium 0",RECORD SP
 http://deltatvfull.net:25461/live/Reyges/222/12101.ts
@@ -508,9 +508,9 @@ http://deltatvfull.net:25461/live/Reyges/222/12341.ts
 http://deltatvfull.net:25461/live/Reyges/222/12094.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP INTERIOR" tvg-logo="https://imgur.com/8MAIzin.jpg" group-title="Canais Premium 0",SBT SP INTERIOR
 http://deltatvfull.net:25461/live/Reyges/222/12093.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://imgur.com/Jkcg9MS.jpg" group-title="FOR ADULTS",SEXTREME
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://imgur.com/Jkcg9MS.jpg"  group-title="Canais Premium 0",SEXTREME
 http://deltatvfull.net:25461/live/Reyges/222/12031.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="https://imgur.com/YSNYalF.jpg" group-title="FOR ADULTS",SEXY HOT
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="https://imgur.com/YSNYalF.jpg"  group-title="Canais Premium 0",SEXY HOT
 http://deltatvfull.net:25461/live/Reyges/222/12030.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://imgur.com/DgSnoOs.jpg" group-title="Canais Premium 0",SPACE
 http://deltatvfull.net:25461/live/Reyges/222/12090.ts
@@ -630,7 +630,7 @@ http://deltatvfull.net:25461/live/Reyges/222/12055.ts
 http://deltatvfull.net:25461/live/Reyges/222/12044.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="Canais Premium 0",UNIVERSAL CHANNEL HD
 http://deltatvfull.net:25461/live/Reyges/222/12043.ts
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://imgur.com/ZWmdwno.jpg" group-title="FOR ADULTS",VENUS
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://imgur.com/ZWmdwno.jpg"  group-title="Canais Premium 0",VENUS
 http://deltatvfull.net:25461/live/Reyges/222/12029.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="Canais Premium 0",VH1
 http://deltatvfull.net:25461/live/Reyges/222/12042.ts
@@ -2778,7 +2778,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1180.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1181.ts
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",A&E FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1105.ts
-#EXTINF:-1 tvg-id="" tvg-name="ACC TV" tvg-logo="https://www.acc.tv/wp-content/uploads/2016/06/TV-APPS-gradient.png" group-title="Religiosos",ACC TV
+#EXTINF:-1 tvg-id="" tvg-name="ACC TV" tvg-logo="https://www.acc.tv/wp-content/uploads/2016/06/TV-APPS-gradient.png"  group-title="Canais Premium 4",ACC TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1496.ts
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="" group-title="Canais Premium 4",AGRO BRASIL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1118.ts
@@ -2808,7 +2808,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1094.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1097.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",ARTE 1 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1096.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALL NATIONS" tvg-logo="http://allnationstv.com/uploads/3/5/5/6/35564118/3117706_orig.png" group-title="Religiosos",ALL NATIONS
+#EXTINF:-1 tvg-id="" tvg-name="ALL NATIONS" tvg-logo="http://allnationstv.com/uploads/3/5/5/6/35564118/3117706_orig.png"  group-title="Canais Premium 4",ALL NATIONS
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1495.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",AXN HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1093.ts
@@ -2854,7 +2854,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1066.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1083.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG SD" tvg-logo="" group-title="Canais Premium 4",BOOMERANG SD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1079.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV HD" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL.png" group-title="Musica",CAPITAL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV HD" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL.png"  group-title="Canais Premium 4",CAPITAL TV HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/742.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="" group-title="Canais Premium 4",CINE SKY
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1119.ts
@@ -2930,9 +2930,9 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1060.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1053.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="Canais Premium 4",DISCOVERY CHANNEL SD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1051.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMUNION TV" tvg-logo="https://pbs.twimg.com/profile_images/572435482655469568/3p4XWxwM_400x400.jpeg" group-title="Religiosos",COMUNION TV
+#EXTINF:-1 tvg-id="" tvg-name="COMUNION TV" tvg-logo="https://pbs.twimg.com/profile_images/572435482655469568/3p4XWxwM_400x400.jpeg"  group-title="Canais Premium 4",COMUNION TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1493.ts
-#EXTINF:-1 tvg-id="" tvg-name="CTN" tvg-logo="https://4.bp.blogspot.com/-koqb32zUJyI/V12Su5AaOeI/AAAAAAAAAIU/IMa2Oycv2TQVBSrPTkhdjBxVhhGqjpwYQCLcB/s1600/CTN%2BKhmer%2BTV%2BOnline.jpg" group-title="Religiosos",CTN
+#EXTINF:-1 tvg-id="" tvg-name="CTN" tvg-logo="https://4.bp.blogspot.com/-koqb32zUJyI/V12Su5AaOeI/AAAAAAAAAIU/IMa2Oycv2TQVBSrPTkhdjBxVhhGqjpwYQCLcB/s1600/CTN%2BKhmer%2BTV%2BOnline.jpg"  group-title="Canais Premium 4",CTN
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1492.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="Canais Premium 4",CNN INTERNACIONAL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1208.ts
@@ -3032,9 +3032,9 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1218.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1224.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title="Canais Premium 4",DISNEY XD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1223.ts
-#EXTINF:-1 tvg-id="" tvg-name="EBENEZER" tvg-logo="http://www.homemdeaco.xpg.com.br/superhqs//tv/canais/canais-de-tv/ebenezer-tv-hd.png" group-title="Religiosos",EBENEZER
+#EXTINF:-1 tvg-id="" tvg-name="EBENEZER" tvg-logo="http://www.homemdeaco.xpg.com.br/superhqs//tv/canais/canais-de-tv/ebenezer-tv-hd.png"  group-title="Canais Premium 4",EBENEZER
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1490.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENLACE JUVENIL" tvg-logo="https://a2-images.myspacecdn.com/images03/30/e81659055d924823b234fc61b04ce67e/300x300.jpg" group-title="Religiosos",ENLACE JUVENIL
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE JUVENIL" tvg-logo="https://a2-images.myspacecdn.com/images03/30/e81659055d924823b234fc61b04ce67e/300x300.jpg"  group-title="Canais Premium 4",ENLACE JUVENIL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1489.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD" tvg-logo="" group-title="Canais Premium 4",DISCOVERY KIDS SD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1045.ts
@@ -3094,15 +3094,15 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1297.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1298.ts
 #EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="" group-title="Canais Premium 4",PICA PAU
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1299.ts
-#EXTINF:-1 tvg-id="PlayTV" tvg-name="PLAYTV" tvg-logo="http://overbr.com.br/wp-content/uploads/2017/03/ViewImage-Play-TV-1.jpg" group-title="Variedades",PLAYTV
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PLAYTV" tvg-logo="http://overbr.com.br/wp-content/uploads/2017/03/ViewImage-Play-TV-1.jpg"  group-title="Canais Premium 4",PLAYTV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1301.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 2
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1302.ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 3
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1304.ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 4
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1306.ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 5
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1308.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="" group-title="Canais Premium 4",NBR
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1144.ts
@@ -3126,9 +3126,9 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1281.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1280.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Canais Premium 4",MAX
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1279.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL TV" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account208-i200/embed/15743/gospel_tv-1507582731.png" group-title="Religiosos",GOSPEL TV
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL TV" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account208-i200/embed/15743/gospel_tv-1507582731.png"  group-title="Canais Premium 4",GOSPEL TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1487.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOD TV" tvg-logo="http://www.effortracing.com/images/sponsor/god-tv.jpg" group-title="Religiosos",GOD TV
+#EXTINF:-1 tvg-id="" tvg-name="GOD TV" tvg-logo="http://www.effortracing.com/images/sponsor/god-tv.jpg"  group-title="Canais Premium 4",GOD TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1488.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT   HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",GLOBOSAT   HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/950.ts
@@ -3310,17 +3310,17 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/987.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/934.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE 4 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/874.ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 HD
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 4 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1307.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE 3 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/876.ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 HD
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 3 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1305.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE 3 FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/877.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE 2 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/879.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 HD
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 2 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1303.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PARAMOUNT HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/884.ts
@@ -3392,9 +3392,9 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/916.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1015.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",MAX HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/918.ts
-#EXTINF:-1 tvg-id="" tvg-name="HILLSONG CHANNEL" tvg-logo="https://i.pinimg.com/originals/7f/72/1a/7f721aabf28dd7abbc0c2ceb9054c774.png" group-title="Religiosos",HILLSONG CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="HILLSONG CHANNEL" tvg-logo="https://i.pinimg.com/originals/7f/72/1a/7f721aabf28dd7abbc0c2ceb9054c774.png"  group-title="Canais Premium 4",HILLSONG CHANNEL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1494.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORTAL GOSPEL" tvg-logo="https://pbs.twimg.com/profile_images/598651734760763392/sOCLluPE_400x400.jpg" group-title="Religiosos",PORTAL GOSPEL
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL GOSPEL" tvg-logo="https://pbs.twimg.com/profile_images/598651734760763392/sOCLluPE_400x400.jpg"  group-title="Canais Premium 4",PORTAL GOSPEL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1485.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS" tvg-logo="" group-title="Canais Premium 4",GLOBO RBS
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1256.ts
@@ -3582,19 +3582,19 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1167.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1168.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",TELECINE CULT ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1169.ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 HD
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 5 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1309.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE 5 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/872.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 HD
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 6 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1311.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 HD
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 7 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1313.ts
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT HD" tvg-logo="https://s8.postimg.cc/aihvsl18l/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Canais Premium 4",TELECINE CULT HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1353.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="" group-title="Canais Premium 4",PREMIERE CLUBES FHD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1316.ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE CLUBES HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1317.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE CLUBES HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/866.ts
@@ -3602,7 +3602,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/866.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/822.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",RECORD FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/863.ts
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD HD" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Canais abertos",RECORD HD
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD HD" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg"  group-title="Canais Premium 4",RECORD HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1319.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",RECORD HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/862.ts
@@ -3610,21 +3610,21 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/862.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/860.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",RECORD NEWS HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/859.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV INTERNACIONAL HD" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",RECORDTV INTERNACIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV INTERNACIONAL HD" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg"  group-title="Canais Premium 4",RECORDTV INTERNACIONAL HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1322.ts
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",REDE TV HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/857.ts
 #EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",REDE VIDA HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/855.ts
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV! HD" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",REDETV! HD
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV! HD" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg"  group-title="Canais Premium 4",REDETV! HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1328.ts
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT HD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg"  group-title="Canais Premium 4",SBT HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1331.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SBT HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/852.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT NORDESTE FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SBT NORDESTE FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/851.ts
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SALVADOR HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT SALVADOR HD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SALVADOR HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg"  group-title="Canais Premium 4",SBT SALVADOR HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1333.ts
 #EXTINF:-1 tvg-id="" tvg-name="SONY FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SONY FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/849.ts
@@ -3636,17 +3636,17 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/846.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/845.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SPORTV 2 FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/842.ts
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",SPORTV 2 HD
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg"  group-title="Canais Premium 4",SPORTV 2 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1341.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SPORTV 2 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/841.ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SPORTV 3 HD
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg"  group-title="Canais Premium 4",SPORTV 3 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1343.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SPORTV 3 HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/839.ts
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD" tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="Esportes",SPORTV FHD
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD" tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg"  group-title="Canais Premium 4",SPORTV FHD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1344.ts
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="Esportes",SPORTV HD
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg"  group-title="Canais Premium 4",SPORTV HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1345.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",SPORTV HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/838.ts
@@ -3724,7 +3724,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1178.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1361.ts
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",TLC HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/808.ts
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://s8.postimg.cc/6m4jwn5z9/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.jpg" group-title="Variedades",TLC HD
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://s8.postimg.cc/6m4jwn5z9/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.jpg"  group-title="Canais Premium 4",TLC HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1359.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",TELECINE TOUCH HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/811.ts
@@ -3740,17 +3740,17 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/817.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/819.ts
 #EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="https://s8.postimg.cc/xwpv4hw0l/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.jpg" group-title="Canais Premium 4",SYFY
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1347.ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SPORTV 3
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg"  group-title="Canais Premium 4",SPORTV 3
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1342.ts
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",SPORTV 2
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg"  group-title="Canais Premium 4",SPORTV 2
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1340.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPECTREMAN" tvg-logo="http://imagem.natelinha.uol.com.br/grande/Spectreman2.jpg" group-title="Canais 24 horas",SPECTREMAN
+#EXTINF:-1 tvg-id="" tvg-name="SPECTREMAN" tvg-logo="http://imagem.natelinha.uol.com.br/grande/Spectreman2.jpg"  group-title="Canais Premium 4",SPECTREMAN
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1339.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="https://s8.postimg.cc/g6o6jesph/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.jpg" group-title="Canais Premium 4",SPACE
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1338.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="https://i.pinimg.com/originals/5e/12/50/5e125039e7283e37a51b52c6cb261aeb.jpg" group-title="Canais 24 horas",SCOOBY DOO
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="https://i.pinimg.com/originals/5e/12/50/5e125039e7283e37a51b52c6cb261aeb.jpg"  group-title="Canais Premium 4",SCOOBY DOO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1334.ts
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PIAU" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT PIAU
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PIAU" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg"  group-title="Canais Premium 4",SBT PIAU
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1332.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="Canais Premium 4",SBT
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1113.ts
@@ -3758,35 +3758,35 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1113.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1179.ts
 #EXTINF:-1 tvg-id="" tvg-name="Retro TV" tvg-logo="" group-title="Canais Premium 4",Retro TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/743.ts
-#EXTINF:-1 tvg-id="RedeTV! Rio" tvg-name="REDETV! RJ" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",REDETV! RJ
+#EXTINF:-1 tvg-id="RedeTV! Rio" tvg-name="REDETV! RJ" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg"  group-title="Canais Premium 4",REDETV! RJ
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1329.ts
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV!" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",REDETV!
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV!" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg"  group-title="Canais Premium 4",REDETV!
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1327.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",TELECINE FUN FHD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/820.ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES HD*
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE CLUBES HD*
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1318.ts
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="https://skyassineonline.com.br/img/channels/lg-162-canal-rede-vida.png" group-title="Religiosos",REDE VIDA
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="https://skyassineonline.com.br/img/channels/lg-162-canal-rede-vida.png"  group-title="Canais Premium 4",REDE VIDA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1326.ts
 #EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="" group-title="Canais Premium 4",REDE SUPER
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1115.ts
 #EXTINF:-1 tvg-id="" tvg-name="REDE S" tvg-logo="" group-title="Canais Premium 4",REDE S
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1114.ts
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Canais abertos",REDE BRASIL SP
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png"  group-title="Canais Premium 4",REDE BRASIL SP
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1325.ts
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL DE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Canais abertos",REDE BRASIL DE
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL DE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png"  group-title="Canais Premium 4",REDE BRASIL DE
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1324.ts
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Canais abertos",REDE BRASIL
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png"  group-title="Canais Premium 4",REDE BRASIL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1323.ts
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD TV" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",RECORD TV
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD TV" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg"  group-title="Canais Premium 4",RECORD TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1321.ts
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Noticias",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg"  group-title="Canais Premium 4",RECORD NEWS
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1320.ts
 #EXTINF:-1 tvg-id="" tvg-name="RADIO 105" tvg-logo="" group-title="Canais Premium 4",RADIO 105
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1146.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 7
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1312.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg"  group-title="Canais Premium 4",PREMIERE 6
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1310.ts
 #EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="https://s8.postimg.cc/xwpv4hw0l/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.jpg" group-title="Canais Premium 4",SYFY HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1348.ts
@@ -3870,45 +3870,45 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/873.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/790.ts
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="" group-title="Canais Premium 4",TERRA VIVA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1112.ts
-#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS" tvg-logo="https://www.eaglepatches.com.br/wp-content/uploads/2017/10/Patch-Bordado-Thundercats.jpg" group-title="Canais 24 horas",THUNDERCATS
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS" tvg-logo="https://www.eaglepatches.com.br/wp-content/uploads/2017/10/Patch-Bordado-Thundercats.jpg"  group-title="Canais Premium 4",THUNDERCATS
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1358.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Canais Premium 4",TNT
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1360.ts
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="https://s8.postimg.cc/5wlrkasl1/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.jpg" group-title="Infantis",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="https://s8.postimg.cc/5wlrkasl1/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.jpg"  group-title="Canais Premium 4",TOONCAST
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1363.ts
 #EXTINF:-1 tvg-id="" tvg-name="Top TV" tvg-logo="" group-title="Canais Premium 4",Top TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1111.ts
-#EXTINF:-1 tvg-id="TV Baiana" tvg-name="TV BAIANA" tvg-logo="http://www.tvb15.com.br/baiana.jpg" group-title="Canais abertos",TV BAIANA
+#EXTINF:-1 tvg-id="TV Baiana" tvg-name="TV BAIANA" tvg-logo="http://www.tvb15.com.br/baiana.jpg"  group-title="Canais Premium 4",TV BAIANA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1364.ts
-#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/f/4/csm_7016-1071_import_6ee62147a9.png" group-title="Canais abertos",TV BRASIL
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/f/4/csm_7016-1071_import_6ee62147a9.png"  group-title="Canais Premium 4",TV BRASIL
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1365.ts
-#EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA" tvg-logo="https://s8.postimg.cc/impzxc339/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.jpg" group-title="Canais abertos",TV CULTURA
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA" tvg-logo="https://s8.postimg.cc/impzxc339/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.jpg"  group-title="Canais Premium 4",TV CULTURA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1366.ts
-#EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA MG" tvg-logo="https://s8.postimg.cc/impzxc339/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.jpg" group-title="Canais abertos",TV CULTURA MG
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA MG" tvg-logo="https://s8.postimg.cc/impzxc339/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.jpg"  group-title="Canais Premium 4",TV CULTURA MG
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1367.ts
-#EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA PE" tvg-logo="https://s8.postimg.cc/impzxc339/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.jpg" group-title="Canais abertos",TV CULTURA PE
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA PE" tvg-logo="https://s8.postimg.cc/impzxc339/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.jpg"  group-title="Canais Premium 4",TV CULTURA PE
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1368.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="" group-title="Canais Premium 4",TV ESCOLA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1108.ts
-#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR" tvg-logo="https://s8.postimg.cc/3s1ej8tj9/1516362927_6189ab17aaf41e4f6160a9cec906a0adabca9405.jpg" group-title="Religiosos",TV EVANGELIZAR
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR" tvg-logo="https://s8.postimg.cc/3s1ej8tj9/1516362927_6189ab17aaf41e4f6160a9cec906a0adabca9405.jpg"  group-title="Canais Premium 4",TV EVANGELIZAR
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1369.ts
-#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA" tvg-logo="http://www.gazetaam.com/wp-content/uploads/2017/01/TV-Gazeta.jpg" group-title="Canais abertos",TV GAZETA
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA" tvg-logo="http://www.gazetaam.com/wp-content/uploads/2017/01/TV-Gazeta.jpg"  group-title="Canais Premium 4",TV GAZETA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1371.ts
-#EXTINF:-1 tvg-id="TV Vitória" tvg-name="TV VITORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="Canais abertos",TV VITORIA
+#EXTINF:-1 tvg-id="TV Vitória" tvg-name="TV VITORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png"  group-title="Canais Premium 4",TV VITORIA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1372.ts
-#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN" tvg-logo="https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/ea2b48d0-a506-48a1-97d2-bfbe2a62276e.jpg" group-title="Canais 24 horas",ULTRAMAN
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN" tvg-logo="https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/ea2b48d0-a506-48a1-97d2-bfbe2a62276e.jpg"  group-title="Canais Premium 4",ULTRAMAN
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1373.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="" group-title="Canais Premium 4",UNIVERSAL CHANNEL SD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/791.ts
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://s8.postimg.cc/nnxdy8kp1/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.jpg" group-title="Canais Premium 4",UNIVERSAL CHANNEL HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1375.ts
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="https://ogimg.infoglobo.com.br/in/17173152-b55-439/FT1086A/420/xfreshprince.jpg.pagespeed.ic.DIkSHw3ND_.jpg" group-title="Canais 24 horas",UM MALUCO NO PEDAÇO
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="https://ogimg.infoglobo.com.br/in/17173152-b55-439/FT1086A/420/xfreshprince.jpg.pagespeed.ic.DIkSHw3ND_.jpg"  group-title="Canais Premium 4",UM MALUCO NO PEDAÇO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1374.ts
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH" tvg-logo="https://s8.postimg.cc/4hk6vj9hh/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Canais Premium 4",TELECINE TOUCH
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1357.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2017/01/cropped-logo-rede-familia-1.png" group-title="Religiosos",REDE FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2017/01/cropped-logo-rede-familia-1.png"  group-title="Canais Premium 4",REDE FAMILIA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1484.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="Religiosos",TV GIDEOES
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png"  group-title="Canais Premium 4",TV GIDEOES
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1483.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="" group-title="Canais Premium 4",VH1 SD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/789.ts
@@ -3918,7 +3918,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/788.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/787.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIVA HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",VIVA HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/786.ts
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="https://s8.postimg.cc/yar73ofzp/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.jpg" group-title="Variedades",VIVA
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="https://s8.postimg.cc/yar73ofzp/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.jpg"  group-title="Canais Premium 4",VIVA
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1377.ts
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL SD" tvg-logo="" group-title="Canais Premium 4",WARNER CHANNEL SD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/785.ts
@@ -3926,7 +3926,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/785.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/783.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO SD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",ZOOMOO SD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/781.ts
-#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO HD" tvg-logo="https://s8.postimg.cc/ip9vjqr6t/1516364766_7234ec7b71476b4b3b9d88c69f6cc7a3a3585f04.jpg" group-title="Infantis",ZOOMOO HD
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO HD" tvg-logo="https://s8.postimg.cc/ip9vjqr6t/1516364766_7234ec7b71476b4b3b9d88c69f6cc7a3a3585f04.jpg"  group-title="Canais Premium 4",ZOOMOO HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1379.ts
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",WARNER CHANNEL HD ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/784.ts
@@ -3936,7 +3936,7 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/782.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/780.ts
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://s8.postimg.cc/xxzsxi5fp/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Canais Premium 4",WARNER CHANNEL FHD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1378.ts
-#EXTINF:-1 tvg-id="" tvg-name="VEM E VE TV" tvg-logo="http://2.bp.blogspot.com/-jyLK6YsEJQI/UoE9-n2glzI/AAAAAAAAAgU/_2jmeq4V_gw/s1600/bt_vvtv.jpg" group-title="Religiosos",VEM E VE TV
+#EXTINF:-1 tvg-id="" tvg-name="VEM E VE TV" tvg-logo="http://2.bp.blogspot.com/-jyLK6YsEJQI/UoE9-n2glzI/AAAAAAAAAgU/_2jmeq4V_gw/s1600/bt_vvtv.jpg"  group-title="Canais Premium 4",VEM E VE TV
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1482.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 ALTERNATIVO" tvg-logo="" group-title="Canais Premium 4",PREMIERE 5 ALTERNATIVO
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1502.ts
@@ -3952,13 +3952,13 @@ http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1199.ts
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1276.ts
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD" tvg-logo="" group-title="Canais Premium 4",PLAYBOY HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1300.ts
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="SEXTREME" tvg-logo="http://guiademarcas.globosat.com.br/arq/sex_fundo_claro.jpg" group-title="Adultos +18",SEXTREME
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="SEXTREME" tvg-logo="http://guiademarcas.globosat.com.br/arq/sex_fundo_claro.jpg"  group-title="Canais Premium 4",SEXTREME
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1335.ts
-#EXTINF:-1 tvg-id="SexyHot" tvg-name="SEXY HOT" tvg-logo="http://assine.globo.com/estaticos/a_stick_sexyhot.jpg" group-title="Adultos +18",SEXY HOT
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="SEXY HOT" tvg-logo="http://assine.globo.com/estaticos/a_stick_sexyhot.jpg"  group-title="Canais Premium 4",SEXY HOT
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1336.ts
-#EXTINF:-1 tvg-id="" tvg-name="VISIT-X TV  18" tvg-logo="https://www.parsatv.com/index_files/channels/visitxtv.jpg" group-title="Adultos +18",VISIT-X TV  18
+#EXTINF:-1 tvg-id="" tvg-name="VISIT-X TV  18" tvg-logo="https://www.parsatv.com/index_files/channels/visitxtv.jpg"  group-title="Canais Premium 4",VISIT-X TV  18
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1376.ts
-#EXTINF:-1 tvg-id="" tvg-name="26 HD" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/04/Canal-26.jpg" group-title="Internacionais",26 HD
+#EXTINF:-1 tvg-id="" tvg-name="26 HD" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/04/Canal-26.jpg"  group-title="Canais Premium 4",26 HD
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/1120.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="Canais Premium 4",PT: FOX LIFE
 http://flix-iptv.com:8080/live/ZCB6rSEJ3m/ak77YSZbBW/677.ts
