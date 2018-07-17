@@ -3394,1129 +3394,578 @@ http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2148.ts?token=SUZYUxZQRwJG
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais Premium 3" ,TELECINE CULT
 http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1743.ts
 --------- Canais Premium 4 --------------------
-
 #EXTM3U
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="A&E SD" tvg-logo="https://vignette.wikia.nocookie.net/world-of-media/images/7/7e/A%26E_Network_2004.png/revision/latest?cb=20140106001118" group-title="Canais Premium 4",A&E SD
+http://mxq.ddns.net:25461/live/mxq/mxq/283.ts
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="A&E HD" tvg-logo="https://vignette.wikia.nocookie.net/world-of-media/images/7/7e/A%26E_Network_2004.png/revision/latest?cb=20140106001118" group-title="Canais Premium 4",A&E HD
+http://mxq.ddns.net:25461/live/mxq/mxq/281.ts
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="A&E HD*" tvg-logo="https://vignette.wikia.nocookie.net/world-of-media/images/7/7e/A%26E_Network_2004.png/revision/latest?cb=20140106001118" group-title="Canais Premium 4",A&E HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/280.ts
+#EXTINF:-1 tvg-id="Agro Brasil (BR)" tvg-name="AGRO BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Canais Premium 4",AGRO BRASIL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/292.ts
+#EXTINF:-1 tvg-id="AMC (BR)" tvg-name="AMC SD" tvg-logo="https://vignette.wikia.nocookie.net/milgreen/images/d/d1/AMC_Logo.png/revision/latest?cb=20121014021933" group-title="Canais Premium 4",AMC SD
+http://mxq.ddns.net:25461/live/mxq/mxq/278.ts
+#EXTINF:-1 tvg-id="AMC (BR)" tvg-name="AMC HD" tvg-logo="https://vignette.wikia.nocookie.net/milgreen/images/d/d1/AMC_Logo.png/revision/latest?cb=20121014021933" group-title="Canais Premium 4",AMC HD
+http://mxq.ddns.net:25461/live/mxq/mxq/276.ts
+#EXTINF:-1 tvg-id="AMC (BR)" tvg-name="AMC HD*" tvg-logo="https://vignette.wikia.nocookie.net/milgreen/images/d/d1/AMC_Logo.png/revision/latest?cb=20121014021933" group-title="Canais Premium 4",AMC HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/275.ts
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais Premium 4",ANIMAL PLANET SD
+http://mxq.ddns.net:25461/live/mxq/mxq/274.ts
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais Premium 4",ANIMAL PLANET HD
+http://mxq.ddns.net:25461/live/mxq/mxq/272.ts
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais Premium 4",ANIMAL PLANET HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/271.ts
+#EXTINF:-1 tvg-id="AXN (BR)" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Canais Premium 4",AXN SD
+http://mxq.ddns.net:25461/live/mxq/mxq/270.ts
+#EXTINF:-1 tvg-id="AXN (BR)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Canais Premium 4",AXN HD
+http://mxq.ddns.net:25461/live/mxq/mxq/268.ts
+#EXTINF:-1 tvg-id="AXN (BR)" tvg-name="AXN HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Canais Premium 4",AXN HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/267.ts
+#EXTINF:-1 tvg-id="Arte 1 (BR)" tvg-name="ARTE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2000px-Arte_1_logo.svg.png" group-title="Canais Premium 4",ARTE 1 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/294.ts
+#EXTINF:-1 tvg-id="Baby TV (BR)" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Canais Premium 4",BABY TV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/266.ts
+#EXTINF:-1 tvg-id="Band (BR)" tvg-name="BAND SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais Premium 4",BAND SD
+http://mxq.ddns.net:25461/live/mxq/mxq/264.ts
+#EXTINF:-1 tvg-id="Band (BR)" tvg-name="BAND HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais Premium 4",BAND HD
+http://mxq.ddns.net:25461/live/mxq/mxq/262.ts
+#EXTINF:-1 tvg-id="Band News (BR)" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais Premium 4",BAND NEWS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/261.ts
+#EXTINF:-1 tvg-id="Band News (BR)" tvg-name="BAND NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais Premium 4",BAND NEWS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/259.ts
+#EXTINF:-1 tvg-id="Band News (BR)" tvg-name="BAND NEWS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais Premium 4",BAND NEWS HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/258.ts
+#EXTINF:-1 tvg-id="Band Sports (BR)" tvg-name="BAND SPORTS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Canais Premium 4",BAND SPORTS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/257.ts
+#EXTINF:-1 tvg-id="Band Sports (BR)" tvg-name="BAND SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Canais Premium 4",BAND SPORTS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/255.ts
+#EXTINF:-1 tvg-id="Band Sports (BR)" tvg-name="BAND SPORTS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Canais Premium 4",BAND SPORTS HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/254.ts
+#EXTINF:-1 tvg-id="BIS (BR)" tvg-name="BIS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Canais Premium 4",BIS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/253.ts
+#EXTINF:-1 tvg-id="BIS (BR)" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Canais Premium 4",BIS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/251.ts
+#EXTINF:-1 tvg-id="BIS (BR)" tvg-name="BIS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Canais Premium 4",BIS HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/250.ts
+#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="BOOMERANG SD" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="Canais Premium 4",BOOMERANG SD
+http://mxq.ddns.net:25461/live/mxq/mxq/249.ts
+#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="BOOMERANG HD" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="Canais Premium 4",BOOMERANG HD
+http://mxq.ddns.net:25461/live/mxq/mxq/247.ts
+#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="BOOMERANG HD*" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="Canais Premium 4",BOOMERANG HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/246.ts
+#EXTINF:-1 tvg-id="Canal Brasil (BR)" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="Canais Premium 4",CANAL BRASIL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais Premium 4",CANAL DO BOI SD
+http://mxq.ddns.net:25461/live/mxq/mxq/245.ts
+#EXTINF:-1 tvg-id="Canal Rural (BR)" tvg-name="CANAL RURAL SD" tvg-logo="http://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3-1024x637.png" group-title="Canais Premium 4",CANAL RURAL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/242.ts
+#EXTINF:-1 tvg-id="Sony (BR)" tvg-name="CANAL SONY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/2000px-Canal_Sony_HD_logo.svg.png" group-title="Canais Premium 4",CANAL SONY SD
+http://mxq.ddns.net:25461/live/mxq/mxq/241.ts
+#EXTINF:-1 tvg-id="Sony (BR)" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/2000px-Canal_Sony_HD_logo.svg.png" group-title="Canais Premium 4",CANAL SONY HD
+http://mxq.ddns.net:25461/live/mxq/mxq/239.ts
+#EXTINF:-1 tvg-id="Sony (BR)" tvg-name="CANAL SONY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/2000px-Canal_Sony_HD_logo.svg.png" group-title="Canais Premium 4",CANAL SONY HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/238.ts
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="CARTOON NETWORK SD" tvg-logo="http://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="Canais Premium 4",CARTOON NETWORK SD
+http://mxq.ddns.net:25461/live/mxq/mxq/237.ts
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="CARTOON NETWORK HD" tvg-logo="http://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="Canais Premium 4",CARTOON NETWORK HD
+http://mxq.ddns.net:25461/live/mxq/mxq/236.ts
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="CARTOON NETWORK HD*" tvg-logo="http://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="Canais Premium 4",CARTOON NETWORK HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY SD" tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais Premium 4",CINE SKY SD
+http://mxq.ddns.net:25461/live/mxq/mxq/234.ts
+#EXTINF:-1 tvg-id="Cinemax (BR)" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Canais Premium 4",CINEMAX SD
+http://mxq.ddns.net:25461/live/mxq/mxq/233.ts
+#EXTINF:-1 tvg-id="Cinemax (BR)" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Canais Premium 4",CINEMAX HD
+http://mxq.ddns.net:25461/live/mxq/mxq/231.ts
+#EXTINF:-1 tvg-id="Cinemax (BR)" tvg-name="CINEMAX HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Canais Premium 4",CINEMAX HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="Canais Premium 4",CLASSIQUE TV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/229.ts
+#EXTINF:-1 tvg-id="Comedy Central (BR)" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/2000px-Comedy_Central_2011_Logo.svg.png" group-title="Canais Premium 4",COMEDY CENTRAL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/224.ts
+#EXTINF:-1 tvg-id="Comedy Central (BR)" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/2000px-Comedy_Central_2011_Logo.svg.png" group-title="Canais Premium 4",COMEDY CENTRAL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/222.ts
+#EXTINF:-1 tvg-id="Comedy Central (BR)" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/2000px-Comedy_Central_2011_Logo.svg.png" group-title="Canais Premium 4",COMEDY CENTRAL HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/221.ts
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="COMBATE SD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais Premium 4",COMBATE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/228.ts
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="COMBATE HD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais Premium 4",COMBATE HD
+http://mxq.ddns.net:25461/live/mxq/mxq/226.ts
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="COMBATE HD*" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais Premium 4",COMBATE HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/225.ts
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Discovery_Channel_claro-tv-.png" group-title="Canais Premium 4",DISCOVERY CHANNEL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/220.ts
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Discovery_Channel_claro-tv-.png" group-title="Canais Premium 4",DISCOVERY CHANNEL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/219.ts
+#EXTINF:-1 tvg-id="Discovery Civilization (BR)" tvg-name="DISCOVERY CIVILIZATION SD" tvg-logo="https://3.bp.blogspot.com/-G3JxPMhAjN4/WVr-tXqHkSI/AAAAAAAABUU/LUeSpwsY7mQ4WjJ8DSKc-8SK9rIHg9OWgCLcBGAs/s1600/logo_discovery%2Bcivilization.png" group-title="Canais Premium 4",DISCOVERY CIVILIZATION SD
+http://mxq.ddns.net:25461/live/mxq/mxq/217.ts
+#EXTINF:-1 tvg-id="Discovery Civilization (BR)" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://3.bp.blogspot.com/-G3JxPMhAjN4/WVr-tXqHkSI/AAAAAAAABUU/LUeSpwsY7mQ4WjJ8DSKc-8SK9rIHg9OWgCLcBGAs/s1600/logo_discovery%2Bcivilization.png" group-title="Canais Premium 4",DISCOVERY CIVILIZATION HD
+http://mxq.ddns.net:25461/live/mxq/mxq/216.ts
+#EXTINF:-1 tvg-id="Discovery HeH (BR)" tvg-name="DISCOVERY H&H SD" tvg-logo="http://primetv.dlinkddns.com:25462/live/extratv/Uz9pV8JTlP/220.ts" group-title="Canais Premium 4",DISCOVERY H&H SD
+http://mxq.ddns.net:25461/live/mxq/mxq/215.ts
+#EXTINF:-1 tvg-id="Discovery HeH (BR)" tvg-name="DISCOVERY H&H HD" tvg-logo="http://primetv.dlinkddns.com:25462/live/extratv/Uz9pV8JTlP/220.ts" group-title="Canais Premium 4",DISCOVERY H&H HD
+http://mxq.ddns.net:25461/live/mxq/mxq/214.ts
+#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Canais Premium 4",DISCOVERY KIDS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/213.ts
+#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Canais Premium 4",DISCOVERY KIDS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/212.ts
+#EXTINF:-1 tvg-id="Discovery Science (BR)" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Canais Premium 4",DISCOVERY SCIENCE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/218.ts
+#EXTINF:-1 tvg-id="Discovery Science (BR)" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Canais Premium 4",DISCOVERY SCIENCE HD
+http://mxq.ddns.net:25461/live/mxq/mxq/211.ts
+#EXTINF:-1 tvg-id="Discovery Theater (BR)" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png" group-title="Canais Premium 4",DISCOVERY THEATER SD
+http://mxq.ddns.net:25461/live/mxq/mxq/210.ts
+#EXTINF:-1 tvg-id="Discovery Theater (BR)" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png" group-title="Canais Premium 4",DISCOVERY THEATER HD
+http://mxq.ddns.net:25461/live/mxq/mxq/209.ts
+#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Canais Premium 4",DISCOVERY TURBO SD
+http://mxq.ddns.net:25461/live/mxq/mxq/208.ts
+#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Canais Premium 4",DISCOVERY TURBO HD
+http://mxq.ddns.net:25461/live/mxq/mxq/207.ts
+#EXTINF:-1 tvg-id="Discovery World (BR)" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Canais Premium 4",DISCOVERY WORLD SD
+http://mxq.ddns.net:25461/live/mxq/mxq/206.ts
+#EXTINF:-1 tvg-id="Discovery World (BR)" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Canais Premium 4",DISCOVERY WORLD HD
+http://mxq.ddns.net:25461/live/mxq/mxq/205.ts
+#EXTINF:-1 tvg-id="Disney (BR)" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://www.tioorlando.com.br/wp-content/uploads/2014/07/Disney-Channel.png" group-title="Canais Premium 4",DISNEY CHANNEL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/204.ts
+#EXTINF:-1 tvg-id="Disney (BR)" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.tioorlando.com.br/wp-content/uploads/2014/07/Disney-Channel.png" group-title="Canais Premium 4",DISNEY CHANNEL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/203.ts
+#EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="Canais Premium 4",DISNEY JUNIOR SD
+http://mxq.ddns.net:25461/live/mxq/mxq/202.ts
+#EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="Canais Premium 4",DISNEY JUNIOR HD
+http://mxq.ddns.net:25461/live/mxq/mxq/201.ts
+#EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="DISNEY XD SD" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/Disney-XD-1504.jpg" group-title="Canais Premium 4",DISNEY XD SD
+http://mxq.ddns.net:25461/live/mxq/mxq/200.ts
+#EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="DISNEY XD HD" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/Disney-XD-1504.jpg" group-title="Canais Premium 4",DISNEY XD HD
+http://mxq.ddns.net:25461/live/mxq/mxq/199.ts
+#EXTINF:-1 tvg-id="E! (BR)" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Canais Premium 4",E! SD
+http://mxq.ddns.net:25461/live/mxq/mxq/198.ts
+#EXTINF:-1 tvg-id="E! (BR)" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Canais Premium 4",E! HD
+http://mxq.ddns.net:25461/live/mxq/mxq/197.ts
+#EXTINF:-1 tvg-id="Esporte Interativo (BR)" tvg-name="EI MAXX SD" tvg-logo="https://2.bp.blogspot.com/-tO_X2jKJ30k/VdNEYm8BWqI/AAAAAAAAcBw/vyV0Cu_SBM8/s1600/Eimaxx-logo.png" group-title="Canais Premium 4",EI MAXX SD
+http://mxq.ddns.net:25461/live/mxq/mxq/196.ts
+#EXTINF:-1 tvg-id="Esporte Interativo (BR)" tvg-name="EI MAXX HD" tvg-logo="https://2.bp.blogspot.com/-tO_X2jKJ30k/VdNEYm8BWqI/AAAAAAAAcBw/vyV0Cu_SBM8/s1600/Eimaxx-logo.png" group-title="Canais Premium 4",EI MAXX HD
+http://mxq.ddns.net:25461/live/mxq/mxq/195.ts
+#EXTINF:-1 tvg-id="EI Maxx 2 (BR)" tvg-name="EI MAXX 2 SD" tvg-logo="https://2.bp.blogspot.com/-tO_X2jKJ30k/VdNEYm8BWqI/AAAAAAAAcBw/vyV0Cu_SBM8/s1600/Eimaxx-logo.png" group-title="Canais Premium 4",EI MAXX 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/194.ts
+#EXTINF:-1 tvg-id="Esporte Interativo 2 (BR)" tvg-name="EI MAXX 2 HD" tvg-logo="https://2.bp.blogspot.com/-tO_X2jKJ30k/VdNEYm8BWqI/AAAAAAAAcBw/vyV0Cu_SBM8/s1600/Eimaxx-logo.png" group-title="Canais Premium 4",EI MAXX 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/193.ts
+#EXTINF:-1 tvg-id="ESPN (BR)" tvg-name="ESPN SD" tvg-logo="https://viaembratelce.files.wordpress.com/2011/04/logo_espn1255b1255d.png" group-title="Canais Premium 4",ESPN SD
+http://mxq.ddns.net:25461/live/mxq/mxq/192.ts
+#EXTINF:-1 tvg-id="ESPN (BR)" tvg-name="ESPN HD" tvg-logo="https://viaembratelce.files.wordpress.com/2011/04/logo_espn1255b1255d.png" group-title="Canais Premium 4",ESPN HD
+http://mxq.ddns.net:25461/live/mxq/mxq/191.ts
+#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais Premium 4",ESPN BRASIL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/190.ts
+#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais Premium 4",ESPN BRASIL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/189.ts
+#EXTINF:-1 tvg-id="Esporte Interativo (BR)" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" group-title="Canais Premium 4",ESPORTE INTERATIVO HD
+http://mxq.ddns.net:25461/live/mxq/mxq/187.ts
+#EXTINF:-1 tvg-id="Esporte Interativo 2 (BR)" tvg-name="ESPORTE INTRATIVO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" group-title="Canais Premium 4",ESPORTE INTRATIVO 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/185.ts
+#EXTINF:-1 tvg-id="Esporte Interativo (BR)" tvg-name="ESPORTE INTERATIVO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" group-title="Canais Premium 4",ESPORTE INTERATIVO SD
+http://mxq.ddns.net:25461/live/mxq/mxq/188.ts
+#EXTINF:-1 tvg-id="Esporte Interativo 2 (BR)" tvg-name="ESPORTE INTERATIVO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" group-title="Canais Premium 4",ESPORTE INTERATIVO 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/186.ts
+#EXTINF:-1 tvg-id="Fish TV (BR)" tvg-name="FISH TV SD" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="Canais Premium 4",FISH TV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/184.ts
+#EXTINF:-1 tvg-id="Food Network (BR)" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/FOOD_BrandLogo_Gradient_US_master.png" group-title="Canais Premium 4",FOOD NETWORK SD
+http://mxq.ddns.net:25461/live/mxq/mxq/183.ts
+#EXTINF:-1 tvg-id="Food Network (BR)" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/FOOD_BrandLogo_Gradient_US_master.png" group-title="Canais Premium 4",FOOD NETWORK HD
+http://mxq.ddns.net:25461/live/mxq/mxq/182.ts
+#EXTINF:-1 tvg-id="Fox (BR)" tvg-name="FOX SD" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2016/02/15/Fox.png" group-title="Canais Premium 4",FOX SD
+http://mxq.ddns.net:25461/live/mxq/mxq/181.ts
+#EXTINF:-1 tvg-id="Fox (BR)" tvg-name="FOX HD" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2016/02/15/Fox.png" group-title="Canais Premium 4",FOX HD
+http://mxq.ddns.net:25461/live/mxq/mxq/180.ts
+#EXTINF:-1 tvg-id="Fox Life (BR)" tvg-name="FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Canais Premium 4",FOX LIFE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/179.ts
+#EXTINF:-1 tvg-id="Fox Life (BR)" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Canais Premium 4",FOX LIFE HD
+http://mxq.ddns.net:25461/live/mxq/mxq/178.ts
+#EXTINF:-1 tvg-id="Fox Premium 1 (BR)" tvg-name="FOX PREMIUM SD" tvg-logo="https://1.bp.blogspot.com/-V_6TR4mLNW4/Wrk378enD2I/AAAAAAAAxDM/qQrFpbOEN4IHgrxGW7sEQFuCXuI5eRvkgCLcBGAs/s1600/logo-fox-premium.png" group-title="Canais Premium 4",FOX PREMIUM SD
+http://mxq.ddns.net:25461/live/mxq/mxq/177.ts
+#EXTINF:-1 tvg-id="Fox Premium 1 (BR)" tvg-name="FOX PREMIUM HD" tvg-logo="https://1.bp.blogspot.com/-V_6TR4mLNW4/Wrk378enD2I/AAAAAAAAxDM/qQrFpbOEN4IHgrxGW7sEQFuCXuI5eRvkgCLcBGAs/s1600/logo-fox-premium.png" group-title="Canais Premium 4",FOX PREMIUM HD
+http://mxq.ddns.net:25461/live/mxq/mxq/176.ts
+#EXTINF:-1 tvg-id="Fox Premium 2 (BR)" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://3.bp.blogspot.com/-4kFua0_LmBQ/WjWHFt-XmeI/AAAAAAAAArA/ODlkDc0n_F4rF_H5OZL390eZKv7r-iEnQCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-2-online.png" group-title="Canais Premium 4",FOX PREMIUM 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/175.ts
+#EXTINF:-1 tvg-id="Fox Premium 2 (BR)" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://3.bp.blogspot.com/-4kFua0_LmBQ/WjWHFt-XmeI/AAAAAAAAArA/ODlkDc0n_F4rF_H5OZL390eZKv7r-iEnQCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-2-online.png" group-title="Canais Premium 4",FOX PREMIUM 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/174.ts
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="FOX SPORTS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png/revision/latest?cb=20160412195037" group-title="Canais Premium 4",FOX SPORTS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/172.ts
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="FOX SPORTS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png/revision/latest?cb=20160412195037" group-title="Canais Premium 4",FOX SPORTS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/173.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 (BR)" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://4.bp.blogspot.com/-DHjsisdX_hw/WmCRC-GHcHI/AAAAAAAAAyI/VB2A9gPetWcb1TzHAHyu27cSAsGzzW80QCLcBGAs/s1600/fox-sports-2.jpg" group-title="Canais Premium 4",FOX SPORTS 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/171.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 (BR)" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://4.bp.blogspot.com/-DHjsisdX_hw/WmCRC-GHcHI/AAAAAAAAAyI/VB2A9gPetWcb1TzHAHyu27cSAsGzzW80QCLcBGAs/s1600/fox-sports-2.jpg" group-title="Canais Premium 4",FOX SPORTS 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/170.ts
+#EXTINF:-1 tvg-id="FX (BR)" tvg-name="FX SD" tvg-logo="https://www.torredevigilancia.com/wp-content/uploads/2017/06/fx-logo.png" group-title="Canais Premium 4",FX SD
+http://mxq.ddns.net:25461/live/mxq/mxq/167.ts
+#EXTINF:-1 tvg-id="FX (BR)" tvg-name="FX HD" tvg-logo="https://www.torredevigilancia.com/wp-content/uploads/2017/06/fx-logo.png" group-title="Canais Premium 4",FX HD
+http://mxq.ddns.net:25461/live/mxq/mxq/166.ts
+#EXTINF:-1 tvg-id="Futura (BR)" tvg-name="FUTURA SD" tvg-logo="http://janelasdeinovacao.org.br/img/logo_canal_futura.png" group-title="Canais Premium 4",FUTURA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/169.ts
+#EXTINF:-1 tvg-id="Futura (BR)" tvg-name="FUTURA HD" tvg-logo="http://janelasdeinovacao.org.br/img/logo_canal_futura.png" group-title="Canais Premium 4",FUTURA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/168.ts
+#EXTINF:-1 tvg-id="TV Anhanguera (BR)" tvg-name="GLOBO ANHANGUERA FULL HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO ANHANGUERA FULL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO BELEM SD
+http://mxq.ddns.net:25461/live/mxq/mxq/144.ts
+#EXTINF:-1 tvg-id="Globo DF (BR)" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO BRASÍLIA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/163.ts
+#EXTINF:-1 tvg-id="Globo DF (BR)" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO BRASÍLIA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/164.ts
+#EXTINF:-1 tvg-id="EPTV Campinas (BR)" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO EPTV CAMPINAS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/162.ts
+#EXTINF:-1 tvg-id="EPTV Campinas (BR)" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO EPTV CAMPINAS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/161.ts
+#EXTINF:-1 tvg-id="Globo MG (BR)" tvg-name="GLOBO MG SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO MG SD
+http://mxq.ddns.net:25461/live/mxq/mxq/160.ts
+#EXTINF:-1 tvg-id="Globo MG (BR)" tvg-name="GLOBO MG HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO MG HD
+http://mxq.ddns.net:25461/live/mxq/mxq/159.ts
+#EXTINF:-1 tvg-id="Globo News (BR)" tvg-name="GLOBO NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais Premium 4",GLOBO NEWS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/158.ts
+#EXTINF:-1 tvg-id="Globo News (BR)" tvg-name="GLOBO NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais Premium 4",GLOBO NEWS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/157.ts
+#EXTINF:-1 tvg-id="Globo Nordeste (BR)" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO NORDESTE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/156.ts
+#EXTINF:-1 tvg-id="Globo Nordeste (BR)" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO NORDESTE HD
+http://mxq.ddns.net:25461/live/mxq/mxq/155.ts
+#EXTINF:-1 tvg-id="Globo RS (BR)" tvg-name="GLOBO  PORTO ALEGRE SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO  PORTO ALEGRE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/154.ts
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="GLOBO RJ SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO RJ SD
+http://mxq.ddns.net:25461/live/mxq/mxq/152.ts
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="GLOBO RJ HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO RJ HD
+http://mxq.ddns.net:25461/live/mxq/mxq/151.ts
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="GLOBO RJ HD*" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO RJ HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO RPC CURITIBA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/148.ts
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="GLOBO SP SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO SP SD
+http://mxq.ddns.net:25461/live/mxq/mxq/147.ts
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="GLOBO SP HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO SP HD
+http://mxq.ddns.net:25461/live/mxq/mxq/146.ts
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="GLOBO SP HD*" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO SP HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO TV TEM BAURU SD
+http://mxq.ddns.net:25461/live/mxq/mxq/143.ts
+#EXTINF:-1 tvg-id="TV Tribuna Santos (BR)" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/ae/Globo_logo.png" group-title="Canais Premium 4",GLOBO TV TRIBUNA SANTOS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Canais Premium 4",GLOBOSAT SD
+http://mxq.ddns.net:25461/live/mxq/mxq/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Canais Premium 4",GLOBOSAT HD
+http://mxq.ddns.net:25461/live/mxq/mxq/140.ts
+#EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="GLOOB SD" tvg-logo="http://www.semprematerna.com.br/wp-content/uploads/2016/12/logo-topo-2x.png" group-title="Canais Premium 4",GLOOB SD
+http://mxq.ddns.net:25461/live/mxq/mxq/139.ts
+#EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="GLOOB HD" tvg-logo="http://www.semprematerna.com.br/wp-content/uploads/2016/12/logo-topo-2x.png" group-title="Canais Premium 4",GLOOB HD
+http://mxq.ddns.net:25461/live/mxq/mxq/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Canais Premium 4",GNT SD
+http://mxq.ddns.net:25461/live/mxq/mxq/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Canais Premium 4",GNT HD
+http://mxq.ddns.net:25461/live/mxq/mxq/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Canais Premium 4",GNT HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/135.ts
+#EXTINF:-1 tvg-id="H2 (BR)" tvg-name="H2 SD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="Canais Premium 4",H2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/134.ts
+#EXTINF:-1 tvg-id="H2 (BR)" tvg-name="H2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="Canais Premium 4",H2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/133.ts
+#EXTINF:-1 tvg-id="HBO (BR)" tvg-name="HBO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="Canais Premium 4",HBO SD
+http://mxq.ddns.net:25461/live/mxq/mxq/132.ts
+#EXTINF:-1 tvg-id="HBO (BR)" tvg-name="HBO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="Canais Premium 4",HBO HD
+http://mxq.ddns.net:25461/live/mxq/mxq/131.ts
+#EXTINF:-1 tvg-id="HBO 2 (BR)" tvg-name="HBO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais Premium 4",HBO 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/130.ts
+#EXTINF:-1 tvg-id="HBO 2 (BR)" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais Premium 4",HBO 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/129.ts
+#EXTINF:-1 tvg-id="HBO Family (BR)" tvg-name="HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais Premium 4",HBO FAMILY SD
+http://mxq.ddns.net:25461/live/mxq/mxq/128.ts
+#EXTINF:-1 tvg-id="HBO Family (BR)" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais Premium 4",HBO FAMILY HD
+http://mxq.ddns.net:25461/live/mxq/mxq/127.ts
+#EXTINF:-1 tvg-id="HBO Plus (BR)" tvg-name="HBO PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais Premium 4",HBO PLUS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/126.ts
+#EXTINF:-1 tvg-id="HBO Plus (BR)" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais Premium 4",HBO PLUS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/125.ts
+#EXTINF:-1 tvg-id="HBO Signature (BR)" tvg-name="HBO SIGNATURE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Canais Premium 4",HBO SIGNATURE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/124.ts
+#EXTINF:-1 tvg-id="HBO Signature (BR)" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Canais Premium 4",HBO SIGNATURE HD
+http://mxq.ddns.net:25461/live/mxq/mxq/123.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png" group-title="Canais Premium 4",HISTORY CHANNEL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/122.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-name="HISTORY CHANNELL HD." tvg-logo="http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png" group-title="Canais Premium 4",HISTORY CHANNELL HD.
+http://mxq.ddns.net:25461/live/mxq/mxq/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV SD" tvg-logo="http://www.hittv.es/images/logo.png" group-title="Canais Premium 4",HIT TV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/61.ts
+#EXTINF:-1 tvg-id="ID - Investigação Discovery (BR)" tvg-name="INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/121128/ID_LogoSD_Portugese_BB-01.png" group-title="Canais Premium 4",INVESTIGAÇÃO DISCOVERY SD
+http://mxq.ddns.net:25461/live/mxq/mxq/120.ts
+#EXTINF:-1 tvg-id="ID - Investigação Discovery (BR)" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/121128/ID_LogoSD_Portugese_BB-01.png" group-title="Canais Premium 4",INVESTIGAÇÃO DISCOVERY HD
+http://mxq.ddns.net:25461/live/mxq/mxq/119.ts
+#EXTINF:-1 tvg-id="Lifetime (BR)" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/2000px-Lifetime_logo17.svg.png" group-title="Canais Premium 4",LIFETIME SD
+http://mxq.ddns.net:25461/live/mxq/mxq/118.ts
+#EXTINF:-1 tvg-id="Lifetime (BR)" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/2000px-Lifetime_logo17.svg.png" group-title="Canais Premium 4",LIFETIME HD
+http://mxq.ddns.net:25461/live/mxq/mxq/117.ts
+#EXTINF:-1 tvg-id="Max (BR)" tvg-name="MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais Premium 4",MAX SD
+http://mxq.ddns.net:25461/live/mxq/mxq/116.ts
+#EXTINF:-1 tvg-id="Max (BR)" tvg-name="MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais Premium 4",MAX HD
+http://mxq.ddns.net:25461/live/mxq/mxq/115.ts
+#EXTINF:-1 tvg-id="Max Prime (BR)" tvg-name="MAX PRIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais Premium 4",MAX PRIME SD
+http://mxq.ddns.net:25461/live/mxq/mxq/114.ts
+#EXTINF:-1 tvg-id="Max Prime (BR)" tvg-name="MAX PRIME  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais Premium 4",MAX PRIME  HD
+http://mxq.ddns.net:25461/live/mxq/mxq/113.ts
+#EXTINF:-1 tvg-id="MAX Prime*e (BR)" tvg-name="MAX PRIME E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais Premium 4",MAX PRIME E SD
+http://mxq.ddns.net:25461/live/mxq/mxq/112.ts
+#EXTINF:-1 tvg-id="Max Prime (BR)" tvg-name="MAX PRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais Premium 4",MAX PRIME HD
+http://mxq.ddns.net:25461/live/mxq/mxq/111.ts
+#EXTINF:-1 tvg-id="MAX UP (BR)" tvg-name="MAX UP SD" tvg-logo="http://antenaszucco.com.br/wp-content/uploads/MAX_UP.png" group-title="Canais Premium 4",MAX UP SD
+http://mxq.ddns.net:25461/live/mxq/mxq/110.ts
+#EXTINF:-1 tvg-id="MAX UP (BR)" tvg-name="MAX UP HD" tvg-logo="http://antenaszucco.com.br/wp-content/uploads/MAX_UP.png" group-title="Canais Premium 4",MAX UP HD
+http://mxq.ddns.net:25461/live/mxq/mxq/109.ts
+#EXTINF:-1 tvg-id="Megapix (BR)" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Canais Premium 4",MEGAPIX SD
+http://mxq.ddns.net:25461/live/mxq/mxq/108.ts
+#EXTINF:-1 tvg-id="Megapix (BR)" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Canais Premium 4",MEGAPIX HD
+http://mxq.ddns.net:25461/live/mxq/mxq/107.ts
+#EXTINF:-1 tvg-id="MTV (BR)" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="Canais Premium 4",MTV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/106.ts
+#EXTINF:-1 tvg-id="MTV (BR)" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="Canais Premium 4",MTV HD
+http://mxq.ddns.net:25461/live/mxq/mxq/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Canais Premium 4",MULTISHOW SD
+http://mxq.ddns.net:25461/live/mxq/mxq/104.ts
+#EXTINF:-1 tvg-id="Multishow (BR)" tvg-name="MULTISHOW HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Canais Premium 4",MULTISHOW HD
+http://mxq.ddns.net:25461/live/mxq/mxq/103.ts
+#EXTINF:-1 tvg-id="Music Box Brazil (BR)" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="http://boxbrazil.tv.br/wp-content/uploads/2016/11/logo_music01.png" group-title="Canais Premium 4",MUSIC BOX BRASIL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/102.ts
+#EXTINF:-1 tvg-id="NatGeo Kids (BR)" tvg-name="NATGEO KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Canais Premium 4",NATGEO KIDS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/101.ts
+#EXTINF:-1 tvg-id="NatGeo Kids (BR)" tvg-name="NATGEO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Canais Premium 4",NATGEO KIDS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/100.ts
+#EXTINF:-1 tvg-id="National Geographic Wild (BR)" tvg-name="NATGEO WILD SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Canais Premium 4",NATGEO WILD SD
+http://mxq.ddns.net:25461/live/mxq/mxq/99.ts
+#EXTINF:-1 tvg-id="National Geographic Wild (BR)" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Canais Premium 4",NATGEO WILD HD
+http://mxq.ddns.net:25461/live/mxq/mxq/98.ts
+#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo.png" group-title="Canais Premium 4",NATIONAL GEOGRAPHIC SD
+http://mxq.ddns.net:25461/live/mxq/mxq/97.ts
+#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo.png" group-title="Canais Premium 4",NATIONAL GEOGRAPHIC HD
+http://mxq.ddns.net:25461/live/mxq/mxq/96.ts
+#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="NICK JUNIOR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Canais Premium 4",NICK JUNIOR SD
+http://mxq.ddns.net:25461/live/mxq/mxq/95.ts
+#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="NICK JUNIOR  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Canais Premium 4",NICK JUNIOR  HD
+http://mxq.ddns.net:25461/live/mxq/mxq/94.ts
+#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="NICKELODEON SD" tvg-logo="http://1.bp.blogspot.com/-CcI06qG_I_Q/VThI1rnCBbI/AAAAAAAAkSQ/J1t6cqeqchc/s1600/Nickelodeon-logo.png" group-title="Canais Premium 4",NICKELODEON SD
+http://mxq.ddns.net:25461/live/mxq/mxq/93.ts
+#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="NICKELODEON  HD" tvg-logo="http://1.bp.blogspot.com/-CcI06qG_I_Q/VThI1rnCBbI/AAAAAAAAkSQ/J1t6cqeqchc/s1600/Nickelodeon-logo.png" group-title="Canais Premium 4",NICKELODEON  HD
+http://mxq.ddns.net:25461/live/mxq/mxq/92.ts
+#EXTINF:-1 tvg-id="OFF (BR)" tvg-name="OFF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/2000px-Canal_Off_logo.svg.png" group-title="Canais Premium 4",OFF SD
+http://mxq.ddns.net:25461/live/mxq/mxq/91.ts
+#EXTINF:-1 tvg-id="OFF (BR)" tvg-name="OFF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/2000px-Canal_Off_logo.svg.png" group-title="Canais Premium 4",OFF HD
+http://mxq.ddns.net:25461/live/mxq/mxq/90.ts
+#EXTINF:-1 tvg-id="Paramount (BR)" tvg-name="PARAMOUNT SD" tvg-logo="https://4.bp.blogspot.com/-t_fa5KqTm8A/WA4wOhycBgI/AAAAAAAAxiQ/aiDTD6B8yB89OsWCmrqnIqhLrHMnS9SVwCLcB/s640/paramount.png" group-title="Canais Premium 4",PARAMOUNT SD
+http://mxq.ddns.net:25461/live/mxq/mxq/89.ts
+#EXTINF:-1 tvg-id="Paramount (BR)" tvg-name="PARAMOUNT HD" tvg-logo="https://4.bp.blogspot.com/-t_fa5KqTm8A/WA4wOhycBgI/AAAAAAAAxiQ/aiDTD6B8yB89OsWCmrqnIqhLrHMnS9SVwCLcB/s640/paramount.png" group-title="Canais Premium 4",PARAMOUNT HD
+http://mxq.ddns.net:25461/live/mxq/mxq/88.ts
+#EXTINF:-1 tvg-id="Play TV (BR)" tvg-name="PLAY TV SD" tvg-logo="https://rd1.network/uploads/2015/09/322_59B2E7CEF735C84B.png" group-title="Canais Premium 4",PLAY TV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL GOSPEL HD" tvg-logo="https://musica.gospelmais.com.br/files/2016/03/gmais_logo_nice.png" group-title="Canais Premium 4",PORTAL GOSPEL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE CLUBES SD
+http://mxq.ddns.net:25461/live/mxq/mxq/85.ts
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="PREMIERE CLUBES  HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE CLUBES  HD
+http://mxq.ddns.net:25461/live/mxq/mxq/84.ts
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="PREMIERE CLUBES HD*" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE CLUBES HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/83.ts
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="PREMIERE 2 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/82.ts
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="PREMIERE 2 HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/81.ts
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="PREMIERE 3 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 3 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/80.ts
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="PREMIERE 3 HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 3 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/79.ts
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="PREMIERE 4 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 4 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/78.ts
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="PREMIERE 4 HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 4 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/77.ts
+#EXTINF:-1 tvg-id="Premiere 5 (BR)" tvg-name="PREMIERE 5 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 5 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/76.ts
+#EXTINF:-1 tvg-id="Premiere 5 (BR)" tvg-name="PREMIERE 5 HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 5 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/75.ts
+#EXTINF:-1 tvg-id="Premiere 6 (BR)" tvg-name="PREMIERE 6 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 6 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/74.ts
+#EXTINF:-1 tvg-id="Premiere 6 (BR)" tvg-name="PREMIERE 6 HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 6 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/73.ts
+#EXTINF:-1 tvg-id="Premiere 7 (BR)" tvg-name="PREMIERE 7 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 7 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/72.ts
+#EXTINF:-1 tvg-id="Premiere 7 (BR)" tvg-name="PREMIERE 7 HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 7 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/291.ts
+#EXTINF:-1 tvg-id="Premiere 8 (BR)" tvg-name="PREMIERE 8 SD*" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 8 SD*
+http://mxq.ddns.net:25461/live/mxq/mxq/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Canais Premium 4"PREMIERE 9 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/70.ts
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD SD" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/recordo-logo-novo.png" group-title="Canais Premium 4",RECORD SD
+http://mxq.ddns.net:25461/live/mxq/mxq/69.ts
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD HD" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/recordo-logo-novo.png" group-title="Canais Premium 4",RECORD HD
+http://mxq.ddns.net:25461/live/mxq/mxq/68.ts
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="RECORD NEWS SD" tvg-logo="http://www.newsrondonia.com.br/imagensNoticias/image/Logotipo_da_Record_News.png" group-title="Canais Premium 4",RECORD NEWS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/67.ts
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="RECORD NEWS HD" tvg-logo="http://www.newsrondonia.com.br/imagensNoticias/image/Logotipo_da_Record_News.png" group-title="Canais Premium 4",RECORD NEWS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/66.ts
+#EXTINF:-1 tvg-id="Rede TV (BR)" tvg-name="REDE TV SD" tvg-logo="https://www.cartacapital.com.br/blogs/midiatico/rede-tv-e-condenada-a-indenizar-homem-por-201cuso-abusivo-da-imagem201d-3629.html/emissora-exibiu-tres-vezes-a-imagem-do-homem-com-a-vinheta-meu-pai-e-um-monstro/@@images/8623f6e5-58b0-4490-b058-52128758278c.png" group-title="Canais Premium 4",REDE TV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/65.ts
+#EXTINF:-1 tvg-id="Rede TV (BR)" tvg-name="REDE TV HD" tvg-logo="https://www.cartacapital.com.br/blogs/midiatico/rede-tv-e-condenada-a-indenizar-homem-por-201cuso-abusivo-da-imagem201d-3629.html/emissora-exibiu-tres-vezes-a-imagem-do-homem-com-a-vinheta-meu-pai-e-um-monstro/@@images/8623f6e5-58b0-4490-b058-52128758278c.png" group-title="Canais Premium 4",REDE TV HD
+http://mxq.ddns.net:25461/live/mxq/mxq/64.ts
+#EXTINF:-1 tvg-id="Rede Vida (BR)" tvg-name="REDE VIDA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Premium 4",REDE VIDA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/63.ts
+#EXTINF:-1 tvg-id="Rede Vida (BR)" tvg-name="REDE VIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Premium 4",REDE VIDA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/62.ts
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Canais Premium 4",SBT SD
+http://mxq.ddns.net:25461/live/mxq/mxq/60.ts
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Canais Premium 4",SBT HD
+http://mxq.ddns.net:25461/live/mxq/mxq/59.ts
+#EXTINF:-1 tvg-id="Space (BR)" tvg-name="SPACE SD" tvg-logo="http://imoveis.culturamix.com/blog/wp-content/uploads/sites/1/nggallery/canais-de-filmes-da-tv-paga3/canais-de-filmes-da-tv-paga-3.png" group-title="Canais Premium 4",SPACE SD
+http://mxq.ddns.net:25461/live/mxq/mxq/57.ts
+#EXTINF:-1 tvg-id="Space (BR)" tvg-name="SPACE HD" tvg-logo="http://imoveis.culturamix.com/blog/wp-content/uploads/sites/1/nggallery/canais-de-filmes-da-tv-paga3/canais-de-filmes-da-tv-paga-3.png" group-title="Canais Premium 4",SPACE HD
+http://mxq.ddns.net:25461/live/mxq/mxq/56.ts
+#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="SPORTV SD" tvg-logo="https://i1.wp.com/www.bestswim.com.br/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="Canais Premium 4",SPORTV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/55.ts
+#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="SPORTV HD" tvg-logo="https://i1.wp.com/www.bestswim.com.br/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="Canais Premium 4",SPORTV HD
+http://mxq.ddns.net:25461/live/mxq/mxq/54.ts
+#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="SPORTV 2 SD" tvg-logo="http://3.bp.blogspot.com/-nnEamviMDpI/U2Lg5QpFBZI/AAAAAAAAHvE/PgvDS2tIlhk/s1600/sportv2-logo-online-web-24-horas4.png" group-title="Canais Premium 4",SPORTV 2 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/53.ts
+#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="SPORTV 2 HD" tvg-logo="http://3.bp.blogspot.com/-nnEamviMDpI/U2Lg5QpFBZI/AAAAAAAAHvE/PgvDS2tIlhk/s1600/sportv2-logo-online-web-24-horas4.png" group-title="Canais Premium 4",SPORTV 2 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/52.ts
+#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="SPORTV 3 SD" tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="Canais Premium 4",SPORTV 3 SD
+http://mxq.ddns.net:25461/live/mxq/mxq/51.ts
+#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="SPORTV 3 HD" tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="Canais Premium 4",SPORTV 3 HD
+http://mxq.ddns.net:25461/live/mxq/mxq/50.ts
+#EXTINF:-1 tvg-id="Studio Universal (BR)" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png" group-title="Canais Premium 4",STUDIO UNIVERSAL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/49.ts
+#EXTINF:-1 tvg-id="Studio Universal (BR)" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png" group-title="Canais Premium 4",STUDIO UNIVERSAL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/48.ts
+#EXTINF:-1 tvg-id="Syfy (BR)" tvg-name="SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Canais Premium 4",SYFY SD
+http://mxq.ddns.net:25461/live/mxq/mxq/47.ts
+#EXTINF:-1 tvg-id="Syfy (BR)" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Canais Premium 4",SYFY HD
+http://mxq.ddns.net:25461/live/mxq/mxq/46.ts
+#EXTINF:-1 tvg-id="TBS (BR)" tvg-name="TBS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Canais Premium 4",TBS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/45.ts
+#EXTINF:-1 tvg-id="TBS (BR)" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Canais Premium 4",TBS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/44.ts
+#EXTINF:-1 tvg-id="Telecine Action (BR)" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Telecine.svg/1200px-Rede_Telecine.svg.png" group-title="Canais Premium 4",TELECINE ACTION SD
+http://mxq.ddns.net:25461/live/mxq/mxq/41.ts
+#EXTINF:-1 tvg-id="Telecine Action (BR)" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Telecine.svg/1200px-Rede_Telecine.svg.png" group-title="Canais Premium 4",TELECINE ACTION HD
+http://mxq.ddns.net:25461/live/mxq/mxq/40.ts
+#EXTINF:-1 tvg-id="Telecine Cult (BR)" tvg-name="TELECINE CULT SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="Canais Premium 4",TELECINE CULT SD
+http://mxq.ddns.net:25461/live/mxq/mxq/39.ts
+#EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TELECINE CULT HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="Canais Premium 4",TELECINE CULT HD
+http://mxq.ddns.net:25461/live/mxq/mxq/38.ts
+#EXTINF:-1 tvg-id="Telecine Fun (BR)" tvg-name="TELECINE FUN SD" tvg-logo="http://images.mi.tv/channels/br_telecine-fun-hd_m.png" group-title="Canais Premium 4",TELECINE FUN SD
+http://mxq.ddns.net:25461/live/mxq/mxq/37.ts
+#EXTINF:-1 tvg-id="Telecine Fun (BR)" tvg-name="TELECINE FUN HD" tvg-logo="http://images.mi.tv/channels/br_telecine-fun-hd_m.png" group-title="Canais Premium 4",TELECINE FUN HD
+http://mxq.ddns.net:25461/live/mxq/mxq/36.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca (BR)" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png" group-title="Canais Premium 4",TELECINE PIPOCA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/35.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca (BR)" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png" group-title="Canais Premium 4",TELECINE PIPOCA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/34.ts
+#EXTINF:-1 tvg-id="Telecine Premium (BR)" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://4.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7A/q6M0z2CpwRs/s1600/Telecine+(2).png" group-title="Canais Premium 4",TELECINE PREMIUM SD
+http://mxq.ddns.net:25461/live/mxq/mxq/33.ts
+#EXTINF:-1 tvg-id="Telecine Premium (BR)" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://4.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7A/q6M0z2CpwRs/s1600/Telecine+(2).png" group-title="Canais Premium 4",TELECINE PREMIUM HD
+http://mxq.ddns.net:25461/live/mxq/mxq/32.ts
+#EXTINF:-1 tvg-id="Telecine Touch (BR)" tvg-name="TELECINE TOUCH SD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154239-canal-telecine-touch.png" group-title="Canais Premium 4",TELECINE TOUCH SD
+http://mxq.ddns.net:25461/live/mxq/mxq/31.ts
+#EXTINF:-1 tvg-id="Telecine Touch (BR)" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154239-canal-telecine-touch.png" group-title="Canais Premium 4",TELECINE TOUCH HD
+http://mxq.ddns.net:25461/live/mxq/mxq/30.ts
+#EXTINF:-1 tvg-id="TCM (BR)" tvg-name="TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Canais Premium 4",TCM SD
+http://mxq.ddns.net:25461/live/mxq/mxq/43.ts
+#EXTINF:-1 tvg-id="TCM (BR)" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Canais Premium 4",TCM HD
+http://mxq.ddns.net:25461/live/mxq/mxq/42.ts
+#EXTINF:-1 tvg-id="TLC (BR)" tvg-name="TLC SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png" group-title="Canais Premium 4",TLC SD
+http://mxq.ddns.net:25461/live/mxq/mxq/29.ts
+#EXTINF:-1 tvg-id="TLC (BR)" tvg-name="TLC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png" group-title="Canais Premium 4",TLC HD
+http://mxq.ddns.net:25461/live/mxq/mxq/28.ts
+#EXTINF:-1 tvg-id="TNT (BR)" tvg-name="TNT SD" tvg-logo="https://blogdoguinhocesar.files.wordpress.com/2015/10/tnt.png" group-title="Canais Premium 4",TNT SD
+http://mxq.ddns.net:25461/live/mxq/mxq/27.ts
+#EXTINF:-1 tvg-id="TNT (BR)" tvg-name="TNT HD" tvg-logo="https://blogdoguinhocesar.files.wordpress.com/2015/10/tnt.png" group-title="Canais Premium 4",TNT HD
+http://mxq.ddns.net:25461/live/mxq/mxq/26.ts
+#EXTINF:-1 tvg-id="TNT Series (BR)" tvg-name="TNT SÉRIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="Canais Premium 4",TNT SÉRIES SD
+http://mxq.ddns.net:25461/live/mxq/mxq/25.ts
+#EXTINF:-1 tvg-id="TNT Series (BR)" tvg-name="TNT SÉRIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="Canais Premium 4",TNT SÉRIES HD
+http://mxq.ddns.net:25461/live/mxq/mxq/24.ts
+#EXTINF:-1 tvg-id="Tooncast (BR)" tvg-name="TOONCAST SD" tvg-logo="https://4.bp.blogspot.com/-pt3Qf21GwzU/U73Da-zVjtI/AAAAAAAAjKs/wVZxjXgB8LM/s1600/tooncast.png" group-title="Canais Premium 4",TOONCAST SD
+http://mxq.ddns.net:25461/live/mxq/mxq/23.ts
+#EXTINF:-1 tvg-id="Tooncast (BR)" tvg-name="TOONCAST HD" tvg-logo="https://4.bp.blogspot.com/-pt3Qf21GwzU/U73Da-zVjtI/AAAAAAAAjKs/wVZxjXgB8LM/s1600/tooncast.png" group-title="Canais Premium 4",TOONCAST HD
+http://mxq.ddns.net:25461/live/mxq/mxq/22.ts
+#EXTINF:-1 tvg-id="TruTV (BR)" tvg-name="TRUTV SD" tvg-logo="http://1.bp.blogspot.com/-pOpDFWQj99E/TitZZS5tsTI/AAAAAAAAF7g/3FISixEVugg/s1600/tru_tv.png" group-title="Canais Premium 4",TRUTV SD
+http://mxq.ddns.net:25461/live/mxq/mxq/21.ts
+#EXTINF:-1 tvg-id="TV Aparecida (BR)" tvg-name="TV APARECIDA SD" tvg-logo="http://listaiptvbrasil.com/logos/aparecidahd.png" group-title="Canais Premium 4",TV APARECIDA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/20.ts
+#EXTINF:-1 tvg-id="TV Aparecida (BR)" tvg-name="TV APARECIDA HD" tvg-logo="http://listaiptvbrasil.com/logos/aparecidahd.png" group-title="Canais Premium 4",TV APARECIDA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/19.ts
+#EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV CULTURA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais Premium 4",TV CULTURA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/18.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV ESCOLA SD" tvg-logo="http://lagartocomoeuvejo.com.br/wp-content/uploads/2013/09/TV-Escola.png" group-title="Canais Premium 4",TV ESCOLA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/17.ts
+#EXTINF:-1 tvg-id="TV Gazeta (BR)" tvg-name="TV GAZETA SD" tvg-logo="https://www.otvfoco.com.br/wp-content/uploads/2015/01/LOGO-GAZETA-COR.png" group-title="Canais Premium 4",TV GAZETA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/16.ts
+#EXTINF:-1 tvg-id="TV Gazeta (BR)" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.otvfoco.com.br/wp-content/uploads/2015/01/LOGO-GAZETA-COR.png" group-title="Canais Premium 4",TV GAZETA SP HD
+http://mxq.ddns.net:25461/live/mxq/mxq/15.ts
+#EXTINF:-1 tvg-id="Universal Channel (BR)" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Canais Premium 4",UNIVERSAL CHANNEL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/14.ts
+#EXTINF:-1 tvg-id="Universal Channel (BR)" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Canais Premium 4",UNIVERSAL CHANNEL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/13.ts
+#EXTINF:-1 tvg-id="VH1 (BR)" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Canais Premium 4",VH1 MEGAHITS SD
+http://mxq.ddns.net:25461/live/mxq/mxq/12.ts
+#EXTINF:-1 tvg-id="VH1 (BR)" tvg-name="VH1 MEGAHITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Canais Premium 4",VH1 MEGAHITS HD
+http://mxq.ddns.net:25461/live/mxq/mxq/11.ts
+#EXTINF:-1 tvg-id="Viva (BR)" tvg-name="VIVA SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png" group-title="Canais Premium 4",VIVA SD
+http://mxq.ddns.net:25461/live/mxq/mxq/10.ts
+#EXTINF:-1 tvg-id="Viva (BR)" tvg-name="VIVA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png" group-title="Canais Premium 4",VIVA HD
+http://mxq.ddns.net:25461/live/mxq/mxq/9.ts
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="WARNER CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/2000px-Warner_Channel.svg.png" group-title="Canais Premium 4",WARNER CHANNEL SD
+http://mxq.ddns.net:25461/live/mxq/mxq/8.ts
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/2000px-Warner_Channel.svg.png" group-title="Canais Premium 4",WARNER CHANNEL HD
+http://mxq.ddns.net:25461/live/mxq/mxq/7.ts
+#EXTINF:-1 tvg-id="Woohoo (BR)" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/1280px-Woohoo_logo.svg.png" group-title="Canais Premium 4",WOOHOO SD
+http://mxq.ddns.net:25461/live/mxq/mxq/6.ts
+#EXTINF:-1 tvg-id="Woohoo (BR)" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/1280px-Woohoo_logo.svg.png" group-title="Canais Premium 4",WOOHOO HD
+http://mxq.ddns.net:25461/live/mxq/mxq/5.ts
+#EXTINF:-1 tvg-id="Zoomoo (BR)" tvg-name="ZOOMOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Canais Premium 4",ZOOMOO SD
+http://mxq.ddns.net:25461/live/mxq/mxq/4.ts
+#EXTINF:-1 tvg-id="Zoomoo (BR)" tvg-name="ZOOMOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Canais Premium 4",ZOOMOO HD
+http://mxq.ddns.net:25461/live/mxq/mxq/3.ts
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Canais Premium 4",SBT HD*
+http://mxq.ddns.net:25461/live/mxq/mxq/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24h" tvg-logo="https://f.i.uol.com.br/fotografia/2018/01/30/15173364995a70b7b394851_1517336499_3x2_lg.jpg" group-title="Canais Premium 4",Chaves 24h
+http://mxq.ddns.net:25461/live/mxq/mxq/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="A LARVA 24 HORAS" tvg-logo="https://vignette.wikia.nocookie.net/mondominishows/images/9/93/Larva_image.png" group-title="Canais Premium 4",A LARVA 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24 HORAS" tvg-logo="" group-title="Canais Premium 4",BOB ESPONJA 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/313.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAILLOU - 24 HORAS" tvg-logo="https://fanart.tv/fanart/tv/77953/hdtvlogo/caillou-58bd398626d3a.png" group-title="Canais Premium 4",CAILLOU - 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/312.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÕES DA FAZENDA 24 HORAS" tvg-logo="https://occ-0-2433-999.1.nflxso.net/art/73a5d/7a4a7aa0d07cf30295c7aedf7b90924715f73a5d.png" group-title="Canais Premium 4",CANÇÕES DA FAZENDA 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24 HORAS" tvg-logo="https://www.otvfoco.com.br/wp-content/uploads/2017/01/NscNeWl.jpg" group-title="Canais Premium 4",CHAVES DESENHO 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - SAGA MAJIN BOO 24 HORAS" tvg-logo="https://ssdvds.loja2.com.br/img/29532933fd146f07319fe20f7acf3142.png" group-title="Canais Premium 4",DRAGON BALL Z - SAGA MAJIN BOO 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/309.ts
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24 HORAS" tvg-logo="" group-title="Canais Premium 4",EU A PATROA E AS CRIANÇAS 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/308.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA 24 HORAS" tvg-logo="https://cleoci.files.wordpress.com/2013/10/image0012.png" group-title="Canais Premium 4",GALINHA PINTADINHA 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/306.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA BABY 24 HORAS" tvg-logo="http://www.galinhapintadinha.com.br/mini/pt/mini/images/mobile/06-GPMNT_Hotsite568_pers.png" group-title="Canais Premium 4",GALINHA PINTADINHA BABY 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/307.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO 24 HORAS" tvg-logo="https://i.pinimg.com/originals/fa/3d/35/fa3d357ed31aec6cd37d1b9539b4eb45.png" group-title="Canais Premium 4",MASHA E O URSO 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/305.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN - 24 Horas" tvg-logo="https://www.bellacollezione.com/image/catalog/Marca/mrbeanlogo.png" group-title="Canais Premium 4",MR. BEAN - 24 Horas
+http://mxq.ddns.net:25461/live/mxq/mxq/304.ts
+#EXTINF:-1 tvg-id="" tvg-name="ODDBODS 24 HORAS" tvg-logo="" group-title="Canais Premium 4",ODDBODS 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATATI E PATATA  24 HORAS" tvg-logo="https://flordosoldecoracaoinfantil.files.wordpress.com/2015/06/gif-patati-patatc3a1.png" group-title="Canais Premium 4",PATATI E PATATA  24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA 24 HORAS" tvg-logo="https://www.dican.com.br/images/fabricantes/patrulha%20canina.png" group-title="Canais Premium 4",PATRULHA CANINA 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/301.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24 HORAS" tvg-logo="http://maesbrasileiras.com.br/portal/wp-content/uploads/2014/08/Peppa-pig-molde.png" group-title="Canais Premium 4",PEPPA PIG 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="PICA - PAU 24 HORAS" tvg-logo="https://http2.mlstatic.com/camiseta-infantil-pica-pau-desenho-2-a-14-anos-D_NQ_NP_475405-MLB25006059418_082016-F.jpg" group-title="Canais Premium 4",PICA - PAU 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/299.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO - CADÊ VOCÊ 24 HORAS" tvg-logo="https://3.bp.blogspot.com/-rv3uBzfQGZk/WDzS36eaDXI/AAAAAAAAAFU/ONw6WSSRIykBGMfyBsaSp8VSpCTRKICMwCPcB/s1600/scooby-doo-mystery-incorporated-521097c069367.png" group-title="Canais Premium 4",SCOOBY DOO - CADÊ VOCÊ 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24 HORAS" tvg-logo="http://3.bp.blogspot.com/-86mlteRcEzU/VhVK9OgXMxI/AAAAAAAABGU/15mxvk4cFcc/s1600/flow1.1.PNG" group-title="Canais Premium 4",TODO MUNDO ODEIA O CHRIS 24 HORAS
+http://mxq.ddns.net:25461/live/mxq/mxq/295.ts
 
-#EXTINF:-1, group-title="Canais Premium 4",CANAL DO CLIENTE
-http://158.69.116.204:25461/live/anamaria/anamaria123/3317.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1442.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo SP
-http://158.69.116.204:25461/live/anamaria/anamaria123/1873.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo SP *
-http://158.69.116.204:25461/live/anamaria/anamaria123/97.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1955.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/181.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo RJ
-http://158.69.116.204:25461/live/anamaria/anamaria123/1785.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo RJ *
-http://158.69.116.204:25461/live/anamaria/anamaria123/8.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV Campinas HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/2609.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo EPTV Campinas
-http://158.69.116.204:25461/live/anamaria/anamaria123/1447.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV  Vanguarda
-http://158.69.116.204:25461/live/anamaria/anamaria123/3155.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Brasília
-http://158.69.116.204:25461/live/anamaria/anamaria123/1780.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Brasília *
-http://158.69.116.204:25461/live/anamaria/anamaria123/3.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO MINAS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1440.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Minas *
-http://158.69.116.204:25461/live/anamaria/anamaria123/4.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Minas
-http://158.69.116.204:25461/live/anamaria/anamaria123/1781.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV BAHIA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3312.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo TV Bahia
-http://158.69.116.204:25461/live/anamaria/anamaria123/1449.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO ANHANGUERA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1439.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Anhanguera
-http://158.69.116.204:25461/live/anamaria/anamaria123/1782.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Anhanguera *
-http://158.69.116.204:25461/live/anamaria/anamaria123/5.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NORDESTE HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3310.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo Nordeste
-http://158.69.116.204:25461/live/anamaria/anamaria123/1450.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RBS TV PORTO ALEGRE HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3311.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo RBS TV Porto Alegre
-http://158.69.116.204:25461/live/anamaria/anamaria123/1827.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo RBS TV Porto Alegre *
-http://158.69.116.204:25461/live/anamaria/anamaria123/51.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV R. PRETO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/2610.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV R. Preto
-http://158.69.116.204:25461/live/anamaria/anamaria123/3048.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NSCTV FlORIANÓPOLIS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/2611.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NSCTV Florianópolis
-http://158.69.116.204:25461/live/anamaria/anamaria123/3047.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC  CURITIBA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3560.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC  Curitiba
-http://158.69.116.204:25461/live/anamaria/anamaria123/3089.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo TV Liberal Belem
-http://158.69.116.204:25461/live/anamaria/anamaria123/1453.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM S. J. R. PRETO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3074.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo TV Tem  Sorocaba
-http://158.69.116.204:25461/live/anamaria/anamaria123/7.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo TV Tem Bauru
-http://158.69.116.204:25461/live/anamaria/anamaria123/1783.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo TV Tem Bauru *
-http://158.69.116.204:25461/live/anamaria/anamaria123/6.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM S. J. R. Preto
-http://158.69.116.204:25461/live/anamaria/anamaria123/3073.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Verdes Mares
-http://158.69.116.204:25461/live/anamaria/anamaria123/3321.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND  HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1978.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND  HD*
-http://158.69.116.204:25461/live/anamaria/anamaria123/204.ts
-#EXTINF:-1, group-title="Canais Premium 4",Bandeirantes
-http://158.69.116.204:25461/live/anamaria/anamaria123/1908.ts
-#EXTINF:-1, group-title="Canais Premium 4",Bandeirantes *
-http://158.69.116.204:25461/live/anamaria/anamaria123/132.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1932.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/158.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT PB HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3214.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sbt
-http://158.69.116.204:25461/live/anamaria/anamaria123/1820.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sbt *
-http://158.69.116.204:25461/live/anamaria/anamaria123/44.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sbt Goias
-http://158.69.116.204:25461/live/anamaria/anamaria123/1463.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT PARAIBA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1466.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE RECORD HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1934.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE RECORD HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/160.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE RECORD GOIAS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1456.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede Record
-http://158.69.116.204:25461/live/anamaria/anamaria123/1825.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1933.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/159.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV PR HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3215.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede TV
-http://158.69.116.204:25461/live/anamaria/anamaria123/1823.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede TV *
-http://158.69.116.204:25461/live/anamaria/anamaria123/47.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede Vida
-http://158.69.116.204:25461/live/anamaria/anamaria123/1822.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede Brasil
-http://158.69.116.204:25461/live/anamaria/anamaria123/1824.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede Brasil *
-http://158.69.116.204:25461/live/anamaria/anamaria123/48.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3335.ts
-#EXTINF:-1, group-title="Canais Premium 4",Futura
-http://158.69.116.204:25461/live/anamaria/anamaria123/1875.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Cultura
-http://158.69.116.204:25461/live/anamaria/anamaria123/1794.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Escola
-http://158.69.116.204:25461/live/anamaria/anamaria123/663.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GAZETA SP HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/662.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Brasil *
-http://158.69.116.204:25461/live/anamaria/anamaria123/17.ts
-#EXTINF:-1, group-title="Canais Premium 4",Terra Viva
-http://158.69.116.204:25461/live/anamaria/anamaria123/1802.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canal Rural
-http://158.69.116.204:25461/live/anamaria/anamaria123/1903.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canal Rural *
-http://158.69.116.204:25461/live/anamaria/anamaria123/127.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE KIDS 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3470.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE FUN 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3471.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE FAMILY 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3472.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE ACTION 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3473.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE HORROR 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3469.ts
-#EXTINF:-1, group-title="Canais Premium 4",MR. BEAN 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3653.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL CSI 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3646.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMO EU CONHECI A SUA MÃE 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3647.ts
-#EXTINF:-1, group-title="Canais Premium 4",DR. HOUSE 24HR
-http://158.69.116.204:25461/live/anamaria/anamaria123/3650.ts
-#EXTINF:-1, group-title="Canais Premium 4",THE BIG BANG THEORY 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3652.ts
-#EXTINF:-1, group-title="Canais Premium 4",TWO AND A HALF MAN - DOIS HOMENS E MEIO 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3649.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PREMIUM HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4876.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PREMIUM HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1923.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PREMIUM HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/149.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PREMIUM SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/3631.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Premium
-http://158.69.116.204:25461/live/anamaria/anamaria123/1804.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Premium *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1519.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC ACTION HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4661.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC ACTION HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/152.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC ACTION HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1926.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC ACTION SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4662.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Action
-http://158.69.116.204:25461/live/anamaria/anamaria123/1808.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Action *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1511.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC TOUCH HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4667.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC TOUCH HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1922.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC TOUCH HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/148.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC TOUCH SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4668.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Touch
-http://158.69.116.204:25461/live/anamaria/anamaria123/1803.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Touch *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1521.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PIPOCA HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4665.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PIPOCA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1924.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PIPOCA HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/150.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC PIPOCA SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4666.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Pipoca
-http://158.69.116.204:25461/live/anamaria/anamaria123/1805.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Pipoca *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1517.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC FUN HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4663.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC FUN HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1925.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC FUN HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/151.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC FUN SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4664.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Fun
-http://158.69.116.204:25461/live/anamaria/anamaria123/1806.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Fun *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1515.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC CULT HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/2024.ts
-#EXTINF:-1, group-title="Canais Premium 4",TC CULT HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1165.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Cult
-http://158.69.116.204:25461/live/anamaria/anamaria123/1807.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tc Cult *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1513.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4658.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1950.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/176.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4875.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo
-http://158.69.116.204:25461/live/anamaria/anamaria123/1868.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo *
-http://158.69.116.204:25461/live/anamaria/anamaria123/92.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1952.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/178.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo 2
-http://158.69.116.204:25461/live/anamaria/anamaria123/1863.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo 2 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/87.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4659.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1949.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/175.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4660.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Plus
-http://158.69.116.204:25461/live/anamaria/anamaria123/1866.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Plus *
-http://158.69.116.204:25461/live/anamaria/anamaria123/90.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Plus e
-http://158.69.116.204:25461/live/anamaria/anamaria123/1865.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Plus e *
-http://158.69.116.204:25461/live/anamaria/anamaria123/89.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO FAMILY HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1951.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO FAMILY HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/177.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Family
-http://158.69.116.204:25461/live/anamaria/anamaria123/1867.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Family *
-http://158.69.116.204:25461/live/anamaria/anamaria123/91.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SIGNATURE HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1948.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SIGNATURE HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/174.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Signature
-http://158.69.116.204:25461/live/anamaria/anamaria123/1864.ts
-#EXTINF:-1, group-title="Canais Premium 4",Hbo Signature *
-http://158.69.116.204:25461/live/anamaria/anamaria123/88.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/3633.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1158.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2031.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max
-http://158.69.116.204:25461/live/anamaria/anamaria123/1857.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max *
-http://158.69.116.204:25461/live/anamaria/anamaria123/81.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4879.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1160.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2029.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4880.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max UP
-http://158.69.116.204:25461/live/anamaria/anamaria123/1854.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max UP *
-http://158.69.116.204:25461/live/anamaria/anamaria123/78.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/3632.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1159.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2030.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max Prime
-http://158.69.116.204:25461/live/anamaria/anamaria123/1856.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max Prime *
-http://158.69.116.204:25461/live/anamaria/anamaria123/80.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max Prime e
-http://158.69.116.204:25461/live/anamaria/anamaria123/1855.ts
-#EXTINF:-1, group-title="Canais Premium 4",Max Prime e *
-http://158.69.116.204:25461/live/anamaria/anamaria123/79.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1149.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2040.ts
-#EXTINF:-1, group-title="Canais Premium 4",Cinemax
-http://158.69.116.204:25461/live/anamaria/anamaria123/1899.ts
-#EXTINF:-1, group-title="Canais Premium 4",Cinemax *
-http://158.69.116.204:25461/live/anamaria/anamaria123/123.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4672.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1960.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/186.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4673.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox
-http://158.69.116.204:25461/live/anamaria/anamaria123/1879.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox *
-http://158.69.116.204:25461/live/anamaria/anamaria123/103.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 1 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1962.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 1 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/188.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1961.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/187.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX LIFE HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1959.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox Life
-http://158.69.116.204:25461/live/anamaria/anamaria123/1878.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox Life *
-http://158.69.116.204:25461/live/anamaria/anamaria123/102.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4877.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1956.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/182.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4878.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fx
-http://158.69.116.204:25461/live/anamaria/anamaria123/1874.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fx *
-http://158.69.116.204:25461/live/anamaria/anamaria123/98.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL SONY HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1975.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL SONY HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/201.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canal Sony
-http://158.69.116.204:25461/live/anamaria/anamaria123/1902.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canal Sony *
-http://158.69.116.204:25461/live/anamaria/anamaria123/126.ts
-#EXTINF:-1, group-title="Canais Premium 4",AXN HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4674.ts
-#EXTINF:-1, group-title="Canais Premium 4",AXN HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1979.ts
-#EXTINF:-1, group-title="Canais Premium 4",AXN  HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/205.ts
-#EXTINF:-1, group-title="Canais Premium 4",AXN SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4675.ts
-#EXTINF:-1, group-title="Canais Premium 4",Axn
-http://158.69.116.204:25461/live/anamaria/anamaria123/1911.ts
-#EXTINF:-1, group-title="Canais Premium 4",Axn *
-http://158.69.116.204:25461/live/anamaria/anamaria123/136.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4887.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER CHANNEL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1916.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER CHANNEL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/142.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4888.ts
-#EXTINF:-1, group-title="Canais Premium 4",Warner Channel
-http://158.69.116.204:25461/live/anamaria/anamaria123/1788.ts
-#EXTINF:-1, group-title="Canais Premium 4",Warner Channel *
-http://158.69.116.204:25461/live/anamaria/anamaria123/10.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4883.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1931.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/157.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4884.ts
-#EXTINF:-1, group-title="Canais Premium 4",Space
-http://158.69.116.204:25461/live/anamaria/anamaria123/1816.ts
-#EXTINF:-1, group-title="Canais Premium 4",Space *
-http://158.69.116.204:25461/live/anamaria/anamaria123/40.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4669.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1921.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/147.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4670.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT
-http://158.69.116.204:25461/live/anamaria/anamaria123/1799.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT *
-http://158.69.116.204:25461/live/anamaria/anamaria123/21.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT HD SÉRIES LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4885.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SÉRIES HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1920.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SÉRIES HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/146.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SD SÉRIES LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4886.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT Séries
-http://158.69.116.204:25461/live/anamaria/anamaria123/1798.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT Séries *
-http://158.69.116.204:25461/live/anamaria/anamaria123/20.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1927.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/153.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS
-http://158.69.116.204:25461/live/anamaria/anamaria123/1810.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS *
-http://158.69.116.204:25461/live/anamaria/anamaria123/32.ts
-#EXTINF:-1, group-title="Canais Premium 4",TCM
-http://158.69.116.204:25461/live/anamaria/anamaria123/1809.ts
-#EXTINF:-1, group-title="Canais Premium 4",I-SAT
-http://158.69.116.204:25461/live/anamaria/anamaria123/1862.ts
-#EXTINF:-1, group-title="Canais Premium 4",I-SAT *
-http://158.69.116.204:25461/live/anamaria/anamaria123/86.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX HD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4881.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1945.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/171.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX SD LEGENDADO
-http://158.69.116.204:25461/live/anamaria/anamaria123/4882.ts
-#EXTINF:-1, group-title="Canais Premium 4",Megapix
-http://158.69.116.204:25461/live/anamaria/anamaria123/1853.ts
-#EXTINF:-1, group-title="Canais Premium 4",Megapix *
-http://158.69.116.204:25461/live/anamaria/anamaria123/77.ts
-#EXTINF:-1, group-title="Canais Premium 4",UNIVERSAL CHANNEL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1919.ts
-#EXTINF:-1, group-title="Canais Premium 4",UNIVERSAL CHANNEL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/145.ts
-#EXTINF:-1, group-title="Canais Premium 4",Universal Channel
-http://158.69.116.204:25461/live/anamaria/anamaria123/1791.ts
-#EXTINF:-1, group-title="Canais Premium 4",Universal Channel *
-http://158.69.116.204:25461/live/anamaria/anamaria123/13.ts
-#EXTINF:-1, group-title="Canais Premium 4",STUDIO UNIVERSAL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1163.ts
-#EXTINF:-1, group-title="Canais Premium 4",STUDIO UNIVERSAL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2026.ts
-#EXTINF:-1, group-title="Canais Premium 4",Studio Universal
-http://158.69.116.204:25461/live/anamaria/anamaria123/1812.ts
-#EXTINF:-1, group-title="Canais Premium 4",Studio Universal *
-http://158.69.116.204:25461/live/anamaria/anamaria123/34.ts
-#EXTINF:-1, group-title="Canais Premium 4",SYFY HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1164.ts
-#EXTINF:-1, group-title="Canais Premium 4",SYFY HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2025.ts
-#EXTINF:-1, group-title="Canais Premium 4",Syfy
-http://158.69.116.204:25461/live/anamaria/anamaria123/1811.ts
-#EXTINF:-1, group-title="Canais Premium 4",Syfy *
-http://158.69.116.204:25461/live/anamaria/anamaria123/33.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL BRASIL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1148.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL BRASIL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2042.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canal Brasil
-http://158.69.116.204:25461/live/anamaria/anamaria123/1904.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canal Brasil *
-http://158.69.116.204:25461/live/anamaria/anamaria123/128.ts
-#EXTINF:-1, group-title="Canais Premium 4",PARAMOUNT CHANNEL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1940.ts
-#EXTINF:-1, group-title="Canais Premium 4",PARAMOUNT CHANNEL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/166.ts
-#EXTINF:-1, group-title="Canais Premium 4",Paramount Channel
-http://158.69.116.204:25461/live/anamaria/anamaria123/1841.ts
-#EXTINF:-1, group-title="Canais Premium 4",Paramount Channel *
-http://158.69.116.204:25461/live/anamaria/anamaria123/65.ts
-#EXTINF:-1, group-title="Canais Premium 4",PRIME BOX BRASIL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3466.ts
-#EXTINF:-1, group-title="Canais Premium 4",Prime Box Brazil
-http://158.69.116.204:25461/live/anamaria/anamaria123/1829.ts
-#EXTINF:-1, group-title="Canais Premium 4",Prime Box Brazil *
-http://158.69.116.204:25461/live/anamaria/anamaria123/53.ts
-#EXTINF:-1, group-title="Canais Premium 4",SUNDANCE TV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3052.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sundance TV
-http://158.69.116.204:25461/live/anamaria/anamaria123/3051.ts
-#EXTINF:-1, group-title="Canais Premium 4",AMC HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3460.ts
-#EXTINF:-1, group-title="Canais Premium 4",AMC
-http://158.69.116.204:25461/live/anamaria/anamaria123/3058.ts
-#EXTINF:-1, group-title="Canais Premium 4",TABELA DA COPA 2018
-http://158.69.116.204:25461/live/anamaria/anamaria123/4977.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/154.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1928.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sportv
-http://158.69.116.204:25461/live/anamaria/anamaria123/1815.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sportv *
-http://158.69.116.204:25461/live/anamaria/anamaria123/39.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1930.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/156.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sportv 2
-http://158.69.116.204:25461/live/anamaria/anamaria123/1814.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sportv 2 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/38.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 3 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1929.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 3 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/155.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sportv 3
-http://158.69.116.204:25461/live/anamaria/anamaria123/1813.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sportv 3 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/36.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1958.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/184.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox Sports
-http://158.69.116.204:25461/live/anamaria/anamaria123/1877.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox Sports *
-http://158.69.116.204:25461/live/anamaria/anamaria123/101.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1957.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/183.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox Sports 2
-http://158.69.116.204:25461/live/anamaria/anamaria123/1876.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fox Sports 2 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/100.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1965.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/191.ts
-#EXTINF:-1, group-title="Canais Premium 4",Espn Brasil
-http://158.69.116.204:25461/live/anamaria/anamaria123/1882.ts
-#EXTINF:-1, group-title="Canais Premium 4",Espn Brasil *
-http://158.69.116.204:25461/live/anamaria/anamaria123/106.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN+ HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1964.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN+ HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1168.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN+
-http://158.69.116.204:25461/live/anamaria/anamaria123/192.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1966.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/190.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN + *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1883.ts
-#EXTINF:-1, group-title="Canais Premium 4",Espn
-http://158.69.116.204:25461/live/anamaria/anamaria123/1786.ts
-#EXTINF:-1, group-title="Canais Premium 4",Espn *
-http://158.69.116.204:25461/live/anamaria/anamaria123/107.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN EXTRA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3054.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN Extra
-http://158.69.116.204:25461/live/anamaria/anamaria123/3053.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO BR HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1968.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1963.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/193.ts
-#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo
-http://158.69.116.204:25461/live/anamaria/anamaria123/1885.ts
-#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo *
-http://158.69.116.204:25461/live/anamaria/anamaria123/109.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1967.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/194.ts
-#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo 2 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/108.ts
-#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo 2
-http://158.69.116.204:25461/live/anamaria/anamaria123/1884.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS  HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1977.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/203.ts
-#EXTINF:-1, group-title="Canais Premium 4",Band Sports
-http://158.69.116.204:25461/live/anamaria/anamaria123/1909.ts
-#EXTINF:-1, group-title="Canais Premium 4",Band Sports*
-http://158.69.116.204:25461/live/anamaria/anamaria123/133.ts
-#EXTINF:-1, group-title="Canais Premium 4",FISH TV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3628.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fish TV
-http://158.69.116.204:25461/live/anamaria/anamaria123/1881.ts
-#EXTINF:-1, group-title="Canais Premium 4",Fish TV *
-http://158.69.116.204:25461/live/anamaria/anamaria123/105.ts
-#EXTINF:-1, group-title="Canais Premium 4",Combate HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1974.ts
-#EXTINF:-1, group-title="Canais Premium 4",Combate HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/200.ts
-#EXTINF:-1, group-title="Canais Premium 4",Combate
-http://158.69.116.204:25461/live/anamaria/anamaria123/1898.ts
-#EXTINF:-1, group-title="Canais Premium 4",Combate *
-http://158.69.116.204:25461/live/anamaria/anamaria123/122.ts
-#EXTINF:-1, group-title="Canais Premium 4",TABELA DE JOGOS
-http://158.69.116.204:25461/live/anamaria/anamaria123/4143.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere Clubes 24H HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3108.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere Clubes  24H HD*
-http://158.69.116.204:25461/live/anamaria/anamaria123/1428.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere Clubes *
-http://158.69.116.204:25461/live/anamaria/anamaria123/54.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere Clubes
-http://158.69.116.204:25461/live/anamaria/anamaria123/1830.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1938.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/164.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 2
-http://158.69.116.204:25461/live/anamaria/anamaria123/1838.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 2 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/62.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 3 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1937.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 3 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/163.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 3
-http://158.69.116.204:25461/live/anamaria/anamaria123/1837.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 3 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/61.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 4 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1936.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 4 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/162.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 4
-http://158.69.116.204:25461/live/anamaria/anamaria123/1836.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 4 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/60.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 5 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1935.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 5 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/161.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 5
-http://158.69.116.204:25461/live/anamaria/anamaria123/1835.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 5 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/59.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 6 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3286.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 6
-http://158.69.116.204:25461/live/anamaria/anamaria123/1834.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 6 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/58.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 7 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3287.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 7
-http://158.69.116.204:25461/live/anamaria/anamaria123/1833.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 7 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/57.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 8 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/56.ts
-#EXTINF:-1, group-title="Canais Premium 4",Premiere 9 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/55.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1147.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2043.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E
-http://158.69.116.204:25461/live/anamaria/anamaria123/1915.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E *
-http://158.69.116.204:25461/live/anamaria/anamaria123/140.ts
-#EXTINF:-1, group-title="Canais Premium 4",+ GLOBOSAT HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1157.ts
-#EXTINF:-1, group-title="Canais Premium 4",+ GLOBOSAT HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2032.ts
-#EXTINF:-1, group-title="Canais Premium 4",+ Globosat
-http://158.69.116.204:25461/live/anamaria/anamaria123/1858.ts
-#EXTINF:-1, group-title="Canais Premium 4",+ Globosat *
-http://158.69.116.204:25461/live/anamaria/anamaria123/82.ts
-#EXTINF:-1, group-title="Canais Premium 4",GNT HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1954.ts
-#EXTINF:-1, group-title="Canais Premium 4",GNT HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/180.ts
-#EXTINF:-1, group-title="Canais Premium 4",Gnt
-http://158.69.116.204:25461/live/anamaria/anamaria123/1870.ts
-#EXTINF:-1, group-title="Canais Premium 4",Gnt*
-http://158.69.116.204:25461/live/anamaria/anamaria123/3339.ts
-#EXTINF:-1, group-title="Canais Premium 4",VIVA HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1918.ts
-#EXTINF:-1, group-title="Canais Premium 4",VIVA HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/144.ts
-#EXTINF:-1, group-title="Canais Premium 4",Viva
-http://158.69.116.204:25461/live/anamaria/anamaria123/1789.ts
-#EXTINF:-1, group-title="Canais Premium 4",Viva *
-http://158.69.116.204:25461/live/anamaria/anamaria123/11.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1941.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/167.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF
-http://158.69.116.204:25461/live/anamaria/anamaria123/1842.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF *
-http://158.69.116.204:25461/live/anamaria/anamaria123/66.ts
-#EXTINF:-1, group-title="Canais Premium 4",WOOHOO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3281.ts
-#EXTINF:-1, group-title="Canais Premium 4",Woohoo
-http://158.69.116.204:25461/live/anamaria/anamaria123/1787.ts
-#EXTINF:-1, group-title="Canais Premium 4",MULTISHOW HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1944.ts
-#EXTINF:-1, group-title="Canais Premium 4",MULTISHOW HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/170.ts
-#EXTINF:-1, group-title="Canais Premium 4",Multishow
-http://158.69.116.204:25461/live/anamaria/anamaria123/1851.ts
-#EXTINF:-1, group-title="Canais Premium 4",Multishow *
-http://158.69.116.204:25461/live/anamaria/anamaria123/75.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1976.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/202.ts
-#EXTINF:-1, group-title="Canais Premium 4",Bis
-http://158.69.116.204:25461/live/anamaria/anamaria123/1906.ts
-#EXTINF:-1, group-title="Canais Premium 4",Bis *
-http://158.69.116.204:25461/live/anamaria/anamaria123/130.ts
-#EXTINF:-1, group-title="Canais Premium 4",MTV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1161.ts
-#EXTINF:-1, group-title="Canais Premium 4",MTV HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2028.ts
-#EXTINF:-1, group-title="Canais Premium 4",MTV
-http://158.69.116.204:25461/live/anamaria/anamaria123/1852.ts
-#EXTINF:-1, group-title="Canais Premium 4",MTV *
-http://158.69.116.204:25461/live/anamaria/anamaria123/76.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1167.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2022.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1
-http://158.69.116.204:25461/live/anamaria/anamaria123/3467.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1 Megahits
-http://158.69.116.204:25461/live/anamaria/anamaria123/1790.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1 Megahits *
-http://158.69.116.204:25461/live/anamaria/anamaria123/12.ts
-#EXTINF:-1, group-title="Canais Premium 4",MUSIC BOX BRASIL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3462.ts
-#EXTINF:-1, group-title="Canais Premium 4",Music Box Brazil
-http://158.69.116.204:25461/live/anamaria/anamaria123/1850.ts
-#EXTINF:-1, group-title="Canais Premium 4",Music Box Brazil *
-http://158.69.116.204:25461/live/anamaria/anamaria123/74.ts
-#EXTINF:-1, group-title="Canais Premium 4",RBI
-http://158.69.116.204:25461/live/anamaria/anamaria123/1828.ts
-#EXTINF:-1, group-title="Canais Premium 4",TRUTV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3627.ts
-#EXTINF:-1, group-title="Canais Premium 4",TruTV
-http://158.69.116.204:25461/live/anamaria/anamaria123/1796.ts
-#EXTINF:-1, group-title="Canais Premium 4",TruTV*
-http://158.69.116.204:25461/live/anamaria/anamaria123/3626.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMEDY CENTRAL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3336.ts
-#EXTINF:-1, group-title="Canais Premium 4",Comedy Central
-http://158.69.116.204:25461/live/anamaria/anamaria123/1897.ts
-#EXTINF:-1, group-title="Canais Premium 4",Comedy Central *
-http://158.69.116.204:25461/live/anamaria/anamaria123/121.ts
-#EXTINF:-1, group-title="Canais Premium 4",ID - INVESTIGAÇAO DISCOVERY HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1946.ts
-#EXTINF:-1, group-title="Canais Premium 4",ID - INVESTIGAÇAO DISCOVERY HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/172.ts
-#EXTINF:-1, group-title="Canais Premium 4",ID - Investigação Discovery
-http://158.69.116.204:25461/live/anamaria/anamaria123/1861.ts
-#EXTINF:-1, group-title="Canais Premium 4",ID - Investigação Discovery *
-http://158.69.116.204:25461/live/anamaria/anamaria123/85.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1972.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/198.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Home & Health
-http://158.69.116.204:25461/live/anamaria/anamaria123/1893.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Home & Health *
-http://158.69.116.204:25461/live/anamaria/anamaria123/117.ts
-#EXTINF:-1, group-title="Canais Premium 4",LIFETIME HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1156.ts
-#EXTINF:-1, group-title="Canais Premium 4",LIFETIME HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2033.ts
-#EXTINF:-1, group-title="Canais Premium 4",Lifetime
-http://158.69.116.204:25461/live/anamaria/anamaria123/1859.ts
-#EXTINF:-1, group-title="Canais Premium 4",Lifetime *
-http://158.69.116.204:25461/live/anamaria/anamaria123/83.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1166.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2023.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC
-http://158.69.116.204:25461/live/anamaria/anamaria123/1800.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC *
-http://158.69.116.204:25461/live/anamaria/anamaria123/22.ts
-#EXTINF:-1, group-title="Canais Premium 4",E! ENTERTAINMENT HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1152.ts
-#EXTINF:-1, group-title="Canais Premium 4",E! ENTERTAINMENT HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2037.ts
-#EXTINF:-1, group-title="Canais Premium 4",E! Entertainment
-http://158.69.116.204:25461/live/anamaria/anamaria123/1886.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOOD NETWORK HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1153.ts
-#EXTINF:-1, group-title="Canais Premium 4",Food Network
-http://158.69.116.204:25461/live/anamaria/anamaria123/1880.ts
-#EXTINF:-1, group-title="Canais Premium 4",Food Network *
-http://158.69.116.204:25461/live/anamaria/anamaria123/104.ts
-#EXTINF:-1, group-title="Canais Premium 4",DOG TV HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/4156.ts
-#EXTINF:-1, group-title="Canais Premium 4",Dog TV
-http://158.69.116.204:25461/live/anamaria/anamaria123/4157.ts
-#EXTINF:-1, group-title="Canais Premium 4",CURTA! HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3282.ts
-#EXTINF:-1, group-title="Canais Premium 4",Curta!
-http://158.69.116.204:25461/live/anamaria/anamaria123/1896.ts
-#EXTINF:-1, group-title="Canais Premium 4",Curta! *
-http://158.69.116.204:25461/live/anamaria/anamaria123/120.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1980.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET  HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/206.ts
-#EXTINF:-1, group-title="Canais Premium 4",Animal Planet
-http://158.69.116.204:25461/live/anamaria/anamaria123/1914.ts
-#EXTINF:-1, group-title="Canais Premium 4",Animal Planet *
-http://158.69.116.204:25461/live/anamaria/anamaria123/139.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CHANNEL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1973.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CHANNEL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/199.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Channel
-http://158.69.116.204:25461/live/anamaria/anamaria123/1895.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Channel *
-http://158.69.116.204:25461/live/anamaria/anamaria123/119.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY THEATER HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1971.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY THEATER HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/197.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY WORLD HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1969.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY WORLD HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/195.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery World
-http://158.69.116.204:25461/live/anamaria/anamaria123/3338.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY SCIENCE  HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3283.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Science
-http://158.69.116.204:25461/live/anamaria/anamaria123/1891.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CIVILIZATION HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3285.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Civilization
-http://158.69.116.204:25461/live/anamaria/anamaria123/1894.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Civilization *
-http://158.69.116.204:25461/live/anamaria/anamaria123/118.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1970.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/196.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Turbo
-http://158.69.116.204:25461/live/anamaria/anamaria123/1890.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Turbo *
-http://158.69.116.204:25461/live/anamaria/anamaria123/114.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATIONAL GEOGRAPHIC HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1942.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATIONAL GEOGRAPHIC HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/168.ts
-#EXTINF:-1, group-title="Canais Premium 4",National Geographic
-http://158.69.116.204:25461/live/anamaria/anamaria123/1848.ts
-#EXTINF:-1, group-title="Canais Premium 4",National Geographic *
-http://158.69.116.204:25461/live/anamaria/anamaria123/72.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO WILD HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1943.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO WILD HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/169.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nat Geo Wild
-http://158.69.116.204:25461/live/anamaria/anamaria123/1849.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nat Geo Wild *
-http://158.69.116.204:25461/live/anamaria/anamaria123/73.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY CHANNEL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1947.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY CHANNEL HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/173.ts
-#EXTINF:-1, group-title="Canais Premium 4",History Channel
-http://158.69.116.204:25461/live/anamaria/anamaria123/1801.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1953.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/179.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2
-http://158.69.116.204:25461/live/anamaria/anamaria123/1869.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 *
-http://158.69.116.204:25461/live/anamaria/anamaria123/1529.ts
-#EXTINF:-1, group-title="Canais Premium 4",ARTE 1 HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3280.ts
-#EXTINF:-1, group-title="Canais Premium 4",Arte1
-http://158.69.116.204:25461/live/anamaria/anamaria123/1912.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1154.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2035.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo News
-http://158.69.116.204:25461/live/anamaria/anamaria123/1872.ts
-#EXTINF:-1, group-title="Canais Premium 4",Globo News *
-http://158.69.116.204:25461/live/anamaria/anamaria123/96.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3334.ts
-#EXTINF:-1, group-title="Canais Premium 4",Band News
-http://158.69.116.204:25461/live/anamaria/anamaria123/1910.ts
-#EXTINF:-1, group-title="Canais Premium 4",Band News *
-http://158.69.116.204:25461/live/anamaria/anamaria123/134.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD NEWS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3092.ts
-#EXTINF:-1, group-title="Canais Premium 4",Record News
-http://158.69.116.204:25461/live/anamaria/anamaria123/1826.ts
-#EXTINF:-1, group-title="Canais Premium 4",Record News *
-http://158.69.116.204:25461/live/anamaria/anamaria123/50.ts
-#EXTINF:-1, group-title="Canais Premium 4",NBR
-http://158.69.116.204:25461/live/anamaria/anamaria123/1847.ts
-#EXTINF:-1, group-title="Canais Premium 4",NBR *
-http://158.69.116.204:25461/live/anamaria/anamaria123/71.ts
-#EXTINF:-1, group-title="Canais Premium 4",NHK
-http://158.69.116.204:25461/live/anamaria/anamaria123/1846.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Camara
-http://158.69.116.204:25461/live/anamaria/anamaria123/2047.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Justiça
-http://158.69.116.204:25461/live/anamaria/anamaria123/3629.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Senado
-http://158.69.116.204:25461/live/anamaria/anamaria123/3630.ts
-#EXTINF:-1, group-title="Canais Premium 4",CHAVES 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/4656.ts
-#EXTINF:-1, group-title="Canais Premium 4",POCOYO 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/4150.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURAMA 1 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3957.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURAMA 2 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/4187.ts
-#EXTINF:-1, group-title="Canais Premium 4",FAMÍLIA DA PESADA (FAMILY GUY) 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3648.ts
-#EXTINF:-1, group-title="Canais Premium 4",SHOW DA LUNA 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3645.ts
-#EXTINF:-1, group-title="Canais Premium 4",FAMÍLIA DINOSSAURO 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3509.ts
-#EXTINF:-1, group-title="Canais Premium 4",MUNDO DE GUMBALL 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3483.ts
-#EXTINF:-1, group-title="Canais Premium 4",POKEMON 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3275.ts
-#EXTINF:-1, group-title="Canais Premium 4",PEPPA PIG 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/2046.ts
-#EXTINF:-1, group-title="Canais Premium 4",CAVERNA DO DRAGÃO  24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3088.ts
-#EXTINF:-1, group-title="Canais Premium 4",DUCKTALES  24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3268.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOB ESPONJA 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3270.ts
-#EXTINF:-1, group-title="Canais Premium 4",OS SIMPSONS 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/2832.ts
-#EXTINF:-1, group-title="Canais Premium 4",DRAGON BALL Z androides 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3276.ts
-#EXTINF:-1, group-title="Canais Premium 4",DRAGON BALL Z Freeza 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3086.ts
-#EXTINF:-1, group-title="Canais Premium 4",HOMEM-ARANHA 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3272.ts
-#EXTINF:-1, group-title="Canais Premium 4",OS VINGADORES 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3273.ts
-#EXTINF:-1, group-title="Canais Premium 4",X-MEN EVOLUTION 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3274.ts
-#EXTINF:-1, group-title="Canais Premium 4",TODO MUNDO ODEIA O CRIS 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3271.ts
-#EXTINF:-1, group-title="Canais Premium 4",GALINHA PINTADINHA 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3085.ts
-#EXTINF:-1, group-title="Canais Premium 4",CDZ  Saga de Poseidon 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3331.ts
-#EXTINF:-1, group-title="Canais Premium 4",CDZ Saga das Doze Casas 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3329.ts
-#EXTINF:-1, group-title="Canais Premium 4",CDZ Saga de Asgard 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3330.ts
-#EXTINF:-1, group-title="Canais Premium 4",CDZ Saga de Hades 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3332.ts
-#EXTINF:-1, group-title="Canais Premium 4",CDZ Saga do Santuario  24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3328.ts
-#EXTINF:-1, group-title="Canais Premium 4",DRAGON BALL  SUPER 1 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3325.ts
-#EXTINF:-1, group-title="Canais Premium 4",DRAGON BALL  SUPER 2 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3326.ts
-#EXTINF:-1, group-title="Canais Premium 4",DRAGON BALL Z Cell 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3327.ts
-#EXTINF:-1, group-title="Canais Premium 4",DRAGON BALL Z Sayajins 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3323.ts
-#EXTINF:-1, group-title="Canais Premium 4",LARVA 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3320.ts
-#EXTINF:-1, group-title="Canais Premium 4",LOONEY TUNNES 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3319.ts
-#EXTINF:-1, group-title="Canais Premium 4",NARUTO 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3322.ts
-#EXTINF:-1, group-title="Canais Premium 4",THE BACKYARDIGANS 24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3333.ts
-#EXTINF:-1, group-title="Canais Premium 4",TOM & JERRY  24H
-http://158.69.116.204:25461/live/anamaria/anamaria123/3324.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3461.ts
-#EXTINF:-1, group-title="Canais Premium 4",Boomerang
-http://158.69.116.204:25461/live/anamaria/anamaria123/1905.ts
-#EXTINF:-1, group-title="Canais Premium 4",Boomerang *
-http://158.69.116.204:25461/live/anamaria/anamaria123/129.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/141.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2041.ts
-#EXTINF:-1, group-title="Canais Premium 4",Cartoon Network
-http://158.69.116.204:25461/live/anamaria/anamaria123/1900.ts
-#EXTINF:-1, group-title="Canais Premium 4",Cartoon Network *
-http://158.69.116.204:25461/live/anamaria/anamaria123/124.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tooncast
-http://158.69.116.204:25461/live/anamaria/anamaria123/1797.ts
-#EXTINF:-1, group-title="Canais Premium 4",Tooncast *
-http://158.69.116.204:25461/live/anamaria/anamaria123/19.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1162.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK HD*
-http://158.69.116.204:25461/live/anamaria/anamaria123/3464.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nick
-http://158.69.116.204:25461/live/anamaria/anamaria123/1844.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nick *
-http://158.69.116.204:25461/live/anamaria/anamaria123/68.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK JR HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3463.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nick Jr
-http://158.69.116.204:25461/live/anamaria/anamaria123/1845.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nick Jr *
-http://158.69.116.204:25461/live/anamaria/anamaria123/69.ts
-#EXTINF:-1, group-title="Canais Premium 4",Disney XD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1887.ts
-#EXTINF:-1, group-title="Canais Premium 4",Disney XD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/111.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1151.ts
-#EXTINF:-1, group-title="Canais Premium 4",Disney Channel
-http://158.69.116.204:25461/live/anamaria/anamaria123/1889.ts
-#EXTINF:-1, group-title="Canais Premium 4",Disney channel*
-http://158.69.116.204:25461/live/anamaria/anamaria123/3337.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL+ HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/2038.ts
-#EXTINF:-1, group-title="Canais Premium 4",Disney Junior
-http://158.69.116.204:25461/live/anamaria/anamaria123/1888.ts
-#EXTINF:-1, group-title="Canais Premium 4",Disney Junior *
-http://158.69.116.204:25461/live/anamaria/anamaria123/112.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1150.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2039.ts
-#EXTINF:-1, group-title="Canais Premium 4",Discovery Kids
-http://158.69.116.204:25461/live/anamaria/anamaria123/1892.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOB HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/1155.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOB HD *
-http://158.69.116.204:25461/live/anamaria/anamaria123/2034.ts
-#EXTINF:-1, group-title="Canais Premium 4",Gloob
-http://158.69.116.204:25461/live/anamaria/anamaria123/1871.ts
-#EXTINF:-1, group-title="Canais Premium 4",Gloob *
-http://158.69.116.204:25461/live/anamaria/anamaria123/95.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOBINHO HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3091.ts
-#EXTINF:-1, group-title="Canais Premium 4",Gloobinho
-http://158.69.116.204:25461/live/anamaria/anamaria123/3090.ts
-#EXTINF:-1, group-title="Canais Premium 4",Play TV
-http://158.69.116.204:25461/live/anamaria/anamaria123/1840.ts
-#EXTINF:-1, group-title="Canais Premium 4",Play TV *
-http://158.69.116.204:25461/live/anamaria/anamaria123/64.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV RA TIM BUM HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3465.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Ra tim bum
-http://158.69.116.204:25461/live/anamaria/anamaria123/1793.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Ra tim bum *
-http://158.69.116.204:25461/live/anamaria/anamaria123/15.ts
-#EXTINF:-1, group-title="Canais Premium 4",Nat Geo KIDS
-http://158.69.116.204:25461/live/anamaria/anamaria123/3049.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO  KIDS HD
-http://158.69.116.204:25461/live/anamaria/anamaria123/3050.ts
-#EXTINF:-1, group-title="Canais Premium 4",Baby TV Brasil
-http://158.69.116.204:25461/live/anamaria/anamaria123/3055.ts
-#EXTINF:-1, group-title="Canais Premium 4",GOSPEL MOVIES TELEVISION
-http://158.69.116.204:25461/live/anamaria/anamaria123/4654.ts
-#EXTINF:-1, group-title="Canais Premium 4",PORTAL GOSPEL
-http://158.69.116.204:25461/live/anamaria/anamaria123/4653.ts
-#EXTINF:-1, group-title="Canais Premium 4",Canção Nova
-http://158.69.116.204:25461/live/anamaria/anamaria123/1901.ts
-#EXTINF:-1, group-title="Canais Premium 4",Rede Vida *
-http://158.69.116.204:25461/live/anamaria/anamaria123/46.ts
-#EXTINF:-1, group-title="Canais Premium 4",Aparecida
-http://158.69.116.204:25461/live/anamaria/anamaria123/1913.ts
-#EXTINF:-1, group-title="Canais Premium 4",Aparecida *
-http://158.69.116.204:25461/live/anamaria/anamaria123/138.ts
-#EXTINF:-1, group-title="Canais Premium 4",RIT
-http://158.69.116.204:25461/live/anamaria/anamaria123/1821.ts
-#EXTINF:-1, group-title="Canais Premium 4",Novo Tempo
-http://158.69.116.204:25461/live/anamaria/anamaria123/1843.ts
-#EXTINF:-1, group-title="Canais Premium 4",Ideal TV
-http://158.69.116.204:25461/live/anamaria/anamaria123/1860.ts
-#EXTINF:-1, group-title="Canais Premium 4",Ideal TV *
-http://158.69.116.204:25461/live/anamaria/anamaria123/84.ts
-#EXTINF:-1, group-title="Canais Premium 4",Sic Internacional
-http://158.69.116.204:25461/live/anamaria/anamaria123/1817.ts
-#EXTINF:-1, group-title="Canais Premium 4",TVE Bahia
-http://158.69.116.204:25461/live/anamaria/anamaria123/956.ts
 ---------------Canais premium 5 --------------------
 ----------- Canais Premium 6 ---------------------
 
