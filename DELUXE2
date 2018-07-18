@@ -3969,95 +3969,93 @@ http://mxq.ddns.net:25461/live/mxq/mxq/295.ts
 ---------------Canais premium 5 --------------------
 ----------- Canais Premium 6 ---------------------
 
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",FORMIGA WEBtv
-http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?formigaTV
+http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/9b/a5/VqgGwqoD_o.png"  group-title="Canais Premium 5",FAST CINE
 http://stmv5.srvstm.com/fastcine/fastcine/playlist.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",AGRO ARASIL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",AMAZON SAT
-http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV CARIRI
-http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CONEXAO BR
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",HORSE BRASIL
-http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",REDE BRASIL
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV DIARIO
-http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV ESCOLA
-http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV GAZETA
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV GERAL 
-http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",SOBRENATURAL TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",SBT
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",RECORD ES-VITORIA
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",REDETV
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",REDE NEWS
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV CAMARA
-http://stream2.camara.gov.br:80/tv1/manifest.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",RECORNEWS
-http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",ALJAZEERA
-http://aljazeera-eng-apple-live.adaptive.level3.net:80/apple/aljazeera/hq-english/1200kStream.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://aljazeera-eng-apple-live.adaptive.level3.net:80/apple/aljazeera/hq-english/1200kStream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CBN
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CBN NEWS
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",DW
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",PLAY TV
-http://stmv1.euroti.com.br:1935/rafael5986/rafael5986/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://stmv1.euroti.com.br:1935/rafael5986/rafael5986/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",DJ Hits
-http://www.djing.com/tv/04.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://www.djing.com/tv/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",MusicTop
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",NOSSA TV
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",ALL SPORTS
-http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",AD Sports 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",AD Sports 2 
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CINE+
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",CINE CLARO
-https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",GOSPEL CARTOONS
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?FORMIGAtv
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",Esporte Interativo 2
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u84Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",Esporte Interativo hd
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u84Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?FORMIGAtv.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Canais Premium 5",TV BRASIL
-http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?http://bit.ly/Fga001?FORMIGAtv?FORMIGAtv?FORMIGAtv.ts
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title=" e Séries",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Canais Premium 5",AXN HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4185.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Agro Brasil HD" tvg-logo="http://t.likeiptv.com/agrobrasil.png" group-title="Canais Premium 5",Agro Brasil HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3099.m3u8?
@@ -4065,9 +4063,9 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3099.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4177.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV SD" tvg-logo="http://t.likeiptv.com/baby.png" group-title="Canais Premium 5",Baby TV SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4184.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS SD
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Canais Premium 5",BIS SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4175.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Canais Premium 5",BIS HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4174.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="http://t.likeiptv.com/BANDHD.png" group-title="Canais Premium 5",Band SP HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4183.m3u8?
@@ -4081,7 +4079,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4191.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4180.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Canais Premium 5",Arte 1 SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4582.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV HD" tvg-logo="http://t.likeiptv.com/bloo.png" group-title="Internacional",Bloomberg TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV HD" tvg-logo="http://t.likeiptv.com/bloo.png" group-title="Canais Premium 5",Bloomberg TV HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/1891.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://t.likeiptv.com/a&e.png" group-title="Canais Premium 5",A&E HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4193.m3u8?
@@ -4109,7 +4107,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4155.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4156.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/discovery-civilization-channel-logo-png-transparent.png" group-title="Canais Premium 5",Discovery Civilization HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4581.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="California Music Channel HD" tvg-logo="http://t.likeiptv.com/cmc.png" group-title="Música e Entretenimento",California Music Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel HD" tvg-logo="http://t.likeiptv.com/cmc.png" group-title="Canais Premium 5",California Music Channel HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3086.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://t.likeiptv.com/canalrural.png" group-title="Canais Premium 5",Canal Rural SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4168.m3u8?
@@ -4251,7 +4249,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4085.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4086.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://t.likeiptv.com/hbofamilia.png" group-title="Canais Premium 5",HBO Family SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4087.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="" group-title="Música e Entretenimento",HIT TV
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="" group-title="Canais Premium 5",HIT TV
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/5471.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Canais Premium 5",HBO Signature SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4081.m3u8?
@@ -4281,7 +4279,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4098.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4612.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="ESPN + SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Canais Premium 5",ESPN + SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/5620.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Kidz Only!" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Kidz Only!
+#EXTINF:-1 tvg-id="" tvg-name="Kidz Only!" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 5",Kidz Only!
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3043.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="IURD TV SD" tvg-logo="http://t.likeiptv.com/iurd.png" group-title="Canais Premium 5",IURD TV SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3105.m3u8?
@@ -4323,17 +4321,17 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4620.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/6928.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Notícias",Record News HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4593.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_PRIMEBOX_BRASIL.png" group-title="Música e Entretenimento",Prime Box Brazil SD
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_PRIMEBOX_BRASIL.png" group-title="Canais Premium 5",Prime Box Brazil SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4606.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="" group-title="Canais Premium 5",Polishop TV SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4609.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse HD" tvg-logo="" group-title="Canais Premium 5",Penthouse HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4583.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="" group-title="Música e Entretenimento",Music Box Brazil SD
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="" group-title="Canais Premium 5",Music Box Brazil SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4607.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="RIC TV (Record Curitiba) SD" tvg-logo="http://t.likeiptv.com/rictv.png" group-title="Canais Premium 5",RIC TV (Record Curitiba) SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/6894.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="HIT TV HD" tvg-logo="" group-title="Música e Entretenimento",HIT TV HD
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV HD" tvg-logo="" group-title="Canais Premium 5",HIT TV HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3927.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="RIC TV Maringá ( Record ) SD" tvg-logo="http://t.likeiptv.com/rictv.png" group-title="Canais Premium 5",RIC TV Maringá ( Record ) SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/6896.m3u8?
@@ -4377,7 +4375,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4031.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4032.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="" group-title="Canais Premium 5",Playboy HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4033.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="" group-title="Música e Entretenimento",Play TV SD
+#EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="" group-title="Canais Premium 5",Play TV SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4034.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Canais Premium 5",Paramount HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4035.m3u8?
@@ -4387,7 +4385,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4036.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4037.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="http://t.likeiptv.com/canaloff.png" group-title="Canais Premium 5",Off SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4038.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD" tvg-logo="" group-title="Música e Entretenimento",NRJ Hits HD
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD" tvg-logo="" group-title="Canais Premium 5",NRJ Hits HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4039.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="http://t.likeiptv.com/novotempo.png" group-title="Canais Premium 5",Novo Tempo SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4040.m3u8?
@@ -4411,13 +4409,13 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4050.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4052.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="" group-title="Canais Premium 5",NatGeo Kids HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4053.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MULTISHOW.png" group-title="Música e Entretenimento",Multishow HD
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MULTISHOW.png" group-title="Canais Premium 5",Multishow HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4054.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MULTISHOW.png" group-title="Música e Entretenimento",Multishow SD
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MULTISHOW.png" group-title="Canais Premium 5",Multishow SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4055.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://www.netcombo.com.br/imagens/logo/mtv-456_95x39.png" group-title="Música e Entretenimento",MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://www.netcombo.com.br/imagens/logo/mtv-456_95x39.png" group-title="Canais Premium 5",MTV HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4056.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="http://www.netcombo.com.br/imagens/logo/mtv-456_95x39.png" group-title="Música e Entretenimento",MTV SD
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="http://www.netcombo.com.br/imagens/logo/mtv-456_95x39.png" group-title="Canais Premium 5",MTV SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4057.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Canais Premium 5",Megapix HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4058.m3u8?
@@ -4429,15 +4427,15 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4060.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4061.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="http://t.likeiptv.com/redevida.png" group-title="Canais Premium 5",Rede Vida SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3930.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="QVC FULL HD" tvg-logo="http://t.likeiptv.com/qvchd.png" group-title="Internacional",QVC FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="QVC FULL HD" tvg-logo="http://t.likeiptv.com/qvchd.png" group-title="Canais Premium 5",QVC FULL HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3084.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="http://t.likeiptv.com/rtp2.png" group-title="Internacional",RTP 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="http://t.likeiptv.com/rtp2.png" group-title="Canais Premium 5",RTP 2 HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/1900.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FULL HD" tvg-logo="http://t.likeiptv.com/redbull.png" group-title="Internacional",Red Bull TV FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FULL HD" tvg-logo="http://t.likeiptv.com/redbull.png" group-title="Canais Premium 5",Red Bull TV FULL HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/786.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD" tvg-logo="http://t.likeiptv.com/rtp.png" group-title="Internacional",RTP 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD" tvg-logo="http://t.likeiptv.com/rtp.png" group-title="Canais Premium 5",RTP 1 HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/1901.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Play HD" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Play HD
+#EXTINF:-1 tvg-id="" tvg-name="Play HD" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 5",Play HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3066.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Max Prime SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Canais Premium 5",Max Prime SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4064.m3u8?
@@ -4463,7 +4461,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3922.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3921.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Sexzone HD" tvg-logo="" group-title="Canais Premium 5",Sexzone HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3920.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional SD" tvg-logo="" group-title="Internacional",SIC Internacional SD
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional SD" tvg-logo="" group-title="Canais Premium 5",SIC Internacional SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3919.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Sony SD" tvg-logo="http://t.likeiptv.com/canalsonynovo.png" group-title="Canais Premium 5",Sony SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3918.m3u8?
@@ -4501,7 +4499,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3907.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3906.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://t.likeiptv.com/syhd.png" group-title="Canais Premium 5",Syfy HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3905.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="SIC TV HD" tvg-logo="http://t.likeiptv.com/sicoriginal.png" group-title="Internacional",SIC TV HD
+#EXTINF:-1 tvg-id="" tvg-name="SIC TV HD" tvg-logo="http://t.likeiptv.com/sicoriginal.png" group-title="Canais Premium 5",SIC TV HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/1895.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://t.likeiptv.com/tbs.png" group-title="Canais Premium 5",TBS SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3904.m3u8?
@@ -4551,7 +4549,7 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/6921.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/6922.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TV Rio Largo (Maceió) SD" tvg-logo="http://t.likeiptv.com/riolargo.png" group-title="Canais Premium 5",TV Rio Largo (Maceió) SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/6932.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Y2K
+#EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Canais Premium 5",Y2K
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3049.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="" group-title="Canais Premium 5",Woohoo
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3864.m3u8?
@@ -4559,17 +4557,17 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3864.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3867.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="" group-title="Canais Premium 5",Viva
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3868.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Megahits
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Canais Premium 5",VH1 Megahits
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3869.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Canais Premium 5",VH1 HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3870.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Canais Premium 5",Universal Channel HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3871.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Canais Premium 5",Universal Channel SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3872.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="TVW HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Internacional",TVW HD
+#EXTINF:-1 tvg-id="" tvg-name="TVW HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Canais Premium 5",TVW HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3083.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="TVW-2 HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Internacional",TVW-2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVW-2 HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Canais Premium 5",TVW-2 HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3082.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="" group-title="Canais Premium 5",Tv Camara
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4622.m3u8?
@@ -4577,9 +4575,9 @@ http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4622.m3u8?
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4621.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Tv Gideoes" tvg-logo="http://t.likeiptv.com/tvgideoes.png" group-title="Canais Premium 5",Tv Gideoes
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3877.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Mega Hits SD
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits SD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Canais Premium 5",VH1 Mega Hits SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4611.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Megahits HD
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Canais Premium 5",VH1 Megahits HD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4610.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Trutv SD" tvg-logo="" group-title="Canais Premium 5",Trutv SD
 http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3881.m3u8?
