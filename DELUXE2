@@ -6334,3 +6334,667 @@ http://premimumiptv.ddns.net:25461/live/romualdo/123/9235.ts
 
 #EXTINF:-1, group-title="Canais Premium 8",WARNER CHANNEL HD
 http://premimumiptv.ddns.net:25461/live/romualdo/123/9232.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jzNdZpf.png " group-title="Canais Premium 10",Globo RJ
+https://dpmia01.gcdn.co/021/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jzNdZpf.png " group-title="Canais Premium 10",Globo SP
+https://dpmia01.gcdn.co/020/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jzNdZpf.png  " group-title="Canais Premium 10",Globo Internacional
+https://dpmia01.gcdn.co/081/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Sbt
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
+
+#EXTINF:0 tvg-logo="https://auvaromaia.com/wp-content/uploads/2016/09/TV-Serra1.png" group-title="Canais Premium 10",Sbt Serra
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/scBRqis.png  " group-title="Canais Premium 10",Sbt Rio
+https://dpmia01.gcdn.co/084/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Record
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/FEYC5yY.jpg" group-title="Canais Premium 10",Record MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Band
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Band
+https://dpmia01.gcdn.co/079/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/D1TFRQw.png " group-title="Canais Premium 10",Rede Tv
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/D1TFRQw.png" group-title="Canais Premium 10",Rede Tv
+https://dpmia01.gcdn.co/036/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Amazon SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Tv Camara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Band
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Sesc TV
+http://api.new.livestream.com:80/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Aparecida 
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w1431504734.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Aparecida 
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w512747337.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SSJLDvH.png" group-title="Canais Premium 10",Tv Futura 
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SSJLDvH.png" group-title="Canais Premium 10",Futura  RJ
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6vdy2k5.png " group-title="Canais Premium 10",Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+                              NOTÍCIAS       
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QK6gjOm.png" group-title="Canais Premium 10",Record News
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QK6gjOm.png" group-title="Canais Premium 10",Record News
+https://dpmia01.gcdn.co/100/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo=" https://i.imgur.com/QGUm2ks.png" group-title="Canais Premium 10",Globo News
+https://dpmia01.gcdn.co/013/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",GloboSat
+https://dpmia01.gcdn.co/057/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Band News
+https://dpmia01.gcdn.co/032/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal E! 
+https://dpmia01.gcdn.co/075/myStream/playlist.m3u8
+            
+                DOCUMENTÁRIOS 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jMkd7P7.png" group-title="Canais Premium 10",Animal Planets
+https://dpmia01.gcdn.co/017/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Channel
+https://dpmia01.gcdn.co/c011/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Civilization
+https://dpmia01.gcdn.co/058/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Sci
+https://dpmia01.gcdn.co/074/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Theather
+https://dpmia01.gcdn.co/028/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Turbo
+https://dpmia01.gcdn.co/002/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Word
+https://dpmia01.gcdn.co/094/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Fish Tv
+https://dpmia01.gcdn.co/050/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Chaf Tv
+https://dpmia01.gcdn.co/062/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Food NetWork
+https://dpmia01.gcdn.co/c012/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",H&H
+https://dpmia01.gcdn.co/c013/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",H2
+https://dpmia01.gcdn.co/034/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Históriy
+https://dpmia01.gcdn.co/024/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ID
+https://dpmia01.gcdn.co/033/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Nat Geo Wild
+https://dpmia01.gcdn.co/082/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",National Geográfic
+https://dpmia01.gcdn.co/098/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Off
+https://dpmia01.gcdn.co/068/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",WooHoo
+https://dpmia01.gcdn.co/070/myStream/playlist.m3u8
+
+                         Variedades
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",CLIPS TV
+http://45.43.208.98:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MTV CLIPS
+http://45.43.208.98:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MTV CITY
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Bis
+https://dpmia01.gcdn.co/035/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Curta
+https://dpmia01.gcdn.co/014/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MegaHits
+https://dpmia01.gcdn.co/051/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PlayTv
+https://dpmia01.gcdn.co/071/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Gnt
+https://dpmia01.gcdn.co/065/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Comedy Central
+https://dpmia01.gcdn.co/030/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MultiShow 
+https://dpmia01.gcdn.co/022/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Viva
+https://dpmia01.gcdn.co/001/myStream/playlist.m3u8
+
+                             Infantil 
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Baby Tv
+https://dpmia01.gcdn.co/080/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Boomerang
+https://dpmia01.gcdn.co/072/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Cartoon Network
+https://dpmia01.gcdn.co/027/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Discovery Kids
+https://dpmia01.gcdn.co/c014/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Disney
+https://dpmia01.gcdn.co/095/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Disney Jr
+https://dpmia01.gcdn.co/087/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Disney  Xd
+https://dpmia01.gcdn.co/086/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Gloob
+https://dpmia01.gcdn.co/073/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Nick
+https://dpmia01.gcdn.co/015/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Nick Jr
+https://dpmia01.gcdn.co/059/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Rá-tim-bum 
+https://dpmia01.gcdn.co/023/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Zoomoo
+https://dpmia01.gcdn.co/006/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Too Cast
+https://dpmia01.gcdn.co/085/myStream/playlist.m3u8
+
+                           Esportes 
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Band Sports
+https://dpmia01.gcdn.co/c015/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Fox Sports
+https://dpmia01.gcdn.co/039/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Fox Sports 2
+https://dpmia01.gcdn.co/c009/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Espn
+https://dpmia01.gcdn.co/c001/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Espn Brasil
+https://dpmia01.gcdn.co/c002/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Espn +
+https://dpmia01.gcdn.co/c003/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Esporte Interativo 
+https://dpmia01.gcdn.co/045/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Esporte Interativo 2
+https://dpmia01.gcdn.co/c004/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Esporte Interativo 3
+https://dpmia01.gcdn.co/c005/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Combate
+https://dpmia01.gcdn.co/016/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANHAqIm.png " group-title="Canais Premium 10",Sportv
+https://dpmia01.gcdn.co/c008/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANHAqIm.png  " group-title="Canais Premium 10",Sportv 2
+https://dpmia01.gcdn.co/c007/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANHAqIm.png" group-title="Canais Premium 10",Sportv 3
+https://dpmia01.gcdn.co/c016/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/m20tDkD.png  " group-title="Canais Premium 10",Pfc Clubes
+https://dpmia01.gcdn.co/112/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg" group-title="Canais Premium 10",Pfc 2
+https://dpmia01.gcdn.co/111/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg" group-title="Canais Premium 10",Pfc 3
+https://dpmia01.gcdn.co/110/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg " group-title="Canais Premium 10",Pfc 4
+https://dpmia01.gcdn.co/109/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg  " group-title="Canais Premium 10",Pfc 5
+https://dpmia01.gcdn.co/042/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg " group-title="Canais Premium 10",Pfc 6
+https://dpmia01.gcdn.co/043/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg" group-title="Canais Premium 10",Pfc 7
+https://dpmia01.gcdn.co/044/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/71Nmb2D.jpg  " group-title="Canais Premium 10",Pfc 8
+https://dpmia01.gcdn.co/041/myStream/playlist.m3u8
+
+                     Filmes e Series
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Space
+https://dpmia01.gcdn.co/029/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Tnt
+https://dpmia01.gcdn.co/009/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Tnt Séries
+https://dpmia01.gcdn.co/025/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Tlc
+https://dpmia01.gcdn.co/037/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Tbs
+https://dpmia01.gcdn.co/052/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Isat
+https://dpmia01.gcdn.co/078/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Syfy
+https://dpmia01.gcdn.co/067/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Warner
+https://dpmia01.gcdn.co/077/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Amc
+https://dpmia01.gcdn.co/007/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Axn
+https://dpmia01.gcdn.co/076/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",A&e
+https://dpmia01.gcdn.co/031/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Fox
+https://dpmia01.gcdn.co/053/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Fx
+https://dpmia01.gcdn.co/099/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Fox Life
+https://dpmia01.gcdn.co/069/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",canal Fox Action
+https://dpmia01.gcdn.co/019/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal FoxPremium 
+https://dpmia01.gcdn.co/018/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Max
+https://dpmia01.gcdn.co/060/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Max Up
+https://dpmia01.gcdn.co/046/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Cinemax
+https://dpmia01.gcdn.co/040/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Maxprime
+https://dpmia01.gcdn.co/093/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Tcm
+https://dpmia01.gcdn.co/049/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Canal Brasil
+https://dpmia01.gcdn.co/102/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Stúdio Universal
+https://dpmia01.gcdn.co/096/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Universal Channel
+https://dpmia01.gcdn.co/083/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",Paramount 
+https://dpmia01.gcdn.co/004/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO
+https://dpmia01.gcdn.co/047/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO 2
+https://dpmia01.gcdn.co/048/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO PLUS
+https://dpmia01.gcdn.co/055/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO FAMILY
+https://dpmia01.gcdn.co/088/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO SIGNATURE 
+https://dpmia01.gcdn.co/089/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE ACTION
+https://dpmia01.gcdn.co/090/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE TOUCH
+https://dpmia01.gcdn.co/056/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE PIPOCA
+https://dpmia01.gcdn.co/092/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE PREMIUM 
+https://dpmia01.gcdn.co/091/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE FUN
+https://dpmia01.gcdn.co/101/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE CULT
+https://dpmia01.gcdn.co/054/myStream/playlist.m3u8
+
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",GLOBO SP
+https://dpmia01.gcdn.co/020/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",GLOBO RJ
+https://dpmia01.gcdn.co/021/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",RPC TV
+https://dpmia01.gcdn.co/021/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",RECORD
+https://dpmia01.gcdn.co/066/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",REDE TV
+https://dpmia01.gcdn.co/036/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",BAND
+https://dpmia01.gcdn.co/079/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",SBT
+https://dpmia01.gcdn.co/084/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="  https://i.imgur.com/iBozjAg.png " group-title="Canais Premium 10",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ANIMAL PLANET
+https://dpmia01.gcdn.co/017/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISCOVERY CIVILIZATION
+https://dpmia01.gcdn.co/058/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISCOVERY SCIENCE
+https://dpmia01.gcdn.co/074/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISCOVERY WORD
+https://dpmia01.gcdn.co/094/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HISTORY
+https://dpmia01.gcdn.co/024/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",H2
+https://dpmia01.gcdn.co/034/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",NAT GEO WILD
+https://dpmia01.gcdn.co/082/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Investigation_Discovery_2010.png/revision/latest?cb=20171211080015  " group-title="Canais Premium 10",ID INVESTIGATION
+https://dpmia01.gcdn.co/033/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",BAND SPORTS
+https://dpmia01.gcdn.co/c015/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",COMBATE
+https://dpmia01.gcdn.co/016/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ESPN
+https://dpmia01.gcdn.co/c001/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ESPN+
+https://dpmia01.gcdn.co/c003/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ESPN BR
+https://dpmia01.gcdn.co/c002/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ESPORTE INTERATIVO BR
+https://dpmia01.gcdn.co/045/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ESPORTE INTERATIVO
+https://dpmia01.gcdn.co/c004/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",ESPORTE INTERATIVO 2
+https://dpmia01.gcdn.co/c005/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",FOX SPORTS
+https://dpmia01.gcdn.co/039/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",FOX SPORTS 2
+https://dpmia01.gcdn.co/c009/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PREMIERE CLUBE
+https://dpmia01.gcdn.co/109/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PREMIERE 2
+https://dpmia01.gcdn.co/110/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PREMIERE 3
+https://dpmia01.gcdn.co/041/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PREMIERE 4
+https://dpmia01.gcdn.co/042/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PREMIERE 5
+https://dpmia01.gcdn.co/043/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PREMIERE 6
+https://dpmia01.gcdn.co/044/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",SPORTV
+https://dpmia01.gcdn.co/c008/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jrlyxqR.png " group-title="Canais Premium 10",SPORTV 2
+https://dpmia01.gcdn.co/c009/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",SPORTV 3
+https://dpmia01.gcdn.co/112/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",BABY TV
+https://dpmia01.gcdn.co/080/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",BOOMERANG
+https://dpmia01.gcdn.co/072/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",CARTOON NETWORK
+https://dpmia01.gcdn.co/027/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISCOVERY KIDS
+https://dpmia01.gcdn.co/c014/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISNEY CHANNEL
+https://dpmia01.gcdn.co/095/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISNEY JÚNIOR 
+https://dpmia01.gcdn.co/087/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",DISNEY XD
+https://dpmia01.gcdn.co/086/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",NICK
+https://dpmia01.gcdn.co/015/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",NICK JR
+https://dpmia01.gcdn.co/059/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",BIS
+https://dpmia01.gcdn.co/035/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",COMEDY CENTRAL
+https://dpmia01.gcdn.co/030/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",GNT
+https://dpmia01.gcdn.co/065/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MTV
+https://dpmia01.gcdn.co/103/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MULTISHOW 
+https://dpmia01.gcdn.co/022/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",VIVA
+https://dpmia01.gcdn.co/001/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",BAND NEWS
+https://dpmia01.gcdn.co/032/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",GLOBO NEWS
+https://dpmia01.gcdn.co/013/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",RECORD NEWS
+https://dpmia01.gcdn.co/100/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",A&E
+https://dpmia01.gcdn.co/031/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",AMC
+https://dpmia01.gcdn.co/007/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",AXN
+https://dpmia01.gcdn.co/076/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",CINEMAX
+https://dpmia01.gcdn.co/040/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",FOX
+https://dpmia01.gcdn.co/053/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",FOX PREMIUM 1
+https://dpmia01.gcdn.co/018/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",FOX PREMIUM 2
+https://dpmia01.gcdn.co/019/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",FX
+https://dpmia01.gcdn.co/099/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO
+https://dpmia01.gcdn.co/047/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO 2
+https://dpmia01.gcdn.co/048/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO FAMILY
+https://dpmia01.gcdn.co/088/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO PLUS
+https://dpmia01.gcdn.co/055/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",HBO SIGNATURE 
+https://dpmia01.gcdn.co/089/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MAX
+https://dpmia01.gcdn.co/060/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MAX UP
+https://dpmia01.gcdn.co/046/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MAXPRIME
+https://dpmia01.gcdn.co/093/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",MEGAPIX
+https://dpmia01.gcdn.co/038/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",PARAMOUNT
+https://dpmia01.gcdn.co/004/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",SONY
+https://dpmia01.gcdn.co/003/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",SPACE
+https://dpmia01.gcdn.co/029/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TNT
+https://dpmia01.gcdn.co/056/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",STÚDIO UNIVERSAL 
+https://dpmia01.gcdn.co/096/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",UNIVERSAL CHANNEL
+https://dpmia01.gcdn.co/083/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",SYFY
+https://dpmia01.gcdn.co/067/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE ACTION
+https://dpmia01.gcdn.co/090/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE FUN
+https://dpmia01.gcdn.co/101/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE PIPOCA
+https://dpmia01.gcdn.co/092/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE PREMIUM
+https://dpmia01.gcdn.co/091/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Premium 10",TELECINE TOUCHE
+https://dpmia01.gcdn.co/056/myStream/playlist.m3u8
