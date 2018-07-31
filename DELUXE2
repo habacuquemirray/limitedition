@@ -2,8 +2,6 @@
 ------------- Canais Premium 0 -----------------
 
 ------------- Canais Premium 1 -----------------
-
-#EXTM3U
 #EXTINF:-1, group-title="Canais Premium 1",A&E
 http://54.39.53.45:8880/live/nielson/nielson/8156.ts
 #EXTINF:-1, group-title="Canais Premium 1",A&E Alternativo
@@ -4991,2140 +4989,590 @@ http://144.217.69.3:25461/live/1024/1024/11798.ts
 --------- Canais Premium 4 --------------------
 
 
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET HD H265
-http://144.217.69.3:25461/live/1010/1010/20697.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS HD H265
-http://144.217.69.3:25461/live/1010/1010/20696.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS SD H265
-http://144.217.69.3:25461/live/1010/1010/20695.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMEDY CENTRAL HD H265
-http://144.217.69.3:25461/live/1010/1010/20693.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALT HD H265
-http://144.217.69.3:25461/live/1010/1010/20692.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH SD H265
-http://144.217.69.3:25461/live/1010/1010/20690.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN HD H265
-http://144.217.69.3:25461/live/1010/1010/20683.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN SD H265
-http://144.217.69.3:25461/live/1010/1010/20682.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL HD H265
-http://144.217.69.3:25461/live/1010/1010/20681.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL SD H265
-http://144.217.69.3:25461/live/1010/1010/20680.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 HD H265
-http://144.217.69.3:25461/live/1010/1010/20679.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 SD H265
-http://144.217.69.3:25461/live/1010/1010/20678.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO HD H265
-http://144.217.69.3:25461/live/1010/1010/20677.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO SD H265
-http://144.217.69.3:25461/live/1010/1010/20676.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORT 2 HD H265
-http://144.217.69.3:25461/live/1010/1010/20674.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORT 2 SD H265
-http://144.217.69.3:25461/live/1010/1010/20626.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV CAMPINAS HD H265
-http://144.217.69.3:25461/live/1010/1010/20688.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV CAMPINAS HD H265.
-http://144.217.69.3:25461/live/1010/1010/20687.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV CAMPINAS SD H265
-http://144.217.69.3:25461/live/1010/1010/20686.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV RIBEIRAO PRETO HD H265
-http://144.217.69.3:25461/live/1010/1010/20685.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV SAO CARLOS HD H265
-http://144.217.69.3:25461/live/1010/1010/20684.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO BRASILIA HD H265
-http://144.217.69.3:25461/live/1010/1010/20673.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO MINAS HD H265
-http://144.217.69.3:25461/live/1010/1010/20672.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NORDESTE HD H265
-http://144.217.69.3:25461/live/1010/1010/20670.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ HD H265
-http://144.217.69.3:25461/live/1010/1010/20669.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP HD H265
-http://144.217.69.3:25461/live/1010/1010/20668.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RBS TV HD H265
-http://144.217.69.3:25461/live/1010/1010/20645.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO REDE AMAZONICA HD H265
-http://144.217.69.3:25461/live/1010/1010/20644.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC CURITIBA HD H265
-http://144.217.69.3:25461/live/1010/1010/20643.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV BAHIA HD H265
-http://144.217.69.3:25461/live/1010/1010/20636.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV CENTRO AMERICA HD H265
-http://144.217.69.3:25461/live/1010/1010/20635.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV LIBERAL BELEM HD H265
-http://144.217.69.3:25461/live/1010/1010/20634.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM BAURU HD H265
-http://144.217.69.3:25461/live/1010/1010/20633.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV VANGUARDA S.J .DOS CAMPOS H265
-http://144.217.69.3:25461/live/1010/1010/20632.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV VERDES MARES FORTALEZA HD H265
-http://144.217.69.3:25461/live/1010/1010/20631.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS HD H265
-http://144.217.69.3:25461/live/1010/1010/20667.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS SD H265
-http://144.217.69.3:25461/live/1010/1010/20666.ts
-#EXTINF:-1, group-title="Canais Premium 4",GNT FULLHD H265
-http://144.217.69.3:25461/live/1010/1010/20665.ts
-#EXTINF:-1, group-title="Canais Premium 4",GNT SD H265
-http://144.217.69.3:25461/live/1010/1010/20664.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 FULLHD H265
-http://144.217.69.3:25461/live/1010/1010/20663.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 SD H265
-http://144.217.69.3:25461/live/1010/1010/20662.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO HD H265
-http://144.217.69.3:25461/live/1010/1010/20661.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SD H265
-http://144.217.69.3:25461/live/1010/1010/20660.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 HD H265
-http://144.217.69.3:25461/live/1010/1010/20659.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 SD H265
-http://144.217.69.3:25461/live/1010/1010/20658.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY CHANNEL HD H265
-http://144.217.69.3:25461/live/1010/1010/20657.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY CHANNEL SD H265
-http://144.217.69.3:25461/live/1010/1010/20656.ts
-#EXTINF:-1, group-title="Canais Premium 4",INTER TV CABUGI HD H265
-http://144.217.69.3:25461/live/1010/1010/20654.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATIONAL GEOGRAPHIC HD H265
-http://144.217.69.3:25461/live/1010/1010/20651.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATIONAL GEOGRAPHIC SD H265
-http://144.217.69.3:25461/live/1010/1010/20650.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE CLUBES HD H265
-http://144.217.69.3:25461/live/1010/1010/20649.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE CLUBES SD H265
-http://144.217.69.3:25461/live/1010/1010/20648.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV HD H265
-http://144.217.69.3:25461/live/1010/1010/20642.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV SD H265
-http://144.217.69.3:25461/live/1010/1010/20641.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PIPOCA HD H265
-http://144.217.69.3:25461/live/1010/1010/20640.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PIPOCA SD H265
-http://144.217.69.3:25461/live/1010/1010/20639.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE TOUCH HD H265
-http://144.217.69.3:25461/live/1010/1010/20638.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE TOUCH SD H265
-http://144.217.69.3:25461/live/1010/1010/20637.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP FULLHD
-http://144.217.69.3:25461/live/1010/1010/12739.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP HD
-http://144.217.69.3:25461/live/1010/1010/13092.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP
-http://144.217.69.3:25461/live/1010/1010/13093.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13506.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13504.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ FULLHD
-http://144.217.69.3:25461/live/1010/1010/12740.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ HD
-http://144.217.69.3:25461/live/1010/1010/13096.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ
-http://144.217.69.3:25461/live/1010/1010/13097.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13507.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO MINAS FULLHD
-http://144.217.69.3:25461/live/1010/1010/12741.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO MINAS HD
-http://144.217.69.3:25461/live/1010/1010/13104.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO MINAS
-http://144.217.69.3:25461/live/1010/1010/13105.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO BRASILIA HD
-http://144.217.69.3:25461/live/1010/1010/13110.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO BRASILIA
-http://144.217.69.3:25461/live/1010/1010/13111.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV HD CAMPINAS
-http://144.217.69.3:25461/live/1010/1010/13108.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOBO EPTV CAMPINAS HD
-http://144.217.69.3:25461/live/1010/1010/20863.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOBO EPTV CAMPINAS SD
-http://144.217.69.3:25461/live/1010/1010/20862.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV CAMPINAS
-http://144.217.69.3:25461/live/1010/1010/13109.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV HD RIBEIRÃO PRETO
-http://144.217.69.3:25461/live/1010/1010/13107.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV RIBEIRÃO PRETO
-http://144.217.69.3:25461/live/1010/1010/13106.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NORDESTE HD
-http://144.217.69.3:25461/live/1010/1010/13100.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NORDESTE
-http://144.217.69.3:25461/live/1010/1010/13101.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RBS HD TV PORTO ALEGRE
-http://144.217.69.3:25461/live/1010/1010/13098.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RBS TV PORTO ALEGRE
-http://144.217.69.3:25461/live/1010/1010/13099.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RBS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13503.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC CURITIBA HD
-http://144.217.69.3:25461/live/1010/1010/13094.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC CURITIBA FULLHD
-http://144.217.69.3:25461/live/1010/1010/12693.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC CURITIBA
-http://144.217.69.3:25461/live/1010/1010/13095.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RPC HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13502.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV ANHANGUERA HD
-http://144.217.69.3:25461/live/1010/1010/13090.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOBO TV ANHANGUERA
-http://144.217.69.3:25461/live/1010/1010/20628.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV ANHANGUERA
-http://144.217.69.3:25461/live/1010/1010/13091.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV BAHIA HD
-http://144.217.69.3:25461/live/1010/1010/13088.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV BAHIA
-http://144.217.69.3:25461/live/1010/1010/13089.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM BAURU
-http://144.217.69.3:25461/live/1010/1010/13087.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM HD S. J. DO RIO PRETO
-http://144.217.69.3:25461/live/1010/1010/13086.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM S. J. DO RIO PRETO
-http://144.217.69.3:25461/live/1010/1010/13085.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM SOROCABA
-http://144.217.69.3:25461/live/1010/1010/13084.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TEM SJRP ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13501.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TRIBUNA SANTOS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13500.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO INTERNACIONAL HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13505.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV ARARAQUARA
-http://144.217.69.3:25461/live/1010/1010/16837.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO EPTV SÃO CARLOS
-http://144.217.69.3:25461/live/1010/1010/16836.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO INTER TV NATAL
-http://144.217.69.3:25461/live/1010/1010/16835.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO INTER TV RJ SERRA MAR
-http://144.217.69.3:25461/live/1010/1010/16834.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO INTERNACIONAL
-http://144.217.69.3:25461/live/1010/1010/16822.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NSC TV BLUMENAU
-http://144.217.69.3:25461/live/1010/1010/16833.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NSC TV FLORIANOPOLIS
-http://144.217.69.3:25461/live/1010/1010/16832.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NSC TV HD FLORIANOPOLIS
-http://144.217.69.3:25461/live/1010/1010/16831.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NSC TV JOINVILLE
-http://144.217.69.3:25461/live/1010/1010/16830.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO REDE AM. MANAUS
-http://144.217.69.3:25461/live/1010/1010/16829.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV C. AMÉRICA CUIABA
-http://144.217.69.3:25461/live/1010/1010/16828.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV LIBERAL BELEM
-http://144.217.69.3:25461/live/1010/1010/16827.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV SANTA CRUZ ITABUNA
-http://144.217.69.3:25461/live/1010/1010/16826.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV TRIBUNA SANTOS
-http://144.217.69.3:25461/live/1010/1010/16825.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV VANGUARDA S. J. DOS CAMPOS
-http://144.217.69.3:25461/live/1010/1010/16824.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO TV VERDES MARES FORTALEZA
-http://144.217.69.3:25461/live/1010/1010/16823.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND FULLHD
-http://144.217.69.3:25461/live/1010/1010/12744.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND HD
-http://144.217.69.3:25461/live/1010/1010/13194.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND
-http://144.217.69.3:25461/live/1010/1010/13195.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13536.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BAND CAMPINAS HD
-http://144.217.69.3:25461/live/1010/1010/20912.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BAND CAMPINAS SD
-http://144.217.69.3:25461/live/1010/1010/20911.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL BRASIL HD
-http://144.217.69.3:25461/live/1010/1010/13183.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL BRASIL
-http://144.217.69.3:25461/live/1010/1010/13184.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL RURAL ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13425.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CULTURA HD
-http://144.217.69.3:25461/live/1010/1010/20888.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CULTURA SD
-http://144.217.69.3:25461/live/1010/1010/20887.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURA HD
-http://144.217.69.3:25461/live/1010/1010/13114.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FUTURA HD
-http://144.217.69.3:25461/live/1010/1010/20900.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FUTURA SD
-http://144.217.69.3:25461/live/1010/1010/20899.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURA
-http://144.217.69.3:25461/live/1010/1010/13115.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13509.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURA RJ ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13424.ts
-#EXTINF:-1, group-title="Canais Premium 4",NBR
-http://144.217.69.3:25461/live/1010/1010/13656.ts
-#EXTINF:-1, group-title="Canais Premium 4",NBR ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13418.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD FULLHD
-http://144.217.69.3:25461/live/1010/1010/12736.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD HD
-http://144.217.69.3:25461/live/1010/1010/13005.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD HD2
-http://144.217.69.3:25461/live/1010/1010/13009.ts
-#EXTINF:-1, group-title="Canais Premium 4",.RECORD HD
-http://144.217.69.3:25461/live/1010/1010/20762.ts
-#EXTINF:-1, group-title="Canais Premium 4",.RECORD SD
-http://144.217.69.3:25461/live/1010/1010/20761.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD
-http://144.217.69.3:25461/live/1010/1010/13010.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD SP
-http://144.217.69.3:25461/live/1010/1010/13006.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD TV HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13438.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD TV ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13465.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE BRASIL
-http://144.217.69.3:25461/live/1010/1010/13004.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE BRASIL ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13436.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV HD
-http://144.217.69.3:25461/live/1010/1010/13002.ts
-#EXTINF:-1, group-title="Canais Premium 4",.REDETV HD
-http://144.217.69.3:25461/live/1010/1010/20758.ts
-#EXTINF:-1, group-title="Canais Premium 4",.REDETV SD
-http://144.217.69.3:25461/live/1010/1010/20757.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV
-http://144.217.69.3:25461/live/1010/1010/13003.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13463.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDETV ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13434.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDETV RJ ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13422.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV RONDONIA
-http://144.217.69.3:25461/live/1010/1010/16947.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE PETROPOLIS
-http://144.217.69.3:25461/live/1010/1010/16946.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT FULLHD
-http://144.217.69.3:25461/live/1010/1010/12735.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT HD
-http://144.217.69.3:25461/live/1010/1010/12999.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SBT HD
-http://144.217.69.3:25461/live/1010/1010/20756.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SBT SD
-http://144.217.69.3:25461/live/1010/1010/20755.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT
-http://144.217.69.3:25461/live/1010/1010/13000.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT SP INTERIOR
-http://144.217.69.3:25461/live/1010/1010/12998.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13433.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT HD TV PIONEIRA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13432.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT GO TV SERRA DOURADA
-http://144.217.69.3:25461/live/1010/1010/10406.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT PE TV JORNAL RECIFE
-http://144.217.69.3:25461/live/1010/1010/10407.ts
-#EXTINF:-1, group-title="Canais Premium 4",18 SBT - TV Jornal (PE)
-http://144.217.69.3:25461/live/1010/1010/10402.ts
-#EXTINF:-1, group-title="Canais Premium 4",19 SBT - TV Jornal Caruaru (PE)
-http://144.217.69.3:25461/live/1010/1010/10403.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ARACATI
-http://144.217.69.3:25461/live/1010/1010/16948.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV BRASIL
-http://144.217.69.3:25461/live/1010/1010/12957.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV BRASIL ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13431.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CAMARA
-http://144.217.69.3:25461/live/1010/1010/12956.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CULTURA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13430.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ESCOLA
-http://144.217.69.3:25461/live/1010/1010/12955.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV DIARIO
-http://144.217.69.3:25461/live/1010/1010/13665.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV DIFUSORA SUL
-http://144.217.69.3:25461/live/1010/1010/16949.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GAZETA HD
-http://144.217.69.3:25461/live/1010/1010/16867.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GAZETA SP HD
-http://144.217.69.3:25461/live/1010/1010/12954.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GAZETA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13427.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV JUSTICA
-http://144.217.69.3:25461/live/1010/1010/12959.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV SENADO
-http://144.217.69.3:25461/live/1010/1010/12960.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Vitoria RECORD ES HD
-http://144.217.69.3:25461/live/1010/1010/10401.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV VITORIA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13426.ts
-#EXTINF:-1, group-title="Canais Premium 4",TERRA VIVA
-http://144.217.69.3:25461/live/1010/1010/12968.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS HD
-http://144.217.69.3:25461/live/1010/1010/13190.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BAND SPORTS HD
-http://144.217.69.3:25461/live/1010/1010/20908.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BAND SPORTS SD
-http://144.217.69.3:25461/live/1010/1010/20907.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS
-http://144.217.69.3:25461/live/1010/1010/13191.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13537.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN FULLHD
-http://144.217.69.3:25461/live/1010/1010/12716.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN HD
-http://144.217.69.3:25461/live/1010/1010/13138.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPN  HD
-http://144.217.69.3:25461/live/1010/1010/20861.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPN SD
-http://144.217.69.3:25461/live/1010/1010/20860.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN
-http://144.217.69.3:25461/live/1010/1010/13145.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN+ HD
-http://144.217.69.3:25461/live/1010/1010/13143.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPN+ HD
-http://144.217.69.3:25461/live/1010/1010/20857.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN+
-http://144.217.69.3:25461/live/1010/1010/13144.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN  ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13520.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL FULLHD
-http://144.217.69.3:25461/live/1010/1010/12728.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL HD
-http://144.217.69.3:25461/live/1010/1010/13141.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPN BRASIL HD
-http://144.217.69.3:25461/live/1010/1010/20859.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPN BRASIL SD
-http://144.217.69.3:25461/live/1010/1010/20858.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL
-http://144.217.69.3:25461/live/1010/1010/13142.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13519.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN Extra FULLHD
-http://144.217.69.3:25461/live/1010/1010/12692.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN EXTRA HD
-http://144.217.69.3:25461/live/1010/1010/13139.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN EXTRA
-http://144.217.69.3:25461/live/1010/1010/13140.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO FULLHD
-http://144.217.69.3:25461/live/1010/1010/12714.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO HD
-http://144.217.69.3:25461/live/1010/1010/13136.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPORTE INTERATIVO HD
-http://144.217.69.3:25461/live/1010/1010/20854.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPORTE INTERATIVO SD
-http://144.217.69.3:25461/live/1010/1010/20853.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO
-http://144.217.69.3:25461/live/1010/1010/13137.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12715.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 HD
-http://144.217.69.3:25461/live/1010/1010/13134.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPORTE INTERATIVO 2 HD
-http://144.217.69.3:25461/live/1010/1010/20856.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ESPORTE INTERATIVO 2 SD
-http://144.217.69.3:25461/live/1010/1010/20855.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2
-http://144.217.69.3:25461/live/1010/1010/13135.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2 HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13518.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO BR FULLHD
-http://144.217.69.3:25461/live/1010/1010/12694.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO BR HD
-http://144.217.69.3:25461/live/1010/1010/13132.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO BR
-http://144.217.69.3:25461/live/1010/1010/13133.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO BR HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13517.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS FULLHD
-http://144.217.69.3:25461/live/1010/1010/12727.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13510.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS HD
-http://144.217.69.3:25461/live/1010/1010/13118.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX SPORTS HD
-http://144.217.69.3:25461/live/1010/1010/20842.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX SPORTS SD
-http://144.217.69.3:25461/live/1010/1010/20841.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS
-http://144.217.69.3:25461/live/1010/1010/13119.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13512.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12713.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2 HD
-http://144.217.69.3:25461/live/1010/1010/13116.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX SPORTS 2 HD
-http://144.217.69.3:25461/live/1010/1010/20844.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX SPORTS 2 SD
-http://144.217.69.3:25461/live/1010/1010/20843.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2
-http://144.217.69.3:25461/live/1010/1010/13117.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13511.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV FULLHD
-http://144.217.69.3:25461/live/1010/1010/12734.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13456.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV HD
-http://144.217.69.3:25461/live/1010/1010/12988.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPORTV HD
-http://144.217.69.3:25461/live/1010/1010/20746.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPORTV SD
-http://144.217.69.3:25461/live/1010/1010/20745.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV
-http://144.217.69.3:25461/live/1010/1010/12993.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12710.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2 HD
-http://144.217.69.3:25461/live/1010/1010/12991.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPORTV 2 HD
-http://144.217.69.3:25461/live/1010/1010/20744.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPORTV 2 SD
-http://144.217.69.3:25461/live/1010/1010/20743.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2
-http://144.217.69.3:25461/live/1010/1010/12992.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2 HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13458.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 2 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13459.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 3 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12709.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 3 HD
-http://144.217.69.3:25461/live/1010/1010/12989.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPORTV 3 HD
-http://144.217.69.3:25461/live/1010/1010/20742.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPORTV 3 SD
-http://144.217.69.3:25461/live/1010/1010/20741.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 3
-http://144.217.69.3:25461/live/1010/1010/12990.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPORTV 3 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13457.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE FULLHD
-http://144.217.69.3:25461/live/1010/1010/12743.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE HD
-http://144.217.69.3:25461/live/1010/1010/13174.ts
-#EXTINF:-1, group-title="Canais Premium 4",.COMBATE HD
-http://144.217.69.3:25461/live/1010/1010/20890.ts
-#EXTINF:-1, group-title="Canais Premium 4",.COMBATE SD
-http://144.217.69.3:25461/live/1010/1010/20889.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE
-http://144.217.69.3:25461/live/1010/1010/13175.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13530.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMBATE ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13531.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE CLUBES FULLHD
-http://144.217.69.3:25461/live/1010/1010/12726.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE CLUBES FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13475.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE CLUBES HD
-http://144.217.69.3:25461/live/1010/1010/13013.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIRERE CLUBES HD
-http://144.217.69.3:25461/live/1010/1010/20780.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIRERE CLUBES SD
-http://144.217.69.3:25461/live/1010/1010/20779.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE CLUBES
-http://144.217.69.3:25461/live/1010/1010/13014.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 2 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12725.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 2 HD
-http://144.217.69.3:25461/live/1010/1010/13025.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 2 HD
-http://144.217.69.3:25461/live/1010/1010/20778.ts
-#EXTINF:-1, group-title="Canais Premium 4",..PREMIERE 2 HD
-http://144.217.69.3:25461/live/1010/1010/20647.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 2 SD
-http://144.217.69.3:25461/live/1010/1010/20777.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 2
-http://144.217.69.3:25461/live/1010/1010/13026.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 2 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13473.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 3 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12724.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 3 HD
-http://144.217.69.3:25461/live/1010/1010/13023.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 3 HD
-http://144.217.69.3:25461/live/1010/1010/20776.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 3 SD
-http://144.217.69.3:25461/live/1010/1010/20775.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 3
-http://144.217.69.3:25461/live/1010/1010/13024.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 3 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13472.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 4 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12723.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 4 HD
-http://144.217.69.3:25461/live/1010/1010/13021.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 4 HD
-http://144.217.69.3:25461/live/1010/1010/20774.ts
-#EXTINF:-1, group-title="Canais Premium 4",..PREMIERE 4 HD
-http://144.217.69.3:25461/live/1010/1010/20646.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 4 SD
-http://144.217.69.3:25461/live/1010/1010/20773.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 4
-http://144.217.69.3:25461/live/1010/1010/13022.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 4 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13471.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 5 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12722.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 5 HD
-http://144.217.69.3:25461/live/1010/1010/13019.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 5 HD
-http://144.217.69.3:25461/live/1010/1010/20772.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 5 SD
-http://144.217.69.3:25461/live/1010/1010/20771.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 5
-http://144.217.69.3:25461/live/1010/1010/13020.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 5 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13470.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 6 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12721.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 6 HD
-http://144.217.69.3:25461/live/1010/1010/13017.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 6 HD
-http://144.217.69.3:25461/live/1010/1010/20770.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 6 SD
-http://144.217.69.3:25461/live/1010/1010/20769.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 6
-http://144.217.69.3:25461/live/1010/1010/13018.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 6 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13469.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 7 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12720.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 7 HD
-http://144.217.69.3:25461/live/1010/1010/13015.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 7 HD
-http://144.217.69.3:25461/live/1010/1010/20768.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PREMIERE 7 SD
-http://144.217.69.3:25461/live/1010/1010/20767.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 7
-http://144.217.69.3:25461/live/1010/1010/13016.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 7 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13468.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 8 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13467.ts
-#EXTINF:-1, group-title="Canais Premium 4",PREMIERE 9 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13466.ts
-#EXTINF:-1, group-title="Canais Premium 4",TABELA JOGOS PREMIERE
-http://144.217.69.3:25461/live/1010/1010/12938.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PREMIUM FULLHD
-http://144.217.69.3:25461/live/1010/1010/12730.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PREMIUM HD
-http://144.217.69.3:25461/live/1010/1010/12971.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE PREMIUM HD
-http://144.217.69.3:25461/live/1010/1010/20725.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE PREMIUM SD
-http://144.217.69.3:25461/live/1010/1010/20724.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PREMIUM
-http://144.217.69.3:25461/live/1010/1010/12972.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PREMIUM ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13447.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE ACTION FULLHD
-http://144.217.69.3:25461/live/1010/1010/12733.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE ACTION HD
-http://144.217.69.3:25461/live/1010/1010/12979.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE ACTION HD
-http://144.217.69.3:25461/live/1010/1010/20733.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE ACTION SD
-http://144.217.69.3:25461/live/1010/1010/20732.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE ACTION
-http://144.217.69.3:25461/live/1010/1010/12980.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE ACTION ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13452.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PIPOCA FULLHD
-http://144.217.69.3:25461/live/1010/1010/12731.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PIPOCA HD
-http://144.217.69.3:25461/live/1010/1010/12973.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE PIPOCA HD
-http://144.217.69.3:25461/live/1010/1010/20727.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE PIPOCA SD
-http://144.217.69.3:25461/live/1010/1010/20726.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PIPOCA
-http://144.217.69.3:25461/live/1010/1010/12974.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE PIPOCA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13448.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE FUN FULLHD
-http://144.217.69.3:25461/live/1010/1010/12732.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE FUN HD
-http://144.217.69.3:25461/live/1010/1010/12975.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE FUN HD
-http://144.217.69.3:25461/live/1010/1010/20729.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE FUN SD
-http://144.217.69.3:25461/live/1010/1010/20728.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE FUN
-http://144.217.69.3:25461/live/1010/1010/12976.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE FUN ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13449.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE TOUCH FULLHD
-http://144.217.69.3:25461/live/1010/1010/12729.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE TOUCH HD
-http://144.217.69.3:25461/live/1010/1010/12969.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE TOUCH HD
-http://144.217.69.3:25461/live/1010/1010/20723.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE TOUCH SD
-http://144.217.69.3:25461/live/1010/1010/20722.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE TOUCH
-http://144.217.69.3:25461/live/1010/1010/12970.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE TOUCH ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13446.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE CULT HD
-http://144.217.69.3:25461/live/1010/1010/12977.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE CULT HD
-http://144.217.69.3:25461/live/1010/1010/20730.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TELECINE CULT SD
-http://144.217.69.3:25461/live/1010/1010/20731.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE CULT
-http://144.217.69.3:25461/live/1010/1010/12978.ts
-#EXTINF:-1, group-title="Canais Premium 4",TELECINE CULT HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13450.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO FULLHD
-http://144.217.69.3:25461/live/1010/1010/12737.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO HD
-http://144.217.69.3:25461/live/1010/1010/13070.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO HD
-http://144.217.69.3:25461/live/1010/1010/20826.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO SD
-http://144.217.69.3:25461/live/1010/1010/20821.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO
-http://144.217.69.3:25461/live/1010/1010/13075.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13495.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12738.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 HD
-http://144.217.69.3:25461/live/1010/1010/13073.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO 2 HD
-http://144.217.69.3:25461/live/1010/1010/20830.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO 2 SD
-http://144.217.69.3:25461/live/1010/1010/20829.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2
-http://144.217.69.3:25461/live/1010/1010/13074.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO 2 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13490.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS HD
-http://144.217.69.3:25461/live/1010/1010/13067.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS
-http://144.217.69.3:25461/live/1010/1010/13069.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO PLUS HD
-http://144.217.69.3:25461/live/1010/1010/20823.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO PLUS SD
-http://144.217.69.3:25461/live/1010/1010/20822.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13493.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO PLUS *e HD
-http://144.217.69.3:25461/live/1010/1010/20825.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO PLUS *e SD
-http://144.217.69.3:25461/live/1010/1010/20824.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS E
-http://144.217.69.3:25461/live/1010/1010/13068.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO PLUS *E ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13492.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO FAMILY HD
-http://144.217.69.3:25461/live/1010/1010/13071.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO FAMILY HD
-http://144.217.69.3:25461/live/1010/1010/20828.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO FAMILY SD
-http://144.217.69.3:25461/live/1010/1010/20827.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO FAMILY
-http://144.217.69.3:25461/live/1010/1010/13072.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO FAMILY ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13494.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SIGNATURE HD
-http://144.217.69.3:25461/live/1010/1010/13065.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO SIGNATURE HD
-http://144.217.69.3:25461/live/1010/1010/20820.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HBO SIGNATURE SD
-http://144.217.69.3:25461/live/1010/1010/20819.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SIGNATURE
-http://144.217.69.3:25461/live/1010/1010/13066.ts
-#EXTINF:-1, group-title="Canais Premium 4",HBO SIGNATURE ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13491.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E HD
-http://144.217.69.3:25461/live/1010/1010/13205.ts
-#EXTINF:-1, group-title="Canais Premium 4",.A&E HD
-http://144.217.69.3:25461/live/1010/1010/20924.ts
-#EXTINF:-1, group-title="Canais Premium 4",..A&E HD
-http://144.217.69.3:25461/live/1010/1010/20698.ts
-#EXTINF:-1, group-title="Canais Premium 4",.A&E SD
-http://144.217.69.3:25461/live/1010/1010/20923.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E
-http://144.217.69.3:25461/live/1010/1010/13206.ts
-#EXTINF:-1, group-title="Canais Premium 4",A&E ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13543.ts
-#EXTINF:-1, group-title="Canais Premium 4",AMC HD
-http://144.217.69.3:25461/live/1010/1010/13203.ts
-#EXTINF:-1, group-title="Canais Premium 4",.AMC HD
-http://144.217.69.3:25461/live/1010/1010/20922.ts
-#EXTINF:-1, group-title="Canais Premium 4",.AMC SD
-http://144.217.69.3:25461/live/1010/1010/20921.ts
-#EXTINF:-1, group-title="Canais Premium 4",AMC
-http://144.217.69.3:25461/live/1010/1010/13204.ts
-#EXTINF:-1, group-title="Canais Premium 4",AMC ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13542.ts
 #EXTINF:-1, group-title="Canais Premium 4",AXN HD
-http://144.217.69.3:25461/live/1010/1010/13197.ts
-#EXTINF:-1, group-title="Canais Premium 4",.AXN HD
-http://144.217.69.3:25461/live/1010/1010/20916.ts
-#EXTINF:-1, group-title="Canais Premium 4",.AXN SD
-http://144.217.69.3:25461/live/1010/1010/20915.ts
-#EXTINF:-1, group-title="Canais Premium 4",AXN
-http://144.217.69.3:25461/live/1010/1010/13198.ts
-#EXTINF:-1, group-title="Canais Premium 4",AXN ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13540.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL SONY HD
-http://144.217.69.3:25461/live/1010/1010/13181.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CANAL SONY HD
-http://144.217.69.3:25461/live/1010/1010/20750.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CANAL SONY SD
-http://144.217.69.3:25461/live/1010/1010/20749.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL SONY
-http://144.217.69.3:25461/live/1010/1010/13182.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX HD
-http://144.217.69.3:25461/live/1010/1010/13176.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CINEMAX HD
-http://144.217.69.3:25461/live/1010/1010/20892.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CINEMAX SD
-http://144.217.69.3:25461/live/1010/1010/20891.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX
-http://144.217.69.3:25461/live/1010/1010/13177.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13532.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX FULLHD
-http://144.217.69.3:25461/live/1010/1010/12742.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13514.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX HD
-http://144.217.69.3:25461/live/1010/1010/13126.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX HD
-http://144.217.69.3:25461/live/1010/1010/20848.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX SD
-http://144.217.69.3:25461/live/1010/1010/20845.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX
-http://144.217.69.3:25461/live/1010/1010/13127.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX LIFE HD
-http://144.217.69.3:25461/live/1010/1010/13124.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX LIFE HD
-http://144.217.69.3:25461/live/1010/1010/20847.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOX LIFE SD
-http://144.217.69.3:25461/live/1010/1010/20846.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX LIFE
-http://144.217.69.3:25461/live/1010/1010/13125.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX LIFE ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13513.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 1 HD
-http://144.217.69.3:25461/live/1010/1010/13122.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 1
-http://144.217.69.3:25461/live/1010/1010/13123.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 2 FULLHD
-http://144.217.69.3:25461/live/1010/1010/12700.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 2 HD
-http://144.217.69.3:25461/live/1010/1010/13120.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX PREMIUM 2
-http://144.217.69.3:25461/live/1010/1010/13121.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX HD
-http://144.217.69.3:25461/live/1010/1010/13112.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FX HD
-http://144.217.69.3:25461/live/1010/1010/20840.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FX SD
-http://144.217.69.3:25461/live/1010/1010/20839.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX
-http://144.217.69.3:25461/live/1010/1010/13113.ts
-#EXTINF:-1, group-title="Canais Premium 4",FX HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13508.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX HD
-http://144.217.69.3:25461/live/1010/1010/13055.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX HD
-http://144.217.69.3:25461/live/1010/1010/20810.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX SD
-http://144.217.69.3:25461/live/1010/1010/20805.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX
-http://144.217.69.3:25461/live/1010/1010/13056.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13487.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME HD
-http://144.217.69.3:25461/live/1010/1010/13052.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX PRIME HD
-http://144.217.69.3:25461/live/1010/1010/20807.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX PRIME SD
-http://144.217.69.3:25461/live/1010/1010/20806.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME
-http://144.217.69.3:25461/live/1010/1010/13054.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13486.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX PRIME*e HD
-http://144.217.69.3:25461/live/1010/1010/20809.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX PRIME*e SD
-http://144.217.69.3:25461/live/1010/1010/20808.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME E
-http://144.217.69.3:25461/live/1010/1010/13053.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX PRIME *E ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13485.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP HD
-http://144.217.69.3:25461/live/1010/1010/13050.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX UP HD
-http://144.217.69.3:25461/live/1010/1010/20804.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAX UP SD
-http://144.217.69.3:25461/live/1010/1010/20803.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP
-http://144.217.69.3:25461/live/1010/1010/13051.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAX UP ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13484.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX HD
-http://144.217.69.3:25461/live/1010/1010/13048.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MEGAPIX HD
-http://144.217.69.3:25461/live/1010/1010/20802.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MEGAPIX SD
-http://144.217.69.3:25461/live/1010/1010/20801.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX
-http://144.217.69.3:25461/live/1010/1010/13049.ts
-#EXTINF:-1, group-title="Canais Premium 4",MEGAPIX ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13483.ts
-#EXTINF:-1, group-title="Canais Premium 4",PARAMOUNT CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/13027.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PARAMOUNT CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/20784.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PARAMOUNT CHANNEL SD
-http://144.217.69.3:25461/live/1010/1010/20783.ts
-#EXTINF:-1, group-title="Canais Premium 4",PARAMOUNT CHANNEL
-http://144.217.69.3:25461/live/1010/1010/13028.ts
-#EXTINF:-1, group-title="Canais Premium 4",PRIME BOX BRAZIL HD
-http://144.217.69.3:25461/live/1010/1010/13011.ts
-#EXTINF:-1, group-title="Canais Premium 4",PRIME BOX BRAZIL
-http://144.217.69.3:25461/live/1010/1010/13012.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PRIME BOX BRAZIL HD
-http://144.217.69.3:25461/live/1010/1010/20766.ts
-#EXTINF:-1, group-title="Canais Premium 4",.PRIME BOX BRAZIL SD
-http://144.217.69.3:25461/live/1010/1010/20765.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE HD
-http://144.217.69.3:25461/live/1010/1010/12994.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPACE HD
-http://144.217.69.3:25461/live/1010/1010/20748.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SPACE SD
-http://144.217.69.3:25461/live/1010/1010/20747.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE
-http://144.217.69.3:25461/live/1010/1010/12995.ts
-#EXTINF:-1, group-title="Canais Premium 4",SPACE ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13460.ts
-#EXTINF:-1, group-title="Canais Premium 4",STUDIO UNIVERSAL HD
-http://144.217.69.3:25461/live/1010/1010/12986.ts
-#EXTINF:-1, group-title="Canais Premium 4",.STUDIO UNIVERSAL HD
-http://144.217.69.3:25461/live/1010/1010/20740.ts
-#EXTINF:-1, group-title="Canais Premium 4",.STUDIO UNIVERSAL SD
-http://144.217.69.3:25461/live/1010/1010/20739.ts
-#EXTINF:-1, group-title="Canais Premium 4",STUDIO UNIVERSAL
-http://144.217.69.3:25461/live/1010/1010/12987.ts
-#EXTINF:-1, group-title="Canais Premium 4",STUDIO UNIVERSAL HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13455.ts
-#EXTINF:-1, group-title="Canais Premium 4",SYFY HD
-http://144.217.69.3:25461/live/1010/1010/12996.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SYFY HD
-http://144.217.69.3:25461/live/1010/1010/20738.ts
-#EXTINF:-1, group-title="Canais Premium 4",.SYFY SD
-http://144.217.69.3:25461/live/1010/1010/20737.ts
-#EXTINF:-1, group-title="Canais Premium 4",SYFY
-http://144.217.69.3:25461/live/1010/1010/12997.ts
-#EXTINF:-1, group-title="Canais Premium 4",SYFY ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13454.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS HD
-http://144.217.69.3:25461/live/1010/1010/12982.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TBS HD
-http://144.217.69.3:25461/live/1010/1010/20736.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS
-http://144.217.69.3:25461/live/1010/1010/12983.ts
-#EXTINF:-1, group-title="Canais Premium 4",TBS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13453.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TCM HD
-http://144.217.69.3:25461/live/1010/1010/20735.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TCM SD
-http://144.217.69.3:25461/live/1010/1010/20734.ts
-#EXTINF:-1, group-title="Canais Premium 4",TCM
-http://144.217.69.3:25461/live/1010/1010/12981.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT HD
-http://144.217.69.3:25461/live/1010/1010/12964.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TNT HD
-http://144.217.69.3:25461/live/1010/1010/20719.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TNT SD
-http://144.217.69.3:25461/live/1010/1010/20718.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT
-http://144.217.69.3:25461/live/1010/1010/12965.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13444.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SERIES HD
-http://144.217.69.3:25461/live/1010/1010/12962.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TNT SERIES HD
-http://144.217.69.3:25461/live/1010/1010/20717.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TNT SERIES SD
-http://144.217.69.3:25461/live/1010/1010/20716.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SERIES
-http://144.217.69.3:25461/live/1010/1010/12963.ts
-#EXTINF:-1, group-title="Canais Premium 4",TNT SERIES FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13443.ts
-#EXTINF:-1, group-title="Canais Premium 4",UNIVERSAL CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/12948.ts
-#EXTINF:-1, group-title="Canais Premium 4",.UNIVERSAL CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/20711.ts
-#EXTINF:-1, group-title="Canais Premium 4",.UNIVERSAL CHANNEL SD
-http://144.217.69.3:25461/live/1010/1010/20710.ts
-#EXTINF:-1, group-title="Canais Premium 4",UNIVERSAL CHANNEL
-http://144.217.69.3:25461/live/1010/1010/12949.ts
-#EXTINF:-1, group-title="Canais Premium 4",UNIVERSAL CHANNEL HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13441.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER FULLHD
-http://144.217.69.3:25461/live/1010/1010/12696.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/12941.ts
-#EXTINF:-1, group-title="Canais Premium 4",.WARNER CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/20703.ts
-#EXTINF:-1, group-title="Canais Premium 4",.WARNER CHANNEL SD
-http://144.217.69.3:25461/live/1010/1010/20702.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER CHANNEL
-http://144.217.69.3:25461/live/1010/1010/12942.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER CHANNEL FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13439.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET FULLHD
-http://144.217.69.3:25461/live/1010/1010/12707.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET HD
-http://144.217.69.3:25461/live/1010/1010/13201.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ANIMAL PLANET HD
-http://144.217.69.3:25461/live/1010/1010/20920.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ANIMAL PLANET SD
-http://144.217.69.3:25461/live/1010/1010/20919.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET
-http://144.217.69.3:25461/live/1010/1010/13202.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13541.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CHANNEL FULLHD
-http://144.217.69.3:25461/live/1010/1010/12719.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CHANNEL FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13529.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/13168.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/20886.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY CHANNEL SD
-http://144.217.69.3:25461/live/1010/1010/20885.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CHANNEL
-http://144.217.69.3:25461/live/1010/1010/13169.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CIVILIZATION HD
-http://144.217.69.3:25461/live/1010/1010/13166.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY CIVILIZATION SD
-http://144.217.69.3:25461/live/1010/1010/20884.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CIVILIZATION
-http://144.217.69.3:25461/live/1010/1010/13167.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CIVILIZATION HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13525.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH FULLHD
-http://144.217.69.3:25461/live/1010/1010/12704.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH HD
-http://144.217.69.3:25461/live/1010/1010/13164.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY HOME&HEALTH HD
-http://144.217.69.3:25461/live/1010/1010/20883.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY HOME & HEALTH SD
-http://144.217.69.3:25461/live/1010/1010/20882.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH
-http://144.217.69.3:25461/live/1010/1010/13165.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13528.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY SCIENCE HD
-http://144.217.69.3:25461/live/1010/1010/13160.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY SCIENCE HD
-http://144.217.69.3:25461/live/1010/1010/20879.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY SICENCE SD
-http://144.217.69.3:25461/live/1010/1010/20878.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY SCIENCE
-http://144.217.69.3:25461/live/1010/1010/13161.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY SCIENCE ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13526.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY THEATER HD
-http://144.217.69.3:25461/live/1010/1010/13158.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY THEATER HD
-http://144.217.69.3:25461/live/1010/1010/20877.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY THEATER SD
-http://144.217.69.3:25461/live/1010/1010/20876.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY THEATER
-http://144.217.69.3:25461/live/1010/1010/13159.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY WORLD FULLHD
-http://144.217.69.3:25461/live/1010/1010/12701.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY WORLD  HD
-http://144.217.69.3:25461/live/1010/1010/13154.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY WORLD HD
-http://144.217.69.3:25461/live/1010/1010/20873.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY WORLD SD
-http://144.217.69.3:25461/live/1010/1010/20872.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY WORLD
-http://144.217.69.3:25461/live/1010/1010/13155.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY FULLHD
-http://144.217.69.3:25461/live/1010/1010/12695.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY CHANNEL FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13489.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY HD
-http://144.217.69.3:25461/live/1010/1010/13063.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY
-http://144.217.69.3:25461/live/1010/1010/13064.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HISTORY CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/20818.ts
-#EXTINF:-1, group-title="Canais Premium 4",.HISTORY CHANNEL SD
-http://144.217.69.3:25461/live/1010/1010/20817.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY CHANNEL ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13445.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 HD
-http://144.217.69.3:25461/live/1010/1010/13076.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 SD
-http://144.217.69.3:25461/live/1010/1010/13077.ts
-#EXTINF:-1, group-title="Canais Premium 4",.H2 HD
-http://144.217.69.3:25461/live/1010/1010/20832.ts
-#EXTINF:-1, group-title="Canais Premium 4",.H2 SD
-http://144.217.69.3:25461/live/1010/1010/20831.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13496.ts
-#EXTINF:-1, group-title="Canais Premium 4",H2 ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13497.ts
-#EXTINF:-1, group-title="Canais Premium 4",INVESTIGATION DISCOVERY HD
-http://144.217.69.3:25461/live/1010/1010/13061.ts
-#EXTINF:-1, group-title="Canais Premium 4",.INVESTIGACAO DISCOVERY HD
-http://144.217.69.3:25461/live/1010/1010/20816.ts
-#EXTINF:-1, group-title="Canais Premium 4",..INVESTIGACAO DISCOVERY HD
-http://144.217.69.3:25461/live/1010/1010/20655.ts
-#EXTINF:-1, group-title="Canais Premium 4",.INVESTIGACAO DISCOVERY SD
-http://144.217.69.3:25461/live/1010/1010/20815.ts
-#EXTINF:-1, group-title="Canais Premium 4",INVESTIGATION DISCOVERY
-http://144.217.69.3:25461/live/1010/1010/13062.ts
-#EXTINF:-1, group-title="Canais Premium 4",INVESTIGAÇÃO DISCOVERY ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13488.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO HD
-http://144.217.69.3:25461/live/1010/1010/13040.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO
-http://144.217.69.3:25461/live/1010/1010/13041.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO WILD FULLHD
-http://144.217.69.3:25461/live/1010/1010/12699.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO WILD HD
-http://144.217.69.3:25461/live/1010/1010/13037.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NATGEO WILD HD
-http://144.217.69.3:25461/live/1010/1010/20794.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NATGEO WILD SD
-http://144.217.69.3:25461/live/1010/1010/20793.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATGEO WILD
-http://144.217.69.3:25461/live/1010/1010/13036.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATGEO WILD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13480.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NATIONAL GEOGRAPHIC HD
-http://144.217.69.3:25461/live/1010/1010/20792.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NATIONAL GEOGRAPHIC SD
-http://144.217.69.3:25461/live/1010/1010/20791.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATIONAL GEOGRAPHIC ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13479.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC HD
-http://144.217.69.3:25461/live/1010/1010/12966.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TLC HD
-http://144.217.69.3:25461/live/1010/1010/20721.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TLC SD
-http://144.217.69.3:25461/live/1010/1010/20720.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC
-http://144.217.69.3:25461/live/1010/1010/12967.ts
-#EXTINF:-1, group-title="Canais Premium 4",ARTE 1 HD
-http://144.217.69.3:25461/live/1010/1010/13199.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ARTE1 HD
-http://144.217.69.3:25461/live/1010/1010/20918.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ARTE1 SD
-http://144.217.69.3:25461/live/1010/1010/20917.ts
-#EXTINF:-1, group-title="Canais Premium 4",ARTE 1
-http://144.217.69.3:25461/live/1010/1010/13200.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS FULLHD
-http://144.217.69.3:25461/live/1010/1010/12718.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4185.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Agro Brasil HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3099.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Band News HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4177.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Baby TV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4184.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",BIS SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4175.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",BIS HD
-http://144.217.69.3:25461/live/1010/1010/13188.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BIS HD
-http://144.217.69.3:25461/live/1010/1010/20906.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BIS SD
-http://144.217.69.3:25461/live/1010/1010/20905.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS
-http://144.217.69.3:25461/live/1010/1010/13189.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMEDY CENTRAL HD
-http://144.217.69.3:25461/live/1010/1010/13172.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMEDY CENTRAL
-http://144.217.69.3:25461/live/1010/1010/13173.ts
-#EXTINF:-1, group-title="Canais Premium 4",CURTA! HD
-http://144.217.69.3:25461/live/1010/1010/13170.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CURTA! HD
-http://144.217.69.3:25461/live/1010/1010/20902.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CURTA! SD
-http://144.217.69.3:25461/live/1010/1010/20901.ts
-#EXTINF:-1, group-title="Canais Premium 4",CURTA!
-http://144.217.69.3:25461/live/1010/1010/13171.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO FULLHD
-http://144.217.69.3:25461/live/1010/1010/12702.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13524.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO HD
-http://144.217.69.3:25461/live/1010/1010/13156.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY TURBO HD
-http://144.217.69.3:25461/live/1010/1010/20875.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY TURBO SD
-http://144.217.69.3:25461/live/1010/1010/20874.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO
-http://144.217.69.3:25461/live/1010/1010/13157.ts
-#EXTINF:-1, group-title="Canais Premium 4",DOGTV HD
-http://144.217.69.3:25461/live/1010/1010/13148.ts
-#EXTINF:-1, group-title="Canais Premium 4",DOGTV
-http://144.217.69.3:25461/live/1010/1010/13149.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4174.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Band SP HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4183.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Animal Planet HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4190.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Band Sports SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4179.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Animal Planet SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4191.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Band News SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4180.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Arte 1 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4582.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Bloomberg TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/1891.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",A&E HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4193.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Boomerang SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4172.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Home & Health SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4152.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Cartoon Network HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4165.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Kids HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4149.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Kids SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4150.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Home & Health HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6612.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Comedy Central HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4603.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Channel HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4153.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4154.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Curta! SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4155.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Cultura SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4156.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Civilization HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4581.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",California Music Channel HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3086.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Canal Rural SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4168.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Cinemax HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4162.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Combate
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4159.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Cinemax SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4163.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",CARTOON RETRO SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4597.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Canal Comunitario
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4624.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Canal RBI
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4591.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Canal Brasil HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4169.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Cartoon Network SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4166.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Boomerang HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4171.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",AXN SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4186.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",A&E SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4194.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Theater HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4148.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Science HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3135.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Combate HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/5617.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Turbo SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4147.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Canal Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4170.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Dorcel TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4584.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery World HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4145.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Disney Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4144.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",EI Maxx SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4136.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",E! HD
-http://144.217.69.3:25461/live/1010/1010/13146.ts
-#EXTINF:-1, group-title="Canais Premium 4",.E! HD
-http://144.217.69.3:25461/live/1010/1010/20865.ts
-#EXTINF:-1, group-title="Canais Premium 4",.E! SD
-http://144.217.69.3:25461/live/1010/1010/20864.ts
-#EXTINF:-1, group-title="Canais Premium 4",E!
-http://144.217.69.3:25461/live/1010/1010/13147.ts
-#EXTINF:-1, group-title="Canais Premium 4",FISH TV HD
-http://144.217.69.3:25461/live/1010/1010/13130.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FISH TV HD
-http://144.217.69.3:25461/live/1010/1010/20851.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FISH TV SD
-http://144.217.69.3:25461/live/1010/1010/20852.ts
-#EXTINF:-1, group-title="Canais Premium 4",FISH TV
-http://144.217.69.3:25461/live/1010/1010/13131.ts
-#EXTINF:-1, group-title="Canais Premium 4",FISH TV ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13516.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4137.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",E! SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4138.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ESPN  HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4128.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ESPN SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4132.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Life HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4119.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",EI Maxx HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4133.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ESPN Brasil HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4130.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ESPN+ HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6611.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ESPN Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4131.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",EI Maxx 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4134.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Disney JR SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4142.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",FOOD NETWORK HD
-http://144.217.69.3:25461/live/1010/1010/13128.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOOD NETWORK HD
-http://144.217.69.3:25461/live/1010/1010/20850.ts
-#EXTINF:-1, group-title="Canais Premium 4",.FOOD NETWORK SD
-http://144.217.69.3:25461/live/1010/1010/20849.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOOD NETWORK
-http://144.217.69.3:25461/live/1010/1010/13129.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOOD NETWORK ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13515.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4123.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6610.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Disney JR HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4141.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",FISH TV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4125.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",FOOD NETWORK SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4124.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4127.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Disney XD SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4140.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4122.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",FX HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4110.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",FX SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4111.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",FOX HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4121.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",G2P TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6901.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Premium 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4118.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",GNT SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4093.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",GNT HD
-http://144.217.69.3:25461/live/1010/1010/13078.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GNT HD
-http://144.217.69.3:25461/live/1010/1010/20834.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GNT SD
-http://144.217.69.3:25461/live/1010/1010/20833.ts
-#EXTINF:-1, group-title="Canais Premium 4",GNT
-http://144.217.69.3:25461/live/1010/1010/13079.ts
-#EXTINF:-1, group-title="Canais Premium 4",GNT ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13498.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4092.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Sports SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4116.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Sports 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4115.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Sports 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4114.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Sports HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4113.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Futura SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4112.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Life SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4120.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox 1 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4579.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Premium 1 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4604.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Discovery Turbo HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4146.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Disney Channel HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4143.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo Nordeste SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4103.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo News SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4104.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo Minas HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4107.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo News HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4096.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo Nordeste HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4632.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",EI Maxx 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4135.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Signature HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4080.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Plus HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4082.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Plus E SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4083.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Plus SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4084.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4085.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Family HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4086.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Family SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4087.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HIT TV
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/5471.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO Signature SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4081.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4088.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4089.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HBO SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4090.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",H2 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4091.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Gloob HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4094.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Gloob SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4095.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo Rio HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4100.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo SP HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4097.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",H2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4078.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo Rio SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4101.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo SP SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4098.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Globo Premium
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4612.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ESPN + SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/5620.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Kidz Only!
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3043.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",IURD TV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3105.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",MAX HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4065.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",MAX SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4066.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",LIFETIME HD
-http://144.217.69.3:25461/live/1010/1010/13059.ts
-#EXTINF:-1, group-title="Canais Premium 4",.LIFETIME HD
-http://144.217.69.3:25461/live/1010/1010/20814.ts
-#EXTINF:-1, group-title="Canais Premium 4",.LIFETIME SD
-http://144.217.69.3:25461/live/1010/1010/20813.ts
-#EXTINF:-1, group-title="Canais Premium 4",LIFETIME
-http://144.217.69.3:25461/live/1010/1010/13060.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAIS GLOBOSAT HD
-http://144.217.69.3:25461/live/1010/1010/13057.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAIS GLOBOSAT HD
-http://144.217.69.3:25461/live/1010/1010/20812.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MAIS GLOBOSAT SD
-http://144.217.69.3:25461/live/1010/1010/20811.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAIS GLOBOSAT
-http://144.217.69.3:25461/live/1010/1010/13058.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4069.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Lifetime SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4070.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Jasmin TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4071.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",I SAT SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4072.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Igreja Universal HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6906.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Igreja Universal SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4073.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ID HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4074.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ID SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4075.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Hot TV
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4585.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Esporte Interativo 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4126.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 7 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4614.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4615.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 1 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6609.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 1 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4616.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",NBR SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4620.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Rede Família HD (Record News Campinas)
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6928.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Record News HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4593.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Prime Box Brazil SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4606.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Polishop TV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4609.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Penthouse HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4583.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Music Box Brazil SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4607.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",RIC TV (Record Curitiba) SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6894.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",HIT TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3927.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",RIC TV Maringá ( Record ) SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6896.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Rede TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3929.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Record HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3933.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Record News SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3935.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Record Full HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3936.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Primebox Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4018.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere Clubes HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4019.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4020.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4021.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 8 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4022.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 7 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4023.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 6 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4024.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 6 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4025.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 5 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4026.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 5 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4027.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 4 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4028.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 4 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4029.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 3 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4030.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 3 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4031.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Premiere 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4032.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Playboy HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4033.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Play TV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4034.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Paramount HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4035.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Paramount SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4036.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Off HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4037.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Off SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4038.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",NRJ Hits HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4039.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Novo Tempo SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4040.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Nickelodeon SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4041.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Nick Jr. HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4042.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Nick Jr. SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4043.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Nick Jr HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4044.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",National Geographic HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4047.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",National Geographic SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4048.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",NatGeo Wild HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4049.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",NatGeo Wild SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4050.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",NatGeo Kids SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4052.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",NatGeo Kids HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4053.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Multishow HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4054.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Multishow SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4055.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",MTV HD
-http://144.217.69.3:25461/live/1010/1010/13046.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MTV HD
-http://144.217.69.3:25461/live/1010/1010/20800.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MTV SD
-http://144.217.69.3:25461/live/1010/1010/20799.ts
-#EXTINF:-1, group-title="Canais Premium 4",MTV
-http://144.217.69.3:25461/live/1010/1010/13047.ts
-#EXTINF:-1, group-title="Canais Premium 4",MULTISHOW HD
-http://144.217.69.3:25461/live/1010/1010/13044.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MULTISHOW HD
-http://144.217.69.3:25461/live/1010/1010/20798.ts
-#EXTINF:-1, group-title="Canais Premium 4",.MULTISHOW SD
-http://144.217.69.3:25461/live/1010/1010/20797.ts
-#EXTINF:-1, group-title="Canais Premium 4",MULTISHOW
-http://144.217.69.3:25461/live/1010/1010/13045.ts
-#EXTINF:-1, group-title="Canais Premium 4",MULTISHOW ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13482.ts
-#EXTINF:-1, group-title="Canais Premium 4",MUSIC BOX BRASIL HD
-http://144.217.69.3:25461/live/1010/1010/13042.ts
-#EXTINF:-1, group-title="Canais Premium 4",MUSIC BOX BRASIL
-http://144.217.69.3:25461/live/1010/1010/13043.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NHK HD
-http://144.217.69.3:25461/live/1010/1010/20790.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NHK SD
-http://144.217.69.3:25461/live/1010/1010/20789.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF HD
-http://144.217.69.3:25461/live/1010/1010/13029.ts
-#EXTINF:-1, group-title="Canais Premium 4",.OFF HD
-http://144.217.69.3:25461/live/1010/1010/20898.ts
-#EXTINF:-1, group-title="Canais Premium 4",.OFF SD
-http://144.217.69.3:25461/live/1010/1010/20897.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF
-http://144.217.69.3:25461/live/1010/1010/13030.ts
-#EXTINF:-1, group-title="Canais Premium 4",OFF HD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13476.ts
-#EXTINF:-1, group-title="Canais Premium 4",PLAY TV ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13474.ts
-#EXTINF:-1, group-title="Canais Premium 4",SUNDANCE TV HD
-http://144.217.69.3:25461/live/1010/1010/12984.ts
-#EXTINF:-1, group-title="Canais Premium 4",SUNDANCE TV
-http://144.217.69.3:25461/live/1010/1010/12985.ts
-#EXTINF:-1, group-title="Canais Premium 4",TRUTV HD
-http://144.217.69.3:25461/live/1010/1010/12950.ts
-#EXTINF:-1, group-title="Canais Premium 4",TRUTV
-http://144.217.69.3:25461/live/1010/1010/12951.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4056.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",MTV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4057.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Megapix HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4058.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Megapix SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4059.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Max UP HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4060.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Max UP SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4061.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Rede Vida SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3930.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",QVC FULL HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3084.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",RTP 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/1900.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Red Bull TV FULL HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/786.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",RTP 1 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/1901.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Play HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3066.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Max Prime SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4064.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Mais Globosat HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4067.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Mais Globosat SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4068.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Nickelodeon HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7604.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SBT Recife HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6890.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SBT Piauí HD (TV Cidade Verde)
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6895.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Terceiro Anjo SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3102.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SBT
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4629.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SBT Rondonia
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3923.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Sextreme SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3922.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Sexy hot SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3921.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Sexzone HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3920.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SIC Internacional SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3919.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Sony SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3918.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Canal Sony HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3917.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Space SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3916.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Space HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3915.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SporTV SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3914.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SporTV 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3913.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",ShopTime SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4608.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV SENADO
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3873.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SporTV 2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3912.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SporTV 3 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3911.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SporTV 3 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3910.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV JUSTICA
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3875.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV INES
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3876.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Sportv HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3909.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Studio Universal SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3908.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Studio Universal HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3907.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SYFY SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3906.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Syfy HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3905.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SIC TV HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/1895.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TBS SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3904.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3878.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV INES HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3100.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Aparecida SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3879.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TBS HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3903.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TCM SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3902.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TNT Series HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3884.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TNT Series SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3885.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TNT HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3886.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Diário Fortaleza SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6885.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Evangelizar SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3107.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TLC SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3889.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TNT SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3887.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TLC HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3888.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SBT HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3926.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Nova Esperança SD (Maranhão)
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6893.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Cultura BA HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6898.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Novo Tempo HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6900.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Canção Nova SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4167.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Camara HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6905.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Aperipê HD (Sergipe)
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6910.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SBT GO
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6921.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Século 21 SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6922.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Rio Largo (Maceió) SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6932.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Y2K
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3049.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Woohoo
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3864.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Viva HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3867.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Viva
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3868.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",VH1 Megahits
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3869.m3u8
 #EXTINF:-1, group-title="Canais Premium 4",VH1 HD
-http://144.217.69.3:25461/live/1010/1010/12946.ts
-#EXTINF:-1, group-title="Canais Premium 4",.VH1 HD
-http://144.217.69.3:25461/live/1010/1010/20707.ts
-#EXTINF:-1, group-title="Canais Premium 4",.VH1 SD
-http://144.217.69.3:25461/live/1010/1010/20706.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1 MEGA HITS
-http://144.217.69.3:25461/live/1010/1010/12945.ts
-#EXTINF:-1, group-title="Canais Premium 4",VH1
-http://144.217.69.3:25461/live/1010/1010/12947.ts
-#EXTINF:-1, group-title="Canais Premium 4",VIVA HD
-http://144.217.69.3:25461/live/1010/1010/12943.ts
-#EXTINF:-1, group-title="Canais Premium 4",.VIVA HD
-http://144.217.69.3:25461/live/1010/1010/20705.ts
-#EXTINF:-1, group-title="Canais Premium 4",.VIVA SD
-http://144.217.69.3:25461/live/1010/1010/20704.ts
-#EXTINF:-1, group-title="Canais Premium 4",VIVA
-http://144.217.69.3:25461/live/1010/1010/12944.ts
-#EXTINF:-1, group-title="Canais Premium 4",VIVA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13440.ts
-#EXTINF:-1, group-title="Canais Premium 4",WOOHOO HD
-http://144.217.69.3:25461/live/1010/1010/12939.ts
-#EXTINF:-1, group-title="Canais Premium 4",.WOOHOO HD
-http://144.217.69.3:25461/live/1010/1010/20896.ts
-#EXTINF:-1, group-title="Canais Premium 4",.WOOHOO SD
-http://144.217.69.3:25461/live/1010/1010/20895.ts
-#EXTINF:-1, group-title="Canais Premium 4",WOOHOO
-http://144.217.69.3:25461/live/1010/1010/12940.ts
-#EXTINF:-1, group-title="Canais Premium 4",VIVA FULLHD
-http://144.217.69.3:25461/live/1010/1010/12708.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS FULLHD
-http://144.217.69.3:25461/live/1010/1010/12706.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS HD
-http://144.217.69.3:25461/live/1010/1010/13192.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BAND NEWS HD
-http://144.217.69.3:25461/live/1010/1010/20910.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BAND NEWS SD
-http://144.217.69.3:25461/live/1010/1010/20909.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS
-http://144.217.69.3:25461/live/1010/1010/13193.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13538.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS FULLHD
-http://144.217.69.3:25461/live/1010/1010/12712.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS HD
-http://144.217.69.3:25461/live/1010/1010/13102.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOBONEWS HD
-http://144.217.69.3:25461/live/1010/1010/20838.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOBONEWS SD
-http://144.217.69.3:25461/live/1010/1010/20837.ts
-#EXTINF:-1, group-title="Canais Premium 4",..GLOBO NEWS HD
-http://144.217.69.3:25461/live/1010/1010/20671.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS
-http://144.217.69.3:25461/live/1010/1010/13103.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13499.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD NEWS HD
-http://144.217.69.3:25461/live/1010/1010/13007.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD NEWS
-http://144.217.69.3:25461/live/1010/1010/13008.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD NEWS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13437.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BABYTV HD
-http://144.217.69.3:25461/live/1010/1010/20914.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BABYTV SD
-http://144.217.69.3:25461/live/1010/1010/20913.ts
-#EXTINF:-1, group-title="Canais Premium 4",BABY TV
-http://144.217.69.3:25461/live/1010/1010/13196.ts
-#EXTINF:-1, group-title="Canais Premium 4",BABY TV ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13539.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG  FULLHD
-http://144.217.69.3:25461/live/1010/1010/12705.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG HD
-http://144.217.69.3:25461/live/1010/1010/13185.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BOOMERANG HD
-http://144.217.69.3:25461/live/1010/1010/20904.ts
-#EXTINF:-1, group-title="Canais Premium 4",.BOOMERANG SD
-http://144.217.69.3:25461/live/1010/1010/20903.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG
-http://144.217.69.3:25461/live/1010/1010/13186.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13534.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK FHD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13533.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK HD
-http://144.217.69.3:25461/live/1010/1010/13178.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CARTOON NETWORK HD
-http://144.217.69.3:25461/live/1010/1010/20894.ts
-#EXTINF:-1, group-title="Canais Premium 4",.CARTOON NETWORK SD
-http://144.217.69.3:25461/live/1010/1010/20893.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK
-http://144.217.69.3:25461/live/1010/1010/13179.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS FULLHD
-http://144.217.69.3:25461/live/1010/1010/12703.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS HD
-http://144.217.69.3:25461/live/1010/1010/13162.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY KIDS HD
-http://144.217.69.3:25461/live/1010/1010/20881.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISCOVERY KIDS SD
-http://144.217.69.3:25461/live/1010/1010/20880.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS
-http://144.217.69.3:25461/live/1010/1010/13163.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13527.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL FULLHD
-http://144.217.69.3:25461/live/1010/1010/12717.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/13152.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISNEY CHANNEL HD
-http://144.217.69.3:25461/live/1010/1010/20871.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISNEY CHANNEL SD
-http://144.217.69.3:25461/live/1010/1010/20870.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL
-http://144.217.69.3:25461/live/1010/1010/13153.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13523.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY JUNIOR
-http://144.217.69.3:25461/live/1010/1010/13151.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISNEY JUNIOR HD
-http://144.217.69.3:25461/live/1010/1010/20869.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISNEY JUNIOR SD
-http://144.217.69.3:25461/live/1010/1010/20868.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY JUNIOR ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13522.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISNEY XD HD
-http://144.217.69.3:25461/live/1010/1010/20867.ts
-#EXTINF:-1, group-title="Canais Premium 4",.DISNEY XD SD
-http://144.217.69.3:25461/live/1010/1010/20866.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY XD
-http://144.217.69.3:25461/live/1010/1010/13150.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOB HD
-http://144.217.69.3:25461/live/1010/1010/13082.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY XD ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13521.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOB FULLHD
-http://144.217.69.3:25461/live/1010/1010/12711.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOOB HD
-http://144.217.69.3:25461/live/1010/1010/20836.ts
-#EXTINF:-1, group-title="Canais Premium 4",.GLOOB SD
-http://144.217.69.3:25461/live/1010/1010/20835.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOB
-http://144.217.69.3:25461/live/1010/1010/13083.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOBINHO HD
-http://144.217.69.3:25461/live/1010/1010/13081.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOBINHO SD
-http://144.217.69.3:25461/live/1010/1010/13080.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO KIDS HD
-http://144.217.69.3:25461/live/1010/1010/13038.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NATGEO KIDS HD
-http://144.217.69.3:25461/live/1010/1010/20796.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NATGEO KIDS SD
-http://144.217.69.3:25461/live/1010/1010/20795.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO KIDS
-http://144.217.69.3:25461/live/1010/1010/13039.ts
-#EXTINF:-1, group-title="Canais Premium 4",NATGEO KIDS ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13481.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICKELODEON FULLHD
-http://144.217.69.3:25461/live/1010/1010/12697.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICKELODEON HD
-http://144.217.69.3:25461/live/1010/1010/13031.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NICKELODEON HD
-http://144.217.69.3:25461/live/1010/1010/20786.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NICKELODEON SD
-http://144.217.69.3:25461/live/1010/1010/20785.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICKELODEN
-http://144.217.69.3:25461/live/1010/1010/13032.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICKELODEON ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13477.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK JR FULLHD
-http://144.217.69.3:25461/live/1010/1010/12698.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK JR HD
-http://144.217.69.3:25461/live/1010/1010/13033.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NICK JR HD
-http://144.217.69.3:25461/live/1010/1010/20788.ts
-#EXTINF:-1, group-title="Canais Premium 4",.NICK JR SD
-http://144.217.69.3:25461/live/1010/1010/20787.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK JR
-http://144.217.69.3:25461/live/1010/1010/13034.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK JR ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13478.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TOONCAST HD
-http://144.217.69.3:25461/live/1010/1010/20715.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TOONCAST SD
-http://144.217.69.3:25461/live/1010/1010/20714.ts
-#EXTINF:-1, group-title="Canais Premium 4",TOONCAST
-http://144.217.69.3:25461/live/1010/1010/12961.ts
-#EXTINF:-1, group-title="Canais Premium 4",.RA-TIM-BUM HD
-http://144.217.69.3:25461/live/1010/1010/20764.ts
-#EXTINF:-1, group-title="Canais Premium 4",.RA-TIM-BUM SD
-http://144.217.69.3:25461/live/1010/1010/20763.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV RA TIM BUM HD
-http://144.217.69.3:25461/live/1010/1010/12952.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV RA TIM BUM
-http://144.217.69.3:25461/live/1010/1010/12953.ts
-#EXTINF:-1, group-title="Canais Premium 4",TOONCAST ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13442.ts
-#EXTINF:-1, group-title="Canais Premium 4",##### Brasil #####
-http://144.217.69.3:25461/live/1010/1010/18314.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: A&E
-http://144.217.69.3:25461/live/1010/1010/18267.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: AMC
-http://144.217.69.3:25461/live/1010/1010/18231.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: AMC HD
-http://144.217.69.3:25461/live/1010/1010/18230.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Animal Planet
-http://144.217.69.3:25461/live/1010/1010/18266.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Animal Planet HD
-http://144.217.69.3:25461/live/1010/1010/18265.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: AXN
-http://144.217.69.3:25461/live/1010/1010/18229.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: AXN HD
-http://144.217.69.3:25461/live/1010/1010/18228.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Baby TV
-http://144.217.69.3:25461/live/1010/1010/18269.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Band
-http://144.217.69.3:25461/live/1010/1010/18313.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Band HD
-http://144.217.69.3:25461/live/1010/1010/18312.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Band News
-http://144.217.69.3:25461/live/1010/1010/18311.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Band Sports
-http://144.217.69.3:25461/live/1010/1010/18190.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Band Sports HD
-http://144.217.69.3:25461/live/1010/1010/18189.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: BIS
-http://144.217.69.3:25461/live/1010/1010/18309.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: BIS HD
-http://144.217.69.3:25461/live/1010/1010/18308.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Boomerang
-http://144.217.69.3:25461/live/1010/1010/18280.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Canal Brasil
-http://144.217.69.3:25461/live/1010/1010/18264.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Canal Rural
-http://144.217.69.3:25461/live/1010/1010/18263.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Canal Sony
-http://144.217.69.3:25461/live/1010/1010/18262.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Canal Sony HD
-http://144.217.69.3:25461/live/1010/1010/18261.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Cartoon Network
-http://144.217.69.3:25461/live/1010/1010/18279.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Cartoon Network HD
-http://144.217.69.3:25461/live/1010/1010/18278.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Cinemax
-http://144.217.69.3:25461/live/1010/1010/18260.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Combate
-http://144.217.69.3:25461/live/1010/1010/18188.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Combate HD
-http://144.217.69.3:25461/live/1010/1010/18187.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Comedy Central
-http://144.217.69.3:25461/live/1010/1010/18259.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Channel
-http://144.217.69.3:25461/live/1010/1010/18258.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Channel HD
-http://144.217.69.3:25461/live/1010/1010/18257.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Home & Health
-http://144.217.69.3:25461/live/1010/1010/18256.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Home & Health HD
-http://144.217.69.3:25461/live/1010/1010/18255.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Kids
-http://144.217.69.3:25461/live/1010/1010/18277.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Theater HD
-http://144.217.69.3:25461/live/1010/1010/18254.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Turbo
-http://144.217.69.3:25461/live/1010/1010/18253.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery Turbo HD
-http://144.217.69.3:25461/live/1010/1010/18252.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Discovery World HD
-http://144.217.69.3:25461/live/1010/1010/18251.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Disney Channel
-http://144.217.69.3:25461/live/1010/1010/18276.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Disney Junior
-http://144.217.69.3:25461/live/1010/1010/18275.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Disney XD
-http://144.217.69.3:25461/live/1010/1010/18274.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: E!
-http://144.217.69.3:25461/live/1010/1010/18250.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: ESPN
-http://144.217.69.3:25461/live/1010/1010/18186.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: ESPN Brasil
-http://144.217.69.3:25461/live/1010/1010/18185.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: ESPN Brasil HD
-http://144.217.69.3:25461/live/1010/1010/18184.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: ESPN HD
-http://144.217.69.3:25461/live/1010/1010/18183.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Fish TV
-http://144.217.69.3:25461/live/1010/1010/18182.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FOX
-http://144.217.69.3:25461/live/1010/1010/18227.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FOX HD
-http://144.217.69.3:25461/live/1010/1010/18226.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FOX Life HD
-http://144.217.69.3:25461/live/1010/1010/18225.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FOX Premium 1 HD
-http://144.217.69.3:25461/live/1010/1010/18181.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FOX Premium 2 HD
-http://144.217.69.3:25461/live/1010/1010/18180.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Fox Sport HD
-http://144.217.69.3:25461/live/1010/1010/18179.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Fox Sports
-http://144.217.69.3:25461/live/1010/1010/18178.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Fox Sports 2
-http://144.217.69.3:25461/live/1010/1010/18177.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FOX Sports 2 HD
-http://144.217.69.3:25461/live/1010/1010/18176.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Futura
-http://144.217.69.3:25461/live/1010/1010/18249.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FX
-http://144.217.69.3:25461/live/1010/1010/18175.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: FX HD
-http://144.217.69.3:25461/live/1010/1010/18307.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Globo News
-http://144.217.69.3:25461/live/1010/1010/18306.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Globo News HD
-http://144.217.69.3:25461/live/1010/1010/18305.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Globo RJ
-http://144.217.69.3:25461/live/1010/1010/18304.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Globo RJ HD
-http://144.217.69.3:25461/live/1010/1010/18303.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Globo SP
-http://144.217.69.3:25461/live/1010/1010/18302.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Globo SP HD
-http://144.217.69.3:25461/live/1010/1010/18301.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Gloob
-http://144.217.69.3:25461/live/1010/1010/18273.ts
-#EXTINF:-1, group-title="Canais Premium 4",B:   Globosat
-http://144.217.69.3:25461/live/1010/1010/18298.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: GNT
-http://144.217.69.3:25461/live/1010/1010/18300.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: GNT HD
-http://144.217.69.3:25461/live/1010/1010/18299.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: H2
-http://144.217.69.3:25461/live/1010/1010/18224.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: H2 HD
-http://144.217.69.3:25461/live/1010/1010/18223.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO
-http://144.217.69.3:25461/live/1010/1010/18222.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO 2
-http://144.217.69.3:25461/live/1010/1010/18221.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO 2 HD
-http://144.217.69.3:25461/live/1010/1010/18220.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO Family
-http://144.217.69.3:25461/live/1010/1010/18219.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO Family HD
-http://144.217.69.3:25461/live/1010/1010/18218.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO HD
-http://144.217.69.3:25461/live/1010/1010/18217.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO Plus
-http://144.217.69.3:25461/live/1010/1010/18216.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO Plus HD
-http://144.217.69.3:25461/live/1010/1010/18215.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO Signature
-http://144.217.69.3:25461/live/1010/1010/18214.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: HBO Signature HD
-http://144.217.69.3:25461/live/1010/1010/18213.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: History Channel HD
-http://144.217.69.3:25461/live/1010/1010/18248.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: MAX
-http://144.217.69.3:25461/live/1010/1010/18297.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: MAX Prime
-http://144.217.69.3:25461/live/1010/1010/18296.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: MAX UP
-http://144.217.69.3:25461/live/1010/1010/18295.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: MegaPix
-http://144.217.69.3:25461/live/1010/1010/18294.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Multishow HD
-http://144.217.69.3:25461/live/1010/1010/18293.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Nat Geo Kids
-http://144.217.69.3:25461/live/1010/1010/18272.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: NatGeo Wild
-http://144.217.69.3:25461/live/1010/1010/18247.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: NatGeoWild HD
-http://144.217.69.3:25461/live/1010/1010/18246.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: National Geographic
-http://144.217.69.3:25461/live/1010/1010/18245.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: National Geography HD
-http://144.217.69.3:25461/live/1010/1010/18244.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Nick Jr
-http://144.217.69.3:25461/live/1010/1010/18271.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Nickelodeon
-http://144.217.69.3:25461/live/1010/1010/18270.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: OFF
-http://144.217.69.3:25461/live/1010/1010/18243.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: OFF HD
-http://144.217.69.3:25461/live/1010/1010/18242.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Paramount
-http://144.217.69.3:25461/live/1010/1010/18241.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Paramount HD
-http://144.217.69.3:25461/live/1010/1010/18240.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 2
-http://144.217.69.3:25461/live/1010/1010/18174.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 2 HD
-http://144.217.69.3:25461/live/1010/1010/18173.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 3
-http://144.217.69.3:25461/live/1010/1010/18172.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 3 HD
-http://144.217.69.3:25461/live/1010/1010/18171.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 4
-http://144.217.69.3:25461/live/1010/1010/18170.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 4 HD
-http://144.217.69.3:25461/live/1010/1010/18169.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 5
-http://144.217.69.3:25461/live/1010/1010/18168.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 5 HD
-http://144.217.69.3:25461/live/1010/1010/18167.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 6
-http://144.217.69.3:25461/live/1010/1010/18166.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 7
-http://144.217.69.3:25461/live/1010/1010/18165.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 8
-http://144.217.69.3:25461/live/1010/1010/18164.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Premiere 9
-http://144.217.69.3:25461/live/1010/1010/18163.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Record
-http://144.217.69.3:25461/live/1010/1010/18292.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Record HD
-http://144.217.69.3:25461/live/1010/1010/18291.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Record News
-http://144.217.69.3:25461/live/1010/1010/18290.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Rede TV
-http://144.217.69.3:25461/live/1010/1010/18289.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Rede TV HD
-http://144.217.69.3:25461/live/1010/1010/18288.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Rede Vida
-http://144.217.69.3:25461/live/1010/1010/18287.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: SBT
-http://144.217.69.3:25461/live/1010/1010/18283.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: SBT HD
-http://144.217.69.3:25461/live/1010/1010/18282.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Space
-http://144.217.69.3:25461/live/1010/1010/18212.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Space HD
-http://144.217.69.3:25461/live/1010/1010/18211.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Sport TV 2 HD
-http://144.217.69.3:25461/live/1010/1010/18161.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Sport TV 3 HD
-http://144.217.69.3:25461/live/1010/1010/18160.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Sport TV HD
-http://144.217.69.3:25461/live/1010/1010/18162.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: SporTV
-http://144.217.69.3:25461/live/1010/1010/18159.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: SporTV 2
-http://144.217.69.3:25461/live/1010/1010/18158.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: SporTV 3
-http://144.217.69.3:25461/live/1010/1010/18157.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Syfy
-http://144.217.69.3:25461/live/1010/1010/18192.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TBS HD
-http://144.217.69.3:25461/live/1010/1010/18210.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TCM
-http://144.217.69.3:25461/live/1010/1010/18209.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Action
-http://144.217.69.3:25461/live/1010/1010/18208.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Action HD
-http://144.217.69.3:25461/live/1010/1010/18207.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Cult
-http://144.217.69.3:25461/live/1010/1010/18206.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Fun
-http://144.217.69.3:25461/live/1010/1010/18205.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Fun HD
-http://144.217.69.3:25461/live/1010/1010/18204.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Pipoca
-http://144.217.69.3:25461/live/1010/1010/18203.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Pipoca HD
-http://144.217.69.3:25461/live/1010/1010/18202.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Premium
-http://144.217.69.3:25461/live/1010/1010/18201.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Premium HD
-http://144.217.69.3:25461/live/1010/1010/18200.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Touch
-http://144.217.69.3:25461/live/1010/1010/18199.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Telecine Touch HD
-http://144.217.69.3:25461/live/1010/1010/18198.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: The History Channel
-http://144.217.69.3:25461/live/1010/1010/18239.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TLC
-http://144.217.69.3:25461/live/1010/1010/18197.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TNT
-http://144.217.69.3:25461/live/1010/1010/18196.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TNT HD
-http://144.217.69.3:25461/live/1010/1010/18195.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TNT Series
-http://144.217.69.3:25461/live/1010/1010/18194.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TNT Séries HD
-http://144.217.69.3:25461/live/1010/1010/18193.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Tooncast
-http://144.217.69.3:25461/live/1010/1010/18286.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: TV CANÇÃO NOVA HD
-http://144.217.69.3:25461/live/1010/1010/18238.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Universal Channel
-http://144.217.69.3:25461/live/1010/1010/18237.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Universal Channels HD
-http://144.217.69.3:25461/live/1010/1010/18236.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Viva
-http://144.217.69.3:25461/live/1010/1010/18285.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: VIVA HD
-http://144.217.69.3:25461/live/1010/1010/18284.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Warner Channel
-http://144.217.69.3:25461/live/1010/1010/18235.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Warner Channel HD
-http://144.217.69.3:25461/live/1010/1010/18234.ts
-#EXTINF:-1, group-title="Canais Premium 4",B: Woohoo
-http://144.217.69.3:25461/live/1010/1010/18233.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOA VONTADE
-http://144.217.69.3:25461/live/1010/1010/13187.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANÇÃO NOVA
-http://144.217.69.3:25461/live/1010/1010/13180.ts
-#EXTINF:-1, group-title="Canais Premium 4",GOSPEL CARTOON
-http://144.217.69.3:25461/live/1010/1010/10745.ts
-#EXTINF:-1, group-title="Canais Premium 4",GOSPEL MOVIE TELEVISION
-http://144.217.69.3:25461/live/1010/1010/10746.ts
-#EXTINF:-1, group-title="Canais Premium 4",.REDEVIDA HD.
-http://144.217.69.3:25461/live/1010/1010/20760.ts
-#EXTINF:-1, group-title="Canais Premium 4",.REDEVIDA SD
-http://144.217.69.3:25461/live/1010/1010/20759.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE VIDA
-http://144.217.69.3:25461/live/1010/1010/13001.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE VIDA ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13435.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE VIDA ALT2
-http://144.217.69.3:25461/live/1010/1010/19796.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE EVANGELIZAR
-http://144.217.69.3:25461/live/1010/1010/17309.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE MÃO AMIGA
-http://144.217.69.3:25461/live/1010/1010/17308.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TV APARECIDA HD
-http://144.217.69.3:25461/live/1010/1010/20713.ts
-#EXTINF:-1, group-title="Canais Premium 4",.TV APARECIDA SD
-http://144.217.69.3:25461/live/1010/1010/20712.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV APARECIDA
-http://144.217.69.3:25461/live/1010/1010/12958.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV EVANGELIZAR ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13429.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV FELIZ ALTERNATIVO
-http://144.217.69.3:25461/live/1010/1010/13428.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV SECULO 21
-http://144.217.69.3:25461/live/1010/1010/15846.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANAL PROMESSAS
-http://144.217.69.3:25461/live/1010/1010/17279.ts
-#EXTINF:-1, group-title="Canais Premium 4",GRANDE SUL TV
-http://144.217.69.3:25461/live/1010/1010/17274.ts
-#EXTINF:-1, group-title="Canais Premium 4",GUARU FAMA TV
-http://144.217.69.3:25461/live/1010/1010/17273.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV AD BELÉM
-http://144.217.69.3:25461/live/1010/1010/17306.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ADC PAZ
-http://144.217.69.3:25461/live/1010/1010/17305.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ÁGAPE
-http://144.217.69.3:25461/live/1010/1010/17275.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ALVORADA ESPÍRITA
-http://144.217.69.3:25461/live/1010/1010/17304.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV BETEL
-http://144.217.69.3:25461/live/1010/1010/17303.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV BETHEL
-http://144.217.69.3:25461/live/1010/1010/17302.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV BOA ESPERANÇA
-http://144.217.69.3:25461/live/1010/1010/17301.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CAIUÁ
-http://144.217.69.3:25461/live/1010/1010/17300.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CAMPOS GERAIS
-http://144.217.69.3:25461/live/1010/1010/17299.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CATOLIC
-http://144.217.69.3:25461/live/1010/1010/17298.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV DORENSE
-http://144.217.69.3:25461/live/1010/1010/17297.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV EVANGELIZAR
-http://144.217.69.3:25461/live/1010/1010/17296.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV FÁTIMA PARATIBE
-http://144.217.69.3:25461/live/1010/1010/17295.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV FILADÉLFIA
-http://144.217.69.3:25461/live/1010/1010/17294.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV FUNTELPA
-http://144.217.69.3:25461/live/1010/1010/17293.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GERAES
-http://144.217.69.3:25461/live/1010/1010/17292.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GIDEÕES HD
-http://144.217.69.3:25461/live/1010/1010/17291.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ILHA DIGITAL
-http://144.217.69.3:25461/live/1010/1010/17290.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV IMACULADA CONCEIÇÃO
-http://144.217.69.3:25461/live/1010/1010/17289.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV JESUS CRISTO
-http://144.217.69.3:25461/live/1010/1010/17288.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV LOUVAR
-http://144.217.69.3:25461/live/1010/1010/17287.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV MISSÃO
-http://144.217.69.3:25461/live/1010/1010/17285.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV MONTEIRO
-http://144.217.69.3:25461/live/1010/1010/17284.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV MUNDIAL
-http://144.217.69.3:25461/live/1010/1010/17283.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV NOVO TEMPO
-http://144.217.69.3:25461/live/1010/1010/15940.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV NOVO TEMPO RS
-http://144.217.69.3:25461/live/1010/1010/15941.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV O EVANGELHO
-http://144.217.69.3:25461/live/1010/1010/17282.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV OMEGA M
-http://144.217.69.3:25461/live/1010/1010/17281.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV RENACER GOSPEL
-http://144.217.69.3:25461/live/1010/1010/17278.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV TS PB
-http://144.217.69.3:25461/live/1010/1010/17277.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV TUBÁ
-http://144.217.69.3:25461/live/1010/1010/17276.ts
-#EXTINF:-1, group-title="Canais Premium 4",VERBO TV
-http://144.217.69.3:25461/live/1010/1010/17269.ts
-#EXTINF:-1, group-title="Canais Premium 4",WEB CAC TV
-http://144.217.69.3:25461/live/1010/1010/17268.ts
-#EXTINF:-1, group-title="Canais Premium 4",WEB TV IEQ SERGIPE
-http://144.217.69.3:25461/live/1010/1010/17267.ts
-#EXTINF:-1, group-title="Canais Premium 4",WEB TV LEÃO DE JUDÁ
-http://144.217.69.3:25461/live/1010/1010/17266.ts
-#EXTINF:-1, group-title="Canais Premium 4",WEB TV RESTAURA VIDAS
-http://144.217.69.3:25461/live/1010/1010/17265.ts
-#EXTINF:-1, group-title="Canais Premium 4",AGRO BRASIL.
-http://144.217.69.3:25461/live/1010/1010/17226.ts
-#EXTINF:-1, group-title="Canais Premium 4",ALL SPORTS BR.
-http://144.217.69.3:25461/live/1010/1010/17264.ts
-#EXTINF:-1, group-title="Canais Premium 4",AMAZON SAT.
-http://144.217.69.3:25461/live/1010/1010/17225.ts
-#EXTINF:-1, group-title="Canais Premium 4",ANIMAL PLANET.
-http://144.217.69.3:25461/live/1010/1010/17160.ts
-#EXTINF:-1, group-title="Canais Premium 4",APARECIDA.
-http://144.217.69.3:25461/live/1010/1010/17174.ts
-#EXTINF:-1, group-title="Canais Premium 4",BABY TV.
-http://144.217.69.3:25461/live/1010/1010/17239.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND NEWS.
-http://144.217.69.3:25461/live/1010/1010/17182.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND SPORTS.
-http://144.217.69.3:25461/live/1010/1010/17261.ts
-#EXTINF:-1, group-title="Canais Premium 4",BAND.
-http://144.217.69.3:25461/live/1010/1010/17224.ts
-#EXTINF:-1, group-title="Canais Premium 4",BBC World News.
-http://144.217.69.3:25461/live/1010/1010/17183.ts
-#EXTINF:-1, group-title="Canais Premium 4",BIS.
-http://144.217.69.3:25461/live/1010/1010/17159.ts
-#EXTINF:-1, group-title="Canais Premium 4",BOOMERANG.
-http://144.217.69.3:25461/live/1010/1010/17238.ts
-#EXTINF:-1, group-title="Canais Premium 4",CANÇÃO NOVA.
-http://144.217.69.3:25461/live/1010/1010/17173.ts
-#EXTINF:-1, group-title="Canais Premium 4",CARTOON NETWORK.
-http://144.217.69.3:25461/live/1010/1010/17237.ts
-#EXTINF:-1, group-title="Canais Premium 4",CATVE HD.
-http://144.217.69.3:25461/live/1010/1010/17181.ts
-#EXTINF:-1, group-title="Canais Premium 4",CHEF TV.
-http://144.217.69.3:25461/live/1010/1010/17156.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE 24H.
-http://144.217.69.3:25461/live/1010/1010/17250.ts
-#EXTINF:-1, group-title="Canais Premium 4",Cine Gospel.
-http://144.217.69.3:25461/live/1010/1010/17251.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINE SKY.
-http://144.217.69.3:25461/live/1010/1010/17249.ts
-#EXTINF:-1, group-title="Canais Premium 4",CINEMAX.
-http://144.217.69.3:25461/live/1010/1010/17248.ts
-#EXTINF:-1, group-title="Canais Premium 4",CLASSIQUE TV.
-http://144.217.69.3:25461/live/1010/1010/17247.ts
-#EXTINF:-1, group-title="Canais Premium 4",COMEDY CENTRAL.
-http://144.217.69.3:25461/live/1010/1010/17158.ts
-#EXTINF:-1, group-title="Canais Premium 4",CURTA!.
-http://144.217.69.3:25461/live/1010/1010/17157.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY CIVILIZATION.
-http://144.217.69.3:25461/live/1010/1010/17155.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY HOME & HEALTH.
-http://144.217.69.3:25461/live/1010/1010/17154.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY KIDS.
-http://144.217.69.3:25461/live/1010/1010/17233.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY SCIENCE.
-http://144.217.69.3:25461/live/1010/1010/17153.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY THEATER.
-http://144.217.69.3:25461/live/1010/1010/17152.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY TURBO.
-http://144.217.69.3:25461/live/1010/1010/17151.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISCOVERY WORLD.
-http://144.217.69.3:25461/live/1010/1010/17150.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY CHANNEL.
-http://144.217.69.3:25461/live/1010/1010/17235.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY JUNIOR.
-http://144.217.69.3:25461/live/1010/1010/17234.ts
-#EXTINF:-1, group-title="Canais Premium 4",DISNEY XD.
-http://144.217.69.3:25461/live/1010/1010/17232.ts
-#EXTINF:-1, group-title="Canais Premium 4",E!.
-http://144.217.69.3:25461/live/1010/1010/17149.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN .
-http://144.217.69.3:25461/live/1010/1010/17258.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN BRASIL.
-http://144.217.69.3:25461/live/1010/1010/17259.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPN.
-http://144.217.69.3:25461/live/1010/1010/17260.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO 2.
-http://144.217.69.3:25461/live/1010/1010/17256.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO BR.
-http://144.217.69.3:25461/live/1010/1010/17255.ts
-#EXTINF:-1, group-title="Canais Premium 4",ESPORTE INTERATIVO.
-http://144.217.69.3:25461/live/1010/1010/17257.ts
-#EXTINF:-1, group-title="Canais Premium 4",FAST CINE.
-http://144.217.69.3:25461/live/1010/1010/17245.ts
-#EXTINF:-1, group-title="Canais Premium 4",FILMES 24HS.
-http://144.217.69.3:25461/live/1010/1010/17244.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOOT NETWORK.
-http://144.217.69.3:25461/live/1010/1010/17148.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 1.
-http://144.217.69.3:25461/live/1010/1010/17253.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS 2.
-http://144.217.69.3:25461/live/1010/1010/17252.ts
-#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS.
-http://144.217.69.3:25461/live/1010/1010/17254.ts
-#EXTINF:-1, group-title="Canais Premium 4",FUTURA.
-http://144.217.69.3:25461/live/1010/1010/17223.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO NEWS.
-http://144.217.69.3:25461/live/1010/1010/17180.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO RJ.
-http://144.217.69.3:25461/live/1010/1010/17222.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOBO SP.
-http://144.217.69.3:25461/live/1010/1010/17221.ts
-#EXTINF:-1, group-title="Canais Premium 4",GLOOB.
-http://144.217.69.3:25461/live/1010/1010/17230.ts
-#EXTINF:-1, group-title="Canais Premium 4",GOSPEL CARTOON.
-http://144.217.69.3:25461/live/1010/1010/17231.ts
-#EXTINF:-1, group-title="Canais Premium 4",GOSPEL MOVIES TELEVISION.
-http://144.217.69.3:25461/live/1010/1010/17172.ts
-#EXTINF:-1, group-title="Canais Premium 4",GOSPEL MUSIC TELEVISION.
-http://144.217.69.3:25461/live/1010/1010/17171.ts
-#EXTINF:-1, group-title="Canais Premium 4",GV News.
-http://144.217.69.3:25461/live/1010/1010/17179.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY 2.
-http://144.217.69.3:25461/live/1010/1010/17145.ts
-#EXTINF:-1, group-title="Canais Premium 4",HISTORY.
-http://144.217.69.3:25461/live/1010/1010/17146.ts
-#EXTINF:-1, group-title="Canais Premium 4",INVESTIGAÇÃO DISCOVERY.
-http://144.217.69.3:25461/live/1010/1010/17144.ts
-#EXTINF:-1, group-title="Canais Premium 4",IURD TV Internacional.
-http://144.217.69.3:25461/live/1010/1010/17168.ts
-#EXTINF:-1, group-title="Canais Premium 4",IURD TV.
-http://144.217.69.3:25461/live/1010/1010/17169.ts
-#EXTINF:-1, group-title="Canais Premium 4",MAIS GLOBOSAT.
-http://144.217.69.3:25461/live/1010/1010/17147.ts
-#EXTINF:-1, group-title="Canais Premium 4",MASTER TV.
-http://144.217.69.3:25461/live/1010/1010/17143.ts
-#EXTINF:-1, group-title="Canais Premium 4",MULTI RIO.
-http://144.217.69.3:25461/live/1010/1010/17142.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO WILD.
-http://144.217.69.3:25461/live/1010/1010/17140.ts
-#EXTINF:-1, group-title="Canais Premium 4",NAT GEO.
-http://144.217.69.3:25461/live/1010/1010/17141.ts
-#EXTINF:-1, group-title="Canais Premium 4",NBR.
-http://144.217.69.3:25461/live/1010/1010/17220.ts
-#EXTINF:-1, group-title="Canais Premium 4",NBR..
-http://144.217.69.3:25461/live/1010/1010/17177.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICK JR.
-http://144.217.69.3:25461/live/1010/1010/17228.ts
-#EXTINF:-1, group-title="Canais Premium 4",NICKELODEON.
-http://144.217.69.3:25461/live/1010/1010/17229.ts
-#EXTINF:-1, group-title="Canais Premium 4",NOVO TEMPO SP.
-http://144.217.69.3:25461/live/1010/1010/17167.ts
-#EXTINF:-1, group-title="Canais Premium 4",PORTAL GOSPEL.
-http://144.217.69.3:25461/live/1010/1010/17170.ts
-#EXTINF:-1, group-title="Canais Premium 4",PORTO CANAL.
-http://144.217.69.3:25461/live/1010/1010/17178.ts
-#EXTINF:-1, group-title="Canais Premium 4",REAL MADRID TV.
-http://144.217.69.3:25461/live/1010/1010/17262.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD NEWS ES.
-http://144.217.69.3:25461/live/1010/1010/17175.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD NEWS.
-http://144.217.69.3:25461/live/1010/1010/17176.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD SP.
-http://144.217.69.3:25461/live/1010/1010/17218.ts
-#EXTINF:-1, group-title="Canais Premium 4",RECORD.
-http://144.217.69.3:25461/live/1010/1010/17219.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE BRASIL®.
-http://144.217.69.3:25461/live/1010/1010/17217.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE FAMÍLIA.
-http://144.217.69.3:25461/live/1010/1010/17216.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE SÉCULO 21.
-http://144.217.69.3:25461/live/1010/1010/17166.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE SUPER.
-http://144.217.69.3:25461/live/1010/1010/17165.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV 1.
-http://144.217.69.3:25461/live/1010/1010/17215.ts
-#EXTINF:-1, group-title="Canais Premium 4",REDE TV 2.
-http://144.217.69.3:25461/live/1010/1010/17214.ts
-#EXTINF:-1, group-title="Canais Premium 4",RICOS TV.
-http://144.217.69.3:25461/live/1010/1010/17213.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT HD .
-http://144.217.69.3:25461/live/1010/1010/17211.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT HD Alternativo.
-http://144.217.69.3:25461/live/1010/1010/17210.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT PE HD.
-http://144.217.69.3:25461/live/1010/1010/17205.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT PE INTERIOR.
-http://144.217.69.3:25461/live/1010/1010/17206.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT PI.
-http://144.217.69.3:25461/live/1010/1010/17207.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT SP Interior.
-http://144.217.69.3:25461/live/1010/1010/17208.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT SP.
-http://144.217.69.3:25461/live/1010/1010/17209.ts
-#EXTINF:-1, group-title="Canais Premium 4",SBT.
-http://144.217.69.3:25461/live/1010/1010/17212.ts
-#EXTINF:-1, group-title="Canais Premium 4",SESC TV HD.
-http://144.217.69.3:25461/live/1010/1010/17204.ts
-#EXTINF:-1, group-title="Canais Premium 4",SESC TV.
-http://144.217.69.3:25461/live/1010/1010/17203.ts
-#EXTINF:-1, group-title="Canais Premium 4",SOBRENATURAL TV.
-http://144.217.69.3:25461/live/1010/1010/17202.ts
-#EXTINF:-1, group-title="Canais Premium 4",TLC.
-http://144.217.69.3:25461/live/1010/1010/17139.ts
-#EXTINF:-1, group-title="Canais Premium 4",TRUTV.
-http://144.217.69.3:25461/live/1010/1010/17138.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Art.
-http://144.217.69.3:25461/live/1010/1010/17137.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CÂMARA.
-http://144.217.69.3:25461/live/1010/1010/17200.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CULTURA MG.
-http://144.217.69.3:25461/live/1010/1010/17199.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV CULTURA PR.
-http://144.217.69.3:25461/live/1010/1010/17198.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV DIÁRIO.
-http://144.217.69.3:25461/live/1010/1010/17197.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ESCOLA HD.
-http://144.217.69.3:25461/live/1010/1010/17194.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV ESCOLA.
-http://144.217.69.3:25461/live/1010/1010/17196.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV GAZETA.
-http://144.217.69.3:25461/live/1010/1010/17191.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV INES HD.
-http://144.217.69.3:25461/live/1010/1010/17189.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV INES.
-http://144.217.69.3:25461/live/1010/1010/17190.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV KIDMAIS.
-http://144.217.69.3:25461/live/1010/1010/17243.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV MACEIO 2.
-http://144.217.69.3:25461/live/1010/1010/17187.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV MACEIO.
-http://144.217.69.3:25461/live/1010/1010/17188.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV MEIO NORTE.
-http://144.217.69.3:25461/live/1010/1010/17186.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV NA ILHA 2.
-http://144.217.69.3:25461/live/1010/1010/17241.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV RÁ TIM BUM!.
-http://144.217.69.3:25461/live/1010/1010/17236.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV Santa Cecilia (Santos-SP).
-http://144.217.69.3:25461/live/1010/1010/17185.ts
-#EXTINF:-1, group-title="Canais Premium 4",TV VERDADE.
-http://144.217.69.3:25461/live/1010/1010/17164.ts
-#EXTINF:-1, group-title="Canais Premium 4",TVE BA HD.
-http://144.217.69.3:25461/live/1010/1010/17192.ts
-#EXTINF:-1, group-title="Canais Premium 4",TVU (TV URBANA).
-http://144.217.69.3:25461/live/1010/1010/17184.ts
-#EXTINF:-1, group-title="Canais Premium 4",VEM & VÊ TV 1.
-http://144.217.69.3:25461/live/1010/1010/17163.ts
-#EXTINF:-1, group-title="Canais Premium 4",VEM & VÊ TV 2.
-http://144.217.69.3:25461/live/1010/1010/17162.ts
-#EXTINF:-1, group-title="Canais Premium 4",VEM & VÊ TV 3.
-http://144.217.69.3:25461/live/1010/1010/17161.ts
-#EXTINF:-1, group-title="Canais Premium 4",WARNER TV.
-http://144.217.69.3:25461/live/1010/1010/17240.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ZOOMOO HD
-http://144.217.69.3:25461/live/1010/1010/20701.ts
-#EXTINF:-1, group-title="Canais Premium 4",.ZOOMOO SD
-http://144.217.69.3:25461/live/1010/1010/20700.ts
-#EXTINF:-1, group-title="Canais Premium 4",ZOOMOO.
-http://144.217.69.3:25461/live/1010/1010/17227.ts
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3870.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Universal Channel HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3871.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Universal Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3872.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TVW HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3083.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TVW-2 HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3082.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Tv Camara
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4622.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Tv Escola
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4621.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Tv Gideoes
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3877.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",VH1 Mega Hits SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4611.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",VH1 Megahits HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4610.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Trutv SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3881.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Tooncast HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3882.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Tooncast SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3883.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3890.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Touch SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3891.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Premium HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3892.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Premium SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3893.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Pipoca HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3894.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Pipoca SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3895.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Fun HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3896.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Fun SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3897.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Cult SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3899.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Action HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3900.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Action SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3901.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",The History Channel HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4077.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",The History Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4079.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Vitória (Record ES) SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/6891.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",MAX Prime HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4062.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Max Prime E SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4063.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",RBC - Rede Brasil de Comunicação
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7685.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",TV Milagre
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7686.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Fox Full HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7701.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",SporTV Full HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7699.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Telecine Premium Full HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7694.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",The History Channel Full HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7702.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",FOX SPORTS Full HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7703.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",RBS TV Porto Alegre SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4631.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",CANÇÃO NOVA HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/7691.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Warner Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4618.m3u8
+#EXTINF:-1, group-title="Canais Premium 4",Warner Channel HD
+http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4617.m3u8
 
 ---------------Canais premium 5 --------------------
 ----------- Canais Premium 6 ---------------------
