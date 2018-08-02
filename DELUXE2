@@ -1,6 +1,347 @@
 #EXTM3U
 ------------- Canais Premium 0 -----------------
 
+#EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/rVvARj?" group-title="Canais Premium 0",GLOBO RJ
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/345.ts
+
+#EXTINF:-1 tvg-id="GloboSp.igor"  tvg-logo="http://goo.gl/wm9SPd?" group-title="Canais Premium 0",GLOBO SP
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/346.ts
+
+#EXTINF:-1 tvg-id="GloboDF.igor"  tvg-logo="http://goo.gl/pyedc2?" group-title="Canais Premium 0",GLOBO BRASILIA
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/342.ts
+
+#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/jC4TJz?" group-title="Canais Premium 0",GLOBO NORDESTE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/344.ts
+
+#EXTINF:-1 tvg-id="GloboBa.igor"  tvg-logo="http://goo.gl/bNXu9r?" group-title="Canais Premium 0",GLOBO BA
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/430.ts
+
+#EXTINF:-1 tvg-id="Globo.igor"  tvg-logo="http://goo.gl/kp2GgT?" group-title="Canais Premium 0",GLOBO EPTV CAMPINAS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/431.ts
+
+#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="http://goo.gl/st8ULC?" group-title="Canais Premium 0",SBT
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/26.ts
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/MeEyBg?" group-title="Canais Premium 0",BAND
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/443.ts
+
+#EXTINF:-1 tvg-id="Record.igor"  tvg-logo="http://goo.gl/ssN6sj?" group-title="Canais Premium 0",RECORD
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/391.ts
+
+#######################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/h8r8iX?" group-title="Canais Premium 0",SPORTV
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/402.ts
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/iSukWD?" group-title="Canais Premium 0",ESPN BRASIL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/331.ts
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/yfNU1t?" group-title="Canais Premium 0",FOX SPORTS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/339.ts
+
+#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/hgLny6?" group-title="Canais Premium 0",ESPN
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/332.ts
+
+#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/LqA71n?" group-title="Canais Premium 0",SPORTV 2
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/400.ts
+
+#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/x6M4e4?" group-title="Canais Premium 0",SPORTV 3
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/401.ts
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/387.ts
+
+#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/vJAL7G?" group-title="Canais Premium 0",COMBATE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/314.ts
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/FBxaWZ?" group-title="Canais Premium 0",FOX SPORTS 2
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/338.ts
+
+#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/hfvcjk?" group-title="Canais Premium 0",BAND SPORTS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/442.ts
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="http://goo.gl/PJYpfq?" group-title="Canais Premium 0",ESPORTE INTERATIVO
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/333.ts
+
+#EXTINF:-1 tvg-id="E Interativo 2.igor" tvg-logo="http://goo.gl/VQ3Cmg?" group-title="Canais Premium 0",ESPORTE INTERATIVO 2
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/328.ts
+
+#EXTINF:-1 tvg-id="ESPN+.igor"  tvg-logo="http://goo.gl/XAaazj?" group-title="Canais Premium 0",ESPN+
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/330.ts
+
+#######################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 1
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/378.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 2
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/379.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 3
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/380.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 4
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/381.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 5
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/382.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 6
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/383.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 7
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/384.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 8
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/385.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 9.igor"  tvg-logo="http://goo.gl/MczmKF?" group-title="Canais Premium 0",PREMIERE 9
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/386.ts
+
+######################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="TcPipoca.igor"  tvg-logo="http://goo.gl/b6cZAN?" group-title="Canais Premium 0",TELECINE PIPOCA
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/410.ts
+
+#EXTINF:-1 tvg-id="TcPremium.igor"  tvg-logo="http://goo.gl/4ucPQK?" group-title="Canais Premium 0",TELECINE PREMIUM
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/411.ts
+
+#EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/vrejVP?" group-title="Canais Premium 0",TELECINE ACTION
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/407.ts
+
+#EXTINF:-1 tvg-id="TcFun.igor"  tvg-logo="http://goo.gl/c8Bc4T?" group-title="Canais Premium 0",TELECINE FUN
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/409.ts
+
+#EXTINF:-1 tvg-id="TcTouch.igor"  tvg-logo="http://goo.gl/JyU8XM?" group-title="Canais Premium 0",TELECINE TOUCH
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/412.ts
+
+#EXTINF:-1 tvg-id="TcCult.igor"  tvg-logo="http://goo.gl/rJFjkc?" group-title="Canais Premium 0",TELECINE CULT
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/408.ts
+
+#EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/pyCwWp?" group-title="Canais Premium 0",HBO
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/354.ts
+
+#EXTINF:-1 tvg-id="HBO 2.igor"  tvg-logo="http://goo.gl/a5CViF?" group-title="Canais Premium 0",HBO 2
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/350.ts
+
+#EXTINF:-1 tvg-id="HBO Family.igor"  tvg-logo="http://goo.gl/xCrqUL?" group-title="Canais Premium 0",HBO FAMILY
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/351.ts
+
+#EXTINF:-1 tvg-id="HBO Plus.igor"  tvg-logo="http://goo.gl/pbfKXJ?" group-title="Canais Premium 0",HBO PLUS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/353.ts
+
+#EXTINF:-1 tvg-id="HBO Plus E.igor"  tvg-logo="http://goo.gl/okgTGm?" group-title="Canais Premium 0",HBO PLUS E
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/352.ts
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE.igor"  tvg-logo="http://goo.gl/DkNyyb?" group-title="Canais Premium 0",HBO SIGNATURE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/355.ts
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/UTCho4?" group-title="Canais Premium 0",SPACE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/399.ts
+
+#EXTINF:-1 tvg-id="Megapix.igor" tvg-logo="http://goo.gl/eS6wnv?" group-title="Canais Premium 0",MEGAPIX
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/364.ts
+
+#EXTINF:-1 tvg-id="PARAMOUNT.igor" tvg-logo="http://goo.gl/Ym8xMz?" group-title="Canais Premium 0",PARAMOUNT CHANNEL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/375.ts
+
+#EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/Ua7iiL?" group-title="Canais Premium 0",TNT
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/415.ts
+
+#EXTINF:-1 tvg-id="TCM.igor"  tvg-logo="http://goo.gl/obXRGU?" group-title="Canais Premium 0",TCM
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/406.ts
+
+#EXTINF:-1 tvg-id="CINEMAX.igor" tvg-logo="http://goo.gl/bxF7Bf?" group-title="Canais Premium 0",CINEMAX
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/311.ts
+
+#EXTINF:-1 tvg-id="MAX.igor" tvg-logo="http://goo.gl/R9ByB3?" group-title="Canais Premium 0",MAX
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/362.ts
+
+#EXTINF:-1 tvg-id="MAX UP.igor" tvg-logo="http://goo.gl/J4cqsJ?" group-title="Canais Premium 0",MAX UP
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/363.ts
+
+#EXTINF:-1 tvg-id="MAX PRIME.igor" tvg-logo="http://goo.gl/57CfKQ?" group-title="Canais Premium 0",MAX PRIME
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/361.ts
+
+#EXTINF:-1 tvg-id="MAX PRIME E.igor" tvg-logo="http://goo.gl/M9RuAA?" group-title="Canais Premium 0",MAX PRIME E
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/360.ts
+
+#EXTINF:-1 tvg-id="SUniversal.igor" tvg-logo="http://goo.gl/YvtCsR?" group-title="Canais Premium 0",STUDIO
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/403.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil.igor" tvg-logo="http://goo.gl/Qm5qdH?" group-title="Canais Premium 0",CANAL BRASIL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/308.ts
+
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL.igor"  tvg-logo="http://goo.gl/e2cnLd?" group-title="Canais Premium 0",PRIME BOX BRASIL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/388.ts
+
+#EXTINF:-1 tvg-id="TNT SERIES.igor" tvg-logo="http://goo.gl/VAmByX?" group-title="Canais Premium 0",TNT SERIES
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/416.ts
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/DWFBdm?" group-title="Canais Premium 0",FOX
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/337.ts
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/6fA3eQ?" group-title="Canais Premium 0",FX
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/341.ts
+
+#EXTINF:-1 tvg-id="TBS.igor" tvg-logo="http://goo.gl/MuZ3Nt?" group-title="Canais Premium 0",TBS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/405.ts
+
+#EXTINF:-1 tvg-id="UniversalCH.igor" tvg-logo="http://goo.gl/JKnrhx?" group-title="Canais Premium 0",UNIVERSAL CHANNEL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/426.ts
+
+#EXTINF:-1 tvg-id="Warner.igor" tvg-logo="http://goo.gl/Sxu9YF?" group-title="Canais Premium 0",WARNER
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/428.ts
+
+#EXTINF:-1 tvg-id="Comedy Central.igor" tvg-logo="http://goo.gl/TwrwsT?" group-title="Canais Premium 0",COMEDY CENTRAL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/315.ts
+
+#EXTINF:0 tvg-id="FOX LIFE.igor" group-title="Canais Premium 0" tvg-logo="http://goo.gl/vP41UJ?",FOX LIFE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/336.ts
+
+#EXTINF:0 tvg-id="SyFy.igor" group-title="Canais Premium 0" tvg-logo="http://goo.gl/t1eaUx?",SYFY
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/404.ts
+
+#EXTINF:-1 tvg-id="Sony.igor" tvg-logo="http://goo.gl/Hx61ac?" group-title="Canais Premium 0",SONY
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/398.ts
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/frgf9y?" group-title="Canais Premium 0",AXN
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/447.ts
+
+#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="http://goo.gl/GG9aQV?" group-title="Canais Premium 0",AMC
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/440.ts
+
+#EXTINF:-1 tvg-id="AeE.igor" tvg-logo="http://goo.gl/v9F9UE?" group-title="Canais Premium 0",A&E
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/450.ts
+
+#EXTINF:-1 tvg-id="Lifetime.igor" tvg-logo="http://goo.gl/n2HzWj?" group-title="Canais Premium 0",LIFETIME
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/358.ts
+
+#######################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://goo.gl/kqiKdy?" group-title="Canais Premium 0",MULTISHOW
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/366.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wTY4MD?" group-title="Canais Premium 0",MTV
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/365.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Sz5ii8?" group-title="Canais Premium 0",MUSIC BOX BRASIL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/367.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/G31W2Z?" group-title="Canais Premium 0",VH1 MEGA HITS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/427.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/sQWnCW?" group-title="Canais Premium 0",GNT
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/348.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/8L6nXq?" group-title="Canais Premium 0",VIVA
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/303.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/3iwSvr?" group-title="Canais Premium 0",BIS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/441.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/C2WoJ2?" group-title="Canais Premium 0",FISH TV
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/334.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/txazxf?" group-title="Canais Premium 0",OFF
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/297.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/CiRABW?" group-title="Canais Premium 0",HOME & HEALTH
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/320.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/KfjKA3?" group-title="Canais Premium 0",FOOD NETWORK
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/335.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/fPoKBW?" group-title="Canais Premium 0",+GLOBOSAT
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/359.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/J2exU1?" group-title="Canais Premium 0",E! Entertainment
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/327.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/zCXWyp?" group-title="Canais Premium 0",ARTE 1
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/448.ts
+
+#######################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://goo.gl/SXf8fz?" group-title="Canais Premium 0",NAT GEO KIDS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/368.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5UdNqU?" group-title="Canais Premium 0",CARTOON NETWORK
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/310.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/kneR6q?" group-title="Canais Premium 0",NICK
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/372.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Pzpj6p?" group-title="Canais Premium 0",DISNEY XD
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/326.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/FS8zfU?" group-title="Canais Premium 0",DISNEY CHANNEL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/324.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/QCKA29?" group-title="Canais Premium 0",DISNEY JR
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/325.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vYyUSd?" group-title="Canais Premium 0",DISCOVERY KIDS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/321.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Lpi7qx?" group-title="Canais Premium 0",GLOOB
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/347.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/LFSsjv?" group-title="Canais Premium 0",NICK JR
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/371.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/HPChvB?" group-title="Canais Premium 0",BOOMERANG
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/445.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/qQEQSP?" group-title="Canais Premium 0",BABY TV
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/446.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/8Sr57C?" group-title="Canais Premium 0",TV RA TI BUM
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/422.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/JysXoS?" group-title="Canais Premium 0",ZOOMOO
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/302.ts
+
+#######################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/RuzQkd?"  group-title="Canais Premium 0",ANIMAL PLANET
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/449.ts
+
+#EXTINF:-1 tvg-id="Discovery.igor" tvg-logo="http://goo.gl/gTPF6M?"  group-title="Canais Premium 0",DISCOVERY CHANNEL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/318.ts
+
+#EXTINF:-1 tvg-id="Nat Geo Wild.igor" tvg-logo="http://goo.gl/wWhZo2?"  group-title="Canais Premium 0",NAT GEO WILD
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/369.ts
+
+#EXTINF:-1 tvg-id="Discovery Civilization.igor" tvg-logo="http://goo.gl/hx5z3L?"  group-title="Canais Premium 0",DISCOVERY CIVILIZATION
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/319.ts
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/ydBmrf?" group-title="Canais Premium 0",THE HISTORY CHANNEL
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/413.ts
+
+#EXTINF:-1 tvg-id="National Geo.igor" tvg-logo="http://goo.gl/2R2cWN?" group-title="Canais Premium 0",NAT GEO
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/45.ts
+
+#EXTINF:-1 tvg-id="H2.igor" tvg-logo="http://goo.gl/TnGPRK?"  group-title="Canais Premium 0",H2
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/349.ts
+
+#EXTINF:0 tvg-id="TLC.igor" group-title="Canais Premium 0" tvg-logo="http://goo.gl/9CFNp7?",TLC
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/414.ts
+
+#EXTINF:-1 tvg-id="Discovery Science.igor" tvg-logo="http://goo.gl/jnSNy8?"  group-title="Canais Premium 0",DISCOVERY SCIENCE
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/322.ts
+
+#######################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="Globo News.igor" tvg-logo="http://goo.gl/TFnReB?" group-title="Canais Premium 0",GLOBO NEWS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/343.ts
+
+#EXTINF:-1 tvg-id="Band News.igor" tvg-logo="http://goo.gl/TK37r4?" group-title="Canais Premium 0",BAND NEWS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/444.ts
+
+#EXTINF:-1 tvg-id="Record News.igor" tvg-logo="http://goo.gl/rFQFdv?" group-title="Canais Premium 0",RECOR NEWS
+http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/390.ts
+
 ------------- Canais Premium 1 -----------------
 #EXTINF:-1, group-title="Canais Premium 1",A&E
 http://54.39.53.45:8880/live/nielson/nielson/8156.ts
