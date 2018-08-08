@@ -343,1232 +343,381 @@ http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/444.ts
 http://main1.aliendevapp.com:25461/live/canaisSD/pwR9AAvpwv/390.ts
 
 ------------- Canais Premium 1 -----------------
-#EXTINF:-1, group-title="Canais Premium 1",A&E
-http://54.39.53.45:8880/live/nielson/nielson/8156.ts
-#EXTINF:-1, group-title="Canais Premium 1",A&E Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12719.ts
-#EXTINF:-1, group-title="Canais Premium 1",A&E HD
-http://54.39.53.45:8880/live/nielson/nielson/8241.ts
-#EXTINF:-1, group-title="Canais Premium 1",A&E HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12720.ts
-#EXTINF:-1, group-title="Canais Premium 1",A&E FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13296.ts
-#EXTINF:-1, group-title="Canais Premium 1",AMC
-http://54.39.53.45:8880/live/nielson/nielson/8155.ts
-#EXTINF:-1, group-title="Canais Premium 1",AMC Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12717.ts
-#EXTINF:-1, group-title="Canais Premium 1",AMC HD
-http://54.39.53.45:8880/live/nielson/nielson/8240.ts
-#EXTINF:-1, group-title="Canais Premium 1",AMC HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12718.ts
-#EXTINF:-1, group-title="Canais Premium 1",ANIMAL PLANET
-http://54.39.53.45:8880/live/nielson/nielson/8154.ts
-#EXTINF:-1, group-title="Canais Premium 1",ANIMAL PLANET Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12735.ts
-#EXTINF:-1, group-title="Canais Premium 1",ANIMAL PLANET HD
-http://54.39.53.45:8880/live/nielson/nielson/8239.ts
-#EXTINF:-1, group-title="Canais Premium 1",ANIMAL PLANET HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12736.ts
-#EXTINF:-1, group-title="Canais Premium 1",ANIMAL PLANET FHD
-http://54.39.53.45:8880/live/nielson/nielson/1504.ts
-#EXTINF:-1, group-title="Canais Premium 1",ARTE 1
-http://54.39.53.45:8880/live/nielson/nielson/8153.ts
-#EXTINF:-1, group-title="Canais Premium 1",ARTE 1 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12953.ts
-#EXTINF:-1, group-title="Canais Premium 1",ARTE 1 HD
-http://54.39.53.45:8880/live/nielson/nielson/8152.ts
-#EXTINF:-1, group-title="Canais Premium 1",AXN
-http://54.39.53.45:8880/live/nielson/nielson/8151.ts
-#EXTINF:-1, group-title="Canais Premium 1",AXN Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12721.ts
-#EXTINF:-1, group-title="Canais Premium 1",AXN HD
-http://54.39.53.45:8880/live/nielson/nielson/8238.ts
-#EXTINF:-1, group-title="Canais Premium 1",AXN HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12722.ts
-#EXTINF:-1, group-title="Canais Premium 1",AXN FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13302.ts
-#EXTINF:-1, group-title="Canais Premium 1",BABY TV
-http://54.39.53.45:8880/live/nielson/nielson/8237.ts
-#EXTINF:-1, group-title="Canais Premium 1",BABY TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13093.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND
-http://54.39.53.45:8880/live/nielson/nielson/8150.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND  Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12882.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13091.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND HD
-http://54.39.53.45:8880/live/nielson/nielson/294.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13092.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND NEWS
-http://54.39.53.45:8880/live/nielson/nielson/8149.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND NEWS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13090.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND NEWS HD
-http://54.39.53.45:8880/live/nielson/nielson/8148.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND PARANA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12881.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND SPORTS
-http://54.39.53.45:8880/live/nielson/nielson/8147.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND SPORTS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12725.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND SPORTS HD
-http://54.39.53.45:8880/live/nielson/nielson/8236.ts
-#EXTINF:-1, group-title="Canais Premium 1",BAND SPORTS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12726.ts
-#EXTINF:-1, group-title="Canais Premium 1",BIS
-http://54.39.53.45:8880/live/nielson/nielson/8146.ts
-#EXTINF:-1, group-title="Canais Premium 1",BIS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12880.ts
-#EXTINF:-1, group-title="Canais Premium 1",BIS HD
-http://54.39.53.45:8880/live/nielson/nielson/8235.ts
-#EXTINF:-1, group-title="Canais Premium 1",BIS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13089.ts
-#EXTINF:-1, group-title="Canais Premium 1",BIS FHD
-http://54.39.53.45:8880/live/nielson/nielson/1531.ts
-#EXTINF:-1, group-title="Canais Premium 1",BOA VONTADE
-http://54.39.53.45:8880/live/nielson/nielson/3132.ts
-#EXTINF:-1, group-title="Canais Premium 1",BOA VONTADE HD
-http://54.39.53.45:8880/live/nielson/nielson/4660.ts
-#EXTINF:-1, group-title="Canais Premium 1",BOOMERANG
-http://54.39.53.45:8880/live/nielson/nielson/8145.ts
-#EXTINF:-1, group-title="Canais Premium 1",BOOMERANG Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13088.ts
-#EXTINF:-1, group-title="Canais Premium 1",BOOMERANG HD
-http://54.39.53.45:8880/live/nielson/nielson/8144.ts
-#EXTINF:-1, group-title="Canais Premium 1",BOOMERANG FHD
-http://54.39.53.45:8880/live/nielson/nielson/4463.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL BRASIL
-http://54.39.53.45:8880/live/nielson/nielson/8143.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL BRASIL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13087.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL BRASIL HD
-http://54.39.53.45:8880/live/nielson/nielson/8234.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL DO BOI Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13086.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL FUTEBOL
-http://54.39.53.45:8880/live/nielson/nielson/13085.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL RURAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12879.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL SONY
-http://54.39.53.45:8880/live/nielson/nielson/8142.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL SONY SD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12715.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL SONY HD
-http://54.39.53.45:8880/live/nielson/nielson/8141.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL SONY HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12716.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANAL SONY FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13142.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANÇÃO NOVA
-http://54.39.53.45:8880/live/nielson/nielson/8233.ts
-#EXTINF:-1, group-title="Canais Premium 1",CANÇAO NOVA ALTERNATIVO
-http://54.39.53.45:8880/live/nielson/nielson/4661.ts
-#EXTINF:-1, group-title="Canais Premium 1",CARTOON NETWORK
-http://54.39.53.45:8880/live/nielson/nielson/8140.ts
-#EXTINF:-1, group-title="Canais Premium 1",CARTOON NETWORK Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13083.ts
-#EXTINF:-1, group-title="Canais Premium 1",CARTOON NETWORK HD
-http://54.39.53.45:8880/live/nielson/nielson/8232.ts
-#EXTINF:-1, group-title="Canais Premium 1",CARTOON NETWORK HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13084.ts
-#EXTINF:-1, group-title="Canais Premium 1",CARTOON NETWORK FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13141.ts
-#EXTINF:-1, group-title="Canais Premium 1",CINEMAX
-http://54.39.53.45:8880/live/nielson/nielson/8139.ts
-#EXTINF:-1, group-title="Canais Premium 1",CINEMAX Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13081.ts
-#EXTINF:-1, group-title="Canais Premium 1",CINEMAX HD
-http://54.39.53.45:8880/live/nielson/nielson/8231.ts
-#EXTINF:-1, group-title="Canais Premium 1",CINEMAX HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13082.ts
-#EXTINF:-1, group-title="Canais Premium 1",CNN INTERNACIONAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13080.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMBATE
-http://54.39.53.45:8880/live/nielson/nielson/8138.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMBATE Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12723.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMBATE HD
-http://54.39.53.45:8880/live/nielson/nielson/8230.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMBATE HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12724.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMBATE FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12839.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMEDY CENTRAL
-http://54.39.53.45:8880/live/nielson/nielson/8137.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMEDY CENTRAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13078.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMEDY CENTRAL HD
-http://54.39.53.45:8880/live/nielson/nielson/8229.ts
-#EXTINF:-1, group-title="Canais Premium 1",COMEDY CENTRAL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13079.ts
-#EXTINF:-1, group-title="Canais Premium 1",CONEXAO BR
-http://54.39.53.45:8880/live/nielson/nielson/3140.ts
-#EXTINF:-1, group-title="Canais Premium 1",CURTA!
-http://54.39.53.45:8880/live/nielson/nielson/8136.ts
-#EXTINF:-1, group-title="Canais Premium 1",CURTA! Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13077.ts
-#EXTINF:-1, group-title="Canais Premium 1",CURTA! HD
-http://54.39.53.45:8880/live/nielson/nielson/8135.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CHANNEL
-http://54.39.53.45:8880/live/nielson/nielson/8134.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CHANNEL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12741.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CHANNEL HD
-http://54.39.53.45:8880/live/nielson/nielson/8228.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CHANNEL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12742.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CIVILIZATION
-http://54.39.53.45:8880/live/nielson/nielson/8133.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CIVILIZATION Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12739.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CIVILIZATION HD
-http://54.39.53.45:8880/live/nielson/nielson/8227.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CIVILIZATION HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12740.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY CIVILIZATION FHD
-http://54.39.53.45:8880/live/nielson/nielson/12826.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY HOME & HEALTH
-http://54.39.53.45:8880/live/nielson/nielson/8132.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY HOME & HEALTH Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12737.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY HOME & HEALTH HD
-http://54.39.53.45:8880/live/nielson/nielson/8226.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY HOME & HEALTH HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12738.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY KIDS
-http://54.39.53.45:8880/live/nielson/nielson/8131.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY KIDS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12748.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY KIDS HD
-http://54.39.53.45:8880/live/nielson/nielson/8225.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY KIDS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12749.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY SCIENCE
-http://54.39.53.45:8880/live/nielson/nielson/8130.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY SCIENCE Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12733.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY SCIENCE HD
-http://54.39.53.45:8880/live/nielson/nielson/8129.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY SCIENCE HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12734.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY SCIENCE FHD
-http://54.39.53.45:8880/live/nielson/nielson/12825.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY THEATER
-http://54.39.53.45:8880/live/nielson/nielson/8128.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY THEATER Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12731.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY THEATER HD
-http://54.39.53.45:8880/live/nielson/nielson/8224.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY THEATER HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12732.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY TURBO
-http://54.39.53.45:8880/live/nielson/nielson/8127.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY TURBO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12729.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY TURBO HD
-http://54.39.53.45:8880/live/nielson/nielson/8223.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY TURBO HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12730.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY TURBO FHD
-http://54.39.53.45:8880/live/nielson/nielson/4474.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY WORLD
-http://54.39.53.45:8880/live/nielson/nielson/8126.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY WORLD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12727.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY WORLD  HD
-http://54.39.53.45:8880/live/nielson/nielson/8222.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISCOVERY WORLD HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12728.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY CHANNEL
-http://54.39.53.45:8880/live/nielson/nielson/8125.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY CHANNEL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12746.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY CHANNEL HD
-http://54.39.53.45:8880/live/nielson/nielson/8221.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY CHANNEL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12747.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY JUNIOR
-http://54.39.53.45:8880/live/nielson/nielson/8124.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY JUNIOR Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12744.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY JUNIOR HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12745.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY XD
-http://54.39.53.45:8880/live/nielson/nielson/8123.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY XD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13076.ts
-#EXTINF:-1, group-title="Canais Premium 1",DISNEY XD HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12743.ts
-#EXTINF:-1, group-title="Canais Premium 1",DOGTV
-http://54.39.53.45:8880/live/nielson/nielson/8122.ts
-#EXTINF:-1, group-title="Canais Premium 1",DOGTV HD
-http://54.39.53.45:8880/live/nielson/nielson/8121.ts
-#EXTINF:-1, group-title="Canais Premium 1",E!
-http://54.39.53.45:8880/live/nielson/nielson/8120.ts
-#EXTINF:-1, group-title="Canais Premium 1",E! Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13074.ts
-#EXTINF:-1, group-title="Canais Premium 1",E! HD
-http://54.39.53.45:8880/live/nielson/nielson/8220.ts
-#EXTINF:-1, group-title="Canais Premium 1",E! HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13075.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN
-http://54.39.53.45:8880/live/nielson/nielson/8119.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13068.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN BRASIL
-http://54.39.53.45:8880/live/nielson/nielson/8117.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN BRASIL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13066.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN BRASIL HD
-http://54.39.53.45:8880/live/nielson/nielson/8243.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN BRASIL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13067.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN BRASIL FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13303.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN EXTRA
-http://54.39.53.45:8880/live/nielson/nielson/8116.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN EXTRA HD
-http://54.39.53.45:8880/live/nielson/nielson/8115.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN HD
-http://54.39.53.45:8880/live/nielson/nielson/8219.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13069.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPN+ HD
-http://54.39.53.45:8880/live/nielson/nielson/8118.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO
-http://54.39.53.45:8880/live/nielson/nielson/8114.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13072.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO HD
-http://54.39.53.45:8880/live/nielson/nielson/8113.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13073.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12838.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO 2 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13070.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO 2 HD
-http://54.39.53.45:8880/live/nielson/nielson/8111.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13071.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO 2 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12837.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO BR
-http://54.39.53.45:8880/live/nielson/nielson/8110.ts
-#EXTINF:-1, group-title="Canais Premium 1",ESPORTE INTERATIVO BR HD
-http://54.39.53.45:8880/live/nielson/nielson/8109.ts
-#EXTINF:-1, group-title="Canais Premium 1",EUROSPORT
-http://54.39.53.45:8880/live/nielson/nielson/13063.ts
-#EXTINF:-1, group-title="Canais Premium 1",FISH TV
-http://54.39.53.45:8880/live/nielson/nielson/8108.ts
-#EXTINF:-1, group-title="Canais Premium 1",FISH TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13062.ts
-#EXTINF:-1, group-title="Canais Premium 1",FISH TV HD
-http://54.39.53.45:8880/live/nielson/nielson/8107.ts
-#EXTINF:-1, group-title="Canais Premium 1",FISH TV FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13301.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOOD NETWORK
-http://54.39.53.45:8880/live/nielson/nielson/8106.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOOD NETWORK Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13060.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOOD NETWORK HD
-http://54.39.53.45:8880/live/nielson/nielson/8218.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOOD NETWORK HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13061.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOOD NETWORK FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13140.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX
-http://54.39.53.45:8880/live/nielson/nielson/8105.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12878.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX HD
-http://54.39.53.45:8880/live/nielson/nielson/8217.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13059.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12836.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX LIFE
-http://54.39.53.45:8880/live/nielson/nielson/8104.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX LIFE  Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13056.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX LIFE HD
-http://54.39.53.45:8880/live/nielson/nielson/8216.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX LIFE HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13057.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX PREMIUM 1
-http://54.39.53.45:8880/live/nielson/nielson/8103.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX PREMIUM 1 HD
-http://54.39.53.45:8880/live/nielson/nielson/8215.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX PREMIUM 1 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13055.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX PREMIUM Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/8102.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX PREMIUM 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13054.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS
-http://54.39.53.45:8880/live/nielson/nielson/8101.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS  Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13052.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS HD
-http://54.39.53.45:8880/live/nielson/nielson/8213.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13053.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12841.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS 2
-http://54.39.53.45:8880/live/nielson/nielson/8100.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS 2 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13050.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS 2 HD
-http://54.39.53.45:8880/live/nielson/nielson/8099.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13051.ts
-#EXTINF:-1, group-title="Canais Premium 1",FOX SPORTS 2 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12840.ts
-#EXTINF:-1, group-title="Canais Premium 1",FUTURA
-http://54.39.53.45:8880/live/nielson/nielson/8212.ts
-#EXTINF:-1, group-title="Canais Premium 1",FUTURA HD
-http://54.39.53.45:8880/live/nielson/nielson/8098.ts
-#EXTINF:-1, group-title="Canais Premium 1",FX
-http://54.39.53.45:8880/live/nielson/nielson/8097.ts
-#EXTINF:-1, group-title="Canais Premium 1",FX Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13048.ts
-#EXTINF:-1, group-title="Canais Premium 1",FX HD
-http://54.39.53.45:8880/live/nielson/nielson/8211.ts
-#EXTINF:-1, group-title="Canais Premium 1",FX HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13049.ts
-#EXTINF:-1, group-title="Canais Premium 1",FX FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13139.ts
-#EXTINF:-1, group-title="Canais Premium 1",GAZETA SP HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13047.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLBO RBS TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12870.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO AM Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13029.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO BRASILIA
-http://54.39.53.45:8880/live/nielson/nielson/8096.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO BRASILIA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13040.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO BRASILIA HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13041.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO CAMPINAS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13026.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO EPTV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13037.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO EPTV CAMPINAS
-http://54.39.53.45:8880/live/nielson/nielson/8095.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO EPTV HD CAMPINAS
-http://54.39.53.45:8880/live/nielson/nielson/8094.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO EPTV HD RIBEIRÃO PRETO
-http://54.39.53.45:8880/live/nielson/nielson/8093.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO EPTV RIBEIRÃO PRETO
-http://54.39.53.45:8880/live/nielson/nielson/8092.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO FORTALEZA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13025.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO INTERNACIONAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13043.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO INTERNACIONAL FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13044.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO MINAS
-http://54.39.53.45:8880/live/nielson/nielson/8091.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO MINAS  FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12763.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO MINAS HD
-http://54.39.53.45:8880/live/nielson/nielson/8210.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO MINAS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13039.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO MT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13023.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NEWS
-http://54.39.53.45:8880/live/nielson/nielson/8090.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NEWS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13045.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NEWS HD
-http://54.39.53.45:8880/live/nielson/nielson/8209.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NEWS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13046.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NEWS FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12834.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NORDESTE
-http://54.39.53.45:8880/live/nielson/nielson/8208.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NORDESTE HD
-http://54.39.53.45:8880/live/nielson/nielson/8207.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NORDESTE HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13035.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NSC TV FLORIANOPOLIS
-http://54.39.53.45:8880/live/nielson/nielson/8089.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO NSC TV HD FLORIANOPOLIS
-http://54.39.53.45:8880/live/nielson/nielson/8088.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO PARANA HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13034.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO PORTUGAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13042.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RBS HD TV PORTO ALEGRE
-http://54.39.53.45:8880/live/nielson/nielson/8086.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RBS TV PORTO ALEGRE
-http://54.39.53.45:8880/live/nielson/nielson/8087.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RBS TV PORTO ALEGRE Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13019.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RIBEIRAO PRETO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13022.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RJ
-http://54.39.53.45:8880/live/nielson/nielson/8085.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RJ Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13032.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RJ HD
-http://54.39.53.45:8880/live/nielson/nielson/8206.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RJ HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13033.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RN Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13024.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RPC CURITIBA
-http://54.39.53.45:8880/live/nielson/nielson/8084.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO RPC CURITIBA HD
-http://54.39.53.45:8880/live/nielson/nielson/8083.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO SAO JOSE DOS CAMPOS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13021.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO SP
-http://54.39.53.45:8880/live/nielson/nielson/8082.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO SP Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13030.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO SP HD
-http://54.39.53.45:8880/live/nielson/nielson/8205.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO SP HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13031.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO SP FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13292.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV ANHANGUERA
-http://54.39.53.45:8880/live/nielson/nielson/8081.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV ANHANGUERA HD
-http://54.39.53.45:8880/live/nielson/nielson/8080.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV ANHANGUERA HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13038.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV BAHIA
-http://54.39.53.45:8880/live/nielson/nielson/8079.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV BAHIA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13036.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV BAHIA HD
-http://54.39.53.45:8880/live/nielson/nielson/8078.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV TEM BAURU
-http://54.39.53.45:8880/live/nielson/nielson/8077.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV TEM BAURU Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13027.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV TEM HD S. J. DO RIO PRETO
-http://54.39.53.45:8880/live/nielson/nielson/8076.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV TEM S. J. DO RIO PRETO
-http://54.39.53.45:8880/live/nielson/nielson/8075.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV TEM SOROCABA
-http://54.39.53.45:8880/live/nielson/nielson/8074.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBO TV TEM SOROCABA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13028.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBOSAT
-http://54.39.53.45:8880/live/nielson/nielson/8057.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBOSAT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13017.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBOSAT HD
-http://54.39.53.45:8880/live/nielson/nielson/8056.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOBOSAT HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13018.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOB
-http://54.39.53.45:8880/live/nielson/nielson/8073.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOB Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13015.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOB HD
-http://54.39.53.45:8880/live/nielson/nielson/8072.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOB HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13016.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOB FHD
-http://54.39.53.45:8880/live/nielson/nielson/2353.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOBINHO
-http://54.39.53.45:8880/live/nielson/nielson/8070.ts
-#EXTINF:-1, group-title="Canais Premium 1",GLOOBINHO HD
-http://54.39.53.45:8880/live/nielson/nielson/8071.ts
-#EXTINF:-1, group-title="Canais Premium 1",GNT
-http://54.39.53.45:8880/live/nielson/nielson/8069.ts
-#EXTINF:-1, group-title="Canais Premium 1",GNT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13013.ts
-#EXTINF:-1, group-title="Canais Premium 1",GNT HD
-http://54.39.53.45:8880/live/nielson/nielson/8204.ts
-#EXTINF:-1, group-title="Canais Premium 1",GNT HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13014.ts
-#EXTINF:-1, group-title="Canais Premium 1",GOSPEL CARTOON
-http://54.39.53.45:8880/live/nielson/nielson/2662.ts
-#EXTINF:-1, group-title="Canais Premium 1",GOSPEL MOVIES TELEVISION
-http://54.39.53.45:8880/live/nielson/nielson/3135.ts
-#EXTINF:-1, group-title="Canais Premium 1",H2
-http://54.39.53.45:8880/live/nielson/nielson/8068.ts
-#EXTINF:-1, group-title="Canais Premium 1",H2 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13010.ts
-#EXTINF:-1, group-title="Canais Premium 1",H2 HD
-http://54.39.53.45:8880/live/nielson/nielson/8203.ts
-#EXTINF:-1, group-title="Canais Premium 1",H2 FHD
-http://54.39.53.45:8880/live/nielson/nielson/13011.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO
-http://54.39.53.45:8880/live/nielson/nielson/8067.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO 2
-http://54.39.53.45:8880/live/nielson/nielson/8066.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO 2 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12874.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO 2 HD
-http://54.39.53.45:8880/live/nielson/nielson/8202.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12798.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO2 FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13295.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO FAMILY
-http://54.39.53.45:8880/live/nielson/nielson/8065.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO FAMILY Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12795.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO FAMILY HD
-http://54.39.53.45:8880/live/nielson/nielson/8201.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO FAMILY HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12796.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO HD
-http://54.39.53.45:8880/live/nielson/nielson/8200.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12794.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS
-http://54.39.53.45:8880/live/nielson/nielson/8064.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12876.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS E
-http://54.39.53.45:8880/live/nielson/nielson/8063.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS E Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12792.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS E HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12791.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS HD
-http://54.39.53.45:8880/live/nielson/nielson/8199.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO PLUS FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13138.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO SIGNATURE
-http://54.39.53.45:8880/live/nielson/nielson/8062.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO SIGNATURE Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12875.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO SIGNATURE HD
-http://54.39.53.45:8880/live/nielson/nielson/8198.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO SIGNATURE HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12788.ts
-#EXTINF:-1, group-title="Canais Premium 1",HBO SIGNATURE FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13137.ts
-#EXTINF:-1, group-title="Canais Premium 1",HISTORY
-http://54.39.53.45:8880/live/nielson/nielson/8061.ts
-#EXTINF:-1, group-title="Canais Premium 1",HISTORY HD
-http://54.39.53.45:8880/live/nielson/nielson/8060.ts
-#EXTINF:-1, group-title="Canais Premium 1",HISTORY CHANNEL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13008.ts
-#EXTINF:-1, group-title="Canais Premium 1",HISTORY CHANNEL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13009.ts
-#EXTINF:-1, group-title="Canais Premium 1",HISTORY FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12835.ts
-#EXTINF:-1, group-title="Canais Premium 1",HOT MUSIC Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13012.ts
-#EXTINF:-1, group-title="Canais Premium 1",I-SAT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13007.ts
-#EXTINF:-1, group-title="Canais Premium 1",IMPD TV
-http://54.39.53.45:8880/live/nielson/nielson/4655.ts
-#EXTINF:-1, group-title="Canais Premium 1",INVESTIGATION DISCOVERY
-http://54.39.53.45:8880/live/nielson/nielson/8059.ts
-#EXTINF:-1, group-title="Canais Premium 1",INVESTIGATION DISCOVERY Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13005.ts
-#EXTINF:-1, group-title="Canais Premium 1",INVESTIGATION DISCOVERY HD
-http://54.39.53.45:8880/live/nielson/nielson/8197.ts
-#EXTINF:-1, group-title="Canais Premium 1",INVESTIGATION DISCOVERY HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13006.ts
-#EXTINF:-1, group-title="Canais Premium 1",INVESTIGATION DISCOVERY FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13136.ts
-#EXTINF:-1, group-title="Canais Premium 1",IURD TV Internacional
-http://54.39.53.45:8880/live/nielson/nielson/4656.ts
-#EXTINF:-1, group-title="Canais Premium 1",LIFETIME
-http://54.39.53.45:8880/live/nielson/nielson/8058.ts
-#EXTINF:-1, group-title="Canais Premium 1",LIFETIME Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13003.ts
-#EXTINF:-1, group-title="Canais Premium 1",LIFETIME HD
-http://54.39.53.45:8880/live/nielson/nielson/8196.ts
-#EXTINF:-1, group-title="Canais Premium 1",LIFETIME HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13004.ts
-#EXTINF:-1, group-title="Canais Premium 1",LIFETIME FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13294.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX
-http://54.39.53.45:8880/live/nielson/nielson/8055.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13001.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX HD
-http://54.39.53.45:8880/live/nielson/nielson/8195.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13002.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX PRIME
-http://54.39.53.45:8880/live/nielson/nielson/8054.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX PRIME Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12873.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX PRIME E
-http://54.39.53.45:8880/live/nielson/nielson/8053.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX PRIME E Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13000.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX PRIME HD
-http://54.39.53.45:8880/live/nielson/nielson/8194.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX PRIME HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12999.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX UP
-http://54.39.53.45:8880/live/nielson/nielson/8052.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX UP Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12997.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX UP HD
-http://54.39.53.45:8880/live/nielson/nielson/8193.ts
-#EXTINF:-1, group-title="Canais Premium 1",MAX UP HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12998.ts
-#EXTINF:-1, group-title="Canais Premium 1",MEGAPIX
-http://54.39.53.45:8880/live/nielson/nielson/8051.ts
-#EXTINF:-1, group-title="Canais Premium 1",MEGAPIX Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12995.ts
-#EXTINF:-1, group-title="Canais Premium 1",MEGAPIX HD
-http://54.39.53.45:8880/live/nielson/nielson/8192.ts
-#EXTINF:-1, group-title="Canais Premium 1",MEGAPIX HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12996.ts
-#EXTINF:-1, group-title="Canais Premium 1",MEGAPIX FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12827.ts
-#EXTINF:-1, group-title="Canais Premium 1",MTV
-http://54.39.53.45:8880/live/nielson/nielson/8050.ts
-#EXTINF:-1, group-title="Canais Premium 1",MTV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12992.ts
-#EXTINF:-1, group-title="Canais Premium 1",MTV DANCE Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12994.ts
-#EXTINF:-1, group-title="Canais Premium 1",MTV HD
-http://54.39.53.45:8880/live/nielson/nielson/8191.ts
-#EXTINF:-1, group-title="Canais Premium 1",MTV HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12993.ts
-#EXTINF:-1, group-title="Canais Premium 1",MTV PORTUGAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12991.ts
-#EXTINF:-1, group-title="Canais Premium 1",MULTISHOW
-http://54.39.53.45:8880/live/nielson/nielson/8049.ts
-#EXTINF:-1, group-title="Canais Premium 1",MULTISHOW Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12989.ts
-#EXTINF:-1, group-title="Canais Premium 1",MULTISHOW HD
-http://54.39.53.45:8880/live/nielson/nielson/8190.ts
-#EXTINF:-1, group-title="Canais Premium 1",MULTISHOW HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12990.ts
-#EXTINF:-1, group-title="Canais Premium 1",MULTISHOW FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13300.ts
-#EXTINF:-1, group-title="Canais Premium 1",MUSIC BOX BRASIL
-http://54.39.53.45:8880/live/nielson/nielson/8048.ts
-#EXTINF:-1, group-title="Canais Premium 1",MUSIC BOX BRASIL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12988.ts
-#EXTINF:-1, group-title="Canais Premium 1",MUSIC BOX BRASIL HD
-http://54.39.53.45:8880/live/nielson/nielson/8047.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO
-http://54.39.53.45:8880/live/nielson/nielson/8046.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12986.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO HD
-http://54.39.53.45:8880/live/nielson/nielson/8189.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12987.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13135.ts
-#EXTINF:-1, group-title="Canais Premium 1",NATGEO KIDS
-http://54.39.53.45:8880/live/nielson/nielson/8188.ts
-#EXTINF:-1, group-title="Canais Premium 1",NATGEO KIDS HD
-http://54.39.53.45:8880/live/nielson/nielson/8045.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO KIDS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12985.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO KIDS FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13297.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO WILD
-http://54.39.53.45:8880/live/nielson/nielson/8044.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO WILD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12983.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO WILD HD
-http://54.39.53.45:8880/live/nielson/nielson/8187.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO WILD HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12984.ts
-#EXTINF:-1, group-title="Canais Premium 1",NAT GEO WILD FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13299.ts
-#EXTINF:-1, group-title="Canais Premium 1",NBR
-http://54.39.53.45:8880/live/nielson/nielson/8043.ts
-#EXTINF:-1, group-title="Canais Premium 1",NBR Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12872.ts
-#EXTINF:-1, group-title="Canais Premium 1",NHK Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12982.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICK JR
-http://54.39.53.45:8880/live/nielson/nielson/8042.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICK JR Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12980.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICK JR HD
-http://54.39.53.45:8880/live/nielson/nielson/8041.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICK JR HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12981.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICKELODEON
-http://54.39.53.45:8880/live/nielson/nielson/8040.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICKELODEON Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12978.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICKELODEON HD
-http://54.39.53.45:8880/live/nielson/nielson/8039.ts
-#EXTINF:-1, group-title="Canais Premium 1",NICKELODEON HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12979.ts
-#EXTINF:-1, group-title="Canais Premium 1",OFF
-http://54.39.53.45:8880/live/nielson/nielson/8038.ts
-#EXTINF:-1, group-title="Canais Premium 1",OFF Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12871.ts
-#EXTINF:-1, group-title="Canais Premium 1",OFF HD
-http://54.39.53.45:8880/live/nielson/nielson/8186.ts
-#EXTINF:-1, group-title="Canais Premium 1",OFF HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12977.ts
-#EXTINF:-1, group-title="Canais Premium 1",PARAMOUNT CHANNEL
-http://54.39.53.45:8880/live/nielson/nielson/8037.ts
-#EXTINF:-1, group-title="Canais Premium 1",PARAMOUNT CHANNEL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12975.ts
-#EXTINF:-1, group-title="Canais Premium 1",PARAMOUNT CHANNEL HD
-http://54.39.53.45:8880/live/nielson/nielson/8185.ts
-#EXTINF:-1, group-title="Canais Premium 1",PARAMOUNT CHANNEL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12976.ts
-#EXTINF:-1, group-title="Canais Premium 1",PFC Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12972.ts
-#EXTINF:-1, group-title="Canais Premium 1",PLAY TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12974.ts
-#EXTINF:-1, group-title="Canais Premium 1",PORTAL GOSPEL.
-http://54.39.53.45:8880/live/nielson/nielson/4652.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 2
-http://54.39.53.45:8880/live/nielson/nielson/8184.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 2 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12853.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 2 HD
-http://54.39.53.45:8880/live/nielson/nielson/8036.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12806.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIER 2 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13133.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 24HS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12808.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 24HS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12809.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 3
-http://54.39.53.45:8880/live/nielson/nielson/8183.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 3 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12852.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 3 HD
-http://54.39.53.45:8880/live/nielson/nielson/8035.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 3 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12805.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIER 3 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13132.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 4
-http://54.39.53.45:8880/live/nielson/nielson/8182.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 4 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12851.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 4 HD
-http://54.39.53.45:8880/live/nielson/nielson/8034.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 4 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12804.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIER 4 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13131.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 5
-http://54.39.53.45:8880/live/nielson/nielson/8181.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 5 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12850.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 5 HD
-http://54.39.53.45:8880/live/nielson/nielson/8033.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 5 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12803.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIER 5 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13130.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 6
-http://54.39.53.45:8880/live/nielson/nielson/8180.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 6 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12971.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 6 HD
-http://54.39.53.45:8880/live/nielson/nielson/8032.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIER 6 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13129.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 7
-http://54.39.53.45:8880/live/nielson/nielson/8031.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 7 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12970.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 7 HD
-http://54.39.53.45:8880/live/nielson/nielson/8030.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIER 7 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13128.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 8 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12800.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE 9 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12846.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE HD 9 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12968.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE CLUBES
-http://54.39.53.45:8880/live/nielson/nielson/8029.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE CLUBES Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12854.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE CLUBES HD
-http://54.39.53.45:8880/live/nielson/nielson/8028.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE CLUBES HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12807.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE CLUBES FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13134.ts
-#EXTINF:-1, group-title="Canais Premium 1",PREMIERE CLUBES FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12845.ts
-#EXTINF:-1, group-title="Canais Premium 1",PRIME BOX BRASIL
-http://54.39.53.45:8880/live/nielson/nielson/8027.ts
-#EXTINF:-1, group-title="Canais Premium 1",PRIME BOX BRASIL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12967.ts
-#EXTINF:-1, group-title="Canais Premium 1",PRIME BOX BRASIL HD
-http://54.39.53.45:8880/live/nielson/nielson/8026.ts
-#EXTINF:-1, group-title="Canais Premium 1",RBS FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13122.ts
-#EXTINF:-1, group-title="Canais Premium 1",REAL MADRID TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12956.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD
-http://54.39.53.45:8880/live/nielson/nielson/8025.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD  HD
-http://54.39.53.45:8880/live/nielson/nielson/8024.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12965.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD HD
-http://54.39.53.45:8880/live/nielson/nielson/8020.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12966.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD INTERNACIONAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12964.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD NEWS
-http://54.39.53.45:8880/live/nielson/nielson/8023.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD NEWS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12963.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD NEWS HD
-http://54.39.53.45:8880/live/nielson/nielson/8022.ts
-#EXTINF:-1, group-title="Canais Premium 1",RECORD SP
-http://54.39.53.45:8880/live/nielson/nielson/8021.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE BRASIL
-http://54.39.53.45:8880/live/nielson/nielson/8019.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE BRASIL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12962.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE DO BEM Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12961.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE GOSPEL (2).
-http://54.39.53.45:8880/live/nielson/nielson/4651.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE RECORD  FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12764.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE RECORD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12959.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE RECORD FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12823.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE RECORD SP HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12960.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE RECORD USA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12958.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE SÉCULO 21
-http://54.39.53.45:8880/live/nielson/nielson/3133.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE SÊCULO 21 HD
-http://54.39.53.45:8880/live/nielson/nielson/4659.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE SUPER
-http://54.39.53.45:8880/live/nielson/nielson/3131.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE SUPER.
-http://54.39.53.45:8880/live/nielson/nielson/6539.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE TV
-http://54.39.53.45:8880/live/nielson/nielson/8018.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12868.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE TV HD
-http://54.39.53.45:8880/live/nielson/nielson/8179.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE TV HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12957.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE VIDA
-http://54.39.53.45:8880/live/nielson/nielson/8017.ts
-#EXTINF:-1, group-title="Canais Premium 1",REDE VIDA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12869.ts
-#EXTINF:-1, group-title="Canais Premium 1",SBT
-http://54.39.53.45:8880/live/nielson/nielson/8016.ts
-#EXTINF:-1, group-title="Canais Premium 1",SBT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12954.ts
-#EXTINF:-1, group-title="Canais Premium 1",SBT HD
-http://54.39.53.45:8880/live/nielson/nielson/8178.ts
-#EXTINF:-1, group-title="Canais Premium 1",SBT HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12955.ts
-#EXTINF:-1, group-title="Canais Premium 1",SBT SP HD
-http://54.39.53.45:8880/live/nielson/nielson/7862.ts
-#EXTINF:-1, group-title="Canais Premium 1",SBT SP INTERIOR
-http://54.39.53.45:8880/live/nielson/nielson/8015.ts
-#EXTINF:-1, group-title="Canais Premium 1",SIC INTERNACIONAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12950.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPACE
-http://54.39.53.45:8880/live/nielson/nielson/8013.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPACE Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12948.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPACE HD
-http://54.39.53.45:8880/live/nielson/nielson/8176.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPACE HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12949.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPACE FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13127.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORT TV 1 HD - PT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12820.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORT TV 2 HD - PT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12819.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORT TV 3 HD - PT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12818.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORT TV 4 HD - PT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12817.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV
-http://54.39.53.45:8880/live/nielson/nielson/8012.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12815.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV HD
-http://54.39.53.45:8880/live/nielson/nielson/8173.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12816.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12844.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 2
-http://54.39.53.45:8880/live/nielson/nielson/8011.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 2 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12813.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 2 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12843.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 2 HD
-http://54.39.53.45:8880/live/nielson/nielson/8175.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12814.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 3
-http://54.39.53.45:8880/live/nielson/nielson/8010.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 3 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12811.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 3 FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12842.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 3 HD
-http://54.39.53.45:8880/live/nielson/nielson/8174.ts
-#EXTINF:-1, group-title="Canais Premium 1",SPORTV 3 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12812.ts
-#EXTINF:-1, group-title="Canais Premium 1",STUDIO UNIVERSAL
-http://54.39.53.45:8880/live/nielson/nielson/8009.ts
-#EXTINF:-1, group-title="Canais Premium 1",STUDIO UNIVERSAL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12928.ts
-#EXTINF:-1, group-title="Canais Premium 1",STUDIO UNIVERSAL HD
-http://54.39.53.45:8880/live/nielson/nielson/8172.ts
-#EXTINF:-1, group-title="Canais Premium 1",STUDIO UNIVERSAL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12947.ts
-#EXTINF:-1, group-title="Canais Premium 1",STUDIO UNIVERSAL FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13298.ts
-#EXTINF:-1, group-title="Canais Premium 1",SUNDANCETV
-http://54.39.53.45:8880/live/nielson/nielson/8008.ts
-#EXTINF:-1, group-title="Canais Premium 1",SUNDANCETV HD
-http://54.39.53.45:8880/live/nielson/nielson/8007.ts
-#EXTINF:-1, group-title="Canais Premium 1",SYFY
-http://54.39.53.45:8880/live/nielson/nielson/8014.ts
-#EXTINF:-1, group-title="Canais Premium 1",SYFY Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12867.ts
-#EXTINF:-1, group-title="Canais Premium 1",SYFY HD
-http://54.39.53.45:8880/live/nielson/nielson/8177.ts
-#EXTINF:-1, group-title="Canais Premium 1",SYFY HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12946.ts
-#EXTINF:-1, group-title="Canais Premium 1",TABELA DE JOGOS PREMIERE
-http://54.39.53.45:8880/live/nielson/nielson/7976.ts
-#EXTINF:-1, group-title="Canais Premium 1",TBS
-http://54.39.53.45:8880/live/nielson/nielson/8006.ts
-#EXTINF:-1, group-title="Canais Premium 1",TBS HD
-http://54.39.53.45:8880/live/nielson/nielson/8005.ts
-#EXTINF:-1, group-title="Canais Premium 1",TBS HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12945.ts
-#EXTINF:-1, group-title="Canais Premium 1",TBS FULL HD
-http://54.39.53.45:8880/live/nielson/nielson/13293.ts
-#EXTINF:-1, group-title="Canais Premium 1",TCM
-http://54.39.53.45:8880/live/nielson/nielson/8004.ts
-#EXTINF:-1, group-title="Canais Premium 1",TCM Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12864.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE ACTION
-http://54.39.53.45:8880/live/nielson/nielson/8003.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE ACTION Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12760.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE ACTION HD
-http://54.39.53.45:8880/live/nielson/nielson/8171.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE ACTION HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12761.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE ACTION FHD
-http://54.39.53.45:8880/live/nielson/nielson/12832.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE CULT
-http://54.39.53.45:8880/live/nielson/nielson/8002.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE CULT HD
-http://54.39.53.45:8880/live/nielson/nielson/8170.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE CULT FHD
-http://54.39.53.45:8880/live/nielson/nielson/12830.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE FUN
-http://54.39.53.45:8880/live/nielson/nielson/8001.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE FUN Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12756.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE FUN HD
-http://54.39.53.45:8880/live/nielson/nielson/8169.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE FUN HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12757.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE PIPOCA
-http://54.39.53.45:8880/live/nielson/nielson/8000.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE PIPOCA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12754.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE PIPOCA HD
-http://54.39.53.45:8880/live/nielson/nielson/8168.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE PIPOCA HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12755.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE PIPOCA FHD
-http://54.39.53.45:8880/live/nielson/nielson/12829.ts
-#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium
-http://54.39.53.45:8880/live/nielson/nielson/7999.ts
-#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12752.ts
-#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium HD
-http://54.39.53.45:8880/live/nielson/nielson/8167.ts
-#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12753.ts
-#EXTINF:-1, group-title="Canais Premium 1",Telecine Premium FHD
-http://54.39.53.45:8880/live/nielson/nielson/12833.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE TOUCH
-http://54.39.53.45:8880/live/nielson/nielson/7998.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE TOUCH Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12750.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE TOUCH FHD
-http://54.39.53.45:8880/live/nielson/nielson/12828.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE TOUCH HD
-http://54.39.53.45:8880/live/nielson/nielson/8166.ts
-#EXTINF:-1, group-title="Canais Premium 1",TELECINE TOUCH HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12751.ts
-#EXTINF:-1, group-title="Canais Premium 1",TERRA VIVA
-http://54.39.53.45:8880/live/nielson/nielson/7997.ts
-#EXTINF:-1, group-title="Canais Premium 1",TERRA VIVA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12862.ts
-#EXTINF:-1, group-title="Canais Premium 1",TLC
-http://54.39.53.45:8880/live/nielson/nielson/7996.ts
-#EXTINF:-1, group-title="Canais Premium 1",TLC Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12943.ts
-#EXTINF:-1, group-title="Canais Premium 1",TLC HD
-http://54.39.53.45:8880/live/nielson/nielson/8165.ts
-#EXTINF:-1, group-title="Canais Premium 1",TLC HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12944.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT
-http://54.39.53.45:8880/live/nielson/nielson/7995.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12941.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT HD
-http://54.39.53.45:8880/live/nielson/nielson/8164.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12942.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13126.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT SERIES
-http://54.39.53.45:8880/live/nielson/nielson/7994.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT SERIES Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12939.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT SERIES HD
-http://54.39.53.45:8880/live/nielson/nielson/8163.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT SERIES HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12940.ts
-#EXTINF:-1, group-title="Canais Premium 1",TNT SERIES FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13125.ts
-#EXTINF:-1, group-title="Canais Premium 1",TOONCAST
-http://54.39.53.45:8880/live/nielson/nielson/7993.ts
-#EXTINF:-1, group-title="Canais Premium 1",TOONCAST Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12937.ts
-#EXTINF:-1, group-title="Canais Premium 1",TOONCAST HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12938.ts
-#EXTINF:-1, group-title="Canais Premium 1",TRUTV
-http://54.39.53.45:8880/live/nielson/nielson/7984.ts
-#EXTINF:-1, group-title="Canais Premium 1",TRU TV Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12936.ts
-#EXTINF:-1, group-title="Canais Premium 1",TRUTV HD
-http://54.39.53.45:8880/live/nielson/nielson/7983.ts
-#EXTINF:-1, group-title="Canais Premium 1",TRU TV HD ALTERNATIVO
-http://54.39.53.45:8880/live/nielson/nielson/1539.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV ALTEROSA FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12821.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV ANHANGUERA  FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12765.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV ANHANGUERA FULL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12824.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV APARECIDA
-http://54.39.53.45:8880/live/nielson/nielson/8162.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV APARECIDA.
-http://54.39.53.45:8880/live/nielson/nielson/4664.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV BRASIL
-http://54.39.53.45:8880/live/nielson/nielson/7990.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CÂMARA
-http://54.39.53.45:8880/live/nielson/nielson/7989.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CINE 1 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12935.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CINE 2 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12934.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CINE 3 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12933.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CINE 4 HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12932.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CULTURA  Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12931.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV CULTURA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12861.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV ESCOLA
-http://54.39.53.45:8880/live/nielson/nielson/7988.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV EVANGELIZAR
-http://54.39.53.45:8880/live/nielson/nielson/4665.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV FELIZ
-http://54.39.53.45:8880/live/nielson/nielson/4666.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV GAZETA SP HD
-http://54.39.53.45:8880/live/nielson/nielson/7987.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV GLOBO RIO DE JANEIRO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12860.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV GLOBO SAO PAULO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12859.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV JUSTICA
-http://54.39.53.45:8880/live/nielson/nielson/7991.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV LIBERAL BELEM Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13020.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV NOVO TEMPO Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12863.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV RA TIM BUM
-http://54.39.53.45:8880/live/nielson/nielson/7986.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV RA TIM BUM Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12930.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV RA TIM BUM HD
-http://54.39.53.45:8880/live/nielson/nielson/7985.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV SENADO
-http://54.39.53.45:8880/live/nielson/nielson/7992.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV TERCEIRO ANJO
-http://54.39.53.45:8880/live/nielson/nielson/3138.ts
-#EXTINF:-1, group-title="Canais Premium 1",TV VERDADE.
-http://54.39.53.45:8880/live/nielson/nielson/4654.ts
-#EXTINF:-1, group-title="Canais Premium 1",UNIVERSAL CHANNEL
-http://54.39.53.45:8880/live/nielson/nielson/7982.ts
-#EXTINF:-1, group-title="Canais Premium 1",UNIVERSAL CHANNEL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12858.ts
-#EXTINF:-1, group-title="Canais Premium 1",UNIVERSAL CHANNEL HD
-http://54.39.53.45:8880/live/nielson/nielson/8161.ts
-#EXTINF:-1, group-title="Canais Premium 1",UNIVERSAL CHANNEL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12929.ts
-#EXTINF:-1, group-title="Canais Premium 1",UNIVERSAL CHANNEL FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13124.ts
-#EXTINF:-1, group-title="Canais Premium 1",VH1
-http://54.39.53.45:8880/live/nielson/nielson/7981.ts
-#EXTINF:-1, group-title="Canais Premium 1",VH1 Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12926.ts
-#EXTINF:-1, group-title="Canais Premium 1",VH1 HD
-http://54.39.53.45:8880/live/nielson/nielson/8160.ts
-#EXTINF:-1, group-title="Canais Premium 1",VH1 MEGA HITS
-http://54.39.53.45:8880/live/nielson/nielson/7980.ts
-#EXTINF:-1, group-title="Canais Premium 1",VH1 MEGA HITS Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12925.ts
-#EXTINF:-1, group-title="Canais Premium 1",VIVA
-http://54.39.53.45:8880/live/nielson/nielson/7979.ts
-#EXTINF:-1, group-title="Canais Premium 1",VIVA Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12856.ts
-#EXTINF:-1, group-title="Canais Premium 1",VIVA HD
-http://54.39.53.45:8880/live/nielson/nielson/8159.ts
-#EXTINF:-1, group-title="Canais Premium 1",VIVA HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12924.ts
-#EXTINF:-1, group-title="Canais Premium 1",WALLY GATOR
-http://54.39.53.45:8880/live/nielson/nielson/3986.ts
-#EXTINF:-1, group-title="Canais Premium 1",WARNER CHANNEL
-http://54.39.53.45:8880/live/nielson/nielson/7978.ts
-#EXTINF:-1, group-title="Canais Premium 1",WARNER CHANNEL Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12857.ts
-#EXTINF:-1, group-title="Canais Premium 1",WARNER CHANNEL HD
-http://54.39.53.45:8880/live/nielson/nielson/8158.ts
-#EXTINF:-1, group-title="Canais Premium 1",WARNER CHANNEL HD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/12923.ts
-#EXTINF:-1, group-title="Canais Premium 1",WARNER CHANNEL FHD Alternativo
-http://54.39.53.45:8880/live/nielson/nielson/13123.ts
+
+#EXTINF:-1 tvg-id="Globo Rio"  tvg-logo="https://goo.gl/TCmcww?" group-title="Canais Premium 1",Globo RJ
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4100.ts
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://goo.gl/wm9SPd?" group-title="Canais Premium 1",Globo SP
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4097.ts
+
+#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="https://goo.gl/73qt53" group-title="Canais Premium 1",Globo NSC TV Florianópolis
+http://listaccess.me:8880/live/laissena/3212/13744.ts
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="Canais Premium 1",SBT
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3926.ts
+
+#EXTINF:-1 tvg-id="Band"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="Canais Premium 1",BAND SP
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4183.ts
+
+#EXTINF:-1 tvg-id="RecordTV"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="Canais Premium 1",RECORD
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3933.ts
+
+#EXTINF:-1 tvg-id="RedeTV!"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="Canais Premium 1",REDE TV
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3929.ts
+
+#EXTINF:-1 tvg-id="Viva"  tvg-logo="http://goo.gl/8L6nXq?" group-title="Canais Premium 1",Viva
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3867.ts
+
+#EXTINF:-1 tvg-id="Futura"  tvg-logo="http://goo.gl/aaV8TF?" group-title="Canais Premium 1",Futura
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4112.ts
+
+
+
+#####################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]============ FILMES HD ============[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://goo.gl/5IKysn?" group-title="Canais Premium 1",TELECINE PIPOCA
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3894.ts
+
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://goo.gl/XaOWO6?" group-title="Canais Premium 1",TELECINE PREMIUM
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3893.ts
+
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://goo.gl/P79aKf?" group-title="Canais Premium 1",TELECINE ACTION
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3900.ts
+
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://goo.gl/Dk6F7h?" group-title="Canais Premium 1",TELECINE FUN
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3896.ts
+
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://goo.gl/AfJkib?" group-title="Canais Premium 1",TELECINE TOUCH
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3891.ts
+
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://goo.gl/fLmSUL?" group-title="Canais Premium 1",TELECINE CULT
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3899.ts
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://goo.gl/N9ccs5?" group-title="Canais Premium 1",HBO
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4085.ts
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://goo.gl/yrDz67?" group-title="Canais Premium 1",HBO 2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4088.ts
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://goo.gl/2BXhGr?" group-title="Canais Premium 1",HBO FAMILY
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4086.ts
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://goo.gl/ISXYSM?" group-title="Canais Premium 1",HBO PLUS
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4082.ts
+
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-logo="https://goo.gl/3ypaFN?" group-title="Canais Premium 1",HBO PLUS E
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4083.ts
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://goo.gl/GY0nyM?" group-title="Canais Premium 1",SPACE
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3916.ts
+
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://goo.gl/qXR9CS?" group-title="Canais Premium 1",Megapix
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4059.ts
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://goo.gl/iwCiPM?" group-title="Canais Premium 1",PARAMOUNT CHANNEL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4036.ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://goo.gl/vUl6oy?" group-title="Canais Premium 1",TNT
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3886.ts
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://goo.gl/MBRjjf?" group-title="Canais Premium 1",TCM
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3902.ts
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://goo.gl/oDAihL?" group-title="Canais Premium 1",CINEMAX
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4162.ts
+
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://goo.gl/db6g8k?" group-title="Canais Premium 1",MAX
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4065.ts
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://goo.gl/Hbr506?" group-title="Canais Premium 1",MAX UP
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4060.ts
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://goo.gl/JG4dUv?" group-title="Canais Premium 1",MAX PRIME
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4062.ts
+
+#EXTINF:-1 tvg-id="Max PRIME E" tvg-logo="https://goo.gl/LMKSp5?" group-title="Canais Premium 1",MAX PRIME E
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4063.ts
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://goo.gl/T8ICde?" group-title="Canais Premium 1",STUDIO UNIVERSAL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3907.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://goo.gl/zddqpQ?" group-title="Canais Premium 1",CANAL BRASIL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4170.ts
+
+
+
+
+
+
+#####################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]============ SERIADOS HD ============[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1 tvg-id="TNT series" tvg-logo="https://goo.gl/2ZBWuk?" group-title="Canais Premium 1",TNT SERIES
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3884.ts
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://goo.gl/13gfQq?" group-title="Canais Premium 1",FOX
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4121.ts
+
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Canais Premium 1",FOX PREMIUM 1
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4604.ts
+
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-logo="https://goo.gl/RUDViH?" group-title="Canais Premium 1",FOX PREMIUM 2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4118.ts
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://goo.gl/RnqXjY?" group-title="Canais Premium 1",FX
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4110.ts
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://goo.gl/6Y4LUI?" group-title="Canais Premium 1",TBS
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3903.ts
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://goo.gl/K8V00r?" group-title="Canais Premium 1",UNIVERSAL CHANNEL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3871.ts
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://goo.gl/u2Eh6h?" group-title="Canais Premium 1",Warner Channel
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4617.ts
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://goo.gl/7GDv0O?" group-title="Canais Premium 1",COMEDY CENTRAL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4603.ts
+
+
+#EXTINF:0 tvg-id="Fox Life" group-title="Canais Premium 1" tvg-logo="https://goo.gl/STGSLK?",FOX LIFE
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-id="Syfy" group-title="Canais Premium 1" tvg-logo="http://goo.gl/VDyslJ?",SYFY
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3905.ts
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://goo.gl/omksVK?" group-title="Canais Premium 1",SONY
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3917.ts
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goo.gl/U4atFv?" group-title="Canais Premium 1",AXN
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4185.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://goo.gl/TLM39Z?" group-title="Canais Premium 1",AMC
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4192.ts
+
+#EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://goo.gl/9UZzCQ?" group-title="Canais Premium 1",A&E
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4194.ts
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://goo.gl/6wG2dw?" group-title="Canais Premium 1",LIFETIME
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4070.ts
+
+
+
+
+#####################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]========== DOCUMENTÁRIOS HD ==========[/COLOR]
+http://0.0.0.0
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Canais Premium 1",ANIMAL PLANET
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4190.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://goo.gl/5ObfPV?"  group-title="Canais Premium 1",DISCOVERY CHANNEL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4153.ts
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="http://goo.gl/t0czad?"  group-title="Canais Premium 1",NAT GEO WILD
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4050.ts
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://goo.gl/vZm1PM?"  group-title="Canais Premium 1",DISCOVERY CIVILIZATION
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4581.ts
+
+#EXTINF:-1 tvg-id="History" tvg-logo="http://goo.gl/5rr2ab?" group-title="Canais Premium 1",THE HISTORY CHANNEL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4077.ts
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://goo.gl/INXrU0?" group-title="Canais Premium 1",NAT GEO
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4047.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://goo.gl/B8yVJo?"  group-title="Canais Premium 1",DISCOVERY TURBO
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4146.ts
+
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://goo.gl/dzX1M2?" group-title="Canais Premium 1",H2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4078.ts
+
+#EXTINF:0 tvg-id="TLC" tvg-logo="https://goo.gl/46JvTg?" group-title="Canais Premium 1",TLC
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3889.ts
+
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="https://goo.gl/al1XQO?" group-title="Canais Premium 1",INVESTIGACAO DISCOVERY
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4075.ts
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="Canais Premium 1",DISCOVERY THEATER
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4148.ts
+
+
+
+
+#####################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",[COLOR yellow]============ ESPORTES HD ============[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://goo.gl/hfvcjk?"  group-title="Canais Premium 1",Band Sports
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/6613.ts
+
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://goo.gl/vJAL7G?"  group-title="Canais Premium 1",Combate
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/5617.ts
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://goo.gl/XAaazj?"  group-title="Canais Premium 1",ESPN+
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4128.ts
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://goo.gl/iSukWD?"  group-title="Canais Premium 1",ESPN Brasil
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4130.ts
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://goo.gl/12dMSN?"  group-title="Canais Premium 1",ESPN EXTRA
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/7634.ts
+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://goo.gl/PJYpfq?"  group-title="Canais Premium 1",Esporte Interativo 1
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/6610.ts
+
+#EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-logo="http://goo.gl/VQ3Cmg?"  group-title="Canais Premium 1",Esporte Interativo 2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4126.ts
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://goo.gl/yfNU1t?"  group-title="Canais Premium 1",Fox Sports
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4113.ts
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://goo.gl/FBxaWZ?"  group-title="Canais Premium 1",Fox Sports 2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4114.ts
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://goo.gl/h8r8iX?"  group-title="Canais Premium 1",SporTV 1
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3909.ts
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://goo.gl/LqA71n?"  group-title="Canais Premium 1",SporTV 2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3912.ts
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://goo.gl/x6M4e4?"  group-title="Canais Premium 1",SporTV 3
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3910.ts
+
+
+#####################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]============ PREMIERE HD ============[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere Clubes
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4019.ts
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere 2
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4615.ts
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere 3
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4030.ts
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere 4
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4028.ts
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere 5
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4026.ts
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere 6
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4024.ts
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="http://goo.gl/MczmKF?"  group-title="Canais Premium 1",Premiere 7
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4623.ts
+	
+
+
+	
+#####################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]============ VARIEDADES HD ============[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="http://goo.gl/G31W2Z?"  group-title="Canais Premium 1",VH1 Megahits
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4610.ts
+
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://goo.gl/kqiKdy?"  group-title="Canais Premium 1",MULTISHOW
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4054.ts
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://goo.gl/wTY4MD?"  group-title="Canais Premium 1",MTV
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4056.ts
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://goo.gl/sQWnCW?"  group-title="Canais Premium 1",GNT
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4092.ts
+
+
+#####################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]============ TV ABERTA SD ============[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Globo Rio"  tvg-logo="https://goo.gl/TCmcww?" group-title="Canais Premium 1",Globo RJ
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4101.ts
+
+#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="https://goo.gl/73qt53" group-title="Canais Premium 1",Globo NSC TV Florianópolis
+http://listaccess.me:8880/live/laissena/3212/13743.ts
+
+#EXTINF:-1 tvg-id="Band"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="Canais Premium 1",BAND SP
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/7631.ts
+
+#EXTINF:-1 tvg-id="RecordTV"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="Canais Premium 1",RECORD
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/5621.ts
+
+
+
+#####################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Premium 1",[COLOR yellow]============ FILMES SD ============[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="TC PIPOCA"  tvg-logo="http://goo.gl/5IKysn?" group-title="Canais Premium 1",TELECINE PIPOCA
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3895.ts
+
+#EXTINF:-1 tvg-id="TC ACTION"  tvg-logo="http://goo.gl/P79aKf?" group-title="Canais Premium 1",TELECINE ACTION
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3901.ts
+
+#EXTINF:-1 tvg-id="TC FUN"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="Canais Premium 1",TELECINE FUN
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3897.ts
+
+#EXTINF:-1 tvg-id="HBO"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Canais Premium 1",HBO
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4090.ts
+
+#EXTINF:-1 tvg-id="HBO FAMILY"  tvg-logo="http://goo.gl/2BXhGr?" group-title="Canais Premium 1",HBO FAMILY
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4087.ts
+
+#EXTINF:-1 tvg-id="HBO PLUS"  tvg-logo="http://goo.gl/ISXYSM?" group-title="Canais Premium 1",HBO PLUS
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4084.ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://goo.gl/vUl6oy?" group-title="Canais Premium 1",TNT
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3887.ts
+
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://goo.gl/db6g8k?" group-title="Canais Premium 1",MAX
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4066.ts
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://goo.gl/Hbr506?" group-title="Canais Premium 1",MAX UP
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/4061.ts
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://goo.gl/T8ICde?" group-title="Canais Premium 1",STUDIO UNIVERSAL
+http://br1.e-tv.xyz:8081/live/like8837hds/YXz91PoyC2/3908.ts
 
 ------------- Canais Premium 2 -----------------
 
