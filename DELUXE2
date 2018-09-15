@@ -4739,4 +4739,3193 @@ http://cine.elitetv.io:25461/live/00001/00001/5691.ts
 #EXTINF:-1, group-title="Canais Premium 2", VAI QUE COLA
 http://cine.elitetv.io:25461/live/00001/00001/3279.ts
 
+#EXTM3U
+#EXTINF:-1, group-title="Canais Premium 3", Tabela - Brasileirao 2018
+http://212.8.248.50:25461/live/Martine/Martine/9936.ts
+#EXTINF:-1, group-title="Canais Premium 3", PFC 4K
+http://212.8.248.50:25461/live/Martine/Martine/9585.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 4K
+http://212.8.248.50:25461/live/Martine/Martine/10030.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 4K
+http://212.8.248.50:25461/live/Martine/Martine/10029.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo RJ FHD
+http://212.8.248.50:25461/live/Martine/Martine/6287.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo SP FHD
+http://212.8.248.50:25461/live/Martine/Martine/7406.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo SP FHD (2)
+http://212.8.248.50:25461/live/Martine/Martine/10522.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Minas FHD
+http://212.8.248.50:25461/live/Martine/Martine/7405.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Minas FHD (2)
+http://212.8.248.50:25461/live/Martine/Martine/9937.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Brasilia FHD
+http://212.8.248.50:25461/live/Martine/Martine/10970.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Nordeste FHD
+http://212.8.248.50:25461/live/Martine/Martine/10965.ts
+#EXTINF:-1, group-title="Canais Premium 3", RBS TV Porto Alegre FHD - Globo RS
+http://212.8.248.50:25461/live/Martine/Martine/10964.ts
+#EXTINF:-1, group-title="Canais Premium 3", RBS TV Porto Alegre FHD - Globo RS (2)
+http://212.8.248.50:25461/live/Martine/Martine/10523.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta Vitoria FHD - Globo ES (2)
+http://212.8.248.50:25461/live/Martine/Martine/6172.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta Vitoria FHD - Globo ES
+http://212.8.248.50:25461/live/Martine/Martine/10763.ts
+#EXTINF:-1, group-title="Canais Premium 3", NSC TV Florianopolis FHD - Globo SC
+http://212.8.248.50:25461/live/Martine/Martine/10958.ts
+#EXTINF:-1, group-title="Canais Premium 3", NSC TV Chapeco FHD - Globo SC
+http://212.8.248.50:25461/live/Martine/Martine/10764.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Campinas FHD - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/10963.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM SJRP FHD - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/10957.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Curitiba FHD - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/7831.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Foz do Iguacu FHD - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/10765.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Anhanguera Goiania FHD - Globo GO
+http://212.8.248.50:25461/live/Martine/Martine/10962.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Anhanguera Goiania FHD - Globo GO (2)
+http://212.8.248.50:25461/live/Martine/Martine/1445.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Morena FHD - Globo MS
+http://212.8.248.50:25461/live/Martine/Martine/10959.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Bahia FHD - Globo BA
+http://212.8.248.50:25461/live/Martine/Martine/10961.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Sergipe FHD - Globo SE
+http://212.8.248.50:25461/live/Martine/Martine/10762.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta FHD - Globo AL
+http://212.8.248.50:25461/live/Martine/Martine/11755.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Mirante Sao Luis FHD - Globo MA
+http://212.8.248.50:25461/live/Martine/Martine/10960.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Clube FHD - Globo PI
+http://212.8.248.50:25461/live/Martine/Martine/10761.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Internacional  FHD - Americas (2)
+http://212.8.248.50:25461/live/Martine/Martine/5084.ts
+#EXTINF:-1, group-title="Canais Premium 3", Band FHD
+http://212.8.248.50:25461/live/Martine/Martine/6269.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT FHD
+http://212.8.248.50:25461/live/Martine/Martine/6267.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Alterosa FHD - SBT MG (2)
+http://212.8.248.50:25461/live/Martine/Martine/10103.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/6268.ts
+#EXTINF:-1, group-title="Canais Premium 3", Futura FHD
+http://212.8.248.50:25461/live/Martine/Martine/11113.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium FHD
+http://212.8.248.50:25461/live/Martine/Martine/5050.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action FHD
+http://212.8.248.50:25461/live/Martine/Martine/6169.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch FHD
+http://212.8.248.50:25461/live/Martine/Martine/6171.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca FHD
+http://212.8.248.50:25461/live/Martine/Martine/6170.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun FHD
+http://212.8.248.50:25461/live/Martine/Martine/6243.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult FHD
+http://212.8.248.50:25461/live/Martine/Martine/11086.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7536.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO FHD
+http://212.8.248.50:25461/live/Martine/Martine/6271.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/6270.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus FHD
+http://212.8.248.50:25461/live/Martine/Martine/11107.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Family FHD
+http://212.8.248.50:25461/live/Martine/Martine/11108.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Signature FHD
+http://212.8.248.50:25461/live/Martine/Martine/11106.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max FHD
+http://212.8.248.50:25461/live/Martine/Martine/11103.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7546.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP FHD
+http://212.8.248.50:25461/live/Martine/Martine/11101.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7544.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime FHD
+http://212.8.248.50:25461/live/Martine/Martine/11102.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7545.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax FHD
+http://212.8.248.50:25461/live/Martine/Martine/11126.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7559.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX FHD
+http://212.8.248.50:25461/live/Martine/Martine/6272.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11114.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7760.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life FHD
+http://212.8.248.50:25461/live/Martine/Martine/11115.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX FHD
+http://212.8.248.50:25461/live/Martine/Martine/11112.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony FHD
+http://212.8.248.50:25461/live/Martine/Martine/11128.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC FHD
+http://212.8.248.50:25461/live/Martine/Martine/11133.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7564.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN FHD
+http://212.8.248.50:25461/live/Martine/Martine/11131.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner Channel FHD
+http://212.8.248.50:25461/live/Martine/Martine/7755.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space FHD
+http://212.8.248.50:25461/live/Martine/Martine/11090.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT FHD
+http://212.8.248.50:25461/live/Martine/Martine/11084.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series FHD
+http://212.8.248.50:25461/live/Martine/Martine/11083.ts
+#EXTINF:-1, group-title="Canais Premium 3", TBS FHD
+http://212.8.248.50:25461/live/Martine/Martine/11087.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix FHD
+http://212.8.248.50:25461/live/Martine/Martine/11756.ts
+#EXTINF:-1, group-title="Canais Premium 3", Universal TV FHD
+http://212.8.248.50:25461/live/Martine/Martine/11080.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal FHD
+http://212.8.248.50:25461/live/Martine/Martine/11089.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7539.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy FHD
+http://212.8.248.50:25461/live/Martine/Martine/11088.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7538.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mais Globosat FHD
+http://212.8.248.50:25461/live/Martine/Martine/7547.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E FHD
+http://212.8.248.50:25461/live/Martine/Martine/11134.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7565.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Channel FHD
+http://212.8.248.50:25461/live/Martine/Martine/11094.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Brasil FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7561.ts
+#EXTINF:-1, group-title="Canais Premium 3", Prime Box Brazil FHD
+http://212.8.248.50:25461/live/Martine/Martine/11092.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/6208.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7600.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 3 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7599.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports FHD
+http://212.8.248.50:25461/live/Martine/Martine/6207.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7602.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil FHD
+http://212.8.248.50:25461/live/Martine/Martine/7407.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil FHD2
+http://212.8.248.50:25461/live/Martine/Martine/10521.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN + FHD
+http://212.8.248.50:25461/live/Martine/Martine/11118.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN FHD
+http://212.8.248.50:25461/live/Martine/Martine/7605.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Extra FHD
+http://212.8.248.50:25461/live/Martine/Martine/8549.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo FHD
+http://212.8.248.50:25461/live/Martine/Martine/7603.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7604.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo BR FHD
+http://212.8.248.50:25461/live/Martine/Martine/7830.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandSports FHD
+http://212.8.248.50:25461/live/Martine/Martine/11130.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Off FHD
+http://212.8.248.50:25461/live/Martine/Martine/11129.ts
+#EXTINF:-1, group-title="Canais Premium 3", Woohoo FHD
+http://212.8.248.50:25461/live/Martine/Martine/11078.ts
+#EXTINF:-1, group-title="Canais Premium 3", Woohoo FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7534.ts
+#EXTINF:-1, group-title="Canais Premium 3", FishTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/11117.ts
+#EXTINF:-1, group-title="Canais Premium 3", Combate FHD
+http://212.8.248.50:25461/live/Martine/Martine/5206.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Clubes FHD
+http://212.8.248.50:25461/live/Martine/Martine/7404.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7413.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 3 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7412.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 4 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7411.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 5 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7410.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 6 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7416.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 7 FHD
+http://212.8.248.50:25461/live/Martine/Martine/7415.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boomerang FHD
+http://212.8.248.50:25461/live/Martine/Martine/7765.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network FHD
+http://212.8.248.50:25461/live/Martine/Martine/11127.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7560.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick FHD
+http://212.8.248.50:25461/live/Martine/Martine/7757.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7540.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. FHD
+http://212.8.248.50:25461/live/Martine/Martine/7756.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7541.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel FHD
+http://212.8.248.50:25461/live/Martine/Martine/7606.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7554.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior FHD
+http://212.8.248.50:25461/live/Martine/Martine/11120.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids FHD
+http://212.8.248.50:25461/live/Martine/Martine/7763.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7556.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids FHD
+http://212.8.248.50:25461/live/Martine/Martine/11095.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7542.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloob FHD
+http://212.8.248.50:25461/live/Martine/Martine/7601.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloob FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7549.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloobinho FHD
+http://212.8.248.50:25461/live/Martine/Martine/11111.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Ra Tim Bum FHD
+http://212.8.248.50:25461/live/Martine/Martine/11081.ts
+#EXTINF:-1, group-title="Canais Premium 3", GNT FHD
+http://212.8.248.50:25461/live/Martine/Martine/11110.ts
+#EXTINF:-1, group-title="Canais Premium 3", Viva FHD
+http://212.8.248.50:25461/live/Martine/Martine/7598.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multishow FHD
+http://212.8.248.50:25461/live/Martine/Martine/11098.ts
+#EXTINF:-1, group-title="Canais Premium 3", BIS FHD
+http://212.8.248.50:25461/live/Martine/Martine/7607.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/11100.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7543.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Live FHD
+http://212.8.248.50:25461/live/Martine/Martine/11099.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11079.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7535.ts
+#EXTINF:-1, group-title="Canais Premium 3", Music Box Brazil FHD
+http://212.8.248.50:25461/live/Martine/Martine/11097.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo FHD
+http://212.8.248.50:25461/live/Martine/Martine/7762.ts
+#EXTINF:-1, group-title="Canais Premium 3", TruTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/11082.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central FHD
+http://212.8.248.50:25461/live/Martine/Martine/11125.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7558.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacao Discovery FHD
+http://212.8.248.50:25461/live/Martine/Martine/11105.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health FHD
+http://212.8.248.50:25461/live/Martine/Martine/7764.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime FHD
+http://212.8.248.50:25461/live/Martine/Martine/11104.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7548.ts
+#EXTINF:-1, group-title="Canais Premium 3", E! FHD
+http://212.8.248.50:25461/live/Martine/Martine/11119.ts
+#EXTINF:-1, group-title="Canais Premium 3", E! FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7553.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC FHD
+http://212.8.248.50:25461/live/Martine/Martine/11085.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7537.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network FHD
+http://212.8.248.50:25461/live/Martine/Martine/11116.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7552.ts
+#EXTINF:-1, group-title="Canais Premium 3", Curta! FHD
+http://212.8.248.50:25461/live/Martine/Martine/11124.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet FHD
+http://212.8.248.50:25461/live/Martine/Martine/7767.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel FHD
+http://212.8.248.50:25461/live/Martine/Martine/7437.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater FHD
+http://212.8.248.50:25461/live/Martine/Martine/11121.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery World FHD
+http://212.8.248.50:25461/live/Martine/Martine/7761.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science FHD
+http://212.8.248.50:25461/live/Martine/Martine/11122.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7555.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization FHD
+http://212.8.248.50:25461/live/Martine/Martine/11123.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7557.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild FHD
+http://212.8.248.50:25461/live/Martine/Martine/7758.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo FHD
+http://212.8.248.50:25461/live/Martine/Martine/11096.ts
+#EXTINF:-1, group-title="Canais Premium 3", History FHD
+http://212.8.248.50:25461/live/Martine/Martine/7759.ts
+#EXTINF:-1, group-title="Canais Premium 3", H2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11109.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arte 1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11132.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arte 1 FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7563.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews FHD
+http://212.8.248.50:25461/live/Martine/Martine/7550.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews FHD2
+http://212.8.248.50:25461/live/Martine/Martine/7499.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandNews FHD
+http://212.8.248.50:25461/live/Martine/Martine/7766.ts
+#EXTINF:-1, group-title="Canais Premium 3", Record News FHD
+http://212.8.248.50:25461/live/Martine/Martine/11091.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boa Vontade FHD2
+http://212.8.248.50:25461/live/Martine/Martine/5087.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo RJ FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1917.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1900.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1895.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1897.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1894.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1896.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10518.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7493.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1914.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1911.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1913.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Family FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1915.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Signature FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1912.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7850.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 1 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1921.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1918.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10527.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1932.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1889.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10530.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1893.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1892.ts
+#EXTINF:-1, group-title="Canais Premium 3", TBS FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1898.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1908.ts
+#EXTINF:-1, group-title="Canais Premium 3", Universal TV FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1891.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10520.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10528.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Channel FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1905.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 2 H265
+http://212.8.248.50:25461/live/Martine/Martine/7496.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 3 H265
+http://212.8.248.50:25461/live/Martine/Martine/7733.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV H265
+http://212.8.248.50:25461/live/Martine/Martine/7495.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports H265
+http://212.8.248.50:25461/live/Martine/Martine/7734.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1919.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1923.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN + FHD  H265
+http://212.8.248.50:25461/live/Martine/Martine/1922.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1924.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo 2 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1925.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo BR FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1934.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandSports FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1931.ts
+#EXTINF:-1, group-title="Canais Premium 3", FishTV FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10526.ts
+#EXTINF:-1, group-title="Canais Premium 3", Combate FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7735.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Clubes FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1901.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 3 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7497.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 2 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1904.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 4 H265
+http://212.8.248.50:25461/live/Martine/Martine/1903.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 5 H265
+http://212.8.248.50:25461/live/Martine/Martine/1902.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7486.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10529.ts
+#EXTINF:-1, group-title="Canais Premium 3", GNT H265
+http://212.8.248.50:25461/live/Martine/Martine/1916.ts
+#EXTINF:-1, group-title="Canais Premium 3", Viva FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1890.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multishow FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1907.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1927.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacao Discovery FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1909.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1929.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10524.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10525.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1933.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1930.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1928.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery World FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1926.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7500.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7501.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1906.ts
+#EXTINF:-1, group-title="Canais Premium 3", History FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/7487.ts
+#EXTINF:-1, group-title="Canais Premium 3", H2 FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/1910.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews FHD H265
+http://212.8.248.50:25461/live/Martine/Martine/10519.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo RJ HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1818.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo RJ Principal
+http://212.8.248.50:25461/live/Martine/Martine/2059.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo RJ HD
+http://212.8.248.50:25461/live/Martine/Martine/170.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo RJ
+http://212.8.248.50:25461/live/Martine/Martine/1448.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo SP HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5095.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo SP Principal
+http://212.8.248.50:25461/live/Martine/Martine/1978.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo SP HD
+http://212.8.248.50:25461/live/Martine/Martine/1676.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/1493.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Minas HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/3492.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Minas Principal
+http://212.8.248.50:25461/live/Martine/Martine/3491.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Minas HD
+http://212.8.248.50:25461/live/Martine/Martine/9093.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Minas
+http://212.8.248.50:25461/live/Martine/Martine/1443.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Brasilia HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1446.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Brasilia Principal
+http://212.8.248.50:25461/live/Martine/Martine/7777.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Brasilia HD
+http://212.8.248.50:25461/live/Martine/Martine/7842.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Brasilia
+http://212.8.248.50:25461/live/Martine/Martine/2062.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Nordeste HD
+http://212.8.248.50:25461/live/Martine/Martine/7839.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Nordeste Principal
+http://212.8.248.50:25461/live/Martine/Martine/7776.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Nordeste HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1677.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Nordeste
+http://212.8.248.50:25461/live/Martine/Martine/5080.ts
+#EXTINF:-1, group-title="Canais Premium 3", RBS TV Porto Alegre HD1 - Globo RS
+http://212.8.248.50:25461/live/Martine/Martine/7634.ts
+#EXTINF:-1, group-title="Canais Premium 3", RBS TV Porto Alegre - Globo RS Principal
+http://212.8.248.50:25461/live/Martine/Martine/2033.ts
+#EXTINF:-1, group-title="Canais Premium 3", RBS TV Porto Alegre - Globo RS
+http://212.8.248.50:25461/live/Martine/Martine/43.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta Vitoria HD1 - Globo ES
+http://212.8.248.50:25461/live/Martine/Martine/10768.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta Vitoria 1 - Globo ES
+http://212.8.248.50:25461/live/Martine/Martine/10769.ts
+#EXTINF:-1, group-title="Canais Premium 3", NSC TV Florianopolis HD1 - Globo SC
+http://212.8.248.50:25461/live/Martine/Martine/1765.ts
+#EXTINF:-1, group-title="Canais Premium 3", NSC TV Florianopolis 1 - Globo SC
+http://212.8.248.50:25461/live/Martine/Martine/7833.ts
+#EXTINF:-1, group-title="Canais Premium 3", NSC TV Chapeco HD1 - Globo SC
+http://212.8.248.50:25461/live/Martine/Martine/10772.ts
+#EXTINF:-1, group-title="Canais Premium 3", NSC TV Chapeco 1 - Globo SC
+http://212.8.248.50:25461/live/Martine/Martine/6187.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Campinas HD1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/1662.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Campinas HD - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/7851.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Campinas 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/5082.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Central Sao Carlos - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/6166.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Central Araraquara 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/6167.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Ribeirao HD1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/5083.ts
+#EXTINF:-1, group-title="Canais Premium 3", EPTV Ribeirao 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/7775.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM Bauru - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/1764.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM Bauru 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/1444.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM SJRP HD1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/5065.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM SJRP - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/5074.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM Sorocaba 2 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/1447.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV TEM Sorocaba 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/5093.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Tribuna 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/7774.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Vanguarda S.J. dos Campos - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/6164.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Vanguarda S. J. dos Campos 1 - Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/7773.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Curitiba HD1 - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/7832.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Curitiba 1 - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/6163.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Foz do Iguacu HD - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/6175.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Foz do Iguacu HD1 - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/10773.ts
+#EXTINF:-1, group-title="Canais Premium 3", RPC Foz do Iguacu 1 - Globo PR
+http://212.8.248.50:25461/live/Martine/Martine/6186.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Anhanguera Goiania HD1 - Globo GO
+http://212.8.248.50:25461/live/Martine/Martine/5094.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Anhanguera Goiania - Globo GO
+http://212.8.248.50:25461/live/Martine/Martine/3490.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Anhanguera Goiania 1 - Globo GO
+http://212.8.248.50:25461/live/Martine/Martine/7771.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Morena HD - Globo MS
+http://212.8.248.50:25461/live/Martine/Martine/10969.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Morena - Globo MS
+http://212.8.248.50:25461/live/Martine/Martine/10966.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Centro America - Globo MT
+http://212.8.248.50:25461/live/Martine/Martine/6165.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Amazonas - Globo AM (2)
+http://212.8.248.50:25461/live/Martine/Martine/5079.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Amazonas - Globo AM
+http://212.8.248.50:25461/live/Martine/Martine/7772.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Liberal Belem - Globo PA
+http://212.8.248.50:25461/live/Martine/Martine/1664.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Liberal Belem 1 - Globo PA
+http://212.8.248.50:25461/live/Martine/Martine/2010.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Bahia HD - Globo BA
+http://212.8.248.50:25461/live/Martine/Martine/7633.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Bahia - Globo BA
+http://212.8.248.50:25461/live/Martine/Martine/1767.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Bahia - Globo BA (2)
+http://212.8.248.50:25461/live/Martine/Martine/6178.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Verdes Mares - Globo FO
+http://212.8.248.50:25461/live/Martine/Martine/5072.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Verdes Mares 1 - Globo FO
+http://212.8.248.50:25461/live/Martine/Martine/7769.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Sergipe HD - Globo SE
+http://212.8.248.50:25461/live/Martine/Martine/10766.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Sergipe - Globo SE
+http://212.8.248.50:25461/live/Martine/Martine/10767.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta HD - Globo AL
+http://212.8.248.50:25461/live/Martine/Martine/11754.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta - Globo AL
+http://212.8.248.50:25461/live/Martine/Martine/11753.ts
+#EXTINF:-1, group-title="Canais Premium 3", Inter TV Cabugi - Globo RN
+http://212.8.248.50:25461/live/Martine/Martine/6177.ts
+#EXTINF:-1, group-title="Canais Premium 3", Inter TV Cabugi 1 - Globo RN
+http://212.8.248.50:25461/live/Martine/Martine/592.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Mirante Sao Luis HD - Globo MA
+http://212.8.248.50:25461/live/Martine/Martine/10968.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Mirante Sao Luis - Globo MA
+http://212.8.248.50:25461/live/Martine/Martine/10967.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Clube HD - Globo PI
+http://212.8.248.50:25461/live/Martine/Martine/10770.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Clube - Globo PI
+http://212.8.248.50:25461/live/Martine/Martine/10771.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Internacional HD - Americas
+http://212.8.248.50:25461/live/Martine/Martine/7841.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Internacional - Portugal
+http://212.8.248.50:25461/live/Martine/Martine/448.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Internacional Alternativo - Portugal
+http://212.8.248.50:25461/live/Martine/Martine/2061.ts
+#EXTINF:-1, group-title="Canais Premium 3", Globo Now - Portugal
+http://212.8.248.50:25461/live/Martine/Martine/449.ts
+#EXTINF:-1, group-title="Canais Premium 3", Band HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1816.ts
+#EXTINF:-1, group-title="Canais Premium 3", Band Principal
+http://212.8.248.50:25461/live/Martine/Martine/2083.ts
+#EXTINF:-1, group-title="Canais Premium 3", Band HD
+http://212.8.248.50:25461/live/Martine/Martine/193.ts
+#EXTINF:-1, group-title="Canais Premium 3", Band
+http://212.8.248.50:25461/live/Martine/Martine/124.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Taroba Cascavel HD - Band PR
+http://212.8.248.50:25461/live/Martine/Martine/7852.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5088.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT Principal
+http://212.8.248.50:25461/live/Martine/Martine/2027.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT HD
+http://212.8.248.50:25461/live/Martine/Martine/147.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT
+http://212.8.248.50:25461/live/Martine/Martine/36.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT Interior SP
+http://212.8.248.50:25461/live/Martine/Martine/5048.ts
+#EXTINF:-1, group-title="Canais Premium 3", SBT Nordeste HD
+http://212.8.248.50:25461/live/Martine/Martine/5052.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Serra Dourada HD -SBT GO
+http://212.8.248.50:25461/live/Martine/Martine/5049.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Cidade Verde - SBT PI
+http://212.8.248.50:25461/live/Martine/Martine/5047.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Difusora Sul - SBT MA
+http://212.8.248.50:25461/live/Martine/Martine/5053.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/3494.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/2030.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV HD
+http://212.8.248.50:25461/live/Martine/Martine/149.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV
+http://212.8.248.50:25461/live/Martine/Martine/41.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV HD RJ
+http://212.8.248.50:25461/live/Martine/Martine/12029.ts
+#EXTINF:-1, group-title="Canais Premium 3", RIC TV Curitiba - RecordTV PR
+http://212.8.248.50:25461/live/Martine/Martine/7791.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Vila Real - RecordTV MT
+http://212.8.248.50:25461/live/Martine/Martine/5057.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Tropical - RecordTV RN
+http://212.8.248.50:25461/live/Martine/Martine/5056.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV Internacional HD - Africa
+http://212.8.248.50:25461/live/Martine/Martine/5063.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV Internacional - Europa
+http://212.8.248.50:25461/live/Martine/Martine/6173.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV Internacional Alternativo - Europa
+http://212.8.248.50:25461/live/Martine/Martine/2029.ts
+#EXTINF:-1, group-title="Canais Premium 3", RecordTV Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1124.ts
+#EXTINF:-1, group-title="Canais Premium 3", RedeTV! HD
+http://212.8.248.50:25461/live/Martine/Martine/148.ts
+#EXTINF:-1, group-title="Canais Premium 3", RedeTV!
+http://212.8.248.50:25461/live/Martine/Martine/39.ts
+#EXTINF:-1, group-title="Canais Premium 3", RedeTV! HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5069.ts
+#EXTINF:-1, group-title="Canais Premium 3", RedeTV! Principal
+http://212.8.248.50:25461/live/Martine/Martine/1954.ts
+#EXTINF:-1, group-title="Canais Premium 3", RedeTV! Nordeste HD
+http://212.8.248.50:25461/live/Martine/Martine/5062.ts
+#EXTINF:-1, group-title="Canais Premium 3", RedeTV! Rondonia - RO
+http://212.8.248.50:25461/live/Martine/Martine/5054.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rede Brasil
+http://212.8.248.50:25461/live/Martine/Martine/40.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rede Brasil Principal
+http://212.8.248.50:25461/live/Martine/Martine/2031.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gazeta HD
+http://212.8.248.50:25461/live/Martine/Martine/570.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Cultura HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/564.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Cultura Principal
+http://212.8.248.50:25461/live/Martine/Martine/8.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Cultura
+http://212.8.248.50:25461/live/Martine/Martine/1766.ts
+#EXTINF:-1, group-title="Canais Premium 3", Futura HD
+http://212.8.248.50:25461/live/Martine/Martine/7635.ts
+#EXTINF:-1, group-title="Canais Premium 3", Futura
+http://212.8.248.50:25461/live/Martine/Martine/91.ts
+#EXTINF:-1, group-title="Canais Premium 3", Futura Principal
+http://212.8.248.50:25461/live/Martine/Martine/2064.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Escola HD
+http://212.8.248.50:25461/live/Martine/Martine/565.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Escola
+http://212.8.248.50:25461/live/Martine/Martine/5042.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Brasil
+http://212.8.248.50:25461/live/Martine/Martine/9.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rede Família HD
+http://212.8.248.50:25461/live/Martine/Martine/569.ts
+#EXTINF:-1, group-title="Canais Premium 3", Terra Viva
+http://212.8.248.50:25461/live/Martine/Martine/16.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Rural
+http://212.8.248.50:25461/live/Martine/Martine/119.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBR
+http://212.8.248.50:25461/live/Martine/Martine/63.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Senado
+http://212.8.248.50:25461/live/Martine/Martine/5041.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Câmara
+http://212.8.248.50:25461/live/Martine/Martine/567.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Justiça
+http://212.8.248.50:25461/live/Martine/Martine/5038.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1773.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium Principal
+http://212.8.248.50:25461/live/Martine/Martine/2016.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium HD
+http://212.8.248.50:25461/live/Martine/Martine/138.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium
+http://212.8.248.50:25461/live/Martine/Martine/18.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1776.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action Principal
+http://212.8.248.50:25461/live/Martine/Martine/2020.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action HD
+http://212.8.248.50:25461/live/Martine/Martine/141.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action
+http://212.8.248.50:25461/live/Martine/Martine/22.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1772.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch Principal
+http://212.8.248.50:25461/live/Martine/Martine/2015.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch HD
+http://212.8.248.50:25461/live/Martine/Martine/137.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch
+http://212.8.248.50:25461/live/Martine/Martine/17.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1774.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca Principal
+http://212.8.248.50:25461/live/Martine/Martine/2017.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca HD
+http://212.8.248.50:25461/live/Martine/Martine/139.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca
+http://212.8.248.50:25461/live/Martine/Martine/19.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1775.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun Principal
+http://212.8.248.50:25461/live/Martine/Martine/2018.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun HD
+http://212.8.248.50:25461/live/Martine/Martine/140.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun
+http://212.8.248.50:25461/live/Martine/Martine/20.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1873.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult Principal
+http://212.8.248.50:25461/live/Martine/Martine/2019.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult HD
+http://212.8.248.50:25461/live/Martine/Martine/1666.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Cult
+http://212.8.248.50:25461/live/Martine/Martine/21.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1789.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Principal
+http://212.8.248.50:25461/live/Martine/Martine/2057.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO HD
+http://212.8.248.50:25461/live/Martine/Martine/165.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO
+http://212.8.248.50:25461/live/Martine/Martine/84.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1791.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2058.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2 HD
+http://212.8.248.50:25461/live/Martine/Martine/167.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2
+http://212.8.248.50:25461/live/Martine/Martine/79.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1788.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus Principal
+http://212.8.248.50:25461/live/Martine/Martine/2055.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus HD
+http://212.8.248.50:25461/live/Martine/Martine/164.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus
+http://212.8.248.50:25461/live/Martine/Martine/82.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus Panregional Principal
+http://212.8.248.50:25461/live/Martine/Martine/2056.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus Panregional
+http://212.8.248.50:25461/live/Martine/Martine/81.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Family HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1790.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Family Principal
+http://212.8.248.50:25461/live/Martine/Martine/2053.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Family HD
+http://212.8.248.50:25461/live/Martine/Martine/166.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Family
+http://212.8.248.50:25461/live/Martine/Martine/83.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Signature HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1787.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Signature Principal
+http://212.8.248.50:25461/live/Martine/Martine/2054.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Signature HD
+http://212.8.248.50:25461/live/Martine/Martine/163.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Signature
+http://212.8.248.50:25461/live/Martine/Martine/80.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1879.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Principal
+http://212.8.248.50:25461/live/Martine/Martine/3481.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max HD
+http://212.8.248.50:25461/live/Martine/Martine/1672.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max
+http://212.8.248.50:25461/live/Martine/Martine/73.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1877.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP Principal
+http://212.8.248.50:25461/live/Martine/Martine/3480.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP HD
+http://212.8.248.50:25461/live/Martine/Martine/1670.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP
+http://212.8.248.50:25461/live/Martine/Martine/70.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1878.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime Principal
+http://212.8.248.50:25461/live/Martine/Martine/3482.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime HD
+http://212.8.248.50:25461/live/Martine/Martine/1671.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime
+http://212.8.248.50:25461/live/Martine/Martine/72.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime Panregional Principal
+http://212.8.248.50:25461/live/Martine/Martine/2050.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime Panregional
+http://212.8.248.50:25461/live/Martine/Martine/71.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1887.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax Principal
+http://212.8.248.50:25461/live/Martine/Martine/2078.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax HD
+http://212.8.248.50:25461/live/Martine/Martine/1682.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax
+http://212.8.248.50:25461/live/Martine/Martine/115.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1799.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Principal
+http://212.8.248.50:25461/live/Martine/Martine/1982.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX HD
+http://212.8.248.50:25461/live/Martine/Martine/175.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX
+http://212.8.248.50:25461/live/Martine/Martine/95.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 1 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1798.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 1 Principal
+http://212.8.248.50:25461/live/Martine/Martine/7779.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 1 HD
+http://212.8.248.50:25461/live/Martine/Martine/177.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1797.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/7778.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium 2 HD
+http://212.8.248.50:25461/live/Martine/Martine/176.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5067.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life Principal
+http://212.8.248.50:25461/live/Martine/Martine/5068.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life HD
+http://212.8.248.50:25461/live/Martine/Martine/174.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life
+http://212.8.248.50:25461/live/Martine/Martine/94.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1794.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX Principal
+http://212.8.248.50:25461/live/Martine/Martine/2063.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX HD
+http://212.8.248.50:25461/live/Martine/Martine/171.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX
+http://212.8.248.50:25461/live/Martine/Martine/90.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1813.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony Principal
+http://212.8.248.50:25461/live/Martine/Martine/3487.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony HD
+http://212.8.248.50:25461/live/Martine/Martine/190.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony
+http://212.8.248.50:25461/live/Martine/Martine/118.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1817.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN Principal
+http://212.8.248.50:25461/live/Martine/Martine/2004.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN HD
+http://212.8.248.50:25461/live/Martine/Martine/194.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN
+http://212.8.248.50:25461/live/Martine/Martine/128.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7451.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC Principal
+http://212.8.248.50:25461/live/Martine/Martine/6209.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC HD
+http://212.8.248.50:25461/live/Martine/Martine/5051.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC
+http://212.8.248.50:25461/live/Martine/Martine/6238.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner Channel HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1761.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner Channel Principal
+http://212.8.248.50:25461/live/Martine/Martine/1938.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner Channel HD
+http://212.8.248.50:25461/live/Martine/Martine/580.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner Channel
+http://212.8.248.50:25461/live/Martine/Martine/2.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1780.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space Principal
+http://212.8.248.50:25461/live/Martine/Martine/3486.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space HD
+http://212.8.248.50:25461/live/Martine/Martine/146.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space
+http://212.8.248.50:25461/live/Martine/Martine/32.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1769.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Principal
+http://212.8.248.50:25461/live/Martine/Martine/2014.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT HD
+http://212.8.248.50:25461/live/Martine/Martine/136.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT
+http://212.8.248.50:25461/live/Martine/Martine/13.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1768.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series Principal
+http://212.8.248.50:25461/live/Martine/Martine/2013.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series HD
+http://212.8.248.50:25461/live/Martine/Martine/135.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series
+http://212.8.248.50:25461/live/Martine/Martine/12.ts
+#EXTINF:-1, group-title="Canais Premium 3", Universal TV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1763.ts
+#EXTINF:-1, group-title="Canais Premium 3", Universal TV Principal
+http://212.8.248.50:25461/live/Martine/Martine/3483.ts
+#EXTINF:-1, group-title="Canais Premium 3", Universal TV HD
+http://212.8.248.50:25461/live/Martine/Martine/134.ts
+#EXTINF:-1, group-title="Canais Premium 3", Universal TV
+http://212.8.248.50:25461/live/Martine/Martine/5.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/4770.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix Principal
+http://212.8.248.50:25461/live/Martine/Martine/3485.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix HD
+http://212.8.248.50:25461/live/Martine/Martine/160.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix
+http://212.8.248.50:25461/live/Martine/Martine/69.ts
+#EXTINF:-1, group-title="Canais Premium 3", TBS HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/4769.ts
+#EXTINF:-1, group-title="Canais Premium 3", TBS Principal
+http://212.8.248.50:25461/live/Martine/Martine/2021.ts
+#EXTINF:-1, group-title="Canais Premium 3", TBS HD
+http://212.8.248.50:25461/live/Martine/Martine/142.ts
+#EXTINF:-1, group-title="Canais Premium 3", TBS
+http://212.8.248.50:25461/live/Martine/Martine/24.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sundance TV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5066.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sundance TV
+http://212.8.248.50:25461/live/Martine/Martine/1101.ts
+#EXTINF:-1, group-title="Canais Premium 3", TCM Principal
+http://212.8.248.50:25461/live/Martine/Martine/5064.ts
+#EXTINF:-1, group-title="Canais Premium 3", TCM
+http://212.8.248.50:25461/live/Martine/Martine/23.ts
+#EXTINF:-1, group-title="Canais Premium 3", I.Sat Principal
+http://212.8.248.50:25461/live/Martine/Martine/2052.ts
+#EXTINF:-1, group-title="Canais Premium 3", I.Sat
+http://212.8.248.50:25461/live/Martine/Martine/78.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1875.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal Principal
+http://212.8.248.50:25461/live/Martine/Martine/3484.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal HD
+http://212.8.248.50:25461/live/Martine/Martine/1668.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal
+http://212.8.248.50:25461/live/Martine/Martine/26.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1874.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy Principal
+http://212.8.248.50:25461/live/Martine/Martine/6241.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy HD
+http://212.8.248.50:25461/live/Martine/Martine/1667.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy
+http://212.8.248.50:25461/live/Martine/Martine/25.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mais Globosat HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1880.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mais Globosat Principal
+http://212.8.248.50:25461/live/Martine/Martine/5091.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mais Globosat HD
+http://212.8.248.50:25461/live/Martine/Martine/1675.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mais Globosat
+http://212.8.248.50:25461/live/Martine/Martine/74.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/2084.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E Principal
+http://212.8.248.50:25461/live/Martine/Martine/3489.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E HD
+http://212.8.248.50:25461/live/Martine/Martine/1824.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E
+http://212.8.248.50:25461/live/Martine/Martine/132.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Channel HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1782.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Channel Principal
+http://212.8.248.50:25461/live/Martine/Martine/1955.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Channel HD
+http://212.8.248.50:25461/live/Martine/Martine/155.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Channel
+http://212.8.248.50:25461/live/Martine/Martine/57.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Brasil HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1888.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Brasil Principal
+http://212.8.248.50:25461/live/Martine/Martine/3488.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Brasil HD
+http://212.8.248.50:25461/live/Martine/Martine/1683.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Brasil
+http://212.8.248.50:25461/live/Martine/Martine/120.ts
+#EXTINF:-1, group-title="Canais Premium 3", Prime Box Brazil HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7630.ts
+#EXTINF:-1, group-title="Canais Premium 3", Prime Box Brazil Principal
+http://212.8.248.50:25461/live/Martine/Martine/2034.ts
+#EXTINF:-1, group-title="Canais Premium 3", Prime Box Brazil
+http://212.8.248.50:25461/live/Martine/Martine/45.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9747.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Premium LEG
+http://212.8.248.50:25461/live/Martine/Martine/8011.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8922.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Action LEG
+http://212.8.248.50:25461/live/Martine/Martine/8921.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8916.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Touch LEG
+http://212.8.248.50:25461/live/Martine/Martine/8915.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8918.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Pipoca LEG
+http://212.8.248.50:25461/live/Martine/Martine/8917.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8920.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telecine Fun LEG
+http://212.8.248.50:25461/live/Martine/Martine/8919.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8912.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO LEG
+http://212.8.248.50:25461/live/Martine/Martine/8909.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8911.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus LEG
+http://212.8.248.50:25461/live/Martine/Martine/8910.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max LEG
+http://212.8.248.50:25461/live/Martine/Martine/8009.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9753.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP LEG
+http://212.8.248.50:25461/live/Martine/Martine/9752.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime LEG
+http://212.8.248.50:25461/live/Martine/Martine/8010.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8914.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX LEG
+http://212.8.248.50:25461/live/Martine/Martine/8913.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9755.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX LEG
+http://212.8.248.50:25461/live/Martine/Martine/9754.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/11136.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony LEG
+http://212.8.248.50:25461/live/Martine/Martine/11135.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9744.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner LEG
+http://212.8.248.50:25461/live/Martine/Martine/9743.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8926.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN LEG
+http://212.8.248.50:25461/live/Martine/Martine/8925.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/8924.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT LEG
+http://212.8.248.50:25461/live/Martine/Martine/8923.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9746.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series LEG
+http://212.8.248.50:25461/live/Martine/Martine/9745.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9751.ts
+#EXTINF:-1, group-title="Canais Premium 3", Megapix LEG
+http://212.8.248.50:25461/live/Martine/Martine/9750.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space HD LEG
+http://212.8.248.50:25461/live/Martine/Martine/9749.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space LEG
+http://212.8.248.50:25461/live/Martine/Martine/9748.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1777.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/2022.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV HD
+http://212.8.248.50:25461/live/Martine/Martine/143.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV
+http://212.8.248.50:25461/live/Martine/Martine/31.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1779.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2024.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 2 HD
+http://212.8.248.50:25461/live/Martine/Martine/145.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 2
+http://212.8.248.50:25461/live/Martine/Martine/30.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 3 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1778.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 3 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2023.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 3 HD
+http://212.8.248.50:25461/live/Martine/Martine/144.ts
+#EXTINF:-1, group-title="Canais Premium 3", SporTV 3
+http://212.8.248.50:25461/live/Martine/Martine/28.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1795.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports Principal
+http://212.8.248.50:25461/live/Martine/Martine/2066.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports HD
+http://212.8.248.50:25461/live/Martine/Martine/173.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports
+http://212.8.248.50:25461/live/Martine/Martine/93.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1796.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2065.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 HD
+http://212.8.248.50:25461/live/Martine/Martine/172.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2
+http://212.8.248.50:25461/live/Martine/Martine/92.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1801.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil Principal
+http://212.8.248.50:25461/live/Martine/Martine/2067.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil HD
+http://212.8.248.50:25461/live/Martine/Martine/180.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Brasil
+http://212.8.248.50:25461/live/Martine/Martine/98.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1800.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Principal
+http://212.8.248.50:25461/live/Martine/Martine/1986.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN HD
+http://212.8.248.50:25461/live/Martine/Martine/179.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN
+http://212.8.248.50:25461/live/Martine/Martine/99.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN +  HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1802.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN + Principal
+http://212.8.248.50:25461/live/Martine/Martine/1985.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN +  HD
+http://212.8.248.50:25461/live/Martine/Martine/1450.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN +
+http://212.8.248.50:25461/live/Martine/Martine/181.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Extra HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5092.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Extra
+http://212.8.248.50:25461/live/Martine/Martine/5085.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Extra HD (2)
+http://212.8.248.50:25461/live/Martine/Martine/12030.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1805.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo Principal
+http://212.8.248.50:25461/live/Martine/Martine/2068.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo HD
+http://212.8.248.50:25461/live/Martine/Martine/182.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo
+http://212.8.248.50:25461/live/Martine/Martine/101.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo 2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1804.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo 2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2069.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo 2 HD
+http://212.8.248.50:25461/live/Martine/Martine/183.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo 2
+http://212.8.248.50:25461/live/Martine/Martine/100.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo BR HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7834.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo BR
+http://212.8.248.50:25461/live/Martine/Martine/7835.ts
+#EXTINF:-1, group-title="Canais Premium 3", Esporte Interativo BR HD
+http://212.8.248.50:25461/live/Martine/Martine/178.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandSports HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1815.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandSports Principal
+http://212.8.248.50:25461/live/Martine/Martine/2081.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandSports HD
+http://212.8.248.50:25461/live/Martine/Martine/192.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandSports
+http://212.8.248.50:25461/live/Martine/Martine/125.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Off HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1783.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Off Principal
+http://212.8.248.50:25461/live/Martine/Martine/1965.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Off HD
+http://212.8.248.50:25461/live/Martine/Martine/156.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Off
+http://212.8.248.50:25461/live/Martine/Martine/58.ts
+#EXTINF:-1, group-title="Canais Premium 3", Woohoo HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7454.ts
+#EXTINF:-1, group-title="Canais Premium 3", Woohoo Principal
+http://212.8.248.50:25461/live/Martine/Martine/5046.ts
+#EXTINF:-1, group-title="Canais Premium 3", Woohoo HD
+http://212.8.248.50:25461/live/Martine/Martine/7432.ts
+#EXTINF:-1, group-title="Canais Premium 3", Woohoo
+http://212.8.248.50:25461/live/Martine/Martine/1.ts
+#EXTINF:-1, group-title="Canais Premium 3", FishTV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7825.ts
+#EXTINF:-1, group-title="Canais Premium 3", FishTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/1980.ts
+#EXTINF:-1, group-title="Canais Premium 3", FishTV
+http://212.8.248.50:25461/live/Martine/Martine/97.ts
+#EXTINF:-1, group-title="Canais Premium 3", FishTV HD
+http://212.8.248.50:25461/live/Martine/Martine/10760.ts
+#EXTINF:-1, group-title="Canais Premium 3", Combate HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1811.ts
+#EXTINF:-1, group-title="Canais Premium 3", Combate Principal
+http://212.8.248.50:25461/live/Martine/Martine/2076.ts
+#EXTINF:-1, group-title="Canais Premium 3", Combate HD
+http://212.8.248.50:25461/live/Martine/Martine/189.ts
+#EXTINF:-1, group-title="Canais Premium 3", Combate
+http://212.8.248.50:25461/live/Martine/Martine/114.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Interativo
+http://212.8.248.50:25461/live/Martine/Martine/7827.ts
+#EXTINF:-1, group-title="Canais Premium 3", PFC Internacional Alternativo
+http://212.8.248.50:25461/live/Martine/Martine/1633.ts
+#EXTINF:-1, group-title="Canais Premium 3", PFC Internacional
+http://212.8.248.50:25461/live/Martine/Martine/588.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Clubes HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1781.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Clubes Principal
+http://212.8.248.50:25461/live/Martine/Martine/2044.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Clubes HD
+http://212.8.248.50:25461/live/Martine/Martine/154.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere Clubes
+http://212.8.248.50:25461/live/Martine/Martine/46.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5078.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2043.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 2 HD
+http://212.8.248.50:25461/live/Martine/Martine/153.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 2
+http://212.8.248.50:25461/live/Martine/Martine/54.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 3 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5077.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 3 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2042.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 3 HD
+http://212.8.248.50:25461/live/Martine/Martine/152.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 3
+http://212.8.248.50:25461/live/Martine/Martine/53.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 4 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5071.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 4 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2041.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 4 HD
+http://212.8.248.50:25461/live/Martine/Martine/151.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 4
+http://212.8.248.50:25461/live/Martine/Martine/52.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 5 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5070.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 5 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2040.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 5 HD
+http://212.8.248.50:25461/live/Martine/Martine/150.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 5
+http://212.8.248.50:25461/live/Martine/Martine/51.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 6 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7691.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 6 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2039.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 6 HD
+http://212.8.248.50:25461/live/Martine/Martine/6219.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 6
+http://212.8.248.50:25461/live/Martine/Martine/50.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 7 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7690.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 7 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2038.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 7 HD
+http://212.8.248.50:25461/live/Martine/Martine/6218.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 7
+http://212.8.248.50:25461/live/Martine/Martine/49.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mosaico Multijogos HD
+http://212.8.248.50:25461/live/Martine/Martine/6217.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mosaico Multijogos Principal
+http://212.8.248.50:25461/live/Martine/Martine/2037.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mosaico Multijogos
+http://212.8.248.50:25461/live/Martine/Martine/48.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 9 HD
+http://212.8.248.50:25461/live/Martine/Martine/6216.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 9 Principal
+http://212.8.248.50:25461/live/Martine/Martine/2036.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premiere 9
+http://212.8.248.50:25461/live/Martine/Martine/47.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boomerang HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7636.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boomerang Principal
+http://212.8.248.50:25461/live/Martine/Martine/2079.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boomerang HD
+http://212.8.248.50:25461/live/Martine/Martine/10758.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boomerang
+http://212.8.248.50:25461/live/Martine/Martine/121.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1812.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network Principal
+http://212.8.248.50:25461/live/Martine/Martine/1995.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network HD
+http://212.8.248.50:25461/live/Martine/Martine/127.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network
+http://212.8.248.50:25461/live/Martine/Martine/116.ts
+#EXTINF:-1, group-title="Canais Premium 3", Tooncast Principal
+http://212.8.248.50:25461/live/Martine/Martine/11.ts
+#EXTINF:-1, group-title="Canais Premium 3", Tooncast
+http://212.8.248.50:25461/live/Martine/Martine/2012.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7638.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Principal
+http://212.8.248.50:25461/live/Martine/Martine/2047.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick HD
+http://212.8.248.50:25461/live/Martine/Martine/1820.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick
+http://212.8.248.50:25461/live/Martine/Martine/60.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7631.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. Principal
+http://212.8.248.50:25461/live/Martine/Martine/2048.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. HD
+http://212.8.248.50:25461/live/Martine/Martine/7455.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr.
+http://212.8.248.50:25461/live/Martine/Martine/61.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney XD Principal
+http://212.8.248.50:25461/live/Martine/Martine/2071.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney XD
+http://212.8.248.50:25461/live/Martine/Martine/103.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel + HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/4772.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel + Principal
+http://212.8.248.50:25461/live/Martine/Martine/3496.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel + HD
+http://212.8.248.50:25461/live/Martine/Martine/1680.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel
+http://212.8.248.50:25461/live/Martine/Martine/105.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/10759.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior Principal
+http://212.8.248.50:25461/live/Martine/Martine/2072.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior HD (2)
+http://212.8.248.50:25461/live/Martine/Martine/11757.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior
+http://212.8.248.50:25461/live/Martine/Martine/104.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1886.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids Principal
+http://212.8.248.50:25461/live/Martine/Martine/1991.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids HD
+http://212.8.248.50:25461/live/Martine/Martine/1681.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids
+http://212.8.248.50:25461/live/Martine/Martine/108.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5044.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids Principal
+http://212.8.248.50:25461/live/Martine/Martine/5045.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids HD
+http://212.8.248.50:25461/live/Martine/Martine/5075.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Kids
+http://212.8.248.50:25461/live/Martine/Martine/5032.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloob HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1882.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloob Principal
+http://212.8.248.50:25461/live/Martine/Martine/1977.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloob HD
+http://212.8.248.50:25461/live/Martine/Martine/1674.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloob
+http://212.8.248.50:25461/live/Martine/Martine/87.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloobinho HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/5073.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloobinho Principal
+http://212.8.248.50:25461/live/Martine/Martine/5076.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gloobinho HD
+http://212.8.248.50:25461/live/Martine/Martine/6227.ts
+#EXTINF:-1, group-title="Canais Premium 3", Zoomoo (2)
+http://212.8.248.50:25461/live/Martine/Martine/11758.ts
+#EXTINF:-1, group-title="Canais Premium 3", PlayTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/3495.ts
+#EXTINF:-1, group-title="Canais Premium 3", PlayTV
+http://212.8.248.50:25461/live/Martine/Martine/56.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Ra Tim Bum HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7629.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Ra Tim Bum Principal
+http://212.8.248.50:25461/live/Martine/Martine/5060.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Ra Tim Bum
+http://212.8.248.50:25461/live/Martine/Martine/7.ts
+#EXTINF:-1, group-title="Canais Premium 3", BabyTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/5034.ts
+#EXTINF:-1, group-title="Canais Premium 3", BabyTV
+http://212.8.248.50:25461/live/Martine/Martine/5033.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Peppa Pig
+http://212.8.248.50:25461/live/Martine/Martine/9015.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mr. Bean Animado
+http://212.8.248.50:25461/live/Martine/Martine/5105.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mr. Bean
+http://212.8.248.50:25461/live/Martine/Martine/9028.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Chaves & Chapolin
+http://212.8.248.50:25461/live/Martine/Martine/5100.ts
+#EXTINF:-1, group-title="Canais Premium 3", GNT HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1793.ts
+#EXTINF:-1, group-title="Canais Premium 3", GNT Principal
+http://212.8.248.50:25461/live/Martine/Martine/6228.ts
+#EXTINF:-1, group-title="Canais Premium 3", GNT HD
+http://212.8.248.50:25461/live/Martine/Martine/169.ts
+#EXTINF:-1, group-title="Canais Premium 3", GNT
+http://212.8.248.50:25461/live/Martine/Martine/86.ts
+#EXTINF:-1, group-title="Canais Premium 3", Viva HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1762.ts
+#EXTINF:-1, group-title="Canais Premium 3", Viva Principal
+http://212.8.248.50:25461/live/Martine/Martine/6229.ts
+#EXTINF:-1, group-title="Canais Premium 3", Viva HD
+http://212.8.248.50:25461/live/Martine/Martine/133.ts
+#EXTINF:-1, group-title="Canais Premium 3", Viva
+http://212.8.248.50:25461/live/Martine/Martine/3.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multishow HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1786.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multishow Principal
+http://212.8.248.50:25461/live/Martine/Martine/1967.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multishow HD
+http://212.8.248.50:25461/live/Martine/Martine/159.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multishow
+http://212.8.248.50:25461/live/Martine/Martine/67.ts
+#EXTINF:-1, group-title="Canais Premium 3", BIS HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1814.ts
+#EXTINF:-1, group-title="Canais Premium 3", BIS Principal
+http://212.8.248.50:25461/live/Martine/Martine/3500.ts
+#EXTINF:-1, group-title="Canais Premium 3", BIS HD
+http://212.8.248.50:25461/live/Martine/Martine/191.ts
+#EXTINF:-1, group-title="Canais Premium 3", BIS
+http://212.8.248.50:25461/live/Martine/Martine/122.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1876.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/6230.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV HD
+http://212.8.248.50:25461/live/Martine/Martine/1669.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV
+http://212.8.248.50:25461/live/Martine/Martine/68.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Live HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/8550.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Live Principal
+http://212.8.248.50:25461/live/Martine/Martine/8551.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1871.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 HD
+http://212.8.248.50:25461/live/Martine/Martine/1663.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1
+http://212.8.248.50:25461/live/Martine/Martine/7780.ts
+#EXTINF:-1, group-title="Canais Premium 3", Vh1 MegaHits Principal
+http://212.8.248.50:25461/live/Martine/Martine/2008.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 MegaHits
+http://212.8.248.50:25461/live/Martine/Martine/4.ts
+#EXTINF:-1, group-title="Canais Premium 3", Music Box Brazil HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7632.ts
+#EXTINF:-1, group-title="Canais Premium 3", Music Box Brazil Principal
+http://212.8.248.50:25461/live/Martine/Martine/2049.ts
+#EXTINF:-1, group-title="Canais Premium 3", Music Box Brazil
+http://212.8.248.50:25461/live/Martine/Martine/66.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1807.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo Principal
+http://212.8.248.50:25461/live/Martine/Martine/1993.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo HD
+http://212.8.248.50:25461/live/Martine/Martine/185.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo
+http://212.8.248.50:25461/live/Martine/Martine/106.ts
+#EXTINF:-1, group-title="Canais Premium 3", TruTV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7826.ts
+#EXTINF:-1, group-title="Canais Premium 3", TruTV Principal
+http://212.8.248.50:25461/live/Martine/Martine/3497.ts
+#EXTINF:-1, group-title="Canais Premium 3", TruTV
+http://212.8.248.50:25461/live/Martine/Martine/10.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7453.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central Principal
+http://212.8.248.50:25461/live/Martine/Martine/2075.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central HD
+http://212.8.248.50:25461/live/Martine/Martine/6189.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central
+http://212.8.248.50:25461/live/Martine/Martine/113.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacao Discovery HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/2086.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacao Discovery Principal
+http://212.8.248.50:25461/live/Martine/Martine/6242.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacao Discovery HD
+http://212.8.248.50:25461/live/Martine/Martine/161.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacao Discovery
+http://212.8.248.50:25461/live/Martine/Martine/77.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1809.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health Principal
+http://212.8.248.50:25461/live/Martine/Martine/3499.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health HD
+http://212.8.248.50:25461/live/Martine/Martine/187.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health
+http://212.8.248.50:25461/live/Martine/Martine/109.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1881.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime Principal
+http://212.8.248.50:25461/live/Martine/Martine/2051.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime HD
+http://212.8.248.50:25461/live/Martine/Martine/1673.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lifetime
+http://212.8.248.50:25461/live/Martine/Martine/75.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1872.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC Principal
+http://212.8.248.50:25461/live/Martine/Martine/6231.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC HD
+http://212.8.248.50:25461/live/Martine/Martine/1665.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC
+http://212.8.248.50:25461/live/Martine/Martine/14.ts
+#EXTINF:-1, group-title="Canais Premium 3", E! HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/4771.ts
+#EXTINF:-1, group-title="Canais Premium 3", E! Principal
+http://212.8.248.50:25461/live/Martine/Martine/2070.ts
+#EXTINF:-1, group-title="Canais Premium 3", E! HD
+http://212.8.248.50:25461/live/Martine/Martine/1823.ts
+#EXTINF:-1, group-title="Canais Premium 3", E!
+http://212.8.248.50:25461/live/Martine/Martine/102.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/6232.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network Principal
+http://212.8.248.50:25461/live/Martine/Martine/1981.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network HD
+http://212.8.248.50:25461/live/Martine/Martine/1679.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network
+http://212.8.248.50:25461/live/Martine/Martine/96.ts
+#EXTINF:-1, group-title="Canais Premium 3", Curta! HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7435.ts
+#EXTINF:-1, group-title="Canais Premium 3", Curta!
+http://212.8.248.50:25461/live/Martine/Martine/112.ts
+#EXTINF:-1, group-title="Canais Premium 3", Curta! Principal
+http://212.8.248.50:25461/live/Martine/Martine/7781.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/2003.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet Principal
+http://212.8.248.50:25461/live/Martine/Martine/4773.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet HD
+http://212.8.248.50:25461/live/Martine/Martine/195.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet
+http://212.8.248.50:25461/live/Martine/Martine/131.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1810.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel Principal
+http://212.8.248.50:25461/live/Martine/Martine/1990.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel HD
+http://212.8.248.50:25461/live/Martine/Martine/188.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel
+http://212.8.248.50:25461/live/Martine/Martine/111.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/186.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater
+http://212.8.248.50:25461/live/Martine/Martine/7843.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater HD
+http://212.8.248.50:25461/live/Martine/Martine/1808.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater Principal
+http://212.8.248.50:25461/live/Martine/Martine/3498.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery World HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1806.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery World
+http://212.8.248.50:25461/live/Martine/Martine/7783.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery World HD
+http://212.8.248.50:25461/live/Martine/Martine/184.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7456.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science Principal
+http://212.8.248.50:25461/live/Martine/Martine/2073.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science HD
+http://212.8.248.50:25461/live/Martine/Martine/7433.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7457.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization Principal
+http://212.8.248.50:25461/live/Martine/Martine/2074.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization HD
+http://212.8.248.50:25461/live/Martine/Martine/7434.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1785.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Principal
+http://212.8.248.50:25461/live/Martine/Martine/1966.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo HD
+http://212.8.248.50:25461/live/Martine/Martine/157.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo
+http://212.8.248.50:25461/live/Martine/Martine/64.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1784.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild Principal
+http://212.8.248.50:25461/live/Martine/Martine/6233.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild HD
+http://212.8.248.50:25461/live/Martine/Martine/158.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild
+http://212.8.248.50:25461/live/Martine/Martine/65.ts
+#EXTINF:-1, group-title="Canais Premium 3", History HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1771.ts
+#EXTINF:-1, group-title="Canais Premium 3", History Principal
+http://212.8.248.50:25461/live/Martine/Martine/1969.ts
+#EXTINF:-1, group-title="Canais Premium 3", History HD
+http://212.8.248.50:25461/live/Martine/Martine/162.ts
+#EXTINF:-1, group-title="Canais Premium 3", History
+http://212.8.248.50:25461/live/Martine/Martine/15.ts
+#EXTINF:-1, group-title="Canais Premium 3", H2 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1792.ts
+#EXTINF:-1, group-title="Canais Premium 3", H2 Principal
+http://212.8.248.50:25461/live/Martine/Martine/1970.ts
+#EXTINF:-1, group-title="Canais Premium 3", H2 HD
+http://212.8.248.50:25461/live/Martine/Martine/168.ts
+#EXTINF:-1, group-title="Canais Premium 3", H2
+http://212.8.248.50:25461/live/Martine/Martine/85.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arte 1 HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7452.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arte 1 Principal
+http://212.8.248.50:25461/live/Martine/Martine/7782.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arte 1 HD
+http://212.8.248.50:25461/live/Martine/Martine/7436.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arte 1
+http://212.8.248.50:25461/live/Martine/Martine/129.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/1883.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews Principal
+http://212.8.248.50:25461/live/Martine/Martine/6234.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews HD
+http://212.8.248.50:25461/live/Martine/Martine/1678.ts
+#EXTINF:-1, group-title="Canais Premium 3", GloboNews
+http://212.8.248.50:25461/live/Martine/Martine/88.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandNews HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/7637.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandNews
+http://212.8.248.50:25461/live/Martine/Martine/126.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandNews Principal
+http://212.8.248.50:25461/live/Martine/Martine/2082.ts
+#EXTINF:-1, group-title="Canais Premium 3", Record News HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/42.ts
+#EXTINF:-1, group-title="Canais Premium 3", Record News
+http://212.8.248.50:25461/live/Martine/Martine/2032.ts
+#EXTINF:-1, group-title="Canais Premium 3", Record News Principal
+http://212.8.248.50:25461/live/Martine/Martine/7784.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cancao Nova
+http://212.8.248.50:25461/live/Martine/Martine/5086.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rede Vida
+http://212.8.248.50:25461/live/Martine/Martine/38.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Aparecida
+http://212.8.248.50:25461/live/Martine/Martine/130.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Aparecida Web
+http://212.8.248.50:25461/live/Martine/Martine/6179.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rede Século 21
+http://212.8.248.50:25461/live/Martine/Martine/574.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Evangelizar
+http://212.8.248.50:25461/live/Martine/Martine/7854.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Vianney
+http://212.8.248.50:25461/live/Martine/Martine/7853.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rede Super
+http://212.8.248.50:25461/live/Martine/Martine/575.ts
+#EXTINF:-1, group-title="Canais Premium 3", RIT
+http://212.8.248.50:25461/live/Martine/Martine/37.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Novo Tempo
+http://212.8.248.50:25461/live/Martine/Martine/59.ts
+#EXTINF:-1, group-title="Canais Premium 3", RBI
+http://212.8.248.50:25461/live/Martine/Martine/44.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Gideoes
+http://212.8.248.50:25461/live/Martine/Martine/1214.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ideal TV
+http://212.8.248.50:25461/live/Martine/Martine/76.ts
+#EXTINF:-1, group-title="Canais Premium 3", Shoptime
+http://212.8.248.50:25461/live/Martine/Martine/1621.ts
+#EXTINF:-1, group-title="Canais Premium 3", Polishop
+http://212.8.248.50:25461/live/Martine/Martine/5040.ts
+#EXTINF:-1, group-title="Canais Premium 3", Praia Copacabana RJ
+http://212.8.248.50:25461/live/Martine/Martine/7417.ts
+#EXTINF:-1, group-title="Canais Premium 3", New York
+http://212.8.248.50:25461/live/Martine/Martine/7418.ts
+#EXTINF:-1, group-title="Canais Premium 3", Miami Beach
+http://212.8.248.50:25461/live/Martine/Martine/7427.ts
+#EXTINF:-1, group-title="Canais Premium 3", Tóquio - Japão
+http://212.8.248.50:25461/live/Martine/Martine/7425.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cataratas do Niágara
+http://212.8.248.50:25461/live/Martine/Martine/10119.ts
+#EXTINF:-1, group-title="Canais Premium 3", Dublin Ireland
+http://212.8.248.50:25461/live/Martine/Martine/10122.ts
+#EXTINF:-1, group-title="Canais Premium 3", Itajaí - SC
+http://212.8.248.50:25461/live/Martine/Martine/10123.ts
+#EXTINF:-1, group-title="Canais Premium 3", Moscow Russia
+http://212.8.248.50:25461/live/Martine/Martine/10120.ts
+#EXTINF:-1, group-title="Canais Premium 3", Santiago - Chile
+http://212.8.248.50:25461/live/Martine/Martine/10126.ts
+#EXTINF:-1, group-title="Canais Premium 3", Thailand - Pattaya
+http://212.8.248.50:25461/live/Martine/Martine/10125.ts
+#EXTINF:-1, group-title="Canais Premium 3", Times Square
+http://212.8.248.50:25461/live/Martine/Martine/10124.ts
+#EXTINF:-1, group-title="Canais Premium 3", Times Square, NYC
+http://212.8.248.50:25461/live/Martine/Martine/10117.ts
+#EXTINF:-1, group-title="Canais Premium 3", Toronto Canadá
+http://212.8.248.50:25461/live/Martine/Martine/10118.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVC1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1111.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVC2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1110.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVC3 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1109.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVC4 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1108.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVS FHD
+http://212.8.248.50:25461/live/Martine/Martine/1107.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX FHD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1051.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Crime FHD
+http://212.8.248.50:25461/live/Martine/Martine/1050.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Comedy FHD
+http://212.8.248.50:25461/live/Martine/Martine/1049.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life HD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1052.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Movies HD
+http://212.8.248.50:25461/live/Martine/Martine/1054.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN Black FHD
+http://212.8.248.50:25461/live/Martine/Martine/1014.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN FHD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1015.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN White FHD
+http://212.8.248.50:25461/live/Martine/Martine/1016.ts
+#EXTINF:-1, group-title="Canais Premium 3", Hollywood FHD
+http://212.8.248.50:25461/live/Martine/Martine/1057.ts
+#EXTINF:-1, group-title="Canais Premium 3", SyFy PT
+http://212.8.248.50:25461/live/Martine/Martine/1102.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC FHD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1013.ts
+#EXTINF:-1, group-title="Canais Premium 3", Blaze
+http://212.8.248.50:25461/live/Martine/Martine/1011.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemundo
+http://212.8.248.50:25461/live/Martine/Martine/1030.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1019.ts
+#EXTINF:-1, group-title="Canais Premium 3", SPORT·TV+ FHD
+http://212.8.248.50:25461/live/Martine/Martine/1099.ts
+#EXTINF:-1, group-title="Canais Premium 3", SPORT·TV1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1098.ts
+#EXTINF:-1, group-title="Canais Premium 3", SPORT·TV2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1097.ts
+#EXTINF:-1, group-title="Canais Premium 3", SPORT·TV3 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1096.ts
+#EXTINF:-1, group-title="Canais Premium 3", SPORT·TV4 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1095.ts
+#EXTINF:-1, group-title="Canais Premium 3", SPORT·TV5 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1094.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eleven Sports 1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11940.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eleven Sports 2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11939.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eleven Sports 3 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11938.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eleven Sports 4 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11937.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eleven Sports 5 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11936.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eleven Sports 6 FHD
+http://212.8.248.50:25461/live/Martine/Martine/11935.ts
+#EXTINF:-1, group-title="Canais Premium 3", BTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/1022.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sporting TV HD
+http://212.8.248.50:25461/live/Martine/Martine/1100.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eurosport 1 Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1044.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eurosport 2 Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1043.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eurosport News
+http://212.8.248.50:25461/live/Martine/Martine/1041.ts
+#EXTINF:-1, group-title="Canais Premium 3", A Bola TV
+http://212.8.248.50:25461/live/Martine/Martine/1010.ts
+#EXTINF:-1, group-title="Canais Premium 3", Fuel TV HD
+http://212.8.248.50:25461/live/Martine/Martine/1055.ts
+#EXTINF:-1, group-title="Canais Premium 3", MCS Extreme
+http://212.8.248.50:25461/live/Martine/Martine/1065.ts
+#EXTINF:-1, group-title="Canais Premium 3", Kombat Sport
+http://212.8.248.50:25461/live/Martine/Martine/1060.ts
+#EXTINF:-1, group-title="Canais Premium 3", Motorvision
+http://212.8.248.50:25461/live/Martine/Martine/1069.ts
+#EXTINF:-1, group-title="Canais Premium 3", Motorsport.tv
+http://212.8.248.50:25461/live/Martine/Martine/1068.ts
+#EXTINF:-1, group-title="Canais Premium 3", Clubbing TV
+http://212.8.248.50:25461/live/Martine/Martine/1076.ts
+#EXTINF:-1, group-title="Canais Premium 3", Caça e Pesca
+http://212.8.248.50:25461/live/Martine/Martine/1024.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cacavision
+http://212.8.248.50:25461/live/Martine/Martine/1025.ts
+#EXTINF:-1, group-title="Canais Premium 3", Toros TV
+http://212.8.248.50:25461/live/Martine/Martine/1104.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Reality
+http://212.8.248.50:25461/live/Martine/Martine/1121.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Reality Camara Exclusiva 1
+http://212.8.248.50:25461/live/Martine/Martine/1120.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Reality Camara Exclusiva 2
+http://212.8.248.50:25461/live/Martine/Martine/1119.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Reality Camara Exclusiva 3
+http://212.8.248.50:25461/live/Martine/Martine/1118.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Reality Camara Exclusiva 4
+http://212.8.248.50:25461/live/Martine/Martine/1117.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Reality Mosaico
+http://212.8.248.50:25461/live/Martine/Martine/1116.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP1 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1078.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP2 FHD
+http://212.8.248.50:25461/live/Martine/Martine/1079.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP Açores
+http://212.8.248.50:25461/live/Martine/Martine/1081.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP Madeira
+http://212.8.248.50:25461/live/Martine/Martine/1084.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP Africa
+http://212.8.248.50:25461/live/Martine/Martine/1082.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP Memória
+http://212.8.248.50:25461/live/Martine/Martine/1085.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC FHD
+http://212.8.248.50:25461/live/Martine/Martine/1086.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC Radical FHD
+http://212.8.248.50:25461/live/Martine/Martine/1092.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC Mulher
+http://212.8.248.50:25461/live/Martine/Martine/1090.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC Caras FHD
+http://212.8.248.50:25461/live/Martine/Martine/1087.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI FHD
+http://212.8.248.50:25461/live/Martine/Martine/1112.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI Ficção
+http://212.8.248.50:25461/live/Martine/Martine/1114.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Q
+http://212.8.248.50:25461/live/Martine/Martine/1027.ts
+#EXTINF:-1, group-title="Canais Premium 3", Porto Canal
+http://212.8.248.50:25461/live/Martine/Martine/1077.ts
+#EXTINF:-1, group-title="Canais Premium 3", E! Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1038.ts
+#EXTINF:-1, group-title="Canais Premium 3", My Cuisine
+http://212.8.248.50:25461/live/Martine/Martine/1066.ts
+#EXTINF:-1, group-title="Canais Premium 3", Fine Living Network HD
+http://212.8.248.50:25461/live/Martine/Martine/1047.ts
+#EXTINF:-1, group-title="Canais Premium 3", Travel Channel HD
+http://212.8.248.50:25461/live/Martine/Martine/1106.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24Kitchen HD
+http://212.8.248.50:25461/live/Martine/Martine/1009.ts
+#EXTINF:-1, group-title="Canais Premium 3", Food Network FHD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1048.ts
+#EXTINF:-1, group-title="Canais Premium 3", CBS Reality
+http://212.8.248.50:25461/live/Martine/Martine/1029.ts
+#EXTINF:-1, group-title="Canais Premium 3", Crime+Investigation
+http://212.8.248.50:25461/live/Martine/Martine/1032.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1103.ts
+#EXTINF:-1, group-title="Canais Premium 3", FashionTV
+http://212.8.248.50:25461/live/Martine/Martine/1045.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Portugal HD
+http://212.8.248.50:25461/live/Martine/Martine/1071.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1122.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1033.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery HD Showcase
+http://212.8.248.50:25461/live/Martine/Martine/1034.ts
+#EXTINF:-1, group-title="Canais Premium 3", National Geographic Channel HD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1073.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild HD Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1072.ts
+#EXTINF:-1, group-title="Canais Premium 3", Historia
+http://212.8.248.50:25461/live/Martine/Martine/1056.ts
+#EXTINF:-1, group-title="Canais Premium 3", Odisseia
+http://212.8.248.50:25461/live/Martine/Martine/1075.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC Noticias FHD
+http://212.8.248.50:25461/live/Martine/Martine/1091.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP3
+http://212.8.248.50:25461/live/Martine/Martine/1080.ts
+#EXTINF:-1, group-title="Canais Premium 3", RTP Internacional
+http://212.8.248.50:25461/live/Martine/Martine/1083.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVI24
+http://212.8.248.50:25461/live/Martine/Martine/1113.ts
+#EXTINF:-1, group-title="Canais Premium 3", CMTV FHD
+http://212.8.248.50:25461/live/Martine/Martine/1031.ts
+#EXTINF:-1, group-title="Canais Premium 3", Euronews
+http://212.8.248.50:25461/live/Martine/Martine/1040.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1028.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1035.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1036.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nickelodeon Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1074.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Panda
+http://212.8.248.50:25461/live/Martine/Martine/1026.ts
+#EXTINF:-1, group-title="Canais Premium 3", Biggs
+http://212.8.248.50:25461/live/Martine/Martine/1020.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC K
+http://212.8.248.50:25461/live/Martine/Martine/1088.ts
+#EXTINF:-1, group-title="Canais Premium 3", JimJam
+http://212.8.248.50:25461/live/Martine/Martine/1059.ts
+#EXTINF:-1, group-title="Canais Premium 3", BabyTV Portugal
+http://212.8.248.50:25461/live/Martine/Martine/1018.ts
+#EXTINF:-1, group-title="Canais Premium 3", ABC
+http://212.8.248.50:25461/live/Martine/Martine/992.ts
+#EXTINF:-1, group-title="Canais Premium 3", Freeform
+http://212.8.248.50:25461/live/Martine/Martine/1281.ts
+#EXTINF:-1, group-title="Canais Premium 3", Usa Network
+http://212.8.248.50:25461/live/Martine/Martine/1284.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC
+http://212.8.248.50:25461/live/Martine/Martine/1286.ts
+#EXTINF:-1, group-title="Canais Premium 3", The CW
+http://212.8.248.50:25461/live/Martine/Martine/1285.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC US
+http://212.8.248.50:25461/live/Martine/Martine/1275.ts
+#EXTINF:-1, group-title="Canais Premium 3", CBS
+http://212.8.248.50:25461/live/Martine/Martine/1288.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO US
+http://212.8.248.50:25461/live/Martine/Martine/991.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Comedy
+http://212.8.248.50:25461/live/Martine/Martine/990.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX US
+http://212.8.248.50:25461/live/Martine/Martine/598.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX US
+http://212.8.248.50:25461/live/Martine/Martine/989.ts
+#EXTINF:-1, group-title="Canais Premium 3", Starz
+http://212.8.248.50:25461/live/Martine/Martine/993.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E US
+http://212.8.248.50:25461/live/Martine/Martine/1289.ts
+#EXTINF:-1, group-title="Canais Premium 3", Showtime
+http://212.8.248.50:25461/live/Martine/Martine/1278.ts
+#EXTINF:-1, group-title="Canais Premium 3", Paramount Network
+http://212.8.248.50:25461/live/Martine/Martine/1277.ts
+#EXTINF:-1, group-title="Canais Premium 3", Bravo
+http://212.8.248.50:25461/live/Martine/Martine/986.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinemax US
+http://212.8.248.50:25461/live/Martine/Martine/988.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel US
+http://212.8.248.50:25461/live/Martine/Martine/1279.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Science CA
+http://212.8.248.50:25461/live/Martine/Martine/1276.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network US
+http://212.8.248.50:25461/live/Martine/Martine/1283.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick US
+http://212.8.248.50:25461/live/Martine/Martine/994.ts
+#EXTINF:-1, group-title="Canais Premium 3", HGTV Canada
+http://212.8.248.50:25461/live/Martine/Martine/4959.ts
+#EXTINF:-1, group-title="Canais Premium 3", CTV Canada
+http://212.8.248.50:25461/live/Martine/Martine/4958.ts
+#EXTINF:-1, group-title="Canais Premium 3", Global Canada
+http://212.8.248.50:25461/live/Martine/Martine/4957.ts
+#EXTINF:-1, group-title="Canais Premium 3", Super Ecran 1
+http://212.8.248.50:25461/live/Martine/Martine/4956.ts
+#EXTINF:-1, group-title="Canais Premium 3", Super Ecran 2
+http://212.8.248.50:25461/live/Martine/Martine/4955.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 1 Canada
+http://212.8.248.50:25461/live/Martine/Martine/4948.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO 2 Canada
+http://212.8.248.50:25461/live/Martine/Martine/4947.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai 1
+http://212.8.248.50:25461/live/Martine/Martine/8787.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai 2
+http://212.8.248.50:25461/live/Martine/Martine/8786.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai 3
+http://212.8.248.50:25461/live/Martine/Martine/8785.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai 4
+http://212.8.248.50:25461/live/Martine/Martine/8784.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai 5
+http://212.8.248.50:25461/live/Martine/Martine/8783.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai Gulp
+http://212.8.248.50:25461/live/Martine/Martine/8776.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai Movie
+http://212.8.248.50:25461/live/Martine/Martine/8777.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai News 24
+http://212.8.248.50:25461/live/Martine/Martine/8778.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai Premium
+http://212.8.248.50:25461/live/Martine/Martine/8779.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai Scuola
+http://212.8.248.50:25461/live/Martine/Martine/8780.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai Sport
+http://212.8.248.50:25461/live/Martine/Martine/8781.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rai YoYo
+http://212.8.248.50:25461/live/Martine/Martine/8782.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rete 4
+http://212.8.248.50:25461/live/Martine/Martine/8775.ts
+#EXTINF:-1, group-title="Canais Premium 3", La 5
+http://212.8.248.50:25461/live/Martine/Martine/8773.ts
+#EXTINF:-1, group-title="Canais Premium 3", La7
+http://212.8.248.50:25461/live/Martine/Martine/8774.ts
+#EXTINF:-1, group-title="Canais Premium 3", Italia 1
+http://212.8.248.50:25461/live/Martine/Martine/8772.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mediasat Italia Due
+http://212.8.248.50:25461/live/Martine/Martine/8766.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boing
+http://212.8.248.50:25461/live/Martine/Martine/8768.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canale 5
+http://212.8.248.50:25461/live/Martine/Martine/8769.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cielo
+http://212.8.248.50:25461/live/Martine/Martine/8770.ts
+#EXTINF:-1, group-title="Canais Premium 3", Iris
+http://212.8.248.50:25461/live/Martine/Martine/8771.ts
+#EXTINF:-1, group-title="Canais Premium 3", Alice
+http://212.8.248.50:25461/live/Martine/Martine/8767.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 721
+http://212.8.248.50:25461/live/Martine/Martine/4875.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 722
+http://212.8.248.50:25461/live/Martine/Martine/4876.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 723
+http://212.8.248.50:25461/live/Martine/Martine/4877.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 724
+http://212.8.248.50:25461/live/Martine/Martine/4878.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 725
+http://212.8.248.50:25461/live/Martine/Martine/4879.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 726
+http://212.8.248.50:25461/live/Martine/Martine/4880.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 727
+http://212.8.248.50:25461/live/Martine/Martine/4881.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 728
+http://212.8.248.50:25461/live/Martine/Martine/4882.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 729
+http://212.8.248.50:25461/live/Martine/Martine/4883.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Extra Innings 730
+http://212.8.248.50:25461/live/Martine/Martine/4884.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport Extra 1
+http://212.8.248.50:25461/live/Martine/Martine/4911.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport Extra 2
+http://212.8.248.50:25461/live/Martine/Martine/4912.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport Extra 3
+http://212.8.248.50:25461/live/Martine/Martine/4913.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport Extra 4
+http://212.8.248.50:25461/live/Martine/Martine/4914.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport Extra 5
+http://212.8.248.50:25461/live/Martine/Martine/4915.ts
+#EXTINF:-1, group-title="Canais Premium 3", BeIN Sports Max 4
+http://212.8.248.50:25461/live/Martine/Martine/1157.ts
+#EXTINF:-1, group-title="Canais Premium 3", BeIN Sports Max 5
+http://212.8.248.50:25461/live/Martine/Martine/1156.ts
+#EXTINF:-1, group-title="Canais Premium 3", BeIN Sports Max 6
+http://212.8.248.50:25461/live/Martine/Martine/1155.ts
+#EXTINF:-1, group-title="Canais Premium 3", BeIN Sports Max 7
+http://212.8.248.50:25461/live/Martine/Martine/1154.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Sports Max 8
+http://212.8.248.50:25461/live/Martine/Martine/4908.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Sports Max 9
+http://212.8.248.50:25461/live/Martine/Martine/4909.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Sports Max 10
+http://212.8.248.50:25461/live/Martine/Martine/4910.ts
+#EXTINF:-1, group-title="Canais Premium 3", TSN1
+http://212.8.248.50:25461/live/Martine/Martine/1008.ts
+#EXTINF:-1, group-title="Canais Premium 3", TSN2
+http://212.8.248.50:25461/live/Martine/Martine/1007.ts
+#EXTINF:-1, group-title="Canais Premium 3", TSN3
+http://212.8.248.50:25461/live/Martine/Martine/1006.ts
+#EXTINF:-1, group-title="Canais Premium 3", TSN4
+http://212.8.248.50:25461/live/Martine/Martine/1005.ts
+#EXTINF:-1, group-title="Canais Premium 3", TSN5
+http://212.8.248.50:25461/live/Martine/Martine/1004.ts
+#EXTINF:-1, group-title="Canais Premium 3", SNO
+http://212.8.248.50:25461/live/Martine/Martine/4968.ts
+#EXTINF:-1, group-title="Canais Premium 3", SNP
+http://212.8.248.50:25461/live/Martine/Martine/4969.ts
+#EXTINF:-1, group-title="Canais Premium 3", SEC Network
+http://212.8.248.50:25461/live/Martine/Martine/4970.ts
+#EXTINF:-1, group-title="Canais Premium 3", SNE
+http://212.8.248.50:25461/live/Martine/Martine/4966.ts
+#EXTINF:-1, group-title="Canais Premium 3", SN1
+http://212.8.248.50:25461/live/Martine/Martine/4967.ts
+#EXTINF:-1, group-title="Canais Premium 3", SN360
+http://212.8.248.50:25461/live/Martine/Martine/4965.ts
+#EXTINF:-1, group-title="Canais Premium 3", SNWL
+http://212.8.248.50:25461/live/Martine/Martine/4971.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBA TV
+http://212.8.248.50:25461/live/Martine/Martine/1003.ts
+#EXTINF:-1, group-title="Canais Premium 3", NFL RedZone
+http://212.8.248.50:25461/live/Martine/Martine/5011.ts
+#EXTINF:-1, group-title="Canais Premium 3", NFL Network
+http://212.8.248.50:25461/live/Martine/Martine/1000.ts
+#EXTINF:-1, group-title="Canais Premium 3", MLB Network
+http://212.8.248.50:25461/live/Martine/Martine/1282.ts
+#EXTINF:-1, group-title="Canais Premium 3", WWE Network
+http://212.8.248.50:25461/live/Martine/Martine/1002.ts
+#EXTINF:-1, group-title="Canais Premium 3", Fight Network
+http://212.8.248.50:25461/live/Martine/Martine/4946.ts
+#EXTINF:-1, group-title="Canais Premium 3", NHL Network
+http://212.8.248.50:25461/live/Martine/Martine/4961.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN US
+http://212.8.248.50:25461/live/Martine/Martine/1270.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN2 US
+http://212.8.248.50:25461/live/Martine/Martine/4964.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPNews
+http://212.8.248.50:25461/live/Martine/Martine/4963.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPNU
+http://212.8.248.50:25461/live/Martine/Martine/4962.ts
+#EXTINF:-1, group-title="Canais Premium 3", UFC Fight Pass
+http://212.8.248.50:25461/live/Martine/Martine/4960.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 1 US
+http://212.8.248.50:25461/live/Martine/Martine/998.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 US
+http://212.8.248.50:25461/live/Martine/Martine/997.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBCSN
+http://212.8.248.50:25461/live/Martine/Martine/1280.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports Bay Area
+http://212.8.248.50:25461/live/Martine/Martine/4870.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports Boston
+http://212.8.248.50:25461/live/Martine/Martine/4871.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports California
+http://212.8.248.50:25461/live/Martine/Martine/4872.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports Chicago
+http://212.8.248.50:25461/live/Martine/Martine/4873.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports Northwest
+http://212.8.248.50:25461/live/Martine/Martine/4874.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports Philadelphia
+http://212.8.248.50:25461/live/Martine/Martine/4869.ts
+#EXTINF:-1, group-title="Canais Premium 3", Golf Channel
+http://212.8.248.50:25461/live/Martine/Martine/1001.ts
+#EXTINF:-1, group-title="Canais Premium 3", Movistar Futbol
+http://212.8.248.50:25461/live/Martine/Martine/1132.ts
+#EXTINF:-1, group-title="Canais Premium 3", Movistar Deportes 1
+http://212.8.248.50:25461/live/Martine/Martine/1131.ts
+#EXTINF:-1, group-title="Canais Premium 3", Movistar Deportes 2
+http://212.8.248.50:25461/live/Martine/Martine/1130.ts
+#EXTINF:-1, group-title="Canais Premium 3", Movistar MotoGP
+http://212.8.248.50:25461/live/Martine/Martine/1129.ts
+#EXTINF:-1, group-title="Canais Premium 3", Movistar F1
+http://212.8.248.50:25461/live/Martine/Martine/1482.ts
+#EXTINF:-1, group-title="Canais Premium 3", Movistar Golf
+http://212.8.248.50:25461/live/Martine/Martine/1133.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN LaLiga
+http://212.8.248.50:25461/live/Martine/Martine/1140.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Spots
+http://212.8.248.50:25461/live/Martine/Martine/1137.ts
+#EXTINF:-1, group-title="Canais Premium 3", LaLiga TV
+http://212.8.248.50:25461/live/Martine/Martine/1145.ts
+#EXTINF:-1, group-title="Canais Premium 3", Barça TV
+http://212.8.248.50:25461/live/Martine/Martine/1141.ts
+#EXTINF:-1, group-title="Canais Premium 3", Real Madrid TV
+http://212.8.248.50:25461/live/Martine/Martine/1128.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport 3
+http://212.8.248.50:25461/live/Martine/Martine/1183.ts
+#EXTINF:-1, group-title="Canais Premium 3", BT Sport//ESPN
+http://212.8.248.50:25461/live/Martine/Martine/1182.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky Sports Main Event
+http://212.8.248.50:25461/live/Martine/Martine/1166.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky Sports Premier League
+http://212.8.248.50:25461/live/Martine/Martine/1162.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky Sports Cricket
+http://212.8.248.50:25461/live/Martine/Martine/1165.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky Sports Golf
+http://212.8.248.50:25461/live/Martine/Martine/1163.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky Sports News
+http://212.8.248.50:25461/live/Martine/Martine/1167.ts
+#EXTINF:-1, group-title="Canais Premium 3", BoxNation
+http://212.8.248.50:25461/live/Martine/Martine/1190.ts
+#EXTINF:-1, group-title="Canais Premium 3", Chelsea TV
+http://212.8.248.50:25461/live/Martine/Martine/1181.ts
+#EXTINF:-1, group-title="Canais Premium 3", MUTV
+http://212.8.248.50:25461/live/Martine/Martine/1179.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Sports 1 FR
+http://212.8.248.50:25461/live/Martine/Martine/1160.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Sports 2 FR
+http://212.8.248.50:25461/live/Martine/Martine/1159.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN Sports 3 FR
+http://212.8.248.50:25461/live/Martine/Martine/1158.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal+  Sport
+http://212.8.248.50:25461/live/Martine/Martine/1161.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Calcio 1
+http://212.8.248.50:25461/live/Martine/Martine/1463.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Calcio 2
+http://212.8.248.50:25461/live/Martine/Martine/1462.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Calcio 3
+http://212.8.248.50:25461/live/Martine/Martine/1461.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Calcio 4
+http://212.8.248.50:25461/live/Martine/Martine/1460.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Calcio 5
+http://212.8.248.50:25461/live/Martine/Martine/1459.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Calcio 6
+http://212.8.248.50:25461/live/Martine/Martine/1458.ts
+#EXTINF:-1, group-title="Canais Premium 3", Foot+ 24/24
+http://212.8.248.50:25461/live/Martine/Martine/1152.ts
+#EXTINF:-1, group-title="Canais Premium 3", SFR Sport 1
+http://212.8.248.50:25461/live/Martine/Martine/1149.ts
+#EXTINF:-1, group-title="Canais Premium 3", SFR Sport 2
+http://212.8.248.50:25461/live/Martine/Martine/1148.ts
+#EXTINF:-1, group-title="Canais Premium 3", SFR Sport 3
+http://212.8.248.50:25461/live/Martine/Martine/1147.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky Bundesliga 1
+http://212.8.248.50:25461/live/Martine/Martine/1629.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 1 Eredivisie
+http://212.8.248.50:25461/live/Martine/Martine/1178.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 International
+http://212.8.248.50:25461/live/Martine/Martine/1176.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 3 Eredivisie
+http://212.8.248.50:25461/live/Martine/Martine/1177.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 4 International
+http://212.8.248.50:25461/live/Martine/Martine/1175.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 5 Eredivisie
+http://212.8.248.50:25461/live/Martine/Martine/1173.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 6 International
+http://212.8.248.50:25461/live/Martine/Martine/1174.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ziggo Sport Voetbal
+http://212.8.248.50:25461/live/Martine/Martine/1469.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ziggo Sport Select
+http://212.8.248.50:25461/live/Martine/Martine/1467.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ziggo Sport Golf
+http://212.8.248.50:25461/live/Martine/Martine/1466.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ziggo Sport Racing
+http://212.8.248.50:25461/live/Martine/Martine/1468.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ziggo Sport Extra 1
+http://212.8.248.50:25461/live/Martine/Martine/1471.ts
+#EXTINF:-1, group-title="Canais Premium 3", Ziggo Sport Extra 2
+http://212.8.248.50:25461/live/Martine/Martine/1470.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arena Sport 1
+http://212.8.248.50:25461/live/Martine/Martine/1453.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arena Sport 2
+http://212.8.248.50:25461/live/Martine/Martine/1454.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arena Sport 3
+http://212.8.248.50:25461/live/Martine/Martine/1455.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arena Sport 4
+http://212.8.248.50:25461/live/Martine/Martine/1456.ts
+#EXTINF:-1, group-title="Canais Premium 3", Arena Sport 5
+http://212.8.248.50:25461/live/Martine/Martine/1457.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sport Klub 1
+http://212.8.248.50:25461/live/Martine/Martine/1475.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sport Klub 2
+http://212.8.248.50:25461/live/Martine/Martine/1473.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sport Klub 3
+http://212.8.248.50:25461/live/Martine/Martine/1474.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sport Klub 4
+http://212.8.248.50:25461/live/Martine/Martine/1472.ts
+#EXTINF:-1, group-title="Canais Premium 3", NFL Now
+http://212.8.248.50:25461/live/Martine/Martine/1465.ts
+#EXTINF:-1, group-title="Canais Premium 3", Premium Sport 2
+http://212.8.248.50:25461/live/Martine/Martine/1464.ts
+#EXTINF:-1, group-title="Canais Premium 3", CNN
+http://212.8.248.50:25461/live/Martine/Martine/1187.ts
+#EXTINF:-1, group-title="Canais Premium 3", ABC News HD
+http://212.8.248.50:25461/live/Martine/Martine/1192.ts
+#EXTINF:-1, group-title="Canais Premium 3", BBC World News
+http://212.8.248.50:25461/live/Martine/Martine/1188.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sky News
+http://212.8.248.50:25461/live/Martine/Martine/1093.ts
+#EXTINF:-1, group-title="Canais Premium 3", CBS News Internacional
+http://212.8.248.50:25461/live/Martine/Martine/1191.ts
+#EXTINF:-1, group-title="Canais Premium 3", MSNBC
+http://212.8.248.50:25461/live/Martine/Martine/4857.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX News
+http://212.8.248.50:25461/live/Martine/Martine/1189.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX 5 News Atlanta
+http://212.8.248.50:25461/live/Martine/Martine/4907.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX 23 Oklahoma
+http://212.8.248.50:25461/live/Martine/Martine/4976.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX 25 Boston
+http://212.8.248.50:25461/live/Martine/Martine/4977.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX 30 Florida
+http://212.8.248.50:25461/live/Martine/Martine/4978.ts
+#EXTINF:-1, group-title="Canais Premium 3", CBS 47 Florida
+http://212.8.248.50:25461/live/Martine/Martine/4975.ts
+#EXTINF:-1, group-title="Canais Premium 3", France 24
+http://212.8.248.50:25461/live/Martine/Martine/4972.ts
+#EXTINF:-1, group-title="Canais Premium 3", Bloomberg
+http://212.8.248.50:25461/live/Martine/Martine/1021.ts
+#EXTINF:-1, group-title="Canais Premium 3", Deutsche Welle
+http://212.8.248.50:25461/live/Martine/Martine/4974.ts
+#EXTINF:-1, group-title="Canais Premium 3", Deutsche Welle Espanol
+http://212.8.248.50:25461/live/Martine/Martine/4973.ts
+#EXTINF:-1, group-title="Canais Premium 3", SIC Internacional
+http://212.8.248.50:25461/live/Martine/Martine/33.ts
+#EXTINF:-1, group-title="Canais Premium 3", TVE Internacional
+http://212.8.248.50:25461/live/Martine/Martine/5043.ts
+#EXTINF:-1, group-title="Canais Premium 3", NHK
+http://212.8.248.50:25461/live/Martine/Martine/62.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Rocks
+http://212.8.248.50:25461/live/Martine/Martine/1180.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Base
+http://212.8.248.50:25461/live/Martine/Martine/1070.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Dance
+http://212.8.248.50:25461/live/Martine/Martine/1062.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Hits
+http://212.8.248.50:25461/live/Martine/Martine/4999.ts
+#EXTINF:-1, group-title="Canais Premium 3", MTV Music
+http://212.8.248.50:25461/live/Martine/Martine/4998.ts
+#EXTINF:-1, group-title="Canais Premium 3", VH1 Classic
+http://212.8.248.50:25461/live/Martine/Martine/1123.ts
+#EXTINF:-1, group-title="Canais Premium 3", MCM Pop
+http://212.8.248.50:25461/live/Martine/Martine/1063.ts
+#EXTINF:-1, group-title="Canais Premium 3", MCM Top
+http://212.8.248.50:25461/live/Martine/Martine/1064.ts
+#EXTINF:-1, group-title="Canais Premium 3", Afro Music Channel
+http://212.8.248.50:25461/live/Martine/Martine/1012.ts
+#EXTINF:-1, group-title="Canais Premium 3", Trace Urban
+http://212.8.248.50:25461/live/Martine/Martine/1105.ts
+#EXTINF:-1, group-title="Canais Premium 3", C Music TV
+http://212.8.248.50:25461/live/Martine/Martine/1023.ts
+#EXTINF:-1, group-title="Canais Premium 3", Stingray iConcerts HD
+http://212.8.248.50:25461/live/Martine/Martine/1058.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mexicana
+http://212.8.248.50:25461/live/Martine/Martine/4997.ts
+#EXTINF:-1, group-title="Canais Premium 3", Alternative
+http://212.8.248.50:25461/live/Martine/Martine/4996.ts
+#EXTINF:-1, group-title="Canais Premium 3", Brits Hits
+http://212.8.248.50:25461/live/Martine/Martine/4995.ts
+#EXTINF:-1, group-title="Canais Premium 3", Dance/EDM
+http://212.8.248.50:25461/live/Martine/Martine/4994.ts
+#EXTINF:-1, group-title="Canais Premium 3", Hip-Hop And R&B
+http://212.8.248.50:25461/live/Martine/Martine/4993.ts
+#EXTINF:-1, group-title="Canais Premium 3", Hit List
+http://212.8.248.50:25461/live/Martine/Martine/4992.ts
+#EXTINF:-1, group-title="Canais Premium 3", Indie
+http://212.8.248.50:25461/live/Martine/Martine/4991.ts
+#EXTINF:-1, group-title="Canais Premium 3", MC Play
+http://212.8.248.50:25461/live/Martine/Martine/4990.ts
+#EXTINF:-1, group-title="Canais Premium 3", Metal International
+http://212.8.248.50:25461/live/Martine/Martine/4989.ts
+#EXTINF:-1, group-title="Canais Premium 3", Pop & Country
+http://212.8.248.50:25461/live/Martine/Martine/4979.ts
+#EXTINF:-1, group-title="Canais Premium 3", Pop and Hits
+http://212.8.248.50:25461/live/Martine/Martine/4987.ts
+#EXTINF:-1, group-title="Canais Premium 3", Pop Latino
+http://212.8.248.50:25461/live/Martine/Martine/4986.ts
+#EXTINF:-1, group-title="Canais Premium 3", R&B Soul
+http://212.8.248.50:25461/live/Martine/Martine/4985.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rap
+http://212.8.248.50:25461/live/Martine/Martine/4984.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rock
+http://212.8.248.50:25461/live/Martine/Martine/4983.ts
+#EXTINF:-1, group-title="Canais Premium 3", Throwback Jamz
+http://212.8.248.50:25461/live/Martine/Martine/4982.ts
+#EXTINF:-1, group-title="Canais Premium 3", Teen Beats
+http://212.8.248.50:25461/live/Martine/Martine/4981.ts
+#EXTINF:-1, group-title="Canais Premium 3", RAP 2K
+http://212.8.248.50:25461/live/Martine/Martine/4980.ts
+#EXTINF:-1, group-title="Canais Premium 3", FX MX
+http://212.8.248.50:25461/live/Martine/Martine/4856.ts
+#EXTINF:-1, group-title="Canais Premium 3", A&E Latino
+http://212.8.248.50:25461/live/Martine/Martine/4855.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Sports 2 Latino
+http://212.8.248.50:25461/live/Martine/Martine/4853.ts
+#EXTINF:-1, group-title="Canais Premium 3", Univision
+http://212.8.248.50:25461/live/Martine/Martine/4852.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN 2 Latino
+http://212.8.248.50:25461/live/Martine/Martine/4851.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium Action
+http://212.8.248.50:25461/live/Martine/Martine/4850.ts
+#EXTINF:-1, group-title="Canais Premium 3", Distrito Comedia
+http://212.8.248.50:25461/live/Martine/Martine/4849.ts
+#EXTINF:-1, group-title="Canais Premium 3", Telemundo
+http://212.8.248.50:25461/live/Martine/Martine/4848.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Kids Latino
+http://212.8.248.50:25461/live/Martine/Martine/4847.ts
+#EXTINF:-1, group-title="Canais Premium 3", FXM
+http://212.8.248.50:25461/live/Martine/Martine/4846.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN 3 Latino
+http://212.8.248.50:25461/live/Martine/Martine/4845.ts
+#EXTINF:-1, group-title="Canais Premium 3", Golden
+http://212.8.248.50:25461/live/Martine/Martine/4844.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Deportes
+http://212.8.248.50:25461/live/Martine/Martine/4843.ts
+#EXTINF:-1, group-title="Canais Premium 3", beIN ñ Sports
+http://212.8.248.50:25461/live/Martine/Martine/4842.ts
+#EXTINF:-1, group-title="Canais Premium 3", Warner Channel Latino
+http://212.8.248.50:25461/live/Martine/Martine/4841.ts
+#EXTINF:-1, group-title="Canais Premium 3", Space Latino
+http://212.8.248.50:25461/live/Martine/Martine/4840.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Deportes
+http://212.8.248.50:25461/live/Martine/Martine/4839.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Latino
+http://212.8.248.50:25461/live/Martine/Martine/4838.ts
+#EXTINF:-1, group-title="Canais Premium 3", Tooncast Latino
+http://212.8.248.50:25461/live/Martine/Martine/4837.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Home&Health Latino
+http://212.8.248.50:25461/live/Martine/Martine/4836.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Civilization Latino
+http://212.8.248.50:25461/live/Martine/Martine/4835.ts
+#EXTINF:-1, group-title="Canais Premium 3", Univision TDN
+http://212.8.248.50:25461/live/Martine/Martine/4834.ts
+#EXTINF:-1, group-title="Canais Premium 3", De Pelicula
+http://212.8.248.50:25461/live/Martine/Martine/4833.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium Series
+http://212.8.248.50:25461/live/Martine/Martine/4832.ts
+#EXTINF:-1, group-title="Canais Premium 3", Unicable
+http://212.8.248.50:25461/live/Martine/Martine/4831.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cartoon Network Latino
+http://212.8.248.50:25461/live/Martine/Martine/4830.ts
+#EXTINF:-1, group-title="Canais Premium 3", Golden Edge
+http://212.8.248.50:25461/live/Martine/Martine/4829.ts
+#EXTINF:-1, group-title="Canais Premium 3", TyC Sports
+http://212.8.248.50:25461/live/Martine/Martine/4828.ts
+#EXTINF:-1, group-title="Canais Premium 3", Multimedios Monterrey
+http://212.8.248.50:25461/live/Martine/Martine/4827.ts
+#EXTINF:-1, group-title="Canais Premium 3", Cinecanal
+http://212.8.248.50:25461/live/Martine/Martine/4826.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium Cinéma
+http://212.8.248.50:25461/live/Martine/Martine/4825.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max UP Latino
+http://212.8.248.50:25461/live/Martine/Martine/4824.ts
+#EXTINF:-1, group-title="Canais Premium 3", Boomerang Latino
+http://212.8.248.50:25461/live/Martine/Martine/4823.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Latino
+http://212.8.248.50:25461/live/Martine/Martine/4822.ts
+#EXTINF:-1, group-title="Canais Premium 3", TNT Series (MX)
+http://212.8.248.50:25461/live/Martine/Martine/4821.ts
+#EXTINF:-1, group-title="Canais Premium 3", AXN Latino
+http://212.8.248.50:25461/live/Martine/Martine/4820.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal 5
+http://212.8.248.50:25461/live/Martine/Martine/4819.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Channel Latino
+http://212.8.248.50:25461/live/Martine/Martine/4818.ts
+#EXTINF:-1, group-title="Canais Premium 3", AMC Latino
+http://212.8.248.50:25461/live/Martine/Martine/4817.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Latino
+http://212.8.248.50:25461/live/Martine/Martine/4816.ts
+#EXTINF:-1, group-title="Canais Premium 3", Milenio TV
+http://212.8.248.50:25461/live/Martine/Martine/4815.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney XD Latino
+http://212.8.248.50:25461/live/Martine/Martine/4814.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gala TV
+http://212.8.248.50:25461/live/Martine/Martine/4813.ts
+#EXTINF:-1, group-title="Canais Premium 3", Comedy Central Latino
+http://212.8.248.50:25461/live/Martine/Martine/4812.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Wild Latino
+http://212.8.248.50:25461/live/Martine/Martine/4811.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nat Geo Latino
+http://212.8.248.50:25461/live/Martine/Martine/4810.ts
+#EXTINF:-1, group-title="Canais Premium 3", TIIN
+http://212.8.248.50:25461/live/Martine/Martine/4809.ts
+#EXTINF:-1, group-title="Canais Premium 3", Animal Planet Latino
+http://212.8.248.50:25461/live/Martine/Martine/4808.ts
+#EXTINF:-1, group-title="Canais Premium 3", Syfy Latino
+http://212.8.248.50:25461/live/Martine/Martine/4807.ts
+#EXTINF:-1, group-title="Canais Premium 3", El Gourmet
+http://212.8.248.50:25461/live/Martine/Martine/4806.ts
+#EXTINF:-1, group-title="Canais Premium 3", Studio Universal Latino
+http://212.8.248.50:25461/live/Martine/Martine/4805.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Life Latino
+http://212.8.248.50:25461/live/Martine/Martine/4804.ts
+#EXTINF:-1, group-title="Canais Premium 3", TCM Latino
+http://212.8.248.50:25461/live/Martine/Martine/4802.ts
+#EXTINF:-1, group-title="Canais Premium 3", Glitz*
+http://212.8.248.50:25461/live/Martine/Martine/4801.ts
+#EXTINF:-1, group-title="Canais Premium 3", History Latino
+http://212.8.248.50:25461/live/Martine/Martine/4800.ts
+#EXTINF:-1, group-title="Canais Premium 3", TruTV Latino
+http://212.8.248.50:25461/live/Martine/Martine/4799.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Latino
+http://212.8.248.50:25461/live/Martine/Martine/4798.ts
+#EXTINF:-1, group-title="Canais Premium 3", FOX Premium Movies
+http://212.8.248.50:25461/live/Martine/Martine/4797.ts
+#EXTINF:-1, group-title="Canais Premium 3", Investigacion Discovery Latino
+http://212.8.248.50:25461/live/Martine/Martine/4796.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Turbo Latino
+http://212.8.248.50:25461/live/Martine/Martine/4795.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Channel Latino
+http://212.8.248.50:25461/live/Martine/Martine/4794.ts
+#EXTINF:-1, group-title="Canais Premium 3", AZ Clic
+http://212.8.248.50:25461/live/Martine/Martine/4793.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nick Jr. Latino
+http://212.8.248.50:25461/live/Martine/Martine/4792.ts
+#EXTINF:-1, group-title="Canais Premium 3", Disney Junior Latino
+http://212.8.248.50:25461/live/Martine/Martine/4791.ts
+#EXTINF:-1, group-title="Canais Premium 3", TLC Latino
+http://212.8.248.50:25461/live/Martine/Martine/4790.ts
+#EXTINF:-1, group-title="Canais Premium 3", HBO Plus Latino
+http://212.8.248.50:25461/live/Martine/Martine/4789.ts
+#EXTINF:-1, group-title="Canais Premium 3", Canal Sony Latino
+http://212.8.248.50:25461/live/Martine/Martine/4788.ts
+#EXTINF:-1, group-title="Canais Premium 3", Discovery Theater Latino
+http://212.8.248.50:25461/live/Martine/Martine/4787.ts
+#EXTINF:-1, group-title="Canais Premium 3", Max Prime Latino
+http://212.8.248.50:25461/live/Martine/Martine/4786.ts
+#EXTINF:-1, group-title="Canais Premium 3", TV Publica - Argentina
+http://212.8.248.50:25461/live/Martine/Martine/4785.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN +  Latino
+http://212.8.248.50:25461/live/Martine/Martine/4784.ts
+#EXTINF:-1, group-title="Canais Premium 3", WOBI
+http://212.8.248.50:25461/live/Martine/Martine/4783.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nicktoons
+http://212.8.248.50:25461/live/Martine/Martine/4782.ts
+#EXTINF:-1, group-title="Canais Premium 3", Las Estrellas
+http://212.8.248.50:25461/live/Martine/Martine/4781.ts
+#EXTINF:-1, group-title="Canais Premium 3", Win Sports HD
+http://212.8.248.50:25461/live/Martine/Martine/4780.ts
+#EXTINF:-1, group-title="Canais Premium 3", RCN
+http://212.8.248.50:25461/live/Martine/Martine/4779.ts
+#EXTINF:-1, group-title="Canais Premium 3", El Garage TV
+http://212.8.248.50:25461/live/Martine/Martine/4778.ts
+#EXTINF:-1, group-title="Canais Premium 3", SexZone
+http://212.8.248.50:25461/live/Martine/Martine/5061.ts
+#EXTINF:-1, group-title="Canais Premium 3", Playboy TV
+http://212.8.248.50:25461/live/Martine/Martine/55.ts
+#EXTINF:-1, group-title="Canais Premium 3", Playboy FHD
+http://212.8.248.50:25461/live/Martine/Martine/11093.ts
+#EXTINF:-1, group-title="Canais Premium 3", Playboy TV HD Principal
+http://212.8.248.50:25461/live/Martine/Martine/2045.ts
+#EXTINF:-1, group-title="Canais Premium 3", Playboy TV HD
+http://212.8.248.50:25461/live/Martine/Martine/10756.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sextreme
+http://212.8.248.50:25461/live/Martine/Martine/35.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sextreme Principal
+http://212.8.248.50:25461/live/Martine/Martine/2026.ts
+#EXTINF:-1, group-title="Canais Premium 3", Venus HD
+http://212.8.248.50:25461/live/Martine/Martine/1200.ts
+#EXTINF:-1, group-title="Canais Premium 3", Venus Principal
+http://212.8.248.50:25461/live/Martine/Martine/2009.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sexy Hot Principal
+http://212.8.248.50:25461/live/Martine/Martine/2025.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sexy Hot
+http://212.8.248.50:25461/live/Martine/Martine/34.ts
+#EXTINF:-1, group-title="Canais Premium 3", Brasileirinhas
+http://212.8.248.50:25461/live/Martine/Martine/9938.ts
+#EXTINF:-1, group-title="Canais Premium 3", HOT HD
+http://212.8.248.50:25461/live/Martine/Martine/1204.ts
+#EXTINF:-1, group-title="Canais Premium 3", Hustler HD
+http://212.8.248.50:25461/live/Martine/Martine/1205.ts
+#EXTINF:-1, group-title="Canais Premium 3", Redlight HD
+http://212.8.248.50:25461/live/Martine/Martine/1201.ts
+#EXTINF:-1, group-title="Canais Premium 3", Dorcel HD
+http://212.8.248.50:25461/live/Martine/Martine/1203.ts
+#EXTINF:-1, group-title="Canais Premium 3", Dusk
+http://212.8.248.50:25461/live/Martine/Martine/1206.ts
+#EXTINF:-1, group-title="Canais Premium 3", Penthouse HD1
+http://212.8.248.50:25461/live/Martine/Martine/1202.ts
+#EXTINF:-1, group-title="Canais Premium 3", PinkoTV
+http://212.8.248.50:25461/live/Martine/Martine/4939.ts
+#EXTINF:-1, group-title="Canais Premium 3", Meiden Van Holland Hard
+http://212.8.248.50:25461/live/Martine/Martine/4921.ts
+#EXTINF:-1, group-title="Canais Premium 3", Reality Kings TV
+http://212.8.248.50:25461/live/Martine/Martine/4940.ts
+#EXTINF:-1, group-title="Canais Premium 3", Evil Angel HD
+http://212.8.248.50:25461/live/Martine/Martine/4941.ts
+#EXTINF:-1, group-title="Canais Premium 3", XMuvi
+http://212.8.248.50:25461/live/Martine/Martine/4942.ts
+#EXTINF:-1, group-title="Canais Premium 3", GolTV
+http://212.8.248.50:25461/live/Martine/Martine/4943.ts
+#EXTINF:-1, group-title="Canais Premium 3", XXL
+http://212.8.248.50:25461/live/Martine/Martine/4918.ts
+#EXTINF:-1, group-title="Canais Premium 3", SCT
+http://212.8.248.50:25461/live/Martine/Martine/4923.ts
+#EXTINF:-1, group-title="Canais Premium 3", Brazzers TV Europe
+http://212.8.248.50:25461/live/Martine/Martine/4920.ts
+#EXTINF:-1, group-title="Canais Premium 3", CentoXCento
+http://212.8.248.50:25461/live/Martine/Martine/4919.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sext6senso
+http://212.8.248.50:25461/live/Martine/Martine/4917.ts
+#EXTINF:-1, group-title="Canais Premium 3", X-Mo
+http://212.8.248.50:25461/live/Martine/Martine/8788.ts
+#EXTINF:-1, group-title="Canais Premium 3", CBN
+http://212.8.248.50:25461/live/Martine/Martine/985.ts
+#EXTINF:-1, group-title="Canais Premium 3", Mega FM
+http://212.8.248.50:25461/live/Martine/Martine/984.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rádio Globo SP
+http://212.8.248.50:25461/live/Martine/Martine/983.ts
+#EXTINF:-1, group-title="Canais Premium 3", BH FM
+http://212.8.248.50:25461/live/Martine/Martine/982.ts
+#EXTINF:-1, group-title="Canais Premium 3", Jovem Pan AM
+http://212.8.248.50:25461/live/Martine/Martine/981.ts
+#EXTINF:-1, group-title="Canais Premium 3", Jovem Pan FM
+http://212.8.248.50:25461/live/Martine/Martine/980.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rádio Gaúcha
+http://212.8.248.50:25461/live/Martine/Martine/979.ts
+#EXTINF:-1, group-title="Canais Premium 3", RFI
+http://212.8.248.50:25461/live/Martine/Martine/978.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rádio Globo RJ
+http://212.8.248.50:25461/live/Martine/Martine/977.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rádio Disney
+http://212.8.248.50:25461/live/Martine/Martine/5039.ts
+#EXTINF:-1, group-title="Canais Premium 3", Transamérica
+http://212.8.248.50:25461/live/Martine/Martine/976.ts
+#EXTINF:-1, group-title="Canais Premium 3", Nativa
+http://212.8.248.50:25461/live/Martine/Martine/975.ts
+#EXTINF:-1, group-title="Canais Premium 3", BandNews FM
+http://212.8.248.50:25461/live/Martine/Martine/974.ts
+#EXTINF:-1, group-title="Canais Premium 3", Itatiaia AM-FM
+http://212.8.248.50:25461/live/Martine/Martine/973.ts
+#EXTINF:-1, group-title="Canais Premium 3", Verdes Mares
+http://212.8.248.50:25461/live/Martine/Martine/972.ts
+#EXTINF:-1, group-title="Canais Premium 3", Clube FM
+http://212.8.248.50:25461/live/Martine/Martine/971.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rádio Bandeirantes
+http://212.8.248.50:25461/live/Martine/Martine/970.ts
+#EXTINF:-1, group-title="Canais Premium 3", Band FM
+http://212.8.248.50:25461/live/Martine/Martine/969.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBA Radio (USA)
+http://212.8.248.50:25461/live/Martine/Martine/8557.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Deportes (USA)
+http://212.8.248.50:25461/live/Martine/Martine/8556.ts
+#EXTINF:-1, group-title="Canais Premium 3", ESPN Radio (USA)
+http://212.8.248.50:25461/live/Martine/Martine/8554.ts
+#EXTINF:-1, group-title="Canais Premium 3", NBC Sports Radio (USA)
+http://212.8.248.50:25461/live/Martine/Martine/8558.ts
+#EXTINF:-1, group-title="Canais Premium 3", TSN 1200 - Ottawa (CA)
+http://212.8.248.50:25461/live/Martine/Martine/8560.ts
+#EXTINF:-1, group-title="Canais Premium 3", Kids
+http://212.8.248.50:25461/live/Martine/Martine/557.ts
+#EXTINF:-1, group-title="Canais Premium 3", MPB
+http://212.8.248.50:25461/live/Martine/Martine/556.ts
+#EXTINF:-1, group-title="Canais Premium 3", Bossa Nova
+http://212.8.248.50:25461/live/Martine/Martine/555.ts
+#EXTINF:-1, group-title="Canais Premium 3", Forró
+http://212.8.248.50:25461/live/Martine/Martine/554.ts
+#EXTINF:-1, group-title="Canais Premium 3", Pagode
+http://212.8.248.50:25461/live/Martine/Martine/553.ts
+#EXTINF:-1, group-title="Canais Premium 3", Anos 2000
+http://212.8.248.50:25461/live/Martine/Martine/552.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sertanejo
+http://212.8.248.50:25461/live/Martine/Martine/551.ts
+#EXTINF:-1, group-title="Canais Premium 3", Funk
+http://212.8.248.50:25461/live/Martine/Martine/550.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rock Clássico
+http://212.8.248.50:25461/live/Martine/Martine/549.ts
+#EXTINF:-1, group-title="Canais Premium 3", Lounge
+http://212.8.248.50:25461/live/Martine/Martine/548.ts
+#EXTINF:-1, group-title="Canais Premium 3", Pop Rock
+http://212.8.248.50:25461/live/Martine/Martine/547.ts
+#EXTINF:-1, group-title="Canais Premium 3", Anos 70
+http://212.8.248.50:25461/live/Martine/Martine/546.ts
+#EXTINF:-1, group-title="Canais Premium 3", Anos 80
+http://212.8.248.50:25461/live/Martine/Martine/545.ts
+#EXTINF:-1, group-title="Canais Premium 3", Anos 90
+http://212.8.248.50:25461/live/Martine/Martine/544.ts
+#EXTINF:-1, group-title="Canais Premium 3", Românticas
+http://212.8.248.50:25461/live/Martine/Martine/543.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rap Nacional
+http://212.8.248.50:25461/live/Martine/Martine/542.ts
+#EXTINF:-1, group-title="Canais Premium 3", Rock Brasil
+http://212.8.248.50:25461/live/Martine/Martine/541.ts
+#EXTINF:-1, group-title="Canais Premium 3", Eletrônica
+http://212.8.248.50:25461/live/Martine/Martine/540.ts
+#EXTINF:-1, group-title="Canais Premium 3", Festa
+http://212.8.248.50:25461/live/Martine/Martine/539.ts
+#EXTINF:-1, group-title="Canais Premium 3", Gospel
+http://212.8.248.50:25461/live/Martine/Martine/538.ts
+#EXTINF:-1, group-title="Canais Premium 3", Hip Hop
+http://212.8.248.50:25461/live/Martine/Martine/537.ts
+#EXTINF:-1, group-title="Canais Premium 3", Jazz
+http://212.8.248.50:25461/live/Martine/Martine/536.ts
+#EXTINF:-1, group-title="Canais Premium 3", Axé
+http://212.8.248.50:25461/live/Martine/Martine/535.ts
+#EXTINF:-1, group-title="Canais Premium 3", Brega
+http://212.8.248.50:25461/live/Martine/Martine/534.ts
+#EXTINF:-1, group-title="Canais Premium 3", Música Clássica
+http://212.8.248.50:25461/live/Martine/Martine/533.ts
+#EXTINF:-1, group-title="Canais Premium 3", New Rock
+http://212.8.248.50:25461/live/Martine/Martine/532.ts
+#EXTINF:-1, group-title="Canais Premium 3", Reggae
+http://212.8.248.50:25461/live/Martine/Martine/531.ts
+#EXTINF:-1, group-title="Canais Premium 3", Sertanejo Universitário
+http://212.8.248.50:25461/live/Martine/Martine/530.ts
+#EXTINF:-1, group-title="Canais Premium 3", Samba de Raiz
+http://212.8.248.50:25461/live/Martine/Martine/529.ts
+#EXTINF:-1, group-title="Canais Premium 3", Pop Hits
+http://212.8.248.50:25461/live/Martine/Martine/528.ts
+#EXTINF:-1, group-title="Canais Premium 3", Metal
+http://212.8.248.50:25461/live/Martine/Martine/527.ts
+#EXTINF:-1, group-title="Canais Premium 3", Trilhas Sonoras
+http://212.8.248.50:25461/live/Martine/Martine/526.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H 101 Dalmatas
+http://212.8.248.50:25461/live/Martine/Martine/9092.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H 3Palavrinhas
+http://212.8.248.50:25461/live/Martine/Martine/8563.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H 3Palavrinhas - Hora de Dormir
+http://212.8.248.50:25461/live/Martine/Martine/8564.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Bruxinha Sabrina
+http://212.8.248.50:25461/live/Martine/Martine/9091.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Familia Addams
+http://212.8.248.50:25461/live/Martine/Martine/9090.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Mansao Foster Para Amigos Imaginarios
+http://212.8.248.50:25461/live/Martine/Martine/9089.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Nossa Turma
+http://212.8.248.50:25461/live/Martine/Martine/9088.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Pantera Cor de Rosa
+http://212.8.248.50:25461/live/Martine/Martine/9158.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Pequena Sereia
+http://212.8.248.50:25461/live/Martine/Martine/9087.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Turma Do Pateta
+http://212.8.248.50:25461/live/Martine/Martine/9085.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Turma do Pernalonga
+http://212.8.248.50:25461/live/Martine/Martine/8846.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Vaca e o Frango
+http://212.8.248.50:25461/live/Martine/Martine/9084.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H A Vida Moderna De Rocko
+http://212.8.248.50:25461/live/Martine/Martine/9083.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Aladdin
+http://212.8.248.50:25461/live/Martine/Martine/10447.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Animaniacs
+http://212.8.248.50:25461/live/Martine/Martine/9082.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Arrow T1
+http://212.8.248.50:25461/live/Martine/Martine/8841.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Arrow T2
+http://212.8.248.50:25461/live/Martine/Martine/8840.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Arrow T3
+http://212.8.248.50:25461/live/Martine/Martine/8839.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Arrow T4
+http://212.8.248.50:25461/live/Martine/Martine/8838.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Arrow T5
+http://212.8.248.50:25461/live/Martine/Martine/8837.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H As Aventuras de Jackie Chan
+http://212.8.248.50:25461/live/Martine/Martine/6206.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H As Meninas Super Poderosas
+http://212.8.248.50:25461/live/Martine/Martine/8844.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H As Terriveis Aventuras de Billy e Mandy
+http://212.8.248.50:25461/live/Martine/Martine/9157.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H As Trapalhadas De Flapjack
+http://212.8.248.50:25461/live/Martine/Martine/9081.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Backyardigans
+http://212.8.248.50:25461/live/Martine/Martine/9948.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Bakugan
+http://212.8.248.50:25461/live/Martine/Martine/9080.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Ben 10
+http://212.8.248.50:25461/live/Martine/Martine/7836.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Beyblade
+http://212.8.248.50:25461/live/Martine/Martine/9079.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Bibo Pai E Bob Filho
+http://212.8.248.50:25461/live/Martine/Martine/9078.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Bicudo
+http://212.8.248.50:25461/live/Martine/Martine/9077.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Bob Esponja
+http://212.8.248.50:25461/live/Martine/Martine/6190.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Bob Zoom
+http://212.8.248.50:25461/live/Martine/Martine/9072.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Bucky Jibaku Kun
+http://212.8.248.50:25461/live/Martine/Martine/9076.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Buzz Lightyear do Comando Estelar
+http://212.8.248.50:25461/live/Martine/Martine/10446.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Cadillacs e Dinossauros
+http://212.8.248.50:25461/live/Martine/Martine/10445.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Caillou
+http://212.8.248.50:25461/live/Martine/Martine/5109.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Cameras Escondidas
+http://212.8.248.50:25461/live/Martine/Martine/9951.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Capitao Planeta
+http://212.8.248.50:25461/live/Martine/Martine/10444.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Carmen Sandiego
+http://212.8.248.50:25461/live/Martine/Martine/10443.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Castelo Ra-Tim-Bum
+http://212.8.248.50:25461/live/Martine/Martine/9075.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Caverna do Dragao
+http://212.8.248.50:25461/live/Martine/Martine/5114.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Changeman
+http://212.8.248.50:25461/live/Martine/Martine/9939.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Charlie Brown e Snoopy
+http://212.8.248.50:25461/live/Martine/Martine/9086.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Chaves
+http://212.8.248.50:25461/live/Martine/Martine/7837.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Classicos Disney
+http://212.8.248.50:25461/live/Martine/Martine/6197.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Clifford Meu Gigante Cao Vermelho
+http://212.8.248.50:25461/live/Martine/Martine/9074.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Coelho Ricochete
+http://212.8.248.50:25461/live/Martine/Martine/9073.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Contos Da Crypta
+http://212.8.248.50:25461/live/Martine/Martine/9071.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Coragem O Cao Covarde
+http://212.8.248.50:25461/live/Martine/Martine/9070.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Corrida Espacial
+http://212.8.248.50:25461/live/Martine/Martine/9069.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Corrida Maluca
+http://212.8.248.50:25461/live/Martine/Martine/9068.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Corrida Maluca (2)
+http://212.8.248.50:25461/live/Martine/Martine/6210.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Denis o Pimentinha
+http://212.8.248.50:25461/live/Martine/Martine/9067.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Desenhos Biblicos
+http://212.8.248.50:25461/live/Martine/Martine/5110.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Desenhos Warner
+http://212.8.248.50:25461/live/Martine/Martine/8843.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Digimon
+http://212.8.248.50:25461/live/Martine/Martine/6247.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dois Homens e Meio T1 - T4
+http://212.8.248.50:25461/live/Martine/Martine/6184.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dois Homens e Meio T5 - T8
+http://212.8.248.50:25461/live/Martine/Martine/7855.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dois Homens e Meio T9 - T12
+http://212.8.248.50:25461/live/Martine/Martine/8562.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Don Dracula
+http://212.8.248.50:25461/live/Martine/Martine/9066.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dora A Aventureira
+http://212.8.248.50:25461/live/Martine/Martine/9065.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T1
+http://212.8.248.50:25461/live/Martine/Martine/9119.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T2
+http://212.8.248.50:25461/live/Martine/Martine/9118.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T3
+http://212.8.248.50:25461/live/Martine/Martine/9117.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T4
+http://212.8.248.50:25461/live/Martine/Martine/9116.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T5
+http://212.8.248.50:25461/live/Martine/Martine/9115.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T6
+http://212.8.248.50:25461/live/Martine/Martine/9114.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T7
+http://212.8.248.50:25461/live/Martine/Martine/9113.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dr. House T8
+http://212.8.248.50:25461/live/Martine/Martine/9112.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball
+http://212.8.248.50:25461/live/Martine/Martine/6159.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Filmes
+http://212.8.248.50:25461/live/Martine/Martine/9156.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball GT
+http://212.8.248.50:25461/live/Martine/Martine/9110.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Super
+http://212.8.248.50:25461/live/Martine/Martine/5113.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga de Cell
+http://212.8.248.50:25461/live/Martine/Martine/9064.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga de Freeza
+http://212.8.248.50:25461/live/Martine/Martine/9063.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga de Garlic Jr
+http://212.8.248.50:25461/live/Martine/Martine/9062.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga de Majin Boo
+http://212.8.248.50:25461/live/Martine/Martine/9061.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga do Torneio do Outro Mundo
+http://212.8.248.50:25461/live/Martine/Martine/9059.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga dos Androides
+http://212.8.248.50:25461/live/Martine/Martine/9060.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Dragon Ball Z Saga dos Sayajins
+http://212.8.248.50:25461/live/Martine/Martine/9058.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Drake & Josh
+http://212.8.248.50:25461/live/Martine/Martine/9057.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Droopy Dog
+http://212.8.248.50:25461/live/Martine/Martine/8842.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Duck Tales
+http://212.8.248.50:25461/live/Martine/Martine/9056.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Ducktales
+http://212.8.248.50:25461/live/Martine/Martine/8847.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Eek! The Cat
+http://212.8.248.50:25461/live/Martine/Martine/9055.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Escolinha do Prof Raimundo
+http://212.8.248.50:25461/live/Martine/Martine/9470.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Esquilo Sem Grilo
+http://212.8.248.50:25461/live/Martine/Martine/9054.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Eu a Patroa e as Criancas T1
+http://212.8.248.50:25461/live/Martine/Martine/8590.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Eu a Patroa e as Criancas T2
+http://212.8.248.50:25461/live/Martine/Martine/8589.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Eu a Patroa e as Criancas T3
+http://212.8.248.50:25461/live/Martine/Martine/8588.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Eu a Patroa e as Criancas T4
+http://212.8.248.50:25461/live/Martine/Martine/8587.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Eu a Patroa e as Criancas T5
+http://212.8.248.50:25461/live/Martine/Martine/8586.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Fabulas Da Disney
+http://212.8.248.50:25461/live/Martine/Martine/9053.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Familia Dinossauro
+http://212.8.248.50:25461/live/Martine/Martine/10442.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Flash T1
+http://212.8.248.50:25461/live/Martine/Martine/8836.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Flash T2
+http://212.8.248.50:25461/live/Martine/Martine/8835.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Flash T3
+http://212.8.248.50:25461/live/Martine/Martine/8834.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Formiga Atomica
+http://212.8.248.50:25461/live/Martine/Martine/9052.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Frankenstein Junior
+http://212.8.248.50:25461/live/Martine/Martine/9051.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Freakazoid
+http://212.8.248.50:25461/live/Martine/Martine/9050.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Funk
+http://212.8.248.50:25461/live/Martine/Martine/9159.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Futurama
+http://212.8.248.50:25461/live/Martine/Martine/6196.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Galaxy Rangers
+http://212.8.248.50:25461/live/Martine/Martine/10441.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Galinha Pintadinha
+http://212.8.248.50:25461/live/Martine/Martine/6182.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Garfield e Seus Amigos
+http://212.8.248.50:25461/live/Martine/Martine/9947.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Gato Felix
+http://212.8.248.50:25461/live/Martine/Martine/9155.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Go Diego Go
+http://212.8.248.50:25461/live/Martine/Martine/10111.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Gospel
+http://212.8.248.50:25461/live/Martine/Martine/9584.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Gundam Wing
+http://212.8.248.50:25461/live/Martine/Martine/9049.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Hamtaro
+http://212.8.248.50:25461/live/Martine/Martine/9048.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Hercules
+http://212.8.248.50:25461/live/Martine/Martine/9005.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Homem Passaro
+http://212.8.248.50:25461/live/Martine/Martine/9047.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Hot Wheels Battle Force 5
+http://212.8.248.50:25461/live/Martine/Martine/9046.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Ilha Dos Desafios
+http://212.8.248.50:25461/live/Martine/Martine/9045.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Invasor Zim
+http://212.8.248.50:25461/live/Martine/Martine/9946.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Irmao Do Jorel
+http://212.8.248.50:25461/live/Martine/Martine/9044.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Jambo e Ruivao
+http://212.8.248.50:25461/live/Martine/Martine/9043.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Jaspion
+http://212.8.248.50:25461/live/Martine/Martine/9945.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Johnny Bravo
+http://212.8.248.50:25461/live/Martine/Martine/9042.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Johnny Test
+http://212.8.248.50:25461/live/Martine/Martine/5103.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Jonny Quest
+http://212.8.248.50:25461/live/Martine/Martine/9041.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Josie e as Gatinhas
+http://212.8.248.50:25461/live/Martine/Martine/10440.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Jubei Chan The Ninja Girl
+http://212.8.248.50:25461/live/Martine/Martine/9040.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Juca Bala e Ze Bolha
+http://212.8.248.50:25461/live/Martine/Martine/7823.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Kenan E Kel
+http://212.8.248.50:25461/live/Martine/Martine/9039.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Kick Buttowski
+http://212.8.248.50:25461/live/Martine/Martine/9038.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H KND A Turma Do Bairro
+http://212.8.248.50:25461/live/Martine/Martine/9037.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Larva
+http://212.8.248.50:25461/live/Martine/Martine/10112.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Looney Tunes
+http://212.8.248.50:25461/live/Martine/Martine/9109.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Lula Lele
+http://212.8.248.50:25461/live/Martine/Martine/9036.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Luluzinha
+http://212.8.248.50:25461/live/Martine/Martine/6180.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Manda Chuva
+http://212.8.248.50:25461/live/Martine/Martine/9035.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Manual de Sobrevivencia Escolar Do Ned
+http://212.8.248.50:25461/live/Martine/Martine/9034.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Masha e o Urso
+http://212.8.248.50:25461/live/Martine/Martine/10116.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H MasterChef
+http://212.8.248.50:25461/live/Martine/Martine/9569.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Medabots
+http://212.8.248.50:25461/live/Martine/Martine/9033.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Megaman
+http://212.8.248.50:25461/live/Martine/Martine/9032.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Megas XRL
+http://212.8.248.50:25461/live/Martine/Martine/9031.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Meu Melhor Amigo Da Escola E Um Macaco
+http://212.8.248.50:25461/live/Martine/Martine/9030.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H MIB - Homens de Preto
+http://212.8.248.50:25461/live/Martine/Martine/10439.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mickey e Donald
+http://212.8.248.50:25461/live/Martine/Martine/6158.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mortal Kombat
+http://212.8.248.50:25461/live/Martine/Martine/9029.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mosquito Mosquete e Moscardo
+http://212.8.248.50:25461/live/Martine/Martine/10438.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mucha Lucha
+http://212.8.248.50:25461/live/Martine/Martine/9027.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Mundo Bita
+http://212.8.248.50:25461/live/Martine/Martine/8552.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Naruto
+http://212.8.248.50:25461/live/Martine/Martine/7811.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H O Acampamento De Lazlo
+http://212.8.248.50:25461/live/Martine/Martine/9026.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H O Inspetor
+http://212.8.248.50:25461/live/Martine/Martine/9025.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H O Maskara
+http://212.8.248.50:25461/live/Martine/Martine/9024.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H O Onibus Magico
+http://212.8.248.50:25461/live/Martine/Martine/9023.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H O Show da Luna
+http://212.8.248.50:25461/live/Martine/Martine/10115.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H O Show Do Ze Colmeia
+http://212.8.248.50:25461/live/Martine/Martine/9021.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Castores Pirados
+http://212.8.248.50:25461/live/Martine/Martine/9020.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Cavaleiros do Zodiaco Lost Canvas
+http://212.8.248.50:25461/live/Martine/Martine/8591.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Cavaleiros dos Zodiaco Saga As Doze Casas
+http://212.8.248.50:25461/live/Martine/Martine/6161.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Cavaleiros dos Zodiaco Saga De Asgard
+http://212.8.248.50:25461/live/Martine/Martine/7296.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Cavaleiros dos Zodiaco Saga De Hades
+http://212.8.248.50:25461/live/Martine/Martine/7414.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Cavaleiros dos Zodiaco Saga De Poseidon
+http://212.8.248.50:25461/live/Martine/Martine/7297.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Jetsons
+http://212.8.248.50:25461/live/Martine/Martine/9019.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Oblongs
+http://212.8.248.50:25461/live/Martine/Martine/8995.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Simpsons
+http://212.8.248.50:25461/live/Martine/Martine/5119.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Super Patos
+http://212.8.248.50:25461/live/Martine/Martine/9018.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Trapalhoes
+http://212.8.248.50:25461/live/Martine/Martine/6162.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Trapalhoes Filmes
+http://212.8.248.50:25461/live/Martine/Martine/8831.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Ursinhos Gummi
+http://212.8.248.50:25461/live/Martine/Martine/10437.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Os Valentes Cowboys De Moo Mesa
+http://212.8.248.50:25461/live/Martine/Martine/9017.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Padrinhos Magicos
+http://212.8.248.50:25461/live/Martine/Martine/9108.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Pagode
+http://212.8.248.50:25461/live/Martine/Martine/9471.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Panico - Entrevistas
+http://212.8.248.50:25461/live/Martine/Martine/10110.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Panico - WebBullyng
+http://212.8.248.50:25461/live/Martine/Martine/10109.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Papa-Leguas e E Coyote
+http://212.8.248.50:25461/live/Martine/Martine/9007.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Patrulha Canina
+http://212.8.248.50:25461/live/Martine/Martine/8561.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Patrulha Estelar
+http://212.8.248.50:25461/live/Martine/Martine/9016.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Perdidos no Espaco
+http://212.8.248.50:25461/live/Martine/Martine/10436.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Phineas e Ferb
+http://212.8.248.50:25461/live/Martine/Martine/7807.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Pica-Pau
+http://212.8.248.50:25461/live/Martine/Martine/9022.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Pica-Pau Classico
+http://212.8.248.50:25461/live/Martine/Martine/9014.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Pinky E Cerebro
+http://212.8.248.50:25461/live/Martine/Martine/9013.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Planet Survival
+http://212.8.248.50:25461/live/Martine/Martine/9012.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Pocoyo
+http://212.8.248.50:25461/live/Martine/Martine/10114.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Policia 24h
+http://212.8.248.50:25461/live/Martine/Martine/9950.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Popeye
+http://212.8.248.50:25461/live/Martine/Martine/9011.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers 1
+http://212.8.248.50:25461/live/Martine/Martine/9583.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers 2
+http://212.8.248.50:25461/live/Martine/Martine/9582.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers 3
+http://212.8.248.50:25461/live/Martine/Martine/9581.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers Dino Trovao
+http://212.8.248.50:25461/live/Martine/Martine/9580.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers Galaxia Perdida
+http://212.8.248.50:25461/live/Martine/Martine/9579.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers Super Patrulha Delta
+http://212.8.248.50:25461/live/Martine/Martine/9578.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers Tempestade Ninja
+http://212.8.248.50:25461/live/Martine/Martine/9577.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers Turbo
+http://212.8.248.50:25461/live/Martine/Martine/9576.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Rangers Zeo
+http://212.8.248.50:25461/live/Martine/Martine/9575.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Power Stone
+http://212.8.248.50:25461/live/Martine/Martine/9944.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Projeto Zeta
+http://212.8.248.50:25461/live/Martine/Martine/9010.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Rap
+http://212.8.248.50:25461/live/Martine/Martine/10104.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Recruta Zero
+http://212.8.248.50:25461/live/Martine/Martine/9009.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Riquinho
+http://212.8.248.50:25461/live/Martine/Martine/9008.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Rocket Power
+http://212.8.248.50:25461/live/Martine/Martine/10435.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Sakura Card Captors
+http://212.8.248.50:25461/live/Martine/Martine/9943.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Samurai Warriors
+http://212.8.248.50:25461/live/Martine/Martine/9006.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Scooby Doo!
+http://212.8.248.50:25461/live/Martine/Martine/7810.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Sertanejo Universitario
+http://212.8.248.50:25461/live/Martine/Martine/9111.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Shaman King
+http://212.8.248.50:25461/live/Martine/Martine/9004.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H She-Ra
+http://212.8.248.50:25461/live/Martine/Martine/10108.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Shinzo
+http://212.8.248.50:25461/live/Martine/Martine/9003.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Shurato
+http://212.8.248.50:25461/live/Martine/Martine/9002.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Silverhawks
+http://212.8.248.50:25461/live/Martine/Martine/9001.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Sitio do Picapau Amarelo Classico
+http://212.8.248.50:25461/live/Martine/Martine/9949.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H South Park
+http://212.8.248.50:25461/live/Martine/Martine/6195.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Space Gost
+http://212.8.248.50:25461/live/Martine/Martine/9000.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Steven Universe
+http://212.8.248.50:25461/live/Martine/Martine/10107.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Super Choque
+http://212.8.248.50:25461/live/Martine/Martine/9154.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Super Herois DC
+http://212.8.248.50:25461/live/Martine/Martine/10106.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Super Mario Bros 3
+http://212.8.248.50:25461/live/Martine/Martine/8999.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tartaruga Touche e Dum Dum
+http://212.8.248.50:25461/live/Martine/Martine/8998.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tarzan
+http://212.8.248.50:25461/live/Martine/Martine/8997.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Taz-Mania
+http://212.8.248.50:25461/live/Martine/Martine/8996.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Teletubbies
+http://212.8.248.50:25461/live/Martine/Martine/5112.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H The Big Bang Theory T1 - T4
+http://212.8.248.50:25461/live/Martine/Martine/6244.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H The Big Bang Theory T5 - T8
+http://212.8.248.50:25461/live/Martine/Martine/8565.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H The Big Bang Theory T9 - T11
+http://212.8.248.50:25461/live/Martine/Martine/9586.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H The Noite
+http://212.8.248.50:25461/live/Martine/Martine/9941.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H The Noite - Entrevistas
+http://212.8.248.50:25461/live/Martine/Martine/9940.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Thundercats
+http://212.8.248.50:25461/live/Martine/Martine/8994.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tico e Teco
+http://212.8.248.50:25461/live/Martine/Martine/6204.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Timao e Pumba
+http://212.8.248.50:25461/live/Martine/Martine/8993.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Todo Mundo Odeia o Chris T1
+http://212.8.248.50:25461/live/Martine/Martine/5107.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Todo Mundo Odeia o Chris T2
+http://212.8.248.50:25461/live/Martine/Martine/7421.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Todo Mundo Odeia o Chris T3
+http://212.8.248.50:25461/live/Martine/Martine/7423.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Todo Mundo Odeia o Chris T4
+http://212.8.248.50:25461/live/Martine/Martine/7424.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tom & Jerry
+http://212.8.248.50:25461/live/Martine/Martine/8992.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tres Espias Demais
+http://212.8.248.50:25461/live/Martine/Martine/9153.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tunel do Tempo
+http://212.8.248.50:25461/live/Martine/Martine/8991.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Turma da Monica
+http://212.8.248.50:25461/live/Martine/Martine/5111.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Tutubarao
+http://212.8.248.50:25461/live/Martine/Martine/8990.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Um Maluco no Pedaco
+http://212.8.248.50:25461/live/Martine/Martine/6181.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Uma Familia da Pesada
+http://212.8.248.50:25461/live/Martine/Martine/6160.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Ursinhos Carinhos
+http://212.8.248.50:25461/live/Martine/Martine/8989.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Vai que Cola T1
+http://212.8.248.50:25461/live/Martine/Martine/9574.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Vai que Cola T2
+http://212.8.248.50:25461/live/Martine/Martine/9573.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Vai que Cola T3
+http://212.8.248.50:25461/live/Martine/Martine/9572.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Vai que Cola T4
+http://212.8.248.50:25461/live/Martine/Martine/9571.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Vai que Cola T5
+http://212.8.248.50:25461/live/Martine/Martine/9570.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Vale dos Dinossauros
+http://212.8.248.50:25461/live/Martine/Martine/8988.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Wally Gator
+http://212.8.248.50:25461/live/Martine/Martine/8987.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Winspector
+http://212.8.248.50:25461/live/Martine/Martine/10105.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Xuxa So Para Baixinhos
+http://212.8.248.50:25461/live/Martine/Martine/8553.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Yuyu Hakusho
+http://212.8.248.50:25461/live/Martine/Martine/9942.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Zatch Bell
+http://212.8.248.50:25461/live/Martine/Martine/8986.ts
+#EXTINF:-1, group-title="Canais Premium 3", 24H Ze Buscape
+http://212.8.248.50:25461/live/Martine/Martine/8985.ts
+#EXTINF:-1, group-title="Canais Premium 3", (500) Dias com Ela (2009)
+http://212.8.248.50:25461/movie/Martine/Martine/11251.mp4
+#EXTINF:-1, group-title="Canais Premium 3", +Velozes +Furiosos (2003)
+http://212.8.248.50:25461/movie/Martine/Martine/8574.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 1 - O Planeta dos Macacos (1968)
+http://212.8.248.50:25461/movie/Martine/Martine/8824.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 101 Dálmatas (1996)
+http://212.8.248.50:25461/movie/Martine/Martine/8908.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 101 Dálmatas 2 - A Aventura de Patch em Londres (2003)
+http://212.8.248.50:25461/movie/Martine/Martine/8907.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 12 Anos De Escravidao (2013)
+http://212.8.248.50:25461/movie/Martine/Martine/11892.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 12 Herois (2018)
+http://212.8.248.50:25461/movie/Martine/Martine/10028.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 12 Rounds 3: Confinamento (2015)
+http://212.8.248.50:25461/movie/Martine/Martine/8041.mp4
+#EXTINF:-1, group-title="Canais Premium 3", 15h17 - Trem para Paris (2018)
+http://212.8.248.50:25461/movie/Martine/Martine/8803.mp4
 
