@@ -7047,3 +7047,1905 @@ http://painel.iptvmove.com:8880/live/0366/0366/9161.ts
 http://painel.iptvmove.com:8880/live/0366/0366/8191.ts
 #EXTINF:-1, group-title="Canais Premium 4", WOOHOO HD [Alter]
 http://painel.iptvmove.com:8880/live/0366/0366/9160.ts
+
+
+#EXTM3U
+#EXTINF:-1, group-title="Canais Premium 6", A&E
+http://sspitv.liss.fun:8880/live/dou/dou/2346.ts
+#EXTINF:-1, group-title="Canais Premium 6", A&E [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13681.ts
+#EXTINF:-1, group-title="Canais Premium 6", A&E [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7495.ts
+#EXTINF:-1, group-title="Canais Premium 6", A&E HD
+http://sspitv.liss.fun:8880/live/dou/dou/7088.ts
+#EXTINF:-1, group-title="Canais Premium 6", A&E HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13682.ts
+#EXTINF:-1, group-title="Canais Premium 6", A&E HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7494.ts
+#EXTINF:-1, group-title="Canais Premium 6", Agro Canal
+http://sspitv.liss.fun:8880/live/dou/dou/11206.ts
+#EXTINF:-1, group-title="Canais Premium 6", AMC
+http://sspitv.liss.fun:8880/live/dou/dou/2345.ts
+#EXTINF:-1, group-title="Canais Premium 6", AMC [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13683.ts
+#EXTINF:-1, group-title="Canais Premium 6", AMC [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7493.ts
+#EXTINF:-1, group-title="Canais Premium 6", AMC HD
+http://sspitv.liss.fun:8880/live/dou/dou/2344.ts
+#EXTINF:-1, group-title="Canais Premium 6", AMC HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13686.ts
+#EXTINF:-1, group-title="Canais Premium 6", AMC HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7492.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal  Planet FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7151.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal Planet
+http://sspitv.liss.fun:8880/live/dou/dou/2343.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal Planet [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13695.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal Planet [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7491.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal Planet HD
+http://sspitv.liss.fun:8880/live/dou/dou/2342.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal Planet HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13696.ts
+#EXTINF:-1, group-title="Canais Premium 6", Animal Planet HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7490.ts
+#EXTINF:-1, group-title="Canais Premium 6", Aparecida
+http://sspitv.liss.fun:8880/live/dou/dou/2341.ts
+#EXTINF:-1, group-title="Canais Premium 6", Arte 1
+http://sspitv.liss.fun:8880/live/dou/dou/2339.ts
+#EXTINF:-1, group-title="Canais Premium 6", Arte 1 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7489.ts
+#EXTINF:-1, group-title="Canais Premium 6", Arte 1 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7488.ts
+#EXTINF:-1, group-title="Canais Premium 6", AXN
+http://sspitv.liss.fun:8880/live/dou/dou/2338.ts
+#EXTINF:-1, group-title="Canais Premium 6", AXN [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13697.ts
+#EXTINF:-1, group-title="Canais Premium 6", AXN [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7487.ts
+#EXTINF:-1, group-title="Canais Premium 6", AXN HD
+http://sspitv.liss.fun:8880/live/dou/dou/2337.ts
+#EXTINF:-1, group-title="Canais Premium 6", AXN HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13698.ts
+#EXTINF:-1, group-title="Canais Premium 6", AXN HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7486.ts
+#EXTINF:-1, group-title="Canais Premium 6", Baby TV
+http://sspitv.liss.fun:8880/live/dou/dou/2336.ts
+#EXTINF:-1, group-title="Canais Premium 6", Baby TV [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7485.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band
+http://sspitv.liss.fun:8880/live/dou/dou/2335.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13699.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7484.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7188.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band HD
+http://sspitv.liss.fun:8880/live/dou/dou/2334.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13700.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7483.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band News
+http://sspitv.liss.fun:8880/live/dou/dou/2333.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band News [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13771.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band News [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7482.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band News FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7150.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band News HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13772.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band News HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7481.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band Sports
+http://sspitv.liss.fun:8880/live/dou/dou/2332.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band Sports [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13773.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band Sports [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7480.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band Sports HD
+http://sspitv.liss.fun:8880/live/dou/dou/2331.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band Sports HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13774.ts
+#EXTINF:-1, group-title="Canais Premium 6", Band Sports HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7479.ts
+#EXTINF:-1, group-title="Canais Premium 6", BIS
+http://sspitv.liss.fun:8880/live/dou/dou/2330.ts
+#EXTINF:-1, group-title="Canais Premium 6", BIS [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7478.ts
+#EXTINF:-1, group-title="Canais Premium 6", BIS FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7162.ts
+#EXTINF:-1, group-title="Canais Premium 6", BIS HD
+http://sspitv.liss.fun:8880/live/dou/dou/2329.ts
+#EXTINF:-1, group-title="Canais Premium 6", BIS HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7477.ts
+#EXTINF:-1, group-title="Canais Premium 6", Boa Vontade
+http://sspitv.liss.fun:8880/live/dou/dou/7476.ts
+#EXTINF:-1, group-title="Canais Premium 6", Boomerang
+http://sspitv.liss.fun:8880/live/dou/dou/2328.ts
+#EXTINF:-1, group-title="Canais Premium 6", Boomerang  FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7149.ts
+#EXTINF:-1, group-title="Canais Premium 6", Boomerang [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7475.ts
+#EXTINF:-1, group-title="Canais Premium 6", Boomerang HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7474.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal Brasil [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7473.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal Brasil HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7472.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal do Boi
+http://sspitv.liss.fun:8880/live/dou/dou/11574.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal Sony
+http://sspitv.liss.fun:8880/live/dou/dou/2325.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal Sony [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7471.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal Sony HD
+http://sspitv.liss.fun:8880/live/dou/dou/2324.ts
+#EXTINF:-1, group-title="Canais Premium 6", Canal Sony HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7470.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cancao Nova
+http://sspitv.liss.fun:8880/live/dou/dou/2323.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cancao Nova [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7469.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cartoon Network
+http://sspitv.liss.fun:8880/live/dou/dou/2322.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cartoon Network [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13701.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cartoon Network [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7468.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cartoon Network HD
+http://sspitv.liss.fun:8880/live/dou/dou/2321.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cartoon Network HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13702.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cartoon Network HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7467.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cine Sky
+http://sspitv.liss.fun:8880/live/dou/dou/9092.ts
+#EXTINF:-1, group-title="Canais Premium 6", CineMais
+http://sspitv.liss.fun:8880/live/dou/dou/9093.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinemax
+http://sspitv.liss.fun:8880/live/dou/dou/2320.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinemax [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7466.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinemax HD
+http://sspitv.liss.fun:8880/live/dou/dou/7089.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinemax HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7465.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate
+http://sspitv.liss.fun:8880/live/dou/dou/2319.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13630.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7464.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7187.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate HD
+http://sspitv.liss.fun:8880/live/dou/dou/2318.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13631.ts
+#EXTINF:-1, group-title="Canais Premium 6", Combate HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7463.ts
+#EXTINF:-1, group-title="Canais Premium 6", Comedy Central
+http://sspitv.liss.fun:8880/live/dou/dou/2317.ts
+#EXTINF:-1, group-title="Canais Premium 6", Comedy Central [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7462.ts
+#EXTINF:-1, group-title="Canais Premium 6", Comedy Central HD
+http://sspitv.liss.fun:8880/live/dou/dou/7098.ts
+#EXTINF:-1, group-title="Canais Premium 6", Comedy Central HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7461.ts
+#EXTINF:-1, group-title="Canais Premium 6", Curta
+http://sspitv.liss.fun:8880/live/dou/dou/7110.ts
+#EXTINF:-1, group-title="Canais Premium 6", Curta [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7460.ts
+#EXTINF:-1, group-title="Canais Premium 6", Curta HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7459.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel
+http://sspitv.liss.fun:8880/live/dou/dou/2316.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13703.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7458.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7163.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel HD
+http://sspitv.liss.fun:8880/live/dou/dou/2315.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13704.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Channel HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7457.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Civilization [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13705.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Civilization [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7456.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Civilization HD
+http://sspitv.liss.fun:8880/live/dou/dou/2130.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Civilization HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13706.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Civilization HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7455.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health
+http://sspitv.liss.fun:8880/live/dou/dou/2314.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13707.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7454.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7148.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health HD
+http://sspitv.liss.fun:8880/live/dou/dou/2313.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13708.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Home Health HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7453.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids
+http://sspitv.liss.fun:8880/live/dou/dou/2312.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13709.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7452.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7147.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids HD
+http://sspitv.liss.fun:8880/live/dou/dou/2146.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13710.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Kids HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7451.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Science [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13711.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Science [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7450.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Science HD
+http://sspitv.liss.fun:8880/live/dou/dou/2129.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Science HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13712.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Science HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7449.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Theater [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13713.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Theater [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7448.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Theater HD
+http://sspitv.liss.fun:8880/live/dou/dou/2311.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Theater HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13714.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Theater HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7447.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo
+http://sspitv.liss.fun:8880/live/dou/dou/2310.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13715.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7446.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7146.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo HD
+http://sspitv.liss.fun:8880/live/dou/dou/2309.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13716.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery Turbo HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7445.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery World  HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7443.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery World [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7444.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery World FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7145.ts
+#EXTINF:-1, group-title="Canais Premium 6", Discovery World HD
+http://sspitv.liss.fun:8880/live/dou/dou/2308.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Channel
+http://sspitv.liss.fun:8880/live/dou/dou/2307.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Channel [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7442.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Channel FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7161.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Channel HD
+http://sspitv.liss.fun:8880/live/dou/dou/2128.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Channel HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7441.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Junior
+http://sspitv.liss.fun:8880/live/dou/dou/2306.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Junior [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7440.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney Junior HD
+http://sspitv.liss.fun:8880/live/dou/dou/13795.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney XD
+http://sspitv.liss.fun:8880/live/dou/dou/2305.ts
+#EXTINF:-1, group-title="Canais Premium 6", Disney XD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7439.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dogtv
+http://sspitv.liss.fun:8880/live/dou/dou/7438.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dogtv HD
+http://sspitv.liss.fun:8880/live/dou/dou/7437.ts
+#EXTINF:-1, group-title="Canais Premium 6", E! Entertainment Television
+http://sspitv.liss.fun:8880/live/dou/dou/2304.ts
+#EXTINF:-1, group-title="Canais Premium 6", E! Entertainment Television [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7436.ts
+#EXTINF:-1, group-title="Canais Premium 6", E! Entertainment Television HD
+http://sspitv.liss.fun:8880/live/dou/dou/7090.ts
+#EXTINF:-1, group-title="Canais Premium 6", E! Entertainment Television HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7435.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN
+http://sspitv.liss.fun:8880/live/dou/dou/2303.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7434.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13956.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN HD
+http://sspitv.liss.fun:8880/live/dou/dou/2302.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7427.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13957.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN +
+http://sspitv.liss.fun:8880/live/dou/dou/7111.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN + HD
+http://sspitv.liss.fun:8880/live/dou/dou/7099.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN+  [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7433.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN + [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13960.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN + HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7432.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN + HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13961.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil
+http://sspitv.liss.fun:8880/live/dou/dou/2301.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7431.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13959.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil HD
+http://sspitv.liss.fun:8880/live/dou/dou/2300.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7430.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13958.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Brasil FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7172.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Extra
+http://sspitv.liss.fun:8880/live/dou/dou/7429.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Extra FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7136.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN Extra HD
+http://sspitv.liss.fun:8880/live/dou/dou/7428.ts
+#EXTINF:-1, group-title="Canais Premium 6", ESPN FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7160.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo
+http://sspitv.liss.fun:8880/live/dou/dou/2299.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7426.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo 2
+http://sspitv.liss.fun:8880/live/dou/dou/2298.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo 2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7424.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo 2 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7159.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo 2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2297.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7423.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo BR [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7422.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo BR FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7138.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo BR HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7421.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7158.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo HD
+http://sspitv.liss.fun:8880/live/dou/dou/2295.ts
+#EXTINF:-1, group-title="Canais Premium 6", Esporte Interativo HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7425.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fish TV
+http://sspitv.liss.fun:8880/live/dou/dou/2294.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fish TV [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7420.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fish TV HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7419.ts
+#EXTINF:-1, group-title="Canais Premium 6", Food Network
+http://sspitv.liss.fun:8880/live/dou/dou/2293.ts
+#EXTINF:-1, group-title="Canais Premium 6", Food Network [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13723.ts
+#EXTINF:-1, group-title="Canais Premium 6", Food Network [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7418.ts
+#EXTINF:-1, group-title="Canais Premium 6", Food Network HD
+http://sspitv.liss.fun:8880/live/dou/dou/2144.ts
+#EXTINF:-1, group-title="Canais Premium 6", Food Network HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13724.ts
+#EXTINF:-1, group-title="Canais Premium 6", Food Network HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7417.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX
+http://sspitv.liss.fun:8880/live/dou/dou/2292.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7416.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7186.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX HD
+http://sspitv.liss.fun:8880/live/dou/dou/2291.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7415.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Life
+http://sspitv.liss.fun:8880/live/dou/dou/2290.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Life [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7414.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Life HD
+http://sspitv.liss.fun:8880/live/dou/dou/2289.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Life HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7413.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 1 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7412.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 1 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2288.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 1 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7411.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7410.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 2 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7144.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2287.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Premium 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7409.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sport HD
+http://sspitv.liss.fun:8880/live/dou/dou/2286.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports
+http://sspitv.liss.fun:8880/live/dou/dou/2285.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13757.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7408.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports 2
+http://sspitv.liss.fun:8880/live/dou/dou/2284.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports 2 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13759.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports 2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7406.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX Sports 2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2283.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports 2 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13760.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7405.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7171.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13758.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fox Sports HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7407.ts
+#EXTINF:-1, group-title="Canais Premium 6", FOX Sportv 2 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7157.ts
+#EXTINF:-1, group-title="Canais Premium 6", Futura
+http://sspitv.liss.fun:8880/live/dou/dou/2282.ts
+#EXTINF:-1, group-title="Canais Premium 6", Futura [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7404.ts
+#EXTINF:-1, group-title="Canais Premium 6", Futura HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7403.ts
+#EXTINF:-1, group-title="Canais Premium 6", FX
+http://sspitv.liss.fun:8880/live/dou/dou/2281.ts
+#EXTINF:-1, group-title="Canais Premium 6", FX [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7402.ts
+#EXTINF:-1, group-title="Canais Premium 6", FX HD
+http://sspitv.liss.fun:8880/live/dou/dou/2280.ts
+#EXTINF:-1, group-title="Canais Premium 6", FX HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7401.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News
+http://sspitv.liss.fun:8880/live/dou/dou/2274.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13739.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7392.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7156.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News HD
+http://sspitv.liss.fun:8880/live/dou/dou/2273.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13740.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo News HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7391.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bahia
+http://sspitv.liss.fun:8880/live/dou/dou/7105.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bahia [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13751.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bahia [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7376.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bahia HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13752.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bahia HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7375.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bauru
+http://sspitv.liss.fun:8880/live/dou/dou/2139.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bauru [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13753.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Bauru [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7374.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Brasilia
+http://sspitv.liss.fun:8880/live/dou/dou/2143.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Brasilia [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13731.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Brasilia [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7400.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Brasilia HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13732.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Brasilia HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7399.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Centro America Cuiaba
+http://sspitv.liss.fun:8880/live/dou/dou/11667.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Campinas
+http://sspitv.liss.fun:8880/live/dou/dou/11663.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Campinas [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13733.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Campinas [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7398.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Campinas HD
+http://sspitv.liss.fun:8880/live/dou/dou/7397.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Campinas HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13734.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Ribeirao Preto
+http://sspitv.liss.fun:8880/live/dou/dou/11664.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Ribeirao Preto [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13735.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Ribeirao Preto [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7395.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Ribeirão Preto HD
+http://sspitv.liss.fun:8880/live/dou/dou/7396.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Eptv Ribeirão Preto HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13736.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo EPTV São Carlos
+http://sspitv.liss.fun:8880/live/dou/dou/11665.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo EPTV São Carlos [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/8674.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Inter TV Natal
+http://sspitv.liss.fun:8880/live/dou/dou/8675.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Inter TV RJ Serra+Mar
+http://sspitv.liss.fun:8880/live/dou/dou/8676.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Minas
+http://sspitv.liss.fun:8880/live/dou/dou/7112.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Minas [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13737.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Minas [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7394.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Minas FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7185.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Minas HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13738.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Minas HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7393.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nordeste
+http://sspitv.liss.fun:8880/live/dou/dou/7104.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nordeste [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13741.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nordeste [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7390.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nordeste HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13742.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nordeste HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7389.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo NSC TV Chapeco FHD
+http://sspitv.liss.fun:8880/live/dou/dou/13794.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo NSC TV Chapeco HD
+http://sspitv.liss.fun:8880/live/dou/dou/13793.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo NSC TV Chapeco
+http://sspitv.liss.fun:8880/live/dou/dou/13792.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nsc Tv Florianopolis
+http://sspitv.liss.fun:8880/live/dou/dou/7388.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nsc Tv Florianopolis [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13743.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nsc Tv Florianopolis HD
+http://sspitv.liss.fun:8880/live/dou/dou/7387.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Nsc Tv Florianopolis HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13744.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rbs Tv Porto Alegre
+http://sspitv.liss.fun:8880/live/dou/dou/7386.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rbs Tv Porto Alegre [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13745.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rbs Tv Porto Alegre HD
+http://sspitv.liss.fun:8880/live/dou/dou/7385.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rbs Tv Porto Alegre HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13746.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ
+http://sspitv.liss.fun:8880/live/dou/dou/2278.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13427.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7384.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7184.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ HD
+http://sspitv.liss.fun:8880/live/dou/dou/2277.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13428.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RJ HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7383.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rpc Curitiba
+http://sspitv.liss.fun:8880/live/dou/dou/11666.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rpc Curitiba [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13747.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rpc Curitiba [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7382.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RPC Curitiba FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7137.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rpc Curitiba HD
+http://sspitv.liss.fun:8880/live/dou/dou/7381.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Rpc Curitiba HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13748.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RPC Foz do Iguacu
+http://sspitv.liss.fun:8880/live/dou/dou/13791.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RPC Foz do Iguacu FHD
+http://sspitv.liss.fun:8880/live/dou/dou/13790.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo RPC Foz do Iguacu HD
+http://sspitv.liss.fun:8880/live/dou/dou/13789.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Sorocaba
+http://sspitv.liss.fun:8880/live/dou/dou/2138.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Sorocaba [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13756.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo Sorocaba [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7371.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo SP
+http://sspitv.liss.fun:8880/live/dou/dou/2276.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo SP [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13426.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo SP [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7380.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo SP FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7183.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo SP HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13632.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo SP HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7379.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Anhanguera [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13749.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Anhanguera [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7378.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Anhanguera HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13750.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Anhanguera HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7377.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Clube Teresina
+http://sspitv.liss.fun:8880/live/dou/dou/13788.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Clube Teresina FHD
+http://sspitv.liss.fun:8880/live/dou/dou/13787.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Clube Teresina HD
+http://sspitv.liss.fun:8880/live/dou/dou/13786.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Alagoas
+http://sspitv.liss.fun:8880/live/dou/dou/15139.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Alagoas FHD
+http://sspitv.liss.fun:8880/live/dou/dou/15141.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Alagoas HD
+http://sspitv.liss.fun:8880/live/dou/dou/15140.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Sul FHD
+http://sspitv.liss.fun:8880/live/dou/dou/16205.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Sul HD
+http://sspitv.liss.fun:8880/live/dou/dou/16204.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Vitoria
+http://sspitv.liss.fun:8880/live/dou/dou/13785.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Vitoria FHD
+http://sspitv.liss.fun:8880/live/dou/dou/13784.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Gazeta Vitoria HD
+http://sspitv.liss.fun:8880/live/dou/dou/13783.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Sergipe
+http://sspitv.liss.fun:8880/live/dou/dou/13782.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Sergipe FHD
+http://sspitv.liss.fun:8880/live/dou/dou/13781.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Sergipe HD
+http://sspitv.liss.fun:8880/live/dou/dou/13780.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Tem S.J. do Rio Preto
+http://sspitv.liss.fun:8880/live/dou/dou/7372.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Tem S.J. do Rio Preto [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13755.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Tem S.J. do Rio Preto HD
+http://sspitv.liss.fun:8880/live/dou/dou/7373.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Tem S.J. do Rio Preto HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13754.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Vanguarda
+http://sspitv.liss.fun:8880/live/dou/dou/11668.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Vanguarda [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/10455.ts
+#EXTINF:-1, group-title="Canais Premium 6", Globo TV Verdes mares [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/8673.ts
+#EXTINF:-1, group-title="Canais Premium 6", Gloob
+http://sspitv.liss.fun:8880/live/dou/dou/2272.ts
+#EXTINF:-1, group-title="Canais Premium 6", Gloob [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7370.ts
+#EXTINF:-1, group-title="Canais Premium 6", Gloob FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7155.ts
+#EXTINF:-1, group-title="Canais Premium 6", Gloob HD
+http://sspitv.liss.fun:8880/live/dou/dou/2142.ts
+#EXTINF:-1, group-title="Canais Premium 6", Gloob HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7369.ts
+#EXTINF:-1, group-title="Canais Premium 6", GNT
+http://sspitv.liss.fun:8880/live/dou/dou/2271.ts
+#EXTINF:-1, group-title="Canais Premium 6", GNT [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13769.ts
+#EXTINF:-1, group-title="Canais Premium 6", GNT [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7366.ts
+#EXTINF:-1, group-title="Canais Premium 6", GNT HD
+http://sspitv.liss.fun:8880/live/dou/dou/2270.ts
+#EXTINF:-1, group-title="Canais Premium 6", GNT HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13770.ts
+#EXTINF:-1, group-title="Canais Premium 6", GNT HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7365.ts
+#EXTINF:-1, group-title="Canais Premium 6", Gospel Cartoon
+http://sspitv.liss.fun:8880/live/dou/dou/11095.ts
+#EXTINF:-1, group-title="Canais Premium 6", H2
+http://sspitv.liss.fun:8880/live/dou/dou/2269.ts
+#EXTINF:-1, group-title="Canais Premium 6", H2 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13767.ts
+#EXTINF:-1, group-title="Canais Premium 6", H2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7364.ts
+#EXTINF:-1, group-title="Canais Premium 6", H2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2268.ts
+#EXTINF:-1, group-title="Canais Premium 6", H2 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13768.ts
+#EXTINF:-1, group-title="Canais Premium 6", H2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7363.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO
+http://sspitv.liss.fun:8880/live/dou/dou/2267.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13670.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7362.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2
+http://sspitv.liss.fun:8880/live/dou/dou/2266.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13672.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7361.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7182.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2265.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13673.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7360.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Family
+http://sspitv.liss.fun:8880/live/dou/dou/2264.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Family [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13674.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Family [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7359.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Family HD
+http://sspitv.liss.fun:8880/live/dou/dou/2263.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Family HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13675.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Family HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7358.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7181.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO HD
+http://sspitv.liss.fun:8880/live/dou/dou/2262.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13671.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7357.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus
+http://sspitv.liss.fun:8880/live/dou/dou/2261.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13676.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7356.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus e
+http://sspitv.liss.fun:8880/live/dou/dou/2260.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus e [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13678.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus e [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7355.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus HD
+http://sspitv.liss.fun:8880/live/dou/dou/2259.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13677.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Plus HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7354.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Signature
+http://sspitv.liss.fun:8880/live/dou/dou/2258.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Signature [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13679.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Signature [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7353.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Signature HD
+http://sspitv.liss.fun:8880/live/dou/dou/2257.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Signature HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13680.ts
+#EXTINF:-1, group-title="Canais Premium 6", HBO Signature HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7352.ts
+#EXTINF:-1, group-title="Canais Premium 6", I-SAT
+http://sspitv.liss.fun:8880/live/dou/dou/2255.ts
+#EXTINF:-1, group-title="Canais Premium 6", ID - Investigacao Discovery
+http://sspitv.liss.fun:8880/live/dou/dou/2254.ts
+#EXTINF:-1, group-title="Canais Premium 6", ID - Investigação Discovery HD
+http://sspitv.liss.fun:8880/live/dou/dou/2253.ts
+#EXTINF:-1, group-title="Canais Premium 6", Ideal TV
+http://sspitv.liss.fun:8880/live/dou/dou/7108.ts
+#EXTINF:-1, group-title="Canais Premium 6", Inter TV Cabugi
+http://sspitv.liss.fun:8880/live/dou/dou/7106.ts
+#EXTINF:-1, group-title="Canais Premium 6", Investigacao Discovery [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7349.ts
+#EXTINF:-1, group-title="Canais Premium 6", Investigacao Discovery HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7348.ts
+#EXTINF:-1, group-title="Canais Premium 6", Lifetime
+http://sspitv.liss.fun:8880/live/dou/dou/2252.ts
+#EXTINF:-1, group-title="Canais Premium 6", Lifetime [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7347.ts
+#EXTINF:-1, group-title="Canais Premium 6", Lifetime HD
+http://sspitv.liss.fun:8880/live/dou/dou/2141.ts
+#EXTINF:-1, group-title="Canais Premium 6", Lifetime HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7346.ts
+#EXTINF:-1, group-title="Canais Premium 6", Mais Globosat
+http://sspitv.liss.fun:8880/live/dou/dou/2251.ts
+#EXTINF:-1, group-title="Canais Premium 6", Mais Globosat [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7345.ts
+#EXTINF:-1, group-title="Canais Premium 6", Mais Globosat HD
+http://sspitv.liss.fun:8880/live/dou/dou/2127.ts
+#EXTINF:-1, group-title="Canais Premium 6", Mais Globosat HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7344.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX
+http://sspitv.liss.fun:8880/live/dou/dou/2250.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7343.ts
+#EXTINF:-1, group-title="Canais Premium 6", Max HD
+http://sspitv.liss.fun:8880/live/dou/dou/7091.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7342.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX Prime
+http://sspitv.liss.fun:8880/live/dou/dou/2249.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX Prime [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7341.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX Prime e
+http://sspitv.liss.fun:8880/live/dou/dou/2248.ts
+#EXTINF:-1, group-title="Canais Premium 6", Max Prime e [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7340.ts
+#EXTINF:-1, group-title="Canais Premium 6", Max Prime HD
+http://sspitv.liss.fun:8880/live/dou/dou/7092.ts
+#EXTINF:-1, group-title="Canais Premium 6", Max Prime HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7339.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX UP
+http://sspitv.liss.fun:8880/live/dou/dou/2247.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX UP [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7338.ts
+#EXTINF:-1, group-title="Canais Premium 6", Max UP HD
+http://sspitv.liss.fun:8880/live/dou/dou/7093.ts
+#EXTINF:-1, group-title="Canais Premium 6", MAX UP HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7337.ts
+#EXTINF:-1, group-title="Canais Premium 6", Megapix
+http://sspitv.liss.fun:8880/live/dou/dou/2246.ts
+#EXTINF:-1, group-title="Canais Premium 6", Megapix [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13719.ts
+#EXTINF:-1, group-title="Canais Premium 6", Megapix [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7336.ts
+#EXTINF:-1, group-title="Canais Premium 6", Megapix HD
+http://sspitv.liss.fun:8880/live/dou/dou/2245.ts
+#EXTINF:-1, group-title="Canais Premium 6", Megapix HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13720.ts
+#EXTINF:-1, group-title="Canais Premium 6", Megapix HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7335.ts
+#EXTINF:-1, group-title="Canais Premium 6", MTV
+http://sspitv.liss.fun:8880/live/dou/dou/2244.ts
+#EXTINF:-1, group-title="Canais Premium 6", MTV [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7334.ts
+#EXTINF:-1, group-title="Canais Premium 6", MTV HD
+http://sspitv.liss.fun:8880/live/dou/dou/2140.ts
+#EXTINF:-1, group-title="Canais Premium 6", MTV HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7333.ts
+#EXTINF:-1, group-title="Canais Premium 6", Multishow
+http://sspitv.liss.fun:8880/live/dou/dou/2243.ts
+#EXTINF:-1, group-title="Canais Premium 6", Multishow [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7332.ts
+#EXTINF:-1, group-title="Canais Premium 6", Multishow [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/14020.ts
+#EXTINF:-1, group-title="Canais Premium 6", Multishow HD
+http://sspitv.liss.fun:8880/live/dou/dou/2242.ts
+#EXTINF:-1, group-title="Canais Premium 6", Multishow HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7331.ts
+#EXTINF:-1, group-title="Canais Premium 6", Music Box Brasil [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7330.ts
+#EXTINF:-1, group-title="Canais Premium 6", Music Box Brasil HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7329.ts
+#EXTINF:-1, group-title="Canais Premium 6", Music Box Brazil
+http://sspitv.liss.fun:8880/live/dou/dou/2241.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nat Geo Wild FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7143.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeo Kids
+http://sspitv.liss.fun:8880/live/dou/dou/2240.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeo Kids [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7326.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeo Kids HD
+http://sspitv.liss.fun:8880/live/dou/dou/2126.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeo Kids HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7325.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeo Wild
+http://sspitv.liss.fun:8880/live/dou/dou/2239.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeo Wild [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7323.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeoWild HD
+http://sspitv.liss.fun:8880/live/dou/dou/2238.ts
+#EXTINF:-1, group-title="Canais Premium 6", NatGeoWild HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7324.ts
+#EXTINF:-1, group-title="Canais Premium 6", National Geographic
+http://sspitv.liss.fun:8880/live/dou/dou/2237.ts
+#EXTINF:-1, group-title="Canais Premium 6", National Geographic [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7328.ts
+#EXTINF:-1, group-title="Canais Premium 6", National Geographic HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7327.ts
+#EXTINF:-1, group-title="Canais Premium 6", NBR
+http://sspitv.liss.fun:8880/live/dou/dou/2235.ts
+#EXTINF:-1, group-title="Canais Premium 6", NBR [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7322.ts
+#EXTINF:-1, group-title="Canais Premium 6", NHK
+http://sspitv.liss.fun:8880/live/dou/dou/2234.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nick Jr
+http://sspitv.liss.fun:8880/live/dou/dou/2233.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nick Jr [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7321.ts
+#EXTINF:-1, group-title="Canais Premium 6", NICK JR FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7142.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nick Jr HD
+http://sspitv.liss.fun:8880/live/dou/dou/2145.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nick Jr HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7320.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nickelodeon
+http://sspitv.liss.fun:8880/live/dou/dou/2232.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nickelodeon [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7319.ts
+#EXTINF:-1, group-title="Canais Premium 6", NICKELODEON FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7141.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nickelodeon HD
+http://sspitv.liss.fun:8880/live/dou/dou/2125.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nickelodeon HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7318.ts
+#EXTINF:-1, group-title="Canais Premium 6", NovoTempo
+http://sspitv.liss.fun:8880/live/dou/dou/2231.ts
+#EXTINF:-1, group-title="Canais Premium 6", OFF
+http://sspitv.liss.fun:8880/live/dou/dou/2230.ts
+#EXTINF:-1, group-title="Canais Premium 6", OFF [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7317.ts
+#EXTINF:-1, group-title="Canais Premium 6", OFF HD
+http://sspitv.liss.fun:8880/live/dou/dou/2229.ts
+#EXTINF:-1, group-title="Canais Premium 6", OFF HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7316.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2
+http://sspitv.liss.fun:8880/live/dou/dou/2222.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7313.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13633.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7169.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2221.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7312.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 2 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13725.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3
+http://sspitv.liss.fun:8880/live/dou/dou/2220.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7311.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13634.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7168.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2219.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7310.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 3 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13726.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4
+http://sspitv.liss.fun:8880/live/dou/dou/2218.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7309.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13635.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7167.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2217.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7308.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 4 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13727.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5
+http://sspitv.liss.fun:8880/live/dou/dou/2216.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7307.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13636.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13728.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7166.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2215.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 5 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7306.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6
+http://sspitv.liss.fun:8880/live/dou/dou/2214.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7305.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13637.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13729.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7165.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6 HD
+http://sspitv.liss.fun:8880/live/dou/dou/7094.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 6 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7304.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7
+http://sspitv.liss.fun:8880/live/dou/dou/2213.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7303.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13638.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7164.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7 HD
+http://sspitv.liss.fun:8880/live/dou/dou/7095.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7302.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 7 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13730.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 8
+http://sspitv.liss.fun:8880/live/dou/dou/2212.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 8 [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13639.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere 9
+http://sspitv.liss.fun:8880/live/dou/dou/2211.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes
+http://sspitv.liss.fun:8880/live/dou/dou/2224.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7301.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13425.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7170.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes HD
+http://sspitv.liss.fun:8880/live/dou/dou/2223.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7300.ts
+#EXTINF:-1, group-title="Canais Premium 6", Premiere Clubes HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13424.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tabela Jogos Premiere [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7225.ts
+#EXTINF:-1, group-title="Canais Premium 6", Paramount
+http://sspitv.liss.fun:8880/live/dou/dou/2228.ts
+#EXTINF:-1, group-title="Canais Premium 6", Paramount  HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7314.ts
+#EXTINF:-1, group-title="Canais Premium 6", Paramount [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7315.ts
+#EXTINF:-1, group-title="Canais Premium 6", Paramount HD
+http://sspitv.liss.fun:8880/live/dou/dou/2227.ts
+#EXTINF:-1, group-title="Canais Premium 6", Play TV
+http://sspitv.liss.fun:8880/live/dou/dou/2226.ts
+#EXTINF:-1, group-title="Canais Premium 6", Playboy [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7224.ts
+#EXTINF:-1, group-title="Canais Premium 6", Playboy HD
+http://sspitv.liss.fun:8880/live/dou/dou/8436.ts
+#EXTINF:-1, group-title="Canais Premium 6", Playboy TV
+http://sspitv.liss.fun:8880/live/dou/dou/2225.ts
+#EXTINF:-1, group-title="Canais Premium 6", PlayKids HD
+http://sspitv.liss.fun:8880/live/dou/dou/16209.ts
+#EXTINF:-1, group-title="Canais Premium 6", PlayKids SD
+http://sspitv.liss.fun:8880/live/dou/dou/16208.ts
+#EXTINF:-1, group-title="Canais Premium 6", Prime Box Brazil
+http://sspitv.liss.fun:8880/live/dou/dou/2210.ts
+#EXTINF:-1, group-title="Canais Premium 6", Prime Box Brazil [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7299.ts
+#EXTINF:-1, group-title="Canais Premium 6", Prime Box Brazil HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7298.ts
+#EXTINF:-1, group-title="Canais Premium 6", RBI
+http://sspitv.liss.fun:8880/live/dou/dou/2209.ts
+#EXTINF:-1, group-title="Canais Premium 6", RBS TV Porto Alegre
+http://sspitv.liss.fun:8880/live/dou/dou/2208.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record
+http://sspitv.liss.fun:8880/live/dou/dou/2207.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13657.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7297.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7180.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record HD
+http://sspitv.liss.fun:8880/live/dou/dou/2206.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/7296.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7292.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record MG HD
+http://sspitv.liss.fun:8880/live/dou/dou/16207.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record MG SD
+http://sspitv.liss.fun:8880/live/dou/dou/16206.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record News
+http://sspitv.liss.fun:8880/live/dou/dou/2205.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record News [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7295.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record News HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7294.ts
+#EXTINF:-1, group-title="Canais Premium 6", Record SP [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7293.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Amazonica
+http://sspitv.liss.fun:8880/live/dou/dou/7101.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Brasil
+http://sspitv.liss.fun:8880/live/dou/dou/2204.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Brasil [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7291.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Super
+http://sspitv.liss.fun:8880/live/dou/dou/8677.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede TV
+http://sspitv.liss.fun:8880/live/dou/dou/2203.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede TV [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7290.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede TV HD
+http://sspitv.liss.fun:8880/live/dou/dou/2202.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede TV HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7289.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Vida
+http://sspitv.liss.fun:8880/live/dou/dou/2201.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Vida [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7288.ts
+#EXTINF:-1, group-title="Canais Premium 6", Rede Vida HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/15138.ts
+#EXTINF:-1, group-title="Canais Premium 6", RIT
+http://sspitv.liss.fun:8880/live/dou/dou/2199.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT
+http://sspitv.liss.fun:8880/live/dou/dou/2198.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7287.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13796.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7179.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT HD
+http://sspitv.liss.fun:8880/live/dou/dou/2197.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7286.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13797.ts
+#EXTINF:-1, group-title="Canais Premium 6", SBT SP Interior [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7285.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sextreme
+http://sspitv.liss.fun:8880/live/dou/dou/2196.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sextreme [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7223.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sexy Hot
+http://sspitv.liss.fun:8880/live/dou/dou/2195.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sexy Hot [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7222.ts
+#EXTINF:-1, group-title="Canais Premium 6", SIC Internacional
+http://sspitv.liss.fun:8880/live/dou/dou/2194.ts
+#EXTINF:-1, group-title="Canais Premium 6", Space
+http://sspitv.liss.fun:8880/live/dou/dou/2193.ts
+#EXTINF:-1, group-title="Canais Premium 6", Space [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13717.ts
+#EXTINF:-1, group-title="Canais Premium 6", Space [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7282.ts
+#EXTINF:-1, group-title="Canais Premium 6", Space HD
+http://sspitv.liss.fun:8880/live/dou/dou/2192.ts
+#EXTINF:-1, group-title="Canais Premium 6", Space HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13718.ts
+#EXTINF:-1, group-title="Canais Premium 6", Space HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7281.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sport TV 2 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2191.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sport TV 3 HD
+http://sspitv.liss.fun:8880/live/dou/dou/2190.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sport TV HD
+http://sspitv.liss.fun:8880/live/dou/dou/2189.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV
+http://sspitv.liss.fun:8880/live/dou/dou/2188.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13423.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7280.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV 2
+http://sspitv.liss.fun:8880/live/dou/dou/2187.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV 2 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7279.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sportv 2 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7154.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7278.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV 3
+http://sspitv.liss.fun:8880/live/dou/dou/2186.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV 3 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7277.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sportv 3 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7153.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV 3 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7276.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sportv FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7178.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13422.ts
+#EXTINF:-1, group-title="Canais Premium 6", SporTV HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7275.ts
+#EXTINF:-1, group-title="Canais Premium 6", Studio Universal
+http://sspitv.liss.fun:8880/live/dou/dou/2185.ts
+#EXTINF:-1, group-title="Canais Premium 6", Studio Universal [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7274.ts
+#EXTINF:-1, group-title="Canais Premium 6", Studio Universal HD
+http://sspitv.liss.fun:8880/live/dou/dou/7096.ts
+#EXTINF:-1, group-title="Canais Premium 6", Studio Universal HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7273.ts
+#EXTINF:-1, group-title="Canais Premium 6", SundanceTV
+http://sspitv.liss.fun:8880/live/dou/dou/7272.ts
+#EXTINF:-1, group-title="Canais Premium 6", SundanceTV HD
+http://sspitv.liss.fun:8880/live/dou/dou/7271.ts
+#EXTINF:-1, group-title="Canais Premium 6", Syfy
+http://sspitv.liss.fun:8880/live/dou/dou/2184.ts
+#EXTINF:-1, group-title="Canais Premium 6", Syfy [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7284.ts
+#EXTINF:-1, group-title="Canais Premium 6", Syfy HD
+http://sspitv.liss.fun:8880/live/dou/dou/2124.ts
+#EXTINF:-1, group-title="Canais Premium 6", Syfy HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7283.ts
+#EXTINF:-1, group-title="Canais Premium 6", TBS
+http://sspitv.liss.fun:8880/live/dou/dou/2183.ts
+#EXTINF:-1, group-title="Canais Premium 6", TBS [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7270.ts
+#EXTINF:-1, group-title="Canais Premium 6", TBS HD
+http://sspitv.liss.fun:8880/live/dou/dou/2182.ts
+#EXTINF:-1, group-title="Canais Premium 6", TBS HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7269.ts
+#EXTINF:-1, group-title="Canais Premium 6", TCM
+http://sspitv.liss.fun:8880/live/dou/dou/2181.ts
+#EXTINF:-1, group-title="Canais Premium 6", TCM [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7268.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action
+http://sspitv.liss.fun:8880/live/dou/dou/2180.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13658.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7267.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7177.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action HD
+http://sspitv.liss.fun:8880/live/dou/dou/2179.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13659.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Action HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7266.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Cult
+http://sspitv.liss.fun:8880/live/dou/dou/2178.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Cult [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13660.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Cult [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7265.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Cult HD
+http://sspitv.liss.fun:8880/live/dou/dou/2122.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Cult HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13661.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Cult HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7264.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun
+http://sspitv.liss.fun:8880/live/dou/dou/2177.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13662.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7263.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7176.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun HD
+http://sspitv.liss.fun:8880/live/dou/dou/2176.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13663.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Fun HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7262.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca
+http://sspitv.liss.fun:8880/live/dou/dou/2175.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13664.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7261.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7175.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca HD
+http://sspitv.liss.fun:8880/live/dou/dou/2174.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13665.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Pipoca HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7260.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium
+http://sspitv.liss.fun:8880/live/dou/dou/2173.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13666.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7259.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7174.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium HD
+http://sspitv.liss.fun:8880/live/dou/dou/2172.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13667.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Premium HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7258.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch
+http://sspitv.liss.fun:8880/live/dou/dou/2171.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13668.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7257.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7173.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch HD
+http://sspitv.liss.fun:8880/live/dou/dou/2170.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13669.ts
+#EXTINF:-1, group-title="Canais Premium 6", Telecine Touch HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7256.ts
+#EXTINF:-1, group-title="Canais Premium 6", Terra Viva
+http://sspitv.liss.fun:8880/live/dou/dou/2169.ts
+#EXTINF:-1, group-title="Canais Premium 6", Terra Viva [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7255.ts
+#EXTINF:-1, group-title="Canais Premium 6", The History Channel
+http://sspitv.liss.fun:8880/live/dou/dou/2168.ts
+#EXTINF:-1, group-title="Canais Premium 6", The History Channel [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13721.ts
+#EXTINF:-1, group-title="Canais Premium 6", The History Channel [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7351.ts
+#EXTINF:-1, group-title="Canais Premium 6", The History Channel FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7139.ts
+#EXTINF:-1, group-title="Canais Premium 6", The History Channel HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/13722.ts
+#EXTINF:-1, group-title="Canais Premium 6", The History Channel HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7350.ts
+#EXTINF:-1, group-title="Canais Premium 6", TLC
+http://sspitv.liss.fun:8880/live/dou/dou/2167.ts
+#EXTINF:-1, group-title="Canais Premium 6", TLC [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7254.ts
+#EXTINF:-1, group-title="Canais Premium 6", TLC HD
+http://sspitv.liss.fun:8880/live/dou/dou/2123.ts
+#EXTINF:-1, group-title="Canais Premium 6", TLC HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7253.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT
+http://sspitv.liss.fun:8880/live/dou/dou/2166.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7252.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT HD
+http://sspitv.liss.fun:8880/live/dou/dou/2165.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7251.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT Series
+http://sspitv.liss.fun:8880/live/dou/dou/2164.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT Series [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7250.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT Series HD
+http://sspitv.liss.fun:8880/live/dou/dou/2163.ts
+#EXTINF:-1, group-title="Canais Premium 6", TNT Series HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7249.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tooncast
+http://sspitv.liss.fun:8880/live/dou/dou/2162.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tooncast [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7248.ts
+#EXTINF:-1, group-title="Canais Premium 6", TruTV
+http://sspitv.liss.fun:8880/live/dou/dou/2161.ts
+#EXTINF:-1, group-title="Canais Premium 6", TruTV [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7238.ts
+#EXTINF:-1, group-title="Canais Premium 6", TruTV HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7237.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tv Anhanguera
+http://sspitv.liss.fun:8880/live/dou/dou/7109.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Aparecida [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7245.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Brasil
+http://sspitv.liss.fun:8880/live/dou/dou/2160.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Brasil [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7244.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Câmara
+http://sspitv.liss.fun:8880/live/dou/dou/7243.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Cultura
+http://sspitv.liss.fun:8880/live/dou/dou/2159.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Cultura [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/15136.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Cultura HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/15137.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Diário
+http://sspitv.liss.fun:8880/live/dou/dou/2158.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Escola
+http://sspitv.liss.fun:8880/live/dou/dou/7242.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tv Evangelizar
+http://sspitv.liss.fun:8880/live/dou/dou/11611.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tv Gazeta SP HD
+http://sspitv.liss.fun:8880/live/dou/dou/7241.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Gloobinho [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7367.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Gloobinho HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7368.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Justiça
+http://sspitv.liss.fun:8880/live/dou/dou/7246.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Liberal Belem
+http://sspitv.liss.fun:8880/live/dou/dou/7102.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Ra tim bum
+http://sspitv.liss.fun:8880/live/dou/dou/2157.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Ra tim bum [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7240.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Ra tim bum HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7239.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tv Seculo 21
+http://sspitv.liss.fun:8880/live/dou/dou/11610.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Senado
+http://sspitv.liss.fun:8880/live/dou/dou/7247.ts
+#EXTINF:-1, group-title="Canais Premium 6", TV Verdes Mares
+http://sspitv.liss.fun:8880/live/dou/dou/7103.ts
+#EXTINF:-1, group-title="Canais Premium 6", TVE
+http://sspitv.liss.fun:8880/live/dou/dou/2156.ts
+#EXTINF:-1, group-title="Canais Premium 6", Universal Channel
+http://sspitv.liss.fun:8880/live/dou/dou/2155.ts
+#EXTINF:-1, group-title="Canais Premium 6", Universal Channel [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7236.ts
+#EXTINF:-1, group-title="Canais Premium 6", Universal Channel HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7235.ts
+#EXTINF:-1, group-title="Canais Premium 6", Universal Channels HD
+http://sspitv.liss.fun:8880/live/dou/dou/2154.ts
+#EXTINF:-1, group-title="Canais Premium 6", Venus
+http://sspitv.liss.fun:8880/live/dou/dou/2147.ts
+#EXTINF:-1, group-title="Canais Premium 6", Venus [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7221.ts
+#EXTINF:-1, group-title="Canais Premium 6", VH1 [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7234.ts
+#EXTINF:-1, group-title="Canais Premium 6", VH1 HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7233.ts
+#EXTINF:-1, group-title="Canais Premium 6", VH1 Mega Hits [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7232.ts
+#EXTINF:-1, group-title="Canais Premium 6", VH1 MegaHits
+http://sspitv.liss.fun:8880/live/dou/dou/2153.ts
+#EXTINF:-1, group-title="Canais Premium 6", Viva
+http://sspitv.liss.fun:8880/live/dou/dou/2152.ts
+#EXTINF:-1, group-title="Canais Premium 6", Viva [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7231.ts
+#EXTINF:-1, group-title="Canais Premium 6", Viva FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7152.ts
+#EXTINF:-1, group-title="Canais Premium 6", Viva HD
+http://sspitv.liss.fun:8880/live/dou/dou/2151.ts
+#EXTINF:-1, group-title="Canais Premium 6", Viva HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7230.ts
+#EXTINF:-1, group-title="Canais Premium 6", Warner Channel
+http://sspitv.liss.fun:8880/live/dou/dou/2150.ts
+#EXTINF:-1, group-title="Canais Premium 6", Warner Channel [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7229.ts
+#EXTINF:-1, group-title="Canais Premium 6", Warner Channel HD
+http://sspitv.liss.fun:8880/live/dou/dou/2149.ts
+#EXTINF:-1, group-title="Canais Premium 6", Warner Channel HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7228.ts
+#EXTINF:-1, group-title="Canais Premium 6", Warner FHD
+http://sspitv.liss.fun:8880/live/dou/dou/7140.ts
+#EXTINF:-1, group-title="Canais Premium 6", Woohoo
+http://sspitv.liss.fun:8880/live/dou/dou/2148.ts
+#EXTINF:-1, group-title="Canais Premium 6", Woohoo [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7227.ts
+#EXTINF:-1, group-title="Canais Premium 6", Woohoo HD
+http://sspitv.liss.fun:8880/live/dou/dou/7097.ts
+#EXTINF:-1, group-title="Canais Premium 6", Woohoo HD [Alter]
+http://sspitv.liss.fun:8880/live/dou/dou/7226.ts
+#EXTINF:-1, group-title="Canais Premium 6", A Fazenda 10
+http://sspitv.liss.fun:8880/live/dou/dou/16239.ts
+#EXTINF:-1, group-title="Canais Premium 6", A Fazenda 10 FHD
+http://sspitv.liss.fun:8880/live/dou/dou/16248.ts
+#EXTINF:-1, group-title="Canais Premium 6", A Fazenda 10 HD
+http://sspitv.liss.fun:8880/live/dou/dou/16247.ts
+#EXTINF:-1, group-title="Canais Premium 6", As aventuras de Jackie Chan 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7202.ts
+#EXTINF:-1, group-title="Canais Premium 6", Ben 10 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7598.ts
+#EXTINF:-1, group-title="Canais Premium 6", Black Kamen Rider 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11946.ts
+#EXTINF:-1, group-title="Canais Premium 6", Bob Esponja 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7220.ts
+#EXTINF:-1, group-title="Canais Premium 6", Caillou 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3834.ts
+#EXTINF:-1, group-title="Canais Premium 6", Capitao Planeta 24H
+http://sspitv.liss.fun:8880/live/dou/dou/13286.ts
+#EXTINF:-1, group-title="Canais Premium 6", Carl o Super Caminhao 24H
+http://sspitv.liss.fun:8880/live/dou/dou/8288.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cavaleiros do Zodíaco Hades 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12436.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://sspitv.liss.fun:8880/live/dou/dou/7219.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cavaleiros Zodiaco 24h
+http://sspitv.liss.fun:8880/live/dou/dou/9.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cavalo de Fogo 24H
+http://sspitv.liss.fun:8880/live/dou/dou/13962.ts
+#EXTINF:-1, group-title="Canais Premium 6", Caverna do Dragao 24H
+http://sspitv.liss.fun:8880/live/dou/dou/9839.ts
+#EXTINF:-1, group-title="Canais Premium 6", Changeman 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11691.ts
+#EXTINF:-1, group-title="Canais Premium 6", Chapolin 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11608.ts
+#EXTINF:-1, group-title="Canais Premium 6", Chaves 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7559.ts
+#EXTINF:-1, group-title="Canais Premium 6", Clarêncio o Otimista 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7599.ts
+#EXTINF:-1, group-title="Canais Premium 6", Classicos Disney 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7218.ts
+#EXTINF:-1, group-title="Canais Premium 6", Coragem o Cão Covarde 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7217.ts
+#EXTINF:-1, group-title="Canais Premium 6", Corrida Maluca 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7201.ts
+#EXTINF:-1, group-title="Canais Premium 6", Daniel Tigre 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3833.ts
+#EXTINF:-1, group-title="Canais Premium 6", DC Comics 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12369.ts
+#EXTINF:-1, group-title="Canais Premium 6", Desenhos Biblicos 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3835.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dois Homens e Meio 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11737.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dragon Ball Classico 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7215.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dragon Ball GT 24H
+http://sspitv.liss.fun:8880/live/dou/dou/10.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dragon Ball Super 24H
+http://sspitv.liss.fun:8880/live/dou/dou/8854.ts
+#EXTINF:-1, group-title="Canais Premium 6", Du Dudu e Edu 24H
+http://sspitv.liss.fun:8880/live/dou/dou/13581.ts
+#EXTINF:-1, group-title="Canais Premium 6", Duck Tales 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12964.ts
+#EXTINF:-1, group-title="Canais Premium 6", Eu a Patroa e as Crianças 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7601.ts
+#EXTINF:-1, group-title="Canais Premium 6", Familia da Pesada (Family Guy) 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7214.ts
+#EXTINF:-1, group-title="Canais Premium 6", Familia Dinossauro 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12296.ts
+#EXTINF:-1, group-title="Canais Premium 6", Flashman 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11719.ts
+#EXTINF:-1, group-title="Canais Premium 6", FLY o Pequeno Guerreiro 24H
+http://sspitv.liss.fun:8880/live/dou/dou/14019.ts
+#EXTINF:-1, group-title="Canais Premium 6", Formiga Atomica 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7213.ts
+#EXTINF:-1, group-title="Canais Premium 6", Friends 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11740.ts
+#EXTINF:-1, group-title="Canais Premium 6", Futurama 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7212.ts
+#EXTINF:-1, group-title="Canais Premium 6", Galinha Pintadinha 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7211.ts
+#EXTINF:-1, group-title="Canais Premium 6", He-man 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11609.ts
+#EXTINF:-1, group-title="Canais Premium 6", Hora de Aventura 24H
+http://sspitv.liss.fun:8880/live/dou/dou/8999.ts
+#EXTINF:-1, group-title="Canais Premium 6", Jambo e Ruivao 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12941.ts
+#EXTINF:-1, group-title="Canais Premium 6", Jaspion 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11607.ts
+#EXTINF:-1, group-title="Canais Premium 6", Jovens Titans 24H
+http://sspitv.liss.fun:8880/live/dou/dou/8856.ts
+#EXTINF:-1, group-title="Canais Premium 6", Kenan e Kel 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7200.ts
+#EXTINF:-1, group-title="Canais Premium 6", Liga da Justiça 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11720.ts
+#EXTINF:-1, group-title="Canais Premium 6", Luluzinha 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7210.ts
+#EXTINF:-1, group-title="Canais Premium 6", Manda Chuva 24H
+http://sspitv.liss.fun:8880/live/dou/dou/13370.ts
+#EXTINF:-1, group-title="Canais Premium 6", Marvel 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12687.ts
+#EXTINF:-1, group-title="Canais Premium 6", Masha e o Urso 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3827.ts
+#EXTINF:-1, group-title="Canais Premium 6", Meu Amigãozão 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3830.ts
+#EXTINF:-1, group-title="Canais Premium 6", Mickey e Donald 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7209.ts
+#EXTINF:-1, group-title="Canais Premium 6", Mr. Bean 24H
+http://sspitv.liss.fun:8880/live/dou/dou/9592.ts
+#EXTINF:-1, group-title="Canais Premium 6", Muppets Babies 24H
+http://sspitv.liss.fun:8880/live/dou/dou/13077.ts
+#EXTINF:-1, group-title="Canais Premium 6", Nanatzu no Taizai 24H
+http://sspitv.liss.fun:8880/live/dou/dou/9000.ts
+#EXTINF:-1, group-title="Canais Premium 6", Naruto Shippuden 24H
+http://sspitv.liss.fun:8880/live/dou/dou/9520.ts
+#EXTINF:-1, group-title="Canais Premium 6", O Incrível Mundo de Gumball 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7600.ts
+#EXTINF:-1, group-title="Canais Premium 6", O Mascara 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7199.ts
+#EXTINF:-1, group-title="Canais Premium 6", O Show da Luna 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3828.ts
+#EXTINF:-1, group-title="Canais Premium 6", Os Backyardigans 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3831.ts
+#EXTINF:-1, group-title="Canais Premium 6", Os Simpsons 24H
+http://sspitv.liss.fun:8880/live/dou/dou/8413.ts
+#EXTINF:-1, group-title="Canais Premium 6", Os Trapalhões 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7208.ts
+#EXTINF:-1, group-title="Canais Premium 6", Patati e Patata 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3826.ts
+#EXTINF:-1, group-title="Canais Premium 6", Patrula Canina 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7597.ts
+#EXTINF:-1, group-title="Canais Premium 6", Pegue o Pombo 24H
+http://sspitv.liss.fun:8880/live/dou/dou/9841.ts
+#EXTINF:-1, group-title="Canais Premium 6", Pepe Legal 24H
+http://sspitv.liss.fun:8880/live/dou/dou/13582.ts
+#EXTINF:-1, group-title="Canais Premium 6", Peppa Pig 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7207.ts
+#EXTINF:-1, group-title="Canais Premium 6", Pica Pau 24H
+http://sspitv.liss.fun:8880/live/dou/dou/3832.ts
+#EXTINF:-1, group-title="Canais Premium 6", PJ Masks 24H
+http://sspitv.liss.fun:8880/live/dou/dou/15142.ts
+#EXTINF:-1, group-title="Canais Premium 6", Pole Position 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11721.ts
+#EXTINF:-1, group-title="Canais Premium 6", Popeye 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12940.ts
+#EXTINF:-1, group-title="Canais Premium 6", Power Rangers 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12027.ts
+#EXTINF:-1, group-title="Canais Premium 6", Punk a Levada da Breca 24H
+http://sspitv.liss.fun:8880/live/dou/dou/14116.ts
+#EXTINF:-1, group-title="Canais Premium 6", Scooby Doo 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7602.ts
+#EXTINF:-1, group-title="Canais Premium 6", Show da Luna 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7991.ts
+#EXTINF:-1, group-title="Canais Premium 6", South Parks 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7206.ts
+#EXTINF:-1, group-title="Canais Premium 6", Spectroman 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12860.ts
+#EXTINF:-1, group-title="Canais Premium 6", Supershock 24H
+http://sspitv.liss.fun:8880/live/dou/dou/11718.ts
+#EXTINF:-1, group-title="Canais Premium 6", Thundercats 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7205.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tico e Teco 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7197.ts
+#EXTINF:-1, group-title="Canais Premium 6", Todo Mundo Odeia o Cris 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7204.ts
+#EXTINF:-1, group-title="Canais Premium 6", Tom e Jerry 24H
+http://sspitv.liss.fun:8880/live/dou/dou/8287.ts
+#EXTINF:-1, group-title="Canais Premium 6", Turma da Monica 24H
+http://sspitv.liss.fun:8880/live/dou/dou/14242.ts
+#EXTINF:-1, group-title="Canais Premium 6", Ultraman 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12861.ts
+#EXTINF:-1, group-title="Canais Premium 6", Um Maluco no Pedaço 24H
+http://sspitv.liss.fun:8880/live/dou/dou/7203.ts
+#EXTINF:-1, group-title="Canais Premium 6", Vai Que Cola 24H
+http://sspitv.liss.fun:8880/live/dou/dou/12965.ts
+#EXTINF:-1, group-title="Canais Premium 6", Yu Yu Hakusho 24H
+http://sspitv.liss.fun:8880/live/dou/dou/9543.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Anos 2000
+http://sspitv.liss.fun:8880/live/dou/dou/7547.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Anuncia Gospel
+http://sspitv.liss.fun:8880/live/dou/dou/9447.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Atlantida FM
+http://sspitv.liss.fun:8880/live/dou/dou/10533.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Bahia
+http://sspitv.liss.fun:8880/live/dou/dou/10532.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Bossa Nova
+http://sspitv.liss.fun:8880/live/dou/dou/7545.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Eldorado FM
+http://sspitv.liss.fun:8880/live/dou/dou/7542.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Eletronica
+http://sspitv.liss.fun:8880/live/dou/dou/7551.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Funk
+http://sspitv.liss.fun:8880/live/dou/dou/7549.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Jovem Pan FM SP Pop 103.1
+http://sspitv.liss.fun:8880/live/dou/dou/7541.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Kids
+http://sspitv.liss.fun:8880/live/dou/dou/7543.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Mania
+http://sspitv.liss.fun:8880/live/dou/dou/7603.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Metropolitana 98,5 Fm
+http://sspitv.liss.fun:8880/live/dou/dou/7539.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio MPB
+http://sspitv.liss.fun:8880/live/dou/dou/7544.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Nova FM
+http://sspitv.liss.fun:8880/live/dou/dou/10126.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Novo Tempo
+http://sspitv.liss.fun:8880/live/dou/dou/9775.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Pagode
+http://sspitv.liss.fun:8880/live/dou/dou/7546.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Romanticas
+http://sspitv.liss.fun:8880/live/dou/dou/7550.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Sertanejo
+http://sspitv.liss.fun:8880/live/dou/dou/7548.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Transamerica
+http://sspitv.liss.fun:8880/live/dou/dou/7554.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Universitaria
+http://sspitv.liss.fun:8880/live/dou/dou/9446.ts
+#EXTINF:-1, group-title="Canais Premium 6", Radio Verdes Mares
+http://sspitv.liss.fun:8880/live/dou/dou/7557.ts
+#EXTINF:-1, group-title="Canais Premium 6", Multishow HD [Alter 2]
+http://sspitv.liss.fun:8880/live/dou/dou/14021.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinema 1
+http://sspitv.liss.fun:8880/live/dou/dou/14624.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinema 2
+http://sspitv.liss.fun:8880/live/dou/dou/14623.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinema 3
+http://sspitv.liss.fun:8880/live/dou/dou/14622.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinema 4
+http://sspitv.liss.fun:8880/live/dou/dou/14621.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cinema 5
+http://sspitv.liss.fun:8880/live/dou/dou/14620.ts
+#EXTINF:-1, group-title="Canais Premium 6", BangBross
+http://sspitv.liss.fun:8880/live/dou/dou/15918.ts
+#EXTINF:-1, group-title="Canais Premium 6", Brazzers Europe HD
+http://sspitv.liss.fun:8880/live/dou/dou/15917.ts
+#EXTINF:-1, group-title="Canais Premium 6", Cento X Cento HD
+http://sspitv.liss.fun:8880/live/dou/dou/15929.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dorcel
+http://sspitv.liss.fun:8880/live/dou/dou/15916.ts
+#EXTINF:-1, group-title="Canais Premium 6", Dusk Deluxe
+http://sspitv.liss.fun:8880/live/dou/dou/15915.ts
+#EXTINF:-1, group-title="Canais Premium 6", Erotik 5
+http://sspitv.liss.fun:8880/live/dou/dou/15928.ts
+#EXTINF:-1, group-title="Canais Premium 6", Evil Angel HD
+http://sspitv.liss.fun:8880/live/dou/dou/15927.ts
+#EXTINF:-1, group-title="Canais Premium 6", Fake Taxi HD
+http://sspitv.liss.fun:8880/live/dou/dou/15914.ts
+#EXTINF:-1, group-title="Canais Premium 6", HOT HD
+http://sspitv.liss.fun:8880/live/dou/dou/15925.ts
+#EXTINF:-1, group-title="Canais Premium 6", Jasmim TV
+http://sspitv.liss.fun:8880/live/dou/dou/15923.ts
+#EXTINF:-1, group-title="Canais Premium 6", Jasmim TV HD
+http://sspitv.liss.fun:8880/live/dou/dou/15924.ts
+#EXTINF:-1, group-title="Canais Premium 6", Meiden Van Holland
+http://sspitv.liss.fun:8880/live/dou/dou/15922.ts
+#EXTINF:-1, group-title="Canais Premium 6", PASSIEXXX HD
+http://sspitv.liss.fun:8880/live/dou/dou/15921.ts
+#EXTINF:-1, group-title="Canais Premium 6", Penthouse FHD
+http://sspitv.liss.fun:8880/live/dou/dou/15913.ts
+#EXTINF:-1, group-title="Canais Premium 6", Playboy TV HD
+http://sspitv.liss.fun:8880/live/dou/dou/15912.ts
+#EXTINF:-1, group-title="Canais Premium 6", Primafila Hot HD
+http://sspitv.liss.fun:8880/live/dou/dou/15911.ts
+#EXTINF:-1, group-title="Canais Premium 6", Redlight FHD
+http://sspitv.liss.fun:8880/live/dou/dou/15910.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sexy Hot [Alter2]
+http://sspitv.liss.fun:8880/live/dou/dou/15920.ts
+#EXTINF:-1, group-title="Canais Premium 6", Sirina 1 HD
+http://sspitv.liss.fun:8880/live/dou/dou/15919.ts
+#EXTINF:-1, group-title="Canais Premium 6", Venus [Alter2]
+http://sspitv.liss.fun:8880/live/dou/dou/15926.ts
+#EXTINF:-1, group-title="Canais Premium 6", Branca de Neve e o Cacador
+http://sspitv.liss.fun:8880/movie/dou/dou/15207.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Branca de Neve e os Sete Anoes
+http://sspitv.liss.fun:8880/movie/dou/dou/12659.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: 1 Contos Eroticos
+http://sspitv.liss.fun:8880/movie/dou/dou/12413.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: 11 Mulheres e Nenhum Segredo
+http://sspitv.liss.fun:8880/movie/dou/dou/7078.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: 2 Contos Eroticos
+http://sspitv.liss.fun:8880/movie/dou/dou/12415.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: 3 Contos Eroticos
+http://sspitv.liss.fun:8880/movie/dou/dou/12416.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: 4 Contos Eroticos
+http://sspitv.liss.fun:8880/movie/dou/dou/12419.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: A Campea Do Anal
+http://sspitv.liss.fun:8880/movie/dou/dou/7025.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Academia das Maravilhas
+http://sspitv.liss.fun:8880/movie/dou/dou/7048.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Agora é Hora das Poderosas 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7035.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Ai, Que Do
+http://sspitv.liss.fun:8880/movie/dou/dou/7066.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Amigas da Minha Irma 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7039.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Amigas da Minha Irma 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7024.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Anal Total 3
+http://sspitv.liss.fun:8880/movie/dou/dou/7072.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: As Mina Pira na Pica dos Meninos 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7041.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: As Mina Pira na Pica dos Meninos 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7027.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Assim Voce Me Mata 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7021.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Assim Voce Me Mata 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7046.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Babando de Tesao
+http://sspitv.liss.fun:8880/movie/dou/dou/7069.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Big Mack 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7020.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Big Mack 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7028.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Brasibelezas - Vol. 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7038.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Cafetao
+http://sspitv.liss.fun:8880/movie/dou/dou/7026.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Carnaval 2008
+http://sspitv.liss.fun:8880/movie/dou/dou/7055.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Carnaval 2013
+http://sspitv.liss.fun:8880/movie/dou/dou/7060.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Carnaval com Gretchen
+http://sspitv.liss.fun:8880/movie/dou/dou/7022.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Carol Fodeu E Levou Gozada Na Boca
+http://sspitv.liss.fun:8880/movie/dou/dou/12414.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Casal no Pau 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7068.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Celebridade em Foco
+http://sspitv.liss.fun:8880/movie/dou/dou/7057.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Clube Prive 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7040.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Clube Prive 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7023.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Com Vergonha de Dar o Rabo
+http://sspitv.liss.fun:8880/movie/dou/dou/7030.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Como Fazer uma Mulher Gozar Muito
+http://sspitv.liss.fun:8880/movie/dou/dou/7079.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Confissoes Relatos de Mulheres Fogosas
+http://sspitv.liss.fun:8880/movie/dou/dou/7075.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Debutantes 2008
+http://sspitv.liss.fun:8880/movie/dou/dou/7062.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Depois dos 40
+http://sspitv.liss.fun:8880/movie/dou/dou/7043.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Depois dos 40 -2
+http://sspitv.liss.fun:8880/movie/dou/dou/7018.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Estrelas em Busca de Prazer
+http://sspitv.liss.fun:8880/movie/dou/dou/7070.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Eu Sei Fazer Um Le Le Le!
+http://sspitv.liss.fun:8880/movie/dou/dou/7037.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Familia Incestuosa 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7034.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Fazendo Gang Bang Ao Vivo
+http://sspitv.liss.fun:8880/movie/dou/dou/12401.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Fazendo Sacanagem
+http://sspitv.liss.fun:8880/movie/dou/dou/7044.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Foda Me 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7071.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Foi Daquele Jeito 2013
+http://sspitv.liss.fun:8880/movie/dou/dou/7047.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Fome de Sexo
+http://sspitv.liss.fun:8880/movie/dou/dou/7080.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Forum 27
+http://sspitv.liss.fun:8880/movie/dou/dou/7019.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Gravando Com 2 Negoes Bem Dotados Angel Lima
+http://sspitv.liss.fun:8880/movie/dou/dou/12418.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Historias de uma Gueixa 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7081.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Invasao de Privacidade
+http://sspitv.liss.fun:8880/movie/dou/dou/7074.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Julia Paes vs Regininha Poltergeist
+http://sspitv.liss.fun:8880/movie/dou/dou/7017.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Louca Pra Dar o Cu
+http://sspitv.liss.fun:8880/movie/dou/dou/7061.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Louquinha 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7042.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Louquinha 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7015.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Maria Chuteira
+http://sspitv.liss.fun:8880/movie/dou/dou/7050.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Mas Que Beleza
+http://sspitv.liss.fun:8880/movie/dou/dou/7053.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Ninfetas Gulosas 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7016.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Novatas do Porno
+http://sspitv.liss.fun:8880/movie/dou/dou/7076.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: O Fenomeno Voltou
+http://sspitv.liss.fun:8880/movie/dou/dou/7067.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: O Rei das Mulheres
+http://sspitv.liss.fun:8880/movie/dou/dou/7063.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: O Show de Luanda Boaz
+http://sspitv.liss.fun:8880/movie/dou/dou/7045.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Paraíso das Bundas
+http://sspitv.liss.fun:8880/movie/dou/dou/7064.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Pecadora
+http://sspitv.liss.fun:8880/movie/dou/dou/7059.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Quinteto Sexual
+http://sspitv.liss.fun:8880/movie/dou/dou/7049.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Redondinho de 4
+http://sspitv.liss.fun:8880/movie/dou/dou/7032.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Regininha PolterGeist
+http://sspitv.liss.fun:8880/movie/dou/dou/7077.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Salada De Frutas
+http://sspitv.liss.fun:8880/movie/dou/dou/7065.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Segredos
+http://sspitv.liss.fun:8880/movie/dou/dou/7033.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Show de Bundas 2
+http://sspitv.liss.fun:8880/movie/dou/dou/7054.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Show De Bundas Vol. 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7031.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Show De Bundas Vol. 4
+http://sspitv.liss.fun:8880/movie/dou/dou/7029.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Show de Orgias
+http://sspitv.liss.fun:8880/movie/dou/dou/7051.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Teste de Atriz
+http://sspitv.liss.fun:8880/movie/dou/dou/12417.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Trepada Interracial
+http://sspitv.liss.fun:8880/movie/dou/dou/7073.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Vizinhas Gostosas 1
+http://sspitv.liss.fun:8880/movie/dou/dou/7082.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas: Yumi Saito vs. a Nova Fernandinha Fernandez
+http://sspitv.liss.fun:8880/movie/dou/dou/7036.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas:5 Vezes Mais Sexo
+http://sspitv.liss.fun:8880/movie/dou/dou/7056.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas:Triplex Anal 3
+http://sspitv.liss.fun:8880/movie/dou/dou/7058.mp4
+#EXTINF:-1, group-title="Canais Premium 6", Brasileirinhas:Turbinadas
+http://sspitv.liss.fun:8880/movie/dou/dou/7052.mp4
+
