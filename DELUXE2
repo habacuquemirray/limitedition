@@ -1,1800 +1,462 @@
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS PREMIUM 0",    GLOBO BRASILIA
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37095.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iptvwebcsgo.com/logos/globodf.png" group-title="CANAIS PREMIUM 0",    GLOBO BRASILIA HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/40513.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS PREMIUM 0",   GLOBO SP
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37090.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvwebcsgo.com/logos/globosp.png" group-title="CANAIS PREMIUM 0",    GLOBO SP HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37361.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS PREMIUM 0",   GLOBO RJ
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37091.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS PREMIUM 0",    GLOBO RJ HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36968.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/wA6taE" group-title="CANAIS PREMIUM 0",    GLOBO BAHIA
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37096.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",   SBT SP
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37048.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",  SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",     SBT GO
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="CANAIS PREMIUM 0",    RECORD SP
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37051.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="CANAIS PREMIUM 0",     RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="CANAIS PREMIUM 0",    RECORD ES
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/a/ad/Logo_recordtv.png/revision/latest?cb=20170130024659" group-title="CANAIS PREMIUM 0",    RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="CANAIS PREMIUM 0",   BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="CANAIS PREMIUM 0",   BAND PA
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="CANAIS PREMIUM 0",   BAND SP
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37127.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette1.wikia.nocookie.net/logopedia/images/c/cc/200px-TV_Brasil_logo.png/revision/latest?cb=20130129165234" group-title="CANAIS PREMIUM 0",    TV BRASIL
-http://bit.do/TV-BRASILIPTVFIRE2018
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lo1b71nzh/redegospel.png" group-title="CANAIS PREMIUM 0",     IPTV BRASIL
-http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?MAXHD
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/Sr2UQE" group-title="CANAIS PREMIUM 0",  REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/Sr2UQE" group-title="CANAIS PREMIUM 0",  REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/sf6y0zx95/redebrasil_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",REDE BRASIL
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/sf6y0zx95/redebrasil_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",REDE BRASIL SP
-http://tv01.logicahost.com.br:1935/brbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS PREMIUM 0",        TV ESCOLA
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS PREMIUM 0",        TV ESCOLA HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2RFz-jndhZHIZVqImKvPWG-IMVxn0mG7tzTVcSSURuzZDEZIM" group-title="CANAIS RELIGIOSOS",    TV APARECIDA
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAIS PREMIUM 0",             TV GAZETA HD
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.cxtv.com.br/img/Tvs/Logo/88864334140337d2d38cd40650fe7737.png" group-title="CANAIS PREMIUM 0",              TV FUTURA HD
-http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/kz7of5z95/cultura_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",      TV CULTURA HD
-http://m3u.me/br/uBry?IPTVFIRE2018?
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zXNHpHV.png" group-title="CANAIS PREMIUM 0",              TV PANTANAL MS
-http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?VOCÊSABIANÃO
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS RELIGIOSOS",              TV NOVO TEMPO
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/v8VrAi" group-title="CANAIS RELIGIOSOS",    TV CANÇÃO NOVA
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?jhonlocao
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="CANAIS RELIGIOSOS", CANÇÃO NOVA HD
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="CANAIS PREMIUM 0",   TV REDE VIDA HD
-https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
-
-#EXTINF:-1 tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="CANAIS PREMIUM 0",   MEDICINA E SAÚDE
-http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/chunklist_w755927461.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="CANAIS PREMIUM 0",   VEM & VÊ 1 HD
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="CANAIS PREMIUM 0",   VEM & VÊ 2
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="CANAIS PREMIUM 0",   VEM & VÊ 3
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AmazonSat" tvg-name="TV AMAZON SAT" tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="CANAIS PREMIUM 0",AMAZON SAT
-http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="CANAIS PREMIUM 0", MAIS GLOBOSAT
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36916.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="CANAIS PREMIUM 0",  MTV
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37071.m3u8
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="CANAIS PREMIUM 0",BIS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37131.m3u8
-
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="CANAIS PREMIUM 0",Food Network
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37102.m3u8
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="CANAIS PREMIUM 0",GNT
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37088.m3u8
-
-#EXTINF:-1 tvg-id="TopTV" tvg-name="Top TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH-bWU4vEFGgfj20IZgEeW8MHj96Rqsoq0nBVTFTFR6dbAykoH" group-title="CANAIS PREMIUM 0",TOP TV
-http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="CANAIS PREMIUM 0",  MULTISHOW
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37070.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="CANAIS PREMIUM 0",  VIVA
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36997.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS PREMIUM 0",   TV WEB NOVA PARAÍBA
-http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/an6620vql/boavontadetv.png" group-title="CANAIS PREMIUM 0",   BOA VONTADE TV HD
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/47f10bdf3d1ccd434e2d3fb5a5916615.jpg" group-title="CANAIS PREMIUM 0",          CANAL RURAL
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/qS8f4y" group-title="CANAIS PREMIUM 0",          AGRO  CANAL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="CANAIS PREMIUM 0",             TV DIÁRIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/3yos6jby1/terraviva_MEGAMAXIPTV.jpg" group-title="CANAIS PREMIUM 0",        TERRA VIVA
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/GhPFetE.png" group-title="CANAIS PREMIUM 0",                CANAL DO BOI
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3b/Logo_da_Rede_Super.png/150px-Logo_da_Rede_Super.png" group-title="CANAIS PREMIUM 0",    REDE SUPER
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvebahia.png" group-title="CANAIS PREMIUM 0",    TVE BAHIA
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="CANAIS PREMIUM 0",     TV GRAVA
-http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="CANAIS PREMIUM 0",   AD ALMADA
-http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="CANAIS PREMIUM 0",   SESC TV
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
-
-#EXTINF:-1 tvg- logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFNtq_hIOk4n6gSj9roj9SmvBmj3WSO8pkeTlnyzmnZ793is36" group-title="CANAIS PREMIUM 0",             TV CÂMARA HD
-http://stream2.camara.gov.br:80/tv2/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s27.postimg.org/lii6qu8mb/TV_Clima.png" group-title="CANAIS PREMIUM 0",                    TV CLIMA HD
-http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS PREMIUM 0",                    TV RENACER GOSPEL
-http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.aroodawakening.tv/wp-content/uploads/Gospel-TV-logo-best.jpeg" group-title="CANAIS PREMIUM 0",                    PORTAL GOSPEL TV
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/5SvcimL.png" group-title="CANAIS PREMIUM 0",             CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-45xnuFaz7Sg/AAAAAAAAAAI/AAAAAAAAAAA/ytlSE3dvFkU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS PREMIUM 0",      TV COM (Maceio)
-http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/02/multitv.jpg" group-title="CANAIS PREMIUM 0",             BUZIO TV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/p3ou2uvu5/tvuniversal.png" group-title="CANAIS PREMIUM 0",       TV Universal HD
-http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?Jspedroso
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1duuy2" group-title="CANAIS PREMIUM 0",             CANAL PROMESSAS
-http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS PREMIUM 0",             CANAL  SETE
-http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7MunEZH9i3S-E9VAWSzpZmRncNBvu0cIwUuQoWpFRB50J_Ch6" group-title="CANAIS PREMIUM 0",   NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cbqlIU5.png" group-title="CANAIS PREMIUM 0",   POLISHOP
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41291.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="CANAIS PREMIUM 0",  GLOBO NEWS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37093.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS PREMIUM 0",      BAND NEWS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37126.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CANAIS PREMIUM 0",   RECORD NEWS
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CANAIS PREMIUM 0",   RECORD NEWS [ALTER]
-http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Español.svg/1200px-CNN_en_Español.svg.png" group-title="CANAIS PREMIUM 0", CNN HD (Noticias Chile)
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS PREMIUM 0",   IFC TV GERAL
-http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS PREMIUM 0",  COMBATE ALTERNATIVO
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS PREMIUM 0",  COMBATE
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37119.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",  PREMIERES CLUBES
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37016.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",  PREMIERES CLUBES HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36948.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 2
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37060.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 3
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37059.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 4
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37058.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 5
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37057.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 6
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37056.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 7
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37017.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 8
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41304.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS PREMIUM 0",PREMIERE 9
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41305.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="CANAIS PREMIUM 0", SPORTV
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37256.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="CANAIS PREMIUM 0", SPORTV 2
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37044.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="CANAIS PREMIUM 0",SPORTV 3 
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37006.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="CANAIS PREMIUM 0",  FOX SPORTS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37099.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="CANAIS PREMIUM 0",  FOX SPORTS 2
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37098.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="CANAIS PREMIUM 0", ESPN
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37105.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="CANAIS PREMIUM 0",  ESPN BR
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37104.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="CANAIS PREMIUM 0",ESPN PLUS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36976.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="CANAIS PREMIUM 0",   ESPORTE INTERATIVO
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36975.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="CANAIS PREMIUM 0", ESPORTE INTERATIVO 2 
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="CANAIS PREMIUM 0", ESPORTE INTERATIVO 2 [ALTER]
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="CANAIS PREMIUM 0",  BAND SPORT
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37125.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="CANAIS ", OFF
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37063.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="CANAIS PREMIUM 0", BABY TV
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36993.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="CANAIS PREMIUM 0",   CARTOON NETWORK
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37121.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/syou7kI.png" group-title="CANAIS PREMIUM 0",   BOOMERANG HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37123.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="CANAIS PREMIUM 0",      DISNEY CHANNEL HD
-http://tv.factoryiptv.com/live/Marcos05/Marcos05/37111.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="CANAIS PREMIUM 0",  DISNEY XD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37109.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="CANAIS PREMIUM 0",  TOONCAST
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37033.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="CANAIS PREMIUM 0",NICKELODEON
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37064.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i..com/n9ASqkP.png" group-title="CANAIS PREMIUM 0",CONECTATV
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w193531204.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/mlyqbuqrx/unnamed.png" group-title="CANAIS PREMIUM 0",                     CARTOON GOSPEL
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" group-title="CANAIS PREMIUM 0",      CLASSIQUE TV
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="CANAIS PREMIUM 0",   TV NA ILHA
-http://stmv4.srvstm.com/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1030442366
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/9iBYYHL.png" group-title="CANAIS PREMIUM 0",      GOSPEL MOVEL TELEVISION
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FrancoIPTV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/zG3XXJ" group-title="CANAIS PREMIUM 0",              CINE+
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf07f56766cdeaa571235d42e8f72f4.png" group-title="CANAIS PREMIUM 0",MARICÁ TV
-http://wse8.player.tv.br:1935/maricatv/maricatv/chunklist_w1236583397.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="CANAIS PREMIUM 0",   CINE SKY TERROR
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="CANAIS PREMIUM 0",   CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHNrRXojaxKL7akakoI8xg4XKqakpzhN9rXAfm2Jly76yH7-J" group-title="CANAIS PREMIUM 0",£
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37108.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="CANAIS PREMIUM 0",TRU TV
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37032.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="CANAIS PREMIUM 0", A&E
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37130.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="CANAIS PREMIUM 0", LIFETIME
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37077.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="CANAIS PREMIUM 0", PRIME BOX BRASIL
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37053.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="CANAIS PREMIUM 0",    COMEDY CENTRAL
-http://tv.factoryiptv.com/live/Marcos05/Marcos05/37118.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="CANAIS PREMIUM 0",  TBS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37041.m3u8
-
-#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium1.jpg" group-title="CANAIS PREMIUM 0",  FOX PREMIUM 1 HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36974.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS PREMIUM 0",  FOX PREMIUM 2 HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36973.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS PREMIUM 0",           TNT SERIES
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37034.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS PREMIUM 0", TNT SERIES HD
-http://tv.factoryiptv.com/live/Marcos05/Marcos05/36933.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS PREMIUM 0",    TNT
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37035.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS PREMIUM 0", TNT HD 
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36934.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS PREMIUM 0",    TNT 2
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41525.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS PREMIUM 0",    TNT 3
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41526.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="CANAIS PREMIUM 0",  PARAMOUNT CHANNEL
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37062.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="CANAIS PREMIUM 0",  PARAMOUNT CHANNEL HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36953.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="CANAIS PREMIUM 0",   MEGA PIX
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37072.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="CANAIS PREMIUM 0",   MEGA PIX HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36958.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="CANAIS PREMIUM 0",   FOX LIFE
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37100.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="CANAIS PREMIUM 0",           STUDIO UNIVERSAL
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37043.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="CANAIS PREMIUM 0", STUDIO UNIVERSAL HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36904.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="CANAIS PREMIUM 0",  UNIVELSAL CHANNEL
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37027.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="CANAIS PREMIUM 0",  UNIVELSAL CHANNEL HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36932.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="CANAIS PREMIUM 0",  FX
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37097.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="CANAIS PREMIUM 0",  FX HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36969.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="CANAIS PREMIUM 0",  FOX
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37101.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="CANAIS PREMIUM 0",  SPACE
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37046.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="CANAIS PREMIUM 0", SPACE HD 
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36944.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="CANAIS PREMIUM 0",  CINEMAX
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37120.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="CANAIS FIKMES",  CINEMAX HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36926.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="CANAIS PREMIUM 0",  WARNER HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36930.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="CANAIS PREMIUM 0",  CANAL SONY HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36987.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="CANAIS PREMIUM 0",  AMC
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37129.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="CANAIS PREMIUM 0",  AMC HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36928.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="CANAIS PREMIUM 0",  AXN
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37132.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="CANAIS PREMIUM 0",  TCM
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37037.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="CANAIS PREMIUM 0",  SYFY
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37042.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="CANAIS PREMIUM 0",  SYFY HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36903.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWC5pQyuPUzJOquWwfKX_hp6tlzqjgoFoO_5kR6GNEJzPTpAWQ" group-title="CANAIS PREMIUM 0", FILM & ARTS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41374.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="CANAIS PREMIUM 0",  TELECINE ACTION
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37040.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="CANAIS PREMIUM 0",  TELECINE ACTION HD 
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36936.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/849pB2j.png" group-title="CANAIS PREMIUM 0",  TELECINE TOUCH
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36995.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/849pB2j.png" group-title="CANAIS PREMIUM 0",  TELECINE TOUCH HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36935.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="CANAIS PREMIUM 0",  TELECINE FUN
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37005.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="CANAIS FIMES",  TELECINE FUN HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36938.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS PREMIUM 0",  TELECINE PIPOCA
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37038.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS PREMIUM 0",  TELECINE PIPOCA HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36937.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS PREMIUM 0",  TELECINE PREMIUM
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36994.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS PREMIUM 0",  TELECINE PREMIUM HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="CANAIS PREMIUM 0",  TELECINE CULT
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37039.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS PREMIUM 0",  TELECINE PREMIUM ALTERNATIVO
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="CANAIS PREMIUM 0",      HBO
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37087.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="CANAIS PREMIUM 0",      HBO HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36964.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/okiePBA.png" group-title="CANAIS PREMIUM 0",        HBO 2
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37086.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/okiePBA.png" group-title="CANAIS PREMIUM 0",        HBO 2 HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36966.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS PREMIUM 0",      HBO PLUS
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37084.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS PREMIUM 0",      HBO PLUS HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36963.m3u8
-
-#EXTINF:-1 tvg-id="HBO Plus*e" tvg-name="HBO Plus E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS PREMIUM 0",HBO Plus E
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37083.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="CANAIS PREMIUM 0",    HBO FAMILY
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37085.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="CANAIS PREMIUM 0",    HBO FAMILY HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36965.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="CANAIS PREMIUM 0",  HBO SIGNATURE
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37082.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="CANAIS PREMIUM 0",  MAX HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37076.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwsE6IdR2ClxgyVjmsrbS3qn3EKbDvvhEfTdt6wnd-xDOUrnC" group-title="CANAIS PREMIUM 0",  MAX UP
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37073.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwsE6IdR2ClxgyVjmsrbS3qn3EKbDvvhEfTdt6wnd-xDOUrnC" group-title="CANAIS PREMIUM 0",MAX UP HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36911.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="CANAIS PREMIUM 0",   MAX PRIME
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37074.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="CANAIS PREMIUM 0", MAX PRIME HD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/36912.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Max Prime*e [Alternativo]" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="CANAIS PREMIUM 0",Max Prime*e [Alternativo]
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41264.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="CANAIS PREMIUM 0",SUMMER TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1801199655.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2016/06/22/22170804950742.jpg" group-title="CANAIS PREMIUM 0", CAPITAL777
-http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh8O9e6.jpg?1" group-title="CANAIS PREMIUM 0", CARIOCA NET TV
-http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w1016328092.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53014f05b69e8e2dda2d55b032f8b0a4.jpg" group-title="CANAIS PREMIUM 0",   YEEAH TEEN
-http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8?wowzasessionid=1971011538
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CANAIS PREMIUM 0",   TV ARACATI
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="CANAIS PREMIUM 0",   TV TEEN NET
-http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=1444982722
-
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="CANAIS PREMIUM 0", REED BULL TV
-https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_578.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="CANAIS PREMIUM 0",   ALL SPORTS HD
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1814552354.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/X0rwGWK.png" group-title="CANAIS PREMIUM 0",  REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d0a56bd4618d5d85e49f87519751b6.jpg" group-title="CANAIS PREMIUM 0",SEVILA TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/sherwoodforestgc.com/wp-content/uploads/2016/03/Golf_Flat.jpg" group-title="CANAIS PREMIUM 0",  GOLF CHANNEL |USA|
-https://lhr-1.firstonetv.net:4434/hls/cef0cc7c7f43996265e4d37ab47cd086/1542676125/7b226970223a223230392e3233392e3131322e313034222c226363223a225553227d/687474703a2f2f747665676f6c662d692e616b616d616968642e6e65742f686c732f6c6976652f3231383232352f676f6c66782f323539366b2f70726f672e6d337538.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee4c267eb8ceadf63a93090b9844f642.png" group-title="CANAIS PREMIUM 0",MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20181116_1542344862570/500K/500_slide.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/autoiptv.net/images/logos/nbatv.png" group-title="CANAIS PREMIUM 0", NBA TV
-http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="CANAIS PREMIUM 0",FISH TV
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37103.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="CANAIS PREMIUM 0", BARCELONA TV
-https://ul.cdn584.net:8443/hls/z1963.m3u8?s=oj8ueN65l3Emt85BSLLvIg&e=1542670750
-
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="CANAIS PREMIUM 0",NATGEO
-http://tv.minhalista.me:80/live/Mauro1/Mauro1/37068.ts
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="CANAIS PREMIUM 0", NATGEO WILD
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37066.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="CANAIS PREMIUM 0", ANIMAL PLANET
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37128.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="CANAIS PREMIUM 0",  HISTORY
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37081.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="CANAIS PREMIUM 0",   HISTORY 2
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/40040.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="CANAIS PREMIUM 0",  DISCOVERY  CHANNEL
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37116.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="CANAIS PREMIUM 0",  DISCOVERY TURBO
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37112.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="http://kelencontent.com/wp-content/uploads/2010/02/site_logo-11.gif" group-title="CANAIS PREMIUM 0",DISCOVERY CIVILIZATION
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41135.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="CANAIS PREMIUM 0",Discovery H&H
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37115.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="CANAIS PREMIUM 0",Discovery Science
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/41141.m3u8
-
-
-#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="CANAIS PREMIUM 0",Investigação Discovery
-http://tv.factoryiptv.com/live/Mauro1/Mauro1/37114.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/525295b61d371547a3614bfa8aef9ab6.gif" group-title="CANAIS CAMERA",CAMERA NASA
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    GOSPEL
-http://192.99.150.31:9101/;
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    SERTANEJO UNIVERSITÁRIO
-http://192.99.150.31:9191/stream
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",   SERTANEJO CLÁSSICO
-http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    SERTANEJO RAIZ
-http://192.99.150.31:9155/stream?
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    KIDS
-http://192.99.150.31:9431/;
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",  JOVEM GUARDA
-http://192.99.150.31:8801/;
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    ELETRÔNICA
-http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",   DANCE
-http://zet.cdn.eurozet.pl/ZETDAN.mp3
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    AXÉ
-http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    FUNK
-http://192.99.150.31:9089/;
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",    PAGODE
-http://6d9a.webradio.upx.net.br:9061/stream?
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",  FORRÓ
-http://192.99.150.31:9019/stream?
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",  RAP NACIONAL
-http://192.99.150.31:8377/;
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS PREMIUM 0",  ROCK
-http://192.99.150.31:9125/stream?
-
 #EXTM3U
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", A FAZENDA 10
-http://unionsrv.online:8880/10100/10100/15145
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", A FAZENDA [Alternativo]
-http://unionsrv.online:8880/10100/10100/19441
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E
-http://unionsrv.online:8880/10100/10100/8156
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E [Alternativo]
-http://unionsrv.online:8880/10100/10100/12719
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E HD
-http://unionsrv.online:8880/10100/10100/8241
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12720
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC
-http://unionsrv.online:8880/10100/10100/8155
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC [Alternativo]
-http://unionsrv.online:8880/10100/10100/12717
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC HD
-http://unionsrv.online:8880/10100/10100/8240
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12718
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ANIMAL PLANET
-http://unionsrv.online:8880/10100/10100/8154
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ANIMAL PLANET [Alternativo]
-http://unionsrv.online:8880/10100/10100/12735
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ANIMAL PLANET HD
-http://unionsrv.online:8880/10100/10100/8239
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ANIMAL PLANET HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12736
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ARTE 1
-http://unionsrv.online:8880/10100/10100/8153
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ARTE 1 Alternativo
-http://unionsrv.online:8880/10100/10100/12953
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ARTE 1 HD
-http://unionsrv.online:8880/10100/10100/8152
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Arte1 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/17999
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN
-http://unionsrv.online:8880/10100/10100/8151
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN [Alternativo]
-http://unionsrv.online:8880/10100/10100/12721
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN HD
-http://unionsrv.online:8880/10100/10100/8238
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12722
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BABY TV
-http://unionsrv.online:8880/10100/10100/8237
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BABY TV [Alternativo]
-http://unionsrv.online:8880/10100/10100/13093
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Baby TV HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/18000
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND
-http://unionsrv.online:8880/10100/10100/8150
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band SP [Alternativo]
-http://unionsrv.online:8880/10100/10100/12882
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND HD
-http://unionsrv.online:8880/10100/10100/294
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Nordeste HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/18974
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Campinas HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13092
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND NEWS
-http://unionsrv.online:8880/10100/10100/8149
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND NEWS [Alternativo]
-http://unionsrv.online:8880/10100/10100/13090
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND NEWS HD
-http://unionsrv.online:8880/10100/10100/8148
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/18001
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Campinas [Alternativo]
-http://unionsrv.online:8880/10100/10100/12881
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND SPORTS
-http://unionsrv.online:8880/10100/10100/8147
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND SPORTS [Alternativo]
-http://unionsrv.online:8880/10100/10100/12725
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND SPORTS HD
-http://unionsrv.online:8880/10100/10100/8236
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BAND SPORTS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12726
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS
-http://unionsrv.online:8880/10100/10100/8146
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS [Alternativo]
-http://unionsrv.online:8880/10100/10100/12880
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS HD
-http://unionsrv.online:8880/10100/10100/8235
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13089
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BOA VONTADE
-http://unionsrv.online:8880/10100/10100/3132
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BOA VONTADE HD
-http://unionsrv.online:8880/10100/10100/4660
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BOOMERANG
-http://unionsrv.online:8880/10100/10100/8145
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BOOMERANG [Alternativo]
-http://unionsrv.online:8880/10100/10100/13088
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", BOOMERANG HD
-http://unionsrv.online:8880/10100/10100/8144
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/18002
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CNT
-http://unionsrv.online:8880/10100/10100/18978
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CBTV International [Alternativo]
-http://unionsrv.online:8880/10100/10100/18017
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cine Sky [Alternativo]
-http://unionsrv.online:8880/10100/10100/18018
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cine+TV [Alternativo]
-http://unionsrv.online:8880/10100/10100/18976
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Classique TV
-http://unionsrv.online:8880/10100/10100/18977
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL BRASIL
-http://unionsrv.online:8880/10100/10100/8143
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL BRASIL [Alternativo]
-http://unionsrv.online:8880/10100/10100/13087
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL BRASIL HD
-http://unionsrv.online:8880/10100/10100/8234
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL RURAL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12879
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL SONY
-http://unionsrv.online:8880/10100/10100/8142
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL SONY HD
-http://unionsrv.online:8880/10100/10100/8141
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Sony [Alternativo]
-http://unionsrv.online:8880/10100/10100/18975
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANAL SONY HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12716
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANÇÃO NOVA
-http://unionsrv.online:8880/10100/10100/8233
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canção Nova {Alternativo]
-http://unionsrv.online:8880/10100/10100/18003
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CANÇAO NOVA [Alternativo]
-http://unionsrv.online:8880/10100/10100/4661
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CARTOON NETWORK
-http://unionsrv.online:8880/10100/10100/8140
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CARTOON NETWORK [Alternativo]
-http://unionsrv.online:8880/10100/10100/13083
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CARTOON NETWORK HD
-http://unionsrv.online:8880/10100/10100/8232
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CARTOON NETWORK HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13084
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CINEMAX
-http://unionsrv.online:8880/10100/10100/8139
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CINEMAX [Alternativo]
-http://unionsrv.online:8880/10100/10100/13081
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CINEMAX HD
-http://unionsrv.online:8880/10100/10100/8231
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CINEMAX HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13082
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CNN INTERNACIONAL [Alternativo]
-http://unionsrv.online:8880/10100/10100/13080
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMBATE
-http://unionsrv.online:8880/10100/10100/8138
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMBATE [Alternativo]
-http://unionsrv.online:8880/10100/10100/12723
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMBATE HD
-http://unionsrv.online:8880/10100/10100/8230
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMBATE HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12724
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMEDY CENTRAL
-http://unionsrv.online:8880/10100/10100/8137
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMEDY CENTRAL [Alternativo]
-http://unionsrv.online:8880/10100/10100/13078
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMEDY CENTRAL HD
-http://unionsrv.online:8880/10100/10100/8229
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", COMEDY CENTRAL HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13079
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CONEXAO BR
-http://unionsrv.online:8880/10100/10100/3140
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CURTA!
-http://unionsrv.online:8880/10100/10100/8136
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CURTA! [Alternativo]
-http://unionsrv.online:8880/10100/10100/13077
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", CURTA! HD
-http://unionsrv.online:8880/10100/10100/8135
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Curta! HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/18016
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CHANNEL
-http://unionsrv.online:8880/10100/10100/8134
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CHANNEL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12741
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CHANNEL HD
-http://unionsrv.online:8880/10100/10100/8228
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CHANNEL HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12742
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CIVILIZATION
-http://unionsrv.online:8880/10100/10100/8133
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CIVILIZATION [Alternativo]
-http://unionsrv.online:8880/10100/10100/12739
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CIVILIZATION HD
-http://unionsrv.online:8880/10100/10100/8227
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY CIVILIZATION HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12740
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY HOME & HEALTH
-http://unionsrv.online:8880/10100/10100/8132
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY HOME & HEALTH [Alternativo]
-http://unionsrv.online:8880/10100/10100/12737
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY HOME & HEALTH HD
-http://unionsrv.online:8880/10100/10100/8226
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY HOME & HEALTH HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12738
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY KIDS
-http://unionsrv.online:8880/10100/10100/8131
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY KIDS [Alternativo]
-http://unionsrv.online:8880/10100/10100/12748
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY KIDS HD
-http://unionsrv.online:8880/10100/10100/8225
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY KIDS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12749
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY SCIENCE
-http://unionsrv.online:8880/10100/10100/8130
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY SCIENCE [Alternativo]
-http://unionsrv.online:8880/10100/10100/12733
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY SCIENCE HD
-http://unionsrv.online:8880/10100/10100/8129
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY SCIENCE HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12734
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY THEATER
-http://unionsrv.online:8880/10100/10100/8128
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY THEATER [Alternativo]
-http://unionsrv.online:8880/10100/10100/12731
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY THEATER HD
-http://unionsrv.online:8880/10100/10100/8224
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY THEATER HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12732
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY TURBO
-http://unionsrv.online:8880/10100/10100/8127
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY TURBO [Alternativo]
-http://unionsrv.online:8880/10100/10100/12729
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY TURBO HD
-http://unionsrv.online:8880/10100/10100/8223
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY TURBO HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12730
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY WORLD
-http://unionsrv.online:8880/10100/10100/8126
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY WORLD  HD
-http://unionsrv.online:8880/10100/10100/8222
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY WORLD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12727
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISCOVERY WORLD HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12728
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY CHANNEL
-http://unionsrv.online:8880/10100/10100/8125
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY CHANNEL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12746
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY CHANNEL HD
-http://unionsrv.online:8880/10100/10100/8221
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY CHANNEL HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12747
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY JUNIOR
-http://unionsrv.online:8880/10100/10100/8124
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY JUNIOR [Alternativo]
-http://unionsrv.online:8880/10100/10100/12744
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY JUNIOR HD
-http://unionsrv.online:8880/10100/10100/14091
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY JUNIOR HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12745
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY XD
-http://unionsrv.online:8880/10100/10100/8123
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY XD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13076
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", DISNEY XD HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12743
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", E!
-http://unionsrv.online:8880/10100/10100/8120
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! [Alternativo]
-http://unionsrv.online:8880/10100/10100/13074
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! HD
-http://unionsrv.online:8880/10100/10100/8220
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13075
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN
-http://unionsrv.online:8880/10100/10100/8119
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN [Alternativo]
-http://unionsrv.online:8880/10100/10100/13068
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN HD
-http://unionsrv.online:8880/10100/10100/8219
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13069
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN 2 [Alternativo]
-http://unionsrv.online:8880/10100/10100/18979
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN BRASIL
-http://unionsrv.online:8880/10100/10100/8117
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN BRASIL ]Alternativo[
-http://unionsrv.online:8880/10100/10100/13066
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN BRASIL HD
-http://unionsrv.online:8880/10100/10100/8243
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN BRASIL HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13067
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN EXTRA
-http://unionsrv.online:8880/10100/10100/8116
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN EXTRA HD
-http://unionsrv.online:8880/10100/10100/8115
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN+ HD
-http://unionsrv.online:8880/10100/10100/8118
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FISH TV
-http://unionsrv.online:8880/10100/10100/8108
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FISH TV [Alternativo]
-http://unionsrv.online:8880/10100/10100/13062
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FISH TV HD
-http://unionsrv.online:8880/10100/10100/8107
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Anhanguera Goiania
-http://unionsrv.online:8880/10100/10100/19276
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Belem
-http://unionsrv.online:8880/10100/10100/19037
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Cabugi
-http://unionsrv.online:8880/10100/10100/18982
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Vanguarda S.J dos Campos
-http://unionsrv.online:8880/10100/10100/18984
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fish TV HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/18980
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Verdes Mares Fortaleza
-http://unionsrv.online:8880/10100/10100/18985
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOOD NETWORK
-http://unionsrv.online:8880/10100/10100/8106
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOOD NETWORK ]Alternativo]
-http://unionsrv.online:8880/10100/10100/13060
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOOD NETWORK HD
-http://unionsrv.online:8880/10100/10100/8218
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOOD NETWORK HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13061
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX
-http://unionsrv.online:8880/10100/10100/8105
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX [Alternativo]
-http://unionsrv.online:8880/10100/10100/12878
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX HD
-http://unionsrv.online:8880/10100/10100/8217
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13059
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX LIFE
-http://unionsrv.online:8880/10100/10100/8104
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX LIFE [Alternativo]
-http://unionsrv.online:8880/10100/10100/13056
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX LIFE HD
-http://unionsrv.online:8880/10100/10100/8216
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX LIFE HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13057
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX PREMIUM 1
-http://unionsrv.online:8880/10100/10100/8103
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 1 [Alternativo]
-http://unionsrv.online:8880/10100/10100/18981
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX PREMIUM 1 HD
-http://unionsrv.online:8880/10100/10100/8215
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX PREMIUM 1 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13055
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX PREMIUM 2
-http://unionsrv.online:8880/10100/10100/15076
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX PREMIUM 2 HD
-http://unionsrv.online:8880/10100/10100/15075
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX PREMIUM 2 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13054
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS
-http://unionsrv.online:8880/10100/10100/8101
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS  [Alternativo]
-http://unionsrv.online:8880/10100/10100/13052
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS HD
-http://unionsrv.online:8880/10100/10100/8213
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13053
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS 2 [Alternativo]
-http://unionsrv.online:8880/10100/10100/13050
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS 2 HD
-http://unionsrv.online:8880/10100/10100/8099
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX SPORTS 2 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13051
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FUTURA
-http://unionsrv.online:8880/10100/10100/8212
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Futura [Alternativo]
-http://unionsrv.online:8880/10100/10100/18987
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FUTURA HD
-http://unionsrv.online:8880/10100/10100/8098
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX
-http://unionsrv.online:8880/10100/10100/8097
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX [Alternativo]
-http://unionsrv.online:8880/10100/10100/13048
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX HD
-http://unionsrv.online:8880/10100/10100/8211
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13049
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GAZETA SP [Alternativo]
-http://unionsrv.online:8880/10100/10100/13047
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO REDE AMAZONICA [Alternativo]
-http://unionsrv.online:8880/10100/10100/13029
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO BRASILIA
-http://unionsrv.online:8880/10100/10100/8096
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO BAHIA [Alternativo]
-http://unionsrv.online:8880/10100/10100/13040
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO BRASILIA HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13041
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO CAMPINAS [Alternativo]
-http://unionsrv.online:8880/10100/10100/13026
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV São Carlos
-http://unionsrv.online:8880/10100/10100/19033
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO EPTV CAMPINAS
-http://unionsrv.online:8880/10100/10100/8095
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO EPTV HD CAMPINAS
-http://unionsrv.online:8880/10100/10100/8094
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Campinas HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/19031
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO EPTV HD RIBEIRÃO PRETO
-http://unionsrv.online:8880/10100/10100/8093
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO EPTV RIBEIRÃO PRETO
-http://unionsrv.online:8880/10100/10100/8092
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO INTERNACIONAL [Alternativo]
-http://unionsrv.online:8880/10100/10100/13043
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO MINAS
-http://unionsrv.online:8880/10100/10100/8091
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG [Alternativo]
-http://unionsrv.online:8880/10100/10100/19034
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO MINAS HD
-http://unionsrv.online:8880/10100/10100/8210
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NEWS
-http://unionsrv.online:8880/10100/10100/8090
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NEWS [Alternativo]
-http://unionsrv.online:8880/10100/10100/13045
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NEWS HD
-http://unionsrv.online:8880/10100/10100/8209
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NEWS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13046
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NORDESTE
-http://unionsrv.online:8880/10100/10100/8208
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NORDESTE [Alternativo]
-http://unionsrv.online:8880/10100/10100/19277
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NORDESTE HD
-http://unionsrv.online:8880/10100/10100/8207
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NORDESTE HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13035
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NSC TV FLORIANOPOLIS
-http://unionsrv.online:8880/10100/10100/8089
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO NSC TV HD FLORIANOPOLIS
-http://unionsrv.online:8880/10100/10100/8088
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO PORTUGAL Alternativo
-http://unionsrv.online:8880/10100/10100/13042
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RBS HD TV PORTO ALEGRE
-http://unionsrv.online:8880/10100/10100/8086
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RBS TV PORTO ALEGRE
-http://unionsrv.online:8880/10100/10100/8087
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RBS TV PORTO ALEGRE [Alternativo]
-http://unionsrv.online:8880/10100/10100/13019
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Ribeirão Preto [Alternativo]
-http://unionsrv.online:8880/10100/10100/13022
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RJ
-http://unionsrv.online:8880/10100/10100/8085
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RJ [Alternativo]
-http://unionsrv.online:8880/10100/10100/13032
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RJ HD
-http://unionsrv.online:8880/10100/10100/8206
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RJ HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13033
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO PE [Alternativo]
-http://unionsrv.online:8880/10100/10100/13024
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RPC CURITIBA
-http://unionsrv.online:8880/10100/10100/8084
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO RPC CURITIBA HD
-http://unionsrv.online:8880/10100/10100/8083
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO SP
-http://unionsrv.online:8880/10100/10100/8082
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO SP [Alternativo]
-http://unionsrv.online:8880/10100/10100/13030
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO SP HD
-http://unionsrv.online:8880/10100/10100/8205
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO SP HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13031
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV ANHANGUERA
-http://unionsrv.online:8880/10100/10100/8081
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV ANHANGUERA HD
-http://unionsrv.online:8880/10100/10100/8080
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV BAHIA
-http://unionsrv.online:8880/10100/10100/8079
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV BAHIA [Alternativo]
-http://unionsrv.online:8880/10100/10100/13036
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV BAHIA HD
-http://unionsrv.online:8880/10100/10100/8078
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV TEM BAURU
-http://unionsrv.online:8880/10100/10100/8077
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV TEM BAURU [Alternativo]
-http://unionsrv.online:8880/10100/10100/13027
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV TEM HD S. J. DO RIO PRETO
-http://unionsrv.online:8880/10100/10100/8076
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV TEM S. J. DO RIO PRETO
-http://unionsrv.online:8880/10100/10100/8075
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBO TV TEM SOROCABA
-http://unionsrv.online:8880/10100/10100/8074
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBOSAT
-http://unionsrv.online:8880/10100/10100/8057
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBOSAT [Alternativo]
-http://unionsrv.online:8880/10100/10100/13017
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBOSAT HD
-http://unionsrv.online:8880/10100/10100/8056
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOBOSAT HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13018
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOOB
-http://unionsrv.online:8880/10100/10100/8073
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOOB [Alternativo]
-http://unionsrv.online:8880/10100/10100/13015
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOOB HD
-http://unionsrv.online:8880/10100/10100/8072
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOOB HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13016
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOOBINHO
-http://unionsrv.online:8880/10100/10100/8070
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GLOOBINHO HD
-http://unionsrv.online:8880/10100/10100/8071
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT
-http://unionsrv.online:8880/10100/10100/8069
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT HD
-http://unionsrv.online:8880/10100/10100/8204
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13014
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gospel Music TV
-http://unionsrv.online:8880/10100/10100/18986
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GOSPEL CARTOON [Alternativo]
-http://unionsrv.online:8880/10100/10100/2662
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", GOSPEL MOVIES TELEVISION [Alternativo]
-http://unionsrv.online:8880/10100/10100/3135
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2
-http://unionsrv.online:8880/10100/10100/8068
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 [Alternativo]
-http://unionsrv.online:8880/10100/10100/13010
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 HD
-http://unionsrv.online:8880/10100/10100/8203
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO
-http://unionsrv.online:8880/10100/10100/8067
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO HD
-http://unionsrv.online:8880/10100/10100/8200
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12794
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2
-http://unionsrv.online:8880/10100/10100/8066
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12874
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 HD
-http://unionsrv.online:8880/10100/10100/8202
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12798
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO FAMILY
-http://unionsrv.online:8880/10100/10100/8065
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO FAMILY [Alternativo]
-http://unionsrv.online:8880/10100/10100/12795
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO FAMILY HD
-http://unionsrv.online:8880/10100/10100/8201
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO FAMILY HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12796
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO PLUS
-http://unionsrv.online:8880/10100/10100/8064
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO PLUS [Alternativo]
-http://unionsrv.online:8880/10100/10100/12876
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO PLUS E
-http://unionsrv.online:8880/10100/10100/8063
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO PLUS E [Alternativo]
-http://unionsrv.online:8880/10100/10100/12792
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO PLUS E HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12791
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO PLUS HD
-http://unionsrv.online:8880/10100/10100/8199
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO SIGNATURE
-http://unionsrv.online:8880/10100/10100/8062
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO SIGNATURE [Alternativo]
-http://unionsrv.online:8880/10100/10100/12875
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO SIGNATURE HD
-http://unionsrv.online:8880/10100/10100/8198
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO SIGNATURE HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12788
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HISTORY
-http://unionsrv.online:8880/10100/10100/8061
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HISTORY CHANNEL [Alternativo]
-http://unionsrv.online:8880/10100/10100/13008
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HISTORY CHANNEL HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13009
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HISTORY HD
-http://unionsrv.online:8880/10100/10100/8060
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", HOT MUSIC Alternativo
-http://unionsrv.online:8880/10100/10100/13012
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", I-SAT [Alternativo]
-http://unionsrv.online:8880/10100/10100/13007
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", IMPD TV
-http://unionsrv.online:8880/10100/10100/4655
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", INVESTIGATION DISCOVERY
-http://unionsrv.online:8880/10100/10100/8059
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", INVESTIGATION DISCOVERY [Alternativo]
-http://unionsrv.online:8880/10100/10100/13005
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", INVESTIGATION DISCOVERY HD
-http://unionsrv.online:8880/10100/10100/8197
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", INVESTIGATION DISCOVERY HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13006
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", IURD TV Internacional
-http://unionsrv.online:8880/10100/10100/4656
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", LIFETIME
-http://unionsrv.online:8880/10100/10100/8058
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", LIFETIME [Alternativo]
-http://unionsrv.online:8880/10100/10100/13003
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", LIFETIME HD
-http://unionsrv.online:8880/10100/10100/8196
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", LIFETIME HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13004
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX
-http://unionsrv.online:8880/10100/10100/8055
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX [Alternativo]
-http://unionsrv.online:8880/10100/10100/13001
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX HD
-http://unionsrv.online:8880/10100/10100/8195
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/13002
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX PRIME
-http://unionsrv.online:8880/10100/10100/8054
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX PRIME [Alternativo]
-http://unionsrv.online:8880/10100/10100/12873
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX PRIME E
-http://unionsrv.online:8880/10100/10100/8053
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX PRIME E [Alternativo]
-http://unionsrv.online:8880/10100/10100/13000
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX PRIME HD
-http://unionsrv.online:8880/10100/10100/8194
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX PRIME HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12999
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP
-http://unionsrv.online:8880/10100/10100/8052
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP [Alternativo]
-http://unionsrv.online:8880/10100/10100/12997
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP HD
-http://unionsrv.online:8880/10100/10100/8193
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12998
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MEGAPIX
-http://unionsrv.online:8880/10100/10100/8051
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MEGAPIX [Alternativo]
-http://unionsrv.online:8880/10100/10100/12995
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MEGAPIX HD
-http://unionsrv.online:8880/10100/10100/8192
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MEGAPIX HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12996
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV
-http://unionsrv.online:8880/10100/10100/8050
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV [Alternativo]
-http://unionsrv.online:8880/10100/10100/12992
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV HD
-http://unionsrv.online:8880/10100/10100/8191
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV HD Alternativo
-http://unionsrv.online:8880/10100/10100/12993
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV LIVE
-http://unionsrv.online:8880/10100/10100/14089
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV LIVE HD
-http://unionsrv.online:8880/10100/10100/14090
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MULTISHOW
-http://unionsrv.online:8880/10100/10100/8049
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MULTISHOW [Alternativo]
-http://unionsrv.online:8880/10100/10100/12989
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MULTISHOW HD
-http://unionsrv.online:8880/10100/10100/8190
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MULTISHOW HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12990
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MUSIC BOX BRASIL
-http://unionsrv.online:8880/10100/10100/8048
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MUSIC BOX BRASIL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12988
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", MUSIC BOX BRASIL HD
-http://unionsrv.online:8880/10100/10100/8047
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO
-http://unionsrv.online:8880/10100/10100/8046
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO [Alternativo]
-http://unionsrv.online:8880/10100/10100/12986
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO HD
-http://unionsrv.online:8880/10100/10100/8189
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO HD Alternativo
-http://unionsrv.online:8880/10100/10100/12987
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NATGEO KIDS
-http://unionsrv.online:8880/10100/10100/8188
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NATGEO KIDS HD
-http://unionsrv.online:8880/10100/10100/8045
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO KIDS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12985
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO WILD
-http://unionsrv.online:8880/10100/10100/8044
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO WILD Alternativo
-http://unionsrv.online:8880/10100/10100/12983
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO WILD HD
-http://unionsrv.online:8880/10100/10100/8187
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO WILD HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12984
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NBR
-http://unionsrv.online:8880/10100/10100/8043
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NBR [Alternativo]
-http://unionsrv.online:8880/10100/10100/12872
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NHK Alternativo
-http://unionsrv.online:8880/10100/10100/12982
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICK JR
-http://unionsrv.online:8880/10100/10100/8042
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICK JR Alternativo
-http://unionsrv.online:8880/10100/10100/12980
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICK JR HD
-http://unionsrv.online:8880/10100/10100/8041
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICK JR HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12981
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICKELODEON
-http://unionsrv.online:8880/10100/10100/8040
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICKELODEON [Alternativo]
-http://unionsrv.online:8880/10100/10100/12978
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICKELODEON HD
-http://unionsrv.online:8880/10100/10100/8039
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", NICKELODEON HD Alternativo
-http://unionsrv.online:8880/10100/10100/12979
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF
-http://unionsrv.online:8880/10100/10100/8038
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF [Alternativo]
-http://unionsrv.online:8880/10100/10100/12871
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF HD
-http://unionsrv.online:8880/10100/10100/8186
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF HD Alternativo
-http://unionsrv.online:8880/10100/10100/12977
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF SD
-http://unionsrv.online:8880/10100/10100/33
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PARAMOUNT CHANNEL
-http://unionsrv.online:8880/10100/10100/8037
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PARAMOUNT CHANNEL Alternativo
-http://unionsrv.online:8880/10100/10100/12975
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PARAMOUNT CHANNEL HD
-http://unionsrv.online:8880/10100/10100/8185
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Amazon Sat [Alternativo]
-http://unionsrv.online:8880/10100/10100/12974
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PLAYKIDS HD
-http://unionsrv.online:8880/10100/10100/15138
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PLAYKIDS SD
-http://unionsrv.online:8880/10100/10100/15137
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE CLUBES
-http://unionsrv.online:8880/10100/10100/8029
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE CLUBES [Alternativo]
-http://unionsrv.online:8880/10100/10100/12854
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE CLUBES HD
-http://unionsrv.online:8880/10100/10100/8028
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE CLUBES HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12807
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 24HS HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12809
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 2
-http://unionsrv.online:8880/10100/10100/8184
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 2 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12853
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 2 HD
-http://unionsrv.online:8880/10100/10100/8036
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 2 HD Alternativo
-http://unionsrv.online:8880/10100/10100/12806
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 3
-http://unionsrv.online:8880/10100/10100/8183
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 3 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12852
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 3 HD
-http://unionsrv.online:8880/10100/10100/8035
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 4
-http://unionsrv.online:8880/10100/10100/8182
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 4 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12851
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 4 HD
-http://unionsrv.online:8880/10100/10100/8034
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 4 HD Alternativo
-http://unionsrv.online:8880/10100/10100/12804
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 5
-http://unionsrv.online:8880/10100/10100/8181
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 5 Alternativo
-http://unionsrv.online:8880/10100/10100/12850
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 5 HD
-http://unionsrv.online:8880/10100/10100/8033
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 5 HD Alternativo
-http://unionsrv.online:8880/10100/10100/12803
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 6
-http://unionsrv.online:8880/10100/10100/8180
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 6 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12971
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 6 HD
-http://unionsrv.online:8880/10100/10100/8032
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 7
-http://unionsrv.online:8880/10100/10100/8031
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 7 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12970
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 7 HD
-http://unionsrv.online:8880/10100/10100/8030
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE 8 Alternativo
-http://unionsrv.online:8880/10100/10100/12800
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PREMIERE HD 9 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12968
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PRIME BOX BRASIL
-http://unionsrv.online:8880/10100/10100/8027
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PRIME BOX BRASIL Alternativo
-http://unionsrv.online:8880/10100/10100/12967
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PRIME BOX BRASIL HD
-http://unionsrv.online:8880/10100/10100/8026
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PLAYBOY
-http://unionsrv.online:8880/10100/10100/7975
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PLAYBOY [Alternativo]
-http://unionsrv.online:8880/10100/10100/12973
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", PLAYBOY HD
-http://unionsrv.online:8880/10100/10100/7974
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RADIO 105 TV ALTERNATIVO
-http://unionsrv.online:8880/10100/10100/4627
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD
-http://unionsrv.online:8880/10100/10100/8025
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD  HD
-http://unionsrv.online:8880/10100/10100/8024
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record Campinas [Alternativo]
-http://unionsrv.online:8880/10100/10100/12965
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record SP [Alternativo]
-http://unionsrv.online:8880/10100/10100/12959
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD SP HD
-http://unionsrv.online:8880/10100/10100/8020
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record Campinas HD Alternativo
-http://unionsrv.online:8880/10100/10100/12966
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD INTERNACIONAL Alternativo
-http://unionsrv.online:8880/10100/10100/12964
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD NEWS
-http://unionsrv.online:8880/10100/10100/8023
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD NEWS Alternativo
-http://unionsrv.online:8880/10100/10100/12963
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD NEWS HD
-http://unionsrv.online:8880/10100/10100/8022
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORDTV RIO HD
-http://unionsrv.online:8880/10100/10100/15082
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORDTV MG HD
-http://unionsrv.online:8880/10100/10100/15139
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORDTV MG SD
-http://unionsrv.online:8880/10100/10100/15140
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", RECORD SP
-http://unionsrv.online:8880/10100/10100/8021
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE BRASIL
-http://unionsrv.online:8880/10100/10100/8019
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE BRASIL Alternativo
-http://unionsrv.online:8880/10100/10100/12962
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE GOSPEL.
-rtmp://media.igospel.org.br/live/redegospel
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE RECORD SP HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12960
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Record AM [Alternativo]
-http://unionsrv.online:8880/10100/10100/12958
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE SÉCULO 21
-http://unionsrv.online:8880/10100/10100/3133
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE SÊCULO 21 HD
-http://unionsrv.online:8880/10100/10100/4659
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE SUPER
-http://unionsrv.online:8880/10100/10100/3131
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE SUPER.
-http://unionsrv.online:8880/10100/10100/6539
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE TV
-http://unionsrv.online:8880/10100/10100/8018
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE TV [Alternativo]
-http://unionsrv.online:8880/10100/10100/12868
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE TV HD
-http://unionsrv.online:8880/10100/10100/8179
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE TV HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12957
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE VIDA
-http://unionsrv.online:8880/10100/10100/8017
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", REDE VIDA Alternativo
-http://unionsrv.online:8880/10100/10100/12869
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT
-http://unionsrv.online:8880/10100/10100/8016
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT [Alternativo]
-http://unionsrv.online:8880/10100/10100/12954
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT HD
-http://unionsrv.online:8880/10100/10100/8178
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12955
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT SP HD
-http://unionsrv.online:8880/10100/10100/7862
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT SP INTERIOR
-http://unionsrv.online:8880/10100/10100/8015
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SIC INTERNACIONAL Alternativo
-http://unionsrv.online:8880/10100/10100/12950
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPACE
-http://unionsrv.online:8880/10100/10100/8013
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPACE Alternativo
-http://unionsrv.online:8880/10100/10100/12948
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPACE HD
-http://unionsrv.online:8880/10100/10100/8176
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPACE HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12949
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV
-http://unionsrv.online:8880/10100/10100/8012
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV [Alternativo]
-http://unionsrv.online:8880/10100/10100/12815
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV HD
-http://unionsrv.online:8880/10100/10100/8173
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12816
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 2
-http://unionsrv.online:8880/10100/10100/8011
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 2 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12813
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 2 HD
-http://unionsrv.online:8880/10100/10100/8175
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 2 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12814
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 3
-http://unionsrv.online:8880/10100/10100/8010
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 3 [Alternativo]
-http://unionsrv.online:8880/10100/10100/12811
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 3 HD
-http://unionsrv.online:8880/10100/10100/8174
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SPORTV 3 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12812
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", STUDIO UNIVERSAL
-http://unionsrv.online:8880/10100/10100/8009
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", STUDIO UNIVERSAL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12928
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", STUDIO UNIVERSAL HD
-http://unionsrv.online:8880/10100/10100/8172
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", STUDIO UNIVERSAL HD Alternativo
-http://unionsrv.online:8880/10100/10100/12947
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SYFY
-http://unionsrv.online:8880/10100/10100/8014
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SYFY [Alternativo]
-http://unionsrv.online:8880/10100/10100/12867
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SYFY HD
-http://unionsrv.online:8880/10100/10100/8177
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SYFY HD Alternativo
-http://unionsrv.online:8880/10100/10100/12946
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SEXTREME
-http://unionsrv.online:8880/10100/10100/7973
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SEXY HOT
-http://unionsrv.online:8880/10100/10100/7972
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", SEXY HOT [Alternativo]
-http://unionsrv.online:8880/10100/10100/12951
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TABELA DE JOGOS PREMIERE
-http://unionsrv.online:8880/10100/10100/7976
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS
-http://unionsrv.online:8880/10100/10100/8006
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS HD
-http://unionsrv.online:8880/10100/10100/8005
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS HD Alternativo
-http://unionsrv.online:8880/10100/10100/12945
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TCM
-http://unionsrv.online:8880/10100/10100/8004
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TCM [Alternativo]
-http://unionsrv.online:8880/10100/10100/12864
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE ACTION
-http://unionsrv.online:8880/10100/10100/8003
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE ACTION [Alternativo]
-http://unionsrv.online:8880/10100/10100/12760
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE ACTION HD
-http://unionsrv.online:8880/10100/10100/8171
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE ACTION HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12761
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE CULT
-http://unionsrv.online:8880/10100/10100/8002
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE CULT HD
-http://unionsrv.online:8880/10100/10100/8170
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE FUN
-http://unionsrv.online:8880/10100/10100/8001
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE FUN [Alternativo]
-http://unionsrv.online:8880/10100/10100/12756
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE FUN HD
-http://unionsrv.online:8880/10100/10100/8169
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE FUN HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12757
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PIPOCA
-http://unionsrv.online:8880/10100/10100/8000
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PIPOCA [Alternativo]
-http://unionsrv.online:8880/10100/10100/12754
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PIPOCA HD
-http://unionsrv.online:8880/10100/10100/8168
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PIPOCA HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12755
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PREMIUM
-http://unionsrv.online:8880/10100/10100/7999
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium [Alternativo]
-http://unionsrv.online:8880/10100/10100/12752
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PREMIUM HD
-http://unionsrv.online:8880/10100/10100/8167
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE PREMIUM HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12753
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE TOUCH
-http://unionsrv.online:8880/10100/10100/7998
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE TOUCH [Alternativo]
-http://unionsrv.online:8880/10100/10100/12750
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE TOUCH HD
-http://unionsrv.online:8880/10100/10100/8166
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TELECINE TOUCH HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12751
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TERRA VIVA
-http://unionsrv.online:8880/10100/10100/7997
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TERRA VIVA [Alternativo]
-http://unionsrv.online:8880/10100/10100/12862
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC
-http://unionsrv.online:8880/10100/10100/7996
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC Alternativo
-http://unionsrv.online:8880/10100/10100/12943
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC HD
-http://unionsrv.online:8880/10100/10100/8165
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12944
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT
-http://unionsrv.online:8880/10100/10100/7995
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT [Alternativo]
-http://unionsrv.online:8880/10100/10100/12941
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT HD
-http://unionsrv.online:8880/10100/10100/8164
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12942
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT 2 SD [Alternativo]
-http://unionsrv.online:8880/10100/10100/16872
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT 2 HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/16871
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT 3 SD
-http://unionsrv.online:8880/10100/10100/16874
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT 3 HD
-http://unionsrv.online:8880/10100/10100/16873
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT SERIES
-http://unionsrv.online:8880/10100/10100/7994
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT SERIES [Alternativo]
-http://unionsrv.online:8880/10100/10100/12939
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT SERIES HD
-http://unionsrv.online:8880/10100/10100/8163
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT SERIES HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12940
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TOONCAST
-http://unionsrv.online:8880/10100/10100/7993
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TOONCAST [Alternativo]
-http://unionsrv.online:8880/10100/10100/12937
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TOONCAST HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12938
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TRU TV [Alternativo]
-http://unionsrv.online:8880/10100/10100/12936
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TRU TV HD ALTERNATIVO
-http://unionsrv.online:8880/10100/10100/1539
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TRUTV
-http://unionsrv.online:8880/10100/10100/7984
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TRUTV HD
-http://unionsrv.online:8880/10100/10100/7983
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV APARECIDA
-http://unionsrv.online:8880/10100/10100/8162
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV APARECIDA.
-http://unionsrv.online:8880/10100/10100/4664
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV BRASIL
-http://unionsrv.online:8880/10100/10100/7990
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV CÂMARA
-http://unionsrv.online:8880/10100/10100/7989
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV CINE 4 HD Alternativo
-http://unionsrv.online:8880/10100/10100/12932
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV CULTURA  [Alternativo]
-http://unionsrv.online:8880/10100/10100/12931
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV CULTURA [Alternativo]
-http://unionsrv.online:8880/10100/10100/12861
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV ESCOLA
-http://unionsrv.online:8880/10100/10100/7988
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV EVANGELIZAR
-http://unionsrv.online:8880/10100/10100/4665
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV GAZETA SP HD
-http://unionsrv.online:8880/10100/10100/7987
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV JUSTICA
-http://unionsrv.online:8880/10100/10100/7991
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV LIBERAL BELEM Alternativo
-http://unionsrv.online:8880/10100/10100/13020
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV NOVO TEMPO [Alternativo]
-http://unionsrv.online:8880/10100/10100/12863
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV RA-TIM-BUM
-http://unionsrv.online:8880/10100/10100/7986
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV RA-TIM-BUM HD
-http://unionsrv.online:8880/10100/10100/7985
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV SENADO
-http://unionsrv.online:8880/10100/10100/7992
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV TERCEIRO ANJO
-http://unionsrv.online:8880/10100/10100/3138
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV VERDADE.
-http://unionsrv.online:8880/10100/10100/4654
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tv Diário
-http://unionsrv.online:8880/10100/10100/14706
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", UNIVERSAL CHANNEL
-http://unionsrv.online:8880/10100/10100/7982
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", UNIVERSAL CHANNEL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12858
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", UNIVERSAL CHANNEL HD
-http://unionsrv.online:8880/10100/10100/8161
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1
-http://unionsrv.online:8880/10100/10100/7981
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 Alternativo
-http://unionsrv.online:8880/10100/10100/12926
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 HD
-http://unionsrv.online:8880/10100/10100/8160
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 MEGA HITS
-http://unionsrv.online:8880/10100/10100/7980
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 MEGA HITS Alternativo
-http://unionsrv.online:8880/10100/10100/12925
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VIVA
-http://unionsrv.online:8880/10100/10100/7979
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VIVA [Alternativo]
-http://unionsrv.online:8880/10100/10100/12856
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VIVA HD
-http://unionsrv.online:8880/10100/10100/8159
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VIVA HD [Alternativo]
-http://unionsrv.online:8880/10100/10100/12924
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VENUS
-http://unionsrv.online:8880/10100/10100/7971
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", VENUS [Alternativo]
-http://unionsrv.online:8880/10100/10100/12927
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WARNER CHANNEL
-http://unionsrv.online:8880/10100/10100/7978
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WARNER CHANNEL [Alternativo]
-http://unionsrv.online:8880/10100/10100/12857
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WARNER CHANNEL HD
-http://unionsrv.online:8880/10100/10100/8158
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WARNER CHANNEL HD Alternativo
-http://unionsrv.online:8880/10100/10100/12923
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WOOHOO
-http://unionsrv.online:8880/10100/10100/8157
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WOOHOO [Alternativo]
-http://unionsrv.online:8880/10100/10100/12855
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", WOOHOO HD
-http://unionsrv.online:8880/10100/10100/7977
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", ZOOMOO [Alternativo]
-http://unionsrv.online:8880/10100/10100/12912
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Um Maluco no pedaço
-http://unionsrv.online:8880/10100/10100/13517
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Show da Luna
-http://unionsrv.online:8880/10100/10100/15079
-#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Simpsons
-http://unionsrv.online:8880/10100/10100/14794
+ 
+#EXTINF:-1, group-title="MFK", A&E
+http://tv.minhalista.me:80/juan/juan/37130
+#EXTINF:-1, group-title="MFK", A&E HD
+http://tv.minhalista.me:80/juan/juan/36929
+#EXTINF:-1, group-title="MFK", AMC HD
+http://tv.minhalista.me:80/juan/juan/36928
+#EXTINF:-1, group-title="MFK", Animal Planet
+http://tv.minhalista.me:80/juan/juan/37128
+#EXTINF:-1, group-title="MFK", Animal Planet HD
+http://tv.minhalista.me:80/juan/juan/36992
+#EXTINF:-1, group-title="MFK", Arte 1
+http://tv.minhalista.me:80/juan/juan/37133
+#EXTINF:-1, group-title="MFK", AXN
+http://tv.minhalista.me:80/juan/juan/37132
+#EXTINF:-1, group-title="MFK", AXN HD
+http://tv.minhalista.me:80/juan/juan/36991
+#EXTINF:-1, group-title="MFK", BabyTV
+http://tv.minhalista.me:80/juan/juan/36993
+#EXTINF:-1, group-title="MFK", AMC
+http://tv.minhalista.me:80/juan/juan/41087
+#EXTINF:-1, group-title="MFK", Band
+http://tv.minhalista.me:80/juan/juan/37127
+#EXTINF:-1, group-title="MFK", Band HD
+http://tv.minhalista.me:80/juan/juan/36990
+#EXTINF:-1, group-title="MFK", BandNews HD
+http://tv.minhalista.me:80/juan/juan/42411
+#EXTINF:-1, group-title="MFK", Band News
+http://tv.minhalista.me:80/juan/juan/37126
+#EXTINF:-1, group-title="MFK", BandSports
+http://tv.minhalista.me:80/juan/juan/37125
+#EXTINF:-1, group-title="MFK", BandSports HD
+http://tv.minhalista.me:80/juan/juan/36989
+#EXTINF:-1, group-title="MFK", Bis
+http://tv.minhalista.me:80/juan/juan/37131
+#EXTINF:-1, group-title="MFK", Bis HD
+http://tv.minhalista.me:80/juan/juan/36988
+#EXTINF:-1, group-title="MFK", Boomerang
+http://tv.minhalista.me:80/juan/juan/37123
+#EXTINF:-1, group-title="MFK", Canal Brasil
+http://tv.minhalista.me:80/juan/juan/37122
+#EXTINF:-1, group-title="MFK", Disney Junior HD
+http://tv.minhalista.me:80/juan/juan/40517
+#EXTINF:-1, group-title="MFK", Globo Brasília HD
+http://tv.minhalista.me:80/juan/juan/40513
+#EXTINF:-1, group-title="MFK", MTV Live
+http://tv.minhalista.me:80/juan/juan/40519
+#EXTINF:-1, group-title="MFK", MTV LIVE HD
+http://tv.minhalista.me:80/juan/juan/40518
+#EXTINF:-1, group-title="MFK", Band SP HD
+http://tv.minhalista.me:80/juan/juan/41530
+#EXTINF:-1, group-title="MFK", GLOBO TV TEM SAO JOSE DO RIO PRETO
+http://tv.minhalista.me:80/juan/juan/40516
+#EXTINF:-1, group-title="MFK", GLOBO TV TEM SAO JOSE DO RIO PRETO HD
+http://tv.minhalista.me:80/juan/juan/40515
+#EXTINF:-1, group-title="MFK", Sony HD
+http://tv.minhalista.me:80/juan/juan/36987
+#EXTINF:-1, group-title="MFK", Canção Nova
+http://tv.minhalista.me:80/juan/juan/37023
+#EXTINF:-1, group-title="MFK", Cartoon Network
+http://tv.minhalista.me:80/juan/juan/37121
+#EXTINF:-1, group-title="MFK", Cartoon Network HD
+http://tv.minhalista.me:80/juan/juan/36927
+#EXTINF:-1, group-title="MFK", Chaves [24h]
+http://tv.minhalista.me:80/juan/juan/39762
+#EXTINF:-1, group-title="MFK", Cinemax
+http://tv.minhalista.me:80/juan/juan/37120
+#EXTINF:-1, group-title="MFK", Cinemax HD
+http://tv.minhalista.me:80/juan/juan/36926
+#EXTINF:-1, group-title="MFK", Combate
+http://tv.minhalista.me:80/juan/juan/37119
+#EXTINF:-1, group-title="MFK", Combate HD
+http://tv.minhalista.me:80/juan/juan/36986
+#EXTINF:-1, group-title="MFK", Comedy Central
+http://tv.minhalista.me:80/juan/juan/37118
+#EXTINF:-1, group-title="MFK", Comedy Central HD
+http://tv.minhalista.me:80/juan/juan/36925
+#EXTINF:-1, group-title="MFK", Curta!
+http://tv.minhalista.me:80/juan/juan/37117
+#EXTINF:-1, group-title="MFK", Desenhos Biblicos [24h]
+http://tv.minhalista.me:80/juan/juan/39780
+#EXTINF:-1, group-title="MFK", Discovery Channel
+http://tv.minhalista.me:80/juan/juan/37116
+#EXTINF:-1, group-title="MFK", Discovery Channel HD
+http://tv.minhalista.me:80/juan/juan/36985
+#EXTINF:-1, group-title="MFK", Discovery Civilization HD
+http://tv.minhalista.me:80/juan/juan/36924
+#EXTINF:-1, group-title="MFK", Discovery H&H
+http://tv.minhalista.me:80/juan/juan/37115
+#EXTINF:-1, group-title="MFK", Discovery Home & Health
+http://tv.minhalista.me:80/juan/juan/36984
+#EXTINF:-1, group-title="MFK", Discovery Kids
+http://tv.minhalista.me:80/juan/juan/37113
+#EXTINF:-1, group-title="MFK", Discovery Kids HD
+http://tv.minhalista.me:80/juan/juan/36923
+#EXTINF:-1, group-title="MFK", Discovery Science HD
+http://tv.minhalista.me:80/juan/juan/36922
+#EXTINF:-1, group-title="MFK", Discovery Theater HD
+http://tv.minhalista.me:80/juan/juan/36983
+#EXTINF:-1, group-title="MFK", Discovery Turbo
+http://tv.minhalista.me:80/juan/juan/37112
+#EXTINF:-1, group-title="MFK", Discovery Turbo HD
+http://tv.minhalista.me:80/juan/juan/36982
+#EXTINF:-1, group-title="MFK", Discovery World HD
+http://tv.minhalista.me:80/juan/juan/36981
+#EXTINF:-1, group-title="MFK", Disney Channel
+http://tv.minhalista.me:80/juan/juan/37111
+#EXTINF:-1, group-title="MFK", Disney Channel HD
+http://tv.minhalista.me:80/juan/juan/36921
+#EXTINF:-1, group-title="MFK", Disney Junior
+http://tv.minhalista.me:80/juan/juan/37110
+#EXTINF:-1, group-title="MFK", Disney XD
+http://tv.minhalista.me:80/juan/juan/37109
+#EXTINF:-1, group-title="MFK", E! Entertainment Television
+http://tv.minhalista.me:80/juan/juan/37108
+#EXTINF:-1, group-title="MFK", E! HD
+http://tv.minhalista.me:80/juan/juan/36920
+#EXTINF:-1, group-title="MFK", ESPN
+http://tv.minhalista.me:80/juan/juan/37105
+#EXTINF:-1, group-title="MFK", Espn Brasil
+http://tv.minhalista.me:80/juan/juan/37104
+#EXTINF:-1, group-title="MFK", ESPN Brasil HD
+http://tv.minhalista.me:80/juan/juan/36978
+#EXTINF:-1, group-title="MFK", ESPN HD
+http://tv.minhalista.me:80/juan/juan/36977
+#EXTINF:-1, group-title="MFK", ESPN 2 HD
+http://tv.minhalista.me:80/juan/juan/36976
+#EXTINF:-1, group-title="MFK", Fish TV
+http://tv.minhalista.me:80/juan/juan/37103
+#EXTINF:-1, group-title="MFK", Food Network
+http://tv.minhalista.me:80/juan/juan/37102
+#EXTINF:-1, group-title="MFK", Food Network HD
+http://tv.minhalista.me:80/juan/juan/36919
+#EXTINF:-1, group-title="MFK", Fox
+http://tv.minhalista.me:80/juan/juan/37101
+#EXTINF:-1, group-title="MFK", Fox Channel HD
+http://tv.minhalista.me:80/juan/juan/36972
+#EXTINF:-1, group-title="MFK", FoxLife
+http://tv.minhalista.me:80/juan/juan/37100
+#EXTINF:-1, group-title="MFK", FoxLife HD
+http://tv.minhalista.me:80/juan/juan/36918
+#EXTINF:-1, group-title="MFK", Fox Premium 1
+http://tv.minhalista.me:80/juan/juan/37335
+#EXTINF:-1, group-title="MFK", Fox Premium 1  HD
+http://tv.minhalista.me:80/juan/juan/36974
+#EXTINF:-1, group-title="MFK", Fox Premium 2
+http://tv.minhalista.me:80/juan/juan/37336
+#EXTINF:-1, group-title="MFK", Fox Premium 2 HD
+http://tv.minhalista.me:80/juan/juan/36973
+#EXTINF:-1, group-title="MFK", FoxSports
+http://tv.minhalista.me:80/juan/juan/37099
+#EXTINF:-1, group-title="MFK", FoxSports 2
+http://tv.minhalista.me:80/juan/juan/37098
+#EXTINF:-1, group-title="MFK", FoxSports 2 HD
+http://tv.minhalista.me:80/juan/juan/36971
+#EXTINF:-1, group-title="MFK", FoxSports HD
+http://tv.minhalista.me:80/juan/juan/36970
+#EXTINF:-1, group-title="MFK", FX
+http://tv.minhalista.me:80/juan/juan/37097
+#EXTINF:-1, group-title="MFK", FX HD
+http://tv.minhalista.me:80/juan/juan/36969
+#EXTINF:-1, group-title="MFK", Globo Anhanguera
+http://tv.minhalista.me:80/juan/juan/38966
+#EXTINF:-1, group-title="MFK", GLOBO BAHIA
+http://tv.minhalista.me:80/juan/juan/37096
+#EXTINF:-1, group-title="MFK", Globo Brasília
+http://tv.minhalista.me:80/juan/juan/37095
+#EXTINF:-1, group-title="MFK", EPTV Ribeirão HD
+http://tv.minhalista.me:80/juan/juan/38640
+#EXTINF:-1, group-title="MFK", Globo Florianopolis
+http://tv.minhalista.me:80/juan/juan/38641
+#EXTINF:-1, group-title="MFK", GloboNews
+http://tv.minhalista.me:80/juan/juan/37093
+#EXTINF:-1, group-title="MFK", GloboNews HD
+http://tv.minhalista.me:80/juan/juan/36917
+#EXTINF:-1, group-title="MFK", Globo Nordeste
+http://tv.minhalista.me:80/juan/juan/37092
+#EXTINF:-1, group-title="MFK", Globo Nordeste HD
+http://tv.minhalista.me:80/juan/juan/38971
+#EXTINF:-1, group-title="MFK", Globo Rio
+http://tv.minhalista.me:80/juan/juan/37091
+#EXTINF:-1, group-title="MFK", Globo Rio HD
+http://tv.minhalista.me:80/juan/juan/36968
+#EXTINF:-1, group-title="MFK", Globo RPC Curitiba
+http://tv.minhalista.me:80/juan/juan/37366
+#EXTINF:-1, group-title="MFK", I.Sat
+http://tv.minhalista.me:80/juan/juan/37134
+#EXTINF:-1, group-title="MFK", GloboSat HD
+http://tv.minhalista.me:80/juan/juan/36916
+#EXTINF:-1, group-title="MFK", Globo SP
+http://tv.minhalista.me:80/juan/juan/37090
+#EXTINF:-1, group-title="MFK", Globo SP HD
+http://tv.minhalista.me:80/juan/juan/37361
+#EXTINF:-1, group-title="MFK", GLOBO TV ANHANGUERA HD
+http://tv.minhalista.me:80/juan/juan/38967
+#EXTINF:-1, group-title="MFK", Gloob
+http://tv.minhalista.me:80/juan/juan/37089
+#EXTINF:-1, group-title="MFK", Gloob HD
+http://tv.minhalista.me:80/juan/juan/36915
+#EXTINF:-1, group-title="MFK", GNT
+http://tv.minhalista.me:80/juan/juan/37088
+#EXTINF:-1, group-title="MFK", GNT HD
+http://tv.minhalista.me:80/juan/juan/36967
+#EXTINF:-1, group-title="MFK", HBO
+http://tv.minhalista.me:80/juan/juan/37087
+#EXTINF:-1, group-title="MFK", HBO 2
+http://tv.minhalista.me:80/juan/juan/37086
+#EXTINF:-1, group-title="MFK", HBO 2 HD
+http://tv.minhalista.me:80/juan/juan/36966
+#EXTINF:-1, group-title="MFK", HBO Family
+http://tv.minhalista.me:80/juan/juan/37085
+#EXTINF:-1, group-title="MFK", HBO Family HD
+http://tv.minhalista.me:80/juan/juan/36965
+#EXTINF:-1, group-title="MFK", HBO HD
+http://tv.minhalista.me:80/juan/juan/36964
+#EXTINF:-1, group-title="MFK", HBO Plus
+http://tv.minhalista.me:80/juan/juan/37084
+#EXTINF:-1, group-title="MFK", HBO PLUS E
+http://tv.minhalista.me:80/juan/juan/37083
+#EXTINF:-1, group-title="MFK", HBO Plus HD
+http://tv.minhalista.me:80/juan/juan/36963
+#EXTINF:-1, group-title="MFK", HBO Signature
+http://tv.minhalista.me:80/juan/juan/37082
+#EXTINF:-1, group-title="MFK", HBO Signature HD
+http://tv.minhalista.me:80/juan/juan/36962
+#EXTINF:-1, group-title="MFK", History
+http://tv.minhalista.me:80/juan/juan/37081
+#EXTINF:-1, group-title="MFK", History 2 HD
+http://tv.minhalista.me:80/juan/juan/36961
+#EXTINF:-1, group-title="MFK", History HD
+http://tv.minhalista.me:80/juan/juan/36960
+#EXTINF:-1, group-title="MFK", ID: Investigação Discovery HD
+http://tv.minhalista.me:80/juan/juan/36959
+#EXTINF:-1, group-title="MFK", ID: Investigação Discovery
+http://tv.minhalista.me:80/juan/juan/37114
+#EXTINF:-1, group-title="MFK", Lifetime
+http://tv.minhalista.me:80/juan/juan/37077
+#EXTINF:-1, group-title="MFK", Lifetime HD
+http://tv.minhalista.me:80/juan/juan/36914
+#EXTINF:-1, group-title="MFK", Max
+http://tv.minhalista.me:80/juan/juan/37076
+#EXTINF:-1, group-title="MFK", Max HD
+http://tv.minhalista.me:80/juan/juan/36913
+#EXTINF:-1, group-title="MFK", MaxPrime
+http://tv.minhalista.me:80/juan/juan/37075
+#EXTINF:-1, group-title="MFK", MAX PRIME E
+http://tv.minhalista.me:80/juan/juan/37074
+#EXTINF:-1, group-title="MFK", Max Prime HD
+http://tv.minhalista.me:80/juan/juan/36912
+#EXTINF:-1, group-title="MFK", Max UP
+http://tv.minhalista.me:80/juan/juan/37073
+#EXTINF:-1, group-title="MFK", Max UP HD
+http://tv.minhalista.me:80/juan/juan/36911
+#EXTINF:-1, group-title="MFK", Megapix
+http://tv.minhalista.me:80/juan/juan/37072
+#EXTINF:-1, group-title="MFK", Megapix HD
+http://tv.minhalista.me:80/juan/juan/36958
+#EXTINF:-1, group-title="MFK", MTV
+http://tv.minhalista.me:80/juan/juan/37071
+#EXTINF:-1, group-title="MFK", MTV HD
+http://tv.minhalista.me:80/juan/juan/36910
+#EXTINF:-1, group-title="MFK", Multishow
+http://tv.minhalista.me:80/juan/juan/37070
+#EXTINF:-1, group-title="MFK", Multishow HD
+http://tv.minhalista.me:80/juan/juan/36957
+#EXTINF:-1, group-title="MFK", Music Box Brazil
+http://tv.minhalista.me:80/juan/juan/37069
+#EXTINF:-1, group-title="MFK", NATIONAL GEOGRAPHICS
+http://tv.minhalista.me:80/juan/juan/37068
+#EXTINF:-1, group-title="MFK", NATIONAL GEOGRAPHICS HD
+http://tv.minhalista.me:80/juan/juan/36956
+#EXTINF:-1, group-title="MFK", NatGeo Kids
+http://tv.minhalista.me:80/juan/juan/37067
+#EXTINF:-1, group-title="MFK", NatGeo Kids HD
+http://tv.minhalista.me:80/juan/juan/36909
+#EXTINF:-1, group-title="MFK", National Geographic Wild
+http://tv.minhalista.me:80/juan/juan/37066
+#EXTINF:-1, group-title="MFK", National Geographic Wild HD
+http://tv.minhalista.me:80/juan/juan/36955
+#EXTINF:-1, group-title="MFK", NBR
+http://tv.minhalista.me:80/juan/juan/37021
+#EXTINF:-1, group-title="MFK", Nick Jr.
+http://tv.minhalista.me:80/juan/juan/37065
+#EXTINF:-1, group-title="MFK", Nick Jr. HD
+http://tv.minhalista.me:80/juan/juan/36908
+#EXTINF:-1, group-title="MFK", Nick
+http://tv.minhalista.me:80/juan/juan/37064
+#EXTINF:-1, group-title="MFK", Nick HD
+http://tv.minhalista.me:80/juan/juan/36907
+#EXTINF:-1, group-title="MFK", Novo Tempo
+http://tv.minhalista.me:80/juan/juan/39793
+#EXTINF:-1, group-title="MFK", Off
+http://tv.minhalista.me:80/juan/juan/37063
+#EXTINF:-1, group-title="MFK", Off HD
+http://tv.minhalista.me:80/juan/juan/36954
+#EXTINF:-1, group-title="MFK", Paramount Channe
+http://tv.minhalista.me:80/juan/juan/37062
+#EXTINF:-1, group-title="MFK", Paramount HD
+http://tv.minhalista.me:80/juan/juan/36953
+#EXTINF:-1, group-title="MFK", [XX] Playboy TV
+http://tv.minhalista.me:80/juan/juan/37061
+#EXTINF:-1, group-title="MFK", Premiere 2
+http://tv.minhalista.me:80/juan/juan/37060
+#EXTINF:-1, group-title="MFK", Premiere 2 HD
+http://tv.minhalista.me:80/juan/juan/36952
+#EXTINF:-1, group-title="MFK", Premiere 3
+http://tv.minhalista.me:80/juan/juan/37059
+#EXTINF:-1, group-title="MFK", Premiere 3 HD
+http://tv.minhalista.me:80/juan/juan/36951
+#EXTINF:-1, group-title="MFK", Premiere 4
+http://tv.minhalista.me:80/juan/juan/37058
+#EXTINF:-1, group-title="MFK", Premiere 4 HD
+http://tv.minhalista.me:80/juan/juan/36950
+#EXTINF:-1, group-title="MFK", Premiere 5
+http://tv.minhalista.me:80/juan/juan/37057
+#EXTINF:-1, group-title="MFK", Premiere 5 HD
+http://tv.minhalista.me:80/juan/juan/36949
+#EXTINF:-1, group-title="MFK", Premiere 6
+http://tv.minhalista.me:80/juan/juan/37056
+#EXTINF:-1, group-title="MFK", Premiere 6 HD
+http://tv.minhalista.me:80/juan/juan/36906
+#EXTINF:-1, group-title="MFK", Premiere 7
+http://tv.minhalista.me:80/juan/juan/37017
+#EXTINF:-1, group-title="MFK", Premiere 7 HD
+http://tv.minhalista.me:80/juan/juan/36905
+#EXTINF:-1, group-title="MFK", PREMIERE CLUBES
+http://tv.minhalista.me:80/juan/juan/37016
+#EXTINF:-1, group-title="MFK", Premiere Clubes HD
+http://tv.minhalista.me:80/juan/juan/36948
+#EXTINF:-1, group-title="MFK", Prime Box Brazil
+http://tv.minhalista.me:80/juan/juan/37053
+#EXTINF:-1, group-title="MFK", TV Ra Tim Bum
+http://tv.minhalista.me:80/juan/juan/37015
+#EXTINF:-1, group-title="MFK", RecordTV
+http://tv.minhalista.me:80/juan/juan/37051
+#EXTINF:-1, group-title="MFK", Record HD
+http://tv.minhalista.me:80/juan/juan/36947
+#EXTINF:-1, group-title="MFK", Record News HD
+http://tv.minhalista.me:80/juan/juan/37050
+#EXTINF:-1, group-title="MFK", Rede Brasil
+http://tv.minhalista.me:80/juan/juan/37013
+#EXTINF:-1, group-title="MFK", RedeTV
+http://tv.minhalista.me:80/juan/juan/37012
+#EXTINF:-1, group-title="MFK", RedeTV HD
+http://tv.minhalista.me:80/juan/juan/36946
+#EXTINF:-1, group-title="MFK", Rede Vida
+http://tv.minhalista.me:80/juan/juan/37011
+#EXTINF:-1, group-title="MFK", SBT
+http://tv.minhalista.me:80/juan/juan/37048
+#EXTINF:-1, group-title="MFK", SBT HD
+http://tv.minhalista.me:80/juan/juan/36945
+#EXTINF:-1, group-title="MFK", [XX] Sextreme
+http://tv.minhalista.me:80/juan/juan/37047
+#EXTINF:-1, group-title="MFK", [XX] Sexy Hot
+http://tv.minhalista.me:80/juan/juan/37009
+#EXTINF:-1, group-title="MFK", SHOW DA VIOLA
+http://tv.minhalista.me:80/juan/juan/39770
+#EXTINF:-1, group-title="MFK", Simone e Simaria Bar das Coleguinhas
+http://tv.minhalista.me:80/juan/juan/39792
+#EXTINF:-1, group-title="MFK", Sony
+http://tv.minhalista.me:80/juan/juan/37007
+#EXTINF:-1, group-title="MFK", Space
+http://tv.minhalista.me:80/juan/juan/37046
+#EXTINF:-1, group-title="MFK", Space HD
+http://tv.minhalista.me:80/juan/juan/36944
+#EXTINF:-1, group-title="MFK", SporTV
+http://tv.minhalista.me:80/juan/juan/37256
+#EXTINF:-1, group-title="MFK", Sportv 2
+http://tv.minhalista.me:80/juan/juan/37044
+#EXTINF:-1, group-title="MFK", Sportv 2 HD
+http://tv.minhalista.me:80/juan/juan/36943
+#EXTINF:-1, group-title="MFK", Sportv 3
+http://tv.minhalista.me:80/juan/juan/37006
+#EXTINF:-1, group-title="MFK", Sportv 3 HD
+http://tv.minhalista.me:80/juan/juan/36942
+#EXTINF:-1, group-title="MFK", Sportv HD
+http://tv.minhalista.me:80/juan/juan/37255
+#EXTINF:-1, group-title="MFK", Studio Universal
+http://tv.minhalista.me:80/juan/juan/37043
+#EXTINF:-1, group-title="MFK", Studio Universal HD
+http://tv.minhalista.me:80/juan/juan/36904
+#EXTINF:-1, group-title="MFK", Syfy
+http://tv.minhalista.me:80/juan/juan/37042
+#EXTINF:-1, group-title="MFK", Syfy HD
+http://tv.minhalista.me:80/juan/juan/36903
+#EXTINF:-1, group-title="MFK", TBS
+http://tv.minhalista.me:80/juan/juan/37041
+#EXTINF:-1, group-title="MFK", TBS HD
+http://tv.minhalista.me:80/juan/juan/36940
+#EXTINF:-1, group-title="MFK", TCM
+http://tv.minhalista.me:80/juan/juan/37037
+#EXTINF:-1, group-title="MFK", Telecine Action
+http://tv.minhalista.me:80/juan/juan/37040
+#EXTINF:-1, group-title="MFK", Telecine Action HD
+http://tv.minhalista.me:80/juan/juan/36939
+#EXTINF:-1, group-title="MFK", Telecine Cult
+http://tv.minhalista.me:80/juan/juan/37039
+#EXTINF:-1, group-title="MFK", Telecine Cult HD
+http://tv.minhalista.me:80/juan/juan/36901
+#EXTINF:-1, group-title="MFK", Telecine Fun
+http://tv.minhalista.me:80/juan/juan/37005
+#EXTINF:-1, group-title="MFK", Telecine Fun HD
+http://tv.minhalista.me:80/juan/juan/36938
+#EXTINF:-1, group-title="MFK", Telecine Pipoca
+http://tv.minhalista.me:80/juan/juan/37038
+#EXTINF:-1, group-title="MFK", Telecine Pipoca HD
+http://tv.minhalista.me:80/juan/juan/36937
+#EXTINF:-1, group-title="MFK", Telecine Premium
+http://tv.minhalista.me:80/juan/juan/36994
+#EXTINF:-1, group-title="MFK", Telecine Premium HD
+http://tv.minhalista.me:80/juan/juan/36936
+#EXTINF:-1, group-title="MFK", Telecine Touch
+http://tv.minhalista.me:80/juan/juan/36995
+#EXTINF:-1, group-title="MFK", Telecine Touch HD
+http://tv.minhalista.me:80/juan/juan/36935
+#EXTINF:-1, group-title="MFK", Terra Viva
+http://tv.minhalista.me:80/juan/juan/37004
+#EXTINF:-1, group-title="MFK", TLC SD
+http://tv.minhalista.me:80/juan/juan/37036
+#EXTINF:-1, group-title="MFK", TLC HD
+http://tv.minhalista.me:80/juan/juan/36902
+#EXTINF:-1, group-title="MFK", TNT
+http://tv.minhalista.me:80/juan/juan/37035
+#EXTINF:-1, group-title="MFK", TNT HD
+http://tv.minhalista.me:80/juan/juan/36934
+#EXTINF:-1, group-title="MFK", TNT Series
+http://tv.minhalista.me:80/juan/juan/37034
+#EXTINF:-1, group-title="MFK", TNT Series HD
+http://tv.minhalista.me:80/juan/juan/36933
+#EXTINF:-1, group-title="MFK", Tooncast
+http://tv.minhalista.me:80/juan/juan/37033
+#EXTINF:-1, group-title="MFK", TruTV
+http://tv.minhalista.me:80/juan/juan/37032
+#EXTINF:-1, group-title="MFK", TV Aparecida
+http://tv.minhalista.me:80/juan/juan/37003
+#EXTINF:-1, group-title="MFK", TV Escola
+http://tv.minhalista.me:80/juan/juan/36999
+#EXTINF:-1, group-title="MFK", Gloobinho HD
+http://tv.minhalista.me:80/juan/juan/38969
+#EXTINF:-1, group-title="MFK", TV TEM Bauru
+http://tv.minhalista.me:80/juan/juan/37030
+#EXTINF:-1, group-title="MFK", TV TEM Sorocaba
+http://tv.minhalista.me:80/juan/juan/37029
+#EXTINF:-1, group-title="MFK", Universal Channel
+http://tv.minhalista.me:80/juan/juan/37027
+#EXTINF:-1, group-title="MFK", Universal Channel HD
+http://tv.minhalista.me:80/juan/juan/36932
+#EXTINF:-1, group-title="MFK", [XX] Venus
+http://tv.minhalista.me:80/juan/juan/37026
+#EXTINF:-1, group-title="MFK", VH1 HD
+http://tv.minhalista.me:80/juan/juan/36900
+#EXTINF:-1, group-title="MFK", Viva
+http://tv.minhalista.me:80/juan/juan/36997
+#EXTINF:-1, group-title="MFK", Viva HD
+http://tv.minhalista.me:80/juan/juan/36931
+#EXTINF:-1, group-title="MFK", Warner Channel
+http://tv.minhalista.me:80/juan/juan/36996
+#EXTINF:-1, group-title="MFK", Warner HD
+http://tv.minhalista.me:80/juan/juan/36930
+#EXTINF:-1, group-title="MFK", Woohoo
+http://tv.minhalista.me:80/juan/juan/37025
