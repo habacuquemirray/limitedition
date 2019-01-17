@@ -1,462 +1,864 @@
 #EXTM3U
- 
-#EXTINF:-1, group-title="MFK", A&E
-http://tv.minhalista.me:80/juan/juan/37130
+
+#EXTINF:-1, group-title="MFK", Big Brother Brasil 2019
+http://extremetv.club:25461/gustavosantana/gustavo/12035
+#EXTINF:-1, group-title="MFK", Big Brother Brasil 2019 1
+http://extremetv.club:25461/gustavosantana/gustavo/12038
+#EXTINF:-1, group-title="MFK", Big Brother Brasil 2019 2
+http://extremetv.club:25461/gustavosantana/gustavo/12037
+#EXTINF:-1, group-title="MFK", Big Brother Brasil 2019 3
+http://extremetv.club:25461/gustavosantana/gustavo/12036
+#EXTINF:-1, group-title="MFK", A&E FHD
+http://extremetv.club:25461/gustavosantana/gustavo/4683
 #EXTINF:-1, group-title="MFK", A&E HD
-http://tv.minhalista.me:80/juan/juan/36929
-#EXTINF:-1, group-title="MFK", AMC HD
-http://tv.minhalista.me:80/juan/juan/36928
-#EXTINF:-1, group-title="MFK", Animal Planet
-http://tv.minhalista.me:80/juan/juan/37128
-#EXTINF:-1, group-title="MFK", Animal Planet HD
-http://tv.minhalista.me:80/juan/juan/36992
-#EXTINF:-1, group-title="MFK", Arte 1
-http://tv.minhalista.me:80/juan/juan/37133
-#EXTINF:-1, group-title="MFK", AXN
-http://tv.minhalista.me:80/juan/juan/37132
+http://extremetv.club:25461/gustavosantana/gustavo/4236
+#EXTINF:-1, group-title="MFK", A&E
+http://extremetv.club:25461/gustavosantana/gustavo/4154
+#EXTINF:-1, group-title="MFK", AXN FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6274
 #EXTINF:-1, group-title="MFK", AXN HD
-http://tv.minhalista.me:80/juan/juan/36991
-#EXTINF:-1, group-title="MFK", BabyTV
-http://tv.minhalista.me:80/juan/juan/36993
+http://extremetv.club:25461/gustavosantana/gustavo/4233
+#EXTINF:-1, group-title="MFK", AXN
+http://extremetv.club:25461/gustavosantana/gustavo/4810
+#EXTINF:-1, group-title="MFK", AMC FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12021
+#EXTINF:-1, group-title="MFK", AMC HD
+http://extremetv.club:25461/gustavosantana/gustavo/4235
 #EXTINF:-1, group-title="MFK", AMC
-http://tv.minhalista.me:80/juan/juan/41087
-#EXTINF:-1, group-title="MFK", Band
-http://tv.minhalista.me:80/juan/juan/37127
+http://extremetv.club:25461/gustavosantana/gustavo/4144
+#EXTINF:-1, group-title="MFK", Animal Planet FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12026
+#EXTINF:-1, group-title="MFK", Animal Planet HD
+http://extremetv.club:25461/gustavosantana/gustavo/4758
+#EXTINF:-1, group-title="MFK", Animal Planet
+http://extremetv.club:25461/gustavosantana/gustavo/4142
+#EXTINF:-1, group-title="MFK", Arte 1 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4140
+#EXTINF:-1, group-title="MFK", Arte 1
+http://extremetv.club:25461/gustavosantana/gustavo/4141
+#EXTINF:-1, group-title="MFK", Baby TV HD
+http://extremetv.club:25461/gustavosantana/gustavo/4135
+#EXTINF:-1, group-title="MFK", Baby TV
+http://extremetv.club:25461/gustavosantana/gustavo/4137
 #EXTINF:-1, group-title="MFK", Band HD
-http://tv.minhalista.me:80/juan/juan/36990
-#EXTINF:-1, group-title="MFK", BandNews HD
-http://tv.minhalista.me:80/juan/juan/42411
+http://extremetv.club:25461/gustavosantana/gustavo/6734
+#EXTINF:-1, group-title="MFK", Band
+http://extremetv.club:25461/gustavosantana/gustavo/4129
+#EXTINF:-1, group-title="MFK", Band News HD
+http://extremetv.club:25461/gustavosantana/gustavo/4232
 #EXTINF:-1, group-title="MFK", Band News
-http://tv.minhalista.me:80/juan/juan/37126
-#EXTINF:-1, group-title="MFK", BandSports
-http://tv.minhalista.me:80/juan/juan/37125
-#EXTINF:-1, group-title="MFK", BandSports HD
-http://tv.minhalista.me:80/juan/juan/36989
-#EXTINF:-1, group-title="MFK", Bis
-http://tv.minhalista.me:80/juan/juan/37131
-#EXTINF:-1, group-title="MFK", Bis HD
-http://tv.minhalista.me:80/juan/juan/36988
+http://extremetv.club:25461/gustavosantana/gustavo/4132
+#EXTINF:-1, group-title="MFK", Band Sports HD
+http://extremetv.club:25461/gustavosantana/gustavo/4231
+#EXTINF:-1, group-title="MFK", Band Sports
+http://extremetv.club:25461/gustavosantana/gustavo/4128
+#EXTINF:-1, group-title="MFK", BIS FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12017
+#EXTINF:-1, group-title="MFK", BIS HD
+http://extremetv.club:25461/gustavosantana/gustavo/4126
+#EXTINF:-1, group-title="MFK", BIS
+http://extremetv.club:25461/gustavosantana/gustavo/6685
+#EXTINF:-1, group-title="MFK", Boomerang HD
+http://extremetv.club:25461/gustavosantana/gustavo/4230
 #EXTINF:-1, group-title="MFK", Boomerang
-http://tv.minhalista.me:80/juan/juan/37123
+http://extremetv.club:25461/gustavosantana/gustavo/4125
 #EXTINF:-1, group-title="MFK", Canal Brasil
-http://tv.minhalista.me:80/juan/juan/37122
-#EXTINF:-1, group-title="MFK", Disney Junior HD
-http://tv.minhalista.me:80/juan/juan/40517
-#EXTINF:-1, group-title="MFK", Globo Brasília HD
-http://tv.minhalista.me:80/juan/juan/40513
-#EXTINF:-1, group-title="MFK", MTV Live
-http://tv.minhalista.me:80/juan/juan/40519
-#EXTINF:-1, group-title="MFK", MTV LIVE HD
-http://tv.minhalista.me:80/juan/juan/40518
-#EXTINF:-1, group-title="MFK", Band SP HD
-http://tv.minhalista.me:80/juan/juan/41530
-#EXTINF:-1, group-title="MFK", GLOBO TV TEM SAO JOSE DO RIO PRETO
-http://tv.minhalista.me:80/juan/juan/40516
-#EXTINF:-1, group-title="MFK", GLOBO TV TEM SAO JOSE DO RIO PRETO HD
-http://tv.minhalista.me:80/juan/juan/40515
-#EXTINF:-1, group-title="MFK", Sony HD
-http://tv.minhalista.me:80/juan/juan/36987
-#EXTINF:-1, group-title="MFK", Canção Nova
-http://tv.minhalista.me:80/juan/juan/37023
-#EXTINF:-1, group-title="MFK", Cartoon Network
-http://tv.minhalista.me:80/juan/juan/37121
+http://extremetv.club:25461/gustavosantana/gustavo/4123
+#EXTINF:-1, group-title="MFK", Cartoon Network FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6273
 #EXTINF:-1, group-title="MFK", Cartoon Network HD
-http://tv.minhalista.me:80/juan/juan/36927
-#EXTINF:-1, group-title="MFK", Chaves [24h]
-http://tv.minhalista.me:80/juan/juan/39762
-#EXTINF:-1, group-title="MFK", Cinemax
-http://tv.minhalista.me:80/juan/juan/37120
+http://extremetv.club:25461/gustavosantana/gustavo/4228
+#EXTINF:-1, group-title="MFK", Cartoon Network
+http://extremetv.club:25461/gustavosantana/gustavo/4121
+#EXTINF:-1, group-title="MFK", Cinemax FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12024
 #EXTINF:-1, group-title="MFK", Cinemax HD
-http://tv.minhalista.me:80/juan/juan/36926
-#EXTINF:-1, group-title="MFK", Combate
-http://tv.minhalista.me:80/juan/juan/37119
+http://extremetv.club:25461/gustavosantana/gustavo/5773
+#EXTINF:-1, group-title="MFK", Cinemax
+http://extremetv.club:25461/gustavosantana/gustavo/4117
+#EXTINF:-1, group-title="MFK", CNN International
+http://extremetv.club:25461/gustavosantana/gustavo/4114
+#EXTINF:-1, group-title="MFK", Combate FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6272
 #EXTINF:-1, group-title="MFK", Combate HD
-http://tv.minhalista.me:80/juan/juan/36986
-#EXTINF:-1, group-title="MFK", Comedy Central
-http://tv.minhalista.me:80/juan/juan/37118
+http://extremetv.club:25461/gustavosantana/gustavo/4111
+#EXTINF:-1, group-title="MFK", Combate
+http://extremetv.club:25461/gustavosantana/gustavo/4112
+#EXTINF:-1, group-title="MFK", Comedy Central FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12025
 #EXTINF:-1, group-title="MFK", Comedy Central HD
-http://tv.minhalista.me:80/juan/juan/36925
+http://extremetv.club:25461/gustavosantana/gustavo/4109
+#EXTINF:-1, group-title="MFK", Comedy Central
+http://extremetv.club:25461/gustavosantana/gustavo/4110
+#EXTINF:-1, group-title="MFK", Curta! HD
+http://extremetv.club:25461/gustavosantana/gustavo/4107
 #EXTINF:-1, group-title="MFK", Curta!
-http://tv.minhalista.me:80/juan/juan/37117
-#EXTINF:-1, group-title="MFK", Desenhos Biblicos [24h]
-http://tv.minhalista.me:80/juan/juan/39780
-#EXTINF:-1, group-title="MFK", Discovery Channel
-http://tv.minhalista.me:80/juan/juan/37116
+http://extremetv.club:25461/gustavosantana/gustavo/4108
+#EXTINF:-1, group-title="MFK", Discovery Channel FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12022
 #EXTINF:-1, group-title="MFK", Discovery Channel HD
-http://tv.minhalista.me:80/juan/juan/36985
+http://extremetv.club:25461/gustavosantana/gustavo/4225
+#EXTINF:-1, group-title="MFK", Discovery Channel
+http://extremetv.club:25461/gustavosantana/gustavo/4106
+#EXTINF:-1, group-title="MFK", Discovery Civilization FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6271
 #EXTINF:-1, group-title="MFK", Discovery Civilization HD
-http://tv.minhalista.me:80/juan/juan/36924
-#EXTINF:-1, group-title="MFK", Discovery H&H
-http://tv.minhalista.me:80/juan/juan/37115
+http://extremetv.club:25461/gustavosantana/gustavo/4224
+#EXTINF:-1, group-title="MFK", Discovery Civilization
+http://extremetv.club:25461/gustavosantana/gustavo/4105
+#EXTINF:-1, group-title="MFK", Discovery Home & Health HD
+http://extremetv.club:25461/gustavosantana/gustavo/4223
 #EXTINF:-1, group-title="MFK", Discovery Home & Health
-http://tv.minhalista.me:80/juan/juan/36984
-#EXTINF:-1, group-title="MFK", Discovery Kids
-http://tv.minhalista.me:80/juan/juan/37113
+http://extremetv.club:25461/gustavosantana/gustavo/4104
 #EXTINF:-1, group-title="MFK", Discovery Kids HD
-http://tv.minhalista.me:80/juan/juan/36923
+http://extremetv.club:25461/gustavosantana/gustavo/4222
+#EXTINF:-1, group-title="MFK", Discovery Kids
+http://extremetv.club:25461/gustavosantana/gustavo/4103
+#EXTINF:-1, group-title="MFK", Discovery Science FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6270
 #EXTINF:-1, group-title="MFK", Discovery Science HD
-http://tv.minhalista.me:80/juan/juan/36922
+http://extremetv.club:25461/gustavosantana/gustavo/4101
+#EXTINF:-1, group-title="MFK", Discovery Science
+http://extremetv.club:25461/gustavosantana/gustavo/4102
+#EXTINF:-1, group-title="MFK", Discovery Theater FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8479
 #EXTINF:-1, group-title="MFK", Discovery Theater HD
-http://tv.minhalista.me:80/juan/juan/36983
-#EXTINF:-1, group-title="MFK", Discovery Turbo
-http://tv.minhalista.me:80/juan/juan/37112
+http://extremetv.club:25461/gustavosantana/gustavo/4221
+#EXTINF:-1, group-title="MFK", Discovery Theater
+http://extremetv.club:25461/gustavosantana/gustavo/4100
 #EXTINF:-1, group-title="MFK", Discovery Turbo HD
-http://tv.minhalista.me:80/juan/juan/36982
+http://extremetv.club:25461/gustavosantana/gustavo/4220
+#EXTINF:-1, group-title="MFK", Discovery Turbo
+http://extremetv.club:25461/gustavosantana/gustavo/4099
+#EXTINF:-1, group-title="MFK", Discovery World FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8480
 #EXTINF:-1, group-title="MFK", Discovery World HD
-http://tv.minhalista.me:80/juan/juan/36981
-#EXTINF:-1, group-title="MFK", Disney Channel
-http://tv.minhalista.me:80/juan/juan/37111
-#EXTINF:-1, group-title="MFK", Disney Channel HD
-http://tv.minhalista.me:80/juan/juan/36921
-#EXTINF:-1, group-title="MFK", Disney Junior
-http://tv.minhalista.me:80/juan/juan/37110
+http://extremetv.club:25461/gustavosantana/gustavo/4219
+#EXTINF:-1, group-title="MFK", Discovery World
+http://extremetv.club:25461/gustavosantana/gustavo/4098
+#EXTINF:-1, group-title="MFK", Disney HD
+http://extremetv.club:25461/gustavosantana/gustavo/4218
+#EXTINF:-1, group-title="MFK", Disney
+http://extremetv.club:25461/gustavosantana/gustavo/4097
+#EXTINF:-1, group-title="MFK", Disney Jr FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12018
+#EXTINF:-1, group-title="MFK", Disney Jr HD
+http://extremetv.club:25461/gustavosantana/gustavo/4217
+#EXTINF:-1, group-title="MFK", Disney Jr
+http://extremetv.club:25461/gustavosantana/gustavo/4096
+#EXTINF:-1, group-title="MFK", Disney XD HD
+http://extremetv.club:25461/gustavosantana/gustavo/4216
 #EXTINF:-1, group-title="MFK", Disney XD
-http://tv.minhalista.me:80/juan/juan/37109
-#EXTINF:-1, group-title="MFK", E! Entertainment Television
-http://tv.minhalista.me:80/juan/juan/37108
+http://extremetv.club:25461/gustavosantana/gustavo/4094
+#EXTINF:-1, group-title="MFK", E!
+http://extremetv.club:25461/gustavosantana/gustavo/4093
 #EXTINF:-1, group-title="MFK", E! HD
-http://tv.minhalista.me:80/juan/juan/36920
-#EXTINF:-1, group-title="MFK", ESPN
-http://tv.minhalista.me:80/juan/juan/37105
-#EXTINF:-1, group-title="MFK", Espn Brasil
-http://tv.minhalista.me:80/juan/juan/37104
-#EXTINF:-1, group-title="MFK", ESPN Brasil HD
-http://tv.minhalista.me:80/juan/juan/36978
+http://extremetv.club:25461/gustavosantana/gustavo/4215
 #EXTINF:-1, group-title="MFK", ESPN HD
-http://tv.minhalista.me:80/juan/juan/36977
-#EXTINF:-1, group-title="MFK", ESPN 2 HD
-http://tv.minhalista.me:80/juan/juan/36976
+http://extremetv.club:25461/gustavosantana/gustavo/4212
+#EXTINF:-1, group-title="MFK", ESPN
+http://extremetv.club:25461/gustavosantana/gustavo/4088
+#EXTINF:-1, group-title="MFK", ESPN Brasil FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6269
+#EXTINF:-1, group-title="MFK", ESPN Brasil HD
+http://extremetv.club:25461/gustavosantana/gustavo/4213
+#EXTINF:-1, group-title="MFK", ESPN Brasil
+http://extremetv.club:25461/gustavosantana/gustavo/4087
+#EXTINF:-1, group-title="MFK", ESPN + HD
+http://extremetv.club:25461/gustavosantana/gustavo/5496
+#EXTINF:-1, group-title="MFK", ESPN +
+http://extremetv.club:25461/gustavosantana/gustavo/5495
+#EXTINF:-1, group-title="MFK", ESPN Extra HD
+http://extremetv.club:25461/gustavosantana/gustavo/8154
+#EXTINF:-1, group-title="MFK", ESPN Extra
+http://extremetv.club:25461/gustavosantana/gustavo/8153
+#EXTINF:-1, group-title="MFK", Fish TV FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8481
+#EXTINF:-1, group-title="MFK", Fish TV HD
+http://extremetv.club:25461/gustavosantana/gustavo/4080
 #EXTINF:-1, group-title="MFK", Fish TV
-http://tv.minhalista.me:80/juan/juan/37103
-#EXTINF:-1, group-title="MFK", Food Network
-http://tv.minhalista.me:80/juan/juan/37102
+http://extremetv.club:25461/gustavosantana/gustavo/4081
+#EXTINF:-1, group-title="MFK", Food Network FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6266
 #EXTINF:-1, group-title="MFK", Food Network HD
-http://tv.minhalista.me:80/juan/juan/36919
+http://extremetv.club:25461/gustavosantana/gustavo/4209
+#EXTINF:-1, group-title="MFK", Food Network
+http://extremetv.club:25461/gustavosantana/gustavo/4079
+#EXTINF:-1, group-title="MFK", Fox FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6265
+#EXTINF:-1, group-title="MFK", Fox HD
+http://extremetv.club:25461/gustavosantana/gustavo/5774
 #EXTINF:-1, group-title="MFK", Fox
-http://tv.minhalista.me:80/juan/juan/37101
-#EXTINF:-1, group-title="MFK", Fox Channel HD
-http://tv.minhalista.me:80/juan/juan/36972
-#EXTINF:-1, group-title="MFK", FoxLife
-http://tv.minhalista.me:80/juan/juan/37100
-#EXTINF:-1, group-title="MFK", FoxLife HD
-http://tv.minhalista.me:80/juan/juan/36918
+http://extremetv.club:25461/gustavosantana/gustavo/4077
+#EXTINF:-1, group-title="MFK", Fox Life HD
+http://extremetv.club:25461/gustavosantana/gustavo/4207
+#EXTINF:-1, group-title="MFK", Fox Life
+http://extremetv.club:25461/gustavosantana/gustavo/4074
+#EXTINF:-1, group-title="MFK", Fox Premium 1 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4071
 #EXTINF:-1, group-title="MFK", Fox Premium 1
-http://tv.minhalista.me:80/juan/juan/37335
-#EXTINF:-1, group-title="MFK", Fox Premium 1  HD
-http://tv.minhalista.me:80/juan/juan/36974
-#EXTINF:-1, group-title="MFK", Fox Premium 2
-http://tv.minhalista.me:80/juan/juan/37336
+http://extremetv.club:25461/gustavosantana/gustavo/8872
 #EXTINF:-1, group-title="MFK", Fox Premium 2 HD
-http://tv.minhalista.me:80/juan/juan/36973
-#EXTINF:-1, group-title="MFK", FoxSports
-http://tv.minhalista.me:80/juan/juan/37099
-#EXTINF:-1, group-title="MFK", FoxSports 2
-http://tv.minhalista.me:80/juan/juan/37098
-#EXTINF:-1, group-title="MFK", FoxSports 2 HD
-http://tv.minhalista.me:80/juan/juan/36971
-#EXTINF:-1, group-title="MFK", FoxSports HD
-http://tv.minhalista.me:80/juan/juan/36970
-#EXTINF:-1, group-title="MFK", FX
-http://tv.minhalista.me:80/juan/juan/37097
+http://extremetv.club:25461/gustavosantana/gustavo/4069
+#EXTINF:-1, group-title="MFK", Fox Premium 2
+http://extremetv.club:25461/gustavosantana/gustavo/8873
+#EXTINF:-1, group-title="MFK", Fox Sports FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6263
+#EXTINF:-1, group-title="MFK", Fox Sports HD
+http://extremetv.club:25461/gustavosantana/gustavo/4202
+#EXTINF:-1, group-title="MFK", Fox Sports
+http://extremetv.club:25461/gustavosantana/gustavo/4068
+#EXTINF:-1, group-title="MFK", Fox Sports 2 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6264
+#EXTINF:-1, group-title="MFK", Fox Sports 2 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4204
+#EXTINF:-1, group-title="MFK", Fox Sports 2
+http://extremetv.club:25461/gustavosantana/gustavo/4067
+#EXTINF:-1, group-title="MFK", Futura HD
+http://extremetv.club:25461/gustavosantana/gustavo/4065
+#EXTINF:-1, group-title="MFK", Futura
+http://extremetv.club:25461/gustavosantana/gustavo/4066
+#EXTINF:-1, group-title="MFK", FX FHD
+http://extremetv.club:25461/gustavosantana/gustavo/4063
 #EXTINF:-1, group-title="MFK", FX HD
-http://tv.minhalista.me:80/juan/juan/36969
-#EXTINF:-1, group-title="MFK", Globo Anhanguera
-http://tv.minhalista.me:80/juan/juan/38966
-#EXTINF:-1, group-title="MFK", GLOBO BAHIA
-http://tv.minhalista.me:80/juan/juan/37096
-#EXTINF:-1, group-title="MFK", Globo Brasília
-http://tv.minhalista.me:80/juan/juan/37095
-#EXTINF:-1, group-title="MFK", EPTV Ribeirão HD
-http://tv.minhalista.me:80/juan/juan/38640
-#EXTINF:-1, group-title="MFK", Globo Florianopolis
-http://tv.minhalista.me:80/juan/juan/38641
-#EXTINF:-1, group-title="MFK", GloboNews
-http://tv.minhalista.me:80/juan/juan/37093
-#EXTINF:-1, group-title="MFK", GloboNews HD
-http://tv.minhalista.me:80/juan/juan/36917
-#EXTINF:-1, group-title="MFK", Globo Nordeste
-http://tv.minhalista.me:80/juan/juan/37092
-#EXTINF:-1, group-title="MFK", Globo Nordeste HD
-http://tv.minhalista.me:80/juan/juan/38971
-#EXTINF:-1, group-title="MFK", Globo Rio
-http://tv.minhalista.me:80/juan/juan/37091
-#EXTINF:-1, group-title="MFK", Globo Rio HD
-http://tv.minhalista.me:80/juan/juan/36968
-#EXTINF:-1, group-title="MFK", Globo RPC Curitiba
-http://tv.minhalista.me:80/juan/juan/37366
-#EXTINF:-1, group-title="MFK", I.Sat
-http://tv.minhalista.me:80/juan/juan/37134
-#EXTINF:-1, group-title="MFK", GloboSat HD
-http://tv.minhalista.me:80/juan/juan/36916
-#EXTINF:-1, group-title="MFK", Globo SP
-http://tv.minhalista.me:80/juan/juan/37090
+http://extremetv.club:25461/gustavosantana/gustavo/4201
+#EXTINF:-1, group-title="MFK", FX
+http://extremetv.club:25461/gustavosantana/gustavo/4064
+#EXTINF:-1, group-title="MFK", Globo EPTV Campinas
+http://extremetv.club:25461/gustavosantana/gustavo/4062
+#EXTINF:-1, group-title="MFK", Globo EPTV Ribeirão Preto
+http://extremetv.club:25461/gustavosantana/gustavo/4059
+#EXTINF:-1, group-title="MFK", Globo EPTV São Carlos
+http://extremetv.club:25461/gustavosantana/gustavo/4058
+#EXTINF:-1, group-title="MFK", Globo NOW
+http://extremetv.club:25461/gustavosantana/gustavo/4057
+#EXTINF:-1, group-title="MFK", Globo MG FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8142
+#EXTINF:-1, group-title="MFK", Globo MG HD
+http://extremetv.club:25461/gustavosantana/gustavo/8141
+#EXTINF:-1, group-title="MFK", Globo MG
+http://extremetv.club:25461/gustavosantana/gustavo/4056
+#EXTINF:-1, group-title="MFK", Globo SP FHD
+http://extremetv.club:25461/gustavosantana/gustavo/9368
 #EXTINF:-1, group-title="MFK", Globo SP HD
-http://tv.minhalista.me:80/juan/juan/37361
-#EXTINF:-1, group-title="MFK", GLOBO TV ANHANGUERA HD
-http://tv.minhalista.me:80/juan/juan/38967
-#EXTINF:-1, group-title="MFK", Gloob
-http://tv.minhalista.me:80/juan/juan/37089
+http://extremetv.club:25461/gustavosantana/gustavo/4197
+#EXTINF:-1, group-title="MFK", Globo SP
+http://extremetv.club:25461/gustavosantana/gustavo/4046
+#EXTINF:-1, group-title="MFK", Globo RJ HD
+http://extremetv.club:25461/gustavosantana/gustavo/4198
+#EXTINF:-1, group-title="MFK", Globo RJ
+http://extremetv.club:25461/gustavosantana/gustavo/4049
+#EXTINF:-1, group-title="MFK", Globo Nordeste HD
+http://extremetv.club:25461/gustavosantana/gustavo/4199
+#EXTINF:-1, group-title="MFK", Globo Paraná HD
+http://extremetv.club:25461/gustavosantana/gustavo/8592
+#EXTINF:-1, group-title="MFK", Globo RBS Porto Alegre FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8143
+#EXTINF:-1, group-title="MFK", Globo RBS Porto Alegre
+http://extremetv.club:25461/gustavosantana/gustavo/4050
+#EXTINF:-1, group-title="MFK", Globo RN
+http://extremetv.club:25461/gustavosantana/gustavo/4047
+#EXTINF:-1, group-title="MFK", Globo Tv Belem
+http://extremetv.club:25461/gustavosantana/gustavo/4044
+#EXTINF:-1, group-title="MFK", Globo Tv Tem Bauru HD
+http://extremetv.club:25461/gustavosantana/gustavo/4042
+#EXTINF:-1, group-title="MFK", Globo Tv Tem Sorocaba
+http://extremetv.club:25461/gustavosantana/gustavo/4041
+#EXTINF:-1, group-title="MFK", Globo Tv Vanguarda S.J dos Campos
+http://extremetv.club:25461/gustavosantana/gustavo/4039
+#EXTINF:-1, group-title="MFK", Globo Tv Verdes Mares Fortaleza
+http://extremetv.club:25461/gustavosantana/gustavo/4038
+#EXTINF:-1, group-title="MFK", Globo News FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6261
+#EXTINF:-1, group-title="MFK", Globo News HD
+http://extremetv.club:25461/gustavosantana/gustavo/4200
+#EXTINF:-1, group-title="MFK", Globo News
+http://extremetv.club:25461/gustavosantana/gustavo/4053
+#EXTINF:-1, group-title="MFK", Globosat Mais HD
+http://extremetv.club:25461/gustavosantana/gustavo/5775
+#EXTINF:-1, group-title="MFK", Globosat Mais
+http://extremetv.club:25461/gustavosantana/gustavo/4037
+#EXTINF:-1, group-title="MFK", Gloob FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12019
 #EXTINF:-1, group-title="MFK", Gloob HD
-http://tv.minhalista.me:80/juan/juan/36915
-#EXTINF:-1, group-title="MFK", GNT
-http://tv.minhalista.me:80/juan/juan/37088
+http://extremetv.club:25461/gustavosantana/gustavo/4196
+#EXTINF:-1, group-title="MFK", Gloob
+http://extremetv.club:25461/gustavosantana/gustavo/4035
 #EXTINF:-1, group-title="MFK", GNT HD
-http://tv.minhalista.me:80/juan/juan/36967
-#EXTINF:-1, group-title="MFK", HBO
-http://tv.minhalista.me:80/juan/juan/37087
-#EXTINF:-1, group-title="MFK", HBO 2
-http://tv.minhalista.me:80/juan/juan/37086
-#EXTINF:-1, group-title="MFK", HBO 2 HD
-http://tv.minhalista.me:80/juan/juan/36966
-#EXTINF:-1, group-title="MFK", HBO Family
-http://tv.minhalista.me:80/juan/juan/37085
-#EXTINF:-1, group-title="MFK", HBO Family HD
-http://tv.minhalista.me:80/juan/juan/36965
+http://extremetv.club:25461/gustavosantana/gustavo/4194
+#EXTINF:-1, group-title="MFK", GNT
+http://extremetv.club:25461/gustavosantana/gustavo/4195
+#EXTINF:-1, group-title="MFK", H2 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12027
+#EXTINF:-1, group-title="MFK", H2 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4030
+#EXTINF:-1, group-title="MFK", H2
+http://extremetv.club:25461/gustavosantana/gustavo/4193
+#EXTINF:-1, group-title="MFK", HBO FHD
+http://extremetv.club:25461/gustavosantana/gustavo/4025
 #EXTINF:-1, group-title="MFK", HBO HD
-http://tv.minhalista.me:80/juan/juan/36964
-#EXTINF:-1, group-title="MFK", HBO Plus
-http://tv.minhalista.me:80/juan/juan/37084
-#EXTINF:-1, group-title="MFK", HBO PLUS E
-http://tv.minhalista.me:80/juan/juan/37083
+http://extremetv.club:25461/gustavosantana/gustavo/4190
+#EXTINF:-1, group-title="MFK", HBO
+http://extremetv.club:25461/gustavosantana/gustavo/4029
+#EXTINF:-1, group-title="MFK", HBO 2 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/4027
+#EXTINF:-1, group-title="MFK", HBO 2 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4192
+#EXTINF:-1, group-title="MFK", HBO 2
+http://extremetv.club:25461/gustavosantana/gustavo/4028
+#EXTINF:-1, group-title="MFK", HBO Family HD
+http://extremetv.club:25461/gustavosantana/gustavo/4191
+#EXTINF:-1, group-title="MFK", HBO Family
+http://extremetv.club:25461/gustavosantana/gustavo/4026
+#EXTINF:-1, group-title="MFK", HBO Plus FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6260
 #EXTINF:-1, group-title="MFK", HBO Plus HD
-http://tv.minhalista.me:80/juan/juan/36963
-#EXTINF:-1, group-title="MFK", HBO Signature
-http://tv.minhalista.me:80/juan/juan/37082
+http://extremetv.club:25461/gustavosantana/gustavo/4189
+#EXTINF:-1, group-title="MFK", HBO Plus
+http://extremetv.club:25461/gustavosantana/gustavo/4024
+#EXTINF:-1, group-title="MFK", HBO Plus *e HD
+http://extremetv.club:25461/gustavosantana/gustavo/4022
+#EXTINF:-1, group-title="MFK", HBO Plus *e
+http://extremetv.club:25461/gustavosantana/gustavo/4023
+#EXTINF:-1, group-title="MFK", HBO Signature FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6259
 #EXTINF:-1, group-title="MFK", HBO Signature HD
-http://tv.minhalista.me:80/juan/juan/36962
-#EXTINF:-1, group-title="MFK", History
-http://tv.minhalista.me:80/juan/juan/37081
-#EXTINF:-1, group-title="MFK", History 2 HD
-http://tv.minhalista.me:80/juan/juan/36961
-#EXTINF:-1, group-title="MFK", History HD
-http://tv.minhalista.me:80/juan/juan/36960
-#EXTINF:-1, group-title="MFK", ID: Investigação Discovery HD
-http://tv.minhalista.me:80/juan/juan/36959
-#EXTINF:-1, group-title="MFK", ID: Investigação Discovery
-http://tv.minhalista.me:80/juan/juan/37114
-#EXTINF:-1, group-title="MFK", Lifetime
-http://tv.minhalista.me:80/juan/juan/37077
+http://extremetv.club:25461/gustavosantana/gustavo/4188
+#EXTINF:-1, group-title="MFK", HBO Signature
+http://extremetv.club:25461/gustavosantana/gustavo/4021
+#EXTINF:-1, group-title="MFK", History Channel FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6258
+#EXTINF:-1, group-title="MFK", History Channel HD
+http://extremetv.club:25461/gustavosantana/gustavo/4187
+#EXTINF:-1, group-title="MFK", History Channel
+http://extremetv.club:25461/gustavosantana/gustavo/4020
+#EXTINF:-1, group-title="MFK", iSat
+http://extremetv.club:25461/gustavosantana/gustavo/4019
+#EXTINF:-1, group-title="MFK", ID - Investigação Discovery FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6257
+#EXTINF:-1, group-title="MFK", ID - Investigação Discovery HD
+http://extremetv.club:25461/gustavosantana/gustavo/4018
+#EXTINF:-1, group-title="MFK", ID - Investigação Discovery
+http://extremetv.club:25461/gustavosantana/gustavo/5589
+#EXTINF:-1, group-title="MFK", InterTV Cabugi
+http://extremetv.club:25461/gustavosantana/gustavo/12033
+#EXTINF:-1, group-title="MFK", Lifetime FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6256
 #EXTINF:-1, group-title="MFK", Lifetime HD
-http://tv.minhalista.me:80/juan/juan/36914
-#EXTINF:-1, group-title="MFK", Max
-http://tv.minhalista.me:80/juan/juan/37076
+http://extremetv.club:25461/gustavosantana/gustavo/4186
+#EXTINF:-1, group-title="MFK", Lifetime
+http://extremetv.club:25461/gustavosantana/gustavo/4017
+#EXTINF:-1, group-title="MFK", Max FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12028
 #EXTINF:-1, group-title="MFK", Max HD
-http://tv.minhalista.me:80/juan/juan/36913
-#EXTINF:-1, group-title="MFK", MaxPrime
-http://tv.minhalista.me:80/juan/juan/37075
-#EXTINF:-1, group-title="MFK", MAX PRIME E
-http://tv.minhalista.me:80/juan/juan/37074
+http://extremetv.club:25461/gustavosantana/gustavo/4185
+#EXTINF:-1, group-title="MFK", Max
+http://extremetv.club:25461/gustavosantana/gustavo/4016
+#EXTINF:-1, group-title="MFK", Max Prime FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12029
 #EXTINF:-1, group-title="MFK", Max Prime HD
-http://tv.minhalista.me:80/juan/juan/36912
-#EXTINF:-1, group-title="MFK", Max UP
-http://tv.minhalista.me:80/juan/juan/37073
-#EXTINF:-1, group-title="MFK", Max UP HD
-http://tv.minhalista.me:80/juan/juan/36911
-#EXTINF:-1, group-title="MFK", Megapix
-http://tv.minhalista.me:80/juan/juan/37072
+http://extremetv.club:25461/gustavosantana/gustavo/4014
+#EXTINF:-1, group-title="MFK", Max Prime
+http://extremetv.club:25461/gustavosantana/gustavo/4015
+#EXTINF:-1, group-title="MFK", Max Prime *e HD
+http://extremetv.club:25461/gustavosantana/gustavo/4012
+#EXTINF:-1, group-title="MFK", Max Prime *e
+http://extremetv.club:25461/gustavosantana/gustavo/4013
+#EXTINF:-1, group-title="MFK", Max Up HD
+http://extremetv.club:25461/gustavosantana/gustavo/4184
+#EXTINF:-1, group-title="MFK", Max Up
+http://extremetv.club:25461/gustavosantana/gustavo/4011
+#EXTINF:-1, group-title="MFK", Megapix FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6255
 #EXTINF:-1, group-title="MFK", Megapix HD
-http://tv.minhalista.me:80/juan/juan/36958
-#EXTINF:-1, group-title="MFK", MTV
-http://tv.minhalista.me:80/juan/juan/37071
+http://extremetv.club:25461/gustavosantana/gustavo/4183
+#EXTINF:-1, group-title="MFK", Megapix
+http://extremetv.club:25461/gustavosantana/gustavo/4010
 #EXTINF:-1, group-title="MFK", MTV HD
-http://tv.minhalista.me:80/juan/juan/36910
-#EXTINF:-1, group-title="MFK", Multishow
-http://tv.minhalista.me:80/juan/juan/37070
+http://extremetv.club:25461/gustavosantana/gustavo/3999
+#EXTINF:-1, group-title="MFK", MTV
+http://extremetv.club:25461/gustavosantana/gustavo/4009
+#EXTINF:-1, group-title="MFK", MTV Classic
+http://extremetv.club:25461/gustavosantana/gustavo/4007
+#EXTINF:-1, group-title="MFK", Multishow FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6254
 #EXTINF:-1, group-title="MFK", Multishow HD
-http://tv.minhalista.me:80/juan/juan/36957
+http://extremetv.club:25461/gustavosantana/gustavo/4182
+#EXTINF:-1, group-title="MFK", Multishow
+http://extremetv.club:25461/gustavosantana/gustavo/3998
 #EXTINF:-1, group-title="MFK", Music Box Brazil
-http://tv.minhalista.me:80/juan/juan/37069
-#EXTINF:-1, group-title="MFK", NATIONAL GEOGRAPHICS
-http://tv.minhalista.me:80/juan/juan/37068
-#EXTINF:-1, group-title="MFK", NATIONAL GEOGRAPHICS HD
-http://tv.minhalista.me:80/juan/juan/36956
-#EXTINF:-1, group-title="MFK", NatGeo Kids
-http://tv.minhalista.me:80/juan/juan/37067
+http://extremetv.club:25461/gustavosantana/gustavo/3996
+#EXTINF:-1, group-title="MFK", NatGeo Kids FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6252
 #EXTINF:-1, group-title="MFK", NatGeo Kids HD
-http://tv.minhalista.me:80/juan/juan/36909
-#EXTINF:-1, group-title="MFK", National Geographic Wild
-http://tv.minhalista.me:80/juan/juan/37066
-#EXTINF:-1, group-title="MFK", National Geographic Wild HD
-http://tv.minhalista.me:80/juan/juan/36955
+http://extremetv.club:25461/gustavosantana/gustavo/3993
+#EXTINF:-1, group-title="MFK", NatGeo Kids
+http://extremetv.club:25461/gustavosantana/gustavo/3995
+#EXTINF:-1, group-title="MFK", NatGeo Wild FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6253
+#EXTINF:-1, group-title="MFK", NatGeo Wild HD
+http://extremetv.club:25461/gustavosantana/gustavo/3991
+#EXTINF:-1, group-title="MFK", NatGeo Wild
+http://extremetv.club:25461/gustavosantana/gustavo/3992
+#EXTINF:-1, group-title="MFK", National Geographic FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6251
+#EXTINF:-1, group-title="MFK", National Geographic HD
+http://extremetv.club:25461/gustavosantana/gustavo/3988
+#EXTINF:-1, group-title="MFK", National Geographic
+http://extremetv.club:25461/gustavosantana/gustavo/3990
 #EXTINF:-1, group-title="MFK", NBR
-http://tv.minhalista.me:80/juan/juan/37021
-#EXTINF:-1, group-title="MFK", Nick Jr.
-http://tv.minhalista.me:80/juan/juan/37065
+http://extremetv.club:25461/gustavosantana/gustavo/3987
+#EXTINF:-1, group-title="MFK", Nick Jr FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12023
 #EXTINF:-1, group-title="MFK", Nick Jr. HD
-http://tv.minhalista.me:80/juan/juan/36908
-#EXTINF:-1, group-title="MFK", Nick
-http://tv.minhalista.me:80/juan/juan/37064
-#EXTINF:-1, group-title="MFK", Nick HD
-http://tv.minhalista.me:80/juan/juan/36907
+http://extremetv.club:25461/gustavosantana/gustavo/3984
+#EXTINF:-1, group-title="MFK", Nick Jr.
+http://extremetv.club:25461/gustavosantana/gustavo/3986
+#EXTINF:-1, group-title="MFK", Nickelodeon FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12020
+#EXTINF:-1, group-title="MFK", Nickelodeon HD
+http://extremetv.club:25461/gustavosantana/gustavo/3982
+#EXTINF:-1, group-title="MFK", Nickelodeon
+http://extremetv.club:25461/gustavosantana/gustavo/3983
 #EXTINF:-1, group-title="MFK", Novo Tempo
-http://tv.minhalista.me:80/juan/juan/39793
-#EXTINF:-1, group-title="MFK", Off
-http://tv.minhalista.me:80/juan/juan/37063
-#EXTINF:-1, group-title="MFK", Off HD
-http://tv.minhalista.me:80/juan/juan/36954
-#EXTINF:-1, group-title="MFK", Paramount Channe
-http://tv.minhalista.me:80/juan/juan/37062
-#EXTINF:-1, group-title="MFK", Paramount HD
-http://tv.minhalista.me:80/juan/juan/36953
-#EXTINF:-1, group-title="MFK", [XX] Playboy TV
-http://tv.minhalista.me:80/juan/juan/37061
-#EXTINF:-1, group-title="MFK", Premiere 2
-http://tv.minhalista.me:80/juan/juan/37060
-#EXTINF:-1, group-title="MFK", Premiere 2 HD
-http://tv.minhalista.me:80/juan/juan/36952
-#EXTINF:-1, group-title="MFK", Premiere 3
-http://tv.minhalista.me:80/juan/juan/37059
-#EXTINF:-1, group-title="MFK", Premiere 3 HD
-http://tv.minhalista.me:80/juan/juan/36951
-#EXTINF:-1, group-title="MFK", Premiere 4
-http://tv.minhalista.me:80/juan/juan/37058
-#EXTINF:-1, group-title="MFK", Premiere 4 HD
-http://tv.minhalista.me:80/juan/juan/36950
-#EXTINF:-1, group-title="MFK", Premiere 5
-http://tv.minhalista.me:80/juan/juan/37057
-#EXTINF:-1, group-title="MFK", Premiere 5 HD
-http://tv.minhalista.me:80/juan/juan/36949
-#EXTINF:-1, group-title="MFK", Premiere 6
-http://tv.minhalista.me:80/juan/juan/37056
-#EXTINF:-1, group-title="MFK", Premiere 6 HD
-http://tv.minhalista.me:80/juan/juan/36906
-#EXTINF:-1, group-title="MFK", Premiere 7
-http://tv.minhalista.me:80/juan/juan/37017
-#EXTINF:-1, group-title="MFK", Premiere 7 HD
-http://tv.minhalista.me:80/juan/juan/36905
-#EXTINF:-1, group-title="MFK", PREMIERE CLUBES
-http://tv.minhalista.me:80/juan/juan/37016
+http://extremetv.club:25461/gustavosantana/gustavo/3981
+#EXTINF:-1, group-title="MFK", NHK World
+http://extremetv.club:25461/gustavosantana/gustavo/7129
+#EXTINF:-1, group-title="MFK", NSC TV Santa Catarina FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12032
+#EXTINF:-1, group-title="MFK", NSC TV Santa Catarina HD
+http://extremetv.club:25461/gustavosantana/gustavo/12031
+#EXTINF:-1, group-title="MFK", OFF FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8147
+#EXTINF:-1, group-title="MFK", OFF HD
+http://extremetv.club:25461/gustavosantana/gustavo/4181
+#EXTINF:-1, group-title="MFK", OFF
+http://extremetv.club:25461/gustavosantana/gustavo/3980
+#EXTINF:-1, group-title="MFK", Paramount FHD
+http://extremetv.club:25461/gustavosantana/gustavo/12030
+#EXTINF:-1, group-title="MFK", Paramount Channel HD
+http://extremetv.club:25461/gustavosantana/gustavo/4180
+#EXTINF:-1, group-title="MFK", Paramount Channel
+http://extremetv.club:25461/gustavosantana/gustavo/3978
+#EXTINF:-1, group-title="MFK", Premiere Clubes FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6244
 #EXTINF:-1, group-title="MFK", Premiere Clubes HD
-http://tv.minhalista.me:80/juan/juan/36948
-#EXTINF:-1, group-title="MFK", Prime Box Brazil
-http://tv.minhalista.me:80/juan/juan/37053
-#EXTINF:-1, group-title="MFK", TV Ra Tim Bum
-http://tv.minhalista.me:80/juan/juan/37015
-#EXTINF:-1, group-title="MFK", RecordTV
-http://tv.minhalista.me:80/juan/juan/37051
-#EXTINF:-1, group-title="MFK", Record HD
-http://tv.minhalista.me:80/juan/juan/36947
+http://extremetv.club:25461/gustavosantana/gustavo/4175
+#EXTINF:-1, group-title="MFK", Premiere Clubes
+http://extremetv.club:25461/gustavosantana/gustavo/3966
+#EXTINF:-1, group-title="MFK", Premiere 2 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6250
+#EXTINF:-1, group-title="MFK", Premiere 2 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4179
+#EXTINF:-1, group-title="MFK", Premiere 2
+http://extremetv.club:25461/gustavosantana/gustavo/3975
+#EXTINF:-1, group-title="MFK", Premiere 3 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6249
+#EXTINF:-1, group-title="MFK", Premiere 3 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4178
+#EXTINF:-1, group-title="MFK", Premiere 3
+http://extremetv.club:25461/gustavosantana/gustavo/3974
+#EXTINF:-1, group-title="MFK", Premiere 4 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6248
+#EXTINF:-1, group-title="MFK", Premiere 4 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4177
+#EXTINF:-1, group-title="MFK", Premiere 4
+http://extremetv.club:25461/gustavosantana/gustavo/3972
+#EXTINF:-1, group-title="MFK", Premiere 5 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6247
+#EXTINF:-1, group-title="MFK", Premiere 5 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4176
+#EXTINF:-1, group-title="MFK", Premiere 5
+http://extremetv.club:25461/gustavosantana/gustavo/3971
+#EXTINF:-1, group-title="MFK", Premiere 6 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6246
+#EXTINF:-1, group-title="MFK", Premiere 6 HD
+http://extremetv.club:25461/gustavosantana/gustavo/8893
+#EXTINF:-1, group-title="MFK", Premiere 6
+http://extremetv.club:25461/gustavosantana/gustavo/3970
+#EXTINF:-1, group-title="MFK", Premiere 7 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6245
+#EXTINF:-1, group-title="MFK", Premiere 7 HD
+http://extremetv.club:25461/gustavosantana/gustavo/8892
+#EXTINF:-1, group-title="MFK", Premiere 7
+http://extremetv.club:25461/gustavosantana/gustavo/3969
+#EXTINF:-1, group-title="MFK", Premiere 8
+http://extremetv.club:25461/gustavosantana/gustavo/3968
+#EXTINF:-1, group-title="MFK", Play TV
+http://extremetv.club:25461/gustavosantana/gustavo/3977
+#EXTINF:-1, group-title="MFK", Record SP HD
+http://extremetv.club:25461/gustavosantana/gustavo/3955
+#EXTINF:-1, group-title="MFK", Record SP
+http://extremetv.club:25461/gustavosantana/gustavo/3957
+#EXTINF:-1, group-title="MFK", Record RJ HD
+http://extremetv.club:25461/gustavosantana/gustavo/9580
+#EXTINF:-1, group-title="MFK", Record Campinas HD
+http://extremetv.club:25461/gustavosantana/gustavo/3963
+#EXTINF:-1, group-title="MFK", Record Campinas
+http://extremetv.club:25461/gustavosantana/gustavo/3964
 #EXTINF:-1, group-title="MFK", Record News HD
-http://tv.minhalista.me:80/juan/juan/37050
-#EXTINF:-1, group-title="MFK", Rede Brasil
-http://tv.minhalista.me:80/juan/juan/37013
-#EXTINF:-1, group-title="MFK", RedeTV
-http://tv.minhalista.me:80/juan/juan/37012
-#EXTINF:-1, group-title="MFK", RedeTV HD
-http://tv.minhalista.me:80/juan/juan/36946
+http://extremetv.club:25461/gustavosantana/gustavo/3959
+#EXTINF:-1, group-title="MFK", Record News
+http://extremetv.club:25461/gustavosantana/gustavo/3961
+#EXTINF:-1, group-title="MFK", Rede TV HD
+http://extremetv.club:25461/gustavosantana/gustavo/3953
+#EXTINF:-1, group-title="MFK", Rede TV
+http://extremetv.club:25461/gustavosantana/gustavo/3954
+#EXTINF:-1, group-title="MFK", Rede Vida HD
+http://extremetv.club:25461/gustavosantana/gustavo/3951
 #EXTINF:-1, group-title="MFK", Rede Vida
-http://tv.minhalista.me:80/juan/juan/37011
-#EXTINF:-1, group-title="MFK", SBT
-http://tv.minhalista.me:80/juan/juan/37048
+http://extremetv.club:25461/gustavosantana/gustavo/3952
+#EXTINF:-1, group-title="MFK", Rede Super
+http://extremetv.club:25461/gustavosantana/gustavo/4873
+#EXTINF:-1, group-title="MFK", SBT FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6242
 #EXTINF:-1, group-title="MFK", SBT HD
-http://tv.minhalista.me:80/juan/juan/36945
-#EXTINF:-1, group-title="MFK", [XX] Sextreme
-http://tv.minhalista.me:80/juan/juan/37047
-#EXTINF:-1, group-title="MFK", [XX] Sexy Hot
-http://tv.minhalista.me:80/juan/juan/37009
-#EXTINF:-1, group-title="MFK", SHOW DA VIOLA
-http://tv.minhalista.me:80/juan/juan/39770
-#EXTINF:-1, group-title="MFK", Simone e Simaria Bar das Coleguinhas
-http://tv.minhalista.me:80/juan/juan/39792
-#EXTINF:-1, group-title="MFK", Sony
-http://tv.minhalista.me:80/juan/juan/37007
-#EXTINF:-1, group-title="MFK", Space
-http://tv.minhalista.me:80/juan/juan/37046
-#EXTINF:-1, group-title="MFK", Space HD
-http://tv.minhalista.me:80/juan/juan/36944
+http://extremetv.club:25461/gustavosantana/gustavo/4174
+#EXTINF:-1, group-title="MFK", SBT
+http://extremetv.club:25461/gustavosantana/gustavo/3949
+#EXTINF:-1, group-title="MFK", SBT Nordeste HD
+http://extremetv.club:25461/gustavosantana/gustavo/3947
+#EXTINF:-1, group-title="MFK", SporTV FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6237
+#EXTINF:-1, group-title="MFK", SporTV HD
+http://extremetv.club:25461/gustavosantana/gustavo/4169
 #EXTINF:-1, group-title="MFK", SporTV
-http://tv.minhalista.me:80/juan/juan/37256
-#EXTINF:-1, group-title="MFK", Sportv 2
-http://tv.minhalista.me:80/juan/juan/37044
-#EXTINF:-1, group-title="MFK", Sportv 2 HD
-http://tv.minhalista.me:80/juan/juan/36943
-#EXTINF:-1, group-title="MFK", Sportv 3
-http://tv.minhalista.me:80/juan/juan/37006
-#EXTINF:-1, group-title="MFK", Sportv 3 HD
-http://tv.minhalista.me:80/juan/juan/36942
-#EXTINF:-1, group-title="MFK", Sportv HD
-http://tv.minhalista.me:80/juan/juan/37255
-#EXTINF:-1, group-title="MFK", Studio Universal
-http://tv.minhalista.me:80/juan/juan/37043
+http://extremetv.club:25461/gustavosantana/gustavo/3941
+#EXTINF:-1, group-title="MFK", SporTV 2 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6239
+#EXTINF:-1, group-title="MFK", SporTV 2 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4171
+#EXTINF:-1, group-title="MFK", SporTV 2
+http://extremetv.club:25461/gustavosantana/gustavo/3940
+#EXTINF:-1, group-title="MFK", SporTV 3 FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6238
+#EXTINF:-1, group-title="MFK", SporTV 3 HD
+http://extremetv.club:25461/gustavosantana/gustavo/4170
+#EXTINF:-1, group-title="MFK", SporTV 3
+http://extremetv.club:25461/gustavosantana/gustavo/3938
+#EXTINF:-1, group-title="MFK", Space FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6240
+#EXTINF:-1, group-title="MFK", Space HD
+http://extremetv.club:25461/gustavosantana/gustavo/4172
+#EXTINF:-1, group-title="MFK", Space
+http://extremetv.club:25461/gustavosantana/gustavo/3943
+#EXTINF:-1, group-title="MFK", Sony FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6241
+#EXTINF:-1, group-title="MFK", Sony HD
+http://extremetv.club:25461/gustavosantana/gustavo/3944
+#EXTINF:-1, group-title="MFK", Sony
+http://extremetv.club:25461/gustavosantana/gustavo/3946
+#EXTINF:-1, group-title="MFK", Studio Universal FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6236
 #EXTINF:-1, group-title="MFK", Studio Universal HD
-http://tv.minhalista.me:80/juan/juan/36904
-#EXTINF:-1, group-title="MFK", Syfy
-http://tv.minhalista.me:80/juan/juan/37042
-#EXTINF:-1, group-title="MFK", Syfy HD
-http://tv.minhalista.me:80/juan/juan/36903
-#EXTINF:-1, group-title="MFK", TBS
-http://tv.minhalista.me:80/juan/juan/37041
-#EXTINF:-1, group-title="MFK", TBS HD
-http://tv.minhalista.me:80/juan/juan/36940
-#EXTINF:-1, group-title="MFK", TCM
-http://tv.minhalista.me:80/juan/juan/37037
-#EXTINF:-1, group-title="MFK", Telecine Action
-http://tv.minhalista.me:80/juan/juan/37040
-#EXTINF:-1, group-title="MFK", Telecine Action HD
-http://tv.minhalista.me:80/juan/juan/36939
-#EXTINF:-1, group-title="MFK", Telecine Cult
-http://tv.minhalista.me:80/juan/juan/37039
-#EXTINF:-1, group-title="MFK", Telecine Cult HD
-http://tv.minhalista.me:80/juan/juan/36901
-#EXTINF:-1, group-title="MFK", Telecine Fun
-http://tv.minhalista.me:80/juan/juan/37005
-#EXTINF:-1, group-title="MFK", Telecine Fun HD
-http://tv.minhalista.me:80/juan/juan/36938
-#EXTINF:-1, group-title="MFK", Telecine Pipoca
-http://tv.minhalista.me:80/juan/juan/37038
-#EXTINF:-1, group-title="MFK", Telecine Pipoca HD
-http://tv.minhalista.me:80/juan/juan/36937
-#EXTINF:-1, group-title="MFK", Telecine Premium
-http://tv.minhalista.me:80/juan/juan/36994
+http://extremetv.club:25461/gustavosantana/gustavo/3935
+#EXTINF:-1, group-title="MFK", Studio Universal
+http://extremetv.club:25461/gustavosantana/gustavo/3937
+#EXTINF:-1, group-title="MFK", SyFy FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6235
+#EXTINF:-1, group-title="MFK", SyFy HD
+http://extremetv.club:25461/gustavosantana/gustavo/4168
+#EXTINF:-1, group-title="MFK", SyFy
+http://extremetv.club:25461/gustavosantana/gustavo/3934
+#EXTINF:-1, group-title="MFK", Telecine Premium FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6229
 #EXTINF:-1, group-title="MFK", Telecine Premium HD
-http://tv.minhalista.me:80/juan/juan/36936
-#EXTINF:-1, group-title="MFK", Telecine Touch
-http://tv.minhalista.me:80/juan/juan/36995
+http://extremetv.club:25461/gustavosantana/gustavo/4163
+#EXTINF:-1, group-title="MFK", Telecine Premium
+http://extremetv.club:25461/gustavosantana/gustavo/3920
+#EXTINF:-1, group-title="MFK", Telecine Pipoca FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6230
+#EXTINF:-1, group-title="MFK", Telecine Pipoca HD
+http://extremetv.club:25461/gustavosantana/gustavo/4164
+#EXTINF:-1, group-title="MFK", Telecine Pipoca
+http://extremetv.club:25461/gustavosantana/gustavo/3922
+#EXTINF:-1, group-title="MFK", Telecine Action FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6233
+#EXTINF:-1, group-title="MFK", Telecine Action HD
+http://extremetv.club:25461/gustavosantana/gustavo/4167
+#EXTINF:-1, group-title="MFK", Telecine Action
+http://extremetv.club:25461/gustavosantana/gustavo/3928
+#EXTINF:-1, group-title="MFK", Telecine Touch FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6228
 #EXTINF:-1, group-title="MFK", Telecine Touch HD
-http://tv.minhalista.me:80/juan/juan/36935
+http://extremetv.club:25461/gustavosantana/gustavo/4162
+#EXTINF:-1, group-title="MFK", Telecine Touch
+http://extremetv.club:25461/gustavosantana/gustavo/3919
+#EXTINF:-1, group-title="MFK", Telecine Cult FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6232
+#EXTINF:-1, group-title="MFK", Telecine Cult HD
+http://extremetv.club:25461/gustavosantana/gustavo/4166
+#EXTINF:-1, group-title="MFK", Telecine Cult
+http://extremetv.club:25461/gustavosantana/gustavo/3926
+#EXTINF:-1, group-title="MFK", Telecine Fun FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6231
+#EXTINF:-1, group-title="MFK", Telecine Fun HD
+http://extremetv.club:25461/gustavosantana/gustavo/4165
+#EXTINF:-1, group-title="MFK", Telecine Fun
+http://extremetv.club:25461/gustavosantana/gustavo/3924
 #EXTINF:-1, group-title="MFK", Terra Viva
-http://tv.minhalista.me:80/juan/juan/37004
-#EXTINF:-1, group-title="MFK", TLC SD
-http://tv.minhalista.me:80/juan/juan/37036
+http://extremetv.club:25461/gustavosantana/gustavo/3913
+#EXTINF:-1, group-title="MFK", TBS FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6234
+#EXTINF:-1, group-title="MFK", TBS HD
+http://extremetv.club:25461/gustavosantana/gustavo/3931
+#EXTINF:-1, group-title="MFK", TBS
+http://extremetv.club:25461/gustavosantana/gustavo/3932
+#EXTINF:-1, group-title="MFK", TCM HD
+http://extremetv.club:25461/gustavosantana/gustavo/3929
+#EXTINF:-1, group-title="MFK", TCM
+http://extremetv.club:25461/gustavosantana/gustavo/3930
 #EXTINF:-1, group-title="MFK", TLC HD
-http://tv.minhalista.me:80/juan/juan/36902
-#EXTINF:-1, group-title="MFK", TNT
-http://tv.minhalista.me:80/juan/juan/37035
+http://extremetv.club:25461/gustavosantana/gustavo/4161
+#EXTINF:-1, group-title="MFK", TLC
+http://extremetv.club:25461/gustavosantana/gustavo/3912
+#EXTINF:-1, group-title="MFK", TNT FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6227
 #EXTINF:-1, group-title="MFK", TNT HD
-http://tv.minhalista.me:80/juan/juan/36934
-#EXTINF:-1, group-title="MFK", TNT Series
-http://tv.minhalista.me:80/juan/juan/37034
+http://extremetv.club:25461/gustavosantana/gustavo/4160
+#EXTINF:-1, group-title="MFK", TNT
+http://extremetv.club:25461/gustavosantana/gustavo/3911
+#EXTINF:-1, group-title="MFK", TNT Series FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6226
 #EXTINF:-1, group-title="MFK", TNT Series HD
-http://tv.minhalista.me:80/juan/juan/36933
+http://extremetv.club:25461/gustavosantana/gustavo/1596
+#EXTINF:-1, group-title="MFK", TNT Series
+http://extremetv.club:25461/gustavosantana/gustavo/3910
+#EXTINF:-1, group-title="MFK", Tooncast HD
+http://extremetv.club:25461/gustavosantana/gustavo/4159
 #EXTINF:-1, group-title="MFK", Tooncast
-http://tv.minhalista.me:80/juan/juan/37033
-#EXTINF:-1, group-title="MFK", TruTV
-http://tv.minhalista.me:80/juan/juan/37032
+http://extremetv.club:25461/gustavosantana/gustavo/3909
+#EXTINF:-1, group-title="MFK", TruTv
+http://extremetv.club:25461/gustavosantana/gustavo/3908
+#EXTINF:-1, group-title="MFK", TV Cine 1  HD
+http://extremetv.club:25461/gustavosantana/gustavo/3917
+#EXTINF:-1, group-title="MFK", TV Cine 2  HD
+http://extremetv.club:25461/gustavosantana/gustavo/3916
+#EXTINF:-1, group-title="MFK", TV Cine 3 HD
+http://extremetv.club:25461/gustavosantana/gustavo/3915
+#EXTINF:-1, group-title="MFK", TV Cine 4 HD
+http://extremetv.club:25461/gustavosantana/gustavo/3914
 #EXTINF:-1, group-title="MFK", TV Aparecida
-http://tv.minhalista.me:80/juan/juan/37003
-#EXTINF:-1, group-title="MFK", TV Escola
-http://tv.minhalista.me:80/juan/juan/36999
-#EXTINF:-1, group-title="MFK", Gloobinho HD
-http://tv.minhalista.me:80/juan/juan/38969
-#EXTINF:-1, group-title="MFK", TV TEM Bauru
-http://tv.minhalista.me:80/juan/juan/37030
-#EXTINF:-1, group-title="MFK", TV TEM Sorocaba
-http://tv.minhalista.me:80/juan/juan/37029
-#EXTINF:-1, group-title="MFK", Universal Channel
-http://tv.minhalista.me:80/juan/juan/37027
+http://extremetv.club:25461/gustavosantana/gustavo/3906
+#EXTINF:-1, group-title="MFK", TV Cultura HD
+http://extremetv.club:25461/gustavosantana/gustavo/4516
+#EXTINF:-1, group-title="MFK", TV Cultura
+http://extremetv.club:25461/gustavosantana/gustavo/3903
+#EXTINF:-1, group-title="MFK", Tv Canção Nova
+http://extremetv.club:25461/gustavosantana/gustavo/4122
+#EXTINF:-1, group-title="MFK", Tv Escola
+http://extremetv.club:25461/gustavosantana/gustavo/3902
+#EXTINF:-1, group-title="MFK", Tv Gazeta
+http://extremetv.club:25461/gustavosantana/gustavo/3901
+#EXTINF:-1, group-title="MFK", TV Alterosa FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8150
+#EXTINF:-1, group-title="MFK", TV Anhanguera FHD
+http://extremetv.club:25461/gustavosantana/gustavo/8145
+#EXTINF:-1, group-title="MFK", TV Anhanguera HD
+http://extremetv.club:25461/gustavosantana/gustavo/8144
+#EXTINF:-1, group-title="MFK", TV IURD
+http://extremetv.club:25461/gustavosantana/gustavo/10897
+#EXTINF:-1, group-title="MFK", TV Justiça
+http://extremetv.club:25461/gustavosantana/gustavo/8579
+#EXTINF:-1, group-title="MFK", Universal Channel FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6225
 #EXTINF:-1, group-title="MFK", Universal Channel HD
-http://tv.minhalista.me:80/juan/juan/36932
-#EXTINF:-1, group-title="MFK", [XX] Venus
-http://tv.minhalista.me:80/juan/juan/37026
-#EXTINF:-1, group-title="MFK", VH1 HD
-http://tv.minhalista.me:80/juan/juan/36900
-#EXTINF:-1, group-title="MFK", Viva
-http://tv.minhalista.me:80/juan/juan/36997
+http://extremetv.club:25461/gustavosantana/gustavo/4158
+#EXTINF:-1, group-title="MFK", Universal Channel
+http://extremetv.club:25461/gustavosantana/gustavo/3899
 #EXTINF:-1, group-title="MFK", Viva HD
-http://tv.minhalista.me:80/juan/juan/36931
+http://extremetv.club:25461/gustavosantana/gustavo/4157
+#EXTINF:-1, group-title="MFK", Viva
+http://extremetv.club:25461/gustavosantana/gustavo/3895
+#EXTINF:-1, group-title="MFK", VH1 HD
+http://extremetv.club:25461/gustavosantana/gustavo/3896
+#EXTINF:-1, group-title="MFK", VH1
+http://extremetv.club:25461/gustavosantana/gustavo/3897
+#EXTINF:-1, group-title="MFK", Warner Channel FHD
+http://extremetv.club:25461/gustavosantana/gustavo/6224
+#EXTINF:-1, group-title="MFK", Warner Channel HD
+http://extremetv.club:25461/gustavosantana/gustavo/3893
 #EXTINF:-1, group-title="MFK", Warner Channel
-http://tv.minhalista.me:80/juan/juan/36996
-#EXTINF:-1, group-title="MFK", Warner HD
-http://tv.minhalista.me:80/juan/juan/36930
+http://extremetv.club:25461/gustavosantana/gustavo/3894
+#EXTINF:-1, group-title="MFK", Woohoo HD
+http://extremetv.club:25461/gustavosantana/gustavo/3891
 #EXTINF:-1, group-title="MFK", Woohoo
-http://tv.minhalista.me:80/juan/juan/37025
+http://extremetv.club:25461/gustavosantana/gustavo/3892
+#EXTINF:-1, group-title="MFK", Zoomoo
+http://extremetv.club:25461/gustavosantana/gustavo/3882
+#EXTINF:-1, group-title="MFK", Novaera A Feiticeira 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/11264
+#EXTINF:-1, group-title="MFK", Novaera A Praça é Nossa Matheus Ceará
+http://extremetv.club:25461/gustavosantana/gustavo/8783
+#EXTINF:-1, group-title="MFK", Novaera A Turma Do Manda Chuva
+http://extremetv.club:25461/gustavosantana/gustavo/9578
+#EXTINF:-1, group-title="MFK", Novaera A Vaca E O Frango
+http://extremetv.club:25461/gustavosantana/gustavo/9529
+#EXTINF:-1, group-title="MFK", Novaera Animaniacs
+http://extremetv.club:25461/gustavosantana/gustavo/10844
+#EXTINF:-1, group-title="MFK", Novaera As Meninas Superpoderosas
+http://extremetv.club:25461/gustavosantana/gustavo/6298
+#EXTINF:-1, group-title="MFK", Novaera As Tartarugas Ninjas 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/11263
+#EXTINF:-1, group-title="MFK", Novaera Barbie Lago dos Cisnes 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/11265
+#EXTINF:-1, group-title="MFK", Novaera BEN 10
+http://extremetv.club:25461/gustavosantana/gustavo/6297
+#EXTINF:-1, group-title="MFK", Novaera Bita
+http://extremetv.club:25461/gustavosantana/gustavo/10843
+#EXTINF:-1, group-title="MFK", Novaera Bob Esponja
+http://extremetv.club:25461/gustavosantana/gustavo/6296
+#EXTINF:-1, group-title="MFK", Novaera Captain Tsubasa
+http://extremetv.club:25461/gustavosantana/gustavo/10842
+#EXTINF:-1, group-title="MFK", Novaera Cavaleiros do Zodíaco 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/8465
+#EXTINF:-1, group-title="MFK", Novaera Cavalo de Fogo
+http://extremetv.club:25461/gustavosantana/gustavo/9530
+#EXTINF:-1, group-title="MFK", Novaera Caverna do Dragão
+http://extremetv.club:25461/gustavosantana/gustavo/6310
+#EXTINF:-1, group-title="MFK", Novaera Chapolin 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/8464
+#EXTINF:-1, group-title="MFK", Novaera CHAVES 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6295
+#EXTINF:-1, group-title="MFK", Novaera CHAVES DESENHO
+http://extremetv.club:25461/gustavosantana/gustavo/6294
+#EXTINF:-1, group-title="MFK", Novaera Classicos da Disney 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/11266
+#EXTINF:-1, group-title="MFK", Novaera Clipes Flash Back 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/10850
+#EXTINF:-1, group-title="MFK", Novaera Clipes Gospel 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/10848
+#EXTINF:-1, group-title="MFK", Novaera Clipes Sertanejo 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/10849
+#EXTINF:-1, group-title="MFK", Novaera Coiote e Papaléguas
+http://extremetv.club:25461/gustavosantana/gustavo/6299
+#EXTINF:-1, group-title="MFK", Novaera Cybercop
+http://extremetv.club:25461/gustavosantana/gustavo/6309
+#EXTINF:-1, group-title="MFK", Novaera DC Movies 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/10852
+#EXTINF:-1, group-title="MFK", Novaera Denis o Pimentinha
+http://extremetv.club:25461/gustavosantana/gustavo/6293
+#EXTINF:-1, group-title="MFK", Novaera Dois Homens e Meio 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6292
+#EXTINF:-1, group-title="MFK", Novaera Dora Aventureira
+http://extremetv.club:25461/gustavosantana/gustavo/9531
+#EXTINF:-1, group-title="MFK", Novaera Dr. House
+http://extremetv.club:25461/gustavosantana/gustavo/10841
+#EXTINF:-1, group-title="MFK", Novaera DRAGON BALL
+http://extremetv.club:25461/gustavosantana/gustavo/6291
+#EXTINF:-1, group-title="MFK", Novaera DRAGON BALL SUPER 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6290
+#EXTINF:-1, group-title="MFK", Novaera Du, Dudu e Edu
+http://extremetv.club:25461/gustavosantana/gustavo/10847
+#EXTINF:-1, group-title="MFK", Novaera Escolinha do professor Raimundo
+http://extremetv.club:25461/gustavosantana/gustavo/9542
+#EXTINF:-1, group-title="MFK", Novaera Eu a Patroa e as Crianças
+http://extremetv.club:25461/gustavosantana/gustavo/2085
+#EXTINF:-1, group-title="MFK", Novaera Familia Dinossauro 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/12000
+#EXTINF:-1, group-title="MFK", Novaera Flashman
+http://extremetv.club:25461/gustavosantana/gustavo/6307
+#EXTINF:-1, group-title="MFK", Novaera Galinha Pintadinha 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6289
+#EXTINF:-1, group-title="MFK", Novaera Gasparzinho
+http://extremetv.club:25461/gustavosantana/gustavo/9541
+#EXTINF:-1, group-title="MFK", Novaera He-Man
+http://extremetv.club:25461/gustavosantana/gustavo/6306
+#EXTINF:-1, group-title="MFK", Novaera Histórias Disney 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/11267
+#EXTINF:-1, group-title="MFK", Novaera Jiban
+http://extremetv.club:25461/gustavosantana/gustavo/6300
+#EXTINF:-1, group-title="MFK", Novaera JIRAYA, O INCRÍVEL NINJA
+http://extremetv.club:25461/gustavosantana/gustavo/10060
+#EXTINF:-1, group-title="MFK", Novaera Kenan & Kel
+http://extremetv.club:25461/gustavosantana/gustavo/4589
+#EXTINF:-1, group-title="MFK", Novaera Maquina Mortifera
+http://extremetv.club:25461/gustavosantana/gustavo/6572
+#EXTINF:-1, group-title="MFK", Novaera Marvel Animes
+http://extremetv.club:25461/gustavosantana/gustavo/7450
+#EXTINF:-1, group-title="MFK", Novaera Marvel Movies
+http://extremetv.club:25461/gustavosantana/gustavo/9535
+#EXTINF:-1, group-title="MFK", Novaera Mosquito, Mosquete e Moscardo
+http://extremetv.club:25461/gustavosantana/gustavo/9532
+#EXTINF:-1, group-title="MFK", Novaera Mr. Bean
+http://extremetv.club:25461/gustavosantana/gustavo/6362
+#EXTINF:-1, group-title="MFK", Novaera Mr. Magoo
+http://extremetv.club:25461/gustavosantana/gustavo/9582
+#EXTINF:-1, group-title="MFK", Novaera NARUTO 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6286
+#EXTINF:-1, group-title="MFK", Novaera Naruto Shippuden
+http://extremetv.club:25461/gustavosantana/gustavo/9528
+#EXTINF:-1, group-title="MFK", Novaera O Fantástico Jaspion
+http://extremetv.club:25461/gustavosantana/gustavo/10061
+#EXTINF:-1, group-title="MFK", Novaera O MASCARA 24HRS
+http://extremetv.club:25461/gustavosantana/gustavo/6285
+#EXTINF:-1, group-title="MFK", Novaera O Show da Luna
+http://extremetv.club:25461/gustavosantana/gustavo/8466
+#EXTINF:-1, group-title="MFK", Novaera Os Jetsons
+http://extremetv.club:25461/gustavosantana/gustavo/9540
+#EXTINF:-1, group-title="MFK", Novaera OS SIMPSONS 24HRS
+http://extremetv.club:25461/gustavosantana/gustavo/6284
+#EXTINF:-1, group-title="MFK", Novaera Os Trapalhões
+http://extremetv.club:25461/gustavosantana/gustavo/9356
+#EXTINF:-1, group-title="MFK", Novaera Os Três Patetas
+http://extremetv.club:25461/gustavosantana/gustavo/8104
+#EXTINF:-1, group-title="MFK", Novaera Os Ursinhos Carinhosos 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6283
+#EXTINF:-1, group-title="MFK", Novaera Patati Patatá
+http://extremetv.club:25461/gustavosantana/gustavo/9534
+#EXTINF:-1, group-title="MFK", Novaera Pepe Legal
+http://extremetv.club:25461/gustavosantana/gustavo/9579
+#EXTINF:-1, group-title="MFK", Novaera Peppa Pig
+http://extremetv.club:25461/gustavosantana/gustavo/6305
+#EXTINF:-1, group-title="MFK", Novaera Phineas e Ferb 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6282
+#EXTINF:-1, group-title="MFK", Novaera PICA PAU 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6281
+#EXTINF:-1, group-title="MFK", Novaera PJ Masks Heróis de Pijama
+http://extremetv.club:25461/gustavosantana/gustavo/8467
+#EXTINF:-1, group-title="MFK", Novaera Pocoyo
+http://extremetv.club:25461/gustavosantana/gustavo/10840
+#EXTINF:-1, group-title="MFK", Novaera Poderoso Lion Man
+http://extremetv.club:25461/gustavosantana/gustavo/6304
+#EXTINF:-1, group-title="MFK", Novaera Recruta Zero
+http://extremetv.club:25461/gustavosantana/gustavo/10846
+#EXTINF:-1, group-title="MFK", Novaera Rick & Morty 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/10851
+#EXTINF:-1, group-title="MFK", Novaera Scooby-Doo 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6280
+#EXTINF:-1, group-title="MFK", Novaera She-Ra
+http://extremetv.club:25461/gustavosantana/gustavo/6303
+#EXTINF:-1, group-title="MFK", Novaera South Park 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6279
+#EXTINF:-1, group-title="MFK", Novaera Steven Universe 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6278
+#EXTINF:-1, group-title="MFK", Novaera Tartaruga Touché e Dum Dum
+http://extremetv.club:25461/gustavosantana/gustavo/9577
+#EXTINF:-1, group-title="MFK", Novaera The Big Bang Theory 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/8462
+#EXTINF:-1, group-title="MFK", Novaera ThunderCats
+http://extremetv.club:25461/gustavosantana/gustavo/6302
+#EXTINF:-1, group-title="MFK", Novaera Timão e Pumba 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/11268
+#EXTINF:-1, group-title="MFK", Novaera Titio Avô
+http://extremetv.club:25461/gustavosantana/gustavo/10839
+#EXTINF:-1, group-title="MFK", Novaera Todo Mundo Odeia o Chris
+http://extremetv.club:25461/gustavosantana/gustavo/4239
+#EXTINF:-1, group-title="MFK", Novaera Tom & Jerry 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6276
+#EXTINF:-1, group-title="MFK", Novaera Toma La Da Ca
+http://extremetv.club:25461/gustavosantana/gustavo/4237
+#EXTINF:-1, group-title="MFK", Novaera Ultraman
+http://extremetv.club:25461/gustavosantana/gustavo/9533
+#EXTINF:-1, group-title="MFK", Novaera Um Maluco no Pedaço 24hs
+http://extremetv.club:25461/gustavosantana/gustavo/8575
+#EXTINF:-1, group-title="MFK", Novaera Vai Que Cola
+http://extremetv.club:25461/gustavosantana/gustavo/4238
+#EXTINF:-1, group-title="MFK", Novaera Xena - Hércules
+http://extremetv.club:25461/gustavosantana/gustavo/10845
+#EXTINF:-1, group-title="MFK", Novaera Yu Yu Hakusho
+http://extremetv.club:25461/gustavosantana/gustavo/7449
+#EXTINF:-1, group-title="MFK", Novaera Winspector 24h
+http://extremetv.club:25461/gustavosantana/gustavo/12001
+#EXTINF:-1, group-title="MFK", Novaera Ze Colmeia 24hrs
+http://extremetv.club:25461/gustavosantana/gustavo/6275
