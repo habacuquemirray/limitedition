@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1, group-title="AAA" tvg-id="Auto Moto Tv" tvg-logo="https://i.imgur.com/24esKIQ.png"
+#EXTINF:-1, group-title="AAA", AUTO MOVEL
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:-1, group-title="AAA" tvg-id="AXN" tvg-logo="https://i.imgur.com/NLaJ129.png"
+#EXTINF:-1, group-title="AAA", AXN
 http://lista.g5iptv.space:8080/michel/michel/57751
-#EXTINF:-1, group-title="AAA" tvg-id="Band Minas" tvg-logo="https://i.imgur.com/CKU3KPv.png"
+#EXTINF:-1, group-title="AAA", BAND MINAS
 http://lista.g5iptv.space:8080/michel/michel/57748
-#EXTINF:-1, group-title="AAA" tvg-id="Band Nordeste" tvg-logo="https://i.imgur.com/yLejeNE.png"
+#EXTINF:-1, group-title="AAA", BAND NORDESTE
 http://lista.g5iptv.space:8080/michel/michel/58721
-#EXTINF:-1, group-title="AAA" tvg-id="Band Nordeste" tvg-logo="https://i.imgur.com/CKU3KPv.png"
+#EXTINF:-1, group-title="AAA", BAND NORDESTE 2
 http://lista.g5iptv.space:8080/michel/michel/57746
-#EXTINF:-1, group-title="AAA" tvg-id="Band Nordeste" tvg-logo="https://i.imgur.com/CKU3KPv.png"
+#EXTINF:-1, group-title="AAA",BAND NORDESTE 3
 http://lista.g5iptv.space:8080/michel/michel/58713
-#EXTINF:-1, group-title="AAA" tvg-id="BBB" tvg-logo="https://i.imgur.com/Ht7ZpvZ.png"
+#EXTINF:-1, group-title="AAA", BBB
 http://lista.g5iptv.space:8080/michel/michel/57003
-#EXTINF:-1, group-title="AAA" tvg-id="BBB Mozaico" tvg-logo="https://i.imgur.com/c2mgjod.png"
+#EXTINF:-1, group-title="AAA", BBB 2
 http://lista.g5iptv.space:8080/michel/michel/57002
 #EXTINF:-1, group-title="AAA",BIS FHD (BR1)
 http://lista.g5iptv.space:8080/michel/michel/58684
