@@ -1,248 +1,821 @@
 #EXTM3U
-#EXTINF:-1, group-title="AAA", AUTO MOVEL
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:-1, group-title="AAA", AXN
-http://lista.g5iptv.space:8080/michel/michel/57751
-#EXTINF:-1, group-title="AAA", BAND MINAS
-http://lista.g5iptv.space:8080/michel/michel/57748
-#EXTINF:-1, group-title="AAA", BAND NORDESTE
-http://lista.g5iptv.space:8080/michel/michel/58721
-#EXTINF:-1, group-title="AAA", BAND NORDESTE 2
-http://lista.g5iptv.space:8080/michel/michel/57746
-#EXTINF:-1, group-title="AAA",BAND NORDESTE 3
-http://lista.g5iptv.space:8080/michel/michel/58713
-#EXTINF:-1, group-title="AAA", BBB
-http://lista.g5iptv.space:8080/michel/michel/57003
-#EXTINF:-1, group-title="AAA", BBB 2
-http://lista.g5iptv.space:8080/michel/michel/57002
-#EXTINF:-1, group-title="AAA",BIS FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58684
-#EXTINF:-1, group-title="AAA",BOOMERANG  FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58680
-#EXTINF:-1, group-title="AAA",CANAL OFF FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57721
-#EXTINF:-1, group-title="AAA",CARTOON FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57718
-#EXTINF:-1, group-title="AAA",CINEMAX FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57716
-#EXTINF:-1, group-title="AAA",COMBATE FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58662
-#EXTINF:-1, group-title="AAA",COMBATE FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57711
-#EXTINF:-1, group-title="AAA",COMEDY CENTRAL FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57708
-#EXTINF:-1, group-title="AAA",DISCOVERY CHANNEL FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58649
-#EXTINF:-1, group-title="AAA",DISCOVERY CIVILIZATION FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57703
-#EXTINF:-1, group-title="AAA",DISCOVERY FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57701
-#EXTINF:-1, group-title="AAA",DISCOVERY FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57701
-#EXTINF:-1, group-title="AAA",DISCOVERY HOME & HEALTH FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58642
-#EXTINF:-1, group-title="AAA",DISCOVERY KIDS FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58641
-#EXTINF:-1, group-title="AAA",DISCOVERY SCIENCE FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57694
-#EXTINF:-1, group-title="AAA",DISCOVERY TURBO FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58634
-#EXTINF:-1, group-title="AAA",DISCOVERY WORLD FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58630
-#EXTINF:-1, group-title="AAA",DISNEY CHANNEL FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58628
-#EXTINF:-1, group-title="AAA",DISNEY JR FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57689
-#EXTINF:-1, group-title="AAA",ESPN BRASIL FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58618
-#EXTINF:-1, group-title="AAA",ESPN EXTRA FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58615
-#EXTINF:-1, group-title="AAA",ESPN FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58612
-#EXTINF:-1, group-title="AAA",ESPN MAIS FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57677
-#EXTINF:-1, group-title="AAA",FOOD NETWORK FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57672
-#EXTINF:-1, group-title="AAA",FOX FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58604
-#EXTINF:-1, group-title="AAA",FOX LIFE FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57666
-#EXTINF:-1, group-title="AAA",FOX PREMIUM 1 FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57664
-#EXTINF:-1, group-title="AAA",FOX PREMIUM 2 FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58598
-#EXTINF:-1, group-title="AAA",FOX SPORTS 1 FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57660
-#EXTINF:-1, group-title="AAA",FOX SPORTS 2 FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58594
-#EXTINF:-1, group-title="AAA",GLOBO CAMPINAS SD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58581
-#EXTINF:-1, group-title="AAA",GLOBO NEWS FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57644
-#EXTINF:-1, group-title="AAA",GLOOB FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57621
-#EXTINF:-1, group-title="AAA",GLOOBINHO HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58546
-#EXTINF:-1, group-title="AAA",GNT FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57619
-#EXTINF:-1, group-title="AAA",H2 FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57617
-#EXTINF:-1, group-title="AAA",HBO 2 FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58540
-#EXTINF:-1, group-title="AAA",HBO FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58535
-#EXTINF:-1, group-title="AAA",HBO PLUS SD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57608
-#EXTINF:-1, group-title="AAA",HBO SIGNATURE HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58530
-#EXTINF:-1, group-title="AAA",HISTORY FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58528
-#EXTINF:-1, group-title="AAA",ID FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57603
-#EXTINF:-1, group-title="AAA",INVESTIGATION DISCOVERY HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58525
-#EXTINF:-1, group-title="AAA",LIFETIME HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58523
-#EXTINF:-1, group-title="AAA",MAIS GLOBOSAT HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58521
-#EXTINF:-1, group-title="AAA",MAX HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58519
-#EXTINF:-1, group-title="AAA",MAX PRIME FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57602
-#EXTINF:-1, group-title="AAA",MAX UP HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58515
-#EXTINF:-1, group-title="AAA",MEGAPIX HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58513
-#EXTINF:-1, group-title="AAA",MTV FHD (BR2) [JJ
-http://lista.g5iptv.space:8080/michel/michel/57594
-#EXTINF:-1, group-title="AAA",MTV LIVE HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58510
-#EXTINF:-1, group-title="AAA",MULTISHOW FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57593
-#EXTINF:-1, group-title="AAA",NAT GEO FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57589
-#EXTINF:-1, group-title="AAA",NAT GEO KIDS HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58502
-#EXTINF:-1, group-title="AAA",NAT GEO WILD FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58499
-#EXTINF:-1, group-title="AAA",NAT GEO WILD FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58499
-#EXTINF:-1, group-title="AAA",NICK JR FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58495
-#EXTINF:-1, group-title="AAA",NICKELODEON FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58491
-#EXTINF:-1, group-title="AAA",OFF FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57576
-#EXTINF:-1, group-title="AAA",PARAMOUNT FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57575
-#EXTINF:-1, group-title="AAA",PREMIERE 2 FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58483
-#EXTINF:-1, group-title="AAA",PREMIERE CLUBES FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58465
-#EXTINF:-1, group-title="AAA",RECORD NEWS FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57554
-#EXTINF:-1, group-title="AAA",SBT FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58433
-#EXTINF:-1, group-title="AAA",SOBRENATURAL TV
-http://lista.g5iptv.space:8080/michel/michel/42252
-#EXTINF:-1, group-title="AAA",SONY FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57536
-#EXTINF:-1, group-title="AAA",SPACE FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57535
-#EXTINF:-1, group-title="AAA",SPORTV FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58421
-#EXTINF:-1, group-title="AAA",STUDIO UNIVERSAL FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57523
-#EXTINF:-1, group-title="AAA",SYFY FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57520
-#EXTINF:-1, group-title="AAA",TBS HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58413
-#EXTINF:-1, group-title="AAA",TCM SD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58411
-#EXTINF:-1, group-title="AAA",TELECINE ACTION FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58409
-#EXTINF:-1, group-title="AAA",TELECINE CULT FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57512
-#EXTINF:-1, group-title="AAA",TELECINE FUN FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58405
-#EXTINF:-1, group-title="AAA",TELECINE PIPOCA FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58402
-#EXTINF:-1, group-title="AAA",TELECINE PREMIMUM FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57503
-#EXTINF:-1, group-title="AAA",TELECINE TOUCH FHD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58396
-#EXTINF:-1, group-title="AAA",TERRA VIVA SD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58393
-#EXTINF:-1, group-title="AAA",THE HISTORY CHANNEL SD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57497
-#EXTINF:-1, group-title="AAA",TLC HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58392
-#EXTINF:-1, group-title="AAA",TNT FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57495
-#EXTINF:-1, group-title="AAA",TNT SERIES FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57493
-#EXTINF:-1, group-title="AAA",TOONCAST SD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58386
-#EXTINF:-1, group-title="AAA",UNIVERSAL CHANNEL FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57475
-#EXTINF:-1, group-title="AAA",VH1 MEGAHITS FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57473
-#EXTINF:-1, group-title="AAA",WARNER CHANNEL FHD (BR2)
-http://lista.g5iptv.space:8080/michel/michel/57469
-#EXTINF:-1, group-title="AAA", group-title="AAA", WOOHOO HD (BR1)
-http://lista.g5iptv.space:8080/michel/michel/58361
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",BandSports HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5429.ts
- 
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Combate HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5404.ts
- 
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Espn SD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5366.ts
- 
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Espn Brasil HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5367.ts
- 
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Espn 2 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5363.ts
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Fox Sports 2 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5339.ts
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Fox Sports SD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5337.ts
-
-#EXTINF:-1, group-title="AAA" tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere Clubes HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5214.ts
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere 2 SD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5227.ts
- 
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere 3 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5224.ts
-
- 
-#EXTINF:-1,  tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere 4 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5222.ts
-
- 
-#EXTINF:-1,  tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere 5 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5220.ts
-
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere 6 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/19433.ts
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",Premiere 7 SD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/19432.ts
- 
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",SporTV HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5180.ts
- 
-#EXTINF:-1,  tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",SporTV2 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5184.ts
-
- 
-#EXTINF:-1,  tvg-logo="https://4.bp.blogspot.com/-bUOu6Dzom28/W-TcQAwCpqI/AAAAAAAASno/-9eFWCJP3AsS9u-uGkNYc91b-G57BmlxwCLcBGAs/s2560/neymar-2560x1440.jpg" group-title="AAA",SporTV3 HD
-http://canaisgranip.painelsuper.com:8080/live/DiogoHenrique/diogosilva@diogosilva/5182.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 20 TV =" tvg-logo="http://coletiva.net/files/e4da3b7fbbce2345d7772b0674a318d5/midia_foto/20170713/93091-media_logo-canal-20_mar16.jpg" group-title="CANAIS PREMIUM",CANAL 20 TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102651
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCA TV =" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Y2FyaW9jYV9zY3JlZW5fMF9wbDhtbnJ2Mg/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",CARIOCA TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102730
+#EXTINF:-1 tvg-id="" tvg-name="CREATIVE TV =" tvg-logo="http://2.bp.blogspot.com/-cSS8FEy2saU/UvaN1w69LPI/AAAAAAAAFpM/PCstROQTxCI/s1600/CREATIVE%2BTV.jpg" group-title="CANAIS PREMIUM",CREATIVE TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102642
+#EXTINF:-1 tvg-id="" tvg-name="CWB TV =" tvg-logo="https://cdn.reweb.io/hagah/image/hpww6VYAOa-aOK8wsJZ1ALTNKUo=/300x300/top/smart/hagah/b/b7/cwb-tv-curitiba-b787882d.jpg" group-title="CANAIS PREMIUM",CWB TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102641
+#EXTINF:-1 tvg-id="" tvg-name="DTTV =" tvg-logo="http://img.youtube.com/vi/vB_kx_8hTYw/sddefault.jpg" group-title="CANAIS PREMIUM",DTTV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102640
+#EXTINF:-1 tvg-id="" tvg-name="GUARU FAMA TV =" tvg-logo="https://pbs.twimg.com/profile_images/748111235489632256/mTrmhlTK_400x400.jpg" group-title="CANAIS PREMIUM",GUARU FAMA TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102578
+#EXTINF:-1 tvg-id="" tvg-name="ITU TV =" tvg-logo="http://www.osemanario.com.br/blog/wp-content/uploads/2015/08/Logo-Itu-TV-jpg-997x1024.jpg" group-title="CANAIS PREMIUM",ITU TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102636
+#EXTINF:-1 tvg-id="" tvg-name="MIL E UMA NOITES =" tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2017/07/11/band-define-data-de-estreia-da-reprise-de-mil-e-uma-noites-5965353dcb763.jpg" group-title="CANAIS PREMIUM",MIL E UMA NOITES =
+http://fonte.iptvmaishd.com:25461/4247/4247/102633
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV ÁGUA BOA =" tvg-logo="http://radio.radiosnaweb.com/_uploads/1375/publicidade/19548.jpg" group-title="CANAIS PREMIUM",RECORD TV ÁGUA BOA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102655
+#EXTINF:-1 tvg-id="" tvg-name="REDE EVANGELIZAR =" tvg-logo="https://4.bp.blogspot.com/-OTZ7_0OuWng/W0YoAmQ1r9I/AAAAAAAAZEc/LprlzVVoFUA8Qi3JioESVCoq3h082k7yACLcBGAs/s1600/dp.jpg" group-title="CANAIS PREMIUM",REDE EVANGELIZAR =
+http://fonte.iptvmaishd.com:25461/4247/4247/102614
+#EXTINF:-1 tvg-id="" tvg-name="REDE GRAVA =" tvg-logo="https://i.ytimg.com/vi/pQhJCp5E7sY/maxresdefault.jpg" group-title="CANAIS PREMIUM",REDE GRAVA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102747
+#EXTINF:-1 tvg-id="" tvg-name="REDE NEW =" tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" group-title="CANAIS PREMIUM",REDE NEW =
+http://fonte.iptvmaishd.com:25461/4247/4247/102729
+#EXTINF:-1 tvg-id="" tvg-name="REDE RC =" tvg-logo="https://public-rf-upload.minhawebradio.net/3142/news/06c59dd7e10f6cf70c0377d0799412a8.jpg" group-title="CANAIS PREMIUM",REDE RC =
+http://fonte.iptvmaishd.com:25461/4247/4247/102727
+#EXTINF:-1 tvg-id="" tvg-name="TV AD BELÉM =" tvg-logo="https://pbs.twimg.com/profile_images/1367405080/logo_tv_ad_belem.png" group-title="CANAIS PREMIUM",TV AD BELÉM =
+http://fonte.iptvmaishd.com:25461/4247/4247/102611
+#EXTINF:-1 tvg-id="" tvg-name="TV ÁGAPE =" tvg-logo="https://3.bp.blogspot.com/-fmQjiuagbIg/W74KdIRSo1I/AAAAAAAAK7g/oJHKNvLqvsYwOq7ZveRxN5lJsjAyRNobQCLcBGAs/s640/TV.jpg" group-title="CANAIS PREMIUM",TV ÁGAPE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102580
+#EXTINF:-1 tvg-id="" tvg-name="TV ALESE =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/TV_Alese.png" group-title="CANAIS PREMIUM",TV ALESE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102724
+#EXTINF:-1 tvg-id="" tvg-name="TV ALMG =" tvg-logo="http://boanovacj.com.br/radioboanova/wp-content/uploads/2015/10/AL-MG.jpg" group-title="CANAIS PREMIUM",TV ALMG =
+http://fonte.iptvmaishd.com:25461/4247/4247/102722
+#EXTINF:-1 tvg-id="" tvg-name="TV ALVORADA ESPÍRITA =" tvg-logo="http://api.ning.com/files/QtkHk2n49MGwrwUX-6WEQYEqjZPxDuJIJBQ*urr8YmfZd8IoeLanNVSuJTfcgZ75Bxefs3D69DbCuatlTH-F20xEHLBead-W/TV_ALV1.JPG" group-title="CANAIS PREMIUM",TV ALVORADA ESPÍRITA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102609
+#EXTINF:-1 tvg-id="" tvg-name="TV ANTARES =" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/tv-antares.jpg" group-title="CANAIS PREMIUM",TV ANTARES =
+http://fonte.iptvmaishd.com:25461/4247/4247/102720
+#EXTINF:-1 tvg-id="" tvg-name="TV AREADO =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2YXJlYWRvX3NjcmVlbl81X2EwNHdpYjF4/screen-5.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",TV AREADO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102746
+#EXTINF:-1 tvg-id="" tvg-name="TV BELO HORIZONTE =" tvg-logo="http://blog.chicomaia.com.br/wordpress/wp-content/uploads/2010/10/BH2014.jpg" group-title="CANAIS PREMIUM",TV BELO HORIZONTE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102719
+#EXTINF:-1 tvg-id="" tvg-name="TV BETEL =" tvg-logo="http://1.bp.blogspot.com/-zKlLPD1AsW4/Uqfom0NcueI/AAAAAAAAChM/D0g7DGjwytY/s1600/tv+evangelica+gratis.jpg" group-title="CANAIS PREMIUM",TV BETEL =
+http://fonte.iptvmaishd.com:25461/4247/4247/102608
+#EXTINF:-1 tvg-id="" tvg-name="TV BNO =" tvg-logo="http://macmuro.com/upload/3227_bno-logoup1.jpg" group-title="CANAIS PREMIUM",TV BNO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102745
+#EXTINF:-1 tvg-id="" tvg-name="TV BOA ESPERANÇA =" tvg-logo="https://pbs.twimg.com/profile_images/654774499192123392/T9NvU0rR_400x400.jpg" group-title="CANAIS PREMIUM",TV BOA ESPERANÇA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102606
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA FEIRA DE SANTANA =" tvg-logo="http://feiradesantana.ba.leg.br/wp-content/uploads/2015/07/Brasao_feira-239x190.jpg" group-title="CANAIS PREMIUM",TV CÂMARA FEIRA DE SANTANA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102712
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA JACAREÍ =" tvg-logo="http://www.jacarei.sp.leg.br/wp-content/uploads/2014/10/TV-C--mara-Jacare---Telespectador-poder---acessar-conte--dos-complementares-pelo-controle-remoto-945x716.jpg" group-title="CANAIS PREMIUM",TV CÂMARA JACAREÍ =
+http://fonte.iptvmaishd.com:25461/4247/4247/102711
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA RIO GRANDE =" tvg-logo="http://www.camarapoa.rs.gov.br/images/tvcamara.png" group-title="CANAIS PREMIUM",TV CÂMARA RIO GRANDE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102710
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMPOS GERAIS =" tvg-logo="https://lh3.googleusercontent.com/-xyHq8CGhZCs/AAAAAAAAAAI/AAAAAAAAADo/pau2p2H4RFc/s640-il/photo.jpg" group-title="CANAIS PREMIUM",TV CAMPOS GERAIS =
+http://fonte.iptvmaishd.com:25461/4247/4247/102604
+#EXTINF:-1 tvg-id="" tvg-name="TV CATOLICA =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2Y2F0b2xpY2FicmFzaWxfc2NyZWVuXzBfMTUyNjc4MDk1Ml8wNjg/screen-0.jpg?h=800&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",TV CATOLICA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102603
+#EXTINF:-1 tvg-id="" tvg-name="TV CAXIAS =" tvg-logo="http://3.bp.blogspot.com/-IpE1IqX8INE/Tl4g-MVWqiI/AAAAAAAAFig/H_fqHxkF_O0/s1600/TV%2BCaxias.jpg" group-title="CANAIS PREMIUM",TV CAXIAS =
+http://fonte.iptvmaishd.com:25461/4247/4247/102744
+#EXTINF:-1 tvg-id="" tvg-name="TV CI =" tvg-logo="https://emissoratvci.files.wordpress.com/2014/05/logo-tvci-2.jpg" group-title="CANAIS PREMIUM",TV CI =
+http://fonte.iptvmaishd.com:25461/4247/4247/102709
+#EXTINF:-1 tvg-id="" tvg-name="TV CLIMA =" tvg-logo="https://portal4.files.wordpress.com/2016/01/mva_climatempo.jpg" group-title="CANAIS PREMIUM",TV CLIMA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102742
+#EXTINF:-1 tvg-id="" tvg-name="TV DESTAK =" tvg-logo="https://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg" group-title="CANAIS PREMIUM",TV DESTAK =
+http://fonte.iptvmaishd.com:25461/4247/4247/102701
+#EXTINF:-1 tvg-id="" tvg-name="TV DIFUSORA SUL HD =" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/d/df/Logotipo_da_TV_Difusora_Sul_%282006-2016%29.jpg" group-title="CANAIS PREMIUM",TV DIFUSORA SUL HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/102652
+#EXTINF:-1 tvg-id="" tvg-name="TV DIGITAL BIRIGUI =" tvg-logo="https://i.ytimg.com/vi/6zM2uyXvObU/hqdefault.jpg" group-title="CANAIS PREMIUM",TV DIGITAL BIRIGUI =
+http://fonte.iptvmaishd.com:25461/4247/4247/102616
+#EXTINF:-1 tvg-id="" tvg-name="TV DO POVO =" tvg-logo="https://www.crmv-ce.org.br/images/TV_%20o%20povo.jpg" group-title="CANAIS PREMIUM",TV DO POVO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102700
+#EXTINF:-1 tvg-id="" tvg-name="TV DORENSE =" tvg-logo="http://www.ogol.com.br/img/logos/equipas/3229_imgbank.png" group-title="CANAIS PREMIUM",TV DORENSE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102602
+#EXTINF:-1 tvg-id="" tvg-name="TV É-PARANÁ =" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/normal_logo_vertical_eparana_site02.jpg" group-title="CANAIS PREMIUM",TV É-PARANÁ =
+http://fonte.iptvmaishd.com:25461/4247/4247/102649
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR =" tvg-logo="http://tv.somcristao.net/logos/rede-evangelizar.jpg" group-title="CANAIS PREMIUM",TV EVANGELIZAR =
+http://fonte.iptvmaishd.com:25461/4247/4247/102601
+#EXTINF:-1 tvg-id="" tvg-name="TV FÁTIMA PARATIBE =" tvg-logo="https://bsdehonbrasil.files.wordpress.com/2017/09/logo-escola-paroquial1.png" group-title="CANAIS PREMIUM",TV FÁTIMA PARATIBE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102600
+#EXTINF:-1 tvg-id="" tvg-name="TV FLORIPA =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnNicmFzaWwudHZmbG9yaXBhMjAxOF9zY3JlZW5fMF8xNTA4OTMwNDcxXzA1OA/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",TV FLORIPA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102697
+#EXTINF:-1 tvg-id="" tvg-name="TV GERAL =" tvg-logo="https://pbs.twimg.com/profile_images/870786362/Tv_Geral_400x400.JPG" group-title="CANAIS PREMIUM",TV GERAL =
+http://fonte.iptvmaishd.com:25461/4247/4247/102696
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEÕES HD =" tvg-logo="http://1.bp.blogspot.com/-jjwlZRPdIVg/TuewC_24isI/AAAAAAAABDU/Hshkawj66bs/s400/ddddd.jpg" group-title="CANAIS PREMIUM",TV GIDEÕES HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/102596
+#EXTINF:-1 tvg-id="" tvg-name="TV GOIÁS =" tvg-logo="https://files.aredacao.com.br/upload/content/manha-de-noticias-na-record-tv-goias-comeca-com-manuela-queiroz.jpg" group-title="CANAIS PREMIUM",TV GOIÁS =
+http://fonte.iptvmaishd.com:25461/4247/4247/102695
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARANY =" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS PREMIUM",TV GUARANY =
+http://fonte.iptvmaishd.com:25461/4247/4247/102694
+#EXTINF:-1 tvg-id="" tvg-name="TV ITAPETININGA =" tvg-logo="http://avareurgente.com/wp-content/uploads/2017/05/tv-tem-digital.jpg" group-title="CANAIS PREMIUM",TV ITAPETININGA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102692
+#EXTINF:-1 tvg-id="" tvg-name="TV J.SID =" tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg_400x400.jpg" group-title="CANAIS PREMIUM",TV J.SID =
+http://fonte.iptvmaishd.com:25461/4247/4247/102689
+#EXTINF:-1 tvg-id="" tvg-name="TV LITORAL SUL =" tvg-logo="https://i.imgur.com/2FsqTly.jpg" group-title="CANAIS PREMIUM",TV LITORAL SUL =
+http://fonte.iptvmaishd.com:25461/4247/4247/102687
+#EXTINF:-1 tvg-id="" tvg-name="TV MACEIÓ =" tvg-logo="http://amorexigente.org.br/wp-content/uploads/2018/02/tv-maceio-ae.jpg" group-title="CANAIS PREMIUM",TV MACEIÓ =
+http://fonte.iptvmaishd.com:25461/4247/4247/102591
+#EXTINF:-1 tvg-id="" tvg-name="TV MACHADO =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2bWFjaGFkb19zY3JlZW5fM19yYXc1Zmk1ZA/screen-3.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",TV MACHADO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102686
+#EXTINF:-1 tvg-id="" tvg-name="TV MCJ =" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="CANAIS PREMIUM",TV MCJ =
+http://fonte.iptvmaishd.com:25461/4247/4247/102685
+#EXTINF:-1 tvg-id="" tvg-name="TV MISSÃO =" tvg-logo="https://pbs.twimg.com/profile_images/1469538890/TV_MISS_O_logo.jpg" group-title="CANAIS PREMIUM",TV MISSÃO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102590
+#EXTINF:-1 tvg-id="" tvg-name="TV MONTEIRO =" tvg-logo="https://i.ytimg.com/vi/Y02EAw_5LUA/maxresdefault.jpg" group-title="CANAIS PREMIUM",TV MONTEIRO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102589
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL =" tvg-logo="https://1.bp.blogspot.com/-ODbxVsny3xE/WqvT9qyCOHI/AAAAAAAAAhY/kwyxk_NLCLQKmiuXDvkCu2sWaAD0BqA8QCLcBGAs/s1600/1516363670_453b552415fa1d742012f168d8919e131490bfe8.jpg" group-title="CANAIS PREMIUM",TV MUNDIAL =
+http://fonte.iptvmaishd.com:25461/4247/4247/102588
+#EXTINF:-1 tvg-id="" tvg-name="TV O EVANGELHO =" tvg-logo="https://pbs.twimg.com/profile_images/617137548377370625/VDfYpZf3_400x400.jpg" group-title="CANAIS PREMIUM",TV O EVANGELHO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102587
+#EXTINF:-1 tvg-id="" tvg-name="TV O POVO =" tvg-logo="http://portaleliomar.opovo.com.br/wp-content/uploads/2017/09/maxresdefault-8-625x352.jpg" group-title="CANAIS PREMIUM",TV O POVO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102684
+#EXTINF:-1 tvg-id="" tvg-name="TV PARAGUASSU =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2cGFyYWd1YWN1X3NjcmVlbl8wXzE1MjY3ODA5MjZfMDc5/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",TV PARAGUASSU =
+http://fonte.iptvmaishd.com:25461/4247/4247/102585
+#EXTINF:-1 tvg-id="" tvg-name="TV PORTAL DA BAHIA =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="CANAIS PREMIUM",TV PORTAL DA BAHIA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102680
+#EXTINF:-1 tvg-id="" tvg-name="TV POVO CIGANO =" tvg-logo="http://www.tvpovocigano.com/gallery_gen/3f544304e5364a3761cc0ef2bd2c5f30_200x200.jpg" group-title="CANAIS PREMIUM",TV POVO CIGANO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102677
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/TV_Rio.jpg" group-title="CANAIS PREMIUM",TV RIO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102674
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO PRETO =" tvg-logo="http://tvriopreto.com.br/LOGOTV.png" group-title="CANAIS PREMIUM",TV RIO PRETO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102673
+#EXTINF:-1 tvg-id="" tvg-name="TV SÃO PAULO =" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2017/05/logo-sp1-sptv-2017.jpg" group-title="CANAIS PREMIUM",TV SÃO PAULO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102735
+#EXTINF:-1 tvg-id="" tvg-name="TV TRANSAMÉRICA =" tvg-logo="https://marciostival.com.br/wp-content/uploads/2018/06/transamerica.png" group-title="CANAIS PREMIUM",TV TRANSAMÉRICA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102668
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO =" tvg-logo="http://tdhbrasil.org/images/clipping/tvuniao.png" group-title="CANAIS PREMIUM",TV UNIÃO =
+http://fonte.iptvmaishd.com:25461/4247/4247/102665
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO DE NATAL =" tvg-logo="http://tdhbrasil.org/images/clipping/tvuniao.png" group-title="CANAIS PREMIUM",TV UNIÃO DE NATAL =
+http://fonte.iptvmaishd.com:25461/4247/4247/102734
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIVERSITÁRIA =" tvg-logo="http://ufrr.br/antigo/images/coordcom/tvu.jpg" group-title="CANAIS PREMIUM",TV UNIVERSITÁRIA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102666
+#EXTINF:-1 tvg-id="" tvg-name="TV VIANNEY =" tvg-logo="http://tv.vianney.org.br/wp-content/uploads/2017/02/face-a-servico-da-evangelizacao-sao-joao-maria-vianney.jpg" group-title="CANAIS PREMIUM",TV VIANNEY =
+http://fonte.iptvmaishd.com:25461/4247/4247/102659
+#EXTINF:-1 tvg-id="" tvg-name="TV ZAINE =" tvg-logo="https://i.ytimg.com/vi/Fm7tgwvoefo/maxresdefault.jpg" group-title="CANAIS PREMIUM",TV ZAINE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102615
+#EXTINF:-1 tvg-id="" tvg-name="TVCOM MACEIÓ =" tvg-logo="https://i.ytimg.com/vi/EUmP_NNAJB4/hqdefault_live.jpg" group-title="CANAIS PREMIUM",TVCOM MACEIÓ =
+http://fonte.iptvmaishd.com:25461/4247/4247/102653
+#EXTINF:-1 tvg-id="" tvg-name="UNISC TV =" tvg-logo="https://pbs.twimg.com/profile_images/491937074841260032/WnQZ2nA6.png" group-title="CANAIS PREMIUM",UNISC TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102627
+#EXTINF:-1 tvg-id="" tvg-name="VV8 TV =" tvg-logo="http://www.sdl.tv.br/imagens_noticias/fundo_azul_quadriculado.png" group-title="CANAIS PREMIUM",VV8 TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/102623
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV IEQ SERGIPE =" tvg-logo="http://quadrangular.alphanetcomunicacao.com.br/upload/logo.png" group-title="CANAIS PREMIUM",WEB TV IEQ SERGIPE =
+http://fonte.iptvmaishd.com:25461/4247/4247/102572
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV LEÃO DE JUDÁ =" tvg-logo="https://extra.globo.com/profile/bl_astrosdosastros/5649923-5cc-d5d/w488h275-PROP/leao-de-juda.jpg" group-title="CANAIS PREMIUM",WEB TV LEÃO DE JUDÁ =
+http://fonte.iptvmaishd.com:25461/4247/4247/102571
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV NOVA PARAÍBA =" tvg-logo="https://pbs.twimg.com/profile_images/981631767357607937/BE8OW1o7_400x400.jpg" group-title="CANAIS PREMIUM",WEB TV NOVA PARAÍBA =
+http://fonte.iptvmaishd.com:25461/4247/4247/102620
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV RESTAURA VIDAS =" tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LndlYnR2cmVzdGF1cmF2aWRhc19zY3JlZW5fMF8xNTA1MDM0NTE2XzA3Ng/screen-0.jpg?h=800&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",WEB TV RESTAURA VIDAS =
+http://fonte.iptvmaishd.com:25461/4247/4247/102570
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV UAI =" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS PREMIUM",WEB TV UAI =
+http://fonte.iptvmaishd.com:25461/4247/4247/102618
+#EXTINF:-1 tvg-id="" tvg-name="1001 NOITES =" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Mil-e-uma-noites.jpg" group-title="CANAIS PREMIUM",1001 NOITES =
+http://fonte.iptvmaishd.com:25461/4247/4247/105912
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="CANAIS PREMIUM",AGRO BRASIL =
+http://fonte.iptvmaishd.com:25461/4247/4247/105906
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP =" tvg-logo="http://numerodosfamosos.com/wp-content/uploads/2018/01/N%C3%BAmero-de-WhatsApp-da-Band-SP-TV-Bandeirantes.jpg" group-title="CANAIS PREMIUM",BAND SP =
+http://fonte.iptvmaishd.com:25461/4247/4247/105947
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RICOS =" tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/destaque/user_1841646591.jpg" group-title="CANAIS PREMIUM",CANAL RICOS =
+http://fonte.iptvmaishd.com:25461/4247/4247/105901
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL =" tvg-logo="https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg" group-title="CANAIS PREMIUM",CANAL RURAL =
+http://fonte.iptvmaishd.com:25461/4247/4247/105903
+#EXTINF:-1 tvg-id="" tvg-name="CAT TVE =" tvg-logo="http://sindijorpr.org.br/disco/catve.jpg" group-title="CANAIS PREMIUM",CAT TVE =
+http://fonte.iptvmaishd.com:25461/4247/4247/105918
+#EXTINF:-1 tvg-id="" tvg-name="JÓIAS VIP =" tvg-logo="https://i.ytimg.com/vi/V8IMHg7TA28/hqdefault.jpg" group-title="CANAIS PREMIUM",JÓIAS VIP =
+http://fonte.iptvmaishd.com:25461/4247/4247/105911
+#EXTINF:-1 tvg-id="" tvg-name="RECORD - ANGOLA =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d3/RecordAngola.jpg/220px-RecordAngola.jpg" group-title="CANAIS PREMIUM",RECORD - ANGOLA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105933
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GO =" tvg-logo="https://gazetadoestado.com.br/uploads/images/2016/06/maxresdefault.jpg" group-title="CANAIS PREMIUM",RECORD GO =
+http://fonte.iptvmaishd.com:25461/4247/4247/105938
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MT =" tvg-logo="https://i.ytimg.com/vi/-jFkFofmoLA/maxresdefault.jpg" group-title="CANAIS PREMIUM",RECORD MT =
+http://fonte.iptvmaishd.com:25461/4247/4247/105935
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL =" tvg-logo="http://imagem.natelinha.uol.com.br/grande/redebrasil-logo2015.jpg" group-title="CANAIS PREMIUM",REDE BRASIL =
+http://fonte.iptvmaishd.com:25461/4247/4247/105928
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV =" tvg-logo="https://www.torcedores.com/content/uploads/2017/11/RedeTV.jpg" group-title="CANAIS PREMIUM",Rede TV =
+http://fonte.iptvmaishd.com:25461/4247/4247/105957
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV RJ =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS PREMIUM",REDE TV RJ =
+http://fonte.iptvmaishd.com:25461/4247/4247/105942
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SP =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS PREMIUM",REDE TV SP =
+http://fonte.iptvmaishd.com:25461/4247/4247/105943
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV! - RONDÔNIA =" tvg-logo="https://media.sgc.com.br/2016/03/redetv-jpg.jpg" group-title="CANAIS PREMIUM",REDE TV! - RONDÔNIA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105940
+#EXTINF:-1 tvg-id="" tvg-name="SBT - CENTRO OESTE MT =" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Novo_logo_sbt.jpg" group-title="CANAIS PREMIUM",SBT - CENTRO OESTE MT =
+http://fonte.iptvmaishd.com:25461/4247/4247/105954
+#EXTINF:-1 tvg-id="" tvg-name="SBT - MA | IMPERATRIZ =" tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/sbt-imperatriz-como-praticar-ginastica-para-o-cerebro.jpg" group-title="CANAIS PREMIUM",SBT - MA | IMPERATRIZ =
+http://fonte.iptvmaishd.com:25461/4247/4247/105948
+#EXTINF:-1 tvg-id="" tvg-name="SBT - PE | CARUARÚ =" tvg-logo="http://1.bp.blogspot.com/-eYtVB-EPmTc/TY1eoUUIf4I/AAAAAAAACPY/x3pQSMIIkp8/s400/sbt_oficial1.jpg" group-title="CANAIS PREMIUM",SBT - PE | CARUARÚ =
+http://fonte.iptvmaishd.com:25461/4247/4247/105950
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD =" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/novo-logo-marca-identidade-visual-sbt-e1508460706693.png" group-title="CANAIS PREMIUM",SBT GO HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105956
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO SD =" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/novo-logo-marca-identidade-visual-sbt-e1508460706693.png" group-title="CANAIS PREMIUM",SBT GO SD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105955
+#EXTINF:-1 tvg-id="" tvg-name="SBT MA =" tvg-logo="https://1.bp.blogspot.com/-njLZ69-zutU/WIPv7Dk4ypI/AAAAAAAAMo0/DDFNOG-ZopETOAvIz3viVWVVbto54NAmACLcB/s1600/123.jpg" group-title="CANAIS PREMIUM",SBT MA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105949
+#EXTINF:-1 tvg-id="" tvg-name="SBT PE HD =" tvg-logo="http://www.deolhonews.com.br/wp-content/uploads/2017/09/SBT-Apresenta.jpg" group-title="CANAIS PREMIUM",SBT PE HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105951
+#EXTINF:-1 tvg-id="" tvg-name="SBT PE SD =" tvg-logo="https://portalovertube.com/wp-content/uploads/2017/08/sbts.jpg" group-title="CANAIS PREMIUM",SBT PE SD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105952
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA =" tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="CANAIS PREMIUM",TERRA VIVA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105908
+#EXTINF:-1 tvg-id="" tvg-name="TV ACRITICA - RECORD AM =" tvg-logo="http://comercial.recordtv.com.br/files/2017/05/ACRITICA_AM.jpg" group-title="CANAIS PREMIUM",TV ACRITICA - RECORD AM =
+http://fonte.iptvmaishd.com:25461/4247/4247/105939
+#EXTINF:-1 tvg-id="" tvg-name="TV AMAZON SAT =" tvg-logo="http://portalamazonia.com/uploads/pics/amazonsat-capa_01.jpg" group-title="CANAIS PREMIUM",TV AMAZON SAT =
+http://fonte.iptvmaishd.com:25461/4247/4247/105914
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA BAHIA HD =" tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="CANAIS PREMIUM",TV CULTURA BAHIA HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105920
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD =" tvg-logo="https://3.bp.blogspot.com/-Re3yLiNxgRU/Wlai_zLVTXI/AAAAAAAAAkk/0wCgFARsSDQMks0OaXTqQcGDiiwqTnUWgCLcBGAs/s1600/2j64aw8.jpg" group-title="CANAIS PREMIUM",TV CULTURA HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105923
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA MG =" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logomarca_TV_Cultura.jpg" group-title="CANAIS PREMIUM",TV CULTURA MG =
+http://fonte.iptvmaishd.com:25461/4247/4247/105922
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PA =" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2015/7/27/660x290/b_1200x528/tv-cultura-tem-sinal-cortado_447757.jpg" group-title="CANAIS PREMIUM",TV CULTURA PA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105921
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO =" tvg-logo="https://i.imgur.com/tLJta9j.jpg" group-title="CANAIS PREMIUM",TV DIARIO =
+http://fonte.iptvmaishd.com:25461/4247/4247/105931
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUCATIVA =" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/88/20181002022248%21TV_Educativa_MS.jpg" group-title="CANAIS PREMIUM",TV EDUCATIVA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105927
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA =" tvg-logo="https://www.fundacred.org.br/site/wp-content/uploads/2018/01/tvescola-640x340.jpg" group-title="CANAIS PREMIUM",TV ESCOLA =
+http://fonte.iptvmaishd.com:25461/4247/4247/105915
+#EXTINF:-1 tvg-id="" tvg-name="TV UP HD =" tvg-logo="http://3.bp.blogspot.com/-B0o46BoM9g0/UU_rZdRzAwI/AAAAAAAACB4/HS6rBtFjUnc/s1600/uphd_sulbrtv.jpg" group-title="CANAIS PREMIUM",TV UP HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105916
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA - RECORD =" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2017/01/TV_Vitoria_Record_Logo_1017x464-800x445.jpg" group-title="CANAIS PREMIUM",TV VITORIA - RECORD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105934
+#EXTINF:-1 tvg-id="" tvg-name="TVE BA HD =" tvg-logo="https://i.ytimg.com/vi/QnidyCJfjY0/hqdefault.jpg" group-title="CANAIS PREMIUM",TVE BA HD =
+http://fonte.iptvmaishd.com:25461/4247/4247/105929
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL =" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2016/05/TV-Brasil.jpg" group-title="CANAIS PREMIUM",TVE BRASIL =
+http://fonte.iptvmaishd.com:25461/4247/4247/105930
+#EXTINF:-1 tvg-id="" tvg-name="TVU RECIFE =" tvg-logo="https://pbs.twimg.com/profile_images/875056249829830656/KKwgwQ8O_400x400.jpg" group-title="CANAIS PREMIUM",TVU RECIFE =
+http://fonte.iptvmaishd.com:25461/4247/4247/105919
+#EXTINF:-1 tvg-id="" tvg-name="BBB-19**" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="CANAIS PREMIUM",BBB-19**
+http://fonte.iptvmaishd.com:25461/4247/4247/137031
+#EXTINF:-1 tvg-id="" tvg-name="BBB-19*" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="CANAIS PREMIUM",BBB-19*
+http://fonte.iptvmaishd.com:25461/4247/4247/137032
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 ACADEMIA*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 ACADEMIA*
+http://fonte.iptvmaishd.com:25461/4247/4247/141545
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 CHUVEIRO*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 CHUVEIRO*
+http://fonte.iptvmaishd.com:25461/4247/4247/141544
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 CONFESSIONÁRIO*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 CONFESSIONÁRIO*
+http://fonte.iptvmaishd.com:25461/4247/4247/141551
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 COZINHA*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 COZINHA*
+http://fonte.iptvmaishd.com:25461/4247/4247/141549
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019*
+http://fonte.iptvmaishd.com:25461/4247/4247/141553
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019.*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019.*
+http://fonte.iptvmaishd.com:25461/4247/4247/141556
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 HD 2*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 HD 2*
+http://fonte.iptvmaishd.com:25461/4247/4247/141555
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 MOSAICO*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 MOSAICO*
+http://fonte.iptvmaishd.com:25461/4247/4247/141552
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 PISCINA*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 PISCINA*
+http://fonte.iptvmaishd.com:25461/4247/4247/141546
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 QUARTO 1*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 QUARTO 1*
+http://fonte.iptvmaishd.com:25461/4247/4247/141550
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 QUARTO 2*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 QUARTO 2*
+http://fonte.iptvmaishd.com:25461/4247/4247/141543
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 SALA*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 SALA*
+http://fonte.iptvmaishd.com:25461/4247/4247/141548
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019..=" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019..=
+http://fonte.iptvmaishd.com:25461/4247/4247/141557
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 SD 2*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 SD 2*
+http://fonte.iptvmaishd.com:25461/4247/4247/141554
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2019 VARANDA*" tvg-logo="https://1.bp.blogspot.com/-ykdB7MedKuk/WqvTO-hraCI/AAAAAAAAAZw/454vCXAqJiIC2NOqlI6aPu6cPyz5OQ1yACLcBGAs/s1600/1516239824_5760ea39097e0e15281726c3e1f6e84fa2f31a21.png" group-title="CANAIS PREMIUM",BBB 2019 VARANDA*
+http://fonte.iptvmaishd.com:25461/4247/4247/141547
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR: GLOBO INTERNACIONAL FULL HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR: GLOBO INTERNACIONAL FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141880
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR: GLOBO NEWS FULL HD*" tvg-logo="https://1.bp.blogspot.com/-0JPImOnJqrE/WqvTeabynrI/AAAAAAAAAcQ/uqMQkc-LkscW0Ef0oHyYcTOatMApCVhLgCLcBGAs/s1600/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="CANAIS PREMIUM",BR: GLOBO NEWS FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141883
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR: GLOBO SP FULL HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR: GLOBO SP FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141891
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO BAHIA SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:GLOBO BAHIA SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141878
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="BR:Globo Brasilia SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo Brasilia SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141879
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="BR:Globo EPTV Campinas SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo EPTV Campinas SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141877
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="BR:Globo EPTV Ribeirao Preto SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo EPTV Ribeirao Preto SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141871
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo Goiania sd*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo Goiania sd*
+http://fonte.iptvmaishd.com:25461/4247/4247/141870
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="BR:Globo MG HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo MG HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141886
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="BR:Globo MG SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo MG SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141887
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR:Globo News HD*" tvg-logo="https://1.bp.blogspot.com/-0JPImOnJqrE/WqvTeabynrI/AAAAAAAAAcQ/uqMQkc-LkscW0Ef0oHyYcTOatMApCVhLgCLcBGAs/s1600/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="CANAIS PREMIUM",BR:Globo News HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141884
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR:Globo News SD*" tvg-logo="https://1.bp.blogspot.com/-0JPImOnJqrE/WqvTeabynrI/AAAAAAAAAcQ/uqMQkc-LkscW0Ef0oHyYcTOatMApCVhLgCLcBGAs/s1600/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="CANAIS PREMIUM",BR:Globo News SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141885
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="BR:Globo Nordeste HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo Nordeste HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141881
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="BR:Globo Nordeste SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo Nordeste SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141882
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo Paraná HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo Paraná HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141876
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR:Globo RJ HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo RJ HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141889
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR:Globo RJ SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo RJ SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141890
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO RPC SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:GLOBO RPC SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141888
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO SAO JOSE DO RIO PRETO SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:GLOBO SAO JOSE DO RIO PRETO SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141869
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo SP HD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo SP HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141892
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo SP SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo SP SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141893
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo TV Liberal SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo TV Liberal SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141875
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo Tv Tribuna Santos SD*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",BR:Globo Tv Tribuna Santos SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141874
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BR:Globosat HD=" tvg-logo="https://www.fdmextintores.com.br/wp-content/uploads/2015/10/globosat.jpg" group-title="CANAIS PREMIUM",BR:Globosat HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141872
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="BR:Globosat SD=" tvg-logo="https://www.fdmextintores.com.br/wp-content/uploads/2015/10/globosat.jpg" group-title="CANAIS PREMIUM",BR:Globosat SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141873
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS.*" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="CANAIS PREMIUM",GLOBO MINAS.*
+http://fonte.iptvmaishd.com:25461/4247/4247/135737
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR: A&E SD=" tvg-logo="https://2.bp.blogspot.com/-g-lG1V1udWU/WqvTK7W9PvI/AAAAAAAAAZM/z8Nf_1S_QSgU2SsVy5uGmghXx4BFBcaVACLcBGAs/s1600/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="CANAIS PREMIUM",BR: A&E SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141994
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR: ANIMAL PLANET FULL HD=" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="CANAIS PREMIUM",BR: ANIMAL PLANET FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141989
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR: AXN FULL HD=" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="CANAIS PREMIUM",BR: AXN FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141983
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR: BAND MARINGÁ FULL HD=" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="CANAIS PREMIUM",BR: BAND MARINGÁ FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141970
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR: BAND SP FULL HD=" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="CANAIS PREMIUM",BR: BAND SP FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141971
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BR: BAND SPORTS FULL HD=" tvg-logo="https://3.bp.blogspot.com/-XpEwqcINFeA/WqvTOZXCgiI/AAAAAAAAAZ0/AH7gBxdXLKcos5n9Pjuj2t6mHoTehm22gCLcBGAs/s1600/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="CANAIS PREMIUM",BR: BAND SPORTS FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141965
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR: CANAL SONY FULL HD=" tvg-logo="https://4.bp.blogspot.com/-FW-2iQrOvmE/WqvTzIiSKJI/AAAAAAAAAfo/AUI59tySeiwauY6WsafdfQuMzVdKaxuBACLcBGAs/s1600/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="CANAIS PREMIUM",BR: CANAL SONY FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141960
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="BR: CARTOON NETWORK FULL HD=" tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="CANAIS PREMIUM",BR: CARTOON NETWORK FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141955
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="BR: COMBATE FULL HD=" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="CANAIS PREMIUM",BR: COMBATE FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141952
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="BR: COMEDY CENTRAL FULL  HD=" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="CANAIS PREMIUM",BR: COMEDY CENTRAL FULL  HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141949
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR: DISCOVERY CHANNEL FULL HD=" tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="CANAIS PREMIUM",BR: DISCOVERY CHANNEL FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141946
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="BR: DISNEY JÚNIOR FULL HD*" tvg-logo="https://1.bp.blogspot.com/-2v1NZSIkQDE/WqvTXcugorI/AAAAAAAAAbQ/XHzVG9xh3gQumP6YhD6iFzzgZSurepUSQCLcBGAs/s1600/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="CANAIS PREMIUM",BR: DISNEY JÚNIOR FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141923
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="BR: ESPN 2 FULL HD*" tvg-logo="https://3.bp.blogspot.com/-DcAC4ZAt6pQ/WqvTZQvXzKI/AAAAAAAAAbg/tW-Wwj5qlCA9Nt022JPMkGg9E4Qcqn7VACLcBGAs/s1600/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="CANAIS PREMIUM",BR: ESPN 2 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141912
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="BR: ESPN BRASIL FULL HD*" tvg-logo="https://4.bp.blogspot.com/-J3Uq2QZjPZg/WqvTZIvmuoI/AAAAAAAAAbc/DGVFoHswuR4-p7RzIN0E07vjqRVoGBEdACLcBGAs/s1600/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="CANAIS PREMIUM",BR: ESPN BRASIL FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141914
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="BR: ESPN EXTRA FULL HD*" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS PREMIUM",BR: ESPN EXTRA FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141911
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="BR: ESPN FULL HD*" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS PREMIUM",BR: ESPN FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141917
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR: FOX FULL HD*" tvg-logo="https://4.bp.blogspot.com/-G49Ms0dv_hE/WqvTac4TpWI/AAAAAAAAAbs/QHxSL0OWEwsEY-ZeX7wTK65amD1fIgnJACLcBGAs/s1600/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="CANAIS PREMIUM",BR: FOX FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141906
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="BR: FOX PREMIUM 1 FULL HD*" tvg-logo="https://2.bp.blogspot.com/-yiG6V6GYh-0/WqvTbVbM6SI/AAAAAAAAAb0/LXN5wKUaC-AqFxAPL1XnKAEHhz8nf_z2wCLcBGAs/s1600/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="CANAIS PREMIUM",BR: FOX PREMIUM 1 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141902
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="BR: FOX PREMIUM 2 FULL HD=" tvg-logo="https://1.bp.blogspot.com/-lsxLOP9HOzo/WqvTb4_05MI/AAAAAAAAAb4/I05fBM6q-d0LT1twO2ua1zX7fzG0Gi5JwCLcBGAs/s1600/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="CANAIS PREMIUM",BR: FOX PREMIUM 2 FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141900
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="BR: FOX SPORTS 2 FULL HD*" tvg-logo="https://3.bp.blogspot.com/-ExCzXcEsBKg/WqvTcw9K3uI/AAAAAAAAAcA/hZCPZXCB-vgvIVZjuMUB3gFfFZf3dTLSwCLcBGAs/s1600/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="CANAIS PREMIUM",BR: FOX SPORTS 2 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141894
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="BR: FOX SPORTS FULL HD*" tvg-logo="https://3.bp.blogspot.com/-6UiJ1oEVJzc/WqvTcepjeOI/AAAAAAAAAb8/0JhPbfaAL9kDKeSPC9Uj2Vn6uUfVXutuwCLcBGAs/s1600/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="CANAIS PREMIUM",BR: FOX SPORTS FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141897
+#EXTINF:-1 tvg-id="H2.br" tvg-name="BR: H2 FULL HD*" tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="CANAIS PREMIUM",BR: H2 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141858
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR: HISTORY CHANNEL FULL HD*" tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="CANAIS PREMIUM",BR: HISTORY CHANNEL FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141842
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR: MEGAPIX FULL HD*" tvg-logo="https://4.bp.blogspot.com/-TU5zS-ZRzr8/WqvToD8JipI/AAAAAAAAAd0/bFDvKDJuYJoLs3UOlycDrozwYLzC5cKnQCLcBGAs/s1600/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="CANAIS PREMIUM",BR: MEGAPIX FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141832
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="BR: MTV FULL HD*" tvg-logo="https://3.bp.blogspot.com/-c10KhKKWcCo/WqvToVSIrXI/AAAAAAAAAdw/9y3UiWxpFbUGkZdfxDttZT7NxLgxIh_PACLcBGAs/s1600/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="CANAIS PREMIUM",BR: MTV FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141827
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="BR: NATEGEO KIDS FULL HD*" tvg-logo="https://2.bp.blogspot.com/-Y2rtUjbV4nM/WqvTpbfOVZI/AAAAAAAAAeA/E-H35Ouqx0MfyO50RjTY9QYdHTUoXfLhwCLcBGAs/s1600/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="CANAIS PREMIUM",BR: NATEGEO KIDS FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141715
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="BR: PARAMOUNT CHANNEL FULL HD*" tvg-logo="https://2.bp.blogspot.com/-KCwPwZvjo-g/WqvTtbxoVrI/AAAAAAAAAek/Kw1vvMnoI843cdoysE8iS7HwbNIoSisegCLcBGAs/s1600/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="CANAIS PREMIUM",BR: PARAMOUNT CHANNEL FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141794
+#EXTINF:-1 tvg-id="" tvg-name="BR: PLAY KIDS FULL HD*" tvg-logo="http://curtindocomcriancas.blog.br/wp-content/uploads/2016/05/play-kids.jpg" group-title="CANAIS PREMIUM",BR: PLAY KIDS FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141714
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="BR: PREMIERE 3 FULL HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR: PREMIERE 3 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141807
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="BR: PREMIERE 4 FULL HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR: PREMIERE 4 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141805
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="BR: PREMIERE 5 FULL HD=" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR: PREMIERE 5 FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141802
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="BR: PREMIERE 6 FULL HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR: PREMIERE 6 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141799
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="BR: PREMIERE CLUBES FULL HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR: PREMIERE CLUBES FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141812
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="BR: RECORD NEWS FHD*" tvg-logo="https://1.bp.blogspot.com/-FJD2M-3zisA/WqvTwGE0x7I/AAAAAAAAAfE/U8d0UKLWafwBcZjz9FIUoOOUbt0sshutwCLcBGAs/s1600/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="CANAIS PREMIUM",BR: RECORD NEWS FHD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141868
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE MINAS - TV RIO DOCE FULL HD" tvg-logo="https://pbs.twimg.com/profile_images/837637013243326464/p9XHZuW3_400x400.jpg" group-title="CANAIS PREMIUM",BR: REDE MINAS - TV RIO DOCE FULL HD
+http://fonte.iptvmaishd.com:25461/4247/4247/141713
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR: SBT PIAUÍ FULL HD*" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="CANAIS PREMIUM",BR: SBT PIAUÍ FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141771
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR: SBT SP FULL HD*" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="CANAIS PREMIUM",BR: SBT SP FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141773
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR: SPACE FULL HD*" tvg-logo="https://1.bp.blogspot.com/-lkkF5UIf-Gg/WqvTzWmGugI/AAAAAAAAAfs/Nnce4iRGfWs_a5cbCo6uB9jm5fP-uienACLcBGAs/s1600/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="CANAIS PREMIUM",BR: SPACE FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141776
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="BR: SPORTV 2 FULL HD*" tvg-logo="https://2.bp.blogspot.com/-2u2HJrPa8-c/WqvTz7EefRI/AAAAAAAAAf0/msT5LO00rIMiChKlasT8Vhy0TwBFFXrbQCLcBGAs/s1600/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="CANAIS PREMIUM",BR: SPORTV 2 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141782
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="BR: SPORTV 3 FULL HD*" tvg-logo="https://2.bp.blogspot.com/-isiNNoPARoU/WqvT0Ebb0NI/AAAAAAAAAf4/BeTILqaF48AofEK4SuLOhHmQfK5J5oSUACLcBGAs/s1600/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="CANAIS PREMIUM",BR: SPORTV 3 FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141779
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="BR: SPORTV FULL HD*" tvg-logo="https://2.bp.blogspot.com/-GpdcBjqsXoQ/WqvTzld62lI/AAAAAAAAAfw/aq1ryUjzJ7MzpIwrN2YMkvaWDxK0W2KRQCLcBGAs/s1600/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="CANAIS PREMIUM",BR: SPORTV FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141785
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="BR: TELECINE ACTION FULL HD*" tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="CANAIS PREMIUM",BR: TELECINE ACTION FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141761
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="BR: TELECINE CULT FULL HD*" tvg-logo="https://3.bp.blogspot.com/-CgwPZPiJvgQ/WqvT2XOgIhI/AAAAAAAAAgM/ntjW9B5fIEAKcmXHYPw3htfKzVE74rtewCLcBGAs/s1600/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="CANAIS PREMIUM",BR: TELECINE CULT FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141758
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="BR: TELECINE FUN FULL HD*" tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="CANAIS PREMIUM",BR: TELECINE FUN FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141755
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="BR: TELECINE PIPOCA FULL HD*" tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="CANAIS PREMIUM",BR: TELECINE PIPOCA FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141752
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="BR: TELECINE PREMIUM FULL HD*" tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s1600/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="CANAIS PREMIUM",BR: TELECINE PREMIUM FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141749
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="BR: TELECINE TOUCH FULL HD*" tvg-logo="https://4.bp.blogspot.com/-tPAoNZ9x26A/WqvT4DXTL_I/AAAAAAAAAgc/hK9mp190eCIER-IUzcULFIWQ_ltf-D4iwCLcBGAs/s1600/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="CANAIS PREMIUM",BR: TELECINE TOUCH FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141746
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="BR: TLC HD*" tvg-logo="https://3.bp.blogspot.com/-yj9Np1y6kes/WqvT6JRKomI/AAAAAAAAAgw/tw9LURKrUhArK4Y3UPvk8l_rw4cKGRY2ACLcBGAs/s1600/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="CANAIS PREMIUM",BR: TLC HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141742
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="BR: TNT FULL HD*" tvg-logo="https://3.bp.blogspot.com/-ihUbMxUgoYg/WqvT6stuTVI/AAAAAAAAAgs/Tv_Ey7nzi4INrkPoikhnBz1yzd7OwYlFACLcBGAs/s1600/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="CANAIS PREMIUM",BR: TNT FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141739
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="BR: TNT SÉRIES FULL HD*" tvg-logo="https://1.bp.blogspot.com/-Go3uPFTIRKE/WqvT7IU--dI/AAAAAAAAAg0/bzl1iAj1DfkxmAQavrVazUseRclfkYCvwCLcBGAs/s1600/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="CANAIS PREMIUM",BR: TNT SÉRIES FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141736
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BOA VONTADE FULL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logo_boavontade.jpg" group-title="CANAIS PREMIUM",BR: TV BOA VONTADE FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141712
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="BR: TV GLOBINHO FULL HD*" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/04/tv-globoinho-desenhos.jpg" group-title="CANAIS PREMIUM",BR: TV GLOBINHO FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141863
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR: UNIVERSAL CHANNEL FULL HD*" tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="CANAIS PREMIUM",BR: UNIVERSAL CHANNEL FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141727
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="BR: VH1 MEGAHITS FULL HD*" tvg-logo="https://2.bp.blogspot.com/-T5-C_PqAY0o/WqvT-1Lj9tI/AAAAAAAAAhk/4yoPa_ov86c1K3IQQwYynIeLmME5XDleACLcBGAs/s1600/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="CANAIS PREMIUM",BR: VH1 MEGAHITS FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141711
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="BR: VIVA FULL HD*" tvg-logo="https://4.bp.blogspot.com/-GWGf6snd5_4/WqvT_ICSp3I/AAAAAAAAAho/iR8OdmwND5MYP7Xvj44A6l8Kwym-DK6RwCLcBGAs/s1600/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="CANAIS PREMIUM",BR: VIVA FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141710
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="BR: WARNER CHANNEL FULL HD*" tvg-logo="https://4.bp.blogspot.com/-t-XkHMXGvi0/WqvT_vBuqvI/AAAAAAAAAhs/qPrgt7toNSgSm3ZudSHTqgkZUTgik1yQACLcBGAs/s1600/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="CANAIS PREMIUM",BR: WARNER CHANNEL FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141719
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR:: A&E FULL HD=" tvg-logo="https://2.bp.blogspot.com/-g-lG1V1udWU/WqvTK7W9PvI/AAAAAAAAAZM/z8Nf_1S_QSgU2SsVy5uGmghXx4BFBcaVACLcBGAs/s1600/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="CANAIS PREMIUM",BR:: A&E FULL HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141992
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR:A&E HD=" tvg-logo="https://2.bp.blogspot.com/-g-lG1V1udWU/WqvTK7W9PvI/AAAAAAAAAZM/z8Nf_1S_QSgU2SsVy5uGmghXx4BFBcaVACLcBGAs/s1600/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="CANAIS PREMIUM",BR:A&E HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141993
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="BR:AMC HD=" tvg-logo="https://2.bp.blogspot.com/-JpifbV9vwoM/WqvTLYll0uI/AAAAAAAAAZU/fkCyK61wd1c6_WKWP5o9cU-brGMwvJP7gCLcBGAs/s1600/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="CANAIS PREMIUM",BR:AMC HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141987
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="BR:AMC SD=" tvg-logo="https://2.bp.blogspot.com/-JpifbV9vwoM/WqvTLYll0uI/AAAAAAAAAZU/fkCyK61wd1c6_WKWP5o9cU-brGMwvJP7gCLcBGAs/s1600/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="CANAIS PREMIUM",BR:AMC SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141988
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR:Animal Planet HD=" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="CANAIS PREMIUM",BR:Animal Planet HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141990
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR:Animal Planet SD=" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="CANAIS PREMIUM",BR:Animal Planet SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141991
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="BR:Arte SD=" tvg-logo="https://4.bp.blogspot.com/-BQLVOAy4KZg/WqvUB3LCuII/AAAAAAAAAiA/Nyiwg-8frrQ80XJApM_GJX7GdXRHfeeyQCLcBGAs/s1600/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="CANAIS PREMIUM",BR:Arte SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141982
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="BR:Arte1 HD=" tvg-logo="https://4.bp.blogspot.com/-BQLVOAy4KZg/WqvUB3LCuII/AAAAAAAAAiA/Nyiwg-8frrQ80XJApM_GJX7GdXRHfeeyQCLcBGAs/s1600/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="CANAIS PREMIUM",BR:Arte1 HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141981
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR:AXN HD=" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="CANAIS PREMIUM",BR:AXN HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141984
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR:AXN SD=" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="CANAIS PREMIUM",BR:AXN SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141985
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BR:Baby TV HD=" tvg-logo="https://2.bp.blogspot.com/-J60YUDRbLHs/WqvTMy8G9jI/AAAAAAAAAZk/c64tDN22TxU4TWABkvnQ96kRVldpw5vtwCLcBGAs/s1600/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="CANAIS PREMIUM",BR:Baby TV HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141978
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BR:Baby TV SD=" tvg-logo="https://2.bp.blogspot.com/-J60YUDRbLHs/WqvTMy8G9jI/AAAAAAAAAZk/c64tDN22TxU4TWABkvnQ96kRVldpw5vtwCLcBGAs/s1600/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="CANAIS PREMIUM",BR:Baby TV SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141979
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BR:Band News HD=" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS PREMIUM",BR:Band News HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141968
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BR:Band News SD=" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS PREMIUM",BR:Band News SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141969
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR:Band SP HD=" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="CANAIS PREMIUM",BR:Band SP HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141972
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR:BAND SP SD=" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="CANAIS PREMIUM",BR:BAND SP SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141973
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BR:BAND SPORTS HD=" tvg-logo="https://3.bp.blogspot.com/-XpEwqcINFeA/WqvTOZXCgiI/AAAAAAAAAZ0/AH7gBxdXLKcos5n9Pjuj2t6mHoTehm22gCLcBGAs/s1600/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="CANAIS PREMIUM",BR:BAND SPORTS HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141966
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BR:Band Sports SD=" tvg-logo="https://3.bp.blogspot.com/-XpEwqcINFeA/WqvTOZXCgiI/AAAAAAAAAZ0/AH7gBxdXLKcos5n9Pjuj2t6mHoTehm22gCLcBGAs/s1600/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="CANAIS PREMIUM",BR:Band Sports SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141967
+#EXTINF:-1 tvg-id="" tvg-name="BR:bbb 19 hd=" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="CANAIS PREMIUM",BR:bbb 19 hd=
+http://fonte.iptvmaishd.com:25461/4247/4247/141975
+#EXTINF:-1 tvg-id="" tvg-name="BR:bbb 19 sd=" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="CANAIS PREMIUM",BR:bbb 19 sd=
+http://fonte.iptvmaishd.com:25461/4247/4247/141976
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BR:BIS HD=" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="CANAIS PREMIUM",BR:BIS HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141977
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BR:BIS SD=" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="CANAIS PREMIUM",BR:BIS SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141980
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BR:Boomerang HD=" tvg-logo="https://2.bp.blogspot.com/-LTXnHxIYJhU/WqvTPVUQ-JI/AAAAAAAAAZ8/GEdiLYSVW1wGBpTPKa1aniVhGNyv7H32wCLcBGAs/s1600/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="CANAIS PREMIUM",BR:Boomerang HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141963
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BR:Boomerang SD=" tvg-logo="https://2.bp.blogspot.com/-LTXnHxIYJhU/WqvTPVUQ-JI/AAAAAAAAAZ8/GEdiLYSVW1wGBpTPKa1aniVhGNyv7H32wCLcBGAs/s1600/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="CANAIS PREMIUM",BR:Boomerang SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141964
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR:Canal Sony HD=" tvg-logo="https://4.bp.blogspot.com/-FW-2iQrOvmE/WqvTzIiSKJI/AAAAAAAAAfo/AUI59tySeiwauY6WsafdfQuMzVdKaxuBACLcBGAs/s1600/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="CANAIS PREMIUM",BR:Canal Sony HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141961
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR:Canal Sony SD=" tvg-logo="https://4.bp.blogspot.com/-FW-2iQrOvmE/WqvTzIiSKJI/AAAAAAAAAfo/AUI59tySeiwauY6WsafdfQuMzVdKaxuBACLcBGAs/s1600/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="CANAIS PREMIUM",BR:Canal Sony SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141962
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="BR:Cartoon Network HD=" tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="CANAIS PREMIUM",BR:Cartoon Network HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141956
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="BR:Cartoon Network SD=" tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="CANAIS PREMIUM",BR:Cartoon Network SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141957
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="BR:Cinemax HD=" tvg-logo="https://2.bp.blogspot.com/-OuTKO0-AQ60/WqvTR9DpCWI/AAAAAAAAAaQ/pEoxdi6dQJohQe8flAer2z2GP90RiO-bwCLcBGAs/s1600/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="CANAIS PREMIUM",BR:Cinemax HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141958
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="BR:Cinemax SD=" tvg-logo="https://2.bp.blogspot.com/-OuTKO0-AQ60/WqvTR9DpCWI/AAAAAAAAAaQ/pEoxdi6dQJohQe8flAer2z2GP90RiO-bwCLcBGAs/s1600/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="CANAIS PREMIUM",BR:Cinemax SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141959
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="BR:Combate HD=" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="CANAIS PREMIUM",BR:Combate HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141953
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="BR:Combate SD=" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="CANAIS PREMIUM",BR:Combate SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141954
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="BR:Comedy Central HD=" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="CANAIS PREMIUM",BR:Comedy Central HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141950
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="BR:Comedy Central SD=" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="CANAIS PREMIUM",BR:Comedy Central SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141951
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR:Discovery Channel HD=" tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="CANAIS PREMIUM",BR:Discovery Channel HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141947
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR:Discovery Channel SD=" tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="CANAIS PREMIUM",BR:Discovery Channel SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141948
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="BR:Discovery Civilization HD=" tvg-logo="https://4.bp.blogspot.com/-0HOOXRalJXM/WqvTTj68VzI/AAAAAAAAAas/1_gLf0aGaLQrhs1d4STDAwO51h_pj1wAQCLcBGAs/s1600/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="CANAIS PREMIUM",BR:Discovery Civilization HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141944
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="BR:Discovery Civilization SD=" tvg-logo="https://4.bp.blogspot.com/-0HOOXRalJXM/WqvTTj68VzI/AAAAAAAAAas/1_gLf0aGaLQrhs1d4STDAwO51h_pj1wAQCLcBGAs/s1600/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="CANAIS PREMIUM",BR:Discovery Civilization SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141945
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="BR:Discovery H&H HD=" tvg-logo="https://1.bp.blogspot.com/-5xW5E9gikIs/WqvTT9mx9LI/AAAAAAAAAaw/9LEJTdXpaaQrRzTS_AfGssquBlCM-NVIwCLcBGAs/s1600/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="CANAIS PREMIUM",BR:Discovery H&H HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141942
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="BR:Discovery H&H SD=" tvg-logo="https://1.bp.blogspot.com/-5xW5E9gikIs/WqvTT9mx9LI/AAAAAAAAAaw/9LEJTdXpaaQrRzTS_AfGssquBlCM-NVIwCLcBGAs/s1600/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="CANAIS PREMIUM",BR:Discovery H&H SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141943
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR:DISCOVERY KIDS HD=" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="CANAIS PREMIUM",BR:DISCOVERY KIDS HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141940
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR:Discovery Kids SD=" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="CANAIS PREMIUM",BR:Discovery Kids SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141941
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="BR:DISCOVERY SCIENCE HD*" tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s1600/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="CANAIS PREMIUM",BR:DISCOVERY SCIENCE HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141939
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="BR:Discovery Science SD=" tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s1600/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="CANAIS PREMIUM",BR:Discovery Science SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141938
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="BR:Discovery Theater HD=" tvg-logo="https://2.bp.blogspot.com/-leJj6Ou90lE/WqvTVas8DhI/AAAAAAAAAa8/pK-sAAuYYHA9FZs1iK2aG4UMq-E2hx7KACLcBGAs/s1600/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="CANAIS PREMIUM",BR:Discovery Theater HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141937
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:DISCOVERY TURBO FULL HD*" tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="CANAIS PREMIUM",BR:DISCOVERY TURBO FULL HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141932
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:Discovery Turbo HD*" tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="CANAIS PREMIUM",BR:Discovery Turbo HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141933
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:Discovery Turbo SD*" tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="CANAIS PREMIUM",BR:Discovery Turbo SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141934
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="BR:Discovery World HD=" tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="CANAIS PREMIUM",BR:Discovery World HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141935
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="BR:Discovery World SD=" tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="CANAIS PREMIUM",BR:Discovery World SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141936
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="BR:Disney Channel HD*" tvg-logo="https://2.bp.blogspot.com/-yS-DF0XYMAI/WqvTW9yJn2I/AAAAAAAAAbI/5ahRfOC_FlQt4W-YgHiAcGCoZ_e7S9Q6gCLcBGAs/s1600/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="CANAIS PREMIUM",BR:Disney Channel HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141926
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="BR:Disney Channel SD*" tvg-logo="https://2.bp.blogspot.com/-yS-DF0XYMAI/WqvTW9yJn2I/AAAAAAAAAbI/5ahRfOC_FlQt4W-YgHiAcGCoZ_e7S9Q6gCLcBGAs/s1600/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="CANAIS PREMIUM",BR:Disney Channel SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141927
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="BR:Disney Junior HD*" tvg-logo="https://1.bp.blogspot.com/-2v1NZSIkQDE/WqvTXcugorI/AAAAAAAAAbQ/XHzVG9xh3gQumP6YhD6iFzzgZSurepUSQCLcBGAs/s1600/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="CANAIS PREMIUM",BR:Disney Junior HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141924
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="BR:Disney Junior SD*" tvg-logo="https://1.bp.blogspot.com/-2v1NZSIkQDE/WqvTXcugorI/AAAAAAAAAbQ/XHzVG9xh3gQumP6YhD6iFzzgZSurepUSQCLcBGAs/s1600/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="CANAIS PREMIUM",BR:Disney Junior SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141925
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="BR:Disney XD HD*" tvg-logo="https://1.bp.blogspot.com/-6XruFOLtjow/WqvTXwMsKXI/AAAAAAAAAbM/XUz1CFNIpS0zobvIRlNUVHuVOkiqowS3QCLcBGAs/s1600/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="CANAIS PREMIUM",BR:Disney XD HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141922
+#EXTINF:-1 tvg-id="E.br" tvg-name="BR:E! HD*" tvg-logo="https://3.bp.blogspot.com/-7rNUMj3bcvE/WqvTYykZW0I/AAAAAAAAAbU/CUe1Q60a7KwbEbClMkNWpoYVjP6bnFwwwCLcBGAs/s1600/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="CANAIS PREMIUM",BR:E! HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141920
+#EXTINF:-1 tvg-id="E.br" tvg-name="BR:E! SD*" tvg-logo="https://3.bp.blogspot.com/-7rNUMj3bcvE/WqvTYykZW0I/AAAAAAAAAbU/CUe1Q60a7KwbEbClMkNWpoYVjP6bnFwwwCLcBGAs/s1600/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="CANAIS PREMIUM",BR:E! SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141921
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="BR:ESPN + HD*" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS PREMIUM",BR:ESPN + HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141918
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="BR:ESPN 2 HD*" tvg-logo="https://3.bp.blogspot.com/-DcAC4ZAt6pQ/WqvTZQvXzKI/AAAAAAAAAbg/tW-Wwj5qlCA9Nt022JPMkGg9E4Qcqn7VACLcBGAs/s1600/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="CANAIS PREMIUM",BR:ESPN 2 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141913
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="BR:ESPN Brasil HD*" tvg-logo="https://4.bp.blogspot.com/-J3Uq2QZjPZg/WqvTZIvmuoI/AAAAAAAAAbc/DGVFoHswuR4-p7RzIN0E07vjqRVoGBEdACLcBGAs/s1600/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="CANAIS PREMIUM",BR:ESPN Brasil HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141915
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="BR:ESPN Brasil SD*" tvg-logo="https://4.bp.blogspot.com/-J3Uq2QZjPZg/WqvTZIvmuoI/AAAAAAAAAbc/DGVFoHswuR4-p7RzIN0E07vjqRVoGBEdACLcBGAs/s1600/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="CANAIS PREMIUM",BR:ESPN Brasil SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141916
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="BR:ESPN SD=" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS PREMIUM",BR:ESPN SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141919
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="BR:Food Network SD*" tvg-logo="https://2.bp.blogspot.com/-K5NOwRbe4Qw/WqvTZyAgHnI/AAAAAAAAAbo/sLOT6Zu685IKJvGXShApbMtPPq82sZOdwCLcBGAs/s1600/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="CANAIS PREMIUM",BR:Food Network SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141910
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR:FOX HD*" tvg-logo="https://4.bp.blogspot.com/-G49Ms0dv_hE/WqvTac4TpWI/AAAAAAAAAbs/QHxSL0OWEwsEY-ZeX7wTK65amD1fIgnJACLcBGAs/s1600/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="CANAIS PREMIUM",BR:FOX HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141907
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="BR:FOX LIFE HD*" tvg-logo="https://3.bp.blogspot.com/-kkgS6vxaBDs/WqvTa6gwcjI/AAAAAAAAAbw/AxdcPZ6oNUQAvqEGoLtzMDEyC1qPOeZ5wCLcBGAs/s1600/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="CANAIS PREMIUM",BR:FOX LIFE HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141904
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="BR:FOX LIFE SD*" tvg-logo="https://3.bp.blogspot.com/-kkgS6vxaBDs/WqvTa6gwcjI/AAAAAAAAAbw/AxdcPZ6oNUQAvqEGoLtzMDEyC1qPOeZ5wCLcBGAs/s1600/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="CANAIS PREMIUM",BR:FOX LIFE SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141905
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="BR:Fox Premium 1 HD=" tvg-logo="https://2.bp.blogspot.com/-yiG6V6GYh-0/WqvTbVbM6SI/AAAAAAAAAb0/LXN5wKUaC-AqFxAPL1XnKAEHhz8nf_z2wCLcBGAs/s1600/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="CANAIS PREMIUM",BR:Fox Premium 1 HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141903
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="BR:Fox Premium 2 HD=" tvg-logo="https://1.bp.blogspot.com/-lsxLOP9HOzo/WqvTb4_05MI/AAAAAAAAAb4/I05fBM6q-d0LT1twO2ua1zX7fzG0Gi5JwCLcBGAs/s1600/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="CANAIS PREMIUM",BR:Fox Premium 2 HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141901
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR:FOX SD*" tvg-logo="https://4.bp.blogspot.com/-G49Ms0dv_hE/WqvTac4TpWI/AAAAAAAAAbs/QHxSL0OWEwsEY-ZeX7wTK65amD1fIgnJACLcBGAs/s1600/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="CANAIS PREMIUM",BR:FOX SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141908
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="BR:Fox Sports 2 HD*" tvg-logo="https://3.bp.blogspot.com/-ExCzXcEsBKg/WqvTcw9K3uI/AAAAAAAAAcA/hZCPZXCB-vgvIVZjuMUB3gFfFZf3dTLSwCLcBGAs/s1600/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="CANAIS PREMIUM",BR:Fox Sports 2 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141895
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="BR:Fox Sports 2 SD*" tvg-logo="https://3.bp.blogspot.com/-ExCzXcEsBKg/WqvTcw9K3uI/AAAAAAAAAcA/hZCPZXCB-vgvIVZjuMUB3gFfFZf3dTLSwCLcBGAs/s1600/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="CANAIS PREMIUM",BR:Fox Sports 2 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141896
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="BR:Fox Sports HD*" tvg-logo="https://3.bp.blogspot.com/-6UiJ1oEVJzc/WqvTcepjeOI/AAAAAAAAAb8/0JhPbfaAL9kDKeSPC9Uj2Vn6uUfVXutuwCLcBGAs/s1600/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="CANAIS PREMIUM",BR:Fox Sports HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141898
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="BR:Fox Sports SD*" tvg-logo="https://3.bp.blogspot.com/-6UiJ1oEVJzc/WqvTcepjeOI/AAAAAAAAAb8/0JhPbfaAL9kDKeSPC9Uj2Vn6uUfVXutuwCLcBGAs/s1600/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="CANAIS PREMIUM",BR:Fox Sports SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141899
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="BR:FX HD*" tvg-logo="https://3.bp.blogspot.com/-hJ-9gJZnN3I/WqvTd171VXI/AAAAAAAAAcE/krLmb9QTinMStwJ4e2PHZHS3dIPKJ2yIgCLcBGAs/s1600/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="CANAIS PREMIUM",BR:FX HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141866
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="BR:FX SD*" tvg-logo="https://3.bp.blogspot.com/-hJ-9gJZnN3I/WqvTd171VXI/AAAAAAAAAcE/krLmb9QTinMStwJ4e2PHZHS3dIPKJ2yIgCLcBGAs/s1600/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="CANAIS PREMIUM",BR:FX SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141867
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR:Gloob HD*" tvg-logo="https://3.bp.blogspot.com/-x16BRujGjSw/WqvThQl9WBI/AAAAAAAAAcs/Zj1KrysHaAY9oviAzlzF7IQMEQagYTd6wCLcBGAs/s1600/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="CANAIS PREMIUM",BR:Gloob HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141864
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR:Gloob SD*" tvg-logo="https://3.bp.blogspot.com/-x16BRujGjSw/WqvThQl9WBI/AAAAAAAAAcs/Zj1KrysHaAY9oviAzlzF7IQMEQagYTd6wCLcBGAs/s1600/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="CANAIS PREMIUM",BR:Gloob SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141865
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR:GNT HD*" tvg-logo="https://4.bp.blogspot.com/-2Sp2DsOkoUM/WqvThyBHU8I/AAAAAAAAAcw/daJCX8-uBts2Ry_IRDs_YtQr3_2wtFvEwCLcBGAs/s1600/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="CANAIS PREMIUM",BR:GNT HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141861
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR:GNT SD*" tvg-logo="https://4.bp.blogspot.com/-2Sp2DsOkoUM/WqvThyBHU8I/AAAAAAAAAcw/daJCX8-uBts2Ry_IRDs_YtQr3_2wtFvEwCLcBGAs/s1600/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="CANAIS PREMIUM",BR:GNT SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141862
+#EXTINF:-1 tvg-id="H2.br" tvg-name="BR:H2 HD*" tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="CANAIS PREMIUM",BR:H2 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141859
+#EXTINF:-1 tvg-id="H2.br" tvg-name="BR:H2 SD*" tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="CANAIS PREMIUM",BR:H2 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141860
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="BR:HBO 2 HD*" tvg-logo="https://2.bp.blogspot.com/--bM9qZHisTA/WqvTjaZDdGI/AAAAAAAAAc8/9Thy9en62ZU5cXsW7828TiTem3cC2JOawCLcBGAs/s1600/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="CANAIS PREMIUM",BR:HBO 2 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141854
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="BR:HBO 2 SD*" tvg-logo="https://2.bp.blogspot.com/--bM9qZHisTA/WqvTjaZDdGI/AAAAAAAAAc8/9Thy9en62ZU5cXsW7828TiTem3cC2JOawCLcBGAs/s1600/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="CANAIS PREMIUM",BR:HBO 2 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141855
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="BR:HBO Family HD=" tvg-logo="https://1.bp.blogspot.com/-7uitk8TLIIU/WqvTj36FMUI/AAAAAAAAAdA/r4hOWrjc4FIJvrFiCxW8cIvdETuvAI2EgCLcBGAs/s1600/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="CANAIS PREMIUM",BR:HBO Family HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141852
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="BR:HBO Family SD*" tvg-logo="https://1.bp.blogspot.com/-7uitk8TLIIU/WqvTj36FMUI/AAAAAAAAAdA/r4hOWrjc4FIJvrFiCxW8cIvdETuvAI2EgCLcBGAs/s1600/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="CANAIS PREMIUM",BR:HBO Family SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141853
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="BR:HBO HD*" tvg-logo="https://3.bp.blogspot.com/-_zSPeoaaJ3w/WqvTi90SJTI/AAAAAAAAAc4/H12ZM4pC3LYoassT25tacdUQjEEFv2crACLcBGAs/s1600/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="CANAIS PREMIUM",BR:HBO HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141856
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus HD*" tvg-logo="https://3.bp.blogspot.com/-MMFUbv91NHk/WqvTkbnJJTI/AAAAAAAAAdE/niFwlj26Uj8Dcxwsp-V_2fZ-f5eybfdnQCLcBGAs/s1600/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="CANAIS PREMIUM",BR:HBO Plus HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141848
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus SD*" tvg-logo="https://3.bp.blogspot.com/-MMFUbv91NHk/WqvTkbnJJTI/AAAAAAAAAdE/niFwlj26Uj8Dcxwsp-V_2fZ-f5eybfdnQCLcBGAs/s1600/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="CANAIS PREMIUM",BR:HBO Plus SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141849
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus*e HD*" tvg-logo="https://2.bp.blogspot.com/-uMKoDROjsBc/WqvTk9AoBRI/AAAAAAAAAdI/0FWcs2n5pWMQAyt7VUuLk08LO340tPpXQCLcBGAs/s1600/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="CANAIS PREMIUM",BR:HBO Plus*e HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141850
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR:HBO Plus*e SD*" tvg-logo="https://2.bp.blogspot.com/-uMKoDROjsBc/WqvTk9AoBRI/AAAAAAAAAdI/0FWcs2n5pWMQAyt7VUuLk08LO340tPpXQCLcBGAs/s1600/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="CANAIS PREMIUM",BR:HBO Plus*e SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141851
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="BR:HBO SD*" tvg-logo="https://3.bp.blogspot.com/-_zSPeoaaJ3w/WqvTi90SJTI/AAAAAAAAAc4/H12ZM4pC3LYoassT25tacdUQjEEFv2crACLcBGAs/s1600/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="CANAIS PREMIUM",BR:HBO SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141857
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="BR:HBO Signature HD*" tvg-logo="https://4.bp.blogspot.com/-9lokj6SJA34/WqvTlPvuKTI/AAAAAAAAAdM/1kycmfLxPy0_KSvJgvuDV_KzUWZeWxX9wCLcBGAs/s1600/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="CANAIS PREMIUM",BR:HBO Signature HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141846
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="BR:HBO Signature SD*" tvg-logo="https://4.bp.blogspot.com/-9lokj6SJA34/WqvTlPvuKTI/AAAAAAAAAdM/1kycmfLxPy0_KSvJgvuDV_KzUWZeWxX9wCLcBGAs/s1600/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="CANAIS PREMIUM",BR:HBO Signature SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141847
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR:History Channel HD*" tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="CANAIS PREMIUM",BR:History Channel HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141843
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR:History Channel SD*" tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="CANAIS PREMIUM",BR:History Channel SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141844
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="BR:I-Sat SD*" tvg-logo="https://1.bp.blogspot.com/-TQq8lem7LBI/WqvTlXcDtJI/AAAAAAAAAdQ/CEicFAqHf4YD-Eo6-s11OeyxfUxUXT8vACLcBGAs/s1600/1516311856_0a07415f1bd72f9c6e8dad71c5957859d222174d.jpg" group-title="CANAIS PREMIUM",BR:I-Sat SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141845
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="BR:Investigação Discovery HD=" tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="CANAIS PREMIUM",BR:Investigação Discovery HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141930
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="BR:Investigação Discovery SD*" tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="CANAIS PREMIUM",BR:Investigação Discovery SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141931
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR:Lifetime HD*" tvg-logo="https://1.bp.blogspot.com/-vrxPzQJtEbI/WqvTmpsw7UI/AAAAAAAAAdg/qKnkQMUsosACYdVooH1YYt5AqJO3iWwOACLcBGAs/s1600/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="CANAIS PREMIUM",BR:Lifetime HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141840
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR:Lifetime SD*" tvg-logo="https://1.bp.blogspot.com/-vrxPzQJtEbI/WqvTmpsw7UI/AAAAAAAAAdg/qKnkQMUsosACYdVooH1YYt5AqJO3iWwOACLcBGAs/s1600/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="CANAIS PREMIUM",BR:Lifetime SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141841
+#EXTINF:-1 tvg-id="Max.br" tvg-name="BR:Max HD*" tvg-logo="https://3.bp.blogspot.com/-qHfcFD21TQg/WqvTnJtIYoI/AAAAAAAAAdk/nEweBbuRDg85xE9RM-0C_DhDjdi9LTAJgCLcBGAs/s1600/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="CANAIS PREMIUM",BR:Max HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141838
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="BR:Max Prime HD*" tvg-logo="https://1.bp.blogspot.com/-YnCXNKXJ6cU/WqvTnD9TMsI/AAAAAAAAAdo/CXJtbaWFKXY2CTZVCk5IZdRKlWpANTWOwCLcBGAs/s1600/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="CANAIS PREMIUM",BR:Max Prime HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141836
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="BR:Max Prime SD*" tvg-logo="https://1.bp.blogspot.com/-YnCXNKXJ6cU/WqvTnD9TMsI/AAAAAAAAAdo/CXJtbaWFKXY2CTZVCk5IZdRKlWpANTWOwCLcBGAs/s1600/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="CANAIS PREMIUM",BR:Max Prime SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141837
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="BR:Max Prime*e SD*" tvg-logo="https://1.bp.blogspot.com/-YnCXNKXJ6cU/WqvTnD9TMsI/AAAAAAAAAdo/CXJtbaWFKXY2CTZVCk5IZdRKlWpANTWOwCLcBGAs/s1600/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="CANAIS PREMIUM",BR:Max Prime*e SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141835
+#EXTINF:-1 tvg-id="Max.br" tvg-name="BR:Max SD*" tvg-logo="https://3.bp.blogspot.com/-qHfcFD21TQg/WqvTnJtIYoI/AAAAAAAAAdk/nEweBbuRDg85xE9RM-0C_DhDjdi9LTAJgCLcBGAs/s1600/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="CANAIS PREMIUM",BR:Max SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141839
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="BR:Max Up SD*" tvg-logo="https://4.bp.blogspot.com/-ec7EFqxVea0/WqvTnhE63tI/AAAAAAAAAds/UpGX8o9tK7YVD03cLt-xlw338aJgFz-kgCLcBGAs/s1600/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="CANAIS PREMIUM",BR:Max Up SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141831
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR:MEGA PIX HD*" tvg-logo="https://4.bp.blogspot.com/-TU5zS-ZRzr8/WqvToD8JipI/AAAAAAAAAd0/bFDvKDJuYJoLs3UOlycDrozwYLzC5cKnQCLcBGAs/s1600/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="CANAIS PREMIUM",BR:MEGA PIX HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141833
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR:MEGA PIX SD*" tvg-logo="https://4.bp.blogspot.com/-TU5zS-ZRzr8/WqvToD8JipI/AAAAAAAAAd0/bFDvKDJuYJoLs3UOlycDrozwYLzC5cKnQCLcBGAs/s1600/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="CANAIS PREMIUM",BR:MEGA PIX SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141834
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="BR:MTV HD*" tvg-logo="https://3.bp.blogspot.com/-c10KhKKWcCo/WqvToVSIrXI/AAAAAAAAAdw/9y3UiWxpFbUGkZdfxDttZT7NxLgxIh_PACLcBGAs/s1600/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="CANAIS PREMIUM",BR:MTV HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141828
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="BR:MTV SD*" tvg-logo="https://3.bp.blogspot.com/-c10KhKKWcCo/WqvToVSIrXI/AAAAAAAAAdw/9y3UiWxpFbUGkZdfxDttZT7NxLgxIh_PACLcBGAs/s1600/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="CANAIS PREMIUM",BR:MTV SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141829
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR:Multishow HD*" tvg-logo="https://4.bp.blogspot.com/-vfVZeD00t-Q/WqvTpCeCODI/AAAAAAAAAd8/C31degynfnYJ5MMzArdcLHi4zUNvWsVwgCLcBGAs/s1600/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="CANAIS PREMIUM",BR:Multishow HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141825
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR:Multishow SD*" tvg-logo="https://4.bp.blogspot.com/-vfVZeD00t-Q/WqvTpCeCODI/AAAAAAAAAd8/C31degynfnYJ5MMzArdcLHi4zUNvWsVwgCLcBGAs/s1600/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="CANAIS PREMIUM",BR:Multishow SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141826
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="BR:NatGeo Kids HD*" tvg-logo="https://2.bp.blogspot.com/-Y2rtUjbV4nM/WqvTpbfOVZI/AAAAAAAAAeA/E-H35Ouqx0MfyO50RjTY9QYdHTUoXfLhwCLcBGAs/s1600/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="CANAIS PREMIUM",BR:NatGeo Kids HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141928
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="BR:NatGeo Kids SD*" tvg-logo="https://2.bp.blogspot.com/-Y2rtUjbV4nM/WqvTpbfOVZI/AAAAAAAAAeA/E-H35Ouqx0MfyO50RjTY9QYdHTUoXfLhwCLcBGAs/s1600/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="CANAIS PREMIUM",BR:NatGeo Kids SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141929
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="BR:NatGeo Wild HD*" tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="CANAIS PREMIUM",BR:NatGeo Wild HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141823
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="BR:NatGeo Wild SD*" tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="CANAIS PREMIUM",BR:NatGeo Wild SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141824
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR:National Geographic HD*" tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="CANAIS PREMIUM",BR:National Geographic HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141821
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR:National Geographic SD*" tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="CANAIS PREMIUM",BR:National Geographic SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141822
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR:Nick Jr HD*" tvg-logo="https://1.bp.blogspot.com/-FDjOqWO2mUM/WqvTrcbyu8I/AAAAAAAAAeU/rVYGXOQNhzkGlAXVLT--Db58L3nLOCoQACLcBGAs/s1600/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="CANAIS PREMIUM",BR:Nick Jr HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141819
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR:Nick Jr SD*" tvg-logo="https://1.bp.blogspot.com/-FDjOqWO2mUM/WqvTrcbyu8I/AAAAAAAAAeU/rVYGXOQNhzkGlAXVLT--Db58L3nLOCoQACLcBGAs/s1600/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="CANAIS PREMIUM",BR:Nick Jr SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141820
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR:Nickelodeon HD*" tvg-logo="https://4.bp.blogspot.com/-uSmTfg3rhdA/WqvTq0NOzgI/AAAAAAAAAeQ/HyyyY29WUU8R06v_vNCa5-euSmXzKx-PwCLcBGAs/s1600/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="CANAIS PREMIUM",BR:Nickelodeon HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141817
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR:Nickelodeon SD*" tvg-logo="https://4.bp.blogspot.com/-uSmTfg3rhdA/WqvTq0NOzgI/AAAAAAAAAeQ/HyyyY29WUU8R06v_vNCa5-euSmXzKx-PwCLcBGAs/s1600/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="CANAIS PREMIUM",BR:Nickelodeon SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141818
+#EXTINF:-1 tvg-id="Off.br" tvg-name="BR:OFF HD*" tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="CANAIS PREMIUM",BR:OFF HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141815
+#EXTINF:-1 tvg-id="Off.br" tvg-name="BR:OFF SD*" tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="CANAIS PREMIUM",BR:OFF SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141816
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="BR:Paramount HD*" tvg-logo="https://2.bp.blogspot.com/-KCwPwZvjo-g/WqvTtbxoVrI/AAAAAAAAAek/Kw1vvMnoI843cdoysE8iS7HwbNIoSisegCLcBGAs/s1600/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="CANAIS PREMIUM",BR:Paramount HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141795
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="BR:Paramount SD*" tvg-logo="https://2.bp.blogspot.com/-KCwPwZvjo-g/WqvTtbxoVrI/AAAAAAAAAek/Kw1vvMnoI843cdoysE8iS7HwbNIoSisegCLcBGAs/s1600/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="CANAIS PREMIUM",BR:Paramount SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141796
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="BR:Premiere 2 HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 2 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141810
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="BR:Premiere 2 SD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 2 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141811
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="BR:Premiere 3 HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 3 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141808
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="BR:Premiere 3 SD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 3 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141809
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="BR:PREMIERE 4 HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:PREMIERE 4 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141806
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="BR:Premiere 5 HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 5 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141803
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="BR:Premiere 5 SD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 5 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141804
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="BR:Premiere 6 HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 6 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141800
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="BR:Premiere 6 SD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 6 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141801
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="BR:Premiere 7 HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 7 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141797
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="BR:Premiere 7 SD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere 7 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141798
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="BR:Premiere Clubes HD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere Clubes HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141813
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="BR:Premiere CLUBES SD*" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="CANAIS PREMIUM",BR:Premiere CLUBES SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141814
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="BR:prime box brasil sd*" tvg-logo="https://3.bp.blogspot.com/-YchvAMb33R0/WqvTuxKYswI/AAAAAAAAAew/MeD73X2CG9cNLoWvq1ZS1HiAZJdOdKdqQCLcBGAs/s1600/1516322935_e965839bf1ec73cbf0309d15c7efbf654570741c.png" group-title="CANAIS PREMIUM",BR:prime box brasil sd*
+http://fonte.iptvmaishd.com:25461/4247/4247/141717
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR:Record Campinas HD=" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="CANAIS PREMIUM",BR:Record Campinas HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141791
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="BR:Record News HD*" tvg-logo="https://1.bp.blogspot.com/-FJD2M-3zisA/WqvTwGE0x7I/AAAAAAAAAfE/U8d0UKLWafwBcZjz9FIUoOOUbt0sshutwCLcBGAs/s1600/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="CANAIS PREMIUM",BR:Record News HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141789
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="BR:Record News SD*" tvg-logo="https://1.bp.blogspot.com/-FJD2M-3zisA/WqvTwGE0x7I/AAAAAAAAAfE/U8d0UKLWafwBcZjz9FIUoOOUbt0sshutwCLcBGAs/s1600/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="CANAIS PREMIUM",BR:Record News SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141790
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR:Record SP HD*" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="CANAIS PREMIUM",BR:Record SP HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141792
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR:Record SP SD*" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="CANAIS PREMIUM",BR:Record SP SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141793
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="BR:Rede TV HD*" tvg-logo="https://1.bp.blogspot.com/-avn2dEhGrRQ/WqvTxsaIicI/AAAAAAAAAfQ/3m3yDkKLC5swh3FjxptXZDaMihj_e6zeACLcBGAs/s1600/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="CANAIS PREMIUM",BR:Rede TV HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141788
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="BR:Rede Vida HD*" tvg-logo="https://2.bp.blogspot.com/-Gvxs3mCVanA/WqvTxhaa-lI/AAAAAAAAAfU/zjt_mEFFSnc9_jebZZ9mglRlBfJ5G4mHwCLcBGAs/s1600/1516324691_08c354cb70083b600155c5b2e315e559d7f01fac.png" group-title="CANAIS PREMIUM",BR:Rede Vida HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141770
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR:SBT HD*" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="CANAIS PREMIUM",BR:SBT HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141774
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR:SBT Nordeste HD*" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="CANAIS PREMIUM",BR:SBT Nordeste HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141772
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR:SBT SD*" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="CANAIS PREMIUM",BR:SBT SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141775
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR:Space HD*" tvg-logo="https://1.bp.blogspot.com/-lkkF5UIf-Gg/WqvTzWmGugI/AAAAAAAAAfs/Nnce4iRGfWs_a5cbCo6uB9jm5fP-uienACLcBGAs/s1600/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="CANAIS PREMIUM",BR:Space HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141777
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR:Space SD*" tvg-logo="https://1.bp.blogspot.com/-lkkF5UIf-Gg/WqvTzWmGugI/AAAAAAAAAfs/Nnce4iRGfWs_a5cbCo6uB9jm5fP-uienACLcBGAs/s1600/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="CANAIS PREMIUM",BR:Space SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141778
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="BR:SporTV 2 HD=" tvg-logo="https://2.bp.blogspot.com/-2u2HJrPa8-c/WqvTz7EefRI/AAAAAAAAAf0/msT5LO00rIMiChKlasT8Vhy0TwBFFXrbQCLcBGAs/s1600/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="CANAIS PREMIUM",BR:SporTV 2 HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141783
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="BR:SporTV 2 SD*" tvg-logo="https://2.bp.blogspot.com/-2u2HJrPa8-c/WqvTz7EefRI/AAAAAAAAAf0/msT5LO00rIMiChKlasT8Vhy0TwBFFXrbQCLcBGAs/s1600/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="CANAIS PREMIUM",BR:SporTV 2 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141784
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="BR:SPORTV 3 HD*" tvg-logo="https://2.bp.blogspot.com/-isiNNoPARoU/WqvT0Ebb0NI/AAAAAAAAAf4/BeTILqaF48AofEK4SuLOhHmQfK5J5oSUACLcBGAs/s1600/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="CANAIS PREMIUM",BR:SPORTV 3 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141780
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="BR:SporTV 3 SD*" tvg-logo="https://2.bp.blogspot.com/-isiNNoPARoU/WqvT0Ebb0NI/AAAAAAAAAf4/BeTILqaF48AofEK4SuLOhHmQfK5J5oSUACLcBGAs/s1600/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="CANAIS PREMIUM",BR:SporTV 3 SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141781
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="BR:SPORTV HD*" tvg-logo="https://2.bp.blogspot.com/-GpdcBjqsXoQ/WqvTzld62lI/AAAAAAAAAfw/aq1ryUjzJ7MzpIwrN2YMkvaWDxK0W2KRQCLcBGAs/s1600/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="CANAIS PREMIUM",BR:SPORTV HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141786
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="BR:SporTV SD*" tvg-logo="https://2.bp.blogspot.com/-GpdcBjqsXoQ/WqvTzld62lI/AAAAAAAAAfw/aq1ryUjzJ7MzpIwrN2YMkvaWDxK0W2KRQCLcBGAs/s1600/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="CANAIS PREMIUM",BR:SporTV SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141787
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Studio Universal HD*" tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="CANAIS PREMIUM",BR:Studio Universal HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141768
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Studio Universal SD=" tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="CANAIS PREMIUM",BR:Studio Universal SD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141769
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR:SyFy HD=" tvg-logo="https://1.bp.blogspot.com/-w1SZmZcO_As/WqvT1Ll6hHI/AAAAAAAAAgA/xoQ1nqVX9AE988oi_G4QewRB9x4s6LSIwCLcBGAs/s1600/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="CANAIS PREMIUM",BR:SyFy HD=
+http://fonte.iptvmaishd.com:25461/4247/4247/141766
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR:SyFy SD*" tvg-logo="https://1.bp.blogspot.com/-w1SZmZcO_As/WqvT1Ll6hHI/AAAAAAAAAgA/xoQ1nqVX9AE988oi_G4QewRB9x4s6LSIwCLcBGAs/s1600/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="CANAIS PREMIUM",BR:SyFy SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141767
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="BR:TBS HD*" tvg-logo="https://4.bp.blogspot.com/-a13Lr6Qs_gg/WqvT1c6LzII/AAAAAAAAAgE/2-dyFpfglHQBp2vb8wris5yJlLgXoFPOgCLcBGAs/s1600/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="CANAIS PREMIUM",BR:TBS HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141764
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="BR:TBS SD*" tvg-logo="https://4.bp.blogspot.com/-a13Lr6Qs_gg/WqvT1c6LzII/AAAAAAAAAgE/2-dyFpfglHQBp2vb8wris5yJlLgXoFPOgCLcBGAs/s1600/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="CANAIS PREMIUM",BR:TBS SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141765
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="BR:TCM HD*" tvg-logo="https://2.bp.blogspot.com/-pCZQ0GQb22I/WqvT4tD3gBI/AAAAAAAAAgg/ULVqRt5kYhcGlWl5TdjJXqPUWmgbjKAHQCLcBGAs/s1600/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="CANAIS PREMIUM",BR:TCM HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141744
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="BR:TCM SD*" tvg-logo="https://2.bp.blogspot.com/-pCZQ0GQb22I/WqvT4tD3gBI/AAAAAAAAAgg/ULVqRt5kYhcGlWl5TdjJXqPUWmgbjKAHQCLcBGAs/s1600/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="CANAIS PREMIUM",BR:TCM SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141745
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="BR:Telecine Action HD*" tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="CANAIS PREMIUM",BR:Telecine Action HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141762
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="BR:Telecine Action SD*" tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="CANAIS PREMIUM",BR:Telecine Action SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141763
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="BR:Telecine Cult HD*" tvg-logo="https://3.bp.blogspot.com/-CgwPZPiJvgQ/WqvT2XOgIhI/AAAAAAAAAgM/ntjW9B5fIEAKcmXHYPw3htfKzVE74rtewCLcBGAs/s1600/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="CANAIS PREMIUM",BR:Telecine Cult HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141759
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="BR:Telecine Cult SD*" tvg-logo="https://3.bp.blogspot.com/-CgwPZPiJvgQ/WqvT2XOgIhI/AAAAAAAAAgM/ntjW9B5fIEAKcmXHYPw3htfKzVE74rtewCLcBGAs/s1600/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="CANAIS PREMIUM",BR:Telecine Cult SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141760
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="BR:telecine Fun HD*" tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="CANAIS PREMIUM",BR:telecine Fun HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141756
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="BR:Telecine Fun SD*" tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="CANAIS PREMIUM",BR:Telecine Fun SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141757
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="BR:Telecine Pipoca HD*" tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="CANAIS PREMIUM",BR:Telecine Pipoca HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141753
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="BR:Telecine Pipoca SD*" tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="CANAIS PREMIUM",BR:Telecine Pipoca SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141754
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="BR:Telecine Premium SD*" tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s1600/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="CANAIS PREMIUM",BR:Telecine Premium SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141751
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="BR:Telecine Touch HD*" tvg-logo="https://4.bp.blogspot.com/-tPAoNZ9x26A/WqvT4DXTL_I/AAAAAAAAAgc/hK9mp190eCIER-IUzcULFIWQ_ltf-D4iwCLcBGAs/s1600/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="CANAIS PREMIUM",BR:Telecine Touch HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141747
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="BR:Telecine Touch SD*" tvg-logo="https://4.bp.blogspot.com/-tPAoNZ9x26A/WqvT4DXTL_I/AAAAAAAAAgc/hK9mp190eCIER-IUzcULFIWQ_ltf-D4iwCLcBGAs/s1600/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="CANAIS PREMIUM",BR:Telecine Touch SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141748
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="BR:TLC SD*" tvg-logo="https://3.bp.blogspot.com/-yj9Np1y6kes/WqvT6JRKomI/AAAAAAAAAgw/tw9LURKrUhArK4Y3UPvk8l_rw4cKGRY2ACLcBGAs/s1600/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="CANAIS PREMIUM",BR:TLC SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141743
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="BR:TNT HD*" tvg-logo="https://3.bp.blogspot.com/-ihUbMxUgoYg/WqvT6stuTVI/AAAAAAAAAgs/Tv_Ey7nzi4INrkPoikhnBz1yzd7OwYlFACLcBGAs/s1600/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="CANAIS PREMIUM",BR:TNT HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141740
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="BR:TNT SD*" tvg-logo="https://3.bp.blogspot.com/-ihUbMxUgoYg/WqvT6stuTVI/AAAAAAAAAgs/Tv_Ey7nzi4INrkPoikhnBz1yzd7OwYlFACLcBGAs/s1600/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="CANAIS PREMIUM",BR:TNT SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141741
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="BR:TNT Séries HD*" tvg-logo="https://1.bp.blogspot.com/-Go3uPFTIRKE/WqvT7IU--dI/AAAAAAAAAg0/bzl1iAj1DfkxmAQavrVazUseRclfkYCvwCLcBGAs/s1600/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="CANAIS PREMIUM",BR:TNT Séries HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141737
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="BR:TNT Séries SD*" tvg-logo="https://1.bp.blogspot.com/-Go3uPFTIRKE/WqvT7IU--dI/AAAAAAAAAg0/bzl1iAj1DfkxmAQavrVazUseRclfkYCvwCLcBGAs/s1600/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="CANAIS PREMIUM",BR:TNT Séries SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141738
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR:Tooncast HD*" tvg-logo="https://1.bp.blogspot.com/-fEQCFXIfkCg/WqvT7MNO9wI/AAAAAAAAAg4/BfDXLqyrFYQ6EKAoeqPYHduz37PKgZQygCLcBGAs/s1600/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="CANAIS PREMIUM",BR:Tooncast HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141734
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR:Tooncast SD*" tvg-logo="https://1.bp.blogspot.com/-fEQCFXIfkCg/WqvT7MNO9wI/AAAAAAAAAg4/BfDXLqyrFYQ6EKAoeqPYHduz37PKgZQygCLcBGAs/s1600/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="CANAIS PREMIUM",BR:Tooncast SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141735
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="BR:TV Aparecida HD*" tvg-logo="https://oanunciador.files.wordpress.com/2011/07/logo_vert_3d-2.jpg" group-title="CANAIS PREMIUM",BR:TV Aparecida HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141732
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="BR:TV Cultura HD*" tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/TV_Cultura-logo.jpg" group-title="CANAIS PREMIUM",BR:TV Cultura HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141730
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="BR:TV Cultura SD*" tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/TV_Cultura-logo.jpg" group-title="CANAIS PREMIUM",BR:TV Cultura SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141731
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Universal Channel HD*" tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="CANAIS PREMIUM",BR:Universal Channel HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141728
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="BR:Universal Channel SD*" tvg-logo="https://2.bp.blogspot.com/-5E1M8XYZtfc/WqvT-tPFWgI/AAAAAAAAAhg/cAdiOhjnw-ADB4BYcPs3hBq_c86FA-bCgCLcBGAs/s1600/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="CANAIS PREMIUM",BR:Universal Channel SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141729
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="BR:VH1  megahits SD*" tvg-logo="https://2.bp.blogspot.com/-T5-C_PqAY0o/WqvT-1Lj9tI/AAAAAAAAAhk/4yoPa_ov86c1K3IQQwYynIeLmME5XDleACLcBGAs/s1600/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="CANAIS PREMIUM",BR:VH1  megahits SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141726
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="BR:VH1 HD*" tvg-logo="https://2.bp.blogspot.com/-T5-C_PqAY0o/WqvT-1Lj9tI/AAAAAAAAAhk/4yoPa_ov86c1K3IQQwYynIeLmME5XDleACLcBGAs/s1600/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="CANAIS PREMIUM",BR:VH1 HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141725
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="BR:VIVA HD*" tvg-logo="https://4.bp.blogspot.com/-GWGf6snd5_4/WqvT_ICSp3I/AAAAAAAAAho/iR8OdmwND5MYP7Xvj44A6l8Kwym-DK6RwCLcBGAs/s1600/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="CANAIS PREMIUM",BR:VIVA HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141723
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="BR:VIVA SD*" tvg-logo="https://4.bp.blogspot.com/-GWGf6snd5_4/WqvT_ICSp3I/AAAAAAAAAho/iR8OdmwND5MYP7Xvj44A6l8Kwym-DK6RwCLcBGAs/s1600/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="CANAIS PREMIUM",BR:VIVA SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141724
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="BR:Warner Channel HD*" tvg-logo="https://4.bp.blogspot.com/-t-XkHMXGvi0/WqvT_vBuqvI/AAAAAAAAAhs/qPrgt7toNSgSm3ZudSHTqgkZUTgik1yQACLcBGAs/s1600/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="CANAIS PREMIUM",BR:Warner Channel HD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141720
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="BR:Warner Channel SD*" tvg-logo="https://4.bp.blogspot.com/-t-XkHMXGvi0/WqvT_vBuqvI/AAAAAAAAAhs/qPrgt7toNSgSm3ZudSHTqgkZUTgik1yQACLcBGAs/s1600/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="CANAIS PREMIUM",BR:Warner Channel SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141721
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="BR:Woohoo SD*" tvg-logo="https://4.bp.blogspot.com/-UZdSAYJwN8k/WqvUAGIvTXI/AAAAAAAAAhw/fJ1IHTK7-ncBhevo5ImhnNhEo9qRc_RvQCLcBGAs/s1600/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="CANAIS PREMIUM",BR:Woohoo SD*
+http://fonte.iptvmaishd.com:25461/4247/4247/141718
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="BR:Zoomoo sd*" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" group-title="CANAIS PREMIUM",BR:Zoomoo sd*
+http://fonte.iptvmaishd.com:25461/4247/4247/141716
