@@ -496,13 +496,6 @@ http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/146621
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: ZOOMOO
 http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/164348
 
-
-
-#EXTM3U
-
-
-
-
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULL HD H265" tvg-logo="http://listaccess.me/Logo/A&E.png" group-title="CANAIS PREMIUM 2",A&E FULL HD H265
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E SD H264" tvg-logo="http://listaccess.me/Logo/A&E.png" group-title="CANAIS PREMIUM 2",A&E SD H264
@@ -549,11 +542,11 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53189.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/34318.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND GOIANIA FULL HD H265" tvg-logo="http://listaccess.me/Logo/Band.png" group-title="CANAIS PREMIUM 2",BAND GOIANIA FULL HD H265
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52915.m3u8
-#EXTINF:-1 tvg-id="Band News HD [Alter]" tvg-name="BAND NEWS HD" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
+#EXTINF:-1 tvg-id="Band News HD [Alter]" tvg-name="BAND NEWS HD" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="CANAIS PREMIUM 2",BAND NEWS HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD H264" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="NOTICIAS",BAND NEWS SD H264
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD H264" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="CANAIS PREMIUM 2",BAND NEWS SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53188.m3u8
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="NOTICIAS",BAND NEWS
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="CANAIS PREMIUM 2",BAND NEWS
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43499.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS PREMIUM 2",BAND SP HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43373.m3u8
@@ -625,7 +618,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43462.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53194.m3u8
 #EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY" tvg-logo="http://listaccess.me/Logo/Sony1.png" group-title="CANAIS PREMIUM 2",CANAL SONY
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="https://pbs.twimg.com/profile_images/727963016579457024/cv_s6Xva_400x400.jpg" group-title="RELIGIOSOS",CANCAO NOVA
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="https://pbs.twimg.com/profile_images/727963016579457024/cv_s6Xva_400x400.jpg" group-title="CANAIS PREMIUM 2",CANCAO NOVA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43562.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK FULL HD H265" tvg-logo="http://listaccess.me/Logo/CartoonNetwork1.png" group-title="CANAIS PREMIUM 2",CARTOON NETWORK FULL HD H265
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52992.m3u8
@@ -795,7 +788,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43414.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52980.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN INTERNACIONAL HD" tvg-logo="http://www.speedbol.com.br/wp-content/uploads/2017/12/ESPN-INTERNACIONAL.png" group-title="CANAIS PREMIUM 2",ESPN INTERNACIONAL HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FATIMA TV HD" tvg-logo="https://www.wtvision.com/wp-content/uploads/Fatima-tv-2.jpg" group-title="RELIGIOSOS",FATIMA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="FATIMA TV HD" tvg-logo="https://www.wtvision.com/wp-content/uploads/Fatima-tv-2.jpg" group-title="CANAIS PREMIUM 2",FATIMA TV HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43560.m3u8
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="http://english.amazoniafishing.com.br/wp-content/uploads/2015/02/logo-fish-tv.jpg" group-title="CANAIS PREMIUM 2",FISH TV
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43592.m3u8
@@ -883,13 +876,13 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43518.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52972.m3u8
 #EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS SD H264" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="CANAIS PREMIUM 2",GLOBO MINAS SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53111.m3u8
-#EXTINF:-1 tvg-id="Globo News FHD" tvg-name="GLOBO NEWS FULL HD H265" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="NOTICIAS",GLOBO NEWS FULL HD H265
+#EXTINF:-1 tvg-id="Globo News FHD" tvg-name="GLOBO NEWS FULL HD H265" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS FULL HD H265
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52971.m3u8
 #EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43665.m3u8
-#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="NOTICIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52914.m3u8
-#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS SD H264" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="NOTICIAS",GLOBO NEWS SD H264
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS SD H264" tvg-logo="http://listaccess.me/Logo/GloboNews1.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53110.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://listaccess.me/Logo/Globo1.png" group-title="CANAIS PREMIUM 2",Globo Nordeste HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43673.m3u8
@@ -1095,7 +1088,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53121.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43479.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon [Alter]" tvg-name="NICKELODEON" tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="CANAIS PREMIUM 2",NICKELODEON
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43480.m3u8
-#EXTINF:-1 tvg-id="NovoTempo" tvg-name="NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",NOVO TEMPO
+#EXTINF:-1 tvg-id="NovoTempo" tvg-name="NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS PREMIUM 2",NOVO TEMPO
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NSCTV Santa Catarina FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS PREMIUM 2",NSCTV Santa Catarina FHD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52952.m3u8
@@ -1197,11 +1190,11 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/34322.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/34321.m3u8
 #EXTINF:-1 tvg-id="Record FHD" tvg-name="RECORD FULL HD" tvg-logo="http://listaccess.me/Logo/Record1.png" group-title="CANAIS PREMIUM 2",RECORD FULL HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52940.m3u8
-#EXTINF:-1 tvg-id="Record News HD [Alter]" tvg-name="RECORD NEWS HD" tvg-logo="http://listaccess.me/Logo/RecordNews1.png" group-title="NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-id="Record News HD [Alter]" tvg-name="RECORD NEWS HD" tvg-logo="http://listaccess.me/Logo/RecordNews1.png" group-title="CANAIS PREMIUM 2",RECORD NEWS HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD H 264" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="NOTICIAS",RECORD NEWS SD H 264
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD H 264" tvg-logo="http://listaccess.me/Logo/bandnews.png" group-title="CANAIS PREMIUM 2",RECORD NEWS SD H 264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53198.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="http://listaccess.me/Logo/RecordNews1.png" group-title="NOTICIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="http://listaccess.me/Logo/RecordNews1.png" group-title="CANAIS PREMIUM 2",RECORD NEWS
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43496.m3u8
 #EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="http://listaccess.me/Logo/Record1.png" group-title="CANAIS PREMIUM 2",RECORD SP HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43371.m3u8
@@ -1217,9 +1210,9 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43629.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/34327.m3u8
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV*" tvg-logo="http://listaccess.me/Logo/RedeTv1.png" group-title="CANAIS PREMIUM 2",REDE TV*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/34326.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://listaccess.me/Logo/RedeVida1.png" group-title="RELIGIOSOS",REDE VIDA
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://listaccess.me/Logo/RedeVida1.png" group-title="CANAIS PREMIUM 2",REDE VIDA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43558.m3u8
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDE VIDA HD" tvg-logo="http://listaccess.me/Logo/RedeVida1.png" group-title="RELIGIOSOS",REDE VIDA HD
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDE VIDA HD" tvg-logo="http://listaccess.me/Logo/RedeVida1.png" group-title="CANAIS PREMIUM 2",REDE VIDA HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43557.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD H264" tvg-logo="http://listaccess.me/Logo/SBT1.png" group-title="CANAIS PREMIUM 2",SBT SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53175.m3u8
@@ -1335,7 +1328,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53166.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43689.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH" tvg-logo="http://listaccess.me/Logo/TelecineTouch1.png" group-title="CANAIS PREMIUM 2",TELECINE TOUCH
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43694.m3u8
-#EXTINF:-1 tvg-id="Terra Viva" tvg-name="TERRA VIVA" tvg-logo="http://tabapua.org.br/wp-content/uploads/2015/12/terra-viva.jpg" group-title="RELIGIOSOS",TERRA VIVA
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="TERRA VIVA" tvg-logo="http://tabapua.org.br/wp-content/uploads/2015/12/terra-viva.jpg" group-title="CANAIS PREMIUM 2",TERRA VIVA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43556.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL SD H264" tvg-logo="http://listaccess.me/Logo/History1.png" group-title="CANAIS PREMIUM 2",THE HISTORY CHANNEL SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53165.m3u8
@@ -1363,7 +1356,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53162.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS PREMIUM 2",TCM HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/55176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O cris" tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/12/todo-mundo-odeia-o-chris-quando-tudo-da-errado.html.jpg" group-title="CANAIS 24 HORAS",Todo Mundo Odeia O cris
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O cris" tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/12/todo-mundo-odeia-o-chris-quando-tudo-da-errado.html.jpg" group-title="CANAIS PREMIUM 2",Todo Mundo Odeia O cris
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53039.m3u8
 #EXTINF:-1 tvg-id="Tooncast [Alter]" tvg-name="TOONCAST HD" tvg-logo="https://www.turner.com/s3fs-public/location_brand_logo/icon-55_3.png" group-title="CANAIS PREMIUM 2",TOONCAST HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43477.m3u8
@@ -1379,11 +1372,11 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52924.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/52923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA SD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Logotipo_TV_Anhanguera.png" group-title="CANAIS PREMIUM 2",TV ANHANGUERA SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53208.m3u8
-#EXTINF:-1 tvg-id="Aparecida" tvg-name="TV APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
+#EXTINF:-1 tvg-id="Aparecida" tvg-name="TV APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="CANAIS PREMIUM 2",TV APARECIDA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  HD" tvg-logo="https://pbs.twimg.com/profile_images/727963016579457024/cv_s6Xva_400x400.jpg" group-title="RELIGIOSOS",TV APARECIDA  HD
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  HD" tvg-logo="https://pbs.twimg.com/profile_images/727963016579457024/cv_s6Xva_400x400.jpg" group-title="CANAIS PREMIUM 2",TV APARECIDA  HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43561.m3u8
-#EXTINF:-1 tvg-id="Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD
+#EXTINF:-1 tvg-id="Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="CANAIS PREMIUM 2",TV APARECIDA HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43554.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CAMERA SD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS PREMIUM 2",TV CAMERA SD H264
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53207.m3u8
@@ -1403,11 +1396,11 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43574.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43573.m3u8
 #EXTINF:-1 tvg-id="TV Escola" tvg-name="TV ESCOLA HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-164-canal-tv-escola.png" group-title="CANAIS PREMIUM 2",TV ESCOLA HD
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43572.m3u8
-#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="RELIGIOSOS",TV EVANGELIZAR
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="CANAIS PREMIUM 2",TV EVANGELIZAR
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43550.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf_400x400.jpg" group-title="CANAIS PREMIUM 2",TV GAZETA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Mundial" tvg-logo="https://4.bp.blogspot.com/-U4BMQVun848/V4BR2aJSYOI/AAAAAAAAuEI/xb82iDy7gOkSxIGc2HleWFxCMukWKosBQCLcB/s1600/1619829.jpg" group-title="RELIGIOSOS",TV Mundial
+#EXTINF:-1 tvg-id="" tvg-name="TV Mundial" tvg-logo="https://4.bp.blogspot.com/-U4BMQVun848/V4BR2aJSYOI/AAAAAAAAuEI/xb82iDy7gOkSxIGc2HleWFxCMukWKosBQCLcB/s1600/1619829.jpg" group-title="CANAIS PREMIUM 2",TV Mundial
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43548.m3u8
 #EXTINF:-1 tvg-id="TV Senado" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="CANAIS PREMIUM 2",TV SENADO
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/43563.m3u8
@@ -1461,7 +1454,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53071.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digimon 24hs" tvg-logo="http://images5.fanpop.com/image/photos/28000000/Tai-digimon-28077174-500-333.jpg" group-title="CANAIS PREMIUM 2",Digimon 24hs
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24HRS" tvg-logo="https://i.ytimg.com/vi/srkq_AtQ8lI/maxresdefault_live.jpg" group-title="CANAIS 24 HORAS",DOIS HOMENS E MEIO 24HRS
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24HRS" tvg-logo="https://i.ytimg.com/vi/srkq_AtQ8lI/maxresdefault_live.jpg" group-title="CANAIS PREMIUM 2",DOIS HOMENS E MEIO 24HRS
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24hrs" tvg-logo="https://1.bp.blogspot.com/-5Z8b3zC5YLw/W-tguEj4nwI/AAAAAAABJ4Q/OamEocOBSjAW9a2W1nxbyyoaIcFa5B4RwCLcBGAs/s940/dragonballsuperbroly-filme.jpg" group-title="CANAIS PREMIUM 2",DRAGON BALL SUPER 24hrs
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53072.m3u8
@@ -1503,7 +1496,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53056.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 24HRS" tvg-logo="https://i.ytimg.com/vi/AGBjI0x9VbM/maxresdefault.jpg" group-title="CANAIS PREMIUM 2",TOM E JERRY 24HRS
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 24hrs" tvg-logo="https://www.estrelando.com.br/uploads/2018/03/13/1-1520965690.gallery.jpg" group-title="CANAIS 24 HORAS",UM MALUCO NO PEDACO 24hrs
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 24hrs" tvg-logo="https://www.estrelando.com.br/uploads/2018/03/13/1-1520965690.gallery.jpg" group-title="CANAIS PREMIUM 2",UM MALUCO NO PEDACO 24hrs
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="X - MAN 24hrs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6b/X-Men.jpg/220px-X-Men.jpg" group-title="CANAIS PREMIUM 2",X - MAN 24hrs
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53058.m3u8
@@ -1533,13 +1526,13 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56908.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BICUDO O LOBISOMEM" tvg-logo="http://www.tvsinopse.kinghost.net/b/bicudo_arquivos/250px-Fangface.jpg" group-title="CANAIS PREMIUM 2",BICUDO O LOBISOMEM
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blue Dragon" tvg-logo="https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcbv_SzC6n.abxfiGwUULCALlN9Aur3LzKivrqKpDy9.83RFs_r_167Hwh5FXnWhq91Df7JzhG_RadTAVwgxZLjwDsMXk_dzDJkH0R1sxYDc74bDyBPjDjc08VNPP3ZpKM3xEqtRAPY4uJlw28VxyAasPxM8eGUuqVe9102OnyeyQ-" group-title="CANAIS 24 HORAS",Blue Dragon
+#EXTINF:-1 tvg-id="" tvg-name="Blue Dragon" tvg-logo="https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcbv_SzC6n.abxfiGwUULCALlN9Aur3LzKivrqKpDy9.83RFs_r_167Hwh5FXnWhq91Df7JzhG_RadTAVwgxZLjwDsMXk_dzDJkH0R1sxYDc74bDyBPjDjc08VNPP3ZpKM3xEqtRAPY4uJlw28VxyAasPxM8eGUuqVe9102OnyeyQ-" group-title="CANAIS PREMIUM 2",Blue Dragon
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56913.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAÇADORES DE ELFA" tvg-logo="http://1.bp.blogspot.com/-SSt5GBbHnHU/VFaiagtDsII/AAAAAAAAANg/j8pKKhaOXzA/s1600/Ca%C3%A7adores%2Bde%2BElfas%2B1%2B00%5B1%5D.JPG" group-title="CANAIS PREMIUM 2",CAÇADORES DE ELFA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="http://br.web.img3.acsta.net/pictures/15/07/02/22/52/281983.jpg" group-title="CANAIS PREMIUM 2",CAVALO DE FOGO
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg/245px-Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="CANAIS 24 HORAS",Caverna do Dragão
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg/245px-Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="CANAIS PREMIUM 2",Caverna do Dragão
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="https://http2.mlstatic.com/chaves-desenho-animado-papel-de-arroz-a4-para-bolo-D_NQ_NP_653311-MLB20531056146_122015-F.jpg" group-title="CANAIS PREMIUM 2",CHAVES DESENHO
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56916.m3u8
@@ -1573,7 +1566,7 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56890.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56934.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bakugan" tvg-logo="https://www.anitube.site/wp-content/uploads/Bakugan-%E2%80%93-Guerreiros-da-Batalha.png" group-title="CANAIS PREMIUM 2",Bakugan
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="http://br.web.img3.acsta.net/r_1280_720/newsv7/15/10/11/20/50/0981140.jpg" group-title="CANAIS 24 HORAS",THE BIG BANG THEORY
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="http://br.web.img3.acsta.net/r_1280_720/newsv7/15/10/11/20/50/0981140.jpg" group-title="CANAIS PREMIUM 2",THE BIG BANG THEORY
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/56753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A LARVA" tvg-logo="http://tvcultura.com.br/upload/tvcultura/programas/20180416153847_programa-larva.png" group-title="CANAIS PREMIUM 2",A LARVA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57059.m3u8
@@ -1595,11 +1588,11 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57019.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57020.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INSPETOR WILLOUGHBY *" tvg-logo="https://media.fstatic.com/naFWeRlenm-AV0afr3zMSCJUASI=/fit-in/210x312/smart/media/movies/covers/2011/05/5442a1d5c65da4b992d173215263ab6d.jpg" group-title="CANAIS PREMIUM 2",INSPETOR WILLOUGHBY *
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRMÃOS A OBRA*" tvg-logo="https://shoppingminascasa.com.br/wp-content/uploads/2018/09/Irm%C3%A3os-%C3%A0-Obra-padrao.jpg" group-title="CANAIS 24 HORAS",IRMÃOS A OBRA*
+#EXTINF:-1 tvg-id="" tvg-name="IRMÃOS A OBRA*" tvg-logo="https://shoppingminascasa.com.br/wp-content/uploads/2018/09/Irm%C3%A3os-%C3%A0-Obra-padrao.jpg" group-title="CANAIS PREMIUM 2",IRMÃOS A OBRA*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARATE KID *" tvg-logo="https://http2.mlstatic.com/dvd-desenho-animado-D_NQ_NP_855932-MLB27048046758_032018-F.jpg" group-title="CANAIS PREMIUM 2",KARATE KID *
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF BRASIL*" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/03/4%C2%AAtemporada-do-MasterChef-mostra-novidades.jpg" group-title="CANAIS 24 HORAS",MASTERCHEF BRASIL*
+#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF BRASIL*" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/03/4%C2%AAtemporada-do-MasterChef-mostra-novidades.jpg" group-title="CANAIS PREMIUM 2",MASTERCHEF BRASIL*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA MAN*" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Mega_man.jpg" group-title="CANAIS PREMIUM 2",MEGA MAN*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57025.m3u8
@@ -1635,13 +1628,13 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57039.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PATRULHA ESTRELAR" tvg-logo="http://infantv.com.br/infantv/wp-content/uploads/2016/07/star10.jpg" group-title="CANAIS PREMIUM 2",PATRULHA ESTRELAR
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS DE SILVIO SANTOS*" tvg-logo="https://videopegadinhas.com.br/wp-content/uploads/2017/07/melhores-pegadinhas-do-silvio-santos.jpg" group-title="CANAIS 24 HORAS",PEGADINHAS DE SILVIO SANTOS*
+#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS DE SILVIO SANTOS*" tvg-logo="https://videopegadinhas.com.br/wp-content/uploads/2017/07/melhores-pegadinhas-do-silvio-santos.jpg" group-title="CANAIS PREMIUM 2",PEGADINHAS DE SILVIO SANTOS*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS JOÃO CLÉBER" tvg-logo="https://www.portalminas.com/upload/news/youtube_7hBzthijUqA.jpg" group-title="CANAIS 24 HORAS",PEGADINHAS JOÃO CLÉBER
+#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS JOÃO CLÉBER" tvg-logo="https://www.portalminas.com/upload/news/youtube_7hBzthijUqA.jpg" group-title="CANAIS PREMIUM 2",PEGADINHAS JOÃO CLÉBER
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PEIXONAUTA" tvg-logo="https://i.ytimg.com/vi/EQBWFBegAbg/maxresdefault.jpg" group-title="CANAIS PREMIUM 2",PEIXONAUTA
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLÍCIA 24 HORAS*" tvg-logo="https://i.ytimg.com/vi/pZ5HQUyvtUM/hqdefault.jpg" group-title="CANAIS 24 HORAS",POLÍCIA 24 HORAS*
+#EXTINF:-1 tvg-id="" tvg-name="POLÍCIA 24 HORAS*" tvg-logo="https://i.ytimg.com/vi/pZ5HQUyvtUM/hqdefault.jpg" group-title="CANAIS PREMIUM 2",POLÍCIA 24 HORAS*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIQUINHO*" tvg-logo="https://rlv.zcache.co.uk/richie_rich_money_bag_colour_postcard-ra583ab640cfa49a4bf81bb55519d2d02_vgbaq_8byvr_512.jpg" group-title="CANAIS PREMIUM 2",RIQUINHO*
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/57047.m3u8
@@ -1701,6 +1694,5 @@ http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53037.m3u8
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53036.m3u8
 #EXTINF:-1 tvg-id="PT: Sport TV 4 HD" tvg-name="SPORT TV 4 HD - PT" tvg-logo="http://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg" group-title="CANAIS PREMIUM 2",SPORT TV 4 HD - PT
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/53035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="https://i.ibb.co/44p2gxZ/POP-HITS.jpg" group-title="RADIOS",Pop Hits
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="https://i.ibb.co/44p2gxZ/POP-HITS.jpg" group-title="CANAIS PREMIUM 2",Pop Hits
 http://nitrotv.com.br:25461/live/CANALIPTV2019/ASSINE/22658.m3u8
-
