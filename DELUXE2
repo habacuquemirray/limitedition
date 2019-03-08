@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: CANAL ESCOLA
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7923
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Globo SP
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7842
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: TVE HD 720 Brasil
 http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/5281
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: TV Urbana Brasil
@@ -168,6 +172,22 @@ http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7318
 http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7317
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: Viva
 http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7316
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Eimax 1
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7929
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Fish TV
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7924
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: FX
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7925
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Mais Globosat HD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7921
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Record News
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7926
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: REDE RECORD
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7927
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: SBT Brasil
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7928
+#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Studio Universal
+http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7922
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: Aparceida
 http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/8084
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: Arte 1
@@ -234,23 +254,2560 @@ http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/8075
 http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/8087
 #EXTINF:-1, group-title="CANAIS PREMIUM", BR: Woohoo Brasil
 http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/8057
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Globo SP
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7842
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: CANAL ESCOLA
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7923
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Eimax 1
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7929
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Fish TV
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7924
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: FX
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7925
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Mais Globosat HD
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7921
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Record News
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7926
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: REDE RECORD
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7927
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: SBT Brasil
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7928
-#EXTINF:-1, group-title="CANAIS PREMIUM", BR: Studio Universal
-http://iptv-line.com:6969/rami__morad1/UXdBXr1ooY/7922
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB FHD
+http://193.200.164.172:8000/live/8235/8235/35711.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB HD
+http://193.200.164.172:8000/live/8235/8235/35712.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB
+http://193.200.164.172:8000/live/8235/8235/35713.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB H265
+http://193.200.164.172:8000/live/8235/8235/40593.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/36354.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/36355.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Alternativo
+http://193.200.164.172:8000/live/8235/8235/35867.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB 2 H265
+http://193.200.164.172:8000/live/8235/8235/40592.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB 2 HD
+http://193.200.164.172:8000/live/8235/8235/40487.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB 2
+http://193.200.164.172:8000/live/8235/8235/40488.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/40491.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB 2 HD Alt
+http://193.200.164.172:8000/live/8235/8235/40795.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB 2 Alt
+http://193.200.164.172:8000/live/8235/8235/40794.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Academia HD
+http://193.200.164.172:8000/live/8235/8235/40584.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Academia HD Alt
+http://193.200.164.172:8000/live/8235/8235/40779.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Academia
+http://193.200.164.172:8000/live/8235/8235/40778.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Chuveiro HD
+http://193.200.164.172:8000/live/8235/8235/40583.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Chuveiro HD Alt
+http://193.200.164.172:8000/live/8235/8235/40777.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Chuveiro
+http://193.200.164.172:8000/live/8235/8235/40776.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Confessionario HD
+http://193.200.164.172:8000/live/8235/8235/40590.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Confessionario HD Alt
+http://193.200.164.172:8000/live/8235/8235/40793.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Confessionario
+http://193.200.164.172:8000/live/8235/8235/40792.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Cozinha HD
+http://193.200.164.172:8000/live/8235/8235/40588.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Cozinha HD Alt
+http://193.200.164.172:8000/live/8235/8235/40787.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Cozinha
+http://193.200.164.172:8000/live/8235/8235/40786.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Piscina HD
+http://193.200.164.172:8000/live/8235/8235/40585.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Piscina HD Alt
+http://193.200.164.172:8000/live/8235/8235/40781.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Piscina
+http://193.200.164.172:8000/live/8235/8235/40780.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Quarto 1 HD
+http://193.200.164.172:8000/live/8235/8235/40582.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Quarto 1 HD Alt
+http://193.200.164.172:8000/live/8235/8235/40791.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Quarto 1
+http://193.200.164.172:8000/live/8235/8235/40790.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Quarto 2 HD
+http://193.200.164.172:8000/live/8235/8235/40589.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Quarto 2 HD Alt
+http://193.200.164.172:8000/live/8235/8235/40789.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Quarto 2
+http://193.200.164.172:8000/live/8235/8235/40788.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Sala HD
+http://193.200.164.172:8000/live/8235/8235/40587.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Sala HD Alt
+http://193.200.164.172:8000/live/8235/8235/40785.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Sala
+http://193.200.164.172:8000/live/8235/8235/40784.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Varanda HD
+http://193.200.164.172:8000/live/8235/8235/40586.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Varanda HD Alt
+http://193.200.164.172:8000/live/8235/8235/40783.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Varanda
+http://193.200.164.172:8000/live/8235/8235/40782.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Mosaico FHD
+http://193.200.164.172:8000/live/8235/8235/40591.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Mosaico HD
+http://193.200.164.172:8000/live/8235/8235/40492.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Mosaico
+http://193.200.164.172:8000/live/8235/8235/40490.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BBB Mosaico Alternativo
+http://193.200.164.172:8000/live/8235/8235/40489.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RJ FHD
+http://193.200.164.172:8000/live/8235/8235/12665.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RJ HD
+http://193.200.164.172:8000/live/8235/8235/1586.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RJ
+http://193.200.164.172:8000/live/8235/8235/1752.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RJ  FHD
+http://193.200.164.172:8000/live/8235/8235/41723.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RJ Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12991.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RJ Alternativo
+http://193.200.164.172:8000/live/8235/8235/8667.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV RIO Sul RJ FHD
+http://193.200.164.172:8000/live/8235/8235/41765.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV RIO Sul RJ HD
+http://193.200.164.172:8000/live/8235/8235/41764.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV RIO Sul RJ
+http://193.200.164.172:8000/live/8235/8235/41763.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Alto Litoral RJ FHD
+http://193.200.164.172:8000/live/8235/8235/41792.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Alto Litoral RJ HD
+http://193.200.164.172:8000/live/8235/8235/41791.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Alto Litoral RJ
+http://193.200.164.172:8000/live/8235/8235/41790.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Serra Mar RJ FHD
+http://193.200.164.172:8000/live/8235/8235/41783.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Serra Mar RJ HD
+http://193.200.164.172:8000/live/8235/8235/41782.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Serra Mar
+http://193.200.164.172:8000/live/8235/8235/41781.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP UHD
+http://193.200.164.172:8000/live/8235/8235/40346.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP FHD
+http://193.200.164.172:8000/live/8235/8235/21615.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP HD
+http://193.200.164.172:8000/live/8235/8235/17241.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP
+http://193.200.164.172:8000/live/8235/8235/111.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP  FHD
+http://193.200.164.172:8000/live/8235/8235/31624.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/18836.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP Alternativo
+http://193.200.164.172:8000/live/8235/8235/8664.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP -Alternativo
+http://193.200.164.172:8000/live/8235/8235/27388.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG FHD
+http://193.200.164.172:8000/live/8235/8235/21616.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG HD
+http://193.200.164.172:8000/live/8235/8235/5989.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG
+http://193.200.164.172:8000/live/8235/8235/1653.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/9461.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG Alternativo
+http://193.200.164.172:8000/live/8235/8235/11450.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Dos Vales MG FHD
+http://193.200.164.172:8000/live/8235/8235/41789.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Dos Vales MG HD
+http://193.200.164.172:8000/live/8235/8235/41788.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Dos Vales MG
+http://193.200.164.172:8000/live/8235/8235/41787.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Grande Minas FHD
+http://193.200.164.172:8000/live/8235/8235/41786.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Grande Minas HD
+http://193.200.164.172:8000/live/8235/8235/41785.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV Grande Minas
+http://193.200.164.172:8000/live/8235/8235/41784.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Nordeste FHD
+http://193.200.164.172:8000/live/8235/8235/17071.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Nordeste HD
+http://193.200.164.172:8000/live/8235/8235/8485.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Nordeste
+http://193.200.164.172:8000/live/8235/8235/6136.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Nordeste Alternativo
+http://193.200.164.172:8000/live/8235/8235/9469.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC TV Curitiba FHD
+http://193.200.164.172:8000/live/8235/8235/21617.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC TV Curitiba HD
+http://193.200.164.172:8000/live/8235/8235/18837.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC TV Curitiba
+http://193.200.164.172:8000/live/8235/8235/18838.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC Foz do Iguaçu FHD
+http://193.200.164.172:8000/live/8235/8235/29676.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC Foz do Iguaçu HD
+http://193.200.164.172:8000/live/8235/8235/29677.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC Foz do Iguaçu
+http://193.200.164.172:8000/live/8235/8235/29678.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RPC TV Paraná
+http://193.200.164.172:8000/live/8235/8235/30678.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Florianopolis FHD
+http://193.200.164.172:8000/live/8235/8235/29777.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Florianopolis HD
+http://193.200.164.172:8000/live/8235/8235/21619.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Florianopolis
+http://193.200.164.172:8000/live/8235/8235/21618.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Chapecó FHD
+http://193.200.164.172:8000/live/8235/8235/29673.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Chapecó HD
+http://193.200.164.172:8000/live/8235/8235/29674.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Chapecó
+http://193.200.164.172:8000/live/8235/8235/29675.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Santa Catarina FHD
+http://193.200.164.172:8000/live/8235/8235/40072.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Santa Catarina
+http://193.200.164.172:8000/live/8235/8235/40391.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Blumenau SC FHD
+http://193.200.164.172:8000/live/8235/8235/41780.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Blumenau SC HD
+http://193.200.164.172:8000/live/8235/8235/41779.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Blumenau SC
+http://193.200.164.172:8000/live/8235/8235/41778.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Joinville SC FHD
+http://193.200.164.172:8000/live/8235/8235/41774.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Joinville SC HD
+http://193.200.164.172:8000/live/8235/8235/41773.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo NSC TV Joinville SC
+http://193.200.164.172:8000/live/8235/8235/41772.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Porto Alegre FHD
+http://193.200.164.172:8000/live/8235/8235/29663.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Porto Alegre HD
+http://193.200.164.172:8000/live/8235/8235/21620.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Porto Alegre
+http://193.200.164.172:8000/live/8235/8235/12095.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Porto Alegre Alternativo
+http://193.200.164.172:8000/live/8235/8235/1484.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Caxias Do Sul RS
+http://193.200.164.172:8000/live/8235/8235/41775.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Caxias Do Sul RS FHD
+http://193.200.164.172:8000/live/8235/8235/41777.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Caxias Do Sul RS HD
+http://193.200.164.172:8000/live/8235/8235/41776.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Pelotas RS FHD
+http://193.200.164.172:8000/live/8235/8235/41771.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Pelotas RS HD
+http://193.200.164.172:8000/live/8235/8235/41770.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Pelotas RS
+http://193.200.164.172:8000/live/8235/8235/41769.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Vitória FHD
+http://193.200.164.172:8000/live/8235/8235/29682.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Vitória HD
+http://193.200.164.172:8000/live/8235/8235/29683.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Vitória
+http://193.200.164.172:8000/live/8235/8235/29684.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Sul ES FHD
+http://193.200.164.172:8000/live/8235/8235/31274.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Sul ES HD
+http://193.200.164.172:8000/live/8235/8235/31275.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Alagoas FHD
+http://193.200.164.172:8000/live/8235/8235/29892.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Alagoas HD
+http://193.200.164.172:8000/live/8235/8235/29891.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Gazeta Alagoas
+http://193.200.164.172:8000/live/8235/8235/29893.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Sergipe FHD
+http://193.200.164.172:8000/live/8235/8235/29685.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Sergipe HD
+http://193.200.164.172:8000/live/8235/8235/29686.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Sergipe
+http://193.200.164.172:8000/live/8235/8235/29687.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Clube Teresina FHD
+http://193.200.164.172:8000/live/8235/8235/29679.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Clube Teresina HD
+http://193.200.164.172:8000/live/8235/8235/29680.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Clube Teresina
+http://193.200.164.172:8000/live/8235/8235/29681.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Brasília FHD
+http://193.200.164.172:8000/live/8235/8235/29779.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Brasília HD
+http://193.200.164.172:8000/live/8235/8235/18200.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Brasília
+http://193.200.164.172:8000/live/8235/8235/1751.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Brasília Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21583.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Brasília Alternativo
+http://193.200.164.172:8000/live/8235/8235/21584.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Bahia FHD
+http://193.200.164.172:8000/live/8235/8235/29775.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Bahia HD
+http://193.200.164.172:8000/live/8235/8235/21206.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Bahia
+http://193.200.164.172:8000/live/8235/8235/8481.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Bahia Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21694.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Bahia Alternativo
+http://193.200.164.172:8000/live/8235/8235/21695.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Anhanguera Goiânia FHD
+http://193.200.164.172:8000/live/8235/8235/29776.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Anhanguera Goiânia HD
+http://193.200.164.172:8000/live/8235/8235/9463.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Anhanguera Goiânia
+http://193.200.164.172:8000/live/8235/8235/2409.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Mirante Sao Luis FHD
+http://193.200.164.172:8000/live/8235/8235/29774.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Mirante Sao Luis HD
+http://193.200.164.172:8000/live/8235/8235/29773.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Mirante Sao Luis
+http://193.200.164.172:8000/live/8235/8235/29772.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Morena Campo Grande FHD
+http://193.200.164.172:8000/live/8235/8235/29771.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Morena Campo Grande HD
+http://193.200.164.172:8000/live/8235/8235/29770.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Morena Campo Grande
+http://193.200.164.172:8000/live/8235/8235/29769.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Cabo Branco PB FHD
+http://193.200.164.172:8000/live/8235/8235/41768.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Cabo Branco PB HD
+http://193.200.164.172:8000/live/8235/8235/41767.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Cabo Branco PB
+http://193.200.164.172:8000/live/8235/8235/41766.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Santa Cruz BA FHD
+http://193.200.164.172:8000/live/8235/8235/41762.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Santa Cruz BA HD
+http://193.200.164.172:8000/live/8235/8235/41761.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Santa Cruz BA
+http://193.200.164.172:8000/live/8235/8235/41760.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Verdes Mares
+http://193.200.164.172:8000/live/8235/8235/12303.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Verdes Mares Alternativo
+http://193.200.164.172:8000/live/8235/8235/27396.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo InterTV Cabugi
+http://193.200.164.172:8000/live/8235/8235/6992.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Inter TV RN
+http://193.200.164.172:8000/live/8235/8235/21624.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Amazonas
+http://193.200.164.172:8000/live/8235/8235/6990.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Amazonas Alternativo
+http://193.200.164.172:8000/live/8235/8235/11444.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Campinas FHD
+http://193.200.164.172:8000/live/8235/8235/29781.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Campinas HD
+http://193.200.164.172:8000/live/8235/8235/19971.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Campinas
+http://193.200.164.172:8000/live/8235/8235/19972.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Campinas Alternativo
+http://193.200.164.172:8000/live/8235/8235/31545.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Ribeirao Preto FHD
+http://193.200.164.172:8000/live/8235/8235/31270.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Ribeirao Preto HD
+http://193.200.164.172:8000/live/8235/8235/19979.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Ribeirão Preto
+http://193.200.164.172:8000/live/8235/8235/7003.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Ribeirao Preto Alternativo
+http://193.200.164.172:8000/live/8235/8235/31546.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV São Carlos
+http://193.200.164.172:8000/live/8235/8235/19981.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV São Carlos Alternativo
+http://193.200.164.172:8000/live/8235/8235/31549.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo EPTV Araraquara
+http://193.200.164.172:8000/live/8235/8235/21623.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Tem Sao Jose Rio do Preto FHD
+http://193.200.164.172:8000/live/8235/8235/29780.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Tem Sao Jose do Rio Preto HD
+http://193.200.164.172:8000/live/8235/8235/19984.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Tem Sao Jose do Rio Preto
+http://193.200.164.172:8000/live/8235/8235/19985.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Tem Sao Jose do Rio Preto Alternativo
+http://193.200.164.172:8000/live/8235/8235/31547.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Tem Sorocaba
+http://193.200.164.172:8000/live/8235/8235/6993.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Tem Sorocaba Alternativo
+http://193.200.164.172:8000/live/8235/8235/31548.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Tv Tem Bauru
+http://193.200.164.172:8000/live/8235/8235/19987.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Tribuna
+http://193.200.164.172:8000/live/8235/8235/16169.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Liberal Belém
+http://193.200.164.172:8000/live/8235/8235/9464.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Centro America MT
+http://193.200.164.172:8000/live/8235/8235/21696.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Vanguarda S. J. dos Campos
+http://193.200.164.172:8000/live/8235/8235/13800.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Internacional FHD
+http://193.200.164.172:8000/live/8235/8235/31128.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Internacional
+http://193.200.164.172:8000/live/8235/8235/29617.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Portugal
+http://193.200.164.172:8000/live/8235/8235/283.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Portugal Aternativo
+http://193.200.164.172:8000/live/8235/8235/31095.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Now
+http://193.200.164.172:8000/live/8235/8235/226.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Now Aternativo
+http://193.200.164.172:8000/live/8235/8235/31094.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV SP FHD
+http://193.200.164.172:8000/live/8235/8235/21622.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV SP HD
+http://193.200.164.172:8000/live/8235/8235/1694.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV SP
+http://193.200.164.172:8000/live/8235/8235/252.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Alternativo SP FHD
+http://193.200.164.172:8000/live/8235/8235/38017.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Alternativo SP HD
+http://193.200.164.172:8000/live/8235/8235/7045.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Alternativo SP
+http://193.200.164.172:8000/live/8235/8235/13532.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RJ FHD
+http://193.200.164.172:8000/live/8235/8235/31262.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RJ HD
+http://193.200.164.172:8000/live/8235/8235/31212.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RJ
+http://193.200.164.172:8000/live/8235/8235/31263.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV MG FHD
+http://193.200.164.172:8000/live/8235/8235/31264.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV MG HD
+http://193.200.164.172:8000/live/8235/8235/31265.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV MG
+http://193.200.164.172:8000/live/8235/8235/31266.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RS FHD
+http://193.200.164.172:8000/live/8235/8235/35863.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RS HD
+http://193.200.164.172:8000/live/8235/8235/35858.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RS
+http://193.200.164.172:8000/live/8235/8235/35857.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV DF FHD
+http://193.200.164.172:8000/live/8235/8235/35848.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV DF HD
+http://193.200.164.172:8000/live/8235/8235/35860.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV DF
+http://193.200.164.172:8000/live/8235/8235/35859.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Goiás FHD
+http://193.200.164.172:8000/live/8235/8235/43304.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Goiás HD
+http://193.200.164.172:8000/live/8235/8235/34655.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Goiás
+http://193.200.164.172:8000/live/8235/8235/41979.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV BA FHD
+http://193.200.164.172:8000/live/8235/8235/35864.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV BA HD
+http://193.200.164.172:8000/live/8235/8235/35862.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV BA
+http://193.200.164.172:8000/live/8235/8235/35861.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV TV Atalaia Sergipe HD
+http://193.200.164.172:8000/live/8235/8235/41950.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV TV Atalaia Sergipe
+http://193.200.164.172:8000/live/8235/8235/41974.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RICTV Curitiba HD
+http://193.200.164.172:8000/live/8235/8235/41976.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RICTV Curitiba
+http://193.200.164.172:8000/live/8235/8235/41978.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RICTV SC HD
+http://193.200.164.172:8000/live/8235/8235/41898.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV RICTV SC
+http://193.200.164.172:8000/live/8235/8235/41980.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Portugal
+http://193.200.164.172:8000/live/8235/8235/289.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Portugal Aternativo
+http://193.200.164.172:8000/live/8235/8235/31093.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT FHD
+http://193.200.164.172:8000/live/8235/8235/12662.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT HD
+http://193.200.164.172:8000/live/8235/8235/1961.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sbt
+http://193.200.164.172:8000/live/8235/8235/373.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12886.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT Alternativo
+http://193.200.164.172:8000/live/8235/8235/18203.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT SP Interior
+http://193.200.164.172:8000/live/8235/8235/21676.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT Santa Catarina HD
+http://193.200.164.172:8000/live/8235/8235/41897.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT Parana HD
+http://193.200.164.172:8000/live/8235/8235/41975.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT Sergipe HD
+http://193.200.164.172:8000/live/8235/8235/41952.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT TV Serra Dourada FHD
+http://193.200.164.172:8000/live/8235/8235/43305.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT TV Alterosa FHD
+http://193.200.164.172:8000/live/8235/8235/31127.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band FHD
+http://193.200.164.172:8000/live/8235/8235/7047.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band HD
+http://193.200.164.172:8000/live/8235/8235/1744.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band
+http://193.200.164.172:8000/live/8235/8235/372.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19956.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Alternativo
+http://193.200.164.172:8000/live/8235/8235/21197.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band RS HD
+http://193.200.164.172:8000/live/8235/8235/43170.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band RS
+http://193.200.164.172:8000/live/8235/8235/43171.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band TV Goiania FHD
+http://193.200.164.172:8000/live/8235/8235/43306.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Aracaju SE HD
+http://193.200.164.172:8000/live/8235/8235/41951.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band TV Taroba Parana HD
+http://193.200.164.172:8000/live/8235/8235/41977.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band TV Taroba
+http://193.200.164.172:8000/live/8235/8235/40385.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede TV FHD
+http://193.200.164.172:8000/live/8235/8235/7046.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede TV HD
+http://193.200.164.172:8000/live/8235/8235/1862.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Tv
+http://193.200.164.172:8000/live/8235/8235/297.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede TV Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21198.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Tv Alternativo
+http://193.200.164.172:8000/live/8235/8235/21199.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Diario Fortaleza FHD
+http://193.200.164.172:8000/live/8235/8235/41971.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Diario Fortaleza HD
+http://193.200.164.172:8000/live/8235/8235/41972.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Diario Fortaleza
+http://193.200.164.172:8000/live/8235/8235/41973.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Cultura FHD
+http://193.200.164.172:8000/live/8235/8235/31272.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Cultura HD
+http://193.200.164.172:8000/live/8235/8235/31271.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Cultura
+http://193.200.164.172:8000/live/8235/8235/2422.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Brasil FHD
+http://193.200.164.172:8000/live/8235/8235/29897.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Brasil HD
+http://193.200.164.172:8000/live/8235/8235/29898.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Brasil
+http://193.200.164.172:8000/live/8235/8235/1928.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Diario
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Gazeta HD
+http://193.200.164.172:8000/live/8235/8235/18202.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Gazeta
+http://193.200.164.172:8000/live/8235/8235/1929.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Escola
+http://193.200.164.172:8000/live/8235/8235/12108.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Câmara
+http://193.200.164.172:8000/live/8235/8235/1783.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Justica
+http://193.200.164.172:8000/live/8235/8235/35902.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Senado
+http://193.200.164.172:8000/live/8235/8235/6651.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Brasil FHD
+http://193.200.164.172:8000/live/8235/8235/13899.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Brasil HD
+http://193.200.164.172:8000/live/8235/8235/6542.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Brasil
+http://193.200.164.172:8000/live/8235/8235/237.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Brasil Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21730.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Brasil Alternativo
+http://193.200.164.172:8000/live/8235/8235/21731.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Futura FHD
+http://193.200.164.172:8000/live/8235/8235/31204.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Futura HD
+http://193.200.164.172:8000/live/8235/8235/21692.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Futura
+http://193.200.164.172:8000/live/8235/8235/6653.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", NBR
+http://193.200.164.172:8000/live/8235/8235/1843.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Terra Viva
+http://193.200.164.172:8000/live/8235/8235/17520.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Rural
+http://hls-live.crur.al/hlsmedium/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Brasil
+http://193.200.164.172:8000/live/8235/8235/1780.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News FHD
+http://193.200.164.172:8000/live/8235/8235/21625.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News HD
+http://193.200.164.172:8000/live/8235/8235/18760.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News
+http://193.200.164.172:8000/live/8235/8235/227.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19955.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News Alternativo
+http://193.200.164.172:8000/live/8235/8235/13526.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News -Alternativo
+http://193.200.164.172:8000/live/8235/8235/13527.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News FHD
+http://193.200.164.172:8000/live/8235/8235/21626.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News HD
+http://193.200.164.172:8000/live/8235/8235/20885.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News
+http://193.200.164.172:8000/live/8235/8235/239.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News Alternativo
+http://193.200.164.172:8000/live/8235/8235/13528.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News FHD
+http://193.200.164.172:8000/live/8235/8235/29662.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News HD
+http://193.200.164.172:8000/live/8235/8235/19996.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News
+http://193.200.164.172:8000/live/8235/8235/290.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/35903.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News Alternativo
+http://193.200.164.172:8000/live/8235/8235/13529.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV UHD
+http://193.200.164.172:8000/live/8235/8235/21749.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV FHD
+http://193.200.164.172:8000/live/8235/8235/11472.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV HD
+http://193.200.164.172:8000/live/8235/8235/1583.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV
+http://193.200.164.172:8000/live/8235/8235/109.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12864.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV Alternativo
+http://193.200.164.172:8000/live/8235/8235/13520.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV HD ‐ Alternativo
+http://193.200.164.172:8000/live/8235/8235/29938.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV - Alternativo
+http://193.200.164.172:8000/live/8235/8235/29939.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 FHD
+http://193.200.164.172:8000/live/8235/8235/21627.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 HD
+http://193.200.164.172:8000/live/8235/8235/1619.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTv 2
+http://193.200.164.172:8000/live/8235/8235/402.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/18833.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/18834.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 FHD
+http://193.200.164.172:8000/live/8235/8235/17042.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 HD
+http://193.200.164.172:8000/live/8235/8235/1620.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3
+http://193.200.164.172:8000/live/8235/8235/366.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/19959.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 Alternativo
+http://193.200.164.172:8000/live/8235/8235/19960.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports FHD
+http://193.200.164.172:8000/live/8235/8235/13522.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports ‐FHD
+http://193.200.164.172:8000/live/8235/8235/29336.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports HD
+http://193.200.164.172:8000/live/8235/8235/1589.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Sports
+http://193.200.164.172:8000/live/8235/8235/368.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/18835.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Sports Alternativo
+http://193.200.164.172:8000/live/8235/8235/17191.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports 2 FHD
+http://193.200.164.172:8000/live/8235/8235/21629.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Sports 2 HD
+http://193.200.164.172:8000/live/8235/8235/1499.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Sports 2
+http://193.200.164.172:8000/live/8235/8235/367.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Sports 2 HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/20934.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Sports 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/17193.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil FHD
+http://193.200.164.172:8000/live/8235/8235/13523.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil HD
+http://193.200.164.172:8000/live/8235/8235/1588.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil
+http://193.200.164.172:8000/live/8235/8235/369.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/17967.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Espn Brasil Alternativo
+http://193.200.164.172:8000/live/8235/8235/16172.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN UHD
+http://193.200.164.172:8000/live/8235/8235/35866.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN FHD
+http://193.200.164.172:8000/live/8235/8235/17045.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN HD
+http://193.200.164.172:8000/live/8235/8235/1602.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN
+http://193.200.164.172:8000/live/8235/8235/232.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/19957.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Alternativo
+http://193.200.164.172:8000/live/8235/8235/21732.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN 2 FHD
+http://193.200.164.172:8000/live/8235/8235/17511.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN 2 HD
+http://193.200.164.172:8000/live/8235/8235/1603.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN 2
+http://193.200.164.172:8000/live/8235/8235/408.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/31617.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Extra FHD
+http://193.200.164.172:8000/live/8235/8235/21630.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Extra HD
+http://193.200.164.172:8000/live/8235/8235/21631.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Extra
+http://193.200.164.172:8000/live/8235/8235/21632.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus HD
+http://193.200.164.172:8000/live/8235/8235/43012.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus
+http://193.200.164.172:8000/live/8235/8235/43013.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/42125.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus Alternativo
+http://193.200.164.172:8000/live/8235/8235/42126.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus 2 HD
+http://193.200.164.172:8000/live/8235/8235/43162.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus 2
+http://193.200.164.172:8000/live/8235/8235/43163.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus 3 HD
+http://193.200.164.172:8000/live/8235/8235/43164.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", EI Plus 3
+http://193.200.164.172:8000/live/8235/8235/43165.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", DAZN HD
+http://193.200.164.172:8000/live/8235/8235/43342.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", DAZN
+http://193.200.164.172:8000/live/8235/8235/43343.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate UHD
+http://193.200.164.172:8000/live/8235/8235/35865.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate FHD
+http://193.200.164.172:8000/live/8235/8235/21621.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate ‐FHD
+http://193.200.164.172:8000/live/8235/8235/29735.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate HD
+http://193.200.164.172:8000/live/8235/8235/1601.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate
+http://193.200.164.172:8000/live/8235/8235/110.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12806.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate Alternativo
+http://193.200.164.172:8000/live/8235/8235/20984.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate Alternativo -HD
+http://193.200.164.172:8000/live/8235/8235/21733.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports FHD
+http://193.200.164.172:8000/live/8235/8235/31197.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports HD
+http://193.200.164.172:8000/live/8235/8235/1600.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports
+http://193.200.164.172:8000/live/8235/8235/370.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/21192.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports Alternativo
+http://193.200.164.172:8000/live/8235/8235/21193.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", NBA TV
+http://193.200.164.172:8000/live/8235/8235/12236.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 1 HD
+http://193.200.164.172:8000/live/8235/8235/40668.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 1
+http://193.200.164.172:8000/live/8235/8235/40667.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 1 Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/40673.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 1 Alternativo
+http://193.200.164.172:8000/live/8235/8235/40672.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 2 HD
+http://193.200.164.172:8000/live/8235/8235/40666.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 2
+http://193.200.164.172:8000/live/8235/8235/40665.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 2 Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/40671.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/40670.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 3 HD
+http://193.200.164.172:8000/live/8235/8235/40664.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Copa do Nordeste 3
+http://193.200.164.172:8000/live/8235/8235/40663.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Catarinense 1 HD
+http://193.200.164.172:8000/live/8235/8235/40799.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Catarinense 1
+http://193.200.164.172:8000/live/8235/8235/40798.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Catarinense 2 HD
+http://193.200.164.172:8000/live/8235/8235/40797.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Catarinense 2
+http://193.200.164.172:8000/live/8235/8235/40796.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes UHD
+http://193.200.164.172:8000/live/8235/8235/29690.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes FHD
+http://193.200.164.172:8000/live/8235/8235/17293.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes HD
+http://193.200.164.172:8000/live/8235/8235/204.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes
+http://193.200.164.172:8000/live/8235/8235/1930.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes  FHD
+http://193.200.164.172:8000/live/8235/8235/31625.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12857.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes Alternativo
+http://193.200.164.172:8000/live/8235/8235/13511.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", PFC
+http://193.200.164.172:8000/live/8235/8235/210.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 2 FHD
+http://193.200.164.172:8000/live/8235/8235/13796.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 2 HD
+http://193.200.164.172:8000/live/8235/8235/1717.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 2
+http://193.200.164.172:8000/live/8235/8235/259.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 2 -Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/13495.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/13510.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3 FHD
+http://193.200.164.172:8000/live/8235/8235/13797.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3 HD
+http://193.200.164.172:8000/live/8235/8235/1721.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3
+http://193.200.164.172:8000/live/8235/8235/269.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3 -Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/13496.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3  Alternativo
+http://193.200.164.172:8000/live/8235/8235/13509.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4 FHD
+http://193.200.164.172:8000/live/8235/8235/17051.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4 HD
+http://193.200.164.172:8000/live/8235/8235/1722.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4
+http://193.200.164.172:8000/live/8235/8235/270.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4 -Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/13497.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4  Alternativo
+http://193.200.164.172:8000/live/8235/8235/13508.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5 FHD
+http://193.200.164.172:8000/live/8235/8235/17050.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5 HD
+http://193.200.164.172:8000/live/8235/8235/1723.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5
+http://193.200.164.172:8000/live/8235/8235/271.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5 -Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/13498.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5  Alternativo
+http://193.200.164.172:8000/live/8235/8235/13507.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 6 FHD
+http://193.200.164.172:8000/live/8235/8235/17049.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 6 HD
+http://193.200.164.172:8000/live/8235/8235/8488.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 6
+http://193.200.164.172:8000/live/8235/8235/208.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 6 Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/27417.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 6  Alternativo
+http://193.200.164.172:8000/live/8235/8235/13506.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 7 FHD
+http://193.200.164.172:8000/live/8235/8235/17048.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 7 HD
+http://193.200.164.172:8000/live/8235/8235/8482.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 7
+http://193.200.164.172:8000/live/8235/8235/207.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 7 Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/27418.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 7  Alternativo
+http://193.200.164.172:8000/live/8235/8235/13505.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 8
+http://193.200.164.172:8000/live/8235/8235/206.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 9
+http://193.200.164.172:8000/live/8235/8235/205.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tabela Jogos Premiere
+http://193.200.164.172:8000/live/8235/8235/29657.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium FHD
+http://193.200.164.172:8000/live/8235/8235/11475.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium HD
+http://193.200.164.172:8000/live/8235/8235/1631.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium
+http://193.200.164.172:8000/live/8235/8235/805.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12872.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium Alternativo
+http://193.200.164.172:8000/live/8235/8235/21114.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium Dual Audio
+http://193.200.164.172:8000/live/8235/8235/35872.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca FHD
+http://193.200.164.172:8000/live/8235/8235/12204.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca HD
+http://193.200.164.172:8000/live/8235/8235/1596.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca
+http://193.200.164.172:8000/live/8235/8235/804.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12871.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca Alternativo
+http://193.200.164.172:8000/live/8235/8235/9228.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca Dual Audio
+http://193.200.164.172:8000/live/8235/8235/35870.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action FHD
+http://193.200.164.172:8000/live/8235/8235/11476.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action HD
+http://193.200.164.172:8000/live/8235/8235/1584.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action
+http://193.200.164.172:8000/live/8235/8235/806.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12868.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action Alternativo
+http://193.200.164.172:8000/live/8235/8235/6997.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action Dual Audio
+http://193.200.164.172:8000/live/8235/8235/35875.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch FHD
+http://193.200.164.172:8000/live/8235/8235/11477.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch HD
+http://193.200.164.172:8000/live/8235/8235/1626.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch
+http://193.200.164.172:8000/live/8235/8235/807.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12873.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch Alternativo
+http://193.200.164.172:8000/live/8235/8235/6677.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch Dual Audio
+http://193.200.164.172:8000/live/8235/8235/35871.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun FHD
+http://193.200.164.172:8000/live/8235/8235/12205.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun HD
+http://193.200.164.172:8000/live/8235/8235/1624.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun
+http://193.200.164.172:8000/live/8235/8235/803.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12870.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun Alternativo
+http://193.200.164.172:8000/live/8235/8235/9230.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun Dual Audio
+http://193.200.164.172:8000/live/8235/8235/35873.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult FHD
+http://193.200.164.172:8000/live/8235/8235/13885.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult HD
+http://193.200.164.172:8000/live/8235/8235/5902.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult
+http://193.200.164.172:8000/live/8235/8235/808.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/21353.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult Alternativo
+http://193.200.164.172:8000/live/8235/8235/9229.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult Dual Audio
+http://193.200.164.172:8000/live/8235/8235/35874.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix FHD
+http://193.200.164.172:8000/live/8235/8235/17510.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix HD
+http://193.200.164.172:8000/live/8235/8235/1615.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix
+http://193.200.164.172:8000/live/8235/8235/112.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Megapix HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/19961.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix Alternativo
+http://193.200.164.172:8000/live/8235/8235/6996.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV FHD
+http://193.200.164.172:8000/live/8235/8235/17512.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV HD
+http://193.200.164.172:8000/live/8235/8235/1501.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV
+http://193.200.164.172:8000/live/8235/8235/265.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/21352.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV Alternativo
+http://193.200.164.172:8000/live/8235/8235/7002.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal FHD
+http://193.200.164.172:8000/live/8235/8235/13888.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal HD
+http://193.200.164.172:8000/live/8235/8235/7021.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal
+http://193.200.164.172:8000/live/8235/8235/174.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12865.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal Alternativo
+http://193.200.164.172:8000/live/8235/8235/8684.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Syfy FHD
+http://193.200.164.172:8000/live/8235/8235/13887.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SyFy HD
+http://193.200.164.172:8000/live/8235/8235/9231.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Syfy
+http://193.200.164.172:8000/live/8235/8235/103.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SyFy HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/21350.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SyFy Alternativo
+http://193.200.164.172:8000/live/8235/8235/21351.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO FHD
+http://193.200.164.172:8000/live/8235/8235/16180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO HD
+http://193.200.164.172:8000/live/8235/8235/1585.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO
+http://193.200.164.172:8000/live/8235/8235/390.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12836.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Alternativo
+http://193.200.164.172:8000/live/8235/8235/6988.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 FHD
+http://193.200.164.172:8000/live/8235/8235/16181.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 HD
+http://193.200.164.172:8000/live/8235/8235/1594.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2
+http://193.200.164.172:8000/live/8235/8235/387.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12834.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/12103.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature FHD
+http://193.200.164.172:8000/live/8235/8235/20939.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature HD
+http://193.200.164.172:8000/live/8235/8235/1608.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature
+http://193.200.164.172:8000/live/8235/8235/1485.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12838.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature Alternativo
+http://193.200.164.172:8000/live/8235/8235/6995.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family FHD
+http://193.200.164.172:8000/live/8235/8235/20940.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family HD
+http://193.200.164.172:8000/live/8235/8235/1606.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family
+http://193.200.164.172:8000/live/8235/8235/219.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12835.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family Alternativo
+http://193.200.164.172:8000/live/8235/8235/7005.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus FHD
+http://193.200.164.172:8000/live/8235/8235/20941.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus HD
+http://193.200.164.172:8000/live/8235/8235/1607.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus
+http://193.200.164.172:8000/live/8235/8235/357.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/12837.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max Prime FHD
+http://193.200.164.172:8000/live/8235/8235/13892.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max Prime HD
+http://193.200.164.172:8000/live/8235/8235/7013.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max Prime
+http://193.200.164.172:8000/live/8235/8235/214.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max Prime Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21724.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max Prime Alternativo
+http://193.200.164.172:8000/live/8235/8235/21725.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max UP FHD
+http://193.200.164.172:8000/live/8235/8235/13891.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP HD
+http://193.200.164.172:8000/live/8235/8235/7014.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max UP
+http://193.200.164.172:8000/live/8235/8235/213.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21726.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP Alternativo
+http://193.200.164.172:8000/live/8235/8235/21727.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max FHD
+http://193.200.164.172:8000/live/8235/8235/13893.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX HD
+http://193.200.164.172:8000/live/8235/8235/7012.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Max
+http://193.200.164.172:8000/live/8235/8235/215.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21722.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Alternativo
+http://193.200.164.172:8000/live/8235/8235/21723.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel FHD
+http://193.200.164.172:8000/live/8235/8235/17186.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel HD
+http://193.200.164.172:8000/live/8235/8235/1597.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel
+http://193.200.164.172:8000/live/8235/8235/266.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19993.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel Alternativo
+http://193.200.164.172:8000/live/8235/8235/7001.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax FHD
+http://193.200.164.172:8000/live/8235/8235/13812.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax HD
+http://193.200.164.172:8000/live/8235/8235/5894.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax
+http://193.200.164.172:8000/live/8235/8235/236.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19992.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax Alternativo
+http://193.200.164.172:8000/live/8235/8235/6998.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space FHD
+http://193.200.164.172:8000/live/8235/8235/12861.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space HD
+http://193.200.164.172:8000/live/8235/8235/1587.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space
+http://193.200.164.172:8000/live/8235/8235/98.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/20980.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space Alternativo
+http://193.200.164.172:8000/live/8235/8235/20979.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount FHD
+http://193.200.164.172:8000/live/8235/8235/20883.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount HD
+http://193.200.164.172:8000/live/8235/8235/1617.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount
+http://193.200.164.172:8000/live/8235/8235/211.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21194.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount Alternativo
+http://193.200.164.172:8000/live/8235/8235/21195.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT FHD
+http://193.200.164.172:8000/live/8235/8235/20884.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT HD
+http://193.200.164.172:8000/live/8235/8235/1595.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT
+http://193.200.164.172:8000/live/8235/8235/380.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21111.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Alternativo
+http://193.200.164.172:8000/live/8235/8235/16185.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Séries FHD
+http://193.200.164.172:8000/live/8235/8235/21229.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Séries HD
+http://193.200.164.172:8000/live/8235/8235/1623.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Séries
+http://193.200.164.172:8000/live/8235/8235/798.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Séries Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21728.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Séries Alternativo
+http://193.200.164.172:8000/live/8235/8235/21729.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC FHD
+http://193.200.164.172:8000/live/8235/8235/13902.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC HD
+http://193.200.164.172:8000/live/8235/8235/13757.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC
+http://193.200.164.172:8000/live/8235/8235/9226.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21354.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC Alternativo
+http://193.200.164.172:8000/live/8235/8235/16189.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN FHD
+http://193.200.164.172:8000/live/8235/8235/17505.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN HD
+http://193.200.164.172:8000/live/8235/8235/1599.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN
+http://193.200.164.172:8000/live/8235/8235/188.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21196.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN Alternativo
+http://193.200.164.172:8000/live/8235/8235/31228.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX FHD
+http://193.200.164.172:8000/live/8235/8235/12663.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX HD
+http://193.200.164.172:8000/live/8235/8235/1582.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox
+http://193.200.164.172:8000/live/8235/8235/260.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/12820.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Alternativo
+http://193.200.164.172:8000/live/8235/8235/8678.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 1 FHD
+http://193.200.164.172:8000/live/8235/8235/17514.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Premium 1 HD
+http://193.200.164.172:8000/live/8235/8235/21753.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 1
+http://193.200.164.172:8000/live/8235/8235/1500.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 2 FHD
+http://193.200.164.172:8000/live/8235/8235/21641.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Premium 2 HD
+http://193.200.164.172:8000/live/8235/8235/21754.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 2
+http://193.200.164.172:8000/live/8235/8235/1635.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Life FHD
+http://193.200.164.172:8000/live/8235/8235/13896.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Life HD
+http://193.200.164.172:8000/live/8235/8235/21349.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Life
+http://193.200.164.172:8000/live/8235/8235/391.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Life HD Alternativo
+http://193.200.164.172:8000/live/8235/8235/21751.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Life Alternativo
+http://193.200.164.172:8000/live/8235/8235/21752.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX FHD
+http://193.200.164.172:8000/live/8235/8235/17513.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX HD
+http://193.200.164.172:8000/live/8235/8235/1604.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX
+http://193.200.164.172:8000/live/8235/8235/113.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21348.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX Alternativo
+http://193.200.164.172:8000/live/8235/8235/16183.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony FHD
+http://193.200.164.172:8000/live/8235/8235/29641.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony HD
+http://193.200.164.172:8000/live/8235/8235/1618.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony
+http://193.200.164.172:8000/live/8235/8235/186.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21227.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony Alternativo
+http://193.200.164.172:8000/live/8235/8235/16187.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS FHD
+http://193.200.164.172:8000/live/8235/8235/21228.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS HD
+http://193.200.164.172:8000/live/8235/8235/1765.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS
+http://193.200.164.172:8000/live/8235/8235/1621.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21756.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS Alternativo
+http://193.200.164.172:8000/live/8235/8235/21757.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TCM
+http://193.200.164.172:8000/live/8235/8235/173.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TCM Alternativo
+http://193.200.164.172:8000/live/8235/8235/8686.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29729.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN - LEG
+http://193.200.164.172:8000/live/8235/8235/29728.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29727.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX - LEG
+http://193.200.164.172:8000/live/8235/8235/29726.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29707.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FX - LEG
+http://193.200.164.172:8000/live/8235/8235/29706.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29725.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO - LEG
+http://193.200.164.172:8000/live/8235/8235/29724.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29723.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus - LEG
+http://193.200.164.172:8000/live/8235/8235/29722.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX - LEG
+http://193.200.164.172:8000/live/8235/8235/29720.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Prime  - LEG
+http://193.200.164.172:8000/live/8235/8235/29721.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29705.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP - LEG
+http://193.200.164.172:8000/live/8235/8235/29704.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29703.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix - LEG
+http://193.200.164.172:8000/live/8235/8235/29702.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29695.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony - LEG
+http://193.200.164.172:8000/live/8235/8235/29694.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29701.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space - LEG
+http://193.200.164.172:8000/live/8235/8235/29700.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29719.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action - LEG
+http://193.200.164.172:8000/live/8235/8235/29718.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29717.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun - LEG
+http://193.200.164.172:8000/live/8235/8235/29716.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29715.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca - LEG
+http://193.200.164.172:8000/live/8235/8235/29714.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29713.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium - LEG
+http://193.200.164.172:8000/live/8235/8235/29712.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29711.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch - LEG
+http://193.200.164.172:8000/live/8235/8235/29710.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29709.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT - LEG
+http://193.200.164.172:8000/live/8235/8235/29708.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Series HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29699.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Series - LEG
+http://193.200.164.172:8000/live/8235/8235/29698.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel HD - LEG
+http://193.200.164.172:8000/live/8235/8235/29697.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel - LEG
+http://193.200.164.172:8000/live/8235/8235/29696.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Ação 24h
+http://193.200.164.172:8000/live/8235/8235/29884.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Comédia 24h
+http://193.200.164.172:8000/live/8235/8235/29917.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fantasia 24h
+http://193.200.164.172:8000/live/8235/8235/29918.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Faroeste 24h
+http://193.200.164.172:8000/live/8235/8235/29941.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Ficção 24h
+http://193.200.164.172:8000/live/8235/8235/29940.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Romance 24h
+http://193.200.164.172:8000/live/8235/8235/29885.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Suspense 24h
+http://193.200.164.172:8000/live/8235/8235/29886.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Terror 24h
+http://193.200.164.172:8000/live/8235/8235/29887.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet FHD
+http://193.200.164.172:8000/live/8235/8235/18631.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet HD
+http://193.200.164.172:8000/live/8235/8235/1861.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet
+http://193.200.164.172:8000/live/8235/8235/94.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/18832.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet Alternativo
+http://193.200.164.172:8000/live/8235/8235/12895.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel FHD
+http://193.200.164.172:8000/live/8235/8235/17040.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel HD
+http://193.200.164.172:8000/live/8235/8235/1611.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel
+http://193.200.164.172:8000/live/8235/8235/1497.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19962.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel Alternativo
+http://193.200.164.172:8000/live/8235/8235/16178.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo  FHD
+http://193.200.164.172:8000/live/8235/8235/17182.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo HD
+http://193.200.164.172:8000/live/8235/8235/1612.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo
+http://193.200.164.172:8000/live/8235/8235/183.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19969.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo Alternativo
+http://193.200.164.172:8000/live/8235/8235/19970.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H FHD
+http://193.200.164.172:8000/live/8235/8235/17183.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H HD
+http://193.200.164.172:8000/live/8235/8235/1610.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H
+http://193.200.164.172:8000/live/8235/8235/359.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19963.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H Alternativo
+http://193.200.164.172:8000/live/8235/8235/19964.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Civilization FHD
+http://193.200.164.172:8000/live/8235/8235/13804.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Civilization HD
+http://193.200.164.172:8000/live/8235/8235/13785.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Civilization
+http://193.200.164.172:8000/live/8235/8235/26380.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Science FHD
+http://193.200.164.172:8000/live/8235/8235/13805.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Science HD
+http://193.200.164.172:8000/live/8235/8235/13784.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Science
+http://193.200.164.172:8000/live/8235/8235/26381.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery World FHD
+http://193.200.164.172:8000/live/8235/8235/17184.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery World HD
+http://193.200.164.172:8000/live/8235/8235/1779.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Theater FHD
+http://193.200.164.172:8000/live/8235/8235/20990.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Theater HD
+http://193.200.164.172:8000/live/8235/8235/3016.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Theather FHD
+http://193.200.164.172:8000/live/8235/8235/31229.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History FHD
+http://193.200.164.172:8000/live/8235/8235/17185.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History HD
+http://193.200.164.172:8000/live/8235/8235/1627.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History
+http://193.200.164.172:8000/live/8235/8235/172.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19965.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History Alternativo
+http://193.200.164.172:8000/live/8235/8235/8681.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 FHD
+http://193.200.164.172:8000/live/8235/8235/20882.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 HD
+http://193.200.164.172:8000/live/8235/8235/1598.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2
+http://193.200.164.172:8000/live/8235/8235/222.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19966.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 Alternativo
+http://193.200.164.172:8000/live/8235/8235/19967.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", National Geografic HD
+http://193.200.164.172:8000/live/8235/8235/1749.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", National Geographic
+http://193.200.164.172:8000/live/8235/8235/392.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", National Geografic Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19968.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", National Geografic Alternativo
+http://193.200.164.172:8000/live/8235/8235/31255.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Wild FHD
+http://193.200.164.172:8000/live/8235/8235/31243.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Wild HD
+http://193.200.164.172:8000/live/8235/8235/1747.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Wild
+http://193.200.164.172:8000/live/8235/8235/375.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Wild Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/31244.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Wild Alternativo
+http://193.200.164.172:8000/live/8235/8235/31245.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Investigação Discovery FHD
+http://193.200.164.172:8000/live/8235/8235/31246.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ID -  Investigação Discovery HD
+http://193.200.164.172:8000/live/8235/8235/1613.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ID - Investigation Discovery
+http://193.200.164.172:8000/live/8235/8235/393.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ID - Investigation Discovery Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21356.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ID - Investigation Discovery Alternativo
+http://193.200.164.172:8000/live/8235/8235/21357.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fish TV FHD
+http://193.200.164.172:8000/live/8235/8235/30182.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fish TV HD
+http://193.200.164.172:8000/live/8235/8235/21675.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fish Tv
+http://193.200.164.172:8000/live/8235/8235/1488.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow FHD
+http://193.200.164.172:8000/live/8235/8235/17072.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow HD
+http://193.200.164.172:8000/live/8235/8235/1616.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow
+http://193.200.164.172:8000/live/8235/8235/212.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/17244.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow Alternativo
+http://193.200.164.172:8000/live/8235/8235/16754.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva FHD
+http://193.200.164.172:8000/live/8235/8235/17041.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva HD
+http://193.200.164.172:8000/live/8235/8235/1630.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva
+http://193.200.164.172:8000/live/8235/8235/1860.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/19990.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva Alternativo
+http://193.200.164.172:8000/live/8235/8235/19991.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT FHD
+http://193.200.164.172:8000/live/8235/8235/20991.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT HD
+http://193.200.164.172:8000/live/8235/8235/362.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT
+http://193.200.164.172:8000/live/8235/8235/1713.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21359.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT Alternativo
+http://193.200.164.172:8000/live/8235/8235/21360.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mais Globosat FHD
+http://193.200.164.172:8000/live/8235/8235/13895.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mais Globosat HD
+http://193.200.164.172:8000/live/8235/8235/6549.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mais Globosat
+http://193.200.164.172:8000/live/8235/8235/122.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mais Globosat Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21703.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mais Globosat Alternativo
+http://193.200.164.172:8000/live/8235/8235/21704.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Comedy Central FHD
+http://193.200.164.172:8000/live/8235/8235/13810.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Comedy Central HD
+http://193.200.164.172:8000/live/8235/8235/13789.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Comedy Central
+http://193.200.164.172:8000/live/8235/8235/93.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Comedy Central Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21689.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Comedy Central Alternativo
+http://193.200.164.172:8000/live/8235/8235/21690.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV FHD
+http://193.200.164.172:8000/live/8235/8235/13890.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV HD
+http://193.200.164.172:8000/live/8235/8235/5895.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV
+http://193.200.164.172:8000/live/8235/8235/128.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21700.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV Alternativo
+http://193.200.164.172:8000/live/8235/8235/21701.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV Live FHD
+http://193.200.164.172:8000/live/8235/8235/31202.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV Live HD
+http://193.200.164.172:8000/live/8235/8235/29782.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV Live
+http://193.200.164.172:8000/live/8235/8235/29783.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 FHD
+http://193.200.164.172:8000/live/8235/8235/13884.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 HD
+http://193.200.164.172:8000/live/8235/8235/13788.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 Alternativo
+http://193.200.164.172:8000/live/8235/8235/21710.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS FHD
+http://193.200.164.172:8000/live/8235/8235/21674.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS HD
+http://193.200.164.172:8000/live/8235/8235/1740.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS
+http://193.200.164.172:8000/live/8235/8235/428.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21705.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS Alternativo
+http://193.200.164.172:8000/live/8235/8235/21706.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Prime Box Brazil FHD
+http://193.200.164.172:8000/live/8235/8235/31201.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Prime Box Brazil HD
+http://193.200.164.172:8000/live/8235/8235/21698.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Prime Box Brazil
+http://193.200.164.172:8000/live/8235/8235/1781.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Music Box Brazil FHD
+http://193.200.164.172:8000/live/8235/8235/31200.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Music Box Brazil HD
+http://193.200.164.172:8000/live/8235/8235/21699.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Music Box Brazil
+http://193.200.164.172:8000/live/8235/8235/355.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Vh1 Megahits
+http://193.200.164.172:8000/live/8235/8235/794.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TruTV FHD
+http://193.200.164.172:8000/live/8235/8235/31199.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TruTv HD
+http://193.200.164.172:8000/live/8235/8235/21649.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TruTv
+http://193.200.164.172:8000/live/8235/8235/180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TruTv Alternativo
+http://193.200.164.172:8000/live/8235/8235/21708.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E FHD
+http://193.200.164.172:8000/live/8235/8235/13903.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E HD
+http://193.200.164.172:8000/live/8235/8235/5986.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21711.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E
+http://193.200.164.172:8000/live/8235/8235/1487.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E Alternativo
+http://193.200.164.172:8000/live/8235/8235/8679.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF FHD
+http://193.200.164.172:8000/live/8235/8235/17517.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF HD
+http://193.200.164.172:8000/live/8235/8235/398.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF
+http://193.200.164.172:8000/live/8235/8235/2624.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21712.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF Alternativo
+http://193.200.164.172:8000/live/8235/8235/21713.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Woohoo FHD
+http://193.200.164.172:8000/live/8235/8235/13883.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Woohoo HD
+http://193.200.164.172:8000/live/8235/8235/13794.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Woohoo
+http://193.200.164.172:8000/live/8235/8235/1702.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Woohoo Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21714.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Woohoo Alternativo
+http://193.200.164.172:8000/live/8235/8235/21715.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC FHD
+http://193.200.164.172:8000/live/8235/8235/13886.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC HD
+http://193.200.164.172:8000/live/8235/8235/5985.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC
+http://193.200.164.172:8000/live/8235/8235/360.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21358.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC Alternativo
+http://193.200.164.172:8000/live/8235/8235/13525.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network FHD
+http://193.200.164.172:8000/live/8235/8235/13897.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network HD
+http://193.200.164.172:8000/live/8235/8235/20992.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network
+http://193.200.164.172:8000/live/8235/8235/374.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21716.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network Alternativo
+http://193.200.164.172:8000/live/8235/8235/21717.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! FHD
+http://193.200.164.172:8000/live/8235/8235/21230.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! HD
+http://193.200.164.172:8000/live/8235/8235/5901.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E!
+http://193.200.164.172:8000/live/8235/8235/1712.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21718.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! Alternativo
+http://193.200.164.172:8000/live/8235/8235/21719.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lifetime FHD
+http://193.200.164.172:8000/live/8235/8235/13894.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lifetime HD
+http://193.200.164.172:8000/live/8235/8235/5900.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lifetime Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21720.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lifetime Alternativo
+http://193.200.164.172:8000/live/8235/8235/21721.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lifetime
+http://193.200.164.172:8000/live/8235/8235/1725.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Arte 1 FHD
+http://193.200.164.172:8000/live/8235/8235/31198.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Arte 1 HD
+http://193.200.164.172:8000/live/8235/8235/21650.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Arte 1
+http://193.200.164.172:8000/live/8235/8235/1704.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dog TV FHD
+http://193.200.164.172:8000/live/8235/8235/41725.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dog TV HD
+http://193.200.164.172:8000/live/8235/8235/41726.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Max
+http://193.200.164.172:8000/live/8235/8235/43189.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Play Tv
+http://193.200.164.172:8000/live/8235/8235/1493.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", NHK
+http://193.200.164.172:8000/live/8235/8235/12172.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC H265
+http://193.200.164.172:8000/live/8235/8235/40076.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet H265
+http://193.200.164.172:8000/live/8235/8235/35705.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN H265
+http://193.200.164.172:8000/live/8235/8235/13860.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News H265
+http://193.200.164.172:8000/live/8235/8235/41927.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports H265
+http://193.200.164.172:8000/live/8235/8235/13859.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang H265
+http://193.200.164.172:8000/live/8235/8235/41928.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS H265
+http://193.200.164.172:8000/live/8235/8235/40079.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax H265
+http://193.200.164.172:8000/live/8235/8235/35708.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel H265
+http://193.200.164.172:8000/live/8235/8235/35706.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H H265
+http://193.200.164.172:8000/live/8235/8235/13856.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Theater H265
+http://193.200.164.172:8000/live/8235/8235/13855.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo H265
+http://193.200.164.172:8000/live/8235/8235/35707.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery World H265
+http://193.200.164.172:8000/live/8235/8235/13853.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! H265
+http://193.200.164.172:8000/live/8235/8235/41931.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN 2 H265
+http://193.200.164.172:8000/live/8235/8235/13849.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil H265
+http://193.200.164.172:8000/live/8235/8235/13850.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Life H265
+http://193.200.164.172:8000/live/8235/8235/13846.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 1 H265
+http://193.200.164.172:8000/live/8235/8235/13847.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 2 H265
+http://193.200.164.172:8000/live/8235/8235/41933.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fx H265
+http://193.200.164.172:8000/live/8235/8235/13844.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT H265
+http://193.200.164.172:8000/live/8235/8235/41934.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob H265
+http://193.200.164.172:8000/live/8235/8235/40080.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 H265
+http://193.200.164.172:8000/live/8235/8235/13836.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 H265
+http://193.200.164.172:8000/live/8235/8235/13841.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family H265
+http://193.200.164.172:8000/live/8235/8235/13840.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO H265
+http://193.200.164.172:8000/live/8235/8235/13839.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus H265
+http://193.200.164.172:8000/live/8235/8235/13838.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature H265
+http://193.200.164.172:8000/live/8235/8235/13837.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History H265
+http://193.200.164.172:8000/live/8235/8235/13835.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Investigation Discovery H265
+http://193.200.164.172:8000/live/8235/8235/13834.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX H265
+http://193.200.164.172:8000/live/8235/8235/40078.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Up H265
+http://193.200.164.172:8000/live/8235/8235/41955.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Prime H265
+http://193.200.164.172:8000/live/8235/8235/40077.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix H265
+http://193.200.164.172:8000/live/8235/8235/13833.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow H265
+http://193.200.164.172:8000/live/8235/8235/13832.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo H265
+http://193.200.164.172:8000/live/8235/8235/13831.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount H265
+http://193.200.164.172:8000/live/8235/8235/13830.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede TV H265
+http://193.200.164.172:8000/live/8235/8235/41954.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT H265
+http://193.200.164.172:8000/live/8235/8235/13825.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV H265
+http://193.200.164.172:8000/live/8235/8235/13824.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS H265
+http://193.200.164.172:8000/live/8235/8235/13823.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action H265
+http://193.200.164.172:8000/live/8235/8235/13822.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca H265
+http://193.200.164.172:8000/live/8235/8235/13821.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium H265
+http://193.200.164.172:8000/live/8235/8235/13820.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch H265
+http://193.200.164.172:8000/live/8235/8235/13819.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT H265
+http://193.200.164.172:8000/live/8235/8235/13818.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Series H265
+http://193.200.164.172:8000/live/8235/8235/13817.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV H265
+http://193.200.164.172:8000/live/8235/8235/13816.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva H265
+http://193.200.164.172:8000/live/8235/8235/13815.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 H265
+http://193.200.164.172:8000/live/8235/8235/40075.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel H265
+http://193.200.164.172:8000/live/8235/8235/13814.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E -H265
+http://193.200.164.172:8000/live/8235/8235/31181.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN -H265
+http://193.200.164.172:8000/live/8235/8235/31180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network -H265
+http://193.200.164.172:8000/live/8235/8235/31178.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate -H265
+http://193.200.164.172:8000/live/8235/8235/31177.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Civilization -H265
+http://193.200.164.172:8000/live/8235/8235/31176.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Science -H265
+http://193.200.164.172:8000/live/8235/8235/31175.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Channel H265
+http://193.200.164.172:8000/live/8235/8235/41929.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fish TV -H265
+http://193.200.164.172:8000/live/8235/8235/31172.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network -H265
+http://193.200.164.172:8000/live/8235/8235/31171.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports -H265
+http://193.200.164.172:8000/live/8235/8235/31168.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports 2 -H265
+http://193.200.164.172:8000/live/8235/8235/31169.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News -H265
+http://193.200.164.172:8000/live/8235/8235/31166.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus -H265
+http://193.200.164.172:8000/live/8235/8235/31165.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature -H265
+http://193.200.164.172:8000/live/8235/8235/31164.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO2 -H265
+http://193.200.164.172:8000/live/8235/8235/31163.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History -H265
+http://193.200.164.172:8000/live/8235/8235/31162.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Investigation Discovery -H265
+http://193.200.164.172:8000/live/8235/8235/31161.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lifetime -H265
+http://193.200.164.172:8000/live/8235/8235/31160.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix -H265
+http://193.200.164.172:8000/live/8235/8235/31159.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow -H265
+http://193.200.164.172:8000/live/8235/8235/31158.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO -H265
+http://193.200.164.172:8000/live/8235/8235/31157.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO Kids -H265
+http://193.200.164.172:8000/live/8235/8235/31156.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", NAT GEO Wild -H265
+http://193.200.164.172:8000/live/8235/8235/31155.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes -H265
+http://193.200.164.172:8000/live/8235/8235/31154.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 2 H65
+http://193.200.164.172:8000/live/8235/8235/31136.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3 H265
+http://193.200.164.172:8000/live/8235/8235/31135.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4 H265
+http://193.200.164.172:8000/live/8235/8235/13828.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5 H265
+http://193.200.164.172:8000/live/8235/8235/29630.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 6 H265
+http://193.200.164.172:8000/live/8235/8235/31132.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 7 H265
+http://193.200.164.172:8000/live/8235/8235/31131.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony -H265
+http://193.200.164.172:8000/live/8235/8235/31179.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space -H265
+http://193.200.164.172:8000/live/8235/8235/31153.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV -H265
+http://193.200.164.172:8000/live/8235/8235/31150.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 -H265
+http://193.200.164.172:8000/live/8235/8235/31152.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 -H265
+http://193.200.164.172:8000/live/8235/8235/31151.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal -H265
+http://193.200.164.172:8000/live/8235/8235/31149.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS -H265
+http://193.200.164.172:8000/live/8235/8235/31148.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action -H265
+http://193.200.164.172:8000/live/8235/8235/31147.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult-H265
+http://193.200.164.172:8000/live/8235/8235/31146.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun -H265
+http://193.200.164.172:8000/live/8235/8235/31145.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca -H265
+http://193.200.164.172:8000/live/8235/8235/31144.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium -H265
+http://193.200.164.172:8000/live/8235/8235/31143.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch -H265
+http://193.200.164.172:8000/live/8235/8235/31142.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT -H265
+http://193.200.164.172:8000/live/8235/8235/31141.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Series -H265
+http://193.200.164.172:8000/live/8235/8235/31140.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV -H265
+http://193.200.164.172:8000/live/8235/8235/31139.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel -H265
+http://193.200.164.172:8000/live/8235/8235/31138.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E -FHD
+http://193.200.164.172:8000/live/8235/8235/31203.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC -FHD
+http://193.200.164.172:8000/live/8235/8235/31225.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet -FHD
+http://193.200.164.172:8000/live/8235/8235/21644.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band News -FHD
+http://193.200.164.172:8000/live/8235/8235/31193.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Band Sports -FHD
+http://193.200.164.172:8000/live/8235/8235/31616.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", BIS -FHD
+http://193.200.164.172:8000/live/8235/8235/30180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang -FHD
+http://193.200.164.172:8000/live/8235/8235/21653.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax -FHD
+http://193.200.164.172:8000/live/8235/8235/30184.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel -FHD
+http://193.200.164.172:8000/live/8235/8235/21645.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Civilization -FHD
+http://193.200.164.172:8000/live/8235/8235/31231.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H -FHD
+http://193.200.164.172:8000/live/8235/8235/21646.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Kids -FHD
+http://193.200.164.172:8000/live/8235/8235/31232.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Science -FHD
+http://193.200.164.172:8000/live/8235/8235/31230.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo -FHD
+http://193.200.164.172:8000/live/8235/8235/21647.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Channel -FHD
+http://193.200.164.172:8000/live/8235/8235/17046.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", E! -FHD
+http://193.200.164.172:8000/live/8235/8235/31260.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN -FHD
+http://193.200.164.172:8000/live/8235/8235/30181.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil -FHD
+http://193.200.164.172:8000/live/8235/8235/21687.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Extra -FHD
+http://193.200.164.172:8000/live/8235/8235/31261.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fish TV -FHD
+http://193.200.164.172:8000/live/8235/8235/31429.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network -FHD
+http://193.200.164.172:8000/live/8235/8235/31258.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX -FHD
+http://193.200.164.172:8000/live/8235/8235/21643.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Premium 1 -FHD
+http://193.200.164.172:8000/live/8235/8235/31249.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Premium 2 -FHD
+http://193.200.164.172:8000/live/8235/8235/31250.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports 2 -FHD
+http://193.200.164.172:8000/live/8235/8235/17044.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG -FHD
+http://193.200.164.172:8000/live/8235/8235/31126.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News -FHD
+http://193.200.164.172:8000/live/8235/8235/13802.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo RBS TV Porto Alegre -FHD
+http://193.200.164.172:8000/live/8235/8235/31129.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo TV Anhanguera -FHD
+http://193.200.164.172:8000/live/8235/8235/31130.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob -FHD
+http://193.200.164.172:8000/live/8235/8235/17053.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT -FHD
+http://193.200.164.172:8000/live/8235/8235/31242.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 -FHD
+http://193.200.164.172:8000/live/8235/8235/31247.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO -FHD
+http://193.200.164.172:8000/live/8235/8235/21639.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 -FHD
+http://193.200.164.172:8000/live/8235/8235/21640.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family -FHD
+http://193.200.164.172:8000/live/8235/8235/31211.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus -FHD
+http://193.200.164.172:8000/live/8235/8235/31210.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature -FHD
+http://193.200.164.172:8000/live/8235/8235/31209.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History -FHD
+http://193.200.164.172:8000/live/8235/8235/21693.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX -FHD
+http://193.200.164.172:8000/live/8235/8235/31208.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Prime -FHD
+http://193.200.164.172:8000/live/8235/8235/31207.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX UP -FHD
+http://193.200.164.172:8000/live/8235/8235/31206.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix -FHD
+http://193.200.164.172:8000/live/8235/8235/31224.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MTV -FHD
+http://193.200.164.172:8000/live/8235/8235/31248.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow -FHD
+http://193.200.164.172:8000/live/8235/8235/29900.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids -FHD
+http://193.200.164.172:8000/live/8235/8235/31252.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", National Geografic -FHD
+http://193.200.164.172:8000/live/8235/8235/31254.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick Jr -FHD
+http://193.200.164.172:8000/live/8235/8235/31251.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nickelodeon -FHD
+http://193.200.164.172:8000/live/8235/8235/21652.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF -FHD
+http://193.200.164.172:8000/live/8235/8235/30183.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paramount -FHD
+http://193.200.164.172:8000/live/8235/8235/31227.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes ‐FHD
+http://193.200.164.172:8000/live/8235/8235/29661.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4 -FHD
+http://193.200.164.172:8000/live/8235/8235/31134.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 5 -FHD
+http://193.200.164.172:8000/live/8235/8235/31133.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News -FHD
+http://193.200.164.172:8000/live/8235/8235/31194.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony -FHD
+http://193.200.164.172:8000/live/8235/8235/31241.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space -FHD
+http://193.200.164.172:8000/live/8235/8235/29951.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV -FHD
+http://193.200.164.172:8000/live/8235/8235/18831.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 -FHD
+http://193.200.164.172:8000/live/8235/8235/19995.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 -FHD
+http://193.200.164.172:8000/live/8235/8235/29615.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal -FHD
+http://193.200.164.172:8000/live/8235/8235/31234.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SyFy -FHD
+http://193.200.164.172:8000/live/8235/8235/31235.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TBS -FHD
+http://193.200.164.172:8000/live/8235/8235/31239.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action -FHD
+http://193.200.164.172:8000/live/8235/8235/21636.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action  - FHD
+http://193.200.164.172:8000/live/8235/8235/29609.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun -FHD
+http://193.200.164.172:8000/live/8235/8235/21637.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun  - FHD
+http://193.200.164.172:8000/live/8235/8235/29608.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca -FHD
+http://193.200.164.172:8000/live/8235/8235/21635.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca - FHD
+http://193.200.164.172:8000/live/8235/8235/29607.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium -FHD
+http://193.200.164.172:8000/live/8235/8235/21634.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium  - FHD
+http://193.200.164.172:8000/live/8235/8235/29606.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch -FHD
+http://193.200.164.172:8000/live/8235/8235/21638.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch  - FHD
+http://193.200.164.172:8000/live/8235/8235/29605.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult - FHD
+http://193.200.164.172:8000/live/8235/8235/29604.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TLC -FHD
+http://193.200.164.172:8000/live/8235/8235/31257.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT -FHD
+http://193.200.164.172:8000/live/8235/8235/31236.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Séries -FHD
+http://193.200.164.172:8000/live/8235/8235/31237.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV -FHD
+http://193.200.164.172:8000/live/8235/8235/31233.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", VH1 -FHD
+http://193.200.164.172:8000/live/8235/8235/31253.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Viva -FHD
+http://193.200.164.172:8000/live/8235/8235/21648.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel -FHD
+http://193.200.164.172:8000/live/8235/8235/21642.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38013.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AMC Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38012.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Animal Planet Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38011.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", AXN Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38010.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38009.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cinemax Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38008.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Combate Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37970.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Channel Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38007.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Civilization Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37968.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery H&H Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37967.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Kids Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37966.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Science Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37965.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Turbo Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37964.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37952.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Brasil Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38005.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ESPN Extra Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/43256.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Food Network Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38003.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38002.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Life Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37946.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 1 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37955.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Fox Premium 2 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37954.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports 2 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37951.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", FOX Sports Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38001.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo MG Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38015.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo SP Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38014.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo News Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37950.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Nordeste Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/43340.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37949.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", GNT Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37948.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", H2 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37962.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO 2 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37999.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38000.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Family Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/40752.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Plus Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/40754.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", HBO Signature Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/40753.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", History Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37998.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ID FHD Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37953.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MAX Prime Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37997.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", MegaPix Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37996.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Multishow Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37995.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37994.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37993.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick Jr Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37992.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", OFF Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37972.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 3 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37990.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere 4 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37971.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Premiere Clubes Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37989.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RBS TV Porto Alegre Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/38016.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Record News Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37988.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RecordTV Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/36353.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SBT Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/40386.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sony Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37987.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Space Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37986.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 2 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37983.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV 3 Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37985.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SporTV Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37984.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Studio Universal Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37982.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", SyFy Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37981.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Action Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37980.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Cult Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37975.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Fun Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37979.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Pipoca Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37978.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Premium Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37977.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Telecine Touch Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37976.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37961.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TNT Series Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37947.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Universal TV Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37963.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Warner Channel Alternativo FHD
+http://193.200.164.172:8000/live/8235/8235/37973.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Vida FHD
+http://193.200.164.172:8000/live/8235/8235/31618.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Vida HD
+http://193.200.164.172:8000/live/8235/8235/31619.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Vida
+http://193.200.164.172:8000/live/8235/8235/6657.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Aparecida HD
+http://193.200.164.172:8000/live/8235/8235/29796.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Aparecida
+http://193.200.164.172:8000/live/8235/8235/6550.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Novo tempo
+http://193.200.164.172:8000/live/8235/8235/2408.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Mundial
+http://193.200.164.172:8000/live/8235/8235/6658.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Evangelizar
+http://193.200.164.172:8000/live/8235/8235/8494.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boa Vontade TV
+http://infinityzamigos.ddns.me:8080/Infinity/VQ1YugzBCs/1343
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Gideões
+http://193.200.164.172:8000/live/8235/8235/16790.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RIT
+http://193.200.164.172:8000/live/8235/8235/2626.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", RBI TV
+http://193.200.164.172:8000/live/8235/8235/2627.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canal Promessas
+http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Missao
+http://193.200.164.172:8000/live/8235/8235/17246.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede Gospel
+http://193.200.164.172:8000/live/8235/8235/6659.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rede 21
+http://193.200.164.172:8000/live/8235/8235/6660.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Kids FHD
+http://193.200.164.172:8000/live/8235/8235/21651.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Kids
+http://193.200.164.172:8000/live/8235/8235/426.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Kids Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21176.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Discovery Kids Alternativo
+http://193.200.164.172:8000/live/8235/8235/21177.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", PlayKids FHD
+http://193.200.164.172:8000/live/8235/8235/31267.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", PlayKids HD
+http://193.200.164.172:8000/live/8235/8235/31268.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", PlayKids
+http://193.200.164.172:8000/live/8235/8235/31269.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Channel FHD
+http://193.200.164.172:8000/live/8235/8235/13807.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Channel
+http://193.200.164.172:8000/live/8235/8235/1486.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Channel Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21178.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Channel Alternativo
+http://193.200.164.172:8000/live/8235/8235/21179.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network FHD
+http://193.200.164.172:8000/live/8235/8235/13803.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network HD
+http://193.200.164.172:8000/live/8235/8235/13756.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network
+http://193.200.164.172:8000/live/8235/8235/377.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network ‐FHD
+http://193.200.164.172:8000/live/8235/8235/31196.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21174.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cartoon Network Alternativo
+http://193.200.164.172:8000/live/8235/8235/21175.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Jr FHD
+http://193.200.164.172:8000/live/8235/8235/20879.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Jr HD
+http://193.200.164.172:8000/live/8235/8235/8483.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Jr
+http://193.200.164.172:8000/live/8235/8235/181.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Jr Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21185.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney Jr Alternativo
+http://193.200.164.172:8000/live/8235/8235/21186.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nickelodeon FHD
+http://193.200.164.172:8000/live/8235/8235/13809.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nickelodeon HD
+http://193.200.164.172:8000/live/8235/8235/7020.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nickelodeon
+http://193.200.164.172:8000/live/8235/8235/126.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nickelodeon Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21182.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nickelodeon Alternativo
+http://193.200.164.172:8000/live/8235/8235/21183.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick JR FHD
+http://193.200.164.172:8000/live/8235/8235/13889.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick Jr HD
+http://193.200.164.172:8000/live/8235/8235/21189.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick Jr
+http://193.200.164.172:8000/live/8235/8235/286.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick Jr Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21187.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nick Jr Alternativo
+http://193.200.164.172:8000/live/8235/8235/21188.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob FHD
+http://193.200.164.172:8000/live/8235/8235/13811.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob HD
+http://193.200.164.172:8000/live/8235/8235/5899.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob
+http://193.200.164.172:8000/live/8235/8235/378.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21184.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gloob Alternativo
+http://193.200.164.172:8000/live/8235/8235/12272.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang FHD
+http://193.200.164.172:8000/live/8235/8235/20878.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang HD
+http://193.200.164.172:8000/live/8235/8235/8484.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang
+http://193.200.164.172:8000/live/8235/8235/187.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21190.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boomerang Alternativo
+http://193.200.164.172:8000/live/8235/8235/21191.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globinho FHD
+http://193.200.164.172:8000/live/8235/8235/31192.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globinho HD
+http://193.200.164.172:8000/live/8235/8235/9453.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globinho
+http://193.200.164.172:8000/live/8235/8235/9454.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids FHD
+http://193.200.164.172:8000/live/8235/8235/13808.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids HD
+http://193.200.164.172:8000/live/8235/8235/7042.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids
+http://193.200.164.172:8000/live/8235/8235/6541.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids Alternativo HD
+http://193.200.164.172:8000/live/8235/8235/21180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nat Geo Kids Alternativo
+http://193.200.164.172:8000/live/8235/8235/21181.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Rá Tim Bum FHD
+http://193.200.164.172:8000/live/8235/8235/31195.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Rá Tim Bum HD
+http://193.200.164.172:8000/live/8235/8235/21654.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Rá Tim Bum
+http://193.200.164.172:8000/live/8235/8235/6135.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tooncast
+http://193.200.164.172:8000/live/8235/8235/127.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tooncast Alternativo
+http://193.200.164.172:8000/live/8235/8235/40388.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Baby - TV
+http://193.200.164.172:8000/live/8235/8235/5904.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Baby TV -Alternativo
+http://193.200.164.172:8000/live/8235/8235/31518.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Disney XD
+http://193.200.164.172:8000/live/8235/8235/277.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Zoomoo
+http://193.200.164.172:8000/live/8235/8235/19994.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Apenas um Show
+http://193.200.164.172:8000/live/8235/8235/29802.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A Casa do Mickey
+http://193.200.164.172:8000/live/8235/8235/17127.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A Formiga Atomica
+http://193.200.164.172:8000/live/8235/8235/21662.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A Pantera Cor de Rosa e Amigos
+http://193.200.164.172:8000/live/8235/8235/29803.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", A Vaca e o Frango
+http://193.200.164.172:8000/live/8235/8235/21590.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", As Aventuras de Jackie Chan
+http://193.200.164.172:8000/live/8235/8235/29597.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", As Meninas Super Poderosas
+http://193.200.164.172:8000/live/8235/8235/13773.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", As Meninas Super Poderosas Geração Z
+http://193.200.164.172:8000/live/8235/8235/29873.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Beyblade Burst
+http://193.200.164.172:8000/live/8235/8235/29659.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Ben10 Ultimate Alien
+http://193.200.164.172:8000/live/8235/8235/29877.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Billy Dilley
+http://193.200.164.172:8000/live/8235/8235/36019.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boku No Hero T1
+http://193.200.164.172:8000/live/8235/8235/42102.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boku No Hero T2
+http://193.200.164.172:8000/live/8235/8235/42101.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boku No Hero T3
+http://193.200.164.172:8000/live/8235/8235/42100.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Black Clover T1
+http://193.200.164.172:8000/live/8235/8235/43180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Black Clover T1 Parte 2
+http://193.200.164.172:8000/live/8235/8235/43186.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Black Clover T2
+http://193.200.164.172:8000/live/8235/8235/43187.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boruto: The Next Generation
+http://193.200.164.172:8000/live/8235/8235/29671.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boruto: The Next Generation T2
+http://193.200.164.172:8000/live/8235/8235/43185.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Boneco Atômico
+http://193.200.164.172:8000/live/8235/8235/29732.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Bob Esponja
+http://193.200.164.172:8000/live/8235/8235/21655.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Bob Zoom
+http://193.200.164.172:8000/live/8235/8235/29847.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Caverna do Dragão
+http://193.200.164.172:8000/live/8235/8235/29328.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Carmen San Diego 2019
+http://193.200.164.172:8000/live/8235/8235/40841.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chaves Desenho
+http://193.200.164.172:8000/live/8235/8235/29325.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Canções Infantis
+http://193.200.164.172:8000/live/8235/8235/29792.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Castlevania
+http://193.200.164.172:8000/live/8235/8235/30722.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cavaleiros do Zodíaco - Guerra Galáctica
+http://193.200.164.172:8000/live/8235/8235/29851.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cavaleiros do Zodiaco - Doze Casas
+http://193.200.164.172:8000/live/8235/8235/21656.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cavaleiros do Zodíaco  - Asgard
+http://193.200.164.172:8000/live/8235/8235/29848.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cavaleiros do Zodíaco - Poseidon
+http://193.200.164.172:8000/live/8235/8235/29854.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Cavaleiros do Zodíaco  -  Hades
+http://193.200.164.172:8000/live/8235/8235/29849.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Clarêncio o Otimista
+http://193.200.164.172:8000/live/8235/8235/16173.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Classicos Disney
+http://193.200.164.172:8000/live/8235/8235/21657.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Contos Assustadores da Masha
+http://193.200.164.172:8000/live/8235/8235/32658.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Contos da Masha
+http://193.200.164.172:8000/live/8235/8235/32657.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Coragem o Cão Covarde
+http://193.200.164.172:8000/live/8235/8235/21658.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Corrida Maluca
+http://193.200.164.172:8000/live/8235/8235/21666.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Daniel Tigre
+http://193.200.164.172:8000/live/8235/8235/29880.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball
+http://193.200.164.172:8000/live/8235/8235/21659.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball Kai (Cell)
+http://193.200.164.172:8000/live/8235/8235/29623.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball Kai (Freezar)
+http://193.200.164.172:8000/live/8235/8235/29624.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball Kai (Sayajins)
+http://193.200.164.172:8000/live/8235/8235/29622.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball Kai (Majin Boo)
+http://193.200.164.172:8000/live/8235/8235/29625.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball Super
+http://193.200.164.172:8000/live/8235/8235/34668.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dragon Ball Heroes
+http://193.200.164.172:8000/live/8235/8235/29460.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", (Des)encanto
+http://193.200.164.172:8000/live/8235/8235/29872.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Death Note
+http://193.200.164.172:8000/live/8235/8235/29626.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dora: A Aventureira
+http://193.200.164.172:8000/live/8235/8235/29739.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", DuckTales
+http://193.200.164.172:8000/live/8235/8235/29599.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Futurama
+http://193.200.164.172:8000/live/8235/8235/21663.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Galinha Pintadinha
+http://193.200.164.172:8000/live/8235/8235/12979.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Galinha Pintadinha Mini
+http://193.200.164.172:8000/live/8235/8235/29875.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Guardiões das Galáxias Desenho
+http://193.200.164.172:8000/live/8235/8235/29354.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Guardiões das Galáxias T2
+http://193.200.164.172:8000/live/8235/8235/31191.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gravity Falls
+http://193.200.164.172:8000/live/8235/8235/17559.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Gospel Cartoon
+http://193.200.164.172:8000/live/8235/8235/38023.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Homem de Ferro Desenho
+http://193.200.164.172:8000/live/8235/8235/29352.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Hotel Transilvania
+http://193.200.164.172:8000/live/8235/8235/35908.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Hulk e Os Agentes de SMASH
+http://193.200.164.172:8000/live/8235/8235/29841.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Irmão do Jorel
+http://193.200.164.172:8000/live/8235/8235/21593.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Johnny Bravo
+http://193.200.164.172:8000/live/8235/8235/29852.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Larva Tuba
+http://193.200.164.172:8000/live/8235/8235/29647.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lady Bug  1º Temporada
+http://193.200.164.172:8000/live/8235/8235/29653.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Lady Bug 2º Temporada
+http://193.200.164.172:8000/live/8235/8235/29876.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Leo o Caminhão
+http://193.200.164.172:8000/live/8235/8235/36558.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Liga da Justiça Action
+http://193.200.164.172:8000/live/8235/8235/29631.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Liga da Justiça Sem Limites
+http://193.200.164.172:8000/live/8235/8235/29596.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Luluzinha
+http://193.200.164.172:8000/live/8235/8235/21664.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Masha e o Urso
+http://193.200.164.172:8000/live/8235/8235/29315.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Marvel Homem-Aranha
+http://193.200.164.172:8000/live/8235/8235/34283.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mr. Bean Animado
+http://193.200.164.172:8000/live/8235/8235/35709.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mutante Rex
+http://193.200.164.172:8000/live/8235/8235/30191.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nanatsu no Taizai T1
+http://193.200.164.172:8000/live/8235/8235/42120.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nanatsu no Taizai T2
+http://193.200.164.172:8000/live/8235/8235/42121.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Naruto Shippuden
+http://193.200.164.172:8000/live/8235/8235/29670.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Novo Pica Pau
+http://193.200.164.172:8000/live/8235/8235/29846.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Incrível Mundo de Gumball
+http://193.200.164.172:8000/live/8235/8235/29791.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Máscara
+http://193.200.164.172:8000/live/8235/8235/21667.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Poderoso Chefinho T1
+http://193.200.164.172:8000/live/8235/8235/29326.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Poderoso Chefinho T2
+http://193.200.164.172:8000/live/8235/8235/32659.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Show da Luna
+http://193.200.164.172:8000/live/8235/8235/17962.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Show do Scooby Doo
+http://193.200.164.172:8000/live/8235/8235/31607.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Vazio
+http://193.200.164.172:8000/live/8235/8235/30684.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Operação Big  Hero
+http://193.200.164.172:8000/live/8235/8235/43262.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Flintstones
+http://193.200.164.172:8000/live/8235/8235/29853.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Jetsons
+http://193.200.164.172:8000/live/8235/8235/30850.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Jovens Titãs Em Ação
+http://193.200.164.172:8000/live/8235/8235/17565.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Pequerruchos
+http://193.200.164.172:8000/live/8235/8235/29353.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Simpsons T21 T22 T23
+http://193.200.164.172:8000/live/8235/8235/35905.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Simpsons T24 T25 T26
+http://193.200.164.172:8000/live/8235/8235/35906.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Simpsons T27 T28
+http://193.200.164.172:8000/live/8235/8235/35907.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Vingadores Unidos
+http://193.200.164.172:8000/live/8235/8235/29799.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", 3 Palavrinhas
+http://193.200.164.172:8000/live/8235/8235/29340.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Patrulha Canina T1
+http://193.200.164.172:8000/live/8235/8235/17964.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Patrulha Canina T2
+http://193.200.164.172:8000/live/8235/8235/29658.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Patrulha Canina T3
+http://193.200.164.172:8000/live/8235/8235/29866.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Paradise Pd
+http://193.200.164.172:8000/live/8235/8235/31190.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Peppa Pig
+http://193.200.164.172:8000/live/8235/8235/12973.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pequenos Espiões
+http://193.200.164.172:8000/live/8235/8235/29734.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pocoyo 1º temporada
+http://193.200.164.172:8000/live/8235/8235/29316.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pocoyo 2º temporada
+http://193.200.164.172:8000/live/8235/8235/29317.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pocoyo 3º temporada
+http://193.200.164.172:8000/live/8235/8235/29318.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pocoyo 4º temporada
+http://193.200.164.172:8000/live/8235/8235/29319.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pokémon Liga Indigo Parte 1
+http://193.200.164.172:8000/live/8235/8235/29878.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pokémon Liga Índigo Parte 2
+http://193.200.164.172:8000/live/8235/8235/43166.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Pokémon: Sun and Moon
+http://193.200.164.172:8000/live/8235/8235/29883.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tom e Jerry
+http://193.200.164.172:8000/live/8235/8235/17558.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Uma Familia da Pesada (Family Guy)
+http://193.200.164.172:8000/live/8235/8235/21660.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Rick and Morty
+http://193.200.164.172:8000/live/8235/8235/31187.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Stars vs as Forças do Mal
+http://193.200.164.172:8000/live/8235/8235/29731.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Star Wars: Rebels T3-T4
+http://193.200.164.172:8000/live/8235/8235/43260.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Star Wars: The Clone Wars T4-T5-T6
+http://193.200.164.172:8000/live/8235/8235/43261.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", She-ra
+http://193.200.164.172:8000/live/8235/8235/29879.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", She-Ra e As Princesas do Poder
+http://193.200.164.172:8000/live/8235/8235/34282.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Scooby-Doo Cadê Você?
+http://193.200.164.172:8000/live/8235/8235/31609.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Scooby-Doo
+http://193.200.164.172:8000/live/8235/8235/17561.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", South Park
+http://193.200.164.172:8000/live/8235/8235/21665.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Super Choque
+http://193.200.164.172:8000/live/8235/8235/13792.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Super Strikas
+http://193.200.164.172:8000/live/8235/8235/30685.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Super Wings
+http://193.200.164.172:8000/live/8235/8235/29740.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Transformers Rescue Bots
+http://193.200.164.172:8000/live/8235/8235/29881.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Três Espiões Demais
+http://193.200.164.172:8000/live/8235/8235/29850.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tico e Teco
+http://193.200.164.172:8000/live/8235/8235/21668.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TrollHunters
+http://193.200.164.172:8000/live/8235/8235/29329.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", T.U.F.F Puppy
+http://193.200.164.172:8000/live/8235/8235/29952.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ThunderCats Clássico
+http://193.200.164.172:8000/live/8235/8235/29845.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Thundercats
+http://193.200.164.172:8000/live/8235/8235/12971.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Ultimate Homem Aranha
+http://193.200.164.172:8000/live/8235/8235/29790.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Voltron O Defensor Lendário
+http://193.200.164.172:8000/live/8235/8235/29598.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", X-Men Evolution
+http://193.200.164.172:8000/live/8235/8235/17566.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Wolverine e os X-Men
+http://193.200.164.172:8000/live/8235/8235/29890.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Zak Storm
+http://193.200.164.172:8000/live/8235/8235/32829.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Arnold
+http://193.200.164.172:8000/live/8235/8235/29692.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", ALF o Eteimoso
+http://193.200.164.172:8000/live/8235/8235/29786.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Black Kamen Rider Rx
+http://193.200.164.172:8000/live/8235/8235/30206.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chaves T1
+http://193.200.164.172:8000/live/8235/8235/17167.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chaves T2
+http://193.200.164.172:8000/live/8235/8235/40347.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chapolin
+http://193.200.164.172:8000/live/8235/8235/29339.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chapolin T1
+http://193.200.164.172:8000/live/8235/8235/36404.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chapolin T2
+http://193.200.164.172:8000/live/8235/8235/36405.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Chapolin T3
+http://193.200.164.172:8000/live/8235/8235/36406.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Dois Homens e Meio
+http://193.200.164.172:8000/live/8235/8235/12985.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", D.p.a Novo Trio
+http://193.200.164.172:8000/live/8235/8235/29745.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Eu a Patroa e as Crianças
+http://193.200.164.172:8000/live/8235/8235/17074.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Família Dinossauros
+http://193.200.164.172:8000/live/8235/8235/29320.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Friends
+http://193.200.164.172:8000/live/8235/8235/29689.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", 2 Garotas em Apuros
+http://193.200.164.172:8000/live/8235/8235/18201.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Globo Repórter
+http://193.200.164.172:8000/live/8235/8235/29948.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", 2 Homens e Meio T1-T2-T3-T4
+http://193.200.164.172:8000/live/8235/8235/32660.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", 2 Homens e Meio T5-T6-T7-T8
+http://193.200.164.172:8000/live/8235/8235/32661.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", 2 Homens e Meio
+http://193.200.164.172:8000/live/8235/8235/30723.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", iCarly
+http://193.200.164.172:8000/live/8235/8235/17078.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Kenan & Kel
+http://193.200.164.172:8000/live/8235/8235/21671.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Jaspion
+http://193.200.164.172:8000/live/8235/8235/29349.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Jessie
+http://193.200.164.172:8000/live/8235/8235/29867.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Jiban
+http://193.200.164.172:8000/live/8235/8235/29736.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Jiraya
+http://193.200.164.172:8000/live/8235/8235/34670.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Mr Bean
+http://193.200.164.172:8000/live/8235/8235/17211.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Nova Escolinha do Prof Raimundo
+http://193.200.164.172:8000/live/8235/8235/29789.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", O Álbum da Grande Família
+http://193.200.164.172:8000/live/8235/8235/31431.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Normais*
+http://193.200.164.172:8000/live/8235/8235/32656.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Os Trapalhões 24h
+http://193.200.164.172:8000/live/8235/8235/21669.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Patati e Patata
+http://193.200.164.172:8000/live/8235/8235/29741.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Profissão Reporter
+http://193.200.164.172:8000/live/8235/8235/29949.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Sai de Baixo
+http://193.200.164.172:8000/live/8235/8235/29652.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Só Toca Top
+http://193.200.164.172:8000/live/8235/8235/29743.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Tapas e Beijos
+http://193.200.164.172:8000/live/8235/8235/29801.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", The Big Bang Theory
+http://193.200.164.172:8000/live/8235/8235/26382.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", The Voice Brasil (2018)
+http://193.200.164.172:8000/live/8235/8235/29842.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Todo Mundo Odeia o Cris
+http://193.200.164.172:8000/live/8235/8235/12970.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", TV Pirata (Multishow)
+http://193.200.164.172:8000/live/8235/8235/29324.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Toma lá dá cá
+http://193.200.164.172:8000/live/8235/8235/29651.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Um Maluco no Pedaço
+http://193.200.164.172:8000/live/8235/8235/12968.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Vai Que Cola
+http://193.200.164.172:8000/live/8235/8235/29839.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Zero 1 (Games)
+http://193.200.164.172:8000/live/8235/8235/29744.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 1", Zorra Total
+http://193.200.164.172:8000/live/8235/8235/29797.ts
