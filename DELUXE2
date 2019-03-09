@@ -2676,3 +2676,1653 @@ http://ultraiptv.online:80/xzFA/xOh6bFzX05/22529
 http://ultraiptv.online:80/xzFA/xOh6bFzX05/22527
 #EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ZOOMOO
 http://ultraiptv.online:80/xzFA/xOh6bFzX05/22528
+
+#EXTM3U
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 1 FHD
+http://158.69.116.204:80/bento/1234/7390
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 1 HD
+http://158.69.116.204:80/bento/1234/7392
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 1 HD*
+http://158.69.116.204:80/bento/1234/7874
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 1 SD
+http://158.69.116.204:80/bento/1234/7391
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 1 SD*
+http://158.69.116.204:80/bento/1234/7875
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 2 FHD
+http://158.69.116.204:80/bento/1234/7883
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 2 HD
+http://158.69.116.204:80/bento/1234/7880
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 2 HD*
+http://158.69.116.204:80/bento/1234/7876
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 2 SD
+http://158.69.116.204:80/bento/1234/7881
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB 2 SD*
+http://158.69.116.204:80/bento/1234/7877
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 1 HD
+http://158.69.116.204:80/bento/1234/7907
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 1 SD
+http://158.69.116.204:80/bento/1234/7906
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 2 HD
+http://158.69.116.204:80/bento/1234/7905
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 2 SD
+http://158.69.116.204:80/bento/1234/7904
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 3 HD
+http://158.69.116.204:80/bento/1234/7903
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 3 SD
+http://158.69.116.204:80/bento/1234/7902
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 4 HD
+http://158.69.116.204:80/bento/1234/7901
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 4 SD
+http://158.69.116.204:80/bento/1234/7900
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 5 HD
+http://158.69.116.204:80/bento/1234/7899
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 5 SD
+http://158.69.116.204:80/bento/1234/7898
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 6 HD
+http://158.69.116.204:80/bento/1234/7897
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 6 SD
+http://158.69.116.204:80/bento/1234/7896
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 7 HD
+http://158.69.116.204:80/bento/1234/7895
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 7 SD
+http://158.69.116.204:80/bento/1234/7894
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 8 HD
+http://158.69.116.204:80/bento/1234/7893
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 8 SD
+http://158.69.116.204:80/bento/1234/7892
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 9 HD
+http://158.69.116.204:80/bento/1234/7891
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 9 SD
+http://158.69.116.204:80/bento/1234/7890
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 10 HD
+http://158.69.116.204:80/bento/1234/7889
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB CAMERA 10 SD
+http://158.69.116.204:80/bento/1234/7888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB MOISAICO FHD
+http://158.69.116.204:80/bento/1234/7882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB MOISAICO HD
+http://158.69.116.204:80/bento/1234/7878
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB MOSAICO SD
+http://158.69.116.204:80/bento/1234/7879
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CBTV Brazil FHD
+http://158.69.116.204:80/bento/1234/3219
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo FHD
+http://158.69.116.204:80/bento/1234/3269
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo HD
+http://158.69.116.204:80/bento/1234/1442
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo
+http://158.69.116.204:80/bento/1234/1873
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Campinas FHD
+http://158.69.116.204:80/bento/1234/5301
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Campinas HD*
+http://158.69.116.204:80/bento/1234/5269
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Campinas HD
+http://158.69.116.204:80/bento/1234/2609
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Campinas*
+http://158.69.116.204:80/bento/1234/5268
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Campinas
+http://158.69.116.204:80/bento/1234/1447
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV Vanguarda
+http://158.69.116.204:80/bento/1234/3155
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Ribeirão Preto FHD
+http://158.69.116.204:80/bento/1234/5464
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV R. Preto HD
+http://158.69.116.204:80/bento/1234/2610
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV R. Preto HD
+http://158.69.116.204:80/bento/1234/5237
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV R. Preto
+http://158.69.116.204:80/bento/1234/3048
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV R. Preto*
+http://158.69.116.204:80/bento/1234/5238
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV TEM Soracaba
+http://158.69.116.204:80/bento/1234/5226
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV Tem Bauru
+http://158.69.116.204:80/bento/1234/1783
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV TEM S. J. Rio Preto FHD
+http://158.69.116.204:80/bento/1234/5289
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV TEM S. J. R. Preto HD
+http://158.69.116.204:80/bento/1234/3074
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV TEM S. J. do Rio Preto HD
+http://158.69.116.204:80/bento/1234/5225
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV TEM S. J. R. Preto
+http://158.69.116.204:80/bento/1234/3073
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV TEM S. J. do Rio Preto
+http://158.69.116.204:80/bento/1234/5224
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV Araraquara
+http://158.69.116.204:80/bento/1234/5231
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo EPTV São Carlos
+http://158.69.116.204:80/bento/1234/5230
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SP - Globo TV Tribuna Santos
+http://158.69.116.204:80/bento/1234/5223
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo Inter TV Alto Litoral FHD
+http://158.69.116.204:80/bento/1234/8132
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo Inter TV Alto Litoral
+http://158.69.116.204:80/bento/1234/8130
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo Inter TV Alto Litoral HD
+http://158.69.116.204:80/bento/1234/8131
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo Inter TV Serra Mar
+http://158.69.116.204:80/bento/1234/8121
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo Inter TV Serra Mar FHD
+http://158.69.116.204:80/bento/1234/8123
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo Inter TV Serra Mar HD
+http://158.69.116.204:80/bento/1234/8122
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo TV Rio Sul
+http://158.69.116.204:80/bento/1234/8104
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo TV Rio Sul FHD
+http://158.69.116.204:80/bento/1234/8106
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo TV Rio Sul HD
+http://158.69.116.204:80/bento/1234/8105
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo FHD
+http://158.69.116.204:80/bento/1234/3267
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo HD
+http://158.69.116.204:80/bento/1234/1955
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo HD *
+http://158.69.116.204:80/bento/1234/181
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RJ - Globo
+http://158.69.116.204:80/bento/1234/1785
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DF - Globo Brasilia FHD
+http://158.69.116.204:80/bento/1234/5302
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DF - Globo Brasilia HD
+http://158.69.116.204:80/bento/1234/5232
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DF - Globo Brasília
+http://158.69.116.204:80/bento/1234/1780
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Caxias Do Sul
+http://158.69.116.204:80/bento/1234/8115
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Caxias Do Sul FHD
+http://158.69.116.204:80/bento/1234/8117
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Caxias Do Sul HD
+http://158.69.116.204:80/bento/1234/8116
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Pelotas
+http://158.69.116.204:80/bento/1234/8109
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Pelotas FHD
+http://158.69.116.204:80/bento/1234/8111
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - GLOBO RBS TV Pelotas HD
+http://158.69.116.204:80/bento/1234/8110
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS Porto Alegre FHD
+http://158.69.116.204:80/bento/1234/5298
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Porto Alegre HD
+http://158.69.116.204:80/bento/1234/3311
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RS - Globo RBS TV Porto Alegre
+http://158.69.116.204:80/bento/1234/1827
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Blumenau
+http://158.69.116.204:80/bento/1234/8118
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Blumenau HD
+http://158.69.116.204:80/bento/1234/8119
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Joinville
+http://158.69.116.204:80/bento/1234/8112
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Joinville FHD
+http://158.69.116.204:80/bento/1234/8114
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Joinville HD
+http://158.69.116.204:80/bento/1234/8113
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Floripa FHD
+http://158.69.116.204:80/bento/1234/5299
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Floripa HD
+http://158.69.116.204:80/bento/1234/2611
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Floripa HD
+http://158.69.116.204:80/bento/1234/5242
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Floripa
+http://158.69.116.204:80/bento/1234/3047
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Chapecó FHD
+http://158.69.116.204:80/bento/1234/5219
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Chapecó HD
+http://158.69.116.204:80/bento/1234/5218
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC - Globo NSC TV Chapecó
+http://158.69.116.204:80/bento/1234/5217
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SC- Globo NSC TV Blumenau FHD
+http://158.69.116.204:80/bento/1234/8120
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PR - Globo RPC Curitiba FHD
+http://158.69.116.204:80/bento/1234/4154
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PR - Globo RPC  Curitiba HD
+http://158.69.116.204:80/bento/1234/3560
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PR - Globo RPC  Curitiba
+http://158.69.116.204:80/bento/1234/3089
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PR - Globo RPC Foz do Iguaçu FHD
+http://158.69.116.204:80/bento/1234/5215
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PR - Globo RPC  Foz do Iguaçu HD
+http://158.69.116.204:80/bento/1234/5214
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PR - Globo RPC Foz do Iguaçu
+http://158.69.116.204:80/bento/1234/5216
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Inter TV Dos Vales FHD
+http://158.69.116.204:80/bento/1234/8129
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Inter TV Dos Vales HD
+http://158.69.116.204:80/bento/1234/8128
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Inter TV Dos Vales
+http://158.69.116.204:80/bento/1234/8127
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Inter TV Grande Minas FHD
+http://158.69.116.204:80/bento/1234/8126
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Inter TV Grande Minas HD
+http://158.69.116.204:80/bento/1234/8125
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Inter TV Grande Minas
+http://158.69.116.204:80/bento/1234/8124
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Minas FHD
+http://158.69.116.204:80/bento/1234/3313
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Minas HD
+http://158.69.116.204:80/bento/1234/1440
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MG - Globo Minas
+http://158.69.116.204:80/bento/1234/1781
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AL - Globo TV Gazeta Alagoas FHD
+http://158.69.116.204:80/bento/1234/5408
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AL - Globo TV Gazeta Alagoas HD
+http://158.69.116.204:80/bento/1234/5407
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AL - Globo TV Gazeta Alagoas
+http://158.69.116.204:80/bento/1234/5406
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AM - Globo Rede Amazônica HD
+http://158.69.116.204:80/bento/1234/5240
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AM - Globo - Rede Amazônica
+http://158.69.116.204:80/bento/1234/5228
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PA - Globo TV Liberal Belem
+http://158.69.116.204:80/bento/1234/1453
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SE - Globo TV Sergipe FHD
+http://158.69.116.204:80/bento/1234/5206
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SE - Globo TV Sergipe HD
+http://158.69.116.204:80/bento/1234/5205
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SE - Globo TV Sergipe
+http://158.69.116.204:80/bento/1234/5207
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BA - Globo TV Santa Cruz FHD
+http://158.69.116.204:80/bento/1234/8103
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BA - Globo TV Santa Cruz HD
+http://158.69.116.204:80/bento/1234/8102
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BA - Globo TV Santa Cruz
+http://158.69.116.204:80/bento/1234/8101
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BA - Globo TV Bahia FHD
+http://158.69.116.204:80/bento/1234/5296
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BA - Globo TV Bahia HD
+http://158.69.116.204:80/bento/1234/3312
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BA - Globo TV Bahia
+http://158.69.116.204:80/bento/1234/1449
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CE - Globo TV Verdes Mares Fortaleza
+http://158.69.116.204:80/bento/1234/5221
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CE - Globo TV Diário Fortaleza FHD
+http://158.69.116.204:80/bento/1234/8138
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CE - Globo TV Diário Fortaleza HD
+http://158.69.116.204:80/bento/1234/8137
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CE - Globo TV Diário Fortaleza
+http://158.69.116.204:80/bento/1234/8136
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MA - Globo TV Mirante São Luis FHD
+http://158.69.116.204:80/bento/1234/5295
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MA - Globo TV Mirante São Luis HD
+http://158.69.116.204:80/bento/1234/5294
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MA - Globo TV Mirante São Luiz
+http://158.69.116.204:80/bento/1234/5293
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PB - Globo TV Cabo Branco FHD
+http://158.69.116.204:80/bento/1234/8108
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PB - Globo TV Cabo Branco
+http://158.69.116.204:80/bento/1234/8107
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Gazeta SP HD
+http://158.69.116.204:80/bento/1234/662
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PE - Globo Nordeste FHD
+http://158.69.116.204:80/bento/1234/5300
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PE - Globo Nordeste HD
+http://158.69.116.204:80/bento/1234/3310
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PE - Globo Nordeste
+http://158.69.116.204:80/bento/1234/1450
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PI - Globo TV Clube Teresina FHD
+http://158.69.116.204:80/bento/1234/5212
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PI - Globo TV Clube Teresina HD
+http://158.69.116.204:80/bento/1234/5211
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PI - Globo TV Clube Teresina
+http://158.69.116.204:80/bento/1234/5213
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RN - Globo Inter TV Natal
+http://158.69.116.204:80/bento/1234/5229
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GO - Globo TV Anhanguera FHD
+http://158.69.116.204:80/bento/1234/5297
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GO - Globo Anhanguera HD
+http://158.69.116.204:80/bento/1234/1439
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GO - Globo Anhanguera
+http://158.69.116.204:80/bento/1234/1782
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MS - Globo TV Morena Campo Grande FHD
+http://158.69.116.204:80/bento/1234/5292
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MS - Globo TV Morena Campo Grande HD
+http://158.69.116.204:80/bento/1234/5291
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MS - Globo TV Morena Campo Grande
+http://158.69.116.204:80/bento/1234/5290
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MT - Globo TV C. América Cuiabá
+http://158.69.116.204:80/bento/1234/5227
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ES - Globo TV Gazeta Sul ES FHD
+http://158.69.116.204:80/bento/1234/5462
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ES - Globo TV Gazeta Sul ES HD
+http://158.69.116.204:80/bento/1234/5463
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ES - Globo TV Gazeta Vitória FHD
+http://158.69.116.204:80/bento/1234/5209
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ES - Globo TV Gazeta Vitória HD
+http://158.69.116.204:80/bento/1234/5208
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ES - Globo TV Gazeta Vitória
+http://158.69.116.204:80/bento/1234/5210
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Vila Velha
+http://158.69.116.204:80/bento/1234/5409
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band FHD
+http://158.69.116.204:80/bento/1234/3266
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band  HD
+http://158.69.116.204:80/bento/1234/1978
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band Campinas HD
+http://158.69.116.204:80/bento/1234/204
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band
+http://158.69.116.204:80/bento/1234/1908
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band *
+http://158.69.116.204:80/bento/1234/132
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT FHD
+http://158.69.116.204:80/bento/1234/3264
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT HD
+http://158.69.116.204:80/bento/1234/1932
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT HD *
+http://158.69.116.204:80/bento/1234/158
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT
+http://158.69.116.204:80/bento/1234/1820
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT *
+http://158.69.116.204:80/bento/1234/44
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT Goias
+http://158.69.116.204:80/bento/1234/1463
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Escola
+http://158.69.116.204:80/bento/1234/663
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record FHD
+http://158.69.116.204:80/bento/1234/3265
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Record HD
+http://158.69.116.204:80/bento/1234/1934
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Record HD *
+http://158.69.116.204:80/bento/1234/160
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Record
+http://158.69.116.204:80/bento/1234/1825
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV DF FHD
+http://158.69.116.204:80/bento/1234/7400
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV DF HD
+http://158.69.116.204:80/bento/1234/7395
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV DF SD
+http://158.69.116.204:80/bento/1234/7396
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV RS FHD
+http://158.69.116.204:80/bento/1234/7401
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV RS HD
+http://158.69.116.204:80/bento/1234/7397
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV RS SD
+http://158.69.116.204:80/bento/1234/7398
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Record Goias HD
+http://158.69.116.204:80/bento/1234/1456
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV MG FHD
+http://158.69.116.204:80/bento/1234/5467
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV MG HD
+http://158.69.116.204:80/bento/1234/5466
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV MG
+http://158.69.116.204:80/bento/1234/5465
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV RJ FHD
+http://158.69.116.204:80/bento/1234/5470
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV RJ HD
+http://158.69.116.204:80/bento/1234/5469
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV RJ
+http://158.69.116.204:80/bento/1234/5468
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV BA FHD
+http://158.69.116.204:80/bento/1234/7399
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV BA HD
+http://158.69.116.204:80/bento/1234/7394
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record TV BA
+http://158.69.116.204:80/bento/1234/7393
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede TV FHD
+http://158.69.116.204:80/bento/1234/5404
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede TV HD
+http://158.69.116.204:80/bento/1234/1933
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede TV HD *
+http://158.69.116.204:80/bento/1234/159
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede TV
+http://158.69.116.204:80/bento/1234/1823
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede TV *
+http://158.69.116.204:80/bento/1234/47
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Brasil
+http://158.69.116.204:80/bento/1234/48
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Brasil FHD
+http://158.69.116.204:80/bento/1234/5403
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Brasil HD
+http://158.69.116.204:80/bento/1234/5400
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Brasil
+http://158.69.116.204:80/bento/1234/1904
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cultura FHD
+http://158.69.116.204:80/bento/1234/5405
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cultura HD
+http://158.69.116.204:80/bento/1234/5275
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cultura HD*
+http://158.69.116.204:80/bento/1234/5401
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cultura
+http://158.69.116.204:80/bento/1234/1794
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Futura FHD
+http://158.69.116.204:80/bento/1234/5342
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Futura HD
+http://158.69.116.204:80/bento/1234/3335
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Futura HD*
+http://158.69.116.204:80/bento/1234/5279
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Futura
+http://158.69.116.204:80/bento/1234/1875
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Terra Viva
+http://158.69.116.204:80/bento/1234/1802
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Rural
+http://158.69.116.204:80/bento/1234/1903
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINE Nacionais 24H
+http://158.69.116.204:80/bento/1234/7174
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Aventura 24H
+http://158.69.116.204:80/bento/1234/5437
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Action Extra FHD 24H
+http://158.69.116.204:80/bento/1234/8310
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Action 24H
+http://158.69.116.204:80/bento/1234/3473
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Drama 24H
+http://158.69.116.204:80/bento/1234/5849
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Family 24H
+http://158.69.116.204:80/bento/1234/3472
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Fun 24H
+http://158.69.116.204:80/bento/1234/3471
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Horror 24H
+http://158.69.116.204:80/bento/1234/3469
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cine Kids 24H
+http://158.69.116.204:80/bento/1234/3470
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MR. Bean 24H
+http://158.69.116.204:80/bento/1234/3653
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal CSI 24H
+http://158.69.116.204:80/bento/1234/3646
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Como eu Conheci a Sua Mãe 24H
+http://158.69.116.204:80/bento/1234/3647
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DR. House 24HR
+http://158.69.116.204:80/bento/1234/3650
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", The Big Bang Theory 24H
+http://158.69.116.204:80/bento/1234/3652
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Two And a Half Man 24H
+http://158.69.116.204:80/bento/1234/3649
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium HD Legendado
+http://158.69.116.204:80/bento/1234/4876
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium FHD
+http://158.69.116.204:80/bento/1234/3221
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium HD
+http://158.69.116.204:80/bento/1234/1923
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium HD *
+http://158.69.116.204:80/bento/1234/149
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium Legendado
+http://158.69.116.204:80/bento/1234/3631
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium
+http://158.69.116.204:80/bento/1234/1804
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Premium *
+http://158.69.116.204:80/bento/1234/1519
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action HD Legendado
+http://158.69.116.204:80/bento/1234/4661
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action FHD
+http://158.69.116.204:80/bento/1234/3224
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action HD
+http://158.69.116.204:80/bento/1234/1926
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action HD *
+http://158.69.116.204:80/bento/1234/152
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action Legendado
+http://158.69.116.204:80/bento/1234/4662
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action
+http://158.69.116.204:80/bento/1234/1808
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Action *
+http://158.69.116.204:80/bento/1234/1511
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch HD Legendado
+http://158.69.116.204:80/bento/1234/4667
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch FHD
+http://158.69.116.204:80/bento/1234/3220
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch HD
+http://158.69.116.204:80/bento/1234/1922
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch HD *
+http://158.69.116.204:80/bento/1234/148
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch Legendado
+http://158.69.116.204:80/bento/1234/4668
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch
+http://158.69.116.204:80/bento/1234/1803
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Touch *
+http://158.69.116.204:80/bento/1234/1521
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca HD Legendado
+http://158.69.116.204:80/bento/1234/4665
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca FHD
+http://158.69.116.204:80/bento/1234/3222
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca HD
+http://158.69.116.204:80/bento/1234/1924
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca HD *
+http://158.69.116.204:80/bento/1234/150
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca Legendado
+http://158.69.116.204:80/bento/1234/4666
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca
+http://158.69.116.204:80/bento/1234/1805
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Pipoca *
+http://158.69.116.204:80/bento/1234/1517
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun HD Legendado
+http://158.69.116.204:80/bento/1234/4663
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun FHD
+http://158.69.116.204:80/bento/1234/3223
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun HD
+http://158.69.116.204:80/bento/1234/1925
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun HD *
+http://158.69.116.204:80/bento/1234/151
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun Legendado
+http://158.69.116.204:80/bento/1234/4664
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun
+http://158.69.116.204:80/bento/1234/1806
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Fun *
+http://158.69.116.204:80/bento/1234/1515
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TC Cult FHD
+http://158.69.116.204:80/bento/1234/5315
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TC Cult HD
+http://158.69.116.204:80/bento/1234/2024
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Cult HD *
+http://158.69.116.204:80/bento/1234/1165
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Cult
+http://158.69.116.204:80/bento/1234/1807
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tc Cult *
+http://158.69.116.204:80/bento/1234/1513
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO HD Legendado
+http://158.69.116.204:80/bento/1234/4658
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FHD
+http://158.69.116.204:80/bento/1234/3262
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO HD
+http://158.69.116.204:80/bento/1234/1950
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO HD *
+http://158.69.116.204:80/bento/1234/176
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Legendado
+http://158.69.116.204:80/bento/1234/4875
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO
+http://158.69.116.204:80/bento/1234/1868
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO *
+http://158.69.116.204:80/bento/1234/92
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 FHD
+http://158.69.116.204:80/bento/1234/3263
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 HD
+http://158.69.116.204:80/bento/1234/1952
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 HD *
+http://158.69.116.204:80/bento/1234/178
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2
+http://158.69.116.204:80/bento/1234/1863
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 *
+http://158.69.116.204:80/bento/1234/87
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Plus FHD
+http://158.69.116.204:80/bento/1234/5336
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Plus HD Legendado
+http://158.69.116.204:80/bento/1234/4659
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Plus HD
+http://158.69.116.204:80/bento/1234/1949
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Plus HD*
+http://158.69.116.204:80/bento/1234/175
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Plus Legendado
+http://158.69.116.204:80/bento/1234/4660
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Hbo Plus
+http://158.69.116.204:80/bento/1234/1866
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Hbo Plus *
+http://158.69.116.204:80/bento/1234/90
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Family FHD
+http://158.69.116.204:80/bento/1234/5337
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Family HD
+http://158.69.116.204:80/bento/1234/1951
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Family HD *
+http://158.69.116.204:80/bento/1234/177
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Hbo Family
+http://158.69.116.204:80/bento/1234/1867
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Family *
+http://158.69.116.204:80/bento/1234/91
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Signature FHD
+http://158.69.116.204:80/bento/1234/5335
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Signature HD
+http://158.69.116.204:80/bento/1234/1948
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO Signature HD *
+http://158.69.116.204:80/bento/1234/174
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Hbo Signature
+http://158.69.116.204:80/bento/1234/1864
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Hbo Signature *
+http://158.69.116.204:80/bento/1234/88
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX FHD
+http://158.69.116.204:80/bento/1234/5332
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX Legendado
+http://158.69.116.204:80/bento/1234/3633
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX HD
+http://158.69.116.204:80/bento/1234/1158
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX HD *
+http://158.69.116.204:80/bento/1234/2031
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max
+http://158.69.116.204:80/bento/1234/1857
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max *
+http://158.69.116.204:80/bento/1234/81
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP FHD
+http://158.69.116.204:80/bento/1234/5330
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP HD Legendado
+http://158.69.116.204:80/bento/1234/4879
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP HD
+http://158.69.116.204:80/bento/1234/1160
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP HD *
+http://158.69.116.204:80/bento/1234/2029
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP Legendado
+http://158.69.116.204:80/bento/1234/4880
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max UP
+http://158.69.116.204:80/bento/1234/1854
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max UP *
+http://158.69.116.204:80/bento/1234/78
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX Prime FHD
+http://158.69.116.204:80/bento/1234/5331
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX Prime Legendado
+http://158.69.116.204:80/bento/1234/3632
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX Prime HD
+http://158.69.116.204:80/bento/1234/1159
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max Prime HD*
+http://158.69.116.204:80/bento/1234/2030
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max Prime
+http://158.69.116.204:80/bento/1234/1856
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max Prime*
+http://158.69.116.204:80/bento/1234/80
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cinemax FHD
+http://158.69.116.204:80/bento/1234/5355
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cinemax HD
+http://158.69.116.204:80/bento/1234/1149
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cinemax HD *
+http://158.69.116.204:80/bento/1234/2040
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cinemax
+http://158.69.116.204:80/bento/1234/1899
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cinemax*
+http://158.69.116.204:80/bento/1234/123
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX FHD
+http://158.69.116.204:80/bento/1234/3261
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX HD Legendado
+http://158.69.116.204:80/bento/1234/4672
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX HD
+http://158.69.116.204:80/bento/1234/1960
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX HD *
+http://158.69.116.204:80/bento/1234/186
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Legendado
+http://158.69.116.204:80/bento/1234/4673
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox
+http://158.69.116.204:80/bento/1234/1879
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox *
+http://158.69.116.204:80/bento/1234/103
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Premium 1 FHD
+http://158.69.116.204:80/bento/1234/5343
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Premium 1 HD
+http://158.69.116.204:80/bento/1234/1962
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Premium 1 HD *
+http://158.69.116.204:80/bento/1234/188
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Premium 1
+http://158.69.116.204:80/bento/1234/5265
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Premium 2 FHD
+http://158.69.116.204:80/bento/1234/3478
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Premium 2 HD
+http://158.69.116.204:80/bento/1234/1961
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Premium 2 HD *
+http://158.69.116.204:80/bento/1234/187
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Premium 2
+http://158.69.116.204:80/bento/1234/5266
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Life FHD
+http://158.69.116.204:80/bento/1234/5344
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Life HD
+http://158.69.116.204:80/bento/1234/1959
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Life HD *
+http://158.69.116.204:80/bento/1234/5267
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Life
+http://158.69.116.204:80/bento/1234/1878
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Life*
+http://158.69.116.204:80/bento/1234/102
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX FHD
+http://158.69.116.204:80/bento/1234/5341
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX HD Legendado
+http://158.69.116.204:80/bento/1234/4877
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX HD
+http://158.69.116.204:80/bento/1234/1956
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX HD *
+http://158.69.116.204:80/bento/1234/182
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX Legendado
+http://158.69.116.204:80/bento/1234/4878
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fx
+http://158.69.116.204:80/bento/1234/1874
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX *
+http://158.69.116.204:80/bento/1234/98
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony FHD
+http://158.69.116.204:80/bento/1234/5357
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony HD Legendado
+http://158.69.116.204:80/bento/1234/5235
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony HD
+http://158.69.116.204:80/bento/1234/1975
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony HD *
+http://158.69.116.204:80/bento/1234/201
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony Legendado
+http://158.69.116.204:80/bento/1234/5236
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony
+http://158.69.116.204:80/bento/1234/1902
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Sony *
+http://158.69.116.204:80/bento/1234/126
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN FHD
+http://158.69.116.204:80/bento/1234/5359
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN HD Legendado
+http://158.69.116.204:80/bento/1234/4674
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN HD
+http://158.69.116.204:80/bento/1234/1979
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN  HD *
+http://158.69.116.204:80/bento/1234/205
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN Legendado
+http://158.69.116.204:80/bento/1234/4675
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN
+http://158.69.116.204:80/bento/1234/1911
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN *
+http://158.69.116.204:80/bento/1234/136
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner HD Legendado
+http://158.69.116.204:80/bento/1234/4887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner Channel FHD
+http://158.69.116.204:80/bento/1234/3475
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner Channel HD
+http://158.69.116.204:80/bento/1234/1916
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner Channel HD *
+http://158.69.116.204:80/bento/1234/142
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner Legendado
+http://158.69.116.204:80/bento/1234/4888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner Channel
+http://158.69.116.204:80/bento/1234/1788
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Warner Channel *
+http://158.69.116.204:80/bento/1234/10
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPACE FHD
+http://158.69.116.204:80/bento/1234/5319
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Space HD Legendado
+http://158.69.116.204:80/bento/1234/4883
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Space HD
+http://158.69.116.204:80/bento/1234/1931
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Space HD *
+http://158.69.116.204:80/bento/1234/157
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Space Legendado
+http://158.69.116.204:80/bento/1234/4884
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Space
+http://158.69.116.204:80/bento/1234/1816
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Space *
+http://158.69.116.204:80/bento/1234/40
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT FHD
+http://158.69.116.204:80/bento/1234/5313
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT HD LEGENDADO
+http://158.69.116.204:80/bento/1234/4669
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT HD
+http://158.69.116.204:80/bento/1234/1921
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT HD *
+http://158.69.116.204:80/bento/1234/147
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Legendado
+http://158.69.116.204:80/bento/1234/4670
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT
+http://158.69.116.204:80/bento/1234/1799
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT *
+http://158.69.116.204:80/bento/1234/21
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Series FHD
+http://158.69.116.204:80/bento/1234/5312
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT HD Séries Legendado
+http://158.69.116.204:80/bento/1234/4885
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Séries HD
+http://158.69.116.204:80/bento/1234/1920
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Séries HD *
+http://158.69.116.204:80/bento/1234/146
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Séries Legendado
+http://158.69.116.204:80/bento/1234/4886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Séries
+http://158.69.116.204:80/bento/1234/1798
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT Séries *
+http://158.69.116.204:80/bento/1234/20
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS FHD
+http://158.69.116.204:80/bento/1234/5316
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS HD
+http://158.69.116.204:80/bento/1234/1927
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS HD *
+http://158.69.116.204:80/bento/1234/153
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS
+http://158.69.116.204:80/bento/1234/1810
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS *
+http://158.69.116.204:80/bento/1234/32
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TCM HD
+http://158.69.116.204:80/bento/1234/5251
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TCM
+http://158.69.116.204:80/bento/1234/1809
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix FHD
+http://158.69.116.204:80/bento/1234/5329
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix HD Legendado
+http://158.69.116.204:80/bento/1234/4881
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix HD
+http://158.69.116.204:80/bento/1234/1945
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix HD *
+http://158.69.116.204:80/bento/1234/171
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix Legendado
+http://158.69.116.204:80/bento/1234/4882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix
+http://158.69.116.204:80/bento/1234/1853
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Megapix *
+http://158.69.116.204:80/bento/1234/77
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Universal Channel HD
+http://158.69.116.204:80/bento/1234/1919
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Universal Channel HD *
+http://158.69.116.204:80/bento/1234/145
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Universal Channel
+http://158.69.116.204:80/bento/1234/1791
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Universal Channel *
+http://158.69.116.204:80/bento/1234/13
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Studio Universal FHD
+http://158.69.116.204:80/bento/1234/5318
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Studio Universal HD
+http://158.69.116.204:80/bento/1234/1163
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Studio Universal HD *
+http://158.69.116.204:80/bento/1234/2026
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Studio Universal
+http://158.69.116.204:80/bento/1234/1812
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Studio Universal *
+http://158.69.116.204:80/bento/1234/34
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY FHD
+http://158.69.116.204:80/bento/1234/5317
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Syfy HD
+http://158.69.116.204:80/bento/1234/1164
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY HD *
+http://158.69.116.204:80/bento/1234/2025
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Syfy
+http://158.69.116.204:80/bento/1234/1811
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Syfy *
+http://158.69.116.204:80/bento/1234/33
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Parammount Channel FHD
+http://158.69.116.204:80/bento/1234/5322
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Paramount Channel HD
+http://158.69.116.204:80/bento/1234/1940
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Paramount Channel HD *
+http://158.69.116.204:80/bento/1234/166
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Paramount Channel
+http://158.69.116.204:80/bento/1234/1841
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Paramount Channel *
+http://158.69.116.204:80/bento/1234/65
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Prime Box Brazil HD
+http://158.69.116.204:80/bento/1234/3466
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Prime Box Brazil HD*
+http://158.69.116.204:80/bento/1234/5258
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Prime Box Brazil
+http://158.69.116.204:80/bento/1234/1829
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Prime Box Brazil *
+http://158.69.116.204:80/bento/1234/53
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC FHD
+http://158.69.116.204:80/bento/1234/5361
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC HD
+http://158.69.116.204:80/bento/1234/3460
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC HD*
+http://158.69.116.204:80/bento/1234/5288
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC *
+http://158.69.116.204:80/bento/1234/5287
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC
+http://158.69.116.204:80/bento/1234/3058
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 4K
+http://158.69.116.204:80/bento/1234/5058
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV FHD
+http://158.69.116.204:80/bento/1234/3225
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV HD
+http://158.69.116.204:80/bento/1234/154
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV HD *
+http://158.69.116.204:80/bento/1234/1928
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Sportv
+http://158.69.116.204:80/bento/1234/1815
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Sportv *
+http://158.69.116.204:80/bento/1234/39
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV 2 FHD
+http://158.69.116.204:80/bento/1234/3400
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV 2 HD
+http://158.69.116.204:80/bento/1234/1930
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV 2 HD *
+http://158.69.116.204:80/bento/1234/156
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Sportv 2
+http://158.69.116.204:80/bento/1234/1814
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Sportv 2 *
+http://158.69.116.204:80/bento/1234/38
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV 3 FHD
+http://158.69.116.204:80/bento/1234/3401
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV 3 HD
+http://158.69.116.204:80/bento/1234/1929
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SporTV 3 HD *
+http://158.69.116.204:80/bento/1234/155
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Sportv 3
+http://158.69.116.204:80/bento/1234/1813
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Sportv 3 *
+http://158.69.116.204:80/bento/1234/36
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Sports FHD
+http://158.69.116.204:80/bento/1234/3290
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports HD
+http://158.69.116.204:80/bento/1234/1958
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports HD *
+http://158.69.116.204:80/bento/1234/184
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports
+http://158.69.116.204:80/bento/1234/1877
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports *
+http://158.69.116.204:80/bento/1234/101
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX Sports 2 FHD
+http://158.69.116.204:80/bento/1234/3397
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports 2 HD
+http://158.69.116.204:80/bento/1234/1957
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports 2 HD *
+http://158.69.116.204:80/bento/1234/183
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports 2
+http://158.69.116.204:80/bento/1234/1876
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fox Sports 2 *
+http://158.69.116.204:80/bento/1234/100
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN Brasil FHD
+http://158.69.116.204:80/bento/1234/3289
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL HD
+http://158.69.116.204:80/bento/1234/1965
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL HD *
+http://158.69.116.204:80/bento/1234/191
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Espn Brasil
+http://158.69.116.204:80/bento/1234/1882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Espn Brasil *
+http://158.69.116.204:80/bento/1234/106
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN EXTRA FHD
+http://158.69.116.204:80/bento/1234/4155
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN FHD
+http://158.69.116.204:80/bento/1234/3396
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN HD
+http://158.69.116.204:80/bento/1234/1966
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN HD *
+http://158.69.116.204:80/bento/1234/190
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Espn
+http://158.69.116.204:80/bento/1234/1786
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Espn *
+http://158.69.116.204:80/bento/1234/107
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 HD
+http://158.69.116.204:80/bento/1234/1964
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 HD *
+http://158.69.116.204:80/bento/1234/1168
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2
+http://158.69.116.204:80/bento/1234/192
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 *
+http://158.69.116.204:80/bento/1234/1883
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN Extra HD
+http://158.69.116.204:80/bento/1234/3054
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN Extra
+http://158.69.116.204:80/bento/1234/3053
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Film&Arts HD
+http://158.69.116.204:80/bento/1234/193
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Film&Arts
+http://158.69.116.204:80/bento/1234/109
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN Extra HD*
+http://158.69.116.204:80/bento/1234/194
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN Extra*
+http://158.69.116.204:80/bento/1234/108
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band Sports FHD
+http://158.69.116.204:80/bento/1234/5358
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band Sports HD
+http://158.69.116.204:80/bento/1234/1977
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band Sports HD *
+http://158.69.116.204:80/bento/1234/203
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band Sports
+http://158.69.116.204:80/bento/1234/1909
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band Sports *
+http://158.69.116.204:80/bento/1234/133
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fish TV FHD
+http://158.69.116.204:80/bento/1234/5346
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FISH TV HD
+http://158.69.116.204:80/bento/1234/3628
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FISH TV HD*
+http://158.69.116.204:80/bento/1234/5282
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fish TV
+http://158.69.116.204:80/bento/1234/1881
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Fish TV *
+http://158.69.116.204:80/bento/1234/105
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Combate FHD
+http://158.69.116.204:80/bento/1234/3226
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Combate HD
+http://158.69.116.204:80/bento/1234/1974
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Combate HD *
+http://158.69.116.204:80/bento/1234/200
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Combate
+http://158.69.116.204:80/bento/1234/1898
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Combate *
+http://158.69.116.204:80/bento/1234/122
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TABELA DE JOGOS
+http://158.69.116.204:80/bento/1234/4143
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS HD
+http://158.69.116.204:80/bento/1234/8145
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS HD*
+http://158.69.116.204:80/bento/1234/8141
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 2 HD
+http://158.69.116.204:80/bento/1234/8147
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 2 SD
+http://158.69.116.204:80/bento/1234/8148
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 3 HD
+http://158.69.116.204:80/bento/1234/8149
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 3 SD
+http://158.69.116.204:80/bento/1234/8150
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS SD
+http://158.69.116.204:80/bento/1234/8146
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS SD*
+http://158.69.116.204:80/bento/1234/8142
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 1 HD
+http://158.69.116.204:80/bento/1234/7913
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 1 SD
+http://158.69.116.204:80/bento/1234/7912
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 2 HD
+http://158.69.116.204:80/bento/1234/7911
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 2 SD
+http://158.69.116.204:80/bento/1234/7910
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 3 HD
+http://158.69.116.204:80/bento/1234/7909
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 3 SD
+http://158.69.116.204:80/bento/1234/7908
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 1 HD
+http://158.69.116.204:80/bento/1234/7887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 1 SD
+http://158.69.116.204:80/bento/1234/7886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 2 HD
+http://158.69.116.204:80/bento/1234/7885
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Prime Box Brasil FHD
+http://158.69.116.204:80/bento/1234/5321
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Universal Channel FHD
+http://158.69.116.204:80/bento/1234/5309
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere Clubes FHD
+http://158.69.116.204:80/bento/1234/3279
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere Clubes 24H HD
+http://158.69.116.204:80/bento/1234/3108
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere Clubes  24H HD*
+http://158.69.116.204:80/bento/1234/1428
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere Clubes
+http://158.69.116.204:80/bento/1234/1830
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere Clubes *
+http://158.69.116.204:80/bento/1234/54
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 2 FHD
+http://158.69.116.204:80/bento/1234/3314
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 2 HD
+http://158.69.116.204:80/bento/1234/1938
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 2 HD *
+http://158.69.116.204:80/bento/1234/164
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 2
+http://158.69.116.204:80/bento/1234/1838
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 2 *
+http://158.69.116.204:80/bento/1234/62
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 3 FHD
+http://158.69.116.204:80/bento/1234/3315
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 3 HD
+http://158.69.116.204:80/bento/1234/1937
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 3 HD *
+http://158.69.116.204:80/bento/1234/163
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 3
+http://158.69.116.204:80/bento/1234/1837
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 3 *
+http://158.69.116.204:80/bento/1234/61
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 4 FHD
+http://158.69.116.204:80/bento/1234/3390
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 4 HD
+http://158.69.116.204:80/bento/1234/1936
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 4 HD *
+http://158.69.116.204:80/bento/1234/162
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 4
+http://158.69.116.204:80/bento/1234/1836
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 4 *
+http://158.69.116.204:80/bento/1234/60
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 5 FHD
+http://158.69.116.204:80/bento/1234/3391
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 5 HD
+http://158.69.116.204:80/bento/1234/1935
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 5 HD *
+http://158.69.116.204:80/bento/1234/161
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 5
+http://158.69.116.204:80/bento/1234/1835
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 5 *
+http://158.69.116.204:80/bento/1234/59
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 6 FHD
+http://158.69.116.204:80/bento/1234/3392
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 6 HD*
+http://158.69.116.204:80/bento/1234/3286
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 6
+http://158.69.116.204:80/bento/1234/1834
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 6 *
+http://158.69.116.204:80/bento/1234/58
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 7 FHD
+http://158.69.116.204:80/bento/1234/3393
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 7 HD*
+http://158.69.116.204:80/bento/1234/3287
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 7
+http://158.69.116.204:80/bento/1234/1833
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Premiere 7 *
+http://158.69.116.204:80/bento/1234/57
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E FHD
+http://158.69.116.204:80/bento/1234/5362
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E HD
+http://158.69.116.204:80/bento/1234/1147
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E HD *
+http://158.69.116.204:80/bento/1234/2043
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E
+http://158.69.116.204:80/bento/1234/1915
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E *
+http://158.69.116.204:80/bento/1234/140
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", + Globosat HD
+http://158.69.116.204:80/bento/1234/1157
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", + Globosat HD *
+http://158.69.116.204:80/bento/1234/2032
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", + Globosat
+http://158.69.116.204:80/bento/1234/1858
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", + Globosat *
+http://158.69.116.204:80/bento/1234/82
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT FHD
+http://158.69.116.204:80/bento/1234/5339
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT HD
+http://158.69.116.204:80/bento/1234/1954
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT HD *
+http://158.69.116.204:80/bento/1234/180
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gnt
+http://158.69.116.204:80/bento/1234/1870
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT*
+http://158.69.116.204:80/bento/1234/3339
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Viva FHD
+http://158.69.116.204:80/bento/1234/3402
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Viva HD
+http://158.69.116.204:80/bento/1234/1918
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Viva HD *
+http://158.69.116.204:80/bento/1234/144
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Viva
+http://158.69.116.204:80/bento/1234/1789
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Viva *
+http://158.69.116.204:80/bento/1234/11
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF FHD
+http://158.69.116.204:80/bento/1234/5323
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF HD
+http://158.69.116.204:80/bento/1234/1941
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF HD *
+http://158.69.116.204:80/bento/1234/167
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF
+http://158.69.116.204:80/bento/1234/1842
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF *
+http://158.69.116.204:80/bento/1234/66
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Woohoo FHD
+http://158.69.116.204:80/bento/1234/5307
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Woohoo HD
+http://158.69.116.204:80/bento/1234/3281
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Woohoo HD*
+http://158.69.116.204:80/bento/1234/5277
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Woohoo
+http://158.69.116.204:80/bento/1234/1787
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Multishow FHD
+http://158.69.116.204:80/bento/1234/5326
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Multishow HD
+http://158.69.116.204:80/bento/1234/1944
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Multishow HD *
+http://158.69.116.204:80/bento/1234/170
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Multishow
+http://158.69.116.204:80/bento/1234/1851
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Multishow *
+http://158.69.116.204:80/bento/1234/75
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS FHD
+http://158.69.116.204:80/bento/1234/3394
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS HD
+http://158.69.116.204:80/bento/1234/1976
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS HD *
+http://158.69.116.204:80/bento/1234/202
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Bis
+http://158.69.116.204:80/bento/1234/1906
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Bis *
+http://158.69.116.204:80/bento/1234/130
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV Live FHD
+http://158.69.116.204:80/bento/1234/5327
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV FHD
+http://158.69.116.204:80/bento/1234/5328
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV HD
+http://158.69.116.204:80/bento/1234/1161
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV HD *
+http://158.69.116.204:80/bento/1234/2028
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV
+http://158.69.116.204:80/bento/1234/1852
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV *
+http://158.69.116.204:80/bento/1234/76
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Music Box Brasil FHD
+http://158.69.116.204:80/bento/1234/5325
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Music Box Brasil HD
+http://158.69.116.204:80/bento/1234/3462
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Music Box Brazil *
+http://158.69.116.204:80/bento/1234/74
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 FHD
+http://158.69.116.204:80/bento/1234/5308
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 HD
+http://158.69.116.204:80/bento/1234/1167
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 HD *
+http://158.69.116.204:80/bento/1234/2022
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1*
+http://158.69.116.204:80/bento/1234/5246
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1
+http://158.69.116.204:80/bento/1234/3467
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TRUTV FHD
+http://158.69.116.204:80/bento/1234/5311
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TRUTV HD
+http://158.69.116.204:80/bento/1234/3627
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TruTV
+http://158.69.116.204:80/bento/1234/1796
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Comedy Central FHD
+http://158.69.116.204:80/bento/1234/5354
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Comedy Central HD
+http://158.69.116.204:80/bento/1234/3336
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Comedy Central HD*
+http://158.69.116.204:80/bento/1234/5276
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Comedy Central
+http://158.69.116.204:80/bento/1234/1897
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Comedy Central *
+http://158.69.116.204:80/bento/1234/121
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID - Investigação Discovery FHD
+http://158.69.116.204:80/bento/1234/5334
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID - Investigação Discovery HD
+http://158.69.116.204:80/bento/1234/1946
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID - Investigação Discovery HD *
+http://158.69.116.204:80/bento/1234/172
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID - Investigação Discovery
+http://158.69.116.204:80/bento/1234/1861
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID - Investigação Discovery *
+http://158.69.116.204:80/bento/1234/85
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Home & Health FHD
+http://158.69.116.204:80/bento/1234/3482
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Home & Health HD
+http://158.69.116.204:80/bento/1234/1972
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Home & Health HD *
+http://158.69.116.204:80/bento/1234/198
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Home & Health
+http://158.69.116.204:80/bento/1234/1893
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Home & Health *
+http://158.69.116.204:80/bento/1234/117
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Lifetime FHD
+http://158.69.116.204:80/bento/1234/5333
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Lifetime HD
+http://158.69.116.204:80/bento/1234/1156
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Lifetime HD *
+http://158.69.116.204:80/bento/1234/2033
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Lifetime
+http://158.69.116.204:80/bento/1234/1859
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Lifetime *
+http://158.69.116.204:80/bento/1234/83
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC FHD
+http://158.69.116.204:80/bento/1234/5314
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC HD
+http://158.69.116.204:80/bento/1234/1166
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC HD *
+http://158.69.116.204:80/bento/1234/2023
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC
+http://158.69.116.204:80/bento/1234/1800
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC *
+http://158.69.116.204:80/bento/1234/22
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! Entertainment FHD
+http://158.69.116.204:80/bento/1234/5349
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! Entertainment HD
+http://158.69.116.204:80/bento/1234/1152
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! Entertainment HD *
+http://158.69.116.204:80/bento/1234/2037
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! Entertainment
+http://158.69.116.204:80/bento/1234/1886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Food Network FHD
+http://158.69.116.204:80/bento/1234/5345
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Food Network HD
+http://158.69.116.204:80/bento/1234/1153
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Food Network
+http://158.69.116.204:80/bento/1234/1880
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Food Network *
+http://158.69.116.204:80/bento/1234/104
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Curta! FHD
+http://158.69.116.204:80/bento/1234/5353
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Curta! HD
+http://158.69.116.204:80/bento/1234/3282
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CURTA! HD*
+http://158.69.116.204:80/bento/1234/5280
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Curta!
+http://158.69.116.204:80/bento/1234/1896
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Curta! *
+http://158.69.116.204:80/bento/1234/120
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Animal Planet FHD
+http://158.69.116.204:80/bento/1234/3573
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Animal Planet HD
+http://158.69.116.204:80/bento/1234/1980
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Animal Planet  HD *
+http://158.69.116.204:80/bento/1234/206
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Animal Planet
+http://158.69.116.204:80/bento/1234/1914
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Animal Planet *
+http://158.69.116.204:80/bento/1234/139
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Channel FHD
+http://158.69.116.204:80/bento/1234/3403
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Channel HD
+http://158.69.116.204:80/bento/1234/1973
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Channel HD *
+http://158.69.116.204:80/bento/1234/199
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Channel
+http://158.69.116.204:80/bento/1234/1895
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Channel *
+http://158.69.116.204:80/bento/1234/119
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Civilization FHD
+http://158.69.116.204:80/bento/1234/5352
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Civilization HD
+http://158.69.116.204:80/bento/1234/3285
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Civilization
+http://158.69.116.204:80/bento/1234/1894
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Civilization *
+http://158.69.116.204:80/bento/1234/118
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Science FHD
+http://158.69.116.204:80/bento/1234/5351
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Science  HD
+http://158.69.116.204:80/bento/1234/3283
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Science *
+http://158.69.116.204:80/bento/1234/5274
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Science
+http://158.69.116.204:80/bento/1234/1891
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Theater FHD
+http://158.69.116.204:80/bento/1234/5350
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Theater HD
+http://158.69.116.204:80/bento/1234/1971
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Theater HD *
+http://158.69.116.204:80/bento/1234/197
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Theater
+http://158.69.116.204:80/bento/1234/5273
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery World FHD
+http://158.69.116.204:80/bento/1234/3479
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery World HD
+http://158.69.116.204:80/bento/1234/1969
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery World HD *
+http://158.69.116.204:80/bento/1234/195
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery World
+http://158.69.116.204:80/bento/1234/3338
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery World *
+http://158.69.116.204:80/bento/1234/5272
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Turbo FHD
+http://158.69.116.204:80/bento/1234/3480
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Turbo HD
+http://158.69.116.204:80/bento/1234/1970
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Turbo HD *
+http://158.69.116.204:80/bento/1234/196
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Turbo
+http://158.69.116.204:80/bento/1234/1890
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Turbo *
+http://158.69.116.204:80/bento/1234/114
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", National Geographic HD
+http://158.69.116.204:80/bento/1234/1942
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", National Geographic HD *
+http://158.69.116.204:80/bento/1234/168
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", National Geographic
+http://158.69.116.204:80/bento/1234/1848
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", National Geographic *
+http://158.69.116.204:80/bento/1234/72
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Wild FHD
+http://158.69.116.204:80/bento/1234/3576
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo WILD HD
+http://158.69.116.204:80/bento/1234/1943
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Wild HD *
+http://158.69.116.204:80/bento/1234/169
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Wild
+http://158.69.116.204:80/bento/1234/1849
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Wild *
+http://158.69.116.204:80/bento/1234/73
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", History FHD
+http://158.69.116.204:80/bento/1234/3477
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY CHANNEL HD
+http://158.69.116.204:80/bento/1234/1947
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", History Channel HD *
+http://158.69.116.204:80/bento/1234/173
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", History Channel
+http://158.69.116.204:80/bento/1234/1801
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 FHD
+http://158.69.116.204:80/bento/1234/5338
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 HD
+http://158.69.116.204:80/bento/1234/1953
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 HD *
+http://158.69.116.204:80/bento/1234/179
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2
+http://158.69.116.204:80/bento/1234/1869
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 *
+http://158.69.116.204:80/bento/1234/1529
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Arte 1 FHD
+http://158.69.116.204:80/bento/1234/5360
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Arte 1 HD
+http://158.69.116.204:80/bento/1234/3280
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Arte 1 HD*
+http://158.69.116.204:80/bento/1234/5286
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Arte 1
+http://158.69.116.204:80/bento/1234/1912
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Globo News FHD
+http://158.69.116.204:80/bento/1234/3398
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Globo NEWS HD
+http://158.69.116.204:80/bento/1234/1154
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Globo News HD *
+http://158.69.116.204:80/bento/1234/2035
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Globo News
+http://158.69.116.204:80/bento/1234/1872
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Globo News *
+http://158.69.116.204:80/bento/1234/96
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band News FHD
+http://158.69.116.204:80/bento/1234/3574
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band News HD*
+http://158.69.116.204:80/bento/1234/5283
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band News HD
+http://158.69.116.204:80/bento/1234/3334
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band News
+http://158.69.116.204:80/bento/1234/1910
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Band News *
+http://158.69.116.204:80/bento/1234/134
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record News FHD
+http://158.69.116.204:80/bento/1234/5320
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record News HD
+http://158.69.116.204:80/bento/1234/3092
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Record News
+http://158.69.116.204:80/bento/1234/1826
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NBR *
+http://158.69.116.204:80/bento/1234/71
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NHK HD
+http://158.69.116.204:80/bento/1234/5262
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NHK
+http://158.69.116.204:80/bento/1234/1846
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Camara
+http://158.69.116.204:80/bento/1234/2047
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Justiça
+http://158.69.116.204:80/bento/1234/3629
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Senado
+http://158.69.116.204:80/bento/1234/3630
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", South Park 24H
+http://158.69.116.204:80/bento/1234/7744
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Chaves Desenho 24H
+http://158.69.116.204:80/bento/1234/5578
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Jiraya O Incrível Ninja 24H
+http://158.69.116.204:80/bento/1234/5577
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragões 24H
+http://158.69.116.204:80/bento/1234/5431
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Ducktales 24H
+http://158.69.116.204:80/bento/1234/5432
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Black Kamen Rider 24H
+http://158.69.116.204:80/bento/1234/5410
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cybercop 24H
+http://158.69.116.204:80/bento/1234/5394
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Jaspion 24H
+http://158.69.116.204:80/bento/1234/5411
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", JIBAN 24H
+http://158.69.116.204:80/bento/1234/5397
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Lion Man 24H
+http://158.69.116.204:80/bento/1234/5178
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Chaves 24H
+http://158.69.116.204:80/bento/1234/4656
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", POCOYO 24H
+http://158.69.116.204:80/bento/1234/4150
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FUTURAMA 1 24H
+http://158.69.116.204:80/bento/1234/3957
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FUTURAMA 2 24H
+http://158.69.116.204:80/bento/1234/4187
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Família da Pesada 24H
+http://158.69.116.204:80/bento/1234/3648
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Show da Luna 24H
+http://158.69.116.204:80/bento/1234/3645
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Família Dinossauro 24H
+http://158.69.116.204:80/bento/1234/3509
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Mundo de Gunball 24H
+http://158.69.116.204:80/bento/1234/3483
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Pokemon 24H
+http://158.69.116.204:80/bento/1234/3275
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Peppa Pig 24H
+http://158.69.116.204:80/bento/1234/2046
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Caverna do Dragão 24H
+http://158.69.116.204:80/bento/1234/3088
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Os Simpsons 24H
+http://158.69.116.204:80/bento/1234/2832
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Bob Esponja 24H
+http://158.69.116.204:80/bento/1234/3270
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragon Ball X Freeza 24H
+http://158.69.116.204:80/bento/1234/3086
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragon Ball Z Androides 24H
+http://158.69.116.204:80/bento/1234/3276
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Homem-Aranha 24H
+http://158.69.116.204:80/bento/1234/3272
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Os Vingadores 24H
+http://158.69.116.204:80/bento/1234/3273
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", X-Men Evolution 24H
+http://158.69.116.204:80/bento/1234/3274
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Galinha Pintadinha 24H
+http://158.69.116.204:80/bento/1234/3085
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Todo Mundo Odeia o Cris 24H
+http://158.69.116.204:80/bento/1234/3271
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CDZ Saga de Hades 24H
+http://158.69.116.204:80/bento/1234/3332
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CDZ Saga de Asgard 24H
+http://158.69.116.204:80/bento/1234/3330
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CDZ  Saga de Poseidon 24H
+http://158.69.116.204:80/bento/1234/3331
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CDZ Saga do Santuario  24H
+http://158.69.116.204:80/bento/1234/3328
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CDZ Saga das Doze Casas 24H
+http://158.69.116.204:80/bento/1234/3329
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragon Ball Z Cell 24H
+http://158.69.116.204:80/bento/1234/3327
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragon Ball Super 1 24H
+http://158.69.116.204:80/bento/1234/3325
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragon Ball Super 2 24H
+http://158.69.116.204:80/bento/1234/3326
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Dragon Ball Z Sayajins 24H
+http://158.69.116.204:80/bento/1234/3323
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Larva 24H
+http://158.69.116.204:80/bento/1234/3320
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Naruto 24H
+http://158.69.116.204:80/bento/1234/3322
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Looney Tunnes 24H
+http://158.69.116.204:80/bento/1234/3319
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", The Backyardigans 24H
+http://158.69.116.204:80/bento/1234/3333
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tom & Jerry  24H
+http://158.69.116.204:80/bento/1234/3324
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Zoomoo HD
+http://158.69.116.204:80/bento/1234/5245
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Zoomoo
+http://158.69.116.204:80/bento/1234/5244
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Boomerang FHD
+http://158.69.116.204:80/bento/1234/3575
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Boomerang HD
+http://158.69.116.204:80/bento/1234/3461
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Boomerang HD*
+http://158.69.116.204:80/bento/1234/5281
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Boomerang
+http://158.69.116.204:80/bento/1234/1905
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Boomerang *
+http://158.69.116.204:80/bento/1234/129
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cartoon Network FHD
+http://158.69.116.204:80/bento/1234/5356
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cartoon Network HD
+http://158.69.116.204:80/bento/1234/141
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cartoon Network HD *
+http://158.69.116.204:80/bento/1234/2041
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cartoon Network
+http://158.69.116.204:80/bento/1234/1900
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Cartoon Network *
+http://158.69.116.204:80/bento/1234/124
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tooncast HD*
+http://158.69.116.204:80/bento/1234/5250
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tooncast
+http://158.69.116.204:80/bento/1234/1797
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Tooncast *
+http://158.69.116.204:80/bento/1234/19
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick FHD
+http://158.69.116.204:80/bento/1234/3577
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK HD
+http://158.69.116.204:80/bento/1234/1162
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick HD*
+http://158.69.116.204:80/bento/1234/3464
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick
+http://158.69.116.204:80/bento/1234/1844
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick *
+http://158.69.116.204:80/bento/1234/68
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick JR FHD
+http://158.69.116.204:80/bento/1234/3476
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick JR HD
+http://158.69.116.204:80/bento/1234/3463
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick Jr  HD
+http://158.69.116.204:80/bento/1234/5261
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick Jr
+http://158.69.116.204:80/bento/1234/1845
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nick Jr *
+http://158.69.116.204:80/bento/1234/69
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney XD HD
+http://158.69.116.204:80/bento/1234/5270
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney XD
+http://158.69.116.204:80/bento/1234/1887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney XD *
+http://158.69.116.204:80/bento/1234/111
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Channel FHD
+http://158.69.116.204:80/bento/1234/3395
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Channel HD
+http://158.69.116.204:80/bento/1234/1151
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Channel
+http://158.69.116.204:80/bento/1234/1889
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney channel*
+http://158.69.116.204:80/bento/1234/3337
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Channel HD*
+http://158.69.116.204:80/bento/1234/2038
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Junior FHD
+http://158.69.116.204:80/bento/1234/5306
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Junior HD
+http://158.69.116.204:80/bento/1234/5271
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Junior
+http://158.69.116.204:80/bento/1234/1888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Disney Junior *
+http://158.69.116.204:80/bento/1234/112
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Kids FHD
+http://158.69.116.204:80/bento/1234/3481
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Kids HD
+http://158.69.116.204:80/bento/1234/1150
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Kids HD *
+http://158.69.116.204:80/bento/1234/2039
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Discovery Kids
+http://158.69.116.204:80/bento/1234/1892
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloob FHD
+http://158.69.116.204:80/bento/1234/3399
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloob HD
+http://158.69.116.204:80/bento/1234/1155
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloob HD *
+http://158.69.116.204:80/bento/1234/2034
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloob
+http://158.69.116.204:80/bento/1234/1871
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloob *
+http://158.69.116.204:80/bento/1234/95
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloobinho FHD
+http://158.69.116.204:80/bento/1234/5340
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloobinho HD
+http://158.69.116.204:80/bento/1234/3091
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gloobinho
+http://158.69.116.204:80/bento/1234/3090
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Play TV
+http://158.69.116.204:80/bento/1234/1840
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Ra Tim Bum FHD
+http://158.69.116.204:80/bento/1234/5310
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Ra Tim Bum HD
+http://158.69.116.204:80/bento/1234/3465
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV RA TIM BUM HD*
+http://158.69.116.204:80/bento/1234/5257
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Ra tim bum
+http://158.69.116.204:80/bento/1234/1793
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Ra tim bum *
+http://158.69.116.204:80/bento/1234/15
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Kids FHD
+http://158.69.116.204:80/bento/1234/5324
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Kids HD
+http://158.69.116.204:80/bento/1234/3050
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Nat Geo Kids
+http://158.69.116.204:80/bento/1234/3049
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Baby TV  HD
+http://158.69.116.204:80/bento/1234/5285
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Baby TV
+http://158.69.116.204:80/bento/1234/5284
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Baby TV Brasil
+http://158.69.116.204:80/bento/1234/3055
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Play Kids FHD
+http://158.69.116.204:80/bento/1234/5473
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Play Kids HD
+http://158.69.116.204:80/bento/1234/5472
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Play Kids
+http://158.69.116.204:80/bento/1234/5471
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Gospel Moviews Television
+http://158.69.116.204:80/bento/1234/4654
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Vida
+http://158.69.116.204:80/bento/1234/5402
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Vida HD
+http://158.69.116.204:80/bento/1234/5256
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Vida
+http://158.69.116.204:80/bento/1234/1822
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV Aparecida HD
+http://158.69.116.204:80/bento/1234/5249
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Aparecida
+http://158.69.116.204:80/bento/1234/1913
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Aparecida *
+http://158.69.116.204:80/bento/1234/138
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Novo Tempo
+http://158.69.116.204:80/bento/1234/1843
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canção Nova
+http://158.69.116.204:80/bento/1234/5382
