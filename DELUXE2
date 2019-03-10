@@ -6437,3 +6437,845 @@ http://purpleserver.net:80/4NXsryE6fZ/2863954338/571
 http://purpleserver.net:80/4NXsryE6fZ/2863954338/570
 #EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",WooHoo SD
 http://purpleserver.net:80/4NXsryE6fZ/2863954338/569
+
+
+#EXTM3U
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", A&E SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58732
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", A&E SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59497
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", AGRO CANAL SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/32904
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", AMC SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58730
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", AMC SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59495
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ANIMAL  PLANET FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58729
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ANIMAL PLANET SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58727
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ANIMAL PLANET SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59493
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ARTE 1 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58725
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ARTE1 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59491
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", AUTO MOTO TV SD
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", AXN SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58723
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", AXN SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59489
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BABY TV SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58722
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BABY TV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59487
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND CAMPINAS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59485
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND NEWS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58721
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND NEWS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58719
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND NEWS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59483
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SP FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58718
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SP SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58716
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SP SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59481
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SPORTS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58714
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SPORTS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59479
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58713
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57009
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57008
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58711
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 FHD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57003
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58710
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57007
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57006
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58708
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 1 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57053
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 2 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57052
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 3 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57051
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 4 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57050
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 5 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57049
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 6 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57048
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 7 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57047
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 8 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57046
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 9 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57045
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CASA 10 HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57044
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO FHD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57002
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58687
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57005
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/57004
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58685
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BIS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58684
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BIS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58682
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BIS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59477
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BOOMERANG  FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58680
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BOOMERANG SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58678
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", BOOMERANG SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59475
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL BRASIL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58676
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL BRASIL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59474
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", Canal Rural SD
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL RURAL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59473
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL SONY SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58674
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL SONY SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59471
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANCAO NOVA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58673
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANÇÃO NOVA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59470
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CARTOON NETWORK SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58671
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CARTOON NETWORK SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59468
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CATARINENSE 1 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58669
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CATARINENSE 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58667
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CATARINENSE 3 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58665
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CBN SP SD
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CBTV INTERNATIONAL HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/59467
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CINEMAX SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58663
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CINEMAX SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59463
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CNN ESPANHOL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59461
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CNT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59460
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMBATE FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58662
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMBATE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58660
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMBATE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59458
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMEDY CENTRAL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58658
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMEDY CENTRAL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59455
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COPA NORDESTE 1 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58656
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COPA NORDESTE 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58654
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", COPA NORDESTE 3 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58652
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CURTA! SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58650
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", CURTA! SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59453
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CHANNEL FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58649
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CHANNEL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58647
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CHANNEL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59451
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CIVILIZATION SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58645
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CIVILIZATION SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59449
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY H&H SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58643
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY H&H SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59447
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY HOME & HEALTH FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58642
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY KIDS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58641
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY KIDS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58639
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY KIDS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59445
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY SCIENCE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58637
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY SCIENCE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59443
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY THEATER SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58635
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY THEATER SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59441
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY TURBO FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58634
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY TURBO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58632
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY TURBO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59439
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY WORLD FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58630
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY WORLD SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58629
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY WORLD SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59437
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY CHANNEL FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58628
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY CHANNEL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58626
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY CHANNEL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59435
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY JUNIOR SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58624
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY JUNIOR SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59433
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY XD SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58623
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY XD SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59431
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", E! SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58621
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", E! SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59429
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58619
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN 2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59426
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN BRASIL FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58618
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN BRASIL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58616
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN BRASIL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59424
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN EXTRA FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58615
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN EXTRA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58613
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN EXTRA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59422
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58612
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58610
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59421
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FILM & ARTS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58609
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FISH TV SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58607
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FISH TV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59417
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOOD NETWORK SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58605
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOOD NETWORK SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59415
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58604
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX LIFE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58601
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX LIFE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59412
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 1 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58599
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 1 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59410
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 2 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58598
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58596
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59408
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58595
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59407
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS 2 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58594
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58592
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS 2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59404
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58591
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58589
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59401
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FUTURA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58587
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FUTURA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59399
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FX SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58585
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", FX SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59397
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO AMAZONAS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59396
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO ANHANGUERA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59395
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO BAHIA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59394
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO BRASILIA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58582
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO CAMPINAS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58581
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO EPTV CAMPINAS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59391
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO EPTV RIB. PRETO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59390
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO EPTV SAO CARLOS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59389
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO GOIANIA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58579
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO MG SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59387
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO MINAS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58578
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO MINAS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58576
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NEWS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58575
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NEWS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58573
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NEWS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59385
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NORDESTE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58571
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NORDESTE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59383
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NSC FLORIANOPOLIS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58570
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RBS TV PORTO ALEGRE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58567
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RIBEIRAO PRETO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58565
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RJ FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58564
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RJ SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58562
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RJ SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59381
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RN SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59380
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RPC CURITIBA FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58561
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RPC CURITIBA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58559
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO SP FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58558
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO SP SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58556
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO SP SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59378
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV BAHIA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58554
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV BELEM SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59377
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM BAURU SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58553
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM S.J.RIO PRETO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58551
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM SOROCABA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58550
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM SOROCABA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59375
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TRIBUNA SANTOS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59374
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV V.M FORTALEZA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59373
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV V.S.J. CAMPOS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59372
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOB FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58549
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOB SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58547
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOB SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59368
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOBINHO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58545
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOBINHO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59367
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GNT SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58543
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GNT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59365
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GOSPEL CARTOON TV
+http://lista.g5iptv.space:8080/joseph1/joseph1/28387
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", GOSPEL CARTOON TV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59364
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", H2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58541
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", H2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59360
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO 2 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58540
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58538
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO 2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59358
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO FAMILY SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58536
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO FAMILY SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59356
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58535
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO PLUS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58532
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO PLUS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59353
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58531
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59350
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SIGNATURE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58529
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SIGNATURE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59348
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HISTORY CHANNEL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59346
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HISTORY FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58528
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HISTORY SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58526
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HIT TV  SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59345
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", I-SAT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59344
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", INVESTIGAÇÃO DISCOVERY SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59342
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", INVESTIGATION DISCOVERY SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58524
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", JOVEM PAN  3 SD
+https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", JOVEM PAN 2 SD
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", JOVEM PAN SD
+https://evpp.mm.uol.com.br/jovempan/jp-jornaldamanha.sdp/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", LIFETIME SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58522
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", LIFETIME SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59340
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAIS GLOBOSAT SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58520
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAIS GLOBOSAT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59370
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX PRIME SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58517
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX PRIME SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59337
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX PRIME*E SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59335
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58516
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59334
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX UP SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58514
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX UP SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59332
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MEGAPIX SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58512
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MEGAPIX SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59330
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MTV LIVE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58509
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MTV SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58508
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MTV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59328
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MULTISHOW SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58506
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MULTISHOW SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59326
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MUNDO AUTO SD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MUSIC BOX BRASIL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58504
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", MUSIC BOX BRAZIL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59325
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NAT GEO KIDS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58501
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NAT GEO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58500
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NAT GEO WILD FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58499
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATGEO KIDS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59323
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATGEO WILD SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58497
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATGEO WILD SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59321
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATIONAL GEOGRAPHIC SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59319
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NBR SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58496
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NBR SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59318
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICK JR FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58495
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICK JR SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58493
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICK JR SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59316
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICKELODEN SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58492
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICKELODEON FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58491
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICKELODEON SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59314
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", NOVO TEMPO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59313
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", OFF SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58488
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", OFF SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59311
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PARAMOUNT CHANNEL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58486
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PARAMOUNT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59309
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PLANETA HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/49755
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PLAYKIDS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58484
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", POLISHOP TV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59307
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 1 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59306
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 2 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58483
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58481
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59304
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 3 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58480
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 3 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58478
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 3 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59302
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 4 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58477
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 4 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58475
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 4 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59300
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 5 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58474
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 5 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58472
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 5 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59298
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 6 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58471
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 6 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58469
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 6 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59297
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 7 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58468
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 7 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58466
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 7 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59296
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 8 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59295
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 9 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59294
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE CLUBES FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58465
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE CLUBES SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58463
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE CLUBES SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59292
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE TABELA JOGOS (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58414
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", PRIME BOX BRASIL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58461
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", Rádio: KBOING FM
+http://52.206.124.3:1935/kboing-fm/kbostream/chunklist_w979262028.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RBI TV SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/50628
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", Real Madrid Tv Online
+http://lista.g5iptv.space:8080/joseph1/joseph1/23782
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD AMAZONAS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59291
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD CAMPINAS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59289
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD ES SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59288
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD NEWS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58458
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD NEWS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59286
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD SP SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58457
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD SP SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59283
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV BA FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58456
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV BA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58454
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV DF FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58453
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV DF SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58451
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV MG FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58450
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV MG SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58448
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RIO FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58447
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RIO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58445
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RS FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58444
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58442
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV SP FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58441
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV SP SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58439
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE BRASIL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58438
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", Rede Gênesis
+http://lista.g5iptv.space:8080/joseph1/joseph1/6012
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE GOSPEL SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/45130
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE GRAVA SD
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE METRÓPOLE DE COMUNICAÇÃO SD
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE SECULO 21
+http://lista.g5iptv.space:8080/joseph1/joseph1/6004
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE SUPER SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/45127
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE TV RJ
+http://lista.g5iptv.space:8080/joseph1/joseph1/4908
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE TV SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58436
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE TV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59281
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE VIDA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58434
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE VIDA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59279
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", RIT TV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59278
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58433
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58431
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59275
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT SP INTERIOR SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58430
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SESC TV SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/49756
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SOBRENATURAL TV SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/42252
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPACE SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58428
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPACE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59271
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 2 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58427
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 2 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58425
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 2 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59269
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 3 FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58424
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 3 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58422
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 3 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59267
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58421
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58419
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59265
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", STUDIO UNIVERSAL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58417
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", STUDIO UNIVERSAL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59263
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SYFY SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58415
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", SYFY SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59261
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TBS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58412
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TBS SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59259
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TCM SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58411
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TCM SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59257
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE ACTION FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58409
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE ACTION SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58410
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE ACTION SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59255
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE CULT SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58406
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE CULT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59253
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE FUN FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58405
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE FUN SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58403
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE FUN SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59251
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PIPOCA FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58402
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PIPOCA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58400
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PIPOCA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59249
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PREMIUM FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58399
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PREMIUM SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58397
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PREMIUM SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59247
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE TOUCH FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58396
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE TOUCH SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58394
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE TOUCH SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59245
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TERRA VIVA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58393
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TERRA VIVA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59244
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TLC SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58391
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TLC SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59242
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58389
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59240
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SERIES SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58387
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SERIES SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59238
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TOONCAST SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58386
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TOONCAST SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59236
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TRANSMAERICA POP FM
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TRUTV SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58384
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TRUTV SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59235
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV APARECIDA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58383
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV APARECIDA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59233
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV BOA VONTADE SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59232
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV BRASIL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58382
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV CAMARA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58381
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV CULTURA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58379
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV CULTURA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59230
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV DIARIO FORTALEZA SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/60076
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV ESCOLA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58378
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV ESCOLA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59229
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV EVANGELIZAR
+http://lista.g5iptv.space:8080/joseph1/joseph1/23786
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV GAZETA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59228
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV GIDEÕES HD
+http://lista.g5iptv.space:8080/joseph1/joseph1/50625
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV GIDEÕES SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/39535
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV JUSTICA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58376
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV JUSTIÇA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59227
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV MUNDO CATÓLICO SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/50626
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV MUNDO MAIOR SD
+https://youtu.be/ZzuAB1jsI40
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV RA TIM BUM SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58374
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV RA TIM BUM SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59226
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV RIO PRETO SD
+http://186.227.165.118:1935/insatv/livestream/playlist.m3u8?wowzasessionid=918902642
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV SENADO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58373
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV SHOPTIME SD
+http://lista.g5iptv.space:8080/joseph1/joseph1/50627
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", UNIVERSAL CHANNEL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58371
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", UNIVERSAL CHANNEL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59224
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", VH1 MEGA HITS SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58369
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", VH1 SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58368
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", VH1 SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59222
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", VIVA FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58367
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", VIVA SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58365
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", VIVA SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59220
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", WARNER CHANNEL SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58363
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", WARNER CHANNEL SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59218
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", WARNER FHD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58362
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", WEB TV LEÃO DE JUDÁ
+http://lista.g5iptv.space:8080/joseph1/joseph1/32552
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", WOOHOO SD (BR1)
+http://lista.g5iptv.space:8080/joseph1/joseph1/58360
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", WOOHOO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59216
+#EXTINF:-1, group-title="CANAIS PREMIUM 7", ZOOMOO SD (BR2)
+http://lista.g5iptv.space:8080/joseph1/joseph1/59214
