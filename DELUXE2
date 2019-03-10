@@ -4839,3 +4839,1601 @@ http://130.185.250.2:8080/Robinson/2019/198174
 http://130.185.250.2:8080/Robinson/2019/198603
 #EXTINF:-1, group-title="CANAIS PREMIUM 4", CARTOON: BR - GOSPEL CARTOON
 http://130.185.250.2:8080/Robinson/2019/198584
+
+#EXTM3U
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB 19 HD**
+http://nitrotv.com.br:25461/live/1234/1234/48253.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB 19 SD**
+http://nitrotv.com.br:25461/live/1234/1234/48252.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB 2019 AQUECIMENTO
+http://nitrotv.com.br:25461/live/1234/1234/53195.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 2
+http://nitrotv.com.br:25461/live/1234/1234/52430.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 3
+http://nitrotv.com.br:25461/live/1234/1234/52429.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 4
+http://nitrotv.com.br:25461/live/1234/1234/52428.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 5
+http://nitrotv.com.br:25461/live/1234/1234/52427.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 6
+http://nitrotv.com.br:25461/live/1234/1234/52426.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 7
+http://nitrotv.com.br:25461/live/1234/1234/52425.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 8
+http://nitrotv.com.br:25461/live/1234/1234/52424.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB CAM 9
+http://nitrotv.com.br:25461/live/1234/1234/52423.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB Mosaico HD
+http://nitrotv.com.br:25461/live/1234/1234/53032.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB19 1HD
+http://nitrotv.com.br:25461/live/1234/1234/53034.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BBB19 2HD
+http://nitrotv.com.br:25461/live/1234/1234/53033.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BEIN SPORTS
+http://nitrotv.com.br:25461/live/1234/1234/53187.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Big Brother Brasil 2019**
+http://nitrotv.com.br:25461/live/1234/1234/43611.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Big Brother Brasil 2019*****
+http://nitrotv.com.br:25461/live/1234/1234/43609.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", A&E
+http://nitrotv.com.br:25461/live/1234/1234/43469.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", A&E FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52919.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", A&E HD
+http://nitrotv.com.br:25461/live/1234/1234/43468.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", A&E SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53193.ts
+
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AMC
+http://nitrotv.com.br:25461/live/1234/1234/43467.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AMC FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52918.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AMC HD
+http://nitrotv.com.br:25461/live/1234/1234/43466.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AMC SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53192.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ANIMAL PLANET
+http://nitrotv.com.br:25461/live/1234/1234/43400.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ANIMAL PLANET FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52917.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ANIMAL PLANET HD
+http://nitrotv.com.br:25461/live/1234/1234/43399.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ANIMAL PLANET SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53191.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ARTE 1
+http://nitrotv.com.br:25461/live/1234/1234/43604.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ARTE 1 HD
+http://nitrotv.com.br:25461/live/1234/1234/43603.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AXN
+http://nitrotv.com.br:25461/live/1234/1234/43465.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AXN FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52916.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AXN HD
+http://nitrotv.com.br:25461/live/1234/1234/43464.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", AXN SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53190.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BABY TV
+http://nitrotv.com.br:25461/live/1234/1234/43494.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BABY TV HD
+http://nitrotv.com.br:25461/live/1234/1234/43493.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BABY TV SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53189.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND CAMPINAS HD
+http://nitrotv.com.br:25461/live/1234/1234/34318.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND GOIANIA FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52915.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND NEWS
+http://nitrotv.com.br:25461/live/1234/1234/43499.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND NEWS FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53697.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND NEWS HD
+http://nitrotv.com.br:25461/live/1234/1234/43498.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND NEWS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53188.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND RS
+http://nitrotv.com.br:25461/live/1234/1234/55163.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SERGIPE HD
+http://nitrotv.com.br:25461/live/1234/1234/55170.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SP
+http://nitrotv.com.br:25461/live/1234/1234/34317.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SP HD
+http://nitrotv.com.br:25461/live/1234/1234/43373.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SP HD*
+http://nitrotv.com.br:25461/live/1234/1234/34316.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SPORTS
+http://nitrotv.com.br:25461/live/1234/1234/43422.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SPORTS FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53696.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SPORTS HD
+http://nitrotv.com.br:25461/live/1234/1234/43421.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND SPORTS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53196.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BAND TV TAROBA PARANA HD
+http://nitrotv.com.br:25461/live/1234/1234/55167.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BARBE LAGO DO CINE 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53073.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BIS
+http://nitrotv.com.br:25461/live/1234/1234/43602.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BIS FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52994.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BIS HD
+http://nitrotv.com.br:25461/live/1234/1234/43601.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BOOMERANG
+http://nitrotv.com.br:25461/live/1234/1234/43492.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BOOMERANG FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53695.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BOOMERANG HD
+http://nitrotv.com.br:25461/live/1234/1234/43491.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", BOOMERANG SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53197.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANAL BRASIL
+http://nitrotv.com.br:25461/live/1234/1234/43600.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANAL RURAL
+http://nitrotv.com.br:25461/live/1234/1234/43599.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANAL SONNY SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53194.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANAL SONY
+http://nitrotv.com.br:25461/live/1234/1234/43463.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANAL SONY FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52993.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANAL SONY HD
+http://nitrotv.com.br:25461/live/1234/1234/43462.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CANCAO NOVA
+http://nitrotv.com.br:25461/live/1234/1234/43562.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CARTOON NETWORK
+http://nitrotv.com.br:25461/live/1234/1234/43490.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CARTOON NETWORK FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52992.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CARTOON NETWORK HD
+http://nitrotv.com.br:25461/live/1234/1234/43489.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CAVALEIROS DO ZODIACOS
+http://nitrotv.com.br:25461/live/1234/1234/53053.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Caverna do Drag
+http://nitrotv.com.br:25461/live/1234/1234/53051.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CAVERNA DO DRAGAO 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53076.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CHAVES 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53071.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CINEMAX
+http://nitrotv.com.br:25461/live/1234/1234/43461.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CINEMAX FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52991.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CINEMAX HD
+http://nitrotv.com.br:25461/live/1234/1234/43460.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMBATE
+http://nitrotv.com.br:25461/live/1234/1234/43402.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMBATE FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52990.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMBATE HD
+http://nitrotv.com.br:25461/live/1234/1234/43401.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMBATE SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53094.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMEDY CENTRAL
+http://nitrotv.com.br:25461/live/1234/1234/43597.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMEDY CENTRAL FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52989.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMEDY CENTRAL HD
+http://nitrotv.com.br:25461/live/1234/1234/43596.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COMEDY CENTRAL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53093.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COPA NORDESTE 2019 HD
+http://nitrotv.com.br:25461/live/1234/1234/53149.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COPA NORDESTE 2019 HD 2
+http://nitrotv.com.br:25461/live/1234/1234/53148.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COPA NORDESTE 2019 SD
+http://nitrotv.com.br:25461/live/1234/1234/53147.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", COPA NORDESTE 2019 SD 2
+http://nitrotv.com.br:25461/live/1234/1234/53146.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Coragem 24horas
+http://nitrotv.com.br:25461/live/1234/1234/53050.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CURTA ! SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53104.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", CURTA!
+http://nitrotv.com.br:25461/live/1234/1234/43595.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CHANNEL
+http://nitrotv.com.br:25461/live/1234/1234/43628.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CHANNEL FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52988.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CHANNEL HD
+http://nitrotv.com.br:25461/live/1234/1234/43619.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CHANNEL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53103.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CIVILIZATION
+http://nitrotv.com.br:25461/live/1234/1234/43627.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CIVILIZATION FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52987.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY CIVILIZATION HD
+http://nitrotv.com.br:25461/live/1234/1234/43618.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY H&H
+http://nitrotv.com.br:25461/live/1234/1234/43625.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY H&H FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53694.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY H&H HD
+http://nitrotv.com.br:25461/live/1234/1234/43616.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY H&H SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53102.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY HOME & HEALTH
+http://nitrotv.com.br:25461/live/1234/1234/43626.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY KIDS
+http://nitrotv.com.br:25461/live/1234/1234/43476.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY KIDS FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52986.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY KIDS HD
+http://nitrotv.com.br:25461/live/1234/1234/43475.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY KIDS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53101.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY SCIENCE
+http://nitrotv.com.br:25461/live/1234/1234/43624.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY SCIENCE FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52985.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY SCIENCE HD
+http://nitrotv.com.br:25461/live/1234/1234/43615.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY THEATER
+http://nitrotv.com.br:25461/live/1234/1234/43623.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY THEATER FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52984.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY THEATER HD
+http://nitrotv.com.br:25461/live/1234/1234/43614.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY TURBO
+http://nitrotv.com.br:25461/live/1234/1234/43621.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY TURBO FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53693.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY TURBO HD
+http://nitrotv.com.br:25461/live/1234/1234/43383.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY TURBO SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53100.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY WORLD
+http://nitrotv.com.br:25461/live/1234/1234/43382.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY WORLD ALTER
+http://nitrotv.com.br:25461/live/1234/1234/43620.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISCOVERY WORLD HD
+http://nitrotv.com.br:25461/live/1234/1234/43381.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY CHANNEL
+http://nitrotv.com.br:25461/live/1234/1234/43488.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY CHANNEL FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53692.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY CHANNEL HD
+http://nitrotv.com.br:25461/live/1234/1234/43487.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY CHANNEL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53099.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY JR SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53098.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY JUNIOR
+http://nitrotv.com.br:25461/live/1234/1234/43486.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY JUNIOR FHD
+http://nitrotv.com.br:25461/live/1234/1234/52983.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY JUNIOR HD
+http://nitrotv.com.br:25461/live/1234/1234/43485.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY XD
+http://nitrotv.com.br:25461/live/1234/1234/43484.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY XD HD
+http://nitrotv.com.br:25461/live/1234/1234/43483.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DISNEY XD SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53097.ts
+
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", E!
+http://nitrotv.com.br:25461/live/1234/1234/43594.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", E! FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53691.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", E! HD
+http://nitrotv.com.br:25461/live/1234/1234/43593.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", E! SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53096.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", EI MAX PLUS hd
+http://nitrotv.com.br:25461/live/1234/1234/53797.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ELEVEN SPORTS 2
+http://nitrotv.com.br:25461/live/1234/1234/53144.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ELEVEN SPORTS 3
+http://nitrotv.com.br:25461/live/1234/1234/53143.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ELEVEN SPORTS 4
+http://nitrotv.com.br:25461/live/1234/1234/53142.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ELEVEN SPORTS 5
+http://nitrotv.com.br:25461/live/1234/1234/53141.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ELEVEN SPORTS 6
+http://nitrotv.com.br:25461/live/1234/1234/53140.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ELEVEN SPORTS HD
+http://nitrotv.com.br:25461/live/1234/1234/53186.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN
+http://nitrotv.com.br:25461/live/1234/1234/43418.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN 2
+http://nitrotv.com.br:25461/live/1234/1234/43420.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN 2 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52982.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43419.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN 2 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53095.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN BRASIL
+http://nitrotv.com.br:25461/live/1234/1234/43416.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN BRASIL FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52981.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN BRASIL HD
+http://nitrotv.com.br:25461/live/1234/1234/43415.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN BRASIL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53119.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN EXTRA
+http://nitrotv.com.br:25461/live/1234/1234/43414.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN EXTRA FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52980.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN HD
+http://nitrotv.com.br:25461/live/1234/1234/43417.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN INTERNACIONAL HD
+http://nitrotv.com.br:25461/live/1234/1234/43413.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ESPN SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53118.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FATIMA TV HD
+http://nitrotv.com.br:25461/live/1234/1234/43560.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FISH TV
+http://nitrotv.com.br:25461/live/1234/1234/43592.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FISH TV FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52979.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOOD NETWORK
+http://nitrotv.com.br:25461/live/1234/1234/43591.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOOD NETWORK FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52978.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOOD NETWORK HD
+http://nitrotv.com.br:25461/live/1234/1234/43590.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX
+http://nitrotv.com.br:25461/live/1234/1234/43456.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52977.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX HD
+http://nitrotv.com.br:25461/live/1234/1234/43457.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX LIFE
+http://nitrotv.com.br:25461/live/1234/1234/43588.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX LIFE HD
+http://nitrotv.com.br:25461/live/1234/1234/43589.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX LIFE SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53117.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX PREMIUM 1
+http://nitrotv.com.br:25461/live/1234/1234/55053.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX PREMIUM 1 FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53690.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX PREMIUM 1 HD
+http://nitrotv.com.br:25461/live/1234/1234/43455.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX PREMIUM 2
+http://nitrotv.com.br:25461/live/1234/1234/55052.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX PREMIUM 2 FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53689.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX PREMIUM 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43454.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53116.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS
+http://nitrotv.com.br:25461/live/1234/1234/43406.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS 2
+http://nitrotv.com.br:25461/live/1234/1234/43407.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS 2 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52976.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43408.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS 2 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53115.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52975.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS HD
+http://nitrotv.com.br:25461/live/1234/1234/43409.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FOX SPORTS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53114.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FUTURA
+http://nitrotv.com.br:25461/live/1234/1234/43571.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FUTURA SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53113.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FX
+http://nitrotv.com.br:25461/live/1234/1234/43453.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FX FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52974.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FX HD
+http://nitrotv.com.br:25461/live/1234/1234/43452.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GlOBO AMAZONAS HD
+http://nitrotv.com.br:25461/live/1234/1234/43661.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globo Bahia
+http://nitrotv.com.br:25461/live/1234/1234/43659.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globo Brasilia SD
+http://nitrotv.com.br:25461/live/1234/1234/43657.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO BRASILIA SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53112.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO BRASILIA**
+http://nitrotv.com.br:25461/live/1234/1234/43523.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globo EPTV Campinas
+http://nitrotv.com.br:25461/live/1234/1234/43636.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globo EPTV Campinas HD
+http://nitrotv.com.br:25461/live/1234/1234/43675.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO EPTV Campinas SD
+http://nitrotv.com.br:25461/live/1234/1234/43655.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO ES HD
+http://nitrotv.com.br:25461/live/1234/1234/43364.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO INTERNACIONAL FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52973.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO INTERNACIONAL HD*
+http://nitrotv.com.br:25461/live/1234/1234/34336.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO INTERNACIONAL SD
+http://nitrotv.com.br:25461/live/1234/1234/43520.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO MG
+http://nitrotv.com.br:25461/live/1234/1234/43519.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO MG HD
+http://nitrotv.com.br:25461/live/1234/1234/43518.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO MINAS FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52972.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO MINAS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53111.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO NEWS
+http://nitrotv.com.br:25461/live/1234/1234/52914.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO NEWS FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52971.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO NEWS HD
+http://nitrotv.com.br:25461/live/1234/1234/43665.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO NEWS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53110.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globo Nordeste HD
+http://nitrotv.com.br:25461/live/1234/1234/43673.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO NSCTV Santa Catarina HD
+http://nitrotv.com.br:25461/live/1234/1234/55175.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO RBS TV PORTO ALEGRE
+http://nitrotv.com.br:25461/live/1234/1234/43646.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO RJ
+http://nitrotv.com.br:25461/live/1234/1234/43517.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO RJ HD
+http://nitrotv.com.br:25461/live/1234/1234/43516.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO RJ SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53109.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globo RN HD
+http://nitrotv.com.br:25461/live/1234/1234/43644.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO RPC HD
+http://nitrotv.com.br:25461/live/1234/1234/55173.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO SERGIPE HD
+http://nitrotv.com.br:25461/live/1234/1234/55174.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO SP
+http://nitrotv.com.br:25461/live/1234/1234/43515.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO SP FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52970.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO SP HD
+http://nitrotv.com.br:25461/live/1234/1234/43514.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO SP SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53108.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO TV LIBERAL
+http://nitrotv.com.br:25461/live/1234/1234/43643.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBO TV TRIBUNA SANTOS
+http://nitrotv.com.br:25461/live/1234/1234/43635.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBOSAT
+http://nitrotv.com.br:25461/live/1234/1234/30045.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBOSAT HD
+http://nitrotv.com.br:25461/live/1234/1234/43664.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Globosat HD
+http://nitrotv.com.br:25461/live/1234/1234/43663.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOBOSAT SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53107.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOOB
+http://nitrotv.com.br:25461/live/1234/1234/43474.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOOB FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52969.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOOB HD
+http://nitrotv.com.br:25461/live/1234/1234/43473.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GLOOB SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53106.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GNT
+http://nitrotv.com.br:25461/live/1234/1234/43587.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GNT FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53688.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GNT HD
+http://nitrotv.com.br:25461/live/1234/1234/43586.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GOSPEL CARTON 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53074.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GOSPEL MOVIES TV
+http://nitrotv.com.br:25461/live/1234/1234/43552.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", H2
+http://nitrotv.com.br:25461/live/1234/1234/43380.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", H2 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52968.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", H2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43379.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", H2 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53105.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO
+http://nitrotv.com.br:25461/live/1234/1234/43684.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO 2
+http://nitrotv.com.br:25461/live/1234/1234/43688.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO 2 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52965.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43677.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO FAMILY
+http://nitrotv.com.br:25461/live/1234/1234/43687.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO FAMILY FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53687.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO FAMILY HD
+http://nitrotv.com.br:25461/live/1234/1234/43681.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO FAMILY SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53139.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53686.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO HD
+http://nitrotv.com.br:25461/live/1234/1234/52433.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS
+http://nitrotv.com.br:25461/live/1234/1234/43686.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS E SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53138.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52967.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS HD
+http://nitrotv.com.br:25461/live/1234/1234/43680.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS PANREGIONAL
+http://nitrotv.com.br:25461/live/1234/1234/53184.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53137.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO PLUS*E
+http://nitrotv.com.br:25461/live/1234/1234/43685.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53136.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO SIGNATURE
+http://nitrotv.com.br:25461/live/1234/1234/43683.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO SIGNATURE FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52966.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO SIGNATURE HD
+http://nitrotv.com.br:25461/live/1234/1234/43678.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HBO SIGNATURE SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53135.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HISTORY CHANNEL
+http://nitrotv.com.br:25461/live/1234/1234/43378.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HISTORY CHANNEL HD
+http://nitrotv.com.br:25461/live/1234/1234/43377.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HISTORY FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52964.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ID - INVESTIGACAO DISCOVERY
+http://nitrotv.com.br:25461/live/1234/1234/43376.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ID - INVESTIGACAO DISCOVERY HD
+http://nitrotv.com.br:25461/live/1234/1234/43375.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", INVESTIGATION DISCOVERY FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52963.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", LIFETIME
+http://nitrotv.com.br:25461/live/1234/1234/43585.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", LIFETIME FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52962.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", LIFETIME HD
+http://nitrotv.com.br:25461/live/1234/1234/43584.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", LIFETIME SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53134.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MASCARA 24 HRS
+http://nitrotv.com.br:25461/live/1234/1234/53054.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52961.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX HD
+http://nitrotv.com.br:25461/live/1234/1234/43451.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX PRIME
+http://nitrotv.com.br:25461/live/1234/1234/43450.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX PRIME FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52960.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX PRIME HD
+http://nitrotv.com.br:25461/live/1234/1234/43449.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX PRIME SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53133.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53132.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX UP
+http://nitrotv.com.br:25461/live/1234/1234/43446.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX UP FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53685.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX UP HD
+http://nitrotv.com.br:25461/live/1234/1234/43445.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MAX UP SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53131.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MEGAPIX
+http://nitrotv.com.br:25461/live/1234/1234/43444.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MEGAPIX FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53129.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MEGAPIX HD
+http://nitrotv.com.br:25461/live/1234/1234/43443.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MEGAPIX SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53130.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MTV
+http://nitrotv.com.br:25461/live/1234/1234/43583.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MTV FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52959.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MTV HD
+http://nitrotv.com.br:25461/live/1234/1234/43582.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MTV SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53128.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MULTISHOW
+http://nitrotv.com.br:25461/live/1234/1234/43581.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MULTISHOW FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52958.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MULTISHOW HD
+http://nitrotv.com.br:25461/live/1234/1234/43580.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MULTISHOW SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53127.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MUSIC BOX BRASIL
+http://nitrotv.com.br:25461/live/1234/1234/43579.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", MUSIC BOX BRASIL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53126.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52957.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO KIDS
+http://nitrotv.com.br:25461/live/1234/1234/43472.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO KIDS FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52956.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO KIDS HD
+http://nitrotv.com.br:25461/live/1234/1234/43471.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO KIDS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53125.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53124.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO WILD
+http://nitrotv.com.br:25461/live/1234/1234/43387.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO WILD FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52955.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO WILD HD
+http://nitrotv.com.br:25461/live/1234/1234/43386.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NAT GEO WILD SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53123.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NATIONAL GEOGRAPHIC
+http://nitrotv.com.br:25461/live/1234/1234/43385.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NATIONAL GEOGRAPHIC HD
+http://nitrotv.com.br:25461/live/1234/1234/43384.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICK JR
+http://nitrotv.com.br:25461/live/1234/1234/43482.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICK JR FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52954.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICK JR HD
+http://nitrotv.com.br:25461/live/1234/1234/43481.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICK JR SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53122.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICKELODEON
+http://nitrotv.com.br:25461/live/1234/1234/43480.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICKELODEON FHD
+http://nitrotv.com.br:25461/live/1234/1234/52953.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICKELODEON HD
+http://nitrotv.com.br:25461/live/1234/1234/43479.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NICKELONDEON SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53121.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NOVO TEMPO
+http://nitrotv.com.br:25461/live/1234/1234/43559.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", NSCTV Santa Catarina FHD
+http://nitrotv.com.br:25461/live/1234/1234/52952.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", OFF
+http://nitrotv.com.br:25461/live/1234/1234/43578.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", OFF FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52951.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", OFF HD
+http://nitrotv.com.br:25461/live/1234/1234/43577.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", OFF SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53120.ts
+
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PARAMOUNT CHANNEL
+http://nitrotv.com.br:25461/live/1234/1234/43428.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PARAMOUNT CHANNEL FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52950.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PARAMOUNT CHANNEL HD
+http://nitrotv.com.br:25461/live/1234/1234/43427.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PARAMOUNT SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53161.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PLAY TV
+http://nitrotv.com.br:25461/live/1234/1234/43570.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PLAY TV SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53160.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 24HS HD
+http://nitrotv.com.br:25461/live/1234/1234/53185.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 3 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53157.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 4 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53156.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 5 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53155.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 6 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53154.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 7 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53153.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 8 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53152.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER 9 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53151.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIER CLUBE SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53150.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 2
+http://nitrotv.com.br:25461/live/1234/1234/43512.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 2 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52948.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43511.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 2 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53158.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 3
+http://nitrotv.com.br:25461/live/1234/1234/43510.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 3 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52947.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 3 HD
+http://nitrotv.com.br:25461/live/1234/1234/43509.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 4
+http://nitrotv.com.br:25461/live/1234/1234/43508.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 4 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52946.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 4 HD
+http://nitrotv.com.br:25461/live/1234/1234/43507.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 5
+http://nitrotv.com.br:25461/live/1234/1234/43506.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 5 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52945.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 5 HD
+http://nitrotv.com.br:25461/live/1234/1234/43505.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 6
+http://nitrotv.com.br:25461/live/1234/1234/43504.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 6 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52944.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 7
+http://nitrotv.com.br:25461/live/1234/1234/43503.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 7 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52943.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE 8
+http://nitrotv.com.br:25461/live/1234/1234/43502.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE CLUBES
+http://nitrotv.com.br:25461/live/1234/1234/43501.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE CLUBES FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52942.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PREMIERE CLUBES HD
+http://nitrotv.com.br:25461/live/1234/1234/43500.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PRIME BOX SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53159.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RAMBO 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53075.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RBS FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52941.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RBS TV SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53200.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECOR SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53199.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD
+http://nitrotv.com.br:25461/live/1234/1234/34320.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD AMAZONAS
+http://nitrotv.com.br:25461/live/1234/1234/34322.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD CAMPINAS HD
+http://nitrotv.com.br:25461/live/1234/1234/34321.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52940.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD NEWS
+http://nitrotv.com.br:25461/live/1234/1234/43496.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD NEWS HD
+http://nitrotv.com.br:25461/live/1234/1234/43495.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD NEWS SD H 264
+http://nitrotv.com.br:25461/live/1234/1234/53198.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD PARANA HD
+http://nitrotv.com.br:25461/live/1234/1234/55166.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD RS HD
+http://nitrotv.com.br:25461/live/1234/1234/55164.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD SANTA CATARINA HD
+http://nitrotv.com.br:25461/live/1234/1234/55172.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD SERGIPE HD
+http://nitrotv.com.br:25461/live/1234/1234/55169.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD SP
+http://nitrotv.com.br:25461/live/1234/1234/43372.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", RECORD SP HD
+http://nitrotv.com.br:25461/live/1234/1234/43371.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Red Bull TV HD
+http://nitrotv.com.br:25461/live/1234/1234/43630.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Red Bull TV SD
+http://nitrotv.com.br:25461/live/1234/1234/43629.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", REDE TV FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/53684.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", REDE TV HD*
+http://nitrotv.com.br:25461/live/1234/1234/34327.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", REDE TV*
+http://nitrotv.com.br:25461/live/1234/1234/34326.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", REDE VIDA
+http://nitrotv.com.br:25461/live/1234/1234/43558.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", REDE VIDA HD
+http://nitrotv.com.br:25461/live/1234/1234/43557.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT
+http://nitrotv.com.br:25461/live/1234/1234/34323.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT HD
+http://nitrotv.com.br:25461/live/1234/1234/34325.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT NORDESTE HD
+http://nitrotv.com.br:25461/live/1234/1234/34324.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT PARANA HD
+http://nitrotv.com.br:25461/live/1234/1234/55165.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT SANTA CATARINA HD
+http://nitrotv.com.br:25461/live/1234/1234/55171.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53175.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT SERGIPE HD
+http://nitrotv.com.br:25461/live/1234/1234/55168.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SBT SERRA DOURADA FULL HD 265
+http://nitrotv.com.br:25461/live/1234/1234/52939.ts
+
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SONY
+http://nitrotv.com.br:25461/live/1234/1234/43442.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SONY HD
+http://nitrotv.com.br:25461/live/1234/1234/43441.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPACE
+http://nitrotv.com.br:25461/live/1234/1234/43440.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPACE FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52938.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPACE HD
+http://nitrotv.com.br:25461/live/1234/1234/43439.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPACE SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53145.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV
+http://nitrotv.com.br:25461/live/1234/1234/43412.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 2
+http://nitrotv.com.br:25461/live/1234/1234/43411.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 2 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52937.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/43410.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 2 SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53179.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 3
+http://nitrotv.com.br:25461/live/1234/1234/43405.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 3 FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52936.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV 3 HD
+http://nitrotv.com.br:25461/live/1234/1234/43404.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52935.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV HD
+http://nitrotv.com.br:25461/live/1234/1234/43403.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SPORTV SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53178.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", STUDIO UNIVERSAL
+http://nitrotv.com.br:25461/live/1234/1234/43438.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", STUDIO UNIVERSAL FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52934.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", STUDIO UNIVERSAL HD
+http://nitrotv.com.br:25461/live/1234/1234/43437.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", STUDIO UNIVERSAL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53177.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SYFY
+http://nitrotv.com.br:25461/live/1234/1234/43436.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SYFY HD
+http://nitrotv.com.br:25461/live/1234/1234/43435.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Syfy HD [Alter]
+http://nitrotv.com.br:25461/live/1234/1234/53176.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SYFY SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53174.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TBS FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52933.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TBS HD
+http://nitrotv.com.br:25461/live/1234/1234/53708.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TBS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53173.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TCM HD
+http://nitrotv.com.br:25461/live/1234/1234/55176.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TCM SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53172.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE ACTION
+http://nitrotv.com.br:25461/live/1234/1234/43699.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE ACTION FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52932.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE ACTION HD
+http://nitrotv.com.br:25461/live/1234/1234/43722.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE ACTION SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53171.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE CULT
+http://nitrotv.com.br:25461/live/1234/1234/43698.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE CULT FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52931.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE CULT HD
+http://nitrotv.com.br:25461/live/1234/1234/43693.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE CULT SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53170.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE FUN
+http://nitrotv.com.br:25461/live/1234/1234/43697.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE FUN FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52930.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE FUN HD
+http://nitrotv.com.br:25461/live/1234/1234/43692.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE FUN SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53169.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PIPOCA
+http://nitrotv.com.br:25461/live/1234/1234/43696.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PIPOCA FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52929.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PIPOCA HD
+http://nitrotv.com.br:25461/live/1234/1234/43691.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PIPOCA SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53168.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PREMIUM
+http://nitrotv.com.br:25461/live/1234/1234/43695.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PREMIUM FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52928.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PREMIUM HD
+http://nitrotv.com.br:25461/live/1234/1234/43690.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE PREMIUM SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53167.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE TOUCH
+http://nitrotv.com.br:25461/live/1234/1234/43694.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE TOUCH FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52927.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE TOUCH HD
+http://nitrotv.com.br:25461/live/1234/1234/43689.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TELECINE TOUCH SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53166.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TERRA VIVA
+http://nitrotv.com.br:25461/live/1234/1234/43556.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TESOURO DA DISNEY 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53069.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", THE HISTORY CHANNEL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53165.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", THUNDERCATS 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53056.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TIMAO E TUMBA 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53066.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TLC
+http://nitrotv.com.br:25461/live/1234/1234/43433.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TLC HD
+http://nitrotv.com.br:25461/live/1234/1234/43434.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TLC SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53164.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT
+http://nitrotv.com.br:25461/live/1234/1234/43432.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52926.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT HD
+http://nitrotv.com.br:25461/live/1234/1234/43431.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53163.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT SERIES
+http://nitrotv.com.br:25461/live/1234/1234/43430.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT SERIES FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52925.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT SERIES HD
+http://nitrotv.com.br:25461/live/1234/1234/43429.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TNT SERIES SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53162.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Todo Mundo Odeia O cris
+http://nitrotv.com.br:25461/live/1234/1234/53039.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TOM E JERRY 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53070.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TOONCAST
+http://nitrotv.com.br:25461/live/1234/1234/43478.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TOONCAST HD
+http://nitrotv.com.br:25461/live/1234/1234/43477.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TOONCAST SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53209.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TRUTV
+http://nitrotv.com.br:25461/live/1234/1234/43576.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV ALTEROSA FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52924.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV ANHANGUERA FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52923.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV ANHANGUERA SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53208.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV APARECIDA
+http://nitrotv.com.br:25461/live/1234/1234/43555.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV APARECIDA HD
+http://nitrotv.com.br:25461/live/1234/1234/43561.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV APARECIDA HD
+http://nitrotv.com.br:25461/live/1234/1234/43554.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CAMERA SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53207.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CINE 3 HD
+http://nitrotv.com.br:25461/live/1234/1234/53181.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CINE 1 HD
+http://nitrotv.com.br:25461/live/1234/1234/53183.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CINE 2 HD
+http://nitrotv.com.br:25461/live/1234/1234/53182.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CINE 4 HD
+http://nitrotv.com.br:25461/live/1234/1234/53180.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CULTURA
+http://nitrotv.com.br:25461/live/1234/1234/43575.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV CULTURA HD
+http://nitrotv.com.br:25461/live/1234/1234/43574.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV ESCOLA
+http://nitrotv.com.br:25461/live/1234/1234/43573.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV ESCOLA HD
+http://nitrotv.com.br:25461/live/1234/1234/43572.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV EVANGELIZAR
+http://nitrotv.com.br:25461/live/1234/1234/43550.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV GAZETA
+http://nitrotv.com.br:25461/live/1234/1234/43565.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV Mundial
+http://nitrotv.com.br:25461/live/1234/1234/43548.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV SENADO
+http://nitrotv.com.br:25461/live/1234/1234/43563.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV TEM BAURU SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53206.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TV TEM SOROCABA SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53205.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", UNIVERSAL CHANNEL
+http://nitrotv.com.br:25461/live/1234/1234/43425.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", UNIVERSAL CHANNEL FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52922.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", UNIVERSAL CHANNEL HD
+http://nitrotv.com.br:25461/live/1234/1234/43426.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", UNIVERSAL CHANNEL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53204.ts
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", VH1
+http://nitrotv.com.br:25461/live/1234/1234/43569.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", VH1 FULL HD
+http://nitrotv.com.br:25461/live/1234/1234/52921.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", VH1 MEGAHITS SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53203.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", VIVA
+http://nitrotv.com.br:25461/live/1234/1234/43567.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", VIVA HD
+http://nitrotv.com.br:25461/live/1234/1234/43568.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", WARNER CHANNEL
+http://nitrotv.com.br:25461/live/1234/1234/43424.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", WARNER CHANNEL FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52920.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", WARNER CHANNEL HD
+http://nitrotv.com.br:25461/live/1234/1234/43423.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", WARNER CHANNEL SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53202.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", WOOHOO
+http://nitrotv.com.br:25461/live/1234/1234/43566.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", WOOHOO SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53201.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ZOOMOO
+http://nitrotv.com.br:25461/live/1234/1234/43470.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ALADIN 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53059.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Denis o pimentinha
+http://nitrotv.com.br:25461/live/1234/1234/53040.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Digimon 24hs
+http://nitrotv.com.br:25461/live/1234/1234/53047.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", DRAGON BALL SUPER 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53072.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Dragon Ball Z
+http://nitrotv.com.br:25461/live/1234/1234/53046.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", FEITICEIRA 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53065.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", GALINHA PINTADINHA 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53044.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Galinha Pintadinha 24hs
+http://nitrotv.com.br:25461/live/1234/1234/53045.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", HOMEM ARANHA 24 hrs
+http://nitrotv.com.br:25461/live/1234/1234/53060.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Homem Aranha 24Hrs
+http://nitrotv.com.br:25461/live/1234/1234/53043.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", O INSPETOR 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53061.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", OS FLINTSTONES 24 HRS
+http://nitrotv.com.br:25461/live/1234/1234/53062.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", OS SIMPSON 24hr
+http://nitrotv.com.br:25461/live/1234/1234/53063.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Os Anjinhos -Rugrats [24horas]
+http://nitrotv.com.br:25461/live/1234/1234/53049.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PERNALONGA 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53068.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PICA PAU 24 HRS
+http://nitrotv.com.br:25461/live/1234/1234/53055.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Pica Pau 24Hrs
+http://nitrotv.com.br:25461/live/1234/1234/53042.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SCOOBY DOO 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53064.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Steve Universe 24hs
+http://nitrotv.com.br:25461/live/1234/1234/53048.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SUPER SHOCK 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53057.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", TARTARUGAS NINJAS 24HRS
+http://nitrotv.com.br:25461/live/1234/1234/53077.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", Ursinhos carinhosos
+http://nitrotv.com.br:25461/live/1234/1234/53041.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", X - MAN 24hrs
+http://nitrotv.com.br:25461/live/1234/1234/53058.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PLAYBOY FULL HD H265
+http://nitrotv.com.br:25461/live/1234/1234/52949.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PLAYBOY SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53080.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", PLAYBOY TV
+http://nitrotv.com.br:25461/live/1234/1234/33201.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SEX HOT SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53079.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SEXTREME SD
+http://nitrotv.com.br:25461/live/1234/1234/53092.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SEXTREME SD H264
+http://nitrotv.com.br:25461/live/1234/1234/53078.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SEXY HOT
+http://nitrotv.com.br:25461/live/1234/1234/33202.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", SEXY HOT SD
+http://nitrotv.com.br:25461/live/1234/1234/53091.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 1
+http://nitrotv.com.br:25461/live/1234/1234/53090.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 10
+http://nitrotv.com.br:25461/live/1234/1234/53081.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 2
+http://nitrotv.com.br:25461/live/1234/1234/53089.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 3
+http://nitrotv.com.br:25461/live/1234/1234/53088.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 4
+http://nitrotv.com.br:25461/live/1234/1234/53087.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 5
+http://nitrotv.com.br:25461/live/1234/1234/53086.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 6
+http://nitrotv.com.br:25461/live/1234/1234/53085.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 7
+http://nitrotv.com.br:25461/live/1234/1234/53084.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 8
+http://nitrotv.com.br:25461/live/1234/1234/53083.ts
+#EXTINF:-1, group-title="CANAIS PREMIUM 5", ADULTO 9
+http://nitrotv.com.br:25461/live/1234/1234/53082.ts
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",A&E HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/1008
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",A&E SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/1007
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",AMC HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/1004
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",AMC SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/1003
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/1001
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Animal Planet HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/1000
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Animal Planet SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/999
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Arte 1 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/998
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Arte 1 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/997
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",AXN HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/994
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",AXN SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/993
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BabyTV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/992
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Band HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/991
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Band SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/986
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BandNews HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/985
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BandNews SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/984
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BandSports HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/982
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BandSports SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/981
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BIS HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/965
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",BIS SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/964
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Boomerang HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/962
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Boomerang SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/961
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Canal Brasil SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/960
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Canal do Boi SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/959
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Canção Nova FHD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/957
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Canção Nova HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/956
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Canção Nova SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/955
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Cartoon Network HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/952
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Cartoon Network SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/951
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Cinemax HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/948
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Cinemax SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/947
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",CNN HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/946
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",CNN SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/945
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Combate HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/942
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Combate SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/941
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Comedy Central HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/938
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Comedy Central SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/937
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Curta SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/932
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Channel HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/929
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Channel SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/928
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Civilization HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/926
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Civilization SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/925
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery H&H HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/923
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery H&H SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/922
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Kids HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/919
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Kids SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/918
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Science HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/915
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Science SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/914
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Theater HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/912
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Theater SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/911
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Turbo HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/909
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery Turbo SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/908
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery World HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/907
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Discovery World SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/906
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Disney Channel HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/905
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Disney Channel SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/904
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Disney Junior HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/901
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Disney Junior SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/900
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Disney XD HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/899
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Disney XD SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/898
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",E! HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/897
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",E! SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/896
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN 2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/894
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN 2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/893
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN Brasil HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/890
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN Brasil SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/889
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN Extra HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/887
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN Extra SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/886
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/884
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN Plus HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/882
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN Plus SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/881
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ESPN SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/880
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fish TV HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/879
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fish TV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/878
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Food Network HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/875
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Food Network SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/874
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Channel HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/871
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Channel SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/861
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Life HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/869
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Life SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/868
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Premium 1 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/866
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Premium 1 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/865
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Premium 2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/863
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Fox Premium 2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/862
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",FoxSports 2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/858
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",FoxSports 2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/857
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",FoxSports HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/854
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",FoxSports SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/853
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Futura HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/852
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Futura SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/851
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",FX HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/849
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",FX SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/848
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Globo Nordeste FHD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/827
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Globo Nordeste HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/826
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Globo Rio HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/818
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Globo Rio SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/817
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Globo SP HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/813
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Globo SP SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/812
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",GloboNews HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/829
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",GloboNews SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/828
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Gloob HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/800
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Gloob SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/799
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Gloobinho SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/588
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",GNT HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/797
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",GNT SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/796
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",H2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/793
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",H2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/792
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO 2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/789
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO 2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/788
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO Family HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/787
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO Family SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/786
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/7843
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO Plus HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/782
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO Plus SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/781
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/780
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO Signature HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/778
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HBO Signature SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/777
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",History HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/774
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",History SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/773
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",HIT TV HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/2513
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ID: Investigação Discovery HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/768
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",ID: Investigação Discovery SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/767
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Lifetime HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/765
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Lifetime SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/764
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Mais GloboSat HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/804
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Mais GloboSat SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/803
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Max HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/762
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Max Prime HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/759
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Max Prime SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/758
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Max SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/757
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Max Up HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/756
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Max Up SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/755
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Megapix HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/752
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Megapix SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/751
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",MTV HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/748
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",MTV Hits SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/772
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",MTV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/747
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Multishow HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/744
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Multishow SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/743
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Music Box Brazil SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/742
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",NatGeo Kids HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/740
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",NatGeo Kids SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/739
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",National Geographic HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/733
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",National Geographic SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/732
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",National Geographic Wild HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/737
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",National Geographic Wild SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/736
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",NBR SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/731
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",NHK SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/730
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Nick HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/724
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Nick Jr. HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/727
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Nick Jr. SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/726
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Nick SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/723
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",OFF HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/720
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",OFF SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/719
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Paramount Channel HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/718
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Paramount Channel SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/717
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",PlayTV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/713
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/711
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/710
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 3 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/707
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 3 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/706
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 4 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/704
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 4 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/703
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 5 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/701
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 5 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/700
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 6 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/698
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 6 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/697
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 7 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/695
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 7 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/694
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere 8 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/693
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere Clubes HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/690
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Premiere Clubes SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/689
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Prime Box Brasil SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/688
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Record News SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/683
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",RecordTV HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/687
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",RecordTV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/680
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",RecordTV SP HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/679
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",RecordTV SP SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/678
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Rede Brasil SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/677
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Rede Vida SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/675
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",RedeTV! HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/676
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",RedeTV! SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/674
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SBT Nordeste HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/670
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Sony HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/659
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Sony SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/658
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Space HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/655
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Space SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/654
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SporTV 2 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/651
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SporTV 2 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/650
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SporTV 3 HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/648
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SporTV 3 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/647
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SporTV HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/644
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SporTV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/643
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Studio Universal HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/640
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Studio Universal SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/639
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SyFy HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/636
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",SyFy SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/635
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TBS HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/633
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TBS SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/632
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TCM SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/631
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Action HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/628
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Action SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/627
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Cult HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/624
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Cult SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/623
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Fun HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/620
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Fun SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/619
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Pipoca HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/616
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Pipoca SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/615
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Premium HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/612
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Premium SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/611
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Touch HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/608
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Telecine Touch SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/607
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Terra Viva SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/606
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TLC HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/605
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TLC SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/604
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TNT HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/601
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TNT SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/600
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TNT Series HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/597
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TNT Series SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/596
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Tooncast HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/595
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Tooncast SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/594
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TruTV SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/593
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TV Aparecida SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/592
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TV Cultura SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/589
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TV Justica SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/587
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TV Novo Tempo SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/586
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",TV Ra Tim Bum SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/585
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Universal Channel HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/582
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Universal Channel SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/581
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",VH1 Megahits SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/578
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",VH1 SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/5776
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Viva HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/575
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Viva SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/574
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Warner Channel HD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/571
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",Warner Channel SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/570
+#EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",WooHoo SD
+http://purpleserver.net:80/4NXsryE6fZ/2863954338/569
