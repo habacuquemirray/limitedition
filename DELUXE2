@@ -6010,3 +6010,527 @@ http://streamtv.com.br:80/monica2/monica2/115
 http://streamtv.com.br:80/monica2/monica2/19948
 #EXTINF:-1 tvg-id="WOOHOO HD***" tvg-name="WOOHOO" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="CANAIS PREMIUM 7",WOOHOO
 http://streamtv.com.br:80/monica2/monica2/1524
+
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", A&E HD
+http://maxptv.ddns.net:25461/carlin/carlin/231
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", A&E SD
+http://maxptv.ddns.net:25461/carlin/carlin/230
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", AMC HD
+http://maxptv.ddns.net:25461/carlin/carlin/229
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", AMC SD
+http://maxptv.ddns.net:25461/carlin/carlin/228
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", AXN HD
+http://maxptv.ddns.net:25461/carlin/carlin/224
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", AXN SD
+http://maxptv.ddns.net:25461/carlin/carlin/223
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Animal Planet HD
+http://maxptv.ddns.net:25461/carlin/carlin/227
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Animal Planet SD
+http://maxptv.ddns.net:25461/carlin/carlin/232
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Arte1 HD
+http://maxptv.ddns.net:25461/carlin/carlin/226
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Arte1 SD
+http://maxptv.ddns.net:25461/carlin/carlin/225
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BIS HD
+http://maxptv.ddns.net:25461/carlin/carlin/212
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BIS SD
+http://maxptv.ddns.net:25461/carlin/carlin/211
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BabyTV HD
+http://maxptv.ddns.net:25461/carlin/carlin/222
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BabyTV SD
+http://maxptv.ddns.net:25461/carlin/carlin/221
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Band Campinas HD
+http://maxptv.ddns.net:25461/carlin/carlin/220
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Band Campinas SD
+http://maxptv.ddns.net:25461/carlin/carlin/219
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Band News HD
+http://maxptv.ddns.net:25461/carlin/carlin/218
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Band News SD
+http://maxptv.ddns.net:25461/carlin/carlin/217
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BandSports HD
+http://maxptv.ddns.net:25461/carlin/carlin/216
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BandSports SD
+http://maxptv.ddns.net:25461/carlin/carlin/215
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Boomerang HD
+http://maxptv.ddns.net:25461/carlin/carlin/210
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Boomerang SD
+http://maxptv.ddns.net:25461/carlin/carlin/209
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal Curta! HD
+http://maxptv.ddns.net:25461/carlin/carlin/208
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal Curta! SD
+http://maxptv.ddns.net:25461/carlin/carlin/207
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal Futura HD
+http://maxptv.ddns.net:25461/carlin/carlin/206
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal Futura SD
+http://maxptv.ddns.net:25461/carlin/carlin/205
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal OFF HD
+http://maxptv.ddns.net:25461/carlin/carlin/204
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal OFF SD
+http://maxptv.ddns.net:25461/carlin/carlin/203
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal Woohoo HD
+http://maxptv.ddns.net:25461/carlin/carlin/202
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Canal Woohoo SD
+http://maxptv.ddns.net:25461/carlin/carlin/201
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Cartoon Network HD
+http://maxptv.ddns.net:25461/carlin/carlin/200
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Cartoon Network SD
+http://maxptv.ddns.net:25461/carlin/carlin/199
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Cinemax HD
+http://maxptv.ddns.net:25461/carlin/carlin/198
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Cinemax SD
+http://maxptv.ddns.net:25461/carlin/carlin/197
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Combate HD
+http://maxptv.ddns.net:25461/carlin/carlin/196
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Combate SD
+http://maxptv.ddns.net:25461/carlin/carlin/195
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Comedy Central HD
+http://maxptv.ddns.net:25461/carlin/carlin/194
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Comedy Central SD
+http://maxptv.ddns.net:25461/carlin/carlin/193
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Cultura HD
+http://maxptv.ddns.net:25461/carlin/carlin/192
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Cultura SD
+http://maxptv.ddns.net:25461/carlin/carlin/191
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Channel HD
+http://maxptv.ddns.net:25461/carlin/carlin/190
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Channel SD
+http://maxptv.ddns.net:25461/carlin/carlin/189
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Civilization HD
+http://maxptv.ddns.net:25461/carlin/carlin/188
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Civilization SD
+http://maxptv.ddns.net:25461/carlin/carlin/187
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Home & Health HD
+http://maxptv.ddns.net:25461/carlin/carlin/186
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Home & Health SD
+http://maxptv.ddns.net:25461/carlin/carlin/185
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Kids HD
+http://maxptv.ddns.net:25461/carlin/carlin/184
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Kids SD
+http://maxptv.ddns.net:25461/carlin/carlin/183
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Science HD
+http://maxptv.ddns.net:25461/carlin/carlin/182
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Science SD
+http://maxptv.ddns.net:25461/carlin/carlin/181
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Theater HD
+http://maxptv.ddns.net:25461/carlin/carlin/180
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Turbo HD
+http://maxptv.ddns.net:25461/carlin/carlin/178
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Turbo SD
+http://maxptv.ddns.net:25461/carlin/carlin/177
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery World HD
+http://maxptv.ddns.net:25461/carlin/carlin/176
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery World SD
+http://maxptv.ddns.net:25461/carlin/carlin/175
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery theater SD
+http://maxptv.ddns.net:25461/carlin/carlin/179
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Disney Channel  HD
+http://maxptv.ddns.net:25461/carlin/carlin/174
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Disney Channel SD
+http://maxptv.ddns.net:25461/carlin/carlin/173
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Disney Junior HD
+http://maxptv.ddns.net:25461/carlin/carlin/172
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Disney Junior SD
+http://maxptv.ddns.net:25461/carlin/carlin/171
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Disney XD HD
+http://maxptv.ddns.net:25461/carlin/carlin/170
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Disney XD SD
+http://maxptv.ddns.net:25461/carlin/carlin/169
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", E! HD
+http://maxptv.ddns.net:25461/carlin/carlin/168
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", E! SD
+http://maxptv.ddns.net:25461/carlin/carlin/167
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", EPTV Campinas HD
+http://maxptv.ddns.net:25461/carlin/carlin/166
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", EPTV Campinas HD Alternativo
+http://maxptv.ddns.net:25461/carlin/carlin/475
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", EPTV Campinas HD Alternativo 2
+http://maxptv.ddns.net:25461/carlin/carlin/476
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", EPTV Campinas SD
+http://maxptv.ddns.net:25461/carlin/carlin/165
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn Brasil HD
+http://maxptv.ddns.net:25461/carlin/carlin/164
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn Brasil SD
+http://maxptv.ddns.net:25461/carlin/carlin/163
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn HD
+http://maxptv.ddns.net:25461/carlin/carlin/160
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn 2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/162
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn SD
+http://maxptv.ddns.net:25461/carlin/carlin/159
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn 2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/161
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn Extra HD
+http://maxptv.ddns.net:25461/carlin/carlin/158
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Espn Extra SD
+http://maxptv.ddns.net:25461/carlin/carlin/157
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Film & Arts HD
+http://maxptv.ddns.net:25461/carlin/carlin/156
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Film & Arts SD
+http://maxptv.ddns.net:25461/carlin/carlin/155
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", FOX HD
+http://maxptv.ddns.net:25461/carlin/carlin/154
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", FOX Life HD
+http://maxptv.ddns.net:25461/carlin/carlin/153
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", FOX Life SD
+http://maxptv.ddns.net:25461/carlin/carlin/152
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", FOX SD
+http://maxptv.ddns.net:25461/carlin/carlin/147
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", FX HD
+http://maxptv.ddns.net:25461/carlin/carlin/142
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", FX SD
+http://maxptv.ddns.net:25461/carlin/carlin/141
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fish Tv
+http://maxptv.ddns.net:25461/carlin/carlin/214
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fish Tv HD
+http://maxptv.ddns.net:25461/carlin/carlin/213
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Food Network HD
+http://maxptv.ddns.net:25461/carlin/carlin/333
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Food Network SD
+http://maxptv.ddns.net:25461/carlin/carlin/334
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Premium 2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/151
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Premium 2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/150
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Premium HD
+http://maxptv.ddns.net:25461/carlin/carlin/149
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Premium SD
+http://maxptv.ddns.net:25461/carlin/carlin/148
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Sports 2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/146
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Sports 2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/145
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Sports HD
+http://maxptv.ddns.net:25461/carlin/carlin/144
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Fox Sports SD
+http://maxptv.ddns.net:25461/carlin/carlin/143
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", GNT HD
+http://maxptv.ddns.net:25461/carlin/carlin/136
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", GNT SD
+http://maxptv.ddns.net:25461/carlin/carlin/135
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", GloboNews HD
+http://maxptv.ddns.net:25461/carlin/carlin/140
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", GloboNews SD
+http://maxptv.ddns.net:25461/carlin/carlin/139
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Gloob HD
+http://maxptv.ddns.net:25461/carlin/carlin/138
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Gloob SD
+http://maxptv.ddns.net:25461/carlin/carlin/137
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", H2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/134
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", H2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/133
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO 2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/132
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO 2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/131
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO Family HD
+http://maxptv.ddns.net:25461/carlin/carlin/130
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO Family SD
+http://maxptv.ddns.net:25461/carlin/carlin/129
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO HD
+http://maxptv.ddns.net:25461/carlin/carlin/128
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BBB1 2019 HD
+http://maxptv.ddns.net:25461/carlin/carlin/127
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BBB1 2019 SD
+http://maxptv.ddns.net:25461/carlin/carlin/126
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO Plus HD
+http://maxptv.ddns.net:25461/carlin/carlin/125
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO Plus SD
+http://maxptv.ddns.net:25461/carlin/carlin/124
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO SD
+http://maxptv.ddns.net:25461/carlin/carlin/123
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO Signature HD
+http://maxptv.ddns.net:25461/carlin/carlin/122
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", HBO Signature SD
+http://maxptv.ddns.net:25461/carlin/carlin/121
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", History Channel HD
+http://maxptv.ddns.net:25461/carlin/carlin/120
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", History Channel SD
+http://maxptv.ddns.net:25461/carlin/carlin/119
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", ID HD
+http://maxptv.ddns.net:25461/carlin/carlin/118
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", ID SD
+http://maxptv.ddns.net:25461/carlin/carlin/117
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Lifetime HD
+http://maxptv.ddns.net:25461/carlin/carlin/116
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Lifetime SD
+http://maxptv.ddns.net:25461/carlin/carlin/115
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", MAX Prime HD
+http://maxptv.ddns.net:25461/carlin/carlin/109
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", MAX Prime SD
+http://maxptv.ddns.net:25461/carlin/carlin/108
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", MTV HD
+http://maxptv.ddns.net:25461/carlin/carlin/102
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", MTV SD
+http://maxptv.ddns.net:25461/carlin/carlin/101
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", MULTISHOW HD
+http://maxptv.ddns.net:25461/carlin/carlin/100
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", MULTISHOW SD
+http://maxptv.ddns.net:25461/carlin/carlin/99
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Mais Globosat HD
+http://maxptv.ddns.net:25461/carlin/carlin/114
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Mais Globosat SD
+http://maxptv.ddns.net:25461/carlin/carlin/113
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Max HD
+http://maxptv.ddns.net:25461/carlin/carlin/112
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BBB2 2019 HD
+http://maxptv.ddns.net:25461/carlin/carlin/111
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", BBB2 2019 SD
+http://maxptv.ddns.net:25461/carlin/carlin/110
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Max SD
+http://maxptv.ddns.net:25461/carlin/carlin/107
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Max UP HD
+http://maxptv.ddns.net:25461/carlin/carlin/106
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Max UP SD
+http://maxptv.ddns.net:25461/carlin/carlin/105
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Megapix HD
+http://maxptv.ddns.net:25461/carlin/carlin/104
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Megapix SD
+http://maxptv.ddns.net:25461/carlin/carlin/103
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", NHK HD
+http://maxptv.ddns.net:25461/carlin/carlin/92
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", NHK SD
+http://maxptv.ddns.net:25461/carlin/carlin/91
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Nat Geo Kids HD
+http://maxptv.ddns.net:25461/carlin/carlin/98
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Nat Geo Kids SD
+http://maxptv.ddns.net:25461/carlin/carlin/97
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", NatGeo Wild HD
+http://maxptv.ddns.net:25461/carlin/carlin/96
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", NatGeo Wild SD
+http://maxptv.ddns.net:25461/carlin/carlin/95
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", National Geographic HD
+http://maxptv.ddns.net:25461/carlin/carlin/94
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", National Geographic SD
+http://maxptv.ddns.net:25461/carlin/carlin/93
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Nick Jr HD
+http://maxptv.ddns.net:25461/carlin/carlin/90
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Nick Jr SD
+http://maxptv.ddns.net:25461/carlin/carlin/89
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Nickelodeon HD
+http://maxptv.ddns.net:25461/carlin/carlin/88
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Nickelodeon SD
+http://maxptv.ddns.net:25461/carlin/carlin/87
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Paramount Channel HD
+http://maxptv.ddns.net:25461/carlin/carlin/86
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Paramount Channel SD
+http://maxptv.ddns.net:25461/carlin/carlin/85
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Playboy HD
+http://maxptv.ddns.net:25461/carlin/carlin/84
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Playboy SD
+http://maxptv.ddns.net:25461/carlin/carlin/83
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 1 HD
+http://maxptv.ddns.net:25461/carlin/carlin/82
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 1 SD
+http://maxptv.ddns.net:25461/carlin/carlin/81
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/80
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/79
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 3 HD
+http://maxptv.ddns.net:25461/carlin/carlin/78
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 3 SD
+http://maxptv.ddns.net:25461/carlin/carlin/77
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 4 HD
+http://maxptv.ddns.net:25461/carlin/carlin/76
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 4 SD
+http://maxptv.ddns.net:25461/carlin/carlin/75
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 5 HD
+http://maxptv.ddns.net:25461/carlin/carlin/74
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 5 SD
+http://maxptv.ddns.net:25461/carlin/carlin/73
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 6 HD
+http://maxptv.ddns.net:25461/carlin/carlin/72
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 6 SD
+http://maxptv.ddns.net:25461/carlin/carlin/71
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 7 HD
+http://maxptv.ddns.net:25461/carlin/carlin/70
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 7 SD
+http://maxptv.ddns.net:25461/carlin/carlin/69
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Prime Box Brazil HD
+http://maxptv.ddns.net:25461/carlin/carlin/68
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Prime Box Brazil SD
+http://maxptv.ddns.net:25461/carlin/carlin/67
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Record HD
+http://maxptv.ddns.net:25461/carlin/carlin/64
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Record SD
+http://maxptv.ddns.net:25461/carlin/carlin/63
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Rede Vida HD
+http://maxptv.ddns.net:25461/carlin/carlin/62
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Rede Vida SD
+http://maxptv.ddns.net:25461/carlin/carlin/61
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", RedeTV HD
+http://maxptv.ddns.net:25461/carlin/carlin/60
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", RedeTV SD
+http://maxptv.ddns.net:25461/carlin/carlin/59
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Rá-Tim-Bum HD
+http://maxptv.ddns.net:25461/carlin/carlin/66
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Rá-Tim-Bum SD
+http://maxptv.ddns.net:25461/carlin/carlin/65
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SBT HD
+http://maxptv.ddns.net:25461/carlin/carlin/58
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SBT HD Alternativo
+http://maxptv.ddns.net:25461/carlin/carlin/477
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SBT SD
+http://maxptv.ddns.net:25461/carlin/carlin/57
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Sextreme HD
+http://maxptv.ddns.net:25461/carlin/carlin/56
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Sextreme SD
+http://maxptv.ddns.net:25461/carlin/carlin/55
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Sexy Hot HD
+http://maxptv.ddns.net:25461/carlin/carlin/54
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Sexy Hot SD
+http://maxptv.ddns.net:25461/carlin/carlin/53
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Sony HD
+http://maxptv.ddns.net:25461/carlin/carlin/52
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Sony SD
+http://maxptv.ddns.net:25461/carlin/carlin/51
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Space HD
+http://maxptv.ddns.net:25461/carlin/carlin/50
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Space SD
+http://maxptv.ddns.net:25461/carlin/carlin/49
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SporTV HD
+http://maxptv.ddns.net:25461/carlin/carlin/48
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SporTV SD
+http://maxptv.ddns.net:25461/carlin/carlin/47
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SporTV2 HD
+http://maxptv.ddns.net:25461/carlin/carlin/46
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SporTV2 SD
+http://maxptv.ddns.net:25461/carlin/carlin/45
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SporTV3 HD
+http://maxptv.ddns.net:25461/carlin/carlin/44
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SporTV3 SD
+http://maxptv.ddns.net:25461/carlin/carlin/43
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Studio Universal HD
+http://maxptv.ddns.net:25461/carlin/carlin/42
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Studio Universal SD
+http://maxptv.ddns.net:25461/carlin/carlin/41
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Syfy HD
+http://maxptv.ddns.net:25461/carlin/carlin/40
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Syfy SD
+http://maxptv.ddns.net:25461/carlin/carlin/39
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TBS HD
+http://maxptv.ddns.net:25461/carlin/carlin/38
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TBS SD
+http://maxptv.ddns.net:25461/carlin/carlin/37
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TCM HD
+http://maxptv.ddns.net:25461/carlin/carlin/36
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TCM SD
+http://maxptv.ddns.net:25461/carlin/carlin/35
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TLC HD
+http://maxptv.ddns.net:25461/carlin/carlin/22
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TLC SD
+http://maxptv.ddns.net:25461/carlin/carlin/21
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TNT HD
+http://maxptv.ddns.net:25461/carlin/carlin/20
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TNT SD
+http://maxptv.ddns.net:25461/carlin/carlin/19
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TNT Series HD
+http://maxptv.ddns.net:25461/carlin/carlin/18
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TNT Series SD
+http://maxptv.ddns.net:25461/carlin/carlin/17
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TV Aparecida HD
+http://maxptv.ddns.net:25461/carlin/carlin/14
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TV Aparecida SD
+http://maxptv.ddns.net:25461/carlin/carlin/13
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Action HD
+http://maxptv.ddns.net:25461/carlin/carlin/34
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Action SD
+http://maxptv.ddns.net:25461/carlin/carlin/33
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Cult  HD
+http://maxptv.ddns.net:25461/carlin/carlin/31
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Cult SD
+http://maxptv.ddns.net:25461/carlin/carlin/32
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Fun HD
+http://maxptv.ddns.net:25461/carlin/carlin/30
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Fun SD
+http://maxptv.ddns.net:25461/carlin/carlin/29
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Pipoca HD
+http://maxptv.ddns.net:25461/carlin/carlin/28
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Pipoca SD
+http://maxptv.ddns.net:25461/carlin/carlin/27
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Premium HD
+http://maxptv.ddns.net:25461/carlin/carlin/26
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Premium SD
+http://maxptv.ddns.net:25461/carlin/carlin/25
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Touch HD
+http://maxptv.ddns.net:25461/carlin/carlin/24
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Telecine Touch SD
+http://maxptv.ddns.net:25461/carlin/carlin/23
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Tooncast HD
+http://maxptv.ddns.net:25461/carlin/carlin/16
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Tooncast SD
+http://maxptv.ddns.net:25461/carlin/carlin/15
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Universal Channel HD
+http://maxptv.ddns.net:25461/carlin/carlin/12
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Universal Channel SD
+http://maxptv.ddns.net:25461/carlin/carlin/11
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", VH1 HD
+http://maxptv.ddns.net:25461/carlin/carlin/8
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", VH1 SD
+http://maxptv.ddns.net:25461/carlin/carlin/7
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Venus HD
+http://maxptv.ddns.net:25461/carlin/carlin/10
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Venus SD
+http://maxptv.ddns.net:25461/carlin/carlin/9
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Viva HD
+http://maxptv.ddns.net:25461/carlin/carlin/6
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Viva SD
+http://maxptv.ddns.net:25461/carlin/carlin/5
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Warner Bros HD
+http://maxptv.ddns.net:25461/carlin/carlin/4
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Warner Bros SD
+http://maxptv.ddns.net:25461/carlin/carlin/3
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Zoomoo HD
+http://maxptv.ddns.net:25461/carlin/carlin/2
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Zoomoo SD
+http://maxptv.ddns.net:25461/carlin/carlin/1
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Combate HD 2
+http://maxptv.ddns.net:25461/carlin/carlin/573
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Band - Ribeirão Preto HD
+http://maxptv.ddns.net:25461/carlin/carlin/699
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Band - Ribeirão Preto SD
+http://maxptv.ddns.net:25461/carlin/carlin/698
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", EPTV RIBEIRAO PRETO HD
+http://maxptv.ddns.net:25461/carlin/carlin/479
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", EPTV RIBEIRAO PRETO SD
+http://maxptv.ddns.net:25461/carlin/carlin/478
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Globo - EPTV R Preto HD
+http://maxptv.ddns.net:25461/carlin/carlin/701
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Globo - EPTV R Preto SD
+http://maxptv.ddns.net:25461/carlin/carlin/700
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Globo - NSC TV Floripa HD
+http://maxptv.ddns.net:25461/carlin/carlin/697
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Globo - NSC TV Floripa SD
+http://maxptv.ddns.net:25461/carlin/carlin/696
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Desenhos Animados
+http://maxptv.ddns.net:25461/carlin/carlin/925
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Record Alternetivo 2
+http://maxptv.ddns.net:25461/carlin/carlin/1146
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Rede Minas HD
+http://maxptv.ddns.net:25461/carlin/carlin/1184
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", SUMMER TV
+http://maxptv.ddns.net:25461/carlin/carlin/1185
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TV Igreja Mundial do Poder de Deus - IMPD TV
+http://maxptv.ddns.net:25461/carlin/carlin/1191
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", TV SÉCULO 21
+http://maxptv.ddns.net:25461/carlin/carlin/1192
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Desenhos Clássicos TV
+http://maxptv.ddns.net:25461/carlin/carlin/1205
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", RedeTV HD Alternativo
+http://maxptv.ddns.net:25461/carlin/carlin/1210
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Tv Canção Nova
+http://maxptv.ddns.net:25461/carlin/carlin/1221
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Combate HD Alternativo
+http://maxptv.ddns.net:25461/carlin/carlin/1304
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Combate SD Alternativo
+http://maxptv.ddns.net:25461/carlin/carlin/1305
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Discovery Channel Alternativo HD
+http://maxptv.ddns.net:25461/carlin/carlin/1380
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 1 HD Alternetivo
+http://maxptv.ddns.net:25461/carlin/carlin/1129
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 3 HD Alternetivo
+http://maxptv.ddns.net:25461/carlin/carlin/1130
+#EXTINF:-1, group-title="CANAIS PREMIUM 8", Premiere 4 HD Alternetivo
+http://maxptv.ddns.net:25461/carlin/carlin/1131
