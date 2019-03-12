@@ -5321,7 +5321,6 @@ http://purpleserver.net:80/4NXsryE6fZ/2863954338/570
 #EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",WooHoo SD
 http://purpleserver.net:80/4NXsryE6fZ/2863954338/569
 
-#EXTM3U
 #EXTINF:-1 tvg-id="A&E***" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A&E%20HD.png" group-title="CANAIS PREMIUM 7",A&E
 http://streamtv.com.br:80/monica2/monica2/1667
 #EXTINF:-1 tvg-id="A&E***" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A&E%20HD.png" group-title="CANAIS PREMIUM 7",A&E HD
@@ -5434,7 +5433,7 @@ http://streamtv.com.br:80/monica2/monica2/223
 http://streamtv.com.br:80/monica2/monica2/1654
 #EXTINF:-1 tvg-id="SONY HD***" tvg-name="CANAL SONY HD" tvg-logo="http://printv.esy.es/server/Sony%20HD.png" group-title="CANAIS PREMIUM 7",CANAL SONY HD
 http://streamtv.com.br:80/monica2/monica2/221
-#EXTINF:-1 tvg-id="CANCAO NOVA-[FONTE 2]" tvg-name="CANÇÃO NOVA" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",CANÇÃO NOVA
+#EXTINF:-1 tvg-id="CANCAO NOVA-[FONTE 2]" tvg-name="CANÇÃO NOVA" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="CANAIS PREMIUM 7",CANÇÃO NOVA
 http://streamtv.com.br:80/monica2/monica2/3164
 #EXTINF:-1 tvg-id="CARTOON NETWORK***" tvg-name="CARTOON NETWORK" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="CANAIS PREMIUM 7",CARTOON NETWORK
 http://streamtv.com.br:80/monica2/monica2/1652
@@ -5446,9 +5445,9 @@ http://streamtv.com.br:80/monica2/monica2/20035
 http://streamtv.com.br:80/monica2/monica2/1651
 #EXTINF:-1 tvg-id="CINEMAX HD***" tvg-name="CINEMAX HD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="CANAIS PREMIUM 7",CINEMAX HD
 http://streamtv.com.br:80/monica2/monica2/219
-#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS PREMIUM 7" group-title="CANAIS PREMIUM 7",COMBATE
+#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS PREMIUM 7",COMBATE
 http://streamtv.com.br:80/monica2/monica2/1650
-#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS PREMIUM 7" group-title="CANAIS PREMIUM 7",COMBATE HD
+#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS PREMIUM 7",COMBATE HD
 http://streamtv.com.br:80/monica2/monica2/218
 #EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS PREMIUM 7",COMBATE FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20034
@@ -5552,15 +5551,15 @@ http://streamtv.com.br:80/monica2/monica2/198
 http://streamtv.com.br:80/monica2/monica2/1626
 #EXTINF:-1 tvg-id="FOX HD***" tvg-name="FOX HD" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="CANAIS PREMIUM 7",FOX HD
 http://streamtv.com.br:80/monica2/monica2/197
-#EXTINF:-1 tvg-id="FOX HD***" tvg-name="FOX FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Filmes e Series" group-title="CANAIS PREMIUM 7",FOX FHD ALTERNATIVO
+#EXTINF:-1 tvg-id="FOX HD***" tvg-name="FOX FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Fox%20HD.png"  group-title="CANAIS PREMIUM 7",FOX FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20025
 #EXTINF:-1 tvg-id="FOX LIFE***" tvg-name="FOX LIFE" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="CANAIS PREMIUM 7",FOX LIFE
 http://streamtv.com.br:80/monica2/monica2/1625
 #EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIFE HD" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="CANAIS PREMIUM 7",FOX LIFE HD
 http://streamtv.com.br:80/monica2/monica2/196
-#EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIFE FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Filmes e Series" group-title="CANAIS PREMIUM 7",FOX LIFE FHD ALTERNATIVO
+#EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIFE FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Fox%20HD.png"  group-title="CANAIS PREMIUM 7",FOX LIFE FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20024
-#EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIVE II" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Filmes e Series" group-title="CANAIS PREMIUM 7",FOX LIVE II
+#EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIVE II" tvg-logo="http://printv.esy.es/server/Fox%20HD.png"  group-title="CANAIS PREMIUM 7",FOX LIVE II
 http://streamtv.com.br:80/monica2/monica2/20023
 #EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="CANAIS PREMIUM 7",FOX PREMIUM 1
 http://streamtv.com.br:80/monica2/monica2/1624
@@ -5660,9 +5659,9 @@ http://streamtv.com.br:80/monica2/monica2/275
 http://streamtv.com.br:80/monica2/monica2/1608
 #EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA HD***" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="CANAIS PREMIUM 7",GLOBO TV ANHANGUERA HD
 http://streamtv.com.br:80/monica2/monica2/1669
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA***" tvg-name="GLOBO TV BAHIA" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Globo" group-title="CANAIS PREMIUM 7",GLOBO TV BAHIA
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA***" tvg-name="GLOBO TV BAHIA" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png"  group-title="CANAIS PREMIUM 7",GLOBO TV BAHIA
 http://streamtv.com.br:80/monica2/monica2/1607
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA HD***" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Globo" group-title="CANAIS PREMIUM 7",GLOBO TV BAHIA HD
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA HD***" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png"  group-title="CANAIS PREMIUM 7",GLOBO TV BAHIA HD
 http://streamtv.com.br:80/monica2/monica2/1676
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA SUL HD ALTERNATIVO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="CANAIS PREMIUM 7",GLOBO GAZETA SUL HD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20013
@@ -5726,7 +5725,7 @@ http://streamtv.com.br:80/monica2/monica2/1592
 http://streamtv.com.br:80/monica2/monica2/166
 #EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD***" tvg-name="ID FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="CANAIS PREMIUM 7",ID FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20003
-#EXTINF:-1 tvg-id="LIFETIME***" tvg-name="LIFETIME" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="CANAIS PREMIUM 7",LIFETIME
+#EXTINF:-1 tvg-id="LIFETIME***" tvg-name="LIFETIME" tvg-logo="http://printv.esy.es/server/Lifetime.png"group-title="CANAIS PREMIUM 7",LIFETIME
 http://streamtv.com.br:80/monica2/monica2/1591
 #EXTINF:-1 tvg-id="LIFETIME HD***" tvg-name="LIFETIME HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="CANAIS PREMIUM 7",LIFETIME HD
 http://streamtv.com.br:80/monica2/monica2/165
@@ -5734,37 +5733,37 @@ http://streamtv.com.br:80/monica2/monica2/165
 http://streamtv.com.br:80/monica2/monica2/1590
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT***" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="CANAIS PREMIUM 7",MAIS GLOBOSAT HD
 http://streamtv.com.br:80/monica2/monica2/164
-#EXTINF:-1 tvg-id="MAX***" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="CANAIS PREMIUM 7",MAX
+#EXTINF:-1 tvg-id="MAX***" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="CANAIS PREMIUM 7", MAX
 http://streamtv.com.br:80/monica2/monica2/1589
-#EXTINF:-1 tvg-id="MAX HD***" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max.png" group-title="CANAIS PREMIUM 7",MAX HD
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max.png" group-title="CANAIS PREMIUM 7", MAX HD
 http://streamtv.com.br:80/monica2/monica2/163
-#EXTINF:-1 tvg-id="" tvg-name="MAX ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Max.png" group-title=" group-title="CANAIS PREMIUM 7",MAX ALTERNATIVO
+#EXTINF:-1 tvg-id="" tvg-name="MAX ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Max.png" group-title="group-title="CANAIS PREMIUM 7", MAX ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20001
-#EXTINF:-1 tvg-id="MAX HD***" tvg-name="MAX FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Max.png" group-title=" group-title="CANAIS PREMIUM 7",MAX FHD ALTERNATIVO
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="MAX FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Max.png" group-title="group-title="CANAIS PREMIUM 7", MAX FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20002
-#EXTINF:-1 tvg-id="MAX PRIME***" tvg-name="MAX PRIME" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7",MAX PRIME
+#EXTINF:-1 tvg-id="MAX PRIME***" tvg-name="MAX PRIME" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7", MAX PRIME
 http://streamtv.com.br:80/monica2/monica2/1588
-#EXTINF:-1 tvg-id="" tvg-name="MAXPRIME II" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7",MAXPRIME II
+#EXTINF:-1 tvg-id="" tvg-name="MAXPRIME II" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7", MAXPRIME II
 http://streamtv.com.br:80/monica2/monica2/19999
-#EXTINF:-1 tvg-id="MAX PRIME HD***" tvg-name="MAX PRIME HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7",MAX PRIME HD
+#EXTINF:-1 tvg-id="MAX PRIME HD***" tvg-name="MAX PRIME HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7", MAX PRIME HD
 http://streamtv.com.br:80/monica2/monica2/162
-#EXTINF:-1 tvg-id="MAX PRIME***" tvg-name="MAXPRIME FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7",MAXPRIME FHD ALTERNATIVO
+#EXTINF:-1 tvg-id="MAX PRIME***" tvg-name="MAXPRIME FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="CANAIS PREMIUM 7", MAXPRIME FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/20000
-#EXTINF:-1 tvg-id="MAX UP***" tvg-name="MAX UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title=" group-title="CANAIS PREMIUM 7",MAX UP
+#EXTINF:-1 tvg-id="MAX UP***" tvg-name="MAX UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title=" group-title="CANAIS PREMIUM 7", MAX UP
 http://streamtv.com.br:80/monica2/monica2/1586
-#EXTINF:-1 tvg-id="MAX UP***" tvg-name="MAX UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title=" group-title="CANAIS PREMIUM 7",MAX UP HD
+#EXTINF:-1 tvg-id="MAX UP***" tvg-name="MAX UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title=" group-title="CANAIS PREMIUM 7", MAX UP HD
 http://streamtv.com.br:80/monica2/monica2/161
 #EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="CANAIS PREMIUM 7",MEGAPIX
 http://streamtv.com.br:80/monica2/monica2/1585
-#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX HD" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="CANAIS PREMIUM 7",MEGAPIX HD
+#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX HD" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="CANAIS PREMIUM 7", MEGAPIX HD
 http://streamtv.com.br:80/monica2/monica2/160
-#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="CANAIS PREMIUM 7",MEGAPIX FHD ALTERNATIVO
+#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX FHD ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="CANAIS PREMIUM 7", MEGAPIX FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/19998
-#EXTINF:-1 tvg-id="MTV***" tvg-name="MTV" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="CANAIS PREMIUM 7",MTV
+#EXTINF:-1 tvg-id="MTV***" tvg-name="MTV" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="CANAIS PREMIUM 7", MTV
 http://streamtv.com.br:80/monica2/monica2/1584
-#EXTINF:-1 tvg-id="MTV HD***" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="CANAIS PREMIUM 7",MTV HD
+#EXTINF:-1 tvg-id="MTV HD***" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="CANAIS PREMIUM 7", MTV HD
 http://streamtv.com.br:80/monica2/monica2/159
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="CANAIS PREMIUM 7",MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="CANAIS PREMIUM 7", MTV LIVE
 http://streamtv.com.br:80/monica2/monica2/3166
 #EXTINF:-1 tvg-id="MTV HD***" tvg-name="MTV LIVE ALTERNATIVO" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="CANAIS PREMIUM 7",MTV LIVE ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/19996
@@ -5922,7 +5921,7 @@ http://streamtv.com.br:80/monica2/monica2/1562
 http://streamtv.com.br:80/monica2/monica2/1561
 #EXTINF:-1 tvg-id="REDE TV***" tvg-name="REDE TV HD" tvg-logo="http://printv.esy.es/server/Rede%20Brasil.png" group-title="CANAIS PREMIUM 7",REDE TV HD
 http://streamtv.com.br:80/monica2/monica2/139
-#EXTINF:-1 tvg-id="REDE VIDA***" tvg-name="REDE VIDA HD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Religiosos" group-title="Religiosos",REDE VIDA HD
+#EXTINF:-1 tvg-id="REDE VIDA***" tvg-name="REDE VIDA HD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="CANAIS PREMIUM 7",REDE VIDA HD
 http://streamtv.com.br:80/monica2/monica2/3951
 #EXTINF:-1 tvg-id="SBT***" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="CANAIS PREMIUM 7",SBT
 http://streamtv.com.br:80/monica2/monica2/1559
@@ -6058,7 +6057,7 @@ http://streamtv.com.br:80/monica2/monica2/1538
 http://streamtv.com.br:80/monica2/monica2/1530
 #EXTINF:-1 tvg-id="TruTV HD***" tvg-name="TRUTV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="CANAIS PREMIUM 7",TRUTV HD
 http://streamtv.com.br:80/monica2/monica2/274
-#EXTINF:-1 tvg-id="TV APARECIDA***" tvg-name="TV APARECIDA" tvg-logo="http://printv.esy.es/server/TV%20Aparecida.png" group-title="Religiosos",TV APARECIDA
+#EXTINF:-1 tvg-id="TV APARECIDA***" tvg-name="TV APARECIDA" tvg-logo="http://printv.esy.es/server/TV%20Aparecida.png" group-title="CANAIS PREMIUM 7",TV APARECIDA
 http://streamtv.com.br:80/monica2/monica2/3167
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP HD" tvg-logo="http://printv.esy.es/server/Gazeta.png" group-title="CANAIS PREMIUM 7",TV GAZETA SP HD
 http://streamtv.com.br:80/monica2/monica2/3952
@@ -6082,7 +6081,7 @@ http://streamtv.com.br:80/monica2/monica2/1526
 http://streamtv.com.br:80/monica2/monica2/116
 #EXTINF:-1 tvg-id="VENUS***" tvg-name="VENUS" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="CANAIS PREMIUM 7",VENUS
 http://streamtv.com.br:80/monica2/monica2/110
-#EXTINF:-1 tvg-id="" tvg-name="VENUS FHD ALTERNATIVO" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="CANAIS PREMIUM 7" group-title="CANAIS PREMIUM 7",VENUS FHD ALTERNATIVO
+#EXTINF:-1 tvg-id="" tvg-name="VENUS FHD ALTERNATIVO" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="CANAIS PREMIUM 7",VENUS FHD ALTERNATIVO
 http://streamtv.com.br:80/monica2/monica2/19950
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD***" tvg-name="WARNER CHANNEL" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="CANAIS PREMIUM 7",WARNER CHANNEL
 http://streamtv.com.br:80/monica2/monica2/1525
