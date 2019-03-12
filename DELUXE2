@@ -2703,428 +2703,512 @@ http://xx2.servelive.net:80/andreia/andreia1234/44723
 #EXTINF:-1 tvg-id="LiveYuGiOh" tvg-name="YU GI OH 24h" tvg-logo="https://i.imgur.com/3VcOc9w.png" group-title="CANAIS PREMIUM 2",YU GI OH 24h
 http://xx2.servelive.net:80/andreia/andreia1234/28984
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="I638.35203.tvguide.com" tvg-name="A&E HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/A&E/A&E.png" group-title="CANAIS PREMIUM 3",A&E HD
-http://viptv2.dyndns.tv:2086/jair/jair/215
-#EXTINF:-1 tvg-id="I645.59086.tvguide.com" tvg-name="Amc 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AMC/AMC.png" group-title="CANAIS PREMIUM 3",Amc 4K
-http://viptv2.dyndns.tv:2086/jair/jair/214
-#EXTINF:-1 tvg-id="I645.59086.tvguide.com" tvg-name="Amc HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AMC/AMC.png" group-title="CANAIS PREMIUM 3",Amc HD
-http://viptv2.dyndns.tv:2086/jair/jair/213
-#EXTINF:-1 tvg-id="I582.81344.tvguide.com" tvg-name="Animal Planet HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Animal%20Planet/Animal%20Planet.png" group-title="CANAIS PREMIUM 3",Animal Planet HD
-http://viptv2.dyndns.tv:2086/jair/jair/211
-#EXTINF:-1 tvg-id="I53.42479.tvguide.com" tvg-name="Arte1" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Arte%201/Arte%201.png" group-title="CANAIS PREMIUM 3",Arte1
-http://viptv2.dyndns.tv:2086/jair/jair/210
-#EXTINF:-1 tvg-id="I635.35205.tvguide.com" tvg-name="AXN HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AXN/AXN.png" group-title="CANAIS PREMIUM 3",AXN HD
-http://viptv2.dyndns.tv:2086/jair/jair/209
-#EXTINF:-1 tvg-id="I620.42438.tvguide.com" tvg-name="BIS HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BIS/BIS.png" group-title="CANAIS PREMIUM 3",BIS HD
-http://viptv2.dyndns.tv:2086/jair/jair/202
-#EXTINF:-1 tvg-id="I111.36131.tvguide.com" tvg-name="Baby tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Baby%20TV/Baby%20TV.png" group-title="CANAIS PREMIUM 3",Baby tv
-http://viptv2.dyndns.tv:2086/jair/jair/208
-#EXTINF:-1 tvg-id="" tvg-name="BBB HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BBB%20HD/bbb.jpg" group-title="CANAIS PREMIUM 3",BBB HD
-http://viptv2.dyndns.tv:2086/jair/jair/6837
-#EXTINF:-1 tvg-id="I196.15394.tvguide.com" tvg-name="Boa vontade tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BOA%20Vontade/Boa%20Vontade.png" group-title="CANAIS PREMIUM 3",Boa vontade tv
-http://viptv2.dyndns.tv:2086/jair/jair/200
-#EXTINF:-1 tvg-id="I650.54441.tvguide.com" tvg-name="Canal Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Brasil/Canal%20Brasil.png" group-title="CANAIS PREMIUM 3",Canal Brasil HD
-http://viptv2.dyndns.tv:2086/jair/jair/198
-#EXTINF:-1 tvg-id="I79.10542.tvguide.com" tvg-name="Band  News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20News/Band%20News.png" group-title="CANAIS PREMIUM 3",Band  News HD
-http://viptv2.dyndns.tv:2086/jair/jair/207
-#EXTINF:-1 tvg-id="I201.4893.tvguide.com" tvg-name="Bloomberg" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Bloomberg/Bloomberg.png" group-title="CANAIS PREMIUM 3",Bloomberg
-http://viptv2.dyndns.tv:2086/jair/jair/201
-#EXTINF:-1 tvg-id="I4.35207.tvguide.com" tvg-name="Canal Comunitario HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Comunit%C3%A1rio/Canal%20Comunit%C3%A1rio.png" group-title="CANAIS PREMIUM 3",Canal Comunitario HD
-http://viptv2.dyndns.tv:2086/jair/jair/197
-#EXTINF:-1 tvg-id="I185.35208.tvguide.com" tvg-name="Canal Rural" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Rural/Canal%20Rural.png" group-title="CANAIS PREMIUM 3",Canal Rural
-http://viptv2.dyndns.tv:2086/jair/jair/196
-#EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Canal Sony HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg" group-title="CANAIS PREMIUM 3",Canal Sony HD
-http://viptv2.dyndns.tv:2086/jair/jair/195
-#EXTINF:-1 tvg-id="I15.35210.tvguide.com" tvg-name="Canal UNiversitario HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Universit%C3%A1rio/Canal%20Universit%C3%A1rio.png" group-title="CANAIS PREMIUM 3",Canal UNiversitario HD
-http://viptv2.dyndns.tv:2086/jair/jair/194
-#EXTINF:-1 tvg-id="I104.15383.tvguide.com" tvg-name="Cartoon Network" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cartoon%20Network/Cartoon%20Network.png" group-title="CANAIS PREMIUM 3",Cartoon Network
-http://viptv2.dyndns.tv:2086/jair/jair/193
-#EXTINF:-1 tvg-id="I655.49239.tvguide.com" tvg-name="Cinemax HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cinemax/Cinemax.png" group-title="CANAIS PREMIUM 3",Cinemax HD
-http://viptv2.dyndns.tv:2086/jair/jair/192
-#EXTINF:-1 tvg-id="I200.2181.tvguide.com" tvg-name="Cnn Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/CNN%20Internacional/CNN%20Internacional.png" group-title="CANAIS PREMIUM 3",Cnn Internacional
-http://viptv2.dyndns.tv:2086/jair/jair/191
-#EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png" group-title="CANAIS PREMIUM 3",Combate 4K
-http://viptv2.dyndns.tv:2086/jair/jair/190
-#EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png" group-title="CANAIS PREMIUM 3",Combate HD
-http://viptv2.dyndns.tv:2086/jair/jair/189
-#EXTINF:-1 tvg-id="I75.10699.tvguide.com" tvg-name="Band Sports HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20Sports/band%20sports.png" group-title="CANAIS PREMIUM 3",Band Sports HD
-http://viptv2.dyndns.tv:2086/jair/jair/203
-#EXTINF:-1 tvg-id="I637.45228.tvguide.com" tvg-name="Comedy Central 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Comedy%20Central/comedy%20central.png" group-title="CANAIS PREMIUM 3",Comedy Central 4k
-http://viptv2.dyndns.tv:2086/jair/jair/188
-#EXTINF:-1 tvg-id="I637.45228.tvguide.com" tvg-name="Comedy Central HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Comedy%20Central/comedy%20central.png" group-title="CANAIS PREMIUM 3",Comedy Central HD
-http://viptv2.dyndns.tv:2086/jair/jair/187
-#EXTINF:-1 tvg-id="I75.10699.tvguide.com" tvg-name="Band Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20Sports/band%20sports.png" group-title="CANAIS PREMIUM 3",Band Sports 4K
-http://viptv2.dyndns.tv:2086/jair/jair/204
-#EXTINF:-1 tvg-id="I510.41994.tvguide.com" tvg-name="Band 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band/Band.png" group-title="CANAIS PREMIUM 3",Band 4K
-http://viptv2.dyndns.tv:2086/jair/jair/206
-#EXTINF:-1 tvg-id="I572.35216.tvguide.com" tvg-name="Espn +   HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN+/espn+.png" group-title="CANAIS PREMIUM 3",Espn +   HD
-http://viptv2.dyndns.tv:2086/jair/jair/162
-#EXTINF:-1 tvg-id="I571.43983.tvguide.com" tvg-name="Espn 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN/espn.png" group-title="CANAIS PREMIUM 3",Espn 4K
-http://viptv2.dyndns.tv:2086/jair/jair/161
-#EXTINF:-1 tvg-id="I571.43983.tvguide.com" tvg-name="Espn HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN/espn.png" group-title="CANAIS PREMIUM 3",Espn HD
-http://viptv2.dyndns.tv:2086/jair/jair/158
-#EXTINF:-1 tvg-id="I574.48717.tvguide.com" tvg-name="Fox Sports 2 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/foxsports1hd.png" group-title="CANAIS PREMIUM 3",Fox Sports 2 4K
-http://viptv2.dyndns.tv:2086/jair/jair/144
-#EXTINF:-1 tvg-id="I634.51171.tvguide.com" tvg-name="FX 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FX/fx.png" group-title="CANAIS PREMIUM 3",FX 4K
-http://viptv2.dyndns.tv:2086/jair/jair/139
-#EXTINF:-1 tvg-id="I105.15385.tvguide.com" tvg-name="Disney XD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20XD/Disney%20XD.png" group-title="CANAIS PREMIUM 3",Disney XD
-http://viptv2.dyndns.tv:2086/jair/jair/169
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FishTV/fishtv.png" group-title="CANAIS PREMIUM 3",Fish Tv HD
-http://viptv2.dyndns.tv:2086/jair/jair/155
-#EXTINF:-1 tvg-id="I554.56275.tvguide.com" tvg-name="Food Network 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Food%20Network/foodnetwork.png" group-title="CANAIS PREMIUM 3",Food Network 4K
-http://viptv2.dyndns.tv:2086/jair/jair/154
-#EXTINF:-1 tvg-id="I554.56275.tvguide.com" tvg-name="Food Network HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Food%20Network/foodnetwork.png" group-title="CANAIS PREMIUM 3",Food Network HD
-http://viptv2.dyndns.tv:2086/jair/jair/153
-#EXTINF:-1 tvg-id="I631.51168.tvguide.com" tvg-name="Fox 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox/fox.png" group-title="CANAIS PREMIUM 3",Fox 4K
-http://viptv2.dyndns.tv:2086/jair/jair/152
-#EXTINF:-1 tvg-id="I631.51168.tvguide.com" tvg-name="Fox HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox/fox.png" group-title="CANAIS PREMIUM 3",Fox HD
-http://viptv2.dyndns.tv:2086/jair/jair/151
-#EXTINF:-1 tvg-id="I644.81343.tvguide.com" tvg-name="Fox Life 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Life/fox%20life.png" group-title="CANAIS PREMIUM 3",Fox Life 4K
-http://viptv2.dyndns.tv:2086/jair/jair/150
-#EXTINF:-1 tvg-id="I644.81343.tvguide.com" tvg-name="Fox Life HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Life/fox%20life.png" group-title="CANAIS PREMIUM 3",Fox Life HD
-http://viptv2.dyndns.tv:2086/jair/jair/149
-#EXTINF:-1 tvg-id="I682.78230.tvguide.com" tvg-name="Fox Premium 2 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%202/fox%20premium%202.png" group-title="CANAIS PREMIUM 3",Fox Premium 2 4K
-http://viptv2.dyndns.tv:2086/jair/jair/148
-#EXTINF:-1 tvg-id="I682.78230.tvguide.com" tvg-name="Fox Premium 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%202/fox%20premium%202.png" group-title="CANAIS PREMIUM 3",Fox Premium 2 HD
-http://viptv2.dyndns.tv:2086/jair/jair/147
-#EXTINF:-1 tvg-id="I681.83562.tvguide.com" tvg-name="FOX Premium 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%201/fox%20premium.png" group-title="CANAIS PREMIUM 3",FOX Premium 4K
-http://viptv2.dyndns.tv:2086/jair/jair/146
-#EXTINF:-1 tvg-id="I681.83562.tvguide.com" tvg-name="FOX Premium HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%201/fox%20premium.png" group-title="CANAIS PREMIUM 3",FOX Premium HD
-http://viptv2.dyndns.tv:2086/jair/jair/145
-#EXTINF:-1 tvg-id="I572.35216.tvguide.com" tvg-name="Espn + 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN+/espn+.png" group-title="CANAIS PREMIUM 3",Espn + 4K
-http://viptv2.dyndns.tv:2086/jair/jair/163
-#EXTINF:-1 tvg-id="I55.15380.tvguide.com" tvg-name="Disc.Home & Health 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Home%20&%20Health/Discovery%20Home%20&%20Health.png" group-title="CANAIS PREMIUM 3",Disc.Home & Health 4K
-http://viptv2.dyndns.tv:2086/jair/jair/184
-#EXTINF:-1 tvg-id="I55.15380.tvguide.com" tvg-name="Disc.Home & Health HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Home%20&%20Health/Discovery%20Home%20&%20Health.png" group-title="CANAIS PREMIUM 3",Disc.Home & Health HD
-http://viptv2.dyndns.tv:2086/jair/jair/183
-#EXTINF:-1 tvg-id="I581.38746.tvguide.com" tvg-name="Discovery Channel 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Channel/Discovery%20Channel.png" group-title="CANAIS PREMIUM 3",Discovery Channel 4K
-http://viptv2.dyndns.tv:2086/jair/jair/182
-#EXTINF:-1 tvg-id="I581.38746.tvguide.com" tvg-name="Discovery Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Channel/Discovery%20Channel.png" group-title="CANAIS PREMIUM 3",Discovery Channel HD
-http://viptv2.dyndns.tv:2086/jair/jair/181
-#EXTINF:-1 tvg-id="I86.16235.tvguide.com" tvg-name="Discovery Civilization" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Civilization/Discovery%20Civilization.png" group-title="CANAIS PREMIUM 3",Discovery Civilization
-http://viptv2.dyndns.tv:2086/jair/jair/180
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/EPTV%20Campinas/eptv.png" group-title="CANAIS PREMIUM 3",EPTV Campinas HD
-http://viptv2.dyndns.tv:2086/jair/jair/164
-#EXTINF:-1 tvg-id="I85.16237.tvguide.com" tvg-name="Discovery Science" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Science/Discovery%20Science.png" group-title="CANAIS PREMIUM 3",Discovery Science
-http://viptv2.dyndns.tv:2086/jair/jair/178
-#EXTINF:-1 tvg-id="I592.35214.tvguide.com" tvg-name="Discovery Theather 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Theater/Discovery%20Theater.png" group-title="CANAIS PREMIUM 3",Discovery Theather 4K
-http://viptv2.dyndns.tv:2086/jair/jair/177
-#EXTINF:-1 tvg-id="I592.35214.tvguide.com" tvg-name="Discovery Theather HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Theater/Discovery%20Theater.png" group-title="CANAIS PREMIUM 3",Discovery Theather HD
-http://viptv2.dyndns.tv:2086/jair/jair/176
-#EXTINF:-1 tvg-id="I584.56270.tvguide.com" tvg-name="Discovery Turbo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Turbo/Discovery%20Turbo.png" group-title="CANAIS PREMIUM 3",Discovery Turbo HD
-http://viptv2.dyndns.tv:2086/jair/jair/175
-#EXTINF:-1 tvg-id="I584.56270.tvguide.com" tvg-name="Discovery Turbo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Turbo/Discovery%20Turbo.png" group-title="CANAIS PREMIUM 3",Discovery Turbo 4K
-http://viptv2.dyndns.tv:2086/jair/jair/174
-#EXTINF:-1 tvg-id="I550.78947.tvguide.com" tvg-name="E! HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/E!/E!.png" group-title="CANAIS PREMIUM 3",E! HD
-http://viptv2.dyndns.tv:2086/jair/jair/167
-#EXTINF:-1 tvg-id="I602.35272.tvguide.com" tvg-name="Disney Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20Channel/Disney%20Channel.png" group-title="CANAIS PREMIUM 3",Disney Channel HD
-http://viptv2.dyndns.tv:2086/jair/jair/171
-#EXTINF:-1 tvg-id="I106.35215.tvguide.com" tvg-name="Disney Junior" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20J%C3%BAnior/Disney%20Junior.png" group-title="CANAIS PREMIUM 3",Disney Junior
-http://viptv2.dyndns.tv:2086/jair/jair/170
-#EXTINF:-1 tvg-id="I206.3982.tvguide.com" tvg-name="DW" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/DW/DW.png" group-title="CANAIS PREMIUM 3",DW
-http://viptv2.dyndns.tv:2086/jair/jair/168
-#EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png" group-title="CANAIS PREMIUM 3",Fox Sports 4K
-http://viptv2.dyndns.tv:2086/jair/jair/142
-#EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png" group-title="CANAIS PREMIUM 3",Fox Sports HD
-http://viptv2.dyndns.tv:2086/jair/jair/141
-#EXTINF:-1 tvg-id="I87.42476.tvguide.com" tvg-name="Futura HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Futura/futura.png" group-title="CANAIS PREMIUM 3",Futura HD
-http://viptv2.dyndns.tv:2086/jair/jair/140
-#EXTINF:-1 tvg-id="I634.51171.tvguide.com" tvg-name="Fx HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FX/fx.png" group-title="CANAIS PREMIUM 3",Fx HD
-http://viptv2.dyndns.tv:2086/jair/jair/138
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gazeta/gazeta.png" group-title="CANAIS PREMIUM 3",Gazeta 4K
-http://viptv2.dyndns.tv:2086/jair/jair/137
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gazeta/gazeta.png" group-title="CANAIS PREMIUM 3",Gazeta HD
-http://viptv2.dyndns.tv:2086/jair/jair/136
-#EXTINF:-1 tvg-id="" tvg-name="Globo  Rio HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Rio/globo%20rio.png" group-title="CANAIS PREMIUM 3",Globo  Rio HD
-http://viptv2.dyndns.tv:2086/jair/jair/135
-#EXTINF:-1 tvg-id="I594.54926.tvguide.com" tvg-name="H2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/H2/h2.png" group-title="CANAIS PREMIUM 3",H2 HD
-http://viptv2.dyndns.tv:2086/jair/jair/123
-#EXTINF:-1 tvg-id="I5.36179.tvguide.com" tvg-name="Globo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo/globo.png" group-title="CANAIS PREMIUM 3",Globo 4K
-http://viptv2.dyndns.tv:2086/jair/jair/134
-#EXTINF:-1 tvg-id="I5.36179.tvguide.com" tvg-name="Globo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo/globo.png" group-title="CANAIS PREMIUM 3",Globo HD
-http://viptv2.dyndns.tv:2086/jair/jair/133
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png" group-title="CANAIS PREMIUM 3",Globo Minas 4K
-http://viptv2.dyndns.tv:2086/jair/jair/132
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png" group-title="CANAIS PREMIUM 3",Globo Minas HD
-http://viptv2.dyndns.tv:2086/jair/jair/131
-#EXTINF:-1 tvg-id="I540.38748.tvguide.com" tvg-name="Globo News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20News/globo%20news.png" group-title="CANAIS PREMIUM 3",Globo News HD
-http://viptv2.dyndns.tv:2086/jair/jair/130
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png" group-title="CANAIS PREMIUM 3",Globo Nordeste 4K
-http://viptv2.dyndns.tv:2086/jair/jair/129
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png" group-title="CANAIS PREMIUM 3",Globo Nordeste HD
-http://viptv2.dyndns.tv:2086/jair/jair/128
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Rio/globo%20rio.png" group-title="CANAIS PREMIUM 3",Globo Rio HD
-http://viptv2.dyndns.tv:2086/jair/jair/127
-#EXTINF:-1 tvg-id="I601.36115.tvguide.com" tvg-name="Gloob 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gloob/gloob.png" group-title="CANAIS PREMIUM 3",Gloob 4K
-http://viptv2.dyndns.tv:2086/jair/jair/126
-#EXTINF:-1 tvg-id="I601.36115.tvguide.com" tvg-name="Gloob HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gloob/gloob.png" group-title="CANAIS PREMIUM 3",Gloob HD
-http://viptv2.dyndns.tv:2086/jair/jair/125
-#EXTINF:-1 tvg-id="I541.37220.tvguide.com" tvg-name="GNT HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/GNT/gnt.png" group-title="CANAIS PREMIUM 3",GNT HD
-http://viptv2.dyndns.tv:2086/jair/jair/124
-#EXTINF:-1 tvg-id="I574.48717.tvguide.com" tvg-name="Fox Sports 2 HD" tvg-logo="http://img.kkhosts.top/logos/icon2/foxsports1hd.png" group-title="CANAIS PREMIUM 3",Fox Sports 2 HD
-http://viptv2.dyndns.tv:2086/jair/jair/143
-#EXTINF:-1 tvg-id="I672.44239.tvguide.com" tvg-name="Hbo 2 HD" tvg-logo="http://clarotv.claro.com.br/image/Get/2088" group-title="CANAIS PREMIUM 3",Hbo 2 HD
-http://viptv2.dyndns.tv:2086/jair/jair/121
-#EXTINF:-1 tvg-id="I671.35222.tvguide.com" tvg-name="HBO 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hbohd.png" group-title="CANAIS PREMIUM 3",HBO 4K
-http://viptv2.dyndns.tv:2086/jair/jair/120
-#EXTINF:-1 tvg-id="I675.15405.tvguide.com" tvg-name="Hbo Family 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/hbofamilyhd.png" group-title="CANAIS PREMIUM 3",Hbo Family 4k
-http://viptv2.dyndns.tv:2086/jair/jair/119
-#EXTINF:-1 tvg-id="I675.15405.tvguide.com" tvg-name="Hbo Family HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbofamilyhd.png" group-title="CANAIS PREMIUM 3",Hbo Family HD
-http://viptv2.dyndns.tv:2086/jair/jair/118
-#EXTINF:-1 tvg-id="I671.35222.tvguide.com" tvg-name="HBO HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbohd.png" group-title="CANAIS PREMIUM 3",HBO HD
-http://viptv2.dyndns.tv:2086/jair/jair/117
-#EXTINF:-1 tvg-id="I673.44325.tvguide.com" tvg-name="HBO Plus 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hboplushd.png" group-title="CANAIS PREMIUM 3",HBO Plus 4K
-http://viptv2.dyndns.tv:2086/jair/jair/116
-#EXTINF:-1 tvg-id="I673.44325.tvguide.com" tvg-name="HBO Plus HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hboplushd.png" group-title="CANAIS PREMIUM 3",HBO Plus HD
-http://viptv2.dyndns.tv:2086/jair/jair/115
-#EXTINF:-1 tvg-id="I678.54622.tvguide.com" tvg-name="Max HD" tvg-logo="http://img.kkhosts.top/logos/icon2/maxhd.png" group-title="CANAIS PREMIUM 3",Max HD
-http://viptv2.dyndns.tv:2086/jair/jair/104
-#EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png" group-title="CANAIS PREMIUM 3",Hbo Signature 4K
-http://viptv2.dyndns.tv:2086/jair/jair/114
-#EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png" group-title="CANAIS PREMIUM 3",Hbo Signature HD
-http://viptv2.dyndns.tv:2086/jair/jair/113
-#EXTINF:-1 tvg-id="I621.35277.tvguide.com" tvg-name="MTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MTV/mtv.png" group-title="CANAIS PREMIUM 3",MTV HD
-http://viptv2.dyndns.tv:2086/jair/jair/97
-#EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png" group-title="CANAIS PREMIUM 3",History 4K
-http://viptv2.dyndns.tv:2086/jair/jair/112
-#EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History HD" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png" group-title="CANAIS PREMIUM 3",History HD
-http://viptv2.dyndns.tv:2086/jair/jair/111
-#EXTINF:-1 tvg-id="I639.38747.tvguide.com" tvg-name="ID 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/idhd.png" group-title="CANAIS PREMIUM 3",ID 4k
-http://viptv2.dyndns.tv:2086/jair/jair/110
-#EXTINF:-1 tvg-id="I639.38747.tvguide.com" tvg-name="ID HD" tvg-logo="http://img.kkhosts.top/logos/icon2/idhd.png" group-title="CANAIS PREMIUM 3",ID HD
-http://viptv2.dyndns.tv:2086/jair/jair/109
-#EXTINF:-1 tvg-id="" tvg-name="Ideal tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/IdealTV/idealtv.png" group-title="CANAIS PREMIUM 3",Ideal tv
-http://viptv2.dyndns.tv:2086/jair/jair/108
-#EXTINF:-1 tvg-id="I641.52072.tvguide.com" tvg-name="Life Time HD" tvg-logo="http://img.kkhosts.top/logos/icon2/lifetimehd.png" group-title="CANAIS PREMIUM 3",Life Time HD
-http://viptv2.dyndns.tv:2086/jair/jair/107
-#EXTINF:-1 tvg-id="I44.37579.tvguide.com" tvg-name="Mais Globosat" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Mais%20GloboSat/mais%20globo%20sat.png" group-title="CANAIS PREMIUM 3",Mais Globosat
-http://viptv2.dyndns.tv:2086/jair/jair/106
-#EXTINF:-1 tvg-id="I678.54622.tvguide.com" tvg-name="Max 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/maxhd.png" group-title="CANAIS PREMIUM 3",Max 4K
-http://viptv2.dyndns.tv:2086/jair/jair/105
-#EXTINF:-1 tvg-id="I672.44239.tvguide.com" tvg-name="HBO 2 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/2088" group-title="CANAIS PREMIUM 3",HBO 2 4K
-http://viptv2.dyndns.tv:2086/jair/jair/122
-#EXTINF:-1 tvg-id="NBR" tvg-name="NBR HD" tvg-logo="http://img.kkhosts.top/logos/icon2/nbr.png" group-title="CANAIS PREMIUM 3",NBR HD
-http://viptv2.dyndns.tv:2086/jair/jair/88
-#EXTINF:-1 tvg-id="I207.6229.tvguide.com" tvg-name="NHK HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/NHK/nhk.png" group-title="CANAIS PREMIUM 3",NHK HD
-http://viptv2.dyndns.tv:2086/jair/jair/87
-#EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png" group-title="CANAIS PREMIUM 3",Max UP 4K
-http://viptv2.dyndns.tv:2086/jair/jair/102
-#EXTINF:-1 tvg-id="I103.15371.tvguide.com" tvg-name="NIkelodeon" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nickelodeon/nickelodeon.png" group-title="CANAIS PREMIUM 3",NIkelodeon
-http://viptv2.dyndns.tv:2086/jair/jair/85
-#EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png" group-title="CANAIS PREMIUM 3",Max UP HD
-http://viptv2.dyndns.tv:2086/jair/jair/101
-#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Mega/mega.png" group-title="CANAIS PREMIUM 3",Mega
-http://viptv2.dyndns.tv:2086/jair/jair/100
-#EXTINF:-1 tvg-id="I591.35228.tvguide.com" tvg-name="Nat Geo Wild 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Wild/nat%20geo%20wild.png" group-title="CANAIS PREMIUM 3",Nat Geo Wild 4K
-http://viptv2.dyndns.tv:2086/jair/jair/90
-#EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png" group-title="CANAIS PREMIUM 3",Mega Pix 4K
-http://viptv2.dyndns.tv:2086/jair/jair/99
-#EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix HD" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png" group-title="CANAIS PREMIUM 3",Mega Pix HD
-http://viptv2.dyndns.tv:2086/jair/jair/98
-#EXTINF:-1 tvg-id="I542.35278.tvguide.com" tvg-name="Multi Show HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MultiShow/multishow.png" group-title="CANAIS PREMIUM 3",Multi Show HD
-http://viptv2.dyndns.tv:2086/jair/jair/96
-#EXTINF:-1 tvg-id="I123.42481.tvguide.com" tvg-name="Music Box Brasil" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Music%20Box%20Brasil/music%20box%20brasil.png" group-title="CANAIS PREMIUM 3",Music Box Brasil
-http://viptv2.dyndns.tv:2086/jair/jair/95
-#EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo 4K" tvg-logo="https://static.cdn.responsys.net/i5/responsysimages/natgeo/contentlibrary/201702/ng_live_20170201_dc/20170201_NG_Live/NG_Logo_Black.png" group-title="CANAIS PREMIUM 3",Nat Geo 4K
-http://viptv2.dyndns.tv:2086/jair/jair/94
-#EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png" group-title="CANAIS PREMIUM 3",Nat Geo HD
-http://viptv2.dyndns.tv:2086/jair/jair/93
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo KIds 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png" group-title="CANAIS PREMIUM 3",Nat Geo KIds 4K
-http://viptv2.dyndns.tv:2086/jair/jair/92
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo KIds HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png" group-title="CANAIS PREMIUM 3",Nat Geo KIds HD
-http://viptv2.dyndns.tv:2086/jair/jair/91
-#EXTINF:-1 tvg-id="I679.54623.tvguide.com" tvg-name="Max Prime HD" tvg-logo="http://img.kkhosts.top/logos/icon2/maxprimehd.png" group-title="CANAIS PREMIUM 3",Max Prime HD
-http://viptv2.dyndns.tv:2086/jair/jair/103
-#EXTINF:-1 tvg-id="I107.35232.tvguide.com" tvg-name="Nick Jr." tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nick%20Jr./nick%20jr.png" group-title="CANAIS PREMIUM 3",Nick Jr.
-http://viptv2.dyndns.tv:2086/jair/jair/86
-#EXTINF:-1 tvg-id="I535.35373.tvguide.com" tvg-name="OFF 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/offhd.png" group-title="CANAIS PREMIUM 3",OFF 4k
-http://viptv2.dyndns.tv:2086/jair/jair/84
-#EXTINF:-1 tvg-id="I724.82627.tvguide.com" tvg-name="Premiere 4 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere 4 HD
-http://viptv2.dyndns.tv:2086/jair/jair/75
-#EXTINF:-1 tvg-id="I535.35373.tvguide.com" tvg-name="OFF HD" tvg-logo="http://img.kkhosts.top/logos/icon2/offhd.png" group-title="CANAIS PREMIUM 3",OFF HD
-http://viptv2.dyndns.tv:2086/jair/jair/83
-#EXTINF:-1 tvg-id="I658.56446.tvguide.com" tvg-name="Paramount HD" tvg-logo="http://img.kkhosts.top/logos/icon2/paramounthd.png" group-title="CANAIS PREMIUM 3",Paramount HD
-http://viptv2.dyndns.tv:2086/jair/jair/82
-#EXTINF:-1 tvg-id="I281.15417.tvguide.com" tvg-name="Playboy" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Playboy/playboy.png" group-title="Adultos",Playboy
-http://viptv2.dyndns.tv:2086/jair/jair/81
-#EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop Tv" tvg-logo="http://img.kkhosts.top/logos/icon2/polishop.png" group-title="CANAIS PREMIUM 3",Polishop Tv
-http://viptv2.dyndns.tv:2086/jair/jair/80
-#EXTINF:-1 tvg-id="I722.44956.tvguide.com" tvg-name="Premiere 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere 2 HD
-http://viptv2.dyndns.tv:2086/jair/jair/79
-#EXTINF:-1 tvg-id="I723.82617.tvguide.com" tvg-name="Premiere 3 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere 3 4k
-http://viptv2.dyndns.tv:2086/jair/jair/78
-#EXTINF:-1 tvg-id="I723.82617.tvguide.com" tvg-name="Premiere 3 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere 3 HD
-http://viptv2.dyndns.tv:2086/jair/jair/77
-#EXTINF:-1 tvg-id="I724.82627.tvguide.com" tvg-name="Premiere 4 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere 4 4k
-http://viptv2.dyndns.tv:2086/jair/jair/76
-#EXTINF:-1 tvg-id="I591.35228.tvguide.com" tvg-name="Nat Geo Wild HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Wild/nat%20geo%20wild.png" group-title="CANAIS PREMIUM 3",Nat Geo Wild HD
-http://viptv2.dyndns.tv:2086/jair/jair/89
-#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RIT/rit.png" group-title="CANAIS PREMIUM 3",RIT
-http://viptv2.dyndns.tv:2086/jair/jair/60
-#EXTINF:-1 tvg-id="I721.42640.tvguide.com" tvg-name="Premiere Clubes 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere Clubes 4K
-http://viptv2.dyndns.tv:2086/jair/jair/73
-#EXTINF:-1 tvg-id="I721.42640.tvguide.com" tvg-name="Premiere Clubes HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere Clubes HD
-http://viptv2.dyndns.tv:2086/jair/jair/72
-#EXTINF:-1 tvg-id="I226.82646.tvguide.com" tvg-name="Premiere6" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere6
-http://viptv2.dyndns.tv:2086/jair/jair/71
-#EXTINF:-1 tvg-id="" tvg-name="Rede Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RedeTV/redetv.png" group-title="CANAIS PREMIUM 3",Rede Tv HD
-http://viptv2.dyndns.tv:2086/jair/jair/62
-#EXTINF:-1 tvg-id="I227.82647.tvguide.com" tvg-name="Premiere7" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere7
-http://viptv2.dyndns.tv:2086/jair/jair/70
-#EXTINF:-1 tvg-id="I656.83204.tvguide.com" tvg-name="Prime Box Brasil" tvg-logo="http://img.kkhosts.top/logos/icon2/primeboxbrazil.png" group-title="CANAIS PREMIUM 3",Prime Box Brasil
-http://viptv2.dyndns.tv:2086/jair/jair/69
-#EXTINF:-1 tvg-id="" tvg-name="RCI" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RCI/rci.png" group-title="CANAIS PREMIUM 3",RCI
-http://viptv2.dyndns.tv:2086/jair/jair/68
-#EXTINF:-1 tvg-id="I509.36671.tvguide.com" tvg-name="Record News" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Record%20News/record%20news.jpg" group-title="CANAIS PREMIUM 3",Record News
-http://viptv2.dyndns.tv:2086/jair/jair/67
-#EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png" group-title="CANAIS PREMIUM 3",Record Tv 4K
-http://viptv2.dyndns.tv:2086/jair/jair/66
-#EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png" group-title="CANAIS PREMIUM 3",Record Tv HD
-http://viptv2.dyndns.tv:2086/jair/jair/65
-#EXTINF:-1 tvg-id="" tvg-name="Rede 21" tvg-logo="http://4.bp.blogspot.com/-byHdaE3tdcc/Wadf_saElkI/AAAAAAAAAsk/IVwyE660O74ikJzOtsRKPNajrbcB14lmACK4BGAYYCw/s1600/1200px-Rede_21_logo.svg.png" group-title="CANAIS PREMIUM 3",Rede 21
-http://viptv2.dyndns.tv:2086/jair/jair/64
-#EXTINF:-1 tvg-id="" tvg-name="Rede Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RedeTV/redetv.png" group-title="CANAIS PREMIUM 3",Rede Tv 4K
-http://viptv2.dyndns.tv:2086/jair/jair/63
-#EXTINF:-1 tvg-id="I725.82630.tvguide.com" tvg-name="Premiere 5 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png" group-title="CANAIS PREMIUM 3",Premiere 5 HD
-http://viptv2.dyndns.tv:2086/jair/jair/74
-#EXTINF:-1 tvg-id="I582.81344.tvguide.com" tvg-name="Animal Planet 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Animal%20Planet/Animal%20Planet.png" group-title="CANAIS PREMIUM 3",Animal Planet 4K
-http://viptv2.dyndns.tv:2086/jair/jair/212
-#EXTINF:-1 tvg-id="I522.41970.tvguide.com" tvg-name="Sbt 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/sbt.png" group-title="CANAIS PREMIUM 3",Sbt 4K
-http://viptv2.dyndns.tv:2086/jair/jair/59
-#EXTINF:-1 tvg-id="I522.41970.tvguide.com" tvg-name="Sbt HD" tvg-logo="http://img.kkhosts.top/logos/icon2/sbt.png" group-title="CANAIS PREMIUM 3",Sbt HD
-http://viptv2.dyndns.tv:2086/jair/jair/58
-#EXTINF:-1 tvg-id="I537.57208.tvguide.com" tvg-name="SporTV 3 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%203/sportv%203.png" group-title="CANAIS PREMIUM 3",SporTV 3 4K
-http://viptv2.dyndns.tv:2086/jair/jair/49
-#EXTINF:-1 tvg-id="I282.35246.tvguide.com" tvg-name="Sextreme" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sextreme/sextreme.png" group-title="Adultos",Sextreme
-http://viptv2.dyndns.tv:2086/jair/jair/57
-#EXTINF:-1 tvg-id="I285.10510.tvguide.com" tvg-name="Sexy Hot" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SexyHot/sexy%20hot.png" group-title="Adultos",Sexy Hot
-http://viptv2.dyndns.tv:2086/jair/jair/56
-#EXTINF:-1 tvg-id="I29.10495.tvguide.com" tvg-name="Shoptime" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Shoptime/shoptime.png" group-title="CANAIS PREMIUM 3",Shoptime
-http://viptv2.dyndns.tv:2086/jair/jair/55
-#EXTINF:-1 tvg-id="I208.3422.tvguide.com" tvg-name="Sic Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sic%20Internacional/sic%20internacional.png" group-title="CANAIS PREMIUM 3",Sic Internacional
-http://viptv2.dyndns.tv:2086/jair/jair/54
-#EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Sony 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg" group-title="CANAIS PREMIUM 3",Sony 4K
-http://viptv2.dyndns.tv:2086/jair/jair/53
-#EXTINF:-1 tvg-id="I154.35248.tvguide.com" tvg-name="Space" tvg-logo="http://img.kkhosts.top/logos/icon2/spacehd.png" group-title="CANAIS PREMIUM 3",Space
-http://viptv2.dyndns.tv:2086/jair/jair/52
-#EXTINF:-1 tvg-id="I538.38445.tvguide.com" tvg-name="SporTV 2 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%202/sportv%202.png" group-title="CANAIS PREMIUM 3",SporTV 2 4K
-http://viptv2.dyndns.tv:2086/jair/jair/51
-#EXTINF:-1 tvg-id="I538.38445.tvguide.com" tvg-name="SporTV 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%202/sportv%202.png" group-title="CANAIS PREMIUM 3",SporTV 2 HD
-http://viptv2.dyndns.tv:2086/jair/jair/50
-#EXTINF:-1 tvg-id="" tvg-name="Rede vida" tvg-logo="http://img.kkhosts.top/logos/icon2/redevida.png" group-title="CANAIS PREMIUM 3",Rede vida
-http://viptv2.dyndns.tv:2086/jair/jair/61
-#EXTINF:-1 tvg-id="I510.41994.tvguide.com" tvg-name="Band Hd" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band/Band.png" group-title="CANAIS PREMIUM 3",Band Hd
-http://viptv2.dyndns.tv:2086/jair/jair/205
-#EXTINF:-1 tvg-id="I539.38368.tvguide.com" tvg-name="SporTV 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV/sportv.png" group-title="CANAIS PREMIUM 3",SporTV 4K
-http://viptv2.dyndns.tv:2086/jair/jair/47
-#EXTINF:-1 tvg-id="I539.38368.tvguide.com" tvg-name="SporTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV/sportv.png" group-title="CANAIS PREMIUM 3",SporTV HD
-http://viptv2.dyndns.tv:2086/jair/jair/46
-#EXTINF:-1 tvg-id="I157.35256.tvguide.com" tvg-name="Studio UNiversal" tvg-logo="http://img.kkhosts.top/logos/icon2/universalhd.png" group-title="CANAIS PREMIUM 3",Studio UNiversal
-http://viptv2.dyndns.tv:2086/jair/jair/45
-#EXTINF:-1 tvg-id="I140.35255.tvguide.com" tvg-name="Syfy" tvg-logo="http://img.kkhosts.top/logos/icon2/syfy.png" group-title="CANAIS PREMIUM 3",Syfy
-http://viptv2.dyndns.tv:2086/jair/jair/44
-#EXTINF:-1 tvg-id="I636.43178.tvguide.com" tvg-name="TBS" tvg-logo="http://img.kkhosts.top/logos/icon2/tbshd.png" group-title="CANAIS PREMIUM 3",TBS
-http://viptv2.dyndns.tv:2086/jair/jair/43
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TCM/tcm.png" group-title="CANAIS PREMIUM 3",TCM
-http://viptv2.dyndns.tv:2086/jair/jair/41
-#EXTINF:-1 tvg-id="I552.58664.tvguide.com" tvg-name="TLC HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TLC/tlc.png" group-title="CANAIS PREMIUM 3",TLC HD
-http://viptv2.dyndns.tv:2086/jair/jair/27
-#EXTINF:-1 tvg-id="I651.12625.tvguide.com" tvg-name="TNT 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/tnthd.png" group-title="CANAIS PREMIUM 3",TNT 4K
-http://viptv2.dyndns.tv:2086/jair/jair/26
-#EXTINF:-1 tvg-id="I651.12625.tvguide.com" tvg-name="TNT HD" tvg-logo="http://img.kkhosts.top/logos/icon2/tnthd.png" group-title="CANAIS PREMIUM 3",TNT HD
-http://viptv2.dyndns.tv:2086/jair/jair/25
-#EXTINF:-1 tvg-id="I643.79015.tvguide.com" tvg-name="TNT SERIES 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/tntserieshd.png" group-title="CANAIS PREMIUM 3",TNT SERIES 4K
-http://viptv2.dyndns.tv:2086/jair/jair/24
-#EXTINF:-1 tvg-id="I643.79015.tvguide.com" tvg-name="TNT Series HD" tvg-logo="http://img.kkhosts.top/logos/icon2/tntserieshd.png" group-title="CANAIS PREMIUM 3",TNT Series HD
-http://viptv2.dyndns.tv:2086/jair/jair/23
-#EXTINF:-1 tvg-id="I537.57208.tvguide.com" tvg-name="SporTV 3 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%203/sportv%203.png" group-title="CANAIS PREMIUM 3",SporTV 3 HD
-http://viptv2.dyndns.tv:2086/jair/jair/48
-#EXTINF:-1 tvg-id="I108.15384.tvguide.com" tvg-name="Boomerang" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Boomerang/Boomerang.png" group-title="CANAIS PREMIUM 3",Boomerang
-http://viptv2.dyndns.tv:2086/jair/jair/199
-#EXTINF:-1 tvg-id="I195.43319.tvguide.com" tvg-name="Tv Aparecida" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Aparecida/tv%20aparecida.png" group-title="CANAIS PREMIUM 3",Tv Aparecida
-http://viptv2.dyndns.tv:2086/jair/jair/21
-#EXTINF:-1 tvg-id="I630.44192.tvguide.com" tvg-name="Universal Channel 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Universal%20Channel/universal%20channel.png" group-title="CANAIS PREMIUM 3",Universal Channel 4K
-http://viptv2.dyndns.tv:2086/jair/jair/11
-#EXTINF:-1 tvg-id="I110.35263.tvguide.com" tvg-name="Tooncast" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Tooncast/tooncast.png" group-title="CANAIS PREMIUM 3",Tooncast
-http://viptv2.dyndns.tv:2086/jair/jair/28
-#EXTINF:-1 tvg-id="I3.41879.tvguide.com" tvg-name="Tv Brasil" tvg-logo="http://img.kkhosts.top/logos/icon2/tvbrasil.png" group-title="CANAIS PREMIUM 3",Tv Brasil
-http://viptv2.dyndns.tv:2086/jair/jair/20
-#EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Camara/tv%20camara.png" group-title="CANAIS PREMIUM 3",Tv Camara
-http://viptv2.dyndns.tv:2086/jair/jair/19
-#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Tc Pipoca HD" tvg-logo="http://clarotv.claro.com.br/image/Get/453" group-title="CANAIS PREMIUM 3",Tc Pipoca HD
-http://viptv2.dyndns.tv:2086/jair/jair/42
-#EXTINF:-1 tvg-id="I12.35415.tvguide.com" tvg-name="Tv Escola" tvg-logo="http://img.kkhosts.top/logos/icon2/tvescola.png" group-title="CANAIS PREMIUM 3",Tv Escola
-http://viptv2.dyndns.tv:2086/jair/jair/17
-#EXTINF:-1 tvg-id="I662.35286.tvguide.com" tvg-name="Telecine Action 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/447" group-title="CANAIS PREMIUM 3",Telecine Action 4K
-http://viptv2.dyndns.tv:2086/jair/jair/40
-#EXTINF:-1 tvg-id="I662.35286.tvguide.com" tvg-name="Telecine Action Hd" tvg-logo="http://clarotv.claro.com.br/image/Get/447" group-title="CANAIS PREMIUM 3",Telecine Action Hd
-http://viptv2.dyndns.tv:2086/jair/jair/39
-#EXTINF:-1 tvg-id="I666.42847.tvguide.com" tvg-name="Telecine Cult 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/509" group-title="CANAIS PREMIUM 3",Telecine Cult 4K
-http://viptv2.dyndns.tv:2086/jair/jair/38
-#EXTINF:-1 tvg-id="I666.42847.tvguide.com" tvg-name="Telecine Cult HD" tvg-logo="http://clarotv.claro.com.br/image/Get/509" group-title="CANAIS PREMIUM 3",Telecine Cult HD
-http://viptv2.dyndns.tv:2086/jair/jair/37
-#EXTINF:-1 tvg-id="I664.35287.tvguide.com" tvg-name="Telecine Fun 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/512" group-title="CANAIS PREMIUM 3",Telecine Fun 4K
-http://viptv2.dyndns.tv:2086/jair/jair/36
-#EXTINF:-1 tvg-id="I664.35287.tvguide.com" tvg-name="Telecine Fun HD" tvg-logo="http://clarotv.claro.com.br/image/Get/512" group-title="CANAIS PREMIUM 3",Telecine Fun HD
-http://viptv2.dyndns.tv:2086/jair/jair/35
-#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Telecine Pipoca 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/453" group-title="CANAIS PREMIUM 3",Telecine Pipoca 4K
-http://viptv2.dyndns.tv:2086/jair/jair/34
-#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Telecine Pipoca HD" tvg-logo="http://clarotv.claro.com.br/image/Get/453" group-title="CANAIS PREMIUM 3",Telecine Pipoca HD
-http://viptv2.dyndns.tv:2086/jair/jair/33
-#EXTINF:-1 tvg-id="I661.35289.tvguide.com" tvg-name="Telecine Premium 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Premium/telecine%20premium.png" group-title="CANAIS PREMIUM 3",Telecine Premium 4K
-http://viptv2.dyndns.tv:2086/jair/jair/32
-#EXTINF:-1 tvg-id="I661.35289.tvguide.com" tvg-name="Telecine Premium HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Premium/telecine%20premium.png" group-title="CANAIS PREMIUM 3",Telecine Premium HD
-http://viptv2.dyndns.tv:2086/jair/jair/31
-#EXTINF:-1 tvg-id="I663.35290.tvguide.com" tvg-name="Telecine Touch 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Touch/telecine%20touch.png" group-title="CANAIS PREMIUM 3",Telecine Touch 4K
-http://viptv2.dyndns.tv:2086/jair/jair/30
-#EXTINF:-1 tvg-id="I663.35290.tvguide.com" tvg-name="Telecine Touch HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Touch/telecine%20touch.png" group-title="CANAIS PREMIUM 3",Telecine Touch HD
-http://viptv2.dyndns.tv:2086/jair/jair/29
-#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Justi%C3%A7a/tv%20justi%C3%A7a.png" group-title="CANAIS PREMIUM 3",TV Justiça
-http://viptv2.dyndns.tv:2086/jair/jair/16
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Tv Novo Tempo" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Novo%20Tempo/tv%20novo%20tempo.png" group-title="CANAIS PREMIUM 3",Tv Novo Tempo
-http://viptv2.dyndns.tv:2086/jair/jair/15
-#EXTINF:-1 tvg-id="I109.15462.tvguide.com" tvg-name="TV Rá Tim Bum" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20R%C3%A1%20Tim%20Bum/tv%20r%C3%A1%20tim%20bum.png" group-title="CANAIS PREMIUM 3",TV Rá Tim Bum
-http://viptv2.dyndns.tv:2086/jair/jair/14
-#EXTINF:-1 tvg-id="I26.10476.tvguide.com" tvg-name="Tv Senado" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Senado/tv%20senado.png" group-title="CANAIS PREMIUM 3",Tv Senado
-http://viptv2.dyndns.tv:2086/jair/jair/13
-#EXTINF:-1 tvg-id="I205.5056.tvguide.com" tvg-name="TVE" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TVE/tve.png" group-title="CANAIS PREMIUM 3",TVE
-http://viptv2.dyndns.tv:2086/jair/jair/12
-#EXTINF:-1 tvg-id="I204.35869.tvguide.com" tvg-name="TV 5" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%205/tv%205.png" group-title="CANAIS PREMIUM 3",TV 5
-http://viptv2.dyndns.tv:2086/jair/jair/22
-#EXTINF:-1 tvg-id="I556.89283.tvguide.com" tvg-name="Curta" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Curta/Canal%20Curta.png" group-title="CANAIS PREMIUM 3",Curta
-http://viptv2.dyndns.tv:2086/jair/jair/185
-#EXTINF:-1 tvg-id="I284.15418.tvguide.com" tvg-name="Venus" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Venus/venus.png" group-title="Adultos",Venus
-http://viptv2.dyndns.tv:2086/jair/jair/9
-#EXTINF:-1 tvg-id="I625.35293.tvguide.com" tvg-name="VH1 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1/vh1.png" group-title="CANAIS PREMIUM 3",VH1 HD
-http://viptv2.dyndns.tv:2086/jair/jair/8
-#EXTINF:-1 tvg-id="I126.36802.tvguide.com" tvg-name="VH1 Mega hits" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1%20Mega%20Hits/vh1%20mega%20hits.png" group-title="CANAIS PREMIUM 3",VH1 Mega hits
-http://viptv2.dyndns.tv:2086/jair/jair/7
-#EXTINF:-1 tvg-id="I43.35266.tvguide.com" tvg-name="Viva HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VIVA/viva.png" group-title="CANAIS PREMIUM 3",Viva HD
-http://viptv2.dyndns.tv:2086/jair/jair/6
-#EXTINF:-1 tvg-id="I632.35267.tvguide.com" tvg-name="Warner Channel 4K" tvg-logo="http://3.bp.blogspot.com/-8EgkCU3KAmI/Wbj-Y8CJSCI/AAAAAAAAAt8/tvtyvo8LdmI7v5zDNVnqTfIglETMTfBSQCK4BGAYYCw/s1600/Warner-Bros-logo-4.png" group-title="CANAIS PREMIUM 3",Warner Channel 4K
-http://viptv2.dyndns.tv:2086/jair/jair/5
-#EXTINF:-1 tvg-id="I632.35267.tvguide.com" tvg-name="Warner Channel HD" tvg-logo="http://3.bp.blogspot.com/-8EgkCU3KAmI/Wbj-Y8CJSCI/AAAAAAAAAt8/tvtyvo8LdmI7v5zDNVnqTfIglETMTfBSQCK4BGAYYCw/s1600/Warner-Bros-logo-4.png" group-title="CANAIS PREMIUM 3",Warner Channel HD
-http://viptv2.dyndns.tv:2086/jair/jair/4
-#EXTINF:-1 tvg-id="I565.90036.tvguide.com" tvg-name="Woohoo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Woohoo/woohoo.png" group-title="CANAIS PREMIUM 3",Woohoo HD
-http://viptv2.dyndns.tv:2086/jair/jair/3
-#EXTINF:-1 tvg-id="I113.45025.tvguide.com" tvg-name="Zoomoo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ZooMoo/zoomoo.png" group-title="CANAIS PREMIUM 3",Zoomoo 4K
-http://viptv2.dyndns.tv:2086/jair/jair/2
-#EXTINF:-1 tvg-id="I113.45025.tvguide.com" tvg-name="Zoomoo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ZooMoo/zoomoo.png" group-title="CANAIS PREMIUM 3",Zoomoo HD
-http://viptv2.dyndns.tv:2086/jair/jair/1
-#EXTINF:-1 tvg-id="I630.44192.tvguide.com" tvg-name="Universal Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Universal%20Channel/universal%20channel.png" group-title="CANAIS PREMIUM 3",Universal Channel HD
-http://viptv2.dyndns.tv:2086/jair/jair/10
-#EXTINF:-1 tvg-id="I600.42744.tvguide.com" tvg-name="Discovery Kids HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Kids/discovery%20kids.png" group-title="CANAIS PREMIUM 3",Discovery Kids HD
-http://viptv2.dyndns.tv:2086/jair/jair/179
-#EXTINF:-1 tvg-id="I593.35271.tvguide.com" tvg-name="Discovery World 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20World/Discovery%20World.png" group-title="CANAIS PREMIUM 3",Discovery World 4K
-http://viptv2.dyndns.tv:2086/jair/jair/173
-#EXTINF:-1 tvg-id="I593.35271.tvguide.com" tvg-name="Discovery world HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20World/Discovery%20World.png" group-title="CANAIS PREMIUM 3",Discovery world HD
-http://viptv2.dyndns.tv:2086/jair/jair/172
-#EXTINF:-1 tvg-id="I198.10502.tvguide.com" tvg-name="ESPN Brasil 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Espn%20brasil/espn%20brasil.png" group-title="CANAIS PREMIUM 3",ESPN Brasil 4K
-http://viptv2.dyndns.tv:2086/jair/jair/6854
-#EXTINF:-1 tvg-id="I198.10502.tvguide.com" tvg-name="ESPN Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Espn%20brasil/espn%20brasil.png" group-title="CANAIS PREMIUM 3",ESPN Brasil HD
-http://viptv2.dyndns.tv:2086/jair/jair/6853
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BR - ANIMAL PLANET HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4a0794160b2791dd050ddede5bdfd866.png" group-title="CANAIS PREMIUM 3",VIP: BR - ANIMAL PLANET HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198618
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BR - E! Maxx Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",VIP: BR - E! Maxx Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206112
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BR - BAND SPORT HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/666ea5f97fc103822bc46a6575f89a1f.png" group-title="SPORTS",SPORT: BR - BAND SPORT HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206110
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BR - beIN SPORTS" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/29037bdf791d95feaecfc6034d822881.png" group-title="SPORTS",SPORT: BR - beIN SPORTS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206111
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BR - Espn Brasil FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="SPORTS",SPORT: BR - Espn Brasil FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206113
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BR - SPORTV 1 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="SPORTS",SPORT: BR - SPORTV 1 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198475
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BR - SPORTV 2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="SPORTS",SPORT: BR - SPORTV 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198476
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BR - SPORTV 3 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="SPORTS",SPORT: BR - SPORTV 3 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198474
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON: BR - Anime Cartoon" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",CARTOON: BR - Anime Cartoon
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198585
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON: BR - Cartoon Network FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",CARTOON: BR - Cartoon Network FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198174
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON: BR - DISNEY XD HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/18af0058f9fd485bd1723ff83511072f.png" group-title="CANAIS PREMIUM 3",CARTOON: BR - DISNEY XD HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198603
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON: BR - GOSPEL CARTOON" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",CARTOON: BR - GOSPEL CARTOON
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/198584
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/18c9f9b920fa2d2c3b31f362c77b0a69.png" group-title="CANAIS PREMIUM 3",BR: A&E HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66059
+#EXTINF:-1 tvg-id="" tvg-name="BR: ALADIN 24HRS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ALADIN 24HRS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163969
+#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: All Sports
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66050
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/9890169750a2b910ef20a09c58c00d53.png" group-title="CANAIS PREMIUM 3",BR: AMC FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/100805
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ANIMAL PLANET Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206328
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4a0794160b2791dd050ddede5bdfd866.png" group-title="CANAIS PREMIUM 3",BR: ANIMAL PLANET HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68999
+#EXTINF:-1 tvg-id="" tvg-name="BR: Anime Cartoon" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Anime Cartoon
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66019
+#EXTINF:-1 tvg-id="" tvg-name="BR: Aparceida" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Aparceida
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/159051
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ARTE 1 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156983
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/fbda9998c2d9879db77b8f337019dc7e.png" group-title="CANAIS PREMIUM 3",BR: AXN FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66021
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: BABY TV HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157962
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Campinas" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Band Campinas
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/196241
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND News HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/0efefa29a31350a669471a2fda92ce8a.png" group-title="CANAIS PREMIUM 3",BR: BAND News HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66056
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND PARANA" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: BAND PARANA
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124369
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORT HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/666ea5f97fc103822bc46a6575f89a1f.png" group-title="CANAIS PREMIUM 3",BR: BAND SPORT HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66054
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB 2019 AQUECIMENTO" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: BBB 2019 AQUECIMENTO
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163991
+#EXTINF:-1 tvg-id="" tvg-name="BR: beIN SPORTS" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/29037bdf791d95feaecfc6034d822881.png" group-title="CANAIS PREMIUM 3",BR: beIN SPORTS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163992
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: BIS FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/95823
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOB ESPONJA 24h" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: BOB ESPONJA 24h
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124342
+#EXTINF:-1 tvg-id="" tvg-name="BR: Boomerang FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/e9cec5aa2cca48f882528f58efd2b823.png" group-title="CANAIS PREMIUM 3",BR: Boomerang FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66065
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL 26" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CANAL 26
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/134957
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Canal Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156999
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL DO BOI" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CANAL DO BOI
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/93196
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL FUTEBOL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CANAL FUTEBOL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124187
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL RURAL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CANAL RURAL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124371
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Sony HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Canal Sony HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157000
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANCAO NOVA" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CANCAO NOVA
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/148680
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAPELINHA Fatima" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CAPELINHA Fatima
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/135021
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Cartoon Network FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139121
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAVALHEIROS DO ZODIACOS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CAVALHEIROS DO ZODIACOS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163975
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAVERNA DO DRAGAO 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CAVERNA DO DRAGAO 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163952
+#EXTINF:-1 tvg-id="" tvg-name="BR: CHAVES 24h" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CHAVES 24h
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124354
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine 1" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Cine 1
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/125480
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/ff510ee74f34a147e5b2351c497f4aab.png" group-title="CANAIS PREMIUM 3",BR: Cinemax FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/100801
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN INTERNACIONAL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CNN INTERNACIONAL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124193
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Combate FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156819
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: COMEDY CENTRAL HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163287
+#EXTINF:-1 tvg-id="" tvg-name="BR: CURTA! HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: CURTA! HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/123157
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Discovery Channel FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157944
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Civilization FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Discovery Civilization FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66062
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Home & Health HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/182671c5cf92aa457291c2d571775c8e.png" group-title="CANAIS PREMIUM 3",BR: Discovery Home & Health HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/146294
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery ID" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Discovery ID
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/175466
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Discovery Kids FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157961
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/166f84b2c8a45f24847ec3cbae3e86c7.png" group-title="CANAIS PREMIUM 3",BR: Discovery Science FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/94188
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/4a187ceada07f77cbf4a66d8ea79720d.png" group-title="CANAIS PREMIUM 3",BR: Discovery Theater FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88099
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Discovery Turbo FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139128
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/a0cf8845daa0ab319a303e5409e2346c.png" group-title="CANAIS PREMIUM 3",BR: Discovery World FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/100091
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/aaec8c1bde3552d895ceb3531743f7bd.png" group-title="CANAIS PREMIUM 3",BR: Disney Channel FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/116367
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Disney Junior
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/196318
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY XD HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/18af0058f9fd485bd1723ff83511072f.png" group-title="CANAIS PREMIUM 3",BR: DISNEY XD HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68980
+#EXTINF:-1 tvg-id="" tvg-name="BR: DOIS HOMENS E MEIO 24HRS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: DOIS HOMENS E MEIO 24HRS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163976
+#EXTINF:-1 tvg-id="" tvg-name="BR: DRAGON BALL 24h" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: DRAGON BALL 24h
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124344
+#EXTINF:-1 tvg-id="" tvg-name="BR: DRAGON BALL SUPER 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: DRAGON BALL SUPER 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163955
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: E! HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88100
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! Maxx Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: E! Maxx Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68978
+#EXTINF:-1 tvg-id="" tvg-name="BR: EITB" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: EITB
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/134955
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN + HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ESPN + HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/100804
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ESPN 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/130202
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn Brasil FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Espn Brasil FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68955
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN EXTRA HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ESPN EXTRA HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156829
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ESPN FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66036
+#EXTINF:-1 tvg-id="" tvg-name="BR: EUROSPORT" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: EUROSPORT
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163853
+#EXTINF:-1 tvg-id="" tvg-name="BR: FILM & ARTS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: FILM & ARTS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163854
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fish TV HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Fish TV HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68974
+#EXTINF:-1 tvg-id="" tvg-name="BR: Food Network FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Food Network FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88095
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Fox HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/196292
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: FOX LIFE HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156831
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 1 FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Fox Premium 1 FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88101
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: FOX PREMIUM 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163856
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sport 2" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/87628243472d77d371bef4d76fd831ee.png" group-title="CANAIS PREMIUM 3",BR: Fox Sport 2
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68970
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 1 HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/9d0b89dfc625d5fd8cb6baf3e1c67487.png" group-title="CANAIS PREMIUM 3",BR: FOX SPORTS 1 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88071
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: FOX SPORTS HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156834
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX USA" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/28f9142b08c118c49118fcf9d7638252.png" group-title="CANAIS PREMIUM 3",BR: FOX USA
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124217
+#EXTINF:-1 tvg-id="" tvg-name="BR: Futura HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Futura HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66041
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: FX HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156832
+#EXTINF:-1 tvg-id="" tvg-name="BR: GAZETA SP HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GAZETA SP HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163863
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/199296
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Amazonas" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo Amazonas
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/123089
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO BRASILIA HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/112287
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Campinas" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo EPTV Campinas
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/149694
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO EPTV RIBEIRAO PRETO HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/123093
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV S" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo EPTV S
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/123095
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo ES HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo ES HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136658
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO FORTALEZA" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO FORTALEZA
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124244
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo Minas
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/199306
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NE" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo NE
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136662
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO NEWS HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156984
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO NORDESTE HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/109201
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO PARANA HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO PARANA HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163866
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO PORTUGAL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO PORTUGAL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124231
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Premium" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo Premium
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88051
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO RBS TV PORTO ALEGRE
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163872
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO RJ HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/110340
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RN HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO RN HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124245
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo SP
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/196249
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV ANHANGUERA HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOBO TV ANHANGUERA HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163980
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Tem Bauru HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo Tv Tem Bauru HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/149697
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Tv Verdes Mares Fortaleza" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globo Tv Verdes Mares Fortaleza
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139137
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globosat HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Globosat HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/102991
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GLOOB HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156987
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Gloobinho
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136680
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GNT HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88049
+#EXTINF:-1 tvg-id="" tvg-name="BR: GOSPEL CARTOON" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: GOSPEL CARTOON
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163954
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: H2 Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/110344
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: H2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139141
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: HBO 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156835
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: HBO FAMILY HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156836
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: HBO HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156837
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS E" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/670cd82c694af44b0cc5446609c2b088.png" group-title="CANAIS PREMIUM 3",BR: HBO PLUS E
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68962
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/72967fb3edde561ce1d0308c7ebec70f.png" group-title="CANAIS PREMIUM 3",BR: HBO Signature FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68961
+#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/8464ce150dc75601712cbecec9b84e70.png" group-title="CANAIS PREMIUM 3",BR: History Channel HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66051
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hit TV" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Hit TV
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136697
+#EXTINF:-1 tvg-id="" tvg-name="BR: HOMEM ARANHA 24 hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: HOMEM ARANHA 24 hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163968
+#EXTINF:-1 tvg-id="" tvg-name="BR: HOT MUSIC" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: HOT MUSIC
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124252
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID: Investigação Discovery HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b4bc0044a8689c2995b3c10ddf82e377.png" group-title="CANAIS PREMIUM 3",BR: ID: Investigação Discovery HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/149711
+#EXTINF:-1 tvg-id="" tvg-name="BR: Lifetime FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Lifetime FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66068
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mais Globo Sa" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Mais Globo Sa
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/114019
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mana Sat" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Mana Sat
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66072
+#EXTINF:-1 tvg-id="" tvg-name="BR: MASCARA 24 HRS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: MASCARA 24 HRS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163974
+#EXTINF:-1 tvg-id="" tvg-name="BR: MASTER TV" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: MASTER TV
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/105229
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Max FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139147
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max Prime HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Max Prime HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157007
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max Up HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Max Up HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157008
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Megapix FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156842
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: MTV FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/104797
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV PORTUGAL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: MTV PORTUGAL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124268
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: MULTISHOW HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156844
+#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Music Box Brazil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/104799
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO FHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/1440f4201c0ea3141fc225aec8701be5.png" group-title="CANAIS PREMIUM 3",BR: NAT GEO FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66048
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Kids FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: NAT GEO Kids FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/109218
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO WILD HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: NATGEO WILD HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163892
+#EXTINF:-1 tvg-id="" tvg-name="BR: NBR" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: NBR
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124375
+#EXTINF:-1 tvg-id="" tvg-name="BR: NHK" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: NHK
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163894
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Junior HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Nick Junior HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/100803
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nickelodeon" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Nickelodeon
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/196323
+#EXTINF:-1 tvg-id="" tvg-name="BR: O INSPETOR 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: O INSPETOR 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163967
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: OFF HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/104801
+#EXTINF:-1 tvg-id="" tvg-name="BR: OS SIMPSON 24hr" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: OS SIMPSON 24hr
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163965
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount Channel FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Paramount Channel FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68947
+#EXTINF:-1 tvg-id="" tvg-name="BR: PERNALONGA 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PERNALONGA 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163960
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 1 FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PFC 1 FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136728
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 4 FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PFC 4 FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136737
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 7 FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PFC 7 FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136747
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PFC HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88065
+#EXTINF:-1 tvg-id="" tvg-name="BR: Phineas e Ferb 24h" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Phineas e Ferb 24h
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124353
+#EXTINF:-1 tvg-id="" tvg-name="BR: PLAY TV" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PLAY TV
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68946
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PREMIER 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156993
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 3 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PREMIER 3 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68943
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 6 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PREMIER 6 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163900
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 7 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PREMIER 7 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68939
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 24HS HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PREMIER 24HS HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124282
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 1 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere 1 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/104803
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 4 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere 4 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68942
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 5 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere 5 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/164324
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 8" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere 8
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163902
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 9" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere 9
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/196269
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere Clubes
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156848
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Coubes HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Premiere Coubes HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/199310
+#EXTINF:-1 tvg-id="" tvg-name="BR: PRIME BOX BRASIL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: PRIME BOX BRASIL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124288
+#EXTINF:-1 tvg-id="" tvg-name="BR: Proyecto 40" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Proyecto 40
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/135023
+#EXTINF:-1 tvg-id="" tvg-name="BR: RAMBO 24HRS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: RAMBO 24HRS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163953
+#EXTINF:-1 tvg-id="" tvg-name="BR: REAL MADRID TV" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/ee5a055762b8f15660a0b7e9542e35da.png" group-title="CANAIS PREMIUM 3",BR: REAL MADRID TV
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124294
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Campinas HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Record Campinas HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/123123
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Record FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68934
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD INTERNACIONAL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: RECORD INTERNACIONAL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124290
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Record News FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66031
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Record SP HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/109214
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: REDE TV HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/93190
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT BRASIL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SBT BRASIL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/111836
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SBT HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139151
+#EXTINF:-1 tvg-id="" tvg-name="BR: SCOOBY DOO 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SCOOBY DOO 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163964
+#EXTINF:-1 tvg-id="" tvg-name="BR: SIC" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SIC
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163907
+#EXTINF:-1 tvg-id="" tvg-name="BR: SKY CINEMA HD UNO" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SKY CINEMA HD UNO
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66080
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sony FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Sony FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/110357
+#EXTINF:-1 tvg-id="" tvg-name="BR: Space FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Space FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139152
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SPORTV 1 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88062
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SPORTV 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139153
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SPORTV 3 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139154
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SPORTV HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/149745
+#EXTINF:-1 tvg-id="" tvg-name="BR: STB" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: STB
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68909
+#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Studio Universal HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157009
+#EXTINF:-1 tvg-id="" tvg-name="BR: SUPER SHOCK 24HRS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SUPER SHOCK 24HRS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163971
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: SYFY HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156852
+#EXTINF:-1 tvg-id="" tvg-name="BR: TARTARUGAS NINJAS 24HRS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TARTARUGAS NINJAS 24HRS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163951
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TBS HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88081
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Action FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TC Action FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136774
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Cult" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TC Cult
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206439
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Fun FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TC Fun FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136780
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC Premium FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TC Premium FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136785
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TCM
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157011
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TELECINE ACTION HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157013
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TELECINE CULT HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157014
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TELECINE FUN HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156970
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TELECINE PIPOCA HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/156969
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TELECINE PREMIUM HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157016
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TELECINE TOUCH HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157012
+#EXTINF:-1 tvg-id="" tvg-name="BR: TERRA VIVA" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TERRA VIVA
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124379
+#EXTINF:-1 tvg-id="" tvg-name="BR: TESOURO DA DISNEY 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TESOURO DA DISNEY 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163959
+#EXTINF:-1 tvg-id="" tvg-name="BR: THE HISTORY CHANNEL HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: THE HISTORY CHANNEL HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163882
+#EXTINF:-1 tvg-id="" tvg-name="BR: THUNDERCATS 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: THUNDERCATS 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163972
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c8eeb7d0758c79d7b7b7acc45be05e65.png" group-title="CANAIS PREMIUM 3",BR: TLC HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/88079
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TNT FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139155
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TNT SERIES HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157018
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tom & Jerry 24h" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Tom & Jerry 24h
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124357
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TOONCAST HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163823
+#EXTINF:-1 tvg-id="" tvg-name="BR: TRU TV" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TRU TV
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163928
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV APARECIDA HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV APARECIDA HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68905
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV BRASIL
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66028
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CINE 1 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV CINE 1 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124324
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CINE 3 FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV CINE 3 FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124325
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CINE 4 HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV CINE 4 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163934
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cultura HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Cultura HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/123144
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Diario" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Diario
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66076
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Escola" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Escola
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66018
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Evangelizar" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Evangelizar
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/135006
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Faap" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Faap
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66058
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tv Gazeta" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Tv Gazeta
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/139156
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Geral" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Geral
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/95859
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV GLOBO CAMPINAS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV GLOBO CAMPINAS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124243
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Globo HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Globo HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/89540
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV GLOBO PREMIUM HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV GLOBO PREMIUM HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66024
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ideal" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Ideal
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136799
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV JUSTICA H264" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV JUSTICA H264
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163929
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV LIBERAL BELEM" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV LIBERAL BELEM
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163871
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV MAN FRANCE" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV MAN FRANCE
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/135025
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV NBR" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV NBR
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/133582
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV NOVO TEMPO" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV NOVO TEMPO
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163932
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV RA TIM BUM" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV RA TIM BUM
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124328
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Record" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TV Record
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/66023
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVE" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/df4d25987db6e5b788c0a5f2565b23ed.jpg" group-title="CANAIS PREMIUM 3",BR: TVE
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/136630
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVN Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: TVN Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/68828
+#EXTINF:-1 tvg-id="" tvg-name="BR: UM MALUCO NO PEDACO 24hrs" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: UM MALUCO NO PEDACO 24hrs
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163961
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal Channel FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Universal Channel FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/157019
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: VH1
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163938
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 Mega Hits" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: VH1 Mega Hits
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206449
+#EXTINF:-1 tvg-id="" tvg-name="BR: Viva FHD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Viva FHD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/104817
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Bros HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2ac3e405230be2268589446bd47edafd.png" group-title="CANAIS PREMIUM 3",BR: Warner Bros HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/104818
+#EXTINF:-1 tvg-id="" tvg-name="BR: WEB TV MINAS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: WEB TV MINAS
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/175463
+#EXTINF:-1 tvg-id="" tvg-name="BR: Woohoo Brasil" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Woohoo Brasil
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/163312
+#EXTINF:-1 tvg-id="" tvg-name="BR: Woohoo HD" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: Woohoo HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/146621
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZOOMOO" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CANAIS PREMIUM 3",BR: ZOOMOO
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/164348
 
 
 #EXTINF:-1, group-title="CANAIS PREMIUM 4", BR: A&E HD
