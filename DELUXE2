@@ -483,428 +483,427 @@ http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/146621
 #EXTINF:-1, group-title="CANAIS PREMIUM",BR: ZOOMOO
 http://130.185.250.203:8080/WuYC3qhd9/65udrOt48Y/164348
 
-#EXTM3U
-#EXTINF:-1 tvg-id="I638.35203.tvguide.com" tvg-name="A&E HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/A&E/A&E.png"  group-title="CANAIS PREMIUM1 ",A&E HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/215
-#EXTINF:-1 tvg-id="I645.59086.tvguide.com" tvg-name="Amc 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AMC/AMC.png"  group-title="CANAIS PREMIUM1 ",Amc 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/214
-#EXTINF:-1 tvg-id="I645.59086.tvguide.com" tvg-name="Amc HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AMC/AMC.png"  group-title="CANAIS PREMIUM1 ",Amc HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/213
-#EXTINF:-1 tvg-id="I582.81344.tvguide.com" tvg-name="Animal Planet HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Animal%20Planet/Animal%20Planet.png" group-title="Documentarios",Animal Planet HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/211
-#EXTINF:-1 tvg-id="I53.42479.tvguide.com" tvg-name="Arte1" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Arte%201/Arte%201.png"  group-title="CANAIS PREMIUM1 ",Arte1
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/210
-#EXTINF:-1 tvg-id="I635.35205.tvguide.com" tvg-name="AXN HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AXN/AXN.png"  group-title="CANAIS PREMIUM1 ",AXN HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/209
-#EXTINF:-1 tvg-id="I620.42438.tvguide.com" tvg-name="BIS HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BIS/BIS.png"  group-title="CANAIS PREMIUM1 ",BIS HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/202
-#EXTINF:-1 tvg-id="I111.36131.tvguide.com" tvg-name="Baby tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Baby%20TV/Baby%20TV.png"  group-title="CANAIS PREMIUM1 ",Baby tv
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/208
-#EXTINF:-1 tvg-id="" tvg-name="BBB HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BBB%20HD/bbb.jpg"  group-title="CANAIS PREMIUM1 ",BBB HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/6837
-#EXTINF:-1 tvg-id="I196.15394.tvguide.com" tvg-name="Boa vontade tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BOA%20Vontade/Boa%20Vontade.png"  group-title="CANAIS PREMIUM1 ",Boa vontade tv
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/200
-#EXTINF:-1 tvg-id="I650.54441.tvguide.com" tvg-name="Canal Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Brasil/Canal%20Brasil.png"  group-title="CANAIS PREMIUM1 ",Canal Brasil HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/198
-#EXTINF:-1 tvg-id="I79.10542.tvguide.com" tvg-name="Band  News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20News/Band%20News.png"  group-title="CANAIS PREMIUM1 ",Band  News HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/207
-#EXTINF:-1 tvg-id="I201.4893.tvguide.com" tvg-name="Bloomberg" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Bloomberg/Bloomberg.png"  group-title="CANAIS PREMIUM1 ",Bloomberg
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/201
-#EXTINF:-1 tvg-id="I4.35207.tvguide.com" tvg-name="Canal Comunitario HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Comunit%C3%A1rio/Canal%20Comunit%C3%A1rio.png"  group-title="CANAIS PREMIUM1 ",Canal Comunitario HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/197
-#EXTINF:-1 tvg-id="I185.35208.tvguide.com" tvg-name="Canal Rural" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Rural/Canal%20Rural.png"  group-title="CANAIS PREMIUM1 ",Canal Rural
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/196
-#EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Canal Sony HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg"  group-title="CANAIS PREMIUM1 ",Canal Sony HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/195
-#EXTINF:-1 tvg-id="I15.35210.tvguide.com" tvg-name="Canal UNiversitario HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Universit%C3%A1rio/Canal%20Universit%C3%A1rio.png"  group-title="CANAIS PREMIUM1 ",Canal UNiversitario HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/194
-#EXTINF:-1 tvg-id="I104.15383.tvguide.com" tvg-name="Cartoon Network" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cartoon%20Network/Cartoon%20Network.png"  group-title="CANAIS PREMIUM1 ",Cartoon Network
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/193
-#EXTINF:-1 tvg-id="I655.49239.tvguide.com" tvg-name="Cinemax HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cinemax/Cinemax.png"  group-title="CANAIS PREMIUM1 ",Cinemax HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/192
-#EXTINF:-1 tvg-id="I200.2181.tvguide.com" tvg-name="Cnn Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/CNN%20Internacional/CNN%20Internacional.png"  group-title="CANAIS PREMIUM1 ",Cnn Internacional
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/191
-#EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png"  group-title="CANAIS PREMIUM1 ",Combate 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/190
-#EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png"  group-title="CANAIS PREMIUM1 ",Combate HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/189
-#EXTINF:-1 tvg-id="I75.10699.tvguide.com" tvg-name="Band Sports HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20Sports/band%20sports.png"  group-title="CANAIS PREMIUM1 ",Band Sports HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/203
-#EXTINF:-1 tvg-id="I637.45228.tvguide.com" tvg-name="Comedy Central 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Comedy%20Central/comedy%20central.png"  group-title="CANAIS PREMIUM1 ",Comedy Central 4k
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/188
-#EXTINF:-1 tvg-id="I637.45228.tvguide.com" tvg-name="Comedy Central HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Comedy%20Central/comedy%20central.png"  group-title="CANAIS PREMIUM1 ",Comedy Central HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/187
-#EXTINF:-1 tvg-id="I75.10699.tvguide.com" tvg-name="Band Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20Sports/band%20sports.png"  group-title="CANAIS PREMIUM1 ",Band Sports 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/204
-#EXTINF:-1 tvg-id="I510.41994.tvguide.com" tvg-name="Band 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band/Band.png"  group-title="CANAIS PREMIUM1 ",Band 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/206
-#EXTINF:-1 tvg-id="I572.35216.tvguide.com" tvg-name="Espn +   HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN+/espn+.png"  group-title="CANAIS PREMIUM1 ",Espn +   HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/162
-#EXTINF:-1 tvg-id="I571.43983.tvguide.com" tvg-name="Espn 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN/espn.png"  group-title="CANAIS PREMIUM1 ",Espn 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/161
-#EXTINF:-1 tvg-id="I571.43983.tvguide.com" tvg-name="Espn HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN/espn.png"  group-title="CANAIS PREMIUM1 ",Espn HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/158
-#EXTINF:-1 tvg-id="I574.48717.tvguide.com" tvg-name="Fox Sports 2 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/foxsports1hd.png"  group-title="CANAIS PREMIUM1 ",Fox Sports 2 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/144
-#EXTINF:-1 tvg-id="I634.51171.tvguide.com" tvg-name="FX 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FX/fx.png"  group-title="CANAIS PREMIUM1 ",FX 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/139
-#EXTINF:-1 tvg-id="I105.15385.tvguide.com" tvg-name="Disney XD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20XD/Disney%20XD.png"  group-title="CANAIS PREMIUM1 ",Disney XD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/169
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FishTV/fishtv.png" group-title="Documentarios",Fish Tv HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/155
-#EXTINF:-1 tvg-id="I554.56275.tvguide.com" tvg-name="Food Network 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Food%20Network/foodnetwork.png"  group-title="CANAIS PREMIUM1 ",Food Network 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/154
-#EXTINF:-1 tvg-id="I554.56275.tvguide.com" tvg-name="Food Network HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Food%20Network/foodnetwork.png" group-title="Documentarios",Food Network HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/153
-#EXTINF:-1 tvg-id="I631.51168.tvguide.com" tvg-name="Fox 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox/fox.png"  group-title="CANAIS PREMIUM1 ",Fox 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/152
-#EXTINF:-1 tvg-id="I631.51168.tvguide.com" tvg-name="Fox HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox/fox.png"  group-title="CANAIS PREMIUM1 ",Fox HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/151
-#EXTINF:-1 tvg-id="I644.81343.tvguide.com" tvg-name="Fox Life 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Life/fox%20life.png"  group-title="CANAIS PREMIUM1 ",Fox Life 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/150
-#EXTINF:-1 tvg-id="I644.81343.tvguide.com" tvg-name="Fox Life HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Life/fox%20life.png"  group-title="CANAIS PREMIUM1 ",Fox Life HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/149
-#EXTINF:-1 tvg-id="I682.78230.tvguide.com" tvg-name="Fox Premium 2 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%202/fox%20premium%202.png"  group-title="CANAIS PREMIUM1 ",Fox Premium 2 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/148
-#EXTINF:-1 tvg-id="I682.78230.tvguide.com" tvg-name="Fox Premium 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%202/fox%20premium%202.png"  group-title="CANAIS PREMIUM1 ",Fox Premium 2 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/147
-#EXTINF:-1 tvg-id="I681.83562.tvguide.com" tvg-name="FOX Premium 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%201/fox%20premium.png"  group-title="CANAIS PREMIUM1 ",FOX Premium 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/146
-#EXTINF:-1 tvg-id="I681.83562.tvguide.com" tvg-name="FOX Premium HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%201/fox%20premium.png"  group-title="CANAIS PREMIUM1 ",FOX Premium HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/145
-#EXTINF:-1 tvg-id="I572.35216.tvguide.com" tvg-name="Espn + 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN+/espn+.png"  group-title="CANAIS PREMIUM1 ",Espn + 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/163
-#EXTINF:-1 tvg-id="I55.15380.tvguide.com" tvg-name="Disc.Home & Health 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Home%20&%20Health/Discovery%20Home%20&%20Health.png"  group-title="CANAIS PREMIUM1 ",Disc.Home & Health 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/184
-#EXTINF:-1 tvg-id="I55.15380.tvguide.com" tvg-name="Disc.Home & Health HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Home%20&%20Health/Discovery%20Home%20&%20Health.png" group-title="Documentarios",Disc.Home & Health HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/183
-#EXTINF:-1 tvg-id="I581.38746.tvguide.com" tvg-name="Discovery Channel 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Channel/Discovery%20Channel.png"  group-title="CANAIS PREMIUM1 ",Discovery Channel 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/182
-#EXTINF:-1 tvg-id="I581.38746.tvguide.com" tvg-name="Discovery Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Channel/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/181
-#EXTINF:-1 tvg-id="I86.16235.tvguide.com" tvg-name="Discovery Civilization" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Civilization/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/180
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/EPTV%20Campinas/eptv.png"  group-title="CANAIS PREMIUM1 ",EPTV Campinas HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/164
-#EXTINF:-1 tvg-id="I85.16237.tvguide.com" tvg-name="Discovery Science" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Science/Discovery%20Science.png" group-title="Documentarios",Discovery Science
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/178
-#EXTINF:-1 tvg-id="I592.35214.tvguide.com" tvg-name="Discovery Theather 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Theater/Discovery%20Theater.png"  group-title="CANAIS PREMIUM1 ",Discovery Theather 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/177
-#EXTINF:-1 tvg-id="I592.35214.tvguide.com" tvg-name="Discovery Theather HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Theater/Discovery%20Theater.png" group-title="Documentarios",Discovery Theather HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/176
-#EXTINF:-1 tvg-id="I584.56270.tvguide.com" tvg-name="Discovery Turbo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Turbo/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/175
-#EXTINF:-1 tvg-id="I584.56270.tvguide.com" tvg-name="Discovery Turbo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Turbo/Discovery%20Turbo.png"  group-title="CANAIS PREMIUM1 ",Discovery Turbo 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/174
-#EXTINF:-1 tvg-id="I550.78947.tvguide.com" tvg-name="E! HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/E!/E!.png"  group-title="CANAIS PREMIUM1 ",E! HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/167
-#EXTINF:-1 tvg-id="I602.35272.tvguide.com" tvg-name="Disney Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20Channel/Disney%20Channel.png"  group-title="CANAIS PREMIUM1 ",Disney Channel HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/171
-#EXTINF:-1 tvg-id="I106.35215.tvguide.com" tvg-name="Disney Junior" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20J%C3%BAnior/Disney%20Junior.png"  group-title="CANAIS PREMIUM1 ",Disney Junior
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/170
-#EXTINF:-1 tvg-id="I206.3982.tvguide.com" tvg-name="DW" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/DW/DW.png"  group-title="CANAIS PREMIUM1 ",DW
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/168
-#EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png"  group-title="CANAIS PREMIUM1 ",Fox Sports 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/142
-#EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png"  group-title="CANAIS PREMIUM1 ",Fox Sports HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/141
-#EXTINF:-1 tvg-id="I87.42476.tvguide.com" tvg-name="Futura HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Futura/futura.png"  group-title="CANAIS PREMIUM1 ",Futura HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/140
-#EXTINF:-1 tvg-id="I634.51171.tvguide.com" tvg-name="Fx HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FX/fx.png"  group-title="CANAIS PREMIUM1 ",Fx HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/138
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gazeta/gazeta.png"  group-title="CANAIS PREMIUM1 ",Gazeta 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/137
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gazeta/gazeta.png"  group-title="CANAIS PREMIUM1 ",Gazeta HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/136
-#EXTINF:-1 tvg-id="" tvg-name="Globo  Rio HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Rio/globo%20rio.png"  group-title="CANAIS PREMIUM1 ",Globo  Rio HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/135
-#EXTINF:-1 tvg-id="I594.54926.tvguide.com" tvg-name="H2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/H2/h2.png" group-title="Documentarios",H2 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/123
-#EXTINF:-1 tvg-id="I5.36179.tvguide.com" tvg-name="Globo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo/globo.png"  group-title="CANAIS PREMIUM1 ",Globo 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/134
-#EXTINF:-1 tvg-id="I5.36179.tvguide.com" tvg-name="Globo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo/globo.png"  group-title="CANAIS PREMIUM1 ",Globo HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/133
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png"  group-title="CANAIS PREMIUM1 ",Globo Minas 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/132
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png"  group-title="CANAIS PREMIUM1 ",Globo Minas HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/131
-#EXTINF:-1 tvg-id="I540.38748.tvguide.com" tvg-name="Globo News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20News/globo%20news.png"  group-title="CANAIS PREMIUM1 ",Globo News HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/130
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png"  group-title="CANAIS PREMIUM1 ",Globo Nordeste 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/129
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png"  group-title="CANAIS PREMIUM1 ",Globo Nordeste HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/128
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Rio/globo%20rio.png"  group-title="CANAIS PREMIUM1 ",Globo Rio HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/127
-#EXTINF:-1 tvg-id="I601.36115.tvguide.com" tvg-name="Gloob 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gloob/gloob.png"  group-title="CANAIS PREMIUM1 ",Gloob 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/126
-#EXTINF:-1 tvg-id="I601.36115.tvguide.com" tvg-name="Gloob HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gloob/gloob.png"  group-title="CANAIS PREMIUM1 ",Gloob HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/125
-#EXTINF:-1 tvg-id="I541.37220.tvguide.com" tvg-name="GNT HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/GNT/gnt.png" group-title="Documentarios",GNT HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/124
-#EXTINF:-1 tvg-id="I574.48717.tvguide.com" tvg-name="Fox Sports 2 HD" tvg-logo="http://img.kkhosts.top/logos/icon2/foxsports1hd.png"  group-title="CANAIS PREMIUM1 ",Fox Sports 2 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/143
-#EXTINF:-1 tvg-id="I672.44239.tvguide.com" tvg-name="Hbo 2 HD" tvg-logo="http://clarotv.claro.com.br/image/Get/2088"  group-title="CANAIS PREMIUM1 ",Hbo 2 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/121
-#EXTINF:-1 tvg-id="I671.35222.tvguide.com" tvg-name="HBO 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hbohd.png"  group-title="CANAIS PREMIUM1 ",HBO 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/120
-#EXTINF:-1 tvg-id="I675.15405.tvguide.com" tvg-name="Hbo Family 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/hbofamilyhd.png"  group-title="CANAIS PREMIUM1 ",Hbo Family 4k
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/119
-#EXTINF:-1 tvg-id="I675.15405.tvguide.com" tvg-name="Hbo Family HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbofamilyhd.png"  group-title="CANAIS PREMIUM1 ",Hbo Family HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/118
-#EXTINF:-1 tvg-id="I671.35222.tvguide.com" tvg-name="HBO HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbohd.png"  group-title="CANAIS PREMIUM1 ",HBO HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/117
-#EXTINF:-1 tvg-id="I673.44325.tvguide.com" tvg-name="HBO Plus 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hboplushd.png"  group-title="CANAIS PREMIUM1 ",HBO Plus 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/116
-#EXTINF:-1 tvg-id="I673.44325.tvguide.com" tvg-name="HBO Plus HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hboplushd.png"  group-title="CANAIS PREMIUM1 ",HBO Plus HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/115
-#EXTINF:-1 tvg-id="I678.54622.tvguide.com" tvg-name="Max HD" tvg-logo="http://img.kkhosts.top/logos/icon2/maxhd.png"  group-title="CANAIS PREMIUM1 ",Max HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/104
-#EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png"  group-title="CANAIS PREMIUM1 ",Hbo Signature 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/114
-#EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png"  group-title="CANAIS PREMIUM1 ",Hbo Signature HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/113
-#EXTINF:-1 tvg-id="I621.35277.tvguide.com" tvg-name="MTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MTV/mtv.png"  group-title="CANAIS PREMIUM1 ",MTV HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/97
-#EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png"  group-title="CANAIS PREMIUM1 ",History 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/112
-#EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History HD" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png" group-title="Documentarios",History HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/111
-#EXTINF:-1 tvg-id="I639.38747.tvguide.com" tvg-name="ID 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/idhd.png"  group-title="CANAIS PREMIUM1 ",ID 4k
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/110
-#EXTINF:-1 tvg-id="I639.38747.tvguide.com" tvg-name="ID HD" tvg-logo="http://img.kkhosts.top/logos/icon2/idhd.png" group-title="Documentarios",ID HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/109
-#EXTINF:-1 tvg-id="" tvg-name="Ideal tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/IdealTV/idealtv.png"  group-title="CANAIS PREMIUM1 ",Ideal tv
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/108
-#EXTINF:-1 tvg-id="I641.52072.tvguide.com" tvg-name="Life Time HD" tvg-logo="http://img.kkhosts.top/logos/icon2/lifetimehd.png"  group-title="CANAIS PREMIUM1 ",Life Time HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/107
-#EXTINF:-1 tvg-id="I44.37579.tvguide.com" tvg-name="Mais Globosat" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Mais%20GloboSat/mais%20globo%20sat.png"  group-title="CANAIS PREMIUM1 ",Mais Globosat
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/106
-#EXTINF:-1 tvg-id="I678.54622.tvguide.com" tvg-name="Max 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/maxhd.png"  group-title="CANAIS PREMIUM1 ",Max 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/105
-#EXTINF:-1 tvg-id="I672.44239.tvguide.com" tvg-name="HBO 2 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/2088"  group-title="CANAIS PREMIUM1 ",HBO 2 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/122
-#EXTINF:-1 tvg-id="NBR" tvg-name="NBR HD" tvg-logo="http://img.kkhosts.top/logos/icon2/nbr.png"  group-title="CANAIS PREMIUM1 ",NBR HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/88
-#EXTINF:-1 tvg-id="I207.6229.tvguide.com" tvg-name="NHK HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/NHK/nhk.png"  group-title="CANAIS PREMIUM1 ",NHK HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/87
-#EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png"  group-title="CANAIS PREMIUM1 ",Max UP 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/102
-#EXTINF:-1 tvg-id="I103.15371.tvguide.com" tvg-name="NIkelodeon" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nickelodeon/nickelodeon.png"  group-title="CANAIS PREMIUM1 ",NIkelodeon
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/85
-#EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png"  group-title="CANAIS PREMIUM1 ",Max UP HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/101
-#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Mega/mega.png"  group-title="CANAIS PREMIUM1 ",Mega
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/100
-#EXTINF:-1 tvg-id="I591.35228.tvguide.com" tvg-name="Nat Geo Wild 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Wild/nat%20geo%20wild.png"  group-title="CANAIS PREMIUM1 ",Nat Geo Wild 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/90
-#EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png"  group-title="CANAIS PREMIUM1 ",Mega Pix 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/99
-#EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix HD" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png"  group-title="CANAIS PREMIUM1 ",Mega Pix HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/98
-#EXTINF:-1 tvg-id="I542.35278.tvguide.com" tvg-name="Multi Show HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MultiShow/multishow.png"  group-title="CANAIS PREMIUM1 ",Multi Show HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/96
-#EXTINF:-1 tvg-id="I123.42481.tvguide.com" tvg-name="Music Box Brasil" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Music%20Box%20Brasil/music%20box%20brasil.png"  group-title="CANAIS PREMIUM1 ",Music Box Brasil
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/95
-#EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo 4K" tvg-logo="https://static.cdn.responsys.net/i5/responsysimages/natgeo/contentlibrary/201702/ng_live_20170201_dc/20170201_NG_Live/NG_Logo_Black.png"  group-title="CANAIS PREMIUM1 ",Nat Geo 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/94
-#EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png" group-title="Documentarios",Nat Geo HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/93
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo KIds 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png"  group-title="CANAIS PREMIUM1 ",Nat Geo KIds 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/92
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo KIds HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png"  group-title="CANAIS PREMIUM1 ",Nat Geo KIds HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/91
-#EXTINF:-1 tvg-id="I679.54623.tvguide.com" tvg-name="Max Prime HD" tvg-logo="http://img.kkhosts.top/logos/icon2/maxprimehd.png"  group-title="CANAIS PREMIUM1 ",Max Prime HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/103
-#EXTINF:-1 tvg-id="I107.35232.tvguide.com" tvg-name="Nick Jr." tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nick%20Jr./nick%20jr.png"  group-title="CANAIS PREMIUM1 ",Nick Jr.
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/86
-#EXTINF:-1 tvg-id="I535.35373.tvguide.com" tvg-name="OFF 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/offhd.png"  group-title="CANAIS PREMIUM1 ",OFF 4k
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/84
-#EXTINF:-1 tvg-id="I724.82627.tvguide.com" tvg-name="Premiere 4 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere 4 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/75
-#EXTINF:-1 tvg-id="I535.35373.tvguide.com" tvg-name="OFF HD" tvg-logo="http://img.kkhosts.top/logos/icon2/offhd.png"  group-title="CANAIS PREMIUM1 ",OFF HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/83
-#EXTINF:-1 tvg-id="I658.56446.tvguide.com" tvg-name="Paramount HD" tvg-logo="http://img.kkhosts.top/logos/icon2/paramounthd.png"  group-title="CANAIS PREMIUM1 ",Paramount HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/82
-#EXTINF:-1 tvg-id="I281.15417.tvguide.com" tvg-name="Playboy" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Playboy/playboy.png" group-title="Adultos",Playboy
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/81
-#EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop Tv" tvg-logo="http://img.kkhosts.top/logos/icon2/polishop.png"  group-title="CANAIS PREMIUM1 ",Polishop Tv
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/80
-#EXTINF:-1 tvg-id="I722.44956.tvguide.com" tvg-name="Premiere 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere 2 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/79
-#EXTINF:-1 tvg-id="I723.82617.tvguide.com" tvg-name="Premiere 3 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere 3 4k
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/78
-#EXTINF:-1 tvg-id="I723.82617.tvguide.com" tvg-name="Premiere 3 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere 3 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/77
-#EXTINF:-1 tvg-id="I724.82627.tvguide.com" tvg-name="Premiere 4 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere 4 4k
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/76
-#EXTINF:-1 tvg-id="I591.35228.tvguide.com" tvg-name="Nat Geo Wild HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Wild/nat%20geo%20wild.png" group-title="Documentarios",Nat Geo Wild HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/89
-#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RIT/rit.png"  group-title="CANAIS PREMIUM1 ",RIT
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/60
-#EXTINF:-1 tvg-id="I721.42640.tvguide.com" tvg-name="Premiere Clubes 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere Clubes 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/73
-#EXTINF:-1 tvg-id="I721.42640.tvguide.com" tvg-name="Premiere Clubes HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere Clubes HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/72
-#EXTINF:-1 tvg-id="I226.82646.tvguide.com" tvg-name="Premiere6" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere6
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/71
-#EXTINF:-1 tvg-id="" tvg-name="Rede Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RedeTV/redetv.png"  group-title="CANAIS PREMIUM1 ",Rede Tv HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/62
-#EXTINF:-1 tvg-id="I227.82647.tvguide.com" tvg-name="Premiere7" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere7
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/70
-#EXTINF:-1 tvg-id="I656.83204.tvguide.com" tvg-name="Prime Box Brasil" tvg-logo="http://img.kkhosts.top/logos/icon2/primeboxbrazil.png"  group-title="CANAIS PREMIUM1 ",Prime Box Brasil
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/69
-#EXTINF:-1 tvg-id="" tvg-name="RCI" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RCI/rci.png"  group-title="CANAIS PREMIUM1 ",RCI
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/68
-#EXTINF:-1 tvg-id="I509.36671.tvguide.com" tvg-name="Record News" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Record%20News/record%20news.jpg"  group-title="CANAIS PREMIUM1 ",Record News
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/67
-#EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png"  group-title="CANAIS PREMIUM1 ",Record Tv 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/66
-#EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png"  group-title="CANAIS PREMIUM1 ",Record Tv HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/65
-#EXTINF:-1 tvg-id="" tvg-name="Rede 21" tvg-logo="http://4.bp.blogspot.com/-byHdaE3tdcc/Wadf_saElkI/AAAAAAAAAsk/IVwyE660O74ikJzOtsRKPNajrbcB14lmACK4BGAYYCw/s1600/1200px-Rede_21_logo.svg.png"  group-title="CANAIS PREMIUM1 ",Rede 21
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/64
-#EXTINF:-1 tvg-id="" tvg-name="Rede Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RedeTV/redetv.png"  group-title="CANAIS PREMIUM1 ",Rede Tv 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/63
-#EXTINF:-1 tvg-id="I725.82630.tvguide.com" tvg-name="Premiere 5 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM1 ",Premiere 5 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/74
-#EXTINF:-1 tvg-id="I582.81344.tvguide.com" tvg-name="Animal Planet 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Animal%20Planet/Animal%20Planet.png"  group-title="CANAIS PREMIUM1 ",Animal Planet 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/212
-#EXTINF:-1 tvg-id="I522.41970.tvguide.com" tvg-name="Sbt 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/sbt.png"  group-title="CANAIS PREMIUM1 ",Sbt 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/59
-#EXTINF:-1 tvg-id="I522.41970.tvguide.com" tvg-name="Sbt HD" tvg-logo="http://img.kkhosts.top/logos/icon2/sbt.png"  group-title="CANAIS PREMIUM1 ",Sbt HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/58
-#EXTINF:-1 tvg-id="I537.57208.tvguide.com" tvg-name="SporTV 3 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%203/sportv%203.png"  group-title="CANAIS PREMIUM1 ",SporTV 3 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/49
-#EXTINF:-1 tvg-id="I282.35246.tvguide.com" tvg-name="Sextreme" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sextreme/sextreme.png" group-title="Adultos",Sextreme
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/57
-#EXTINF:-1 tvg-id="I285.10510.tvguide.com" tvg-name="Sexy Hot" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SexyHot/sexy%20hot.png" group-title="Adultos",Sexy Hot
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/56
-#EXTINF:-1 tvg-id="I29.10495.tvguide.com" tvg-name="Shoptime" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Shoptime/shoptime.png"  group-title="CANAIS PREMIUM1 ",Shoptime
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/55
-#EXTINF:-1 tvg-id="I208.3422.tvguide.com" tvg-name="Sic Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sic%20Internacional/sic%20internacional.png"  group-title="CANAIS PREMIUM1 ",Sic Internacional
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/54
-#EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Sony 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg"  group-title="CANAIS PREMIUM1 ",Sony 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/53
-#EXTINF:-1 tvg-id="I154.35248.tvguide.com" tvg-name="Space" tvg-logo="http://img.kkhosts.top/logos/icon2/spacehd.png"  group-title="CANAIS PREMIUM1 ",Space
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/52
-#EXTINF:-1 tvg-id="I538.38445.tvguide.com" tvg-name="SporTV 2 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%202/sportv%202.png"  group-title="CANAIS PREMIUM1 ",SporTV 2 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/51
-#EXTINF:-1 tvg-id="I538.38445.tvguide.com" tvg-name="SporTV 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%202/sportv%202.png"  group-title="CANAIS PREMIUM1 ",SporTV 2 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/50
-#EXTINF:-1 tvg-id="" tvg-name="Rede vida" tvg-logo="http://img.kkhosts.top/logos/icon2/redevida.png"  group-title="CANAIS PREMIUM1 ",Rede vida
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/61
-#EXTINF:-1 tvg-id="I510.41994.tvguide.com" tvg-name="Band Hd" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band/Band.png"  group-title="CANAIS PREMIUM1 ",Band Hd
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/205
-#EXTINF:-1 tvg-id="I539.38368.tvguide.com" tvg-name="SporTV 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV/sportv.png"  group-title="CANAIS PREMIUM1 ",SporTV 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/47
-#EXTINF:-1 tvg-id="I539.38368.tvguide.com" tvg-name="SporTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV/sportv.png"  group-title="CANAIS PREMIUM1 ",SporTV HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/46
-#EXTINF:-1 tvg-id="I157.35256.tvguide.com" tvg-name="Studio UNiversal" tvg-logo="http://img.kkhosts.top/logos/icon2/universalhd.png"  group-title="CANAIS PREMIUM1 ",Studio UNiversal
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/45
-#EXTINF:-1 tvg-id="I140.35255.tvguide.com" tvg-name="Syfy" tvg-logo="http://img.kkhosts.top/logos/icon2/syfy.png"  group-title="CANAIS PREMIUM1 ",Syfy
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/44
-#EXTINF:-1 tvg-id="I636.43178.tvguide.com" tvg-name="TBS" tvg-logo="http://img.kkhosts.top/logos/icon2/tbshd.png"  group-title="CANAIS PREMIUM1 ",TBS
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/43
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TCM/tcm.png"  group-title="CANAIS PREMIUM1 ",TCM
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/41
-#EXTINF:-1 tvg-id="I552.58664.tvguide.com" tvg-name="TLC HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TLC/tlc.png" group-title="Documentarios",TLC HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/27
-#EXTINF:-1 tvg-id="I651.12625.tvguide.com" tvg-name="TNT 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/tnthd.png"  group-title="CANAIS PREMIUM1 ",TNT 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/26
-#EXTINF:-1 tvg-id="I651.12625.tvguide.com" tvg-name="TNT HD" tvg-logo="http://img.kkhosts.top/logos/icon2/tnthd.png"  group-title="CANAIS PREMIUM1 ",TNT HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/25
-#EXTINF:-1 tvg-id="I643.79015.tvguide.com" tvg-name="TNT SERIES 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/tntserieshd.png"  group-title="CANAIS PREMIUM1 ",TNT SERIES 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/24
-#EXTINF:-1 tvg-id="I643.79015.tvguide.com" tvg-name="TNT Series HD" tvg-logo="http://img.kkhosts.top/logos/icon2/tntserieshd.png"  group-title="CANAIS PREMIUM1 ",TNT Series HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/23
-#EXTINF:-1 tvg-id="I537.57208.tvguide.com" tvg-name="SporTV 3 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%203/sportv%203.png"  group-title="CANAIS PREMIUM1 ",SporTV 3 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/48
-#EXTINF:-1 tvg-id="I108.15384.tvguide.com" tvg-name="Boomerang" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Boomerang/Boomerang.png"  group-title="CANAIS PREMIUM1 ",Boomerang
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/199
-#EXTINF:-1 tvg-id="I195.43319.tvguide.com" tvg-name="Tv Aparecida" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Aparecida/tv%20aparecida.png"  group-title="CANAIS PREMIUM1 ",Tv Aparecida
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/21
-#EXTINF:-1 tvg-id="I630.44192.tvguide.com" tvg-name="Universal Channel 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Universal%20Channel/universal%20channel.png"  group-title="CANAIS PREMIUM1 ",Universal Channel 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/11
-#EXTINF:-1 tvg-id="I110.35263.tvguide.com" tvg-name="Tooncast" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Tooncast/tooncast.png"  group-title="CANAIS PREMIUM1 ",Tooncast
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/28
-#EXTINF:-1 tvg-id="I3.41879.tvguide.com" tvg-name="Tv Brasil" tvg-logo="http://img.kkhosts.top/logos/icon2/tvbrasil.png"  group-title="CANAIS PREMIUM1 ",Tv Brasil
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/20
-#EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Camara/tv%20camara.png"  group-title="CANAIS PREMIUM1 ",Tv Camara
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/19
-#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Tc Pipoca HD" tvg-logo="http://clarotv.claro.com.br/image/Get/453"  group-title="CANAIS PREMIUM1 ",Tc Pipoca HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/42
-#EXTINF:-1 tvg-id="I12.35415.tvguide.com" tvg-name="Tv Escola" tvg-logo="http://img.kkhosts.top/logos/icon2/tvescola.png"  group-title="CANAIS PREMIUM1 ",Tv Escola
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/17
-#EXTINF:-1 tvg-id="I662.35286.tvguide.com" tvg-name="Telecine Action 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/447"  group-title="CANAIS PREMIUM1 ",Telecine Action 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/40
-#EXTINF:-1 tvg-id="I662.35286.tvguide.com" tvg-name="Telecine Action Hd" tvg-logo="http://clarotv.claro.com.br/image/Get/447"  group-title="CANAIS PREMIUM1 ",Telecine Action Hd
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/39
-#EXTINF:-1 tvg-id="I666.42847.tvguide.com" tvg-name="Telecine Cult 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/509"  group-title="CANAIS PREMIUM1 ",Telecine Cult 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/38
-#EXTINF:-1 tvg-id="I666.42847.tvguide.com" tvg-name="Telecine Cult HD" tvg-logo="http://clarotv.claro.com.br/image/Get/509"  group-title="CANAIS PREMIUM1 ",Telecine Cult HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/37
-#EXTINF:-1 tvg-id="I664.35287.tvguide.com" tvg-name="Telecine Fun 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/512"  group-title="CANAIS PREMIUM1 ",Telecine Fun 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/36
-#EXTINF:-1 tvg-id="I664.35287.tvguide.com" tvg-name="Telecine Fun HD" tvg-logo="http://clarotv.claro.com.br/image/Get/512"  group-title="CANAIS PREMIUM1 ",Telecine Fun HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/35
-#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Telecine Pipoca 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/453"  group-title="CANAIS PREMIUM1 ",Telecine Pipoca 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/34
-#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Telecine Pipoca HD" tvg-logo="http://clarotv.claro.com.br/image/Get/453"  group-title="CANAIS PREMIUM1 ",Telecine Pipoca HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/33
-#EXTINF:-1 tvg-id="I661.35289.tvguide.com" tvg-name="Telecine Premium 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Premium/telecine%20premium.png"  group-title="CANAIS PREMIUM1 ",Telecine Premium 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/32
-#EXTINF:-1 tvg-id="I661.35289.tvguide.com" tvg-name="Telecine Premium HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Premium/telecine%20premium.png"  group-title="CANAIS PREMIUM1 ",Telecine Premium HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/31
-#EXTINF:-1 tvg-id="I663.35290.tvguide.com" tvg-name="Telecine Touch 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Touch/telecine%20touch.png"  group-title="CANAIS PREMIUM1 ",Telecine Touch 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/30
-#EXTINF:-1 tvg-id="I663.35290.tvguide.com" tvg-name="Telecine Touch HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Touch/telecine%20touch.png"  group-title="CANAIS PREMIUM1 ",Telecine Touch HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/29
-#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Justi%C3%A7a/tv%20justi%C3%A7a.png"  group-title="CANAIS PREMIUM1 ",TV Justiça
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/16
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Tv Novo Tempo" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Novo%20Tempo/tv%20novo%20tempo.png"  group-title="CANAIS PREMIUM1 ",Tv Novo Tempo
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/15
-#EXTINF:-1 tvg-id="I109.15462.tvguide.com" tvg-name="TV Rá Tim Bum" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20R%C3%A1%20Tim%20Bum/tv%20r%C3%A1%20tim%20bum.png"  group-title="CANAIS PREMIUM1 ",TV Rá Tim Bum
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/14
-#EXTINF:-1 tvg-id="I26.10476.tvguide.com" tvg-name="Tv Senado" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Senado/tv%20senado.png"  group-title="CANAIS PREMIUM1 ",Tv Senado
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/13
-#EXTINF:-1 tvg-id="I205.5056.tvguide.com" tvg-name="TVE" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TVE/tve.png"  group-title="CANAIS PREMIUM1 ",TVE
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/12
-#EXTINF:-1 tvg-id="I204.35869.tvguide.com" tvg-name="TV 5" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%205/tv%205.png"  group-title="CANAIS PREMIUM1 ",TV 5
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/22
-#EXTINF:-1 tvg-id="I556.89283.tvguide.com" tvg-name="Curta" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Curta/Canal%20Curta.png"  group-title="CANAIS PREMIUM1 ",Curta
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/185
-#EXTINF:-1 tvg-id="I284.15418.tvguide.com" tvg-name="Venus" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Venus/venus.png" group-title="Adultos",Venus
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/9
-#EXTINF:-1 tvg-id="I625.35293.tvguide.com" tvg-name="VH1 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1/vh1.png"  group-title="CANAIS PREMIUM1 ",VH1 HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/8
-#EXTINF:-1 tvg-id="I126.36802.tvguide.com" tvg-name="VH1 Mega hits" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1%20Mega%20Hits/vh1%20mega%20hits.png"  group-title="CANAIS PREMIUM1 ",VH1 Mega hits
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/7
-#EXTINF:-1 tvg-id="I43.35266.tvguide.com" tvg-name="Viva HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VIVA/viva.png"  group-title="CANAIS PREMIUM1 ",Viva HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/6
-#EXTINF:-1 tvg-id="I632.35267.tvguide.com" tvg-name="Warner Channel 4K" tvg-logo="http://3.bp.blogspot.com/-8EgkCU3KAmI/Wbj-Y8CJSCI/AAAAAAAAAt8/tvtyvo8LdmI7v5zDNVnqTfIglETMTfBSQCK4BGAYYCw/s1600/Warner-Bros-logo-4.png"  group-title="CANAIS PREMIUM1 ",Warner Channel 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/5
-#EXTINF:-1 tvg-id="I632.35267.tvguide.com" tvg-name="Warner Channel HD" tvg-logo="http://3.bp.blogspot.com/-8EgkCU3KAmI/Wbj-Y8CJSCI/AAAAAAAAAt8/tvtyvo8LdmI7v5zDNVnqTfIglETMTfBSQCK4BGAYYCw/s1600/Warner-Bros-logo-4.png"  group-title="CANAIS PREMIUM1 ",Warner Channel HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/4
-#EXTINF:-1 tvg-id="I565.90036.tvguide.com" tvg-name="Woohoo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Woohoo/woohoo.png"  group-title="CANAIS PREMIUM1 ",Woohoo HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/3
-#EXTINF:-1 tvg-id="I113.45025.tvguide.com" tvg-name="Zoomoo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ZooMoo/zoomoo.png"  group-title="CANAIS PREMIUM1 ",Zoomoo 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/2
-#EXTINF:-1 tvg-id="I113.45025.tvguide.com" tvg-name="Zoomoo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ZooMoo/zoomoo.png"  group-title="CANAIS PREMIUM1 ",Zoomoo HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/1
-#EXTINF:-1 tvg-id="I630.44192.tvguide.com" tvg-name="Universal Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Universal%20Channel/universal%20channel.png"  group-title="CANAIS PREMIUM1 ",Universal Channel HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/10
-#EXTINF:-1 tvg-id="I600.42744.tvguide.com" tvg-name="Discovery Kids HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Kids/discovery%20kids.png"  group-title="CANAIS PREMIUM1 ",Discovery Kids HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/179
-#EXTINF:-1 tvg-id="I593.35271.tvguide.com" tvg-name="Discovery World 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20World/Discovery%20World.png"  group-title="CANAIS PREMIUM1 ",Discovery World 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/173
-#EXTINF:-1 tvg-id="I593.35271.tvguide.com" tvg-name="Discovery world HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20World/Discovery%20World.png" group-title="Documentarios",Discovery world HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/172
-#EXTINF:-1 tvg-id="I198.10502.tvguide.com" tvg-name="ESPN Brasil 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Espn%20brasil/espn%20brasil.png"  group-title="CANAIS PREMIUM1 ",ESPN Brasil 4K
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/6854
-#EXTINF:-1 tvg-id="I198.10502.tvguide.com" tvg-name="ESPN Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Espn%20brasil/espn%20brasil.png"  group-title="CANAIS PREMIUM1 ",ESPN Brasil HD
-http://viptv2.dyndns.tv:2086/analuisa/analuisa/6853
 
+#EXTINF:-1 tvg-id="I638.35203.tvguide.com" tvg-name="A&E HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/A&E/A&E.png"  group-title="CANAIS PREMIUM 1",A&E HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/215
+#EXTINF:-1 tvg-id="I645.59086.tvguide.com" tvg-name="Amc 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AMC/AMC.png"  group-title="CANAIS PREMIUM 1",Amc 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/214
+#EXTINF:-1 tvg-id="I645.59086.tvguide.com" tvg-name="Amc HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AMC/AMC.png"  group-title="CANAIS PREMIUM 1",Amc HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/213
+#EXTINF:-1 tvg-id="I582.81344.tvguide.com" tvg-name="Animal Planet HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Animal%20Planet/Animal%20Planet.png" group-title="CANAIS PREMIUM 1",Animal Planet HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/211
+#EXTINF:-1 tvg-id="I53.42479.tvguide.com" tvg-name="Arte1" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Arte%201/Arte%201.png"  group-title="CANAIS PREMIUM 1",Arte1
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/210
+#EXTINF:-1 tvg-id="I635.35205.tvguide.com" tvg-name="AXN HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AXN/AXN.png"  group-title="CANAIS PREMIUM 1",AXN HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/209
+#EXTINF:-1 tvg-id="I620.42438.tvguide.com" tvg-name="BIS HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BIS/BIS.png"  group-title="CANAIS PREMIUM 1",BIS HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/202
+#EXTINF:-1 tvg-id="I111.36131.tvguide.com" tvg-name="Baby tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Baby%20TV/Baby%20TV.png"  group-title="CANAIS PREMIUM 1",Baby tv
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/208
+#EXTINF:-1 tvg-id="" tvg-name="BBB HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BBB%20HD/bbb.jpg"  group-title="CANAIS PREMIUM 1",BBB HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/6837
+#EXTINF:-1 tvg-id="I196.15394.tvguide.com" tvg-name="Boa vontade tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BOA%20Vontade/Boa%20Vontade.png"  group-title="CANAIS PREMIUM 1",Boa vontade tv
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/200
+#EXTINF:-1 tvg-id="I650.54441.tvguide.com" tvg-name="Canal Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Brasil/Canal%20Brasil.png"  group-title="CANAIS PREMIUM 1",Canal Brasil HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/198
+#EXTINF:-1 tvg-id="I79.10542.tvguide.com" tvg-name="Band  News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20News/Band%20News.png"  group-title="CANAIS PREMIUM 1",Band  News HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/207
+#EXTINF:-1 tvg-id="I201.4893.tvguide.com" tvg-name="Bloomberg" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Bloomberg/Bloomberg.png"  group-title="CANAIS PREMIUM 1",Bloomberg
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/201
+#EXTINF:-1 tvg-id="I4.35207.tvguide.com" tvg-name="Canal Comunitario HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Comunit%C3%A1rio/Canal%20Comunit%C3%A1rio.png"  group-title="CANAIS PREMIUM 1",Canal Comunitario HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/197
+#EXTINF:-1 tvg-id="I185.35208.tvguide.com" tvg-name="Canal Rural" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Rural/Canal%20Rural.png"  group-title="CANAIS PREMIUM 1",Canal Rural
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/196
+#EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Canal Sony HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg"  group-title="CANAIS PREMIUM 1",Canal Sony HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/195
+#EXTINF:-1 tvg-id="I15.35210.tvguide.com" tvg-name="Canal UNiversitario HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Universit%C3%A1rio/Canal%20Universit%C3%A1rio.png"  group-title="CANAIS PREMIUM 1",Canal UNiversitario HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/194
+#EXTINF:-1 tvg-id="I104.15383.tvguide.com" tvg-name="Cartoon Network" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cartoon%20Network/Cartoon%20Network.png"  group-title="CANAIS PREMIUM 1",Cartoon Network
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/193
+#EXTINF:-1 tvg-id="I655.49239.tvguide.com" tvg-name="Cinemax HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cinemax/Cinemax.png"  group-title="CANAIS PREMIUM 1",Cinemax HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/192
+#EXTINF:-1 tvg-id="I200.2181.tvguide.com" tvg-name="Cnn Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/CNN%20Internacional/CNN%20Internacional.png"  group-title="CANAIS PREMIUM 1",Cnn Internacional
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/191
+#EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png"  group-title="CANAIS PREMIUM 1",Combate 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/190
+#EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png"  group-title="CANAIS PREMIUM 1",Combate HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/189
+#EXTINF:-1 tvg-id="I75.10699.tvguide.com" tvg-name="Band Sports HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20Sports/band%20sports.png"  group-title="CANAIS PREMIUM 1",Band Sports HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/203
+#EXTINF:-1 tvg-id="I637.45228.tvguide.com" tvg-name="Comedy Central 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Comedy%20Central/comedy%20central.png"  group-title="CANAIS PREMIUM 1",Comedy Central 4k
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/188
+#EXTINF:-1 tvg-id="I637.45228.tvguide.com" tvg-name="Comedy Central HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Comedy%20Central/comedy%20central.png"  group-title="CANAIS PREMIUM 1",Comedy Central HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/187
+#EXTINF:-1 tvg-id="I75.10699.tvguide.com" tvg-name="Band Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20Sports/band%20sports.png"  group-title="CANAIS PREMIUM 1",Band Sports 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/204
+#EXTINF:-1 tvg-id="I510.41994.tvguide.com" tvg-name="Band 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band/Band.png"  group-title="CANAIS PREMIUM 1",Band 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/206
+#EXTINF:-1 tvg-id="I572.35216.tvguide.com" tvg-name="Espn +   HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN+/espn+.png"  group-title="CANAIS PREMIUM 1",Espn +   HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/162
+#EXTINF:-1 tvg-id="I571.43983.tvguide.com" tvg-name="Espn 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN/espn.png"  group-title="CANAIS PREMIUM 1",Espn 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/161
+#EXTINF:-1 tvg-id="I571.43983.tvguide.com" tvg-name="Espn HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN/espn.png"  group-title="CANAIS PREMIUM 1",Espn HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/158
+#EXTINF:-1 tvg-id="I574.48717.tvguide.com" tvg-name="Fox Sports 2 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/foxsports1hd.png"  group-title="CANAIS PREMIUM 1",Fox Sports 2 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/144
+#EXTINF:-1 tvg-id="I634.51171.tvguide.com" tvg-name="FX 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FX/fx.png"  group-title="CANAIS PREMIUM 1",FX 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/139
+#EXTINF:-1 tvg-id="I105.15385.tvguide.com" tvg-name="Disney XD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20XD/Disney%20XD.png"  group-title="CANAIS PREMIUM 1",Disney XD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/169
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FishTV/fishtv.png" group-title="CANAIS PREMIUM 1",Fish Tv HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/155
+#EXTINF:-1 tvg-id="I554.56275.tvguide.com" tvg-name="Food Network 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Food%20Network/foodnetwork.png"  group-title="CANAIS PREMIUM 1",Food Network 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/154
+#EXTINF:-1 tvg-id="I554.56275.tvguide.com" tvg-name="Food Network HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Food%20Network/foodnetwork.png" group-title="CANAIS PREMIUM 1",Food Network HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/153
+#EXTINF:-1 tvg-id="I631.51168.tvguide.com" tvg-name="Fox 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox/fox.png"  group-title="CANAIS PREMIUM 1",Fox 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/152
+#EXTINF:-1 tvg-id="I631.51168.tvguide.com" tvg-name="Fox HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox/fox.png"  group-title="CANAIS PREMIUM 1",Fox HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/151
+#EXTINF:-1 tvg-id="I644.81343.tvguide.com" tvg-name="Fox Life 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Life/fox%20life.png"  group-title="CANAIS PREMIUM 1",Fox Life 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/150
+#EXTINF:-1 tvg-id="I644.81343.tvguide.com" tvg-name="Fox Life HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Life/fox%20life.png"  group-title="CANAIS PREMIUM 1",Fox Life HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/149
+#EXTINF:-1 tvg-id="I682.78230.tvguide.com" tvg-name="Fox Premium 2 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%202/fox%20premium%202.png"  group-title="CANAIS PREMIUM 1",Fox Premium 2 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/148
+#EXTINF:-1 tvg-id="I682.78230.tvguide.com" tvg-name="Fox Premium 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%202/fox%20premium%202.png"  group-title="CANAIS PREMIUM 1",Fox Premium 2 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/147
+#EXTINF:-1 tvg-id="I681.83562.tvguide.com" tvg-name="FOX Premium 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%201/fox%20premium.png"  group-title="CANAIS PREMIUM 1",FOX Premium 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/146
+#EXTINF:-1 tvg-id="I681.83562.tvguide.com" tvg-name="FOX Premium HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Premium%201/fox%20premium.png"  group-title="CANAIS PREMIUM 1",FOX Premium HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/145
+#EXTINF:-1 tvg-id="I572.35216.tvguide.com" tvg-name="Espn + 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ESPN+/espn+.png"  group-title="CANAIS PREMIUM 1",Espn + 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/163
+#EXTINF:-1 tvg-id="I55.15380.tvguide.com" tvg-name="Disc.Home & Health 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Home%20&%20Health/Discovery%20Home%20&%20Health.png"  group-title="CANAIS PREMIUM 1",Disc.Home & Health 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/184
+#EXTINF:-1 tvg-id="I55.15380.tvguide.com" tvg-name="Disc.Home & Health HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Home%20&%20Health/Discovery%20Home%20&%20Health.png" group-title="CANAIS PREMIUM 1",Disc.Home & Health HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/183
+#EXTINF:-1 tvg-id="I581.38746.tvguide.com" tvg-name="Discovery Channel 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Channel/Discovery%20Channel.png"  group-title="CANAIS PREMIUM 1",Discovery Channel 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/182
+#EXTINF:-1 tvg-id="I581.38746.tvguide.com" tvg-name="Discovery Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Channel/Discovery%20Channel.png" group-title="CANAIS PREMIUM 1",Discovery Channel HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/181
+#EXTINF:-1 tvg-id="I86.16235.tvguide.com" tvg-name="Discovery Civilization" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Civilization/Discovery%20Civilization.png" group-title="CANAIS PREMIUM 1",Discovery Civilization
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/180
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/EPTV%20Campinas/eptv.png"  group-title="CANAIS PREMIUM 1",EPTV Campinas HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/164
+#EXTINF:-1 tvg-id="I85.16237.tvguide.com" tvg-name="Discovery Science" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Science/Discovery%20Science.png" group-title="CANAIS PREMIUM 1",Discovery Science
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/178
+#EXTINF:-1 tvg-id="I592.35214.tvguide.com" tvg-name="Discovery Theather 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Theater/Discovery%20Theater.png"  group-title="CANAIS PREMIUM 1",Discovery Theather 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/177
+#EXTINF:-1 tvg-id="I592.35214.tvguide.com" tvg-name="Discovery Theather HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Theater/Discovery%20Theater.png" group-title="CANAIS PREMIUM 1",Discovery Theather HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/176
+#EXTINF:-1 tvg-id="I584.56270.tvguide.com" tvg-name="Discovery Turbo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Turbo/Discovery%20Turbo.png" group-title="CANAIS PREMIUM 1",Discovery Turbo HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/175
+#EXTINF:-1 tvg-id="I584.56270.tvguide.com" tvg-name="Discovery Turbo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Turbo/Discovery%20Turbo.png"  group-title="CANAIS PREMIUM 1",Discovery Turbo 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/174
+#EXTINF:-1 tvg-id="I550.78947.tvguide.com" tvg-name="E! HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/E!/E!.png"  group-title="CANAIS PREMIUM 1",E! HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/167
+#EXTINF:-1 tvg-id="I602.35272.tvguide.com" tvg-name="Disney Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20Channel/Disney%20Channel.png"  group-title="CANAIS PREMIUM 1",Disney Channel HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/171
+#EXTINF:-1 tvg-id="I106.35215.tvguide.com" tvg-name="Disney Junior" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20J%C3%BAnior/Disney%20Junior.png"  group-title="CANAIS PREMIUM 1",Disney Junior
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/170
+#EXTINF:-1 tvg-id="I206.3982.tvguide.com" tvg-name="DW" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/DW/DW.png"  group-title="CANAIS PREMIUM 1",DW
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/168
+#EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png"  group-title="CANAIS PREMIUM 1",Fox Sports 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/142
+#EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png"  group-title="CANAIS PREMIUM 1",Fox Sports HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/141
+#EXTINF:-1 tvg-id="I87.42476.tvguide.com" tvg-name="Futura HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Futura/futura.png"  group-title="CANAIS PREMIUM 1",Futura HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/140
+#EXTINF:-1 tvg-id="I634.51171.tvguide.com" tvg-name="Fx HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/FX/fx.png"  group-title="CANAIS PREMIUM 1",Fx HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/138
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gazeta/gazeta.png"  group-title="CANAIS PREMIUM 1",Gazeta 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/137
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gazeta/gazeta.png"  group-title="CANAIS PREMIUM 1",Gazeta HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/136
+#EXTINF:-1 tvg-id="" tvg-name="Globo  Rio HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Rio/globo%20rio.png"  group-title="CANAIS PREMIUM 1",Globo  Rio HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/135
+#EXTINF:-1 tvg-id="I594.54926.tvguide.com" tvg-name="H2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/H2/h2.png" group-title="CANAIS PREMIUM 1",H2 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/123
+#EXTINF:-1 tvg-id="I5.36179.tvguide.com" tvg-name="Globo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo/globo.png"  group-title="CANAIS PREMIUM 1",Globo 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/134
+#EXTINF:-1 tvg-id="I5.36179.tvguide.com" tvg-name="Globo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo/globo.png"  group-title="CANAIS PREMIUM 1",Globo HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/133
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png"  group-title="CANAIS PREMIUM 1",Globo Minas 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/132
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png"  group-title="CANAIS PREMIUM 1",Globo Minas HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/131
+#EXTINF:-1 tvg-id="I540.38748.tvguide.com" tvg-name="Globo News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20News/globo%20news.png"  group-title="CANAIS PREMIUM 1",Globo News HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/130
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png"  group-title="CANAIS PREMIUM 1",Globo Nordeste 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/129
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png"  group-title="CANAIS PREMIUM 1",Globo Nordeste HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/128
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Rio/globo%20rio.png"  group-title="CANAIS PREMIUM 1",Globo Rio HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/127
+#EXTINF:-1 tvg-id="I601.36115.tvguide.com" tvg-name="Gloob 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gloob/gloob.png"  group-title="CANAIS PREMIUM 1",Gloob 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/126
+#EXTINF:-1 tvg-id="I601.36115.tvguide.com" tvg-name="Gloob HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Gloob/gloob.png"  group-title="CANAIS PREMIUM 1",Gloob HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/125
+#EXTINF:-1 tvg-id="I541.37220.tvguide.com" tvg-name="GNT HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/GNT/gnt.png" group-title="CANAIS PREMIUM 1",GNT HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/124
+#EXTINF:-1 tvg-id="I574.48717.tvguide.com" tvg-name="Fox Sports 2 HD" tvg-logo="http://img.kkhosts.top/logos/icon2/foxsports1hd.png"  group-title="CANAIS PREMIUM 1",Fox Sports 2 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/143
+#EXTINF:-1 tvg-id="I672.44239.tvguide.com" tvg-name="Hbo 2 HD" tvg-logo="http://clarotv.claro.com.br/image/Get/2088"  group-title="CANAIS PREMIUM 1",Hbo 2 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/121
+#EXTINF:-1 tvg-id="I671.35222.tvguide.com" tvg-name="HBO 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hbohd.png"  group-title="CANAIS PREMIUM 1",HBO 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/120
+#EXTINF:-1 tvg-id="I675.15405.tvguide.com" tvg-name="Hbo Family 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/hbofamilyhd.png"  group-title="CANAIS PREMIUM 1",Hbo Family 4k
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/119
+#EXTINF:-1 tvg-id="I675.15405.tvguide.com" tvg-name="Hbo Family HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbofamilyhd.png"  group-title="CANAIS PREMIUM 1",Hbo Family HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/118
+#EXTINF:-1 tvg-id="I671.35222.tvguide.com" tvg-name="HBO HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbohd.png"  group-title="CANAIS PREMIUM 1",HBO HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/117
+#EXTINF:-1 tvg-id="I673.44325.tvguide.com" tvg-name="HBO Plus 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hboplushd.png"  group-title="CANAIS PREMIUM 1",HBO Plus 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/116
+#EXTINF:-1 tvg-id="I673.44325.tvguide.com" tvg-name="HBO Plus HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hboplushd.png"  group-title="CANAIS PREMIUM 1",HBO Plus HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/115
+#EXTINF:-1 tvg-id="I678.54622.tvguide.com" tvg-name="Max HD" tvg-logo="http://img.kkhosts.top/logos/icon2/maxhd.png"  group-title="CANAIS PREMIUM 1",Max HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/104
+#EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png"  group-title="CANAIS PREMIUM 1",Hbo Signature 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/114
+#EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png"  group-title="CANAIS PREMIUM 1",Hbo Signature HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/113
+#EXTINF:-1 tvg-id="I621.35277.tvguide.com" tvg-name="MTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MTV/mtv.png"  group-title="CANAIS PREMIUM 1",MTV HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/97
+#EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png"  group-title="CANAIS PREMIUM 1",History 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/112
+#EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History HD" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png" group-title="CANAIS PREMIUM 1",History HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/111
+#EXTINF:-1 tvg-id="I639.38747.tvguide.com" tvg-name="ID 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/idhd.png"  group-title="CANAIS PREMIUM 1",ID 4k
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/110
+#EXTINF:-1 tvg-id="I639.38747.tvguide.com" tvg-name="ID HD" tvg-logo="http://img.kkhosts.top/logos/icon2/idhd.png" group-title="CANAIS PREMIUM 1",ID HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/109
+#EXTINF:-1 tvg-id="" tvg-name="Ideal tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/IdealTV/idealtv.png"  group-title="CANAIS PREMIUM 1",Ideal tv
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/108
+#EXTINF:-1 tvg-id="I641.52072.tvguide.com" tvg-name="Life Time HD" tvg-logo="http://img.kkhosts.top/logos/icon2/lifetimehd.png"  group-title="CANAIS PREMIUM 1",Life Time HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/107
+#EXTINF:-1 tvg-id="I44.37579.tvguide.com" tvg-name="Mais Globosat" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Mais%20GloboSat/mais%20globo%20sat.png"  group-title="CANAIS PREMIUM 1",Mais Globosat
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/106
+#EXTINF:-1 tvg-id="I678.54622.tvguide.com" tvg-name="Max 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/maxhd.png"  group-title="CANAIS PREMIUM 1",Max 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/105
+#EXTINF:-1 tvg-id="I672.44239.tvguide.com" tvg-name="HBO 2 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/2088"  group-title="CANAIS PREMIUM 1",HBO 2 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/122
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR HD" tvg-logo="http://img.kkhosts.top/logos/icon2/nbr.png"  group-title="CANAIS PREMIUM 1",NBR HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/88
+#EXTINF:-1 tvg-id="I207.6229.tvguide.com" tvg-name="NHK HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/NHK/nhk.png"  group-title="CANAIS PREMIUM 1",NHK HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/87
+#EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png"  group-title="CANAIS PREMIUM 1",Max UP 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/102
+#EXTINF:-1 tvg-id="I103.15371.tvguide.com" tvg-name="NIkelodeon" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nickelodeon/nickelodeon.png"  group-title="CANAIS PREMIUM 1",NIkelodeon
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/85
+#EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png"  group-title="CANAIS PREMIUM 1",Max UP HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/101
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Mega/mega.png"  group-title="CANAIS PREMIUM 1",Mega
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/100
+#EXTINF:-1 tvg-id="I591.35228.tvguide.com" tvg-name="Nat Geo Wild 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Wild/nat%20geo%20wild.png"  group-title="CANAIS PREMIUM 1",Nat Geo Wild 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/90
+#EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png"  group-title="CANAIS PREMIUM 1",Mega Pix 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/99
+#EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix HD" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png"  group-title="CANAIS PREMIUM 1",Mega Pix HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/98
+#EXTINF:-1 tvg-id="I542.35278.tvguide.com" tvg-name="Multi Show HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MultiShow/multishow.png"  group-title="CANAIS PREMIUM 1",Multi Show HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/96
+#EXTINF:-1 tvg-id="I123.42481.tvguide.com" tvg-name="Music Box Brasil" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Music%20Box%20Brasil/music%20box%20brasil.png"  group-title="CANAIS PREMIUM 1",Music Box Brasil
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/95
+#EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo 4K" tvg-logo="https://static.cdn.responsys.net/i5/responsysimages/natgeo/contentlibrary/201702/ng_live_20170201_dc/20170201_NG_Live/NG_Logo_Black.png"  group-title="CANAIS PREMIUM 1",Nat Geo 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/94
+#EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png" group-title="CANAIS PREMIUM 1",Nat Geo HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/93
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo KIds 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png"  group-title="CANAIS PREMIUM 1",Nat Geo KIds 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/92
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo KIds HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Kids/nat%20geo%20kids.png"  group-title="CANAIS PREMIUM 1",Nat Geo KIds HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/91
+#EXTINF:-1 tvg-id="I679.54623.tvguide.com" tvg-name="Max Prime HD" tvg-logo="http://img.kkhosts.top/logos/icon2/maxprimehd.png"  group-title="CANAIS PREMIUM 1",Max Prime HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/103
+#EXTINF:-1 tvg-id="I107.35232.tvguide.com" tvg-name="Nick Jr." tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nick%20Jr./nick%20jr.png"  group-title="CANAIS PREMIUM 1",Nick Jr.
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/86
+#EXTINF:-1 tvg-id="I535.35373.tvguide.com" tvg-name="OFF 4k" tvg-logo="http://img.kkhosts.top/logos/icon2/offhd.png"  group-title="CANAIS PREMIUM 1",OFF 4k
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/84
+#EXTINF:-1 tvg-id="I724.82627.tvguide.com" tvg-name="Premiere 4 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere 4 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/75
+#EXTINF:-1 tvg-id="I535.35373.tvguide.com" tvg-name="OFF HD" tvg-logo="http://img.kkhosts.top/logos/icon2/offhd.png"  group-title="CANAIS PREMIUM 1",OFF HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/83
+#EXTINF:-1 tvg-id="I658.56446.tvguide.com" tvg-name="Paramount HD" tvg-logo="http://img.kkhosts.top/logos/icon2/paramounthd.png"  group-title="CANAIS PREMIUM 1",Paramount HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/82
+#EXTINF:-1 tvg-id="I281.15417.tvguide.com" tvg-name="Playboy" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Playboy/playboy.png" group-title="CANAIS PREMIUM 1",Playboy
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/81
+#EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop Tv" tvg-logo="http://img.kkhosts.top/logos/icon2/polishop.png"  group-title="CANAIS PREMIUM 1",Polishop Tv
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/80
+#EXTINF:-1 tvg-id="I722.44956.tvguide.com" tvg-name="Premiere 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere 2 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/79
+#EXTINF:-1 tvg-id="I723.82617.tvguide.com" tvg-name="Premiere 3 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere 3 4k
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/78
+#EXTINF:-1 tvg-id="I723.82617.tvguide.com" tvg-name="Premiere 3 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere 3 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/77
+#EXTINF:-1 tvg-id="I724.82627.tvguide.com" tvg-name="Premiere 4 4k" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere 4 4k
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/76
+#EXTINF:-1 tvg-id="I591.35228.tvguide.com" tvg-name="Nat Geo Wild HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Nat%20Geo%20Wild/nat%20geo%20wild.png" group-title="CANAIS PREMIUM 1",Nat Geo Wild HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/89
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RIT/rit.png"  group-title="CANAIS PREMIUM 1",RIT
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/60
+#EXTINF:-1 tvg-id="I721.42640.tvguide.com" tvg-name="Premiere Clubes 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere Clubes 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/73
+#EXTINF:-1 tvg-id="I721.42640.tvguide.com" tvg-name="Premiere Clubes HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere Clubes HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/72
+#EXTINF:-1 tvg-id="I226.82646.tvguide.com" tvg-name="Premiere6" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere6
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/71
+#EXTINF:-1 tvg-id="" tvg-name="Rede Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RedeTV/redetv.png"  group-title="CANAIS PREMIUM 1",Rede Tv HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/62
+#EXTINF:-1 tvg-id="I227.82647.tvguide.com" tvg-name="Premiere7" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere7
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/70
+#EXTINF:-1 tvg-id="I656.83204.tvguide.com" tvg-name="Prime Box Brasil" tvg-logo="http://img.kkhosts.top/logos/icon2/primeboxbrazil.png"  group-title="CANAIS PREMIUM 1",Prime Box Brasil
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/69
+#EXTINF:-1 tvg-id="" tvg-name="RCI" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RCI/rci.png"  group-title="CANAIS PREMIUM 1",RCI
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/68
+#EXTINF:-1 tvg-id="I509.36671.tvguide.com" tvg-name="Record News" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Record%20News/record%20news.jpg"  group-title="CANAIS PREMIUM 1",Record News
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/67
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png"  group-title="CANAIS PREMIUM 1",Record Tv 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/66
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png"  group-title="CANAIS PREMIUM 1",Record Tv HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/65
+#EXTINF:-1 tvg-id="" tvg-name="Rede 21" tvg-logo="http://4.bp.blogspot.com/-byHdaE3tdcc/Wadf_saElkI/AAAAAAAAAsk/IVwyE660O74ikJzOtsRKPNajrbcB14lmACK4BGAYYCw/s1600/1200px-Rede_21_logo.svg.png"  group-title="CANAIS PREMIUM 1",Rede 21
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/64
+#EXTINF:-1 tvg-id="" tvg-name="Rede Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RedeTV/redetv.png"  group-title="CANAIS PREMIUM 1",Rede Tv 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/63
+#EXTINF:-1 tvg-id="I725.82630.tvguide.com" tvg-name="Premiere 5 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Premiere%20Channels/premiere.png"  group-title="CANAIS PREMIUM 1",Premiere 5 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/74
+#EXTINF:-1 tvg-id="I582.81344.tvguide.com" tvg-name="Animal Planet 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Animal%20Planet/Animal%20Planet.png"  group-title="CANAIS PREMIUM 1",Animal Planet 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/212
+#EXTINF:-1 tvg-id="I522.41970.tvguide.com" tvg-name="Sbt 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/sbt.png"  group-title="CANAIS PREMIUM 1",Sbt 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/59
+#EXTINF:-1 tvg-id="I522.41970.tvguide.com" tvg-name="Sbt HD" tvg-logo="http://img.kkhosts.top/logos/icon2/sbt.png"  group-title="CANAIS PREMIUM 1",Sbt HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/58
+#EXTINF:-1 tvg-id="I537.57208.tvguide.com" tvg-name="SporTV 3 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%203/sportv%203.png"  group-title="CANAIS PREMIUM 1",SporTV 3 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/49
+#EXTINF:-1 tvg-id="I282.35246.tvguide.com" tvg-name="Sextreme" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sextreme/sextreme.png" group-title="CANAIS PREMIUM 1",Sextreme
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/57
+#EXTINF:-1 tvg-id="I285.10510.tvguide.com" tvg-name="Sexy Hot" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SexyHot/sexy%20hot.png" group-title="CANAIS PREMIUM 1",Sexy Hot
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/56
+#EXTINF:-1 tvg-id="I29.10495.tvguide.com" tvg-name="Shoptime" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Shoptime/shoptime.png"  group-title="CANAIS PREMIUM 1",Shoptime
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/55
+#EXTINF:-1 tvg-id="I208.3422.tvguide.com" tvg-name="Sic Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sic%20Internacional/sic%20internacional.png"  group-title="CANAIS PREMIUM 1",Sic Internacional
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/54
+#EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Sony 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg"  group-title="CANAIS PREMIUM 1",Sony 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/53
+#EXTINF:-1 tvg-id="I154.35248.tvguide.com" tvg-name="Space" tvg-logo="http://img.kkhosts.top/logos/icon2/spacehd.png"  group-title="CANAIS PREMIUM 1",Space
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/52
+#EXTINF:-1 tvg-id="I538.38445.tvguide.com" tvg-name="SporTV 2 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%202/sportv%202.png"  group-title="CANAIS PREMIUM 1",SporTV 2 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/51
+#EXTINF:-1 tvg-id="I538.38445.tvguide.com" tvg-name="SporTV 2 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%202/sportv%202.png"  group-title="CANAIS PREMIUM 1",SporTV 2 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/50
+#EXTINF:-1 tvg-id="" tvg-name="Rede vida" tvg-logo="http://img.kkhosts.top/logos/icon2/redevida.png"  group-title="CANAIS PREMIUM 1",Rede vida
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/61
+#EXTINF:-1 tvg-id="I510.41994.tvguide.com" tvg-name="Band Hd" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band/Band.png"  group-title="CANAIS PREMIUM 1",Band Hd
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/205
+#EXTINF:-1 tvg-id="I539.38368.tvguide.com" tvg-name="SporTV 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV/sportv.png"  group-title="CANAIS PREMIUM 1",SporTV 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/47
+#EXTINF:-1 tvg-id="I539.38368.tvguide.com" tvg-name="SporTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV/sportv.png"  group-title="CANAIS PREMIUM 1",SporTV HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/46
+#EXTINF:-1 tvg-id="I157.35256.tvguide.com" tvg-name="Studio UNiversal" tvg-logo="http://img.kkhosts.top/logos/icon2/universalhd.png"  group-title="CANAIS PREMIUM 1",Studio UNiversal
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/45
+#EXTINF:-1 tvg-id="I140.35255.tvguide.com" tvg-name="Syfy" tvg-logo="http://img.kkhosts.top/logos/icon2/syfy.png"  group-title="CANAIS PREMIUM 1",Syfy
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/44
+#EXTINF:-1 tvg-id="I636.43178.tvguide.com" tvg-name="TBS" tvg-logo="http://img.kkhosts.top/logos/icon2/tbshd.png"  group-title="CANAIS PREMIUM 1",TBS
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/43
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TCM/tcm.png"  group-title="CANAIS PREMIUM 1",TCM
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/41
+#EXTINF:-1 tvg-id="I552.58664.tvguide.com" tvg-name="TLC HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TLC/tlc.png" group-title="CANAIS PREMIUM 1",TLC HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/27
+#EXTINF:-1 tvg-id="I651.12625.tvguide.com" tvg-name="TNT 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/tnthd.png"  group-title="CANAIS PREMIUM 1",TNT 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/26
+#EXTINF:-1 tvg-id="I651.12625.tvguide.com" tvg-name="TNT HD" tvg-logo="http://img.kkhosts.top/logos/icon2/tnthd.png"  group-title="CANAIS PREMIUM 1",TNT HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/25
+#EXTINF:-1 tvg-id="I643.79015.tvguide.com" tvg-name="TNT SERIES 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/tntserieshd.png"  group-title="CANAIS PREMIUM 1",TNT SERIES 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/24
+#EXTINF:-1 tvg-id="I643.79015.tvguide.com" tvg-name="TNT Series HD" tvg-logo="http://img.kkhosts.top/logos/icon2/tntserieshd.png"  group-title="CANAIS PREMIUM 1",TNT Series HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/23
+#EXTINF:-1 tvg-id="I537.57208.tvguide.com" tvg-name="SporTV 3 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/SporTV%203/sportv%203.png"  group-title="CANAIS PREMIUM 1",SporTV 3 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/48
+#EXTINF:-1 tvg-id="I108.15384.tvguide.com" tvg-name="Boomerang" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Boomerang/Boomerang.png"  group-title="CANAIS PREMIUM 1",Boomerang
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/199
+#EXTINF:-1 tvg-id="I195.43319.tvguide.com" tvg-name="Tv Aparecida" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Aparecida/tv%20aparecida.png"  group-title="CANAIS PREMIUM 1",Tv Aparecida
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/21
+#EXTINF:-1 tvg-id="I630.44192.tvguide.com" tvg-name="Universal Channel 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Universal%20Channel/universal%20channel.png"  group-title="CANAIS PREMIUM 1",Universal Channel 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/11
+#EXTINF:-1 tvg-id="I110.35263.tvguide.com" tvg-name="Tooncast" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Tooncast/tooncast.png"  group-title="CANAIS PREMIUM 1",Tooncast
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/28
+#EXTINF:-1 tvg-id="I3.41879.tvguide.com" tvg-name="Tv Brasil" tvg-logo="http://img.kkhosts.top/logos/icon2/tvbrasil.png"  group-title="CANAIS PREMIUM 1",Tv Brasil
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/20
+#EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Camara/tv%20camara.png"  group-title="CANAIS PREMIUM 1",Tv Camara
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/19
+#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Tc Pipoca HD" tvg-logo="http://clarotv.claro.com.br/image/Get/453"  group-title="CANAIS PREMIUM 1",Tc Pipoca HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/42
+#EXTINF:-1 tvg-id="I12.35415.tvguide.com" tvg-name="Tv Escola" tvg-logo="http://img.kkhosts.top/logos/icon2/tvescola.png"  group-title="CANAIS PREMIUM 1",Tv Escola
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/17
+#EXTINF:-1 tvg-id="I662.35286.tvguide.com" tvg-name="Telecine Action 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/447"  group-title="CANAIS PREMIUM 1",Telecine Action 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/40
+#EXTINF:-1 tvg-id="I662.35286.tvguide.com" tvg-name="Telecine Action Hd" tvg-logo="http://clarotv.claro.com.br/image/Get/447"  group-title="CANAIS PREMIUM 1",Telecine Action Hd
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/39
+#EXTINF:-1 tvg-id="I666.42847.tvguide.com" tvg-name="Telecine Cult 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/509"  group-title="CANAIS PREMIUM 1",Telecine Cult 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/38
+#EXTINF:-1 tvg-id="I666.42847.tvguide.com" tvg-name="Telecine Cult HD" tvg-logo="http://clarotv.claro.com.br/image/Get/509"  group-title="CANAIS PREMIUM 1",Telecine Cult HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/37
+#EXTINF:-1 tvg-id="I664.35287.tvguide.com" tvg-name="Telecine Fun 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/512"  group-title="CANAIS PREMIUM 1",Telecine Fun 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/36
+#EXTINF:-1 tvg-id="I664.35287.tvguide.com" tvg-name="Telecine Fun HD" tvg-logo="http://clarotv.claro.com.br/image/Get/512"  group-title="CANAIS PREMIUM 1",Telecine Fun HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/35
+#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Telecine Pipoca 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/453"  group-title="CANAIS PREMIUM 1",Telecine Pipoca 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/34
+#EXTINF:-1 tvg-id="I665.35288.tvguide.com" tvg-name="Telecine Pipoca HD" tvg-logo="http://clarotv.claro.com.br/image/Get/453"  group-title="CANAIS PREMIUM 1",Telecine Pipoca HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/33
+#EXTINF:-1 tvg-id="I661.35289.tvguide.com" tvg-name="Telecine Premium 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Premium/telecine%20premium.png"  group-title="CANAIS PREMIUM 1",Telecine Premium 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/32
+#EXTINF:-1 tvg-id="I661.35289.tvguide.com" tvg-name="Telecine Premium HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Premium/telecine%20premium.png"  group-title="CANAIS PREMIUM 1",Telecine Premium HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/31
+#EXTINF:-1 tvg-id="I663.35290.tvguide.com" tvg-name="Telecine Touch 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Touch/telecine%20touch.png"  group-title="CANAIS PREMIUM 1",Telecine Touch 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/30
+#EXTINF:-1 tvg-id="I663.35290.tvguide.com" tvg-name="Telecine Touch HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Telecine%20Touch/telecine%20touch.png"  group-title="CANAIS PREMIUM 1",Telecine Touch HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/29
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Justi%C3%A7a/tv%20justi%C3%A7a.png"  group-title="CANAIS PREMIUM 1",TV Justiça
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/16
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Tv Novo Tempo" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Novo%20Tempo/tv%20novo%20tempo.png"  group-title="CANAIS PREMIUM 1",Tv Novo Tempo
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/15
+#EXTINF:-1 tvg-id="I109.15462.tvguide.com" tvg-name="TV Rá Tim Bum" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20R%C3%A1%20Tim%20Bum/tv%20r%C3%A1%20tim%20bum.png"  group-title="CANAIS PREMIUM 1",TV Rá Tim Bum
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/14
+#EXTINF:-1 tvg-id="I26.10476.tvguide.com" tvg-name="Tv Senado" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Senado/tv%20senado.png"  group-title="CANAIS PREMIUM 1",Tv Senado
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/13
+#EXTINF:-1 tvg-id="I205.5056.tvguide.com" tvg-name="TVE" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TVE/tve.png"  group-title="CANAIS PREMIUM 1",TVE
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/12
+#EXTINF:-1 tvg-id="I204.35869.tvguide.com" tvg-name="TV 5" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%205/tv%205.png"  group-title="CANAIS PREMIUM 1",TV 5
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/22
+#EXTINF:-1 tvg-id="I556.89283.tvguide.com" tvg-name="Curta" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Curta/Canal%20Curta.png"  group-title="CANAIS PREMIUM 1",Curta
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/185
+#EXTINF:-1 tvg-id="I284.15418.tvguide.com" tvg-name="Venus" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Venus/venus.png" group-title="CANAIS PREMIUM 1",Venus
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/9
+#EXTINF:-1 tvg-id="I625.35293.tvguide.com" tvg-name="VH1 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1/vh1.png"  group-title="CANAIS PREMIUM 1",VH1 HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/8
+#EXTINF:-1 tvg-id="I126.36802.tvguide.com" tvg-name="VH1 Mega hits" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1%20Mega%20Hits/vh1%20mega%20hits.png"  group-title="CANAIS PREMIUM 1",VH1 Mega hits
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/7
+#EXTINF:-1 tvg-id="I43.35266.tvguide.com" tvg-name="Viva HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VIVA/viva.png"  group-title="CANAIS PREMIUM 1",Viva HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/6
+#EXTINF:-1 tvg-id="I632.35267.tvguide.com" tvg-name="Warner Channel 4K" tvg-logo="http://3.bp.blogspot.com/-8EgkCU3KAmI/Wbj-Y8CJSCI/AAAAAAAAAt8/tvtyvo8LdmI7v5zDNVnqTfIglETMTfBSQCK4BGAYYCw/s1600/Warner-Bros-logo-4.png"  group-title="CANAIS PREMIUM 1",Warner Channel 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/5
+#EXTINF:-1 tvg-id="I632.35267.tvguide.com" tvg-name="Warner Channel HD" tvg-logo="http://3.bp.blogspot.com/-8EgkCU3KAmI/Wbj-Y8CJSCI/AAAAAAAAAt8/tvtyvo8LdmI7v5zDNVnqTfIglETMTfBSQCK4BGAYYCw/s1600/Warner-Bros-logo-4.png"  group-title="CANAIS PREMIUM 1",Warner Channel HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/4
+#EXTINF:-1 tvg-id="I565.90036.tvguide.com" tvg-name="Woohoo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Woohoo/woohoo.png"  group-title="CANAIS PREMIUM 1",Woohoo HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/3
+#EXTINF:-1 tvg-id="I113.45025.tvguide.com" tvg-name="Zoomoo 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ZooMoo/zoomoo.png"  group-title="CANAIS PREMIUM 1",Zoomoo 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/2
+#EXTINF:-1 tvg-id="I113.45025.tvguide.com" tvg-name="Zoomoo HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/ZooMoo/zoomoo.png"  group-title="CANAIS PREMIUM 1",Zoomoo HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/1
+#EXTINF:-1 tvg-id="I630.44192.tvguide.com" tvg-name="Universal Channel HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Universal%20Channel/universal%20channel.png"  group-title="CANAIS PREMIUM 1",Universal Channel HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/10
+#EXTINF:-1 tvg-id="I600.42744.tvguide.com" tvg-name="Discovery Kids HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20Kids/discovery%20kids.png"  group-title="CANAIS PREMIUM 1",Discovery Kids HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/179
+#EXTINF:-1 tvg-id="I593.35271.tvguide.com" tvg-name="Discovery World 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20World/Discovery%20World.png"  group-title="CANAIS PREMIUM 1",Discovery World 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/173
+#EXTINF:-1 tvg-id="I593.35271.tvguide.com" tvg-name="Discovery world HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Discovery%20World/Discovery%20World.png" group-title="CANAIS PREMIUM 1",Discovery world HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/172
+#EXTINF:-1 tvg-id="I198.10502.tvguide.com" tvg-name="ESPN Brasil 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Espn%20brasil/espn%20brasil.png"  group-title="CANAIS PREMIUM 1",ESPN Brasil 4K
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/6854
+#EXTINF:-1 tvg-id="I198.10502.tvguide.com" tvg-name="ESPN Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Espn%20brasil/espn%20brasil.png"  group-title="CANAIS PREMIUM 1",ESPN Brasil HD
+http://viptv2.dyndns.tv:2086/analuisa/analuisa/6853
 
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="CANAIS PREMIUM 2",GLOBO RJ FHD
@@ -1915,35 +1914,35 @@ http://xx2.servelive.net:80/andreia/andreia1234/42423
 http://xx2.servelive.net:80/andreia/andreia1234/49127
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 SD" tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="CANAIS PREMIUM 2",PREMIERE 9 SD
 http://xx2.servelive.net:80/andreia/andreia1234/49128
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="NOTICIAS",GLOBO NEWS FHD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS FHD
 http://xx2.servelive.net:80/andreia/andreia1234/13426
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="https://i.imgur.com/6tJ9Ap5.png" group-title="NOTICIAS",GLOBO NEWS FHD H265
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="https://i.imgur.com/6tJ9Ap5.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS FHD H265
 http://xx2.servelive.net:80/andreia/andreia1234/24234
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/jV9A1JT.png" group-title="NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/jV9A1JT.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS HD
 http://xx2.servelive.net:80/andreia/andreia1234/8046
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="https://i.imgur.com/6tJ9Ap5.png" group-title="NOTICIAS",GLOBO NEWS HD¹
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="https://i.imgur.com/6tJ9Ap5.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS HD¹
 http://xx2.servelive.net:80/andreia/andreia1234/1204
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS SD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/200px-GloboNews_logo.svg.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS SD
 http://xx2.servelive.net:80/andreia/andreia1234/8047
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="NOTICIAS",GLOBO NEWS SD¹
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="CANAIS PREMIUM 2",GLOBO NEWS SD¹
 http://xx2.servelive.net:80/andreia/andreia1234/3045
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS FHD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="CANAIS PREMIUM 2",BAND NEWS FHD
 http://xx2.servelive.net:80/andreia/andreia1234/13491
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS FHD H265
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="CANAIS PREMIUM 2",BAND NEWS FHD H265
 http://xx2.servelive.net:80/andreia/andreia1234/49799
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS HD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="CANAIS PREMIUM 2",BAND NEWS HD
 http://xx2.servelive.net:80/andreia/andreia1234/8136
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS SD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="CANAIS PREMIUM 2",BAND NEWS SD
 http://xx2.servelive.net:80/andreia/andreia1234/8137
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS SD¹
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="CANAIS PREMIUM 2",BAND NEWS SD¹
 http://xx2.servelive.net:80/andreia/andreia1234/1280
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS FHD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="CANAIS PREMIUM 2",RECORD NEWS FHD
 http://xx2.servelive.net:80/andreia/andreia1234/13450
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="CANAIS PREMIUM 2",RECORD NEWS HD
 http://xx2.servelive.net:80/andreia/andreia1234/7949
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS SD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="CANAIS PREMIUM 2",RECORD NEWS SD
 http://xx2.servelive.net:80/andreia/andreia1234/7950
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS SD¹
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="CANAIS PREMIUM 2",RECORD NEWS SD¹
 http://xx2.servelive.net:80/andreia/andreia1234/1142
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="CANAIS PREMIUM 2",CARTOON NETWORK FHD
 http://xx2.servelive.net:80/andreia/andreia1234/13497
@@ -2413,9 +2412,9 @@ http://xx2.servelive.net:80/andreia/andreia1234/1008
 http://xx2.servelive.net:80/andreia/andreia1234/1181
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP SD" tvg-logo="https://i.imgur.com/RLvSCZo.png" group-title="CANAIS PREMIUM 2",MUSIC TOP SD
 http://xx2.servelive.net:80/andreia/andreia1234/2031
-#EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD" tvg-logo="https://i.imgur.com/yyHXYeP.png" group-title="NOTICIAS",NBR SD
+#EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD" tvg-logo="https://i.imgur.com/yyHXYeP.png" group-title="CANAIS PREMIUM 2",NBR SD
 http://xx2.servelive.net:80/andreia/andreia1234/7977
-#EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD¹" tvg-logo="https://i.imgur.com/yyHXYeP.png" group-title="NOTICIAS",NBR SD¹
+#EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD¹" tvg-logo="https://i.imgur.com/yyHXYeP.png" group-title="CANAIS PREMIUM 2",NBR SD¹
 http://xx2.servelive.net:80/andreia/andreia1234/1023
 #EXTINF:-1 tvg-id="Rededobem.br" tvg-name="REDE DO BEM SD" tvg-logo="https://i.imgur.com/ZnTB3R4.png" group-title="CANAIS PREMIUM 2",REDE DO BEM SD
 http://xx2.servelive.net:80/andreia/andreia1234/1136
@@ -2445,13 +2444,13 @@ http://xx2.servelive.net:80/andreia/andreia1234/1225
 http://xx2.servelive.net:80/andreia/andreia1234/7004
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="CANAIS PREMIUM 2",TV APARECIDA SD
 http://xx2.servelive.net:80/andreia/andreia1234/7900
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CAMARA SD*" tvg-logo="https://i.imgur.com/7JvzKkG.png" group-title="NOTICIAS",TV CAMARA SD*
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CAMARA SD*" tvg-logo="https://i.imgur.com/7JvzKkG.png" group-title="CANAIS PREMIUM 2",TV CAMARA SD*
 http://xx2.servelive.net:80/andreia/andreia1234/7898
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA SD*" tvg-logo="https://i.imgur.com/MJqsQ1q.jpg" group-title="CANAIS PREMIUM 2",TV ESCOLA SD*
 http://xx2.servelive.net:80/andreia/andreia1234/7897
-#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="http://clicktv.live/wp-content/uploads/2017/12/tv-justi%C3%A7a.png" group-title="NOTICIAS",TV JUSTICA SD
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="http://clicktv.live/wp-content/uploads/2017/12/tv-justi%C3%A7a.png" group-title="CANAIS PREMIUM 2",TV JUSTICA SD
 http://xx2.servelive.net:80/andreia/andreia1234/7901
-#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="NOTICIAS",TV SENADO SD
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="CANAIS PREMIUM 2",TV SENADO SD
 http://xx2.servelive.net:80/andreia/andreia1234/7902
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://i.imgur.com/iAyQhYi.png" group-title="CANAIS PREMIUM 2",REDE BRASIL SD
 http://xx2.servelive.net:80/andreia/andreia1234/7946
@@ -2497,7 +2496,7 @@ http://xx2.servelive.net:80/andreia/andreia1234/26606
 http://xx2.servelive.net:80/andreia/andreia1234/28982
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON TV" tvg-logo="https://2.bp.blogspot.com/-AKON-KF725U/WnDUe4LGoyI/AAAAAAAADOY/wIOgHYemXOAZlFiXnhvgC_k1nnSaAuB4ACLcBGAs/s1600/gospel-cartoon.jpg" group-title="CANAIS PREMIUM 2",GOSPEL CARTOON TV
 http://xx2.servelive.net:80/andreia/andreia1234/42048
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK JAPAN" tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2015/03/nhk_world.png" group-title="NOTICIAS",NHK JAPAN
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK JAPAN" tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2015/03/nhk_world.png" group-title="CANAIS PREMIUM 2",NHK JAPAN
 http://xx2.servelive.net:80/andreia/andreia1234/42364
 #EXTINF:-1 tvg-id="" tvg-name="TV DIÁRIO CE SD" tvg-logo="https://i.imgur.com/ldp3dOg.png" group-title="CANAIS PREMIUM 2",TV DIÁRIO CE SD
 http://xx2.servelive.net:80/andreia/andreia1234/42605
@@ -2593,15 +2592,15 @@ http://xx2.servelive.net:80/andreia/andreia1234/43487
 http://xx2.servelive.net:80/andreia/andreia1234/11181
 #EXTINF:-1 tvg-id="LiveLigaJustica" tvg-name="LIGA DA JUSTICA 24h" tvg-logo="https://i.imgur.com/wzSxC0d.png" group-title="CANAIS PREMIUM 2",LIGA DA JUSTICA 24h
 http://xx2.servelive.net:80/andreia/andreia1234/5552
-#EXTINF:-1 tvg-id="LiveFamilia" tvg-name="LIVE FAMILIA 24h" tvg-logo="https://i.imgur.com/VNURDxE.jpg" group-title="LIVE: ESPECIAIS",LIVE FAMILIA 24h
+#EXTINF:-1 tvg-id="LiveFamilia" tvg-name="LIVE FAMILIA 24h" tvg-logo="https://i.imgur.com/VNURDxE.jpg" group-title="CANAIS PREMIUM 2",LIVE FAMILIA 24h
 http://xx2.servelive.net:80/andreia/andreia1234/16456
-#EXTINF:-1 tvg-id="LiveKids" tvg-name="LIVE KIDS 24h" tvg-logo="https://i.imgur.com/mi1FkGE.jpg" group-title="LIVE: ESPECIAIS",LIVE KIDS 24h
+#EXTINF:-1 tvg-id="LiveKids" tvg-name="LIVE KIDS 24h" tvg-logo="https://i.imgur.com/mi1FkGE.jpg" group-title="CANAIS PREMIUM 2",LIVE KIDS 24h
 http://xx2.servelive.net:80/andreia/andreia1234/15426
-#EXTINF:-1 tvg-id="LiveReligiosos" tvg-name="LIVE RELIGIOSOS 24h" tvg-logo="https://i.imgur.com/myJty01.jpg" group-title="LIVE: ESPECIAIS",LIVE RELIGIOSOS 24h
+#EXTINF:-1 tvg-id="LiveReligiosos" tvg-name="LIVE RELIGIOSOS 24h" tvg-logo="https://i.imgur.com/myJty01.jpg" group-title="CANAIS PREMIUM 2",LIVE RELIGIOSOS 24h
 http://xx2.servelive.net:80/andreia/andreia1234/22887
-#EXTINF:-1 tvg-id="LiveRisos" tvg-name="LIVE RISOS 24h" tvg-logo="https://i.imgur.com/tJWoHFY.jpg" group-title="LIVE: ESPECIAIS",LIVE RISOS 24h
+#EXTINF:-1 tvg-id="LiveRisos" tvg-name="LIVE RISOS 24h" tvg-logo="https://i.imgur.com/tJWoHFY.jpg" group-title="CANAIS PREMIUM 2",LIVE RISOS 24h
 http://xx2.servelive.net:80/andreia/andreia1234/42315
-#EXTINF:-1 tvg-id="LiveTerror" tvg-name="LIVE TERROR 24h" tvg-logo="https://i.imgur.com/8888A1Q.jpg" group-title="LIVE: ESPECIAIS",LIVE TERROR 24h
+#EXTINF:-1 tvg-id="LiveTerror" tvg-name="LIVE TERROR 24h" tvg-logo="https://i.imgur.com/8888A1Q.jpg" group-title="CANAIS PREMIUM 2",LIVE TERROR 24h
 http://xx2.servelive.net:80/andreia/andreia1234/35809
 #EXTINF:-1 tvg-id="LiveLucifer" tvg-name="LUCIFER 24h" tvg-logo="https://i.imgur.com/hv3Wl7B.png" group-title="CANAIS PREMIUM 2",LUCIFER 24h
 http://xx2.servelive.net:80/andreia/andreia1234/7550
@@ -2718,7 +2717,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/211
 http://viptv2.dyndns.tv:2086/jair/jair/210
 #EXTINF:-1 tvg-id="I635.35205.tvguide.com" tvg-name="AXN HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/AXN/AXN.png" group-title="CANAIS PREMIUM 3",AXN HD
 http://viptv2.dyndns.tv:2086/jair/jair/209
-#EXTINF:-1 tvg-id="I620.42438.tvguide.com" tvg-name="BIS HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BIS/BIS.png" group-title="Musica",BIS HD
+#EXTINF:-1 tvg-id="I620.42438.tvguide.com" tvg-name="BIS HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/BIS/BIS.png" group-title="CANAIS PREMIUM 3",BIS HD
 http://viptv2.dyndns.tv:2086/jair/jair/202
 #EXTINF:-1 tvg-id="I111.36131.tvguide.com" tvg-name="Baby tv" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Baby%20TV/Baby%20TV.png" group-title="CANAIS PREMIUM 3",Baby tv
 http://viptv2.dyndns.tv:2086/jair/jair/208
@@ -2728,7 +2727,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/6837
 http://viptv2.dyndns.tv:2086/jair/jair/200
 #EXTINF:-1 tvg-id="I650.54441.tvguide.com" tvg-name="Canal Brasil HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Brasil/Canal%20Brasil.png" group-title="CANAIS PREMIUM 3",Canal Brasil HD
 http://viptv2.dyndns.tv:2086/jair/jair/198
-#EXTINF:-1 tvg-id="I79.10542.tvguide.com" tvg-name="Band  News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20News/Band%20News.png" group-title="Noticias",Band  News HD
+#EXTINF:-1 tvg-id="I79.10542.tvguide.com" tvg-name="Band  News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Band%20News/Band%20News.png" group-title="CANAIS PREMIUM 3",Band  News HD
 http://viptv2.dyndns.tv:2086/jair/jair/207
 #EXTINF:-1 tvg-id="I201.4893.tvguide.com" tvg-name="Bloomberg" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Bloomberg/Bloomberg.png" group-title="CANAIS PREMIUM 3",Bloomberg
 http://viptv2.dyndns.tv:2086/jair/jair/201
@@ -2744,7 +2743,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/194
 http://viptv2.dyndns.tv:2086/jair/jair/193
 #EXTINF:-1 tvg-id="I655.49239.tvguide.com" tvg-name="Cinemax HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Cinemax/Cinemax.png" group-title="CANAIS PREMIUM 3",Cinemax HD
 http://viptv2.dyndns.tv:2086/jair/jair/192
-#EXTINF:-1 tvg-id="I200.2181.tvguide.com" tvg-name="Cnn Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/CNN%20Internacional/CNN%20Internacional.png" group-title="Noticias",Cnn Internacional
+#EXTINF:-1 tvg-id="I200.2181.tvguide.com" tvg-name="Cnn Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/CNN%20Internacional/CNN%20Internacional.png" group-title="CANAIS PREMIUM 3",Cnn Internacional
 http://viptv2.dyndns.tv:2086/jair/jair/191
 #EXTINF:-1 tvg-id="I740.84165.tvguide.com" tvg-name="Combate 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Combate/Combate.png" group-title="CANAIS PREMIUM 3",Combate 4K
 http://viptv2.dyndns.tv:2086/jair/jair/190
@@ -2824,7 +2823,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/167
 http://viptv2.dyndns.tv:2086/jair/jair/171
 #EXTINF:-1 tvg-id="I106.35215.tvguide.com" tvg-name="Disney Junior" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Disney%20J%C3%BAnior/Disney%20Junior.png" group-title="CANAIS PREMIUM 3",Disney Junior
 http://viptv2.dyndns.tv:2086/jair/jair/170
-#EXTINF:-1 tvg-id="I206.3982.tvguide.com" tvg-name="DW" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/DW/DW.png" group-title="Noticias",DW
+#EXTINF:-1 tvg-id="I206.3982.tvguide.com" tvg-name="DW" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/DW/DW.png" group-title="CANAIS PREMIUM 3",DW
 http://viptv2.dyndns.tv:2086/jair/jair/168
 #EXTINF:-1 tvg-id="I573.35377.tvguide.com" tvg-name="Fox Sports 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Fox%20Sports/fox%20sports.png" group-title="CANAIS PREMIUM 3",Fox Sports 4K
 http://viptv2.dyndns.tv:2086/jair/jair/142
@@ -2850,7 +2849,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/133
 http://viptv2.dyndns.tv:2086/jair/jair/132
 #EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Minas/globo%20minas.png" group-title="CANAIS PREMIUM 3",Globo Minas HD
 http://viptv2.dyndns.tv:2086/jair/jair/131
-#EXTINF:-1 tvg-id="I540.38748.tvguide.com" tvg-name="Globo News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20News/globo%20news.png" group-title="Noticias",Globo News HD
+#EXTINF:-1 tvg-id="I540.38748.tvguide.com" tvg-name="Globo News HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20News/globo%20news.png" group-title="CANAIS PREMIUM 3",Globo News HD
 http://viptv2.dyndns.tv:2086/jair/jair/130
 #EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Globo%20Nordeste/globo%20nordeste.png" group-title="CANAIS PREMIUM 3",Globo Nordeste 4K
 http://viptv2.dyndns.tv:2086/jair/jair/129
@@ -2886,7 +2885,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/104
 http://viptv2.dyndns.tv:2086/jair/jair/114
 #EXTINF:-1 tvg-id="I676.44314.tvguide.com" tvg-name="Hbo Signature HD" tvg-logo="http://img.kkhosts.top/logos/icon2/hbosignaturehd.png" group-title="CANAIS PREMIUM 3",Hbo Signature HD
 http://viptv2.dyndns.tv:2086/jair/jair/113
-#EXTINF:-1 tvg-id="I621.35277.tvguide.com" tvg-name="MTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MTV/mtv.png" group-title="Musica",MTV HD
+#EXTINF:-1 tvg-id="I621.35277.tvguide.com" tvg-name="MTV HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MTV/mtv.png" group-title="CANAIS PREMIUM 3",MTV HD
 http://viptv2.dyndns.tv:2086/jair/jair/97
 #EXTINF:-1 tvg-id="I583.35261.tvguide.com" tvg-name="History 4K" tvg-logo="http://img.kkhosts.top/logos/icon2/historyhd.png" group-title="CANAIS PREMIUM 3",History 4K
 http://viptv2.dyndns.tv:2086/jair/jair/112
@@ -2908,7 +2907,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/105
 http://viptv2.dyndns.tv:2086/jair/jair/122
 #EXTINF:-1 tvg-id="NBR" tvg-name="NBR HD" tvg-logo="http://img.kkhosts.top/logos/icon2/nbr.png" group-title="CANAIS PREMIUM 3",NBR HD
 http://viptv2.dyndns.tv:2086/jair/jair/88
-#EXTINF:-1 tvg-id="I207.6229.tvguide.com" tvg-name="NHK HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/NHK/nhk.png" group-title="Noticias",NHK HD
+#EXTINF:-1 tvg-id="I207.6229.tvguide.com" tvg-name="NHK HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/NHK/nhk.png" group-title="CANAIS PREMIUM 3",NHK HD
 http://viptv2.dyndns.tv:2086/jair/jair/87
 #EXTINF:-1 tvg-id="I677.35226.tvguide.com" tvg-name="Max UP 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Max%20UP/max%20up.png" group-title="CANAIS PREMIUM 3",Max UP 4K
 http://viptv2.dyndns.tv:2086/jair/jair/102
@@ -2924,9 +2923,9 @@ http://viptv2.dyndns.tv:2086/jair/jair/90
 http://viptv2.dyndns.tv:2086/jair/jair/99
 #EXTINF:-1 tvg-id="I652.35275.tvguide.com" tvg-name="Mega Pix HD" tvg-logo="http://img.kkhosts.top/logos/icon2/megapixhd.png" group-title="CANAIS PREMIUM 3",Mega Pix HD
 http://viptv2.dyndns.tv:2086/jair/jair/98
-#EXTINF:-1 tvg-id="I542.35278.tvguide.com" tvg-name="Multi Show HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MultiShow/multishow.png" group-title="Musica",Multi Show HD
+#EXTINF:-1 tvg-id="I542.35278.tvguide.com" tvg-name="Multi Show HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/MultiShow/multishow.png" group-title="CANAIS PREMIUM 3",Multi Show HD
 http://viptv2.dyndns.tv:2086/jair/jair/96
-#EXTINF:-1 tvg-id="I123.42481.tvguide.com" tvg-name="Music Box Brasil" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Music%20Box%20Brasil/music%20box%20brasil.png" group-title="Musica",Music Box Brasil
+#EXTINF:-1 tvg-id="I123.42481.tvguide.com" tvg-name="Music Box Brasil" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Music%20Box%20Brasil/music%20box%20brasil.png" group-title="CANAIS PREMIUM 3",Music Box Brasil
 http://viptv2.dyndns.tv:2086/jair/jair/95
 #EXTINF:-1 tvg-id="I580.51170.tvguide.com" tvg-name="Nat Geo 4K" tvg-logo="https://static.cdn.responsys.net/i5/responsysimages/natgeo/contentlibrary/201702/ng_live_20170201_dc/20170201_NG_Live/NG_Logo_Black.png" group-title="CANAIS PREMIUM 3",Nat Geo 4K
 http://viptv2.dyndns.tv:2086/jair/jair/94
@@ -2978,7 +2977,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/70
 http://viptv2.dyndns.tv:2086/jair/jair/69
 #EXTINF:-1 tvg-id="" tvg-name="RCI" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RCI/rci.png" group-title="CANAIS PREMIUM 3",RCI
 http://viptv2.dyndns.tv:2086/jair/jair/68
-#EXTINF:-1 tvg-id="I509.36671.tvguide.com" tvg-name="Record News" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Record%20News/record%20news.jpg" group-title="Noticias",Record News
+#EXTINF:-1 tvg-id="I509.36671.tvguide.com" tvg-name="Record News" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Record%20News/record%20news.jpg" group-title="CANAIS PREMIUM 3",Record News
 http://viptv2.dyndns.tv:2086/jair/jair/67
 #EXTINF:-1 tvg-id="RECORD" tvg-name="Record Tv 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/RecordTV/recordtv.png" group-title="CANAIS PREMIUM 3",Record Tv 4K
 http://viptv2.dyndns.tv:2086/jair/jair/66
@@ -3004,7 +3003,7 @@ http://viptv2.dyndns.tv:2086/jair/jair/57
 http://viptv2.dyndns.tv:2086/jair/jair/56
 #EXTINF:-1 tvg-id="I29.10495.tvguide.com" tvg-name="Shoptime" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Shoptime/shoptime.png" group-title="CANAIS PREMIUM 3",Shoptime
 http://viptv2.dyndns.tv:2086/jair/jair/55
-#EXTINF:-1 tvg-id="I208.3422.tvguide.com" tvg-name="Sic Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sic%20Internacional/sic%20internacional.png" group-title="Noticias",Sic Internacional
+#EXTINF:-1 tvg-id="I208.3422.tvguide.com" tvg-name="Sic Internacional" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Sic%20Internacional/sic%20internacional.png" group-title="CANAIS PREMIUM 3",Sic Internacional
 http://viptv2.dyndns.tv:2086/jair/jair/54
 #EXTINF:-1 tvg-id="I633.35284.tvguide.com" tvg-name="Sony 4K" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Canal%20Sony/canal%20sony.jpg" group-title="CANAIS PREMIUM 3",Sony 4K
 http://viptv2.dyndns.tv:2086/jair/jair/53
@@ -3090,17 +3089,17 @@ http://viptv2.dyndns.tv:2086/jair/jair/15
 http://viptv2.dyndns.tv:2086/jair/jair/14
 #EXTINF:-1 tvg-id="I26.10476.tvguide.com" tvg-name="Tv Senado" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%20Senado/tv%20senado.png" group-title="CANAIS PREMIUM 3",Tv Senado
 http://viptv2.dyndns.tv:2086/jair/jair/13
-#EXTINF:-1 tvg-id="I205.5056.tvguide.com" tvg-name="TVE" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TVE/tve.png" group-title="Noticias",TVE
+#EXTINF:-1 tvg-id="I205.5056.tvguide.com" tvg-name="TVE" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TVE/tve.png" group-title="CANAIS PREMIUM 3",TVE
 http://viptv2.dyndns.tv:2086/jair/jair/12
-#EXTINF:-1 tvg-id="I204.35869.tvguide.com" tvg-name="TV 5" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%205/tv%205.png" group-title="Noticias",TV 5
+#EXTINF:-1 tvg-id="I204.35869.tvguide.com" tvg-name="TV 5" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/TV%205/tv%205.png" group-title="CANAIS PREMIUM 3",TV 5
 http://viptv2.dyndns.tv:2086/jair/jair/22
 #EXTINF:-1 tvg-id="I556.89283.tvguide.com" tvg-name="Curta" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Curta/Canal%20Curta.png" group-title="CANAIS PREMIUM 3",Curta
 http://viptv2.dyndns.tv:2086/jair/jair/185
 #EXTINF:-1 tvg-id="I284.15418.tvguide.com" tvg-name="Venus" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/Venus/venus.png" group-title="Adultos",Venus
 http://viptv2.dyndns.tv:2086/jair/jair/9
-#EXTINF:-1 tvg-id="I625.35293.tvguide.com" tvg-name="VH1 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1/vh1.png" group-title="Musica",VH1 HD
+#EXTINF:-1 tvg-id="I625.35293.tvguide.com" tvg-name="VH1 HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1/vh1.png" group-title="CANAIS PREMIUM 3",VH1 HD
 http://viptv2.dyndns.tv:2086/jair/jair/8
-#EXTINF:-1 tvg-id="I126.36802.tvguide.com" tvg-name="VH1 Mega hits" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1%20Mega%20Hits/vh1%20mega%20hits.png" group-title="Musica",VH1 Mega hits
+#EXTINF:-1 tvg-id="I126.36802.tvguide.com" tvg-name="VH1 Mega hits" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VH1%20Mega%20Hits/vh1%20mega%20hits.png" group-title="CANAIS PREMIUM 3",VH1 Mega hits
 http://viptv2.dyndns.tv:2086/jair/jair/7
 #EXTINF:-1 tvg-id="I43.35266.tvguide.com" tvg-name="Viva HD" tvg-logo="https://shaftless-knocks.000webhostapp.com/Channels%20-%20EPG+Image/VIVA/viva.png" group-title="CANAIS PREMIUM 3",Viva HD
 http://viptv2.dyndns.tv:2086/jair/jair/6
@@ -5237,845 +5236,3 @@ http://purpleserver.net:80/4NXsryE6fZ/2863954338/571
 http://purpleserver.net:80/4NXsryE6fZ/2863954338/570
 #EXTINF:-1 tvg-logo="" group-title="Canais Premium 6",WooHoo SD
 http://purpleserver.net:80/4NXsryE6fZ/2863954338/569
-
-
-#EXTM3U
-
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", A&E SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58732
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", A&E SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59497
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", AGRO CANAL SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/32904
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", AMC SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58730
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", AMC SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59495
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ANIMAL  PLANET FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58729
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ANIMAL PLANET SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58727
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ANIMAL PLANET SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59493
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ARTE 1 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58725
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ARTE1 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59491
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", AUTO MOTO TV SD
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", AXN SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58723
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", AXN SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59489
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BABY TV SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58722
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BABY TV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59487
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND CAMPINAS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59485
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND NEWS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58721
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND NEWS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58719
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND NEWS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59483
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SP FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58718
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SP SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58716
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SP SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59481
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SPORTS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58714
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BAND SPORTS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59479
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58713
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57009
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57008
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 1 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58711
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 FHD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57003
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58710
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57007
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57006
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58708
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 1 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57053
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 2 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57052
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 3 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57051
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 4 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57050
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 5 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57049
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 6 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57048
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 7 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57047
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 8 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57046
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CAM 9 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57045
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB CASA 10 HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57044
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO FHD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57002
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58687
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57005
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/57004
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BBB MOISAICO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58685
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BIS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58684
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BIS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58682
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BIS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59477
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BOOMERANG  FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58680
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BOOMERANG SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58678
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", BOOMERANG SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59475
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL BRASIL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58676
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL BRASIL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59474
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", Canal Rural SD
-http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL RURAL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59473
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL SONY SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58674
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANAL SONY SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59471
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANCAO NOVA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58673
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CANÇÃO NOVA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59470
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CARTOON NETWORK SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58671
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CARTOON NETWORK SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59468
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CATARINENSE 1 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58669
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CATARINENSE 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58667
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CATARINENSE 3 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58665
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CBN SP SD
-https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CBTV INTERNATIONAL HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/59467
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CINEMAX SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58663
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CINEMAX SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59463
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CNN ESPANHOL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59461
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CNT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59460
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMBATE FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58662
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMBATE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58660
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMBATE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59458
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMEDY CENTRAL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58658
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COMEDY CENTRAL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59455
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COPA NORDESTE 1 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58656
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COPA NORDESTE 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58654
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", COPA NORDESTE 3 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58652
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CURTA! SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58650
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", CURTA! SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59453
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CHANNEL FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58649
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CHANNEL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58647
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CHANNEL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59451
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CIVILIZATION SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58645
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY CIVILIZATION SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59449
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY H&H SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58643
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY H&H SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59447
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY HOME & HEALTH FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58642
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY KIDS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58641
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY KIDS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58639
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY KIDS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59445
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY SCIENCE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58637
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY SCIENCE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59443
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY THEATER SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58635
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY THEATER SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59441
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY TURBO FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58634
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY TURBO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58632
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY TURBO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59439
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY WORLD FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58630
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY WORLD SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58629
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISCOVERY WORLD SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59437
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY CHANNEL FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58628
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY CHANNEL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58626
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY CHANNEL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59435
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY JUNIOR SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58624
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY JUNIOR SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59433
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY XD SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58623
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", DISNEY XD SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59431
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", E! SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58621
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", E! SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59429
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58619
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN 2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59426
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN BRASIL FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58618
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN BRASIL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58616
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN BRASIL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59424
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN EXTRA FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58615
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN EXTRA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58613
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN EXTRA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59422
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58612
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58610
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ESPN SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59421
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FILM & ARTS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58609
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FISH TV SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58607
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FISH TV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59417
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOOD NETWORK SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58605
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOOD NETWORK SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59415
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58604
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX LIFE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58601
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX LIFE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59412
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 1 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58599
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 1 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59410
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 2 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58598
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58596
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX PREMIUM 2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59408
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58595
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59407
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS 2 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58594
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58592
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS 2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59404
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58591
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58589
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FOX SPORTS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59401
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FUTURA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58587
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FUTURA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59399
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FX SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58585
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", FX SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59397
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO AMAZONAS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59396
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO ANHANGUERA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59395
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO BAHIA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59394
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO BRASILIA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58582
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO CAMPINAS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58581
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO EPTV CAMPINAS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59391
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO EPTV RIB. PRETO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59390
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO EPTV SAO CARLOS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59389
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO GOIANIA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58579
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO MG SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59387
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO MINAS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58578
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO MINAS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58576
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NEWS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58575
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NEWS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58573
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NEWS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59385
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NORDESTE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58571
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NORDESTE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59383
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO NSC FLORIANOPOLIS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58570
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RBS TV PORTO ALEGRE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58567
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RIBEIRAO PRETO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58565
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RJ FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58564
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RJ SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58562
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RJ SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59381
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RN SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59380
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RPC CURITIBA FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58561
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO RPC CURITIBA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58559
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO SP FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58558
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO SP SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58556
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO SP SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59378
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV BAHIA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58554
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV BELEM SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59377
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM BAURU SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58553
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM S.J.RIO PRETO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58551
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM SOROCABA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58550
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TEM SOROCABA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59375
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV TRIBUNA SANTOS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59374
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV V.M FORTALEZA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59373
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOBO TV V.S.J. CAMPOS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59372
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOB FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58549
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOB SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58547
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOB SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59368
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOBINHO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58545
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GLOOBINHO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59367
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GNT SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58543
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GNT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59365
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GOSPEL CARTOON TV
-http://lista.g5iptv.space:8080/joseph1/joseph1/28387
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", GOSPEL CARTOON TV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59364
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", H2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58541
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", H2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59360
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO 2 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58540
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58538
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO 2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59358
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO FAMILY SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58536
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO FAMILY SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59356
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58535
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO PLUS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58532
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO PLUS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59353
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58531
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59350
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SIGNATURE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58529
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HBO SIGNATURE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59348
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HISTORY CHANNEL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59346
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HISTORY FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58528
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HISTORY SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58526
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HIT TV  SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59345
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", HORSE BRASIL HD
-http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", I-SAT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59344
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", INVESTIGAÇÃO DISCOVERY SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59342
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", INVESTIGATION DISCOVERY SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58524
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", JOVEM PAN  3 SD
-https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/playlist.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", JOVEM PAN 2 SD
-https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", JOVEM PAN SD
-https://evpp.mm.uol.com.br/jovempan/jp-jornaldamanha.sdp/playlist.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", LIFETIME SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58522
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", LIFETIME SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59340
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAIS GLOBOSAT SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58520
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAIS GLOBOSAT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59370
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX PRIME SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58517
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX PRIME SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59337
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX PRIME*E SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59335
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58516
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59334
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX UP SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58514
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MAX UP SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59332
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MEGAPIX SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58512
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MEGAPIX SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59330
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MTV LIVE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58509
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MTV SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58508
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MTV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59328
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MULTISHOW SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58506
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MULTISHOW SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59326
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MUNDO AUTO SD
-https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MUSIC BOX BRASIL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58504
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", MUSIC BOX BRAZIL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59325
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NAT GEO KIDS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58501
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NAT GEO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58500
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NAT GEO WILD FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58499
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATGEO KIDS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59323
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATGEO WILD SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58497
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATGEO WILD SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59321
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NATIONAL GEOGRAPHIC SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59319
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NBR SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58496
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NBR SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59318
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICK JR FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58495
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICK JR SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58493
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICK JR SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59316
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICKELODEN SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58492
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICKELODEON FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58491
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NICKELODEON SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59314
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", NOVO TEMPO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59313
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", OFF SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58488
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", OFF SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59311
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PARAMOUNT CHANNEL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58486
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PARAMOUNT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59309
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PLANETA HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/49755
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PLAYKIDS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58484
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", POLISHOP TV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59307
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 1 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59306
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 2 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58483
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58481
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59304
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 3 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58480
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 3 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58478
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 3 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59302
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 4 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58477
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 4 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58475
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 4 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59300
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 5 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58474
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 5 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58472
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 5 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59298
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 6 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58471
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 6 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58469
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 6 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59297
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 7 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58468
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 7 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58466
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 7 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59296
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 8 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59295
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE 9 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59294
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE CLUBES FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58465
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE CLUBES SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58463
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE CLUBES SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59292
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PREMIERE TABELA JOGOS (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58414
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", PRIME BOX BRASIL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58461
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", Rádio: KBOING FM
-http://52.206.124.3:1935/kboing-fm/kbostream/chunklist_w979262028.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RBI TV SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/50628
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", Real Madrid Tv Online
-http://lista.g5iptv.space:8080/joseph1/joseph1/23782
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD AMAZONAS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59291
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD CAMPINAS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59289
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD ES SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59288
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD NEWS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58458
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD NEWS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59286
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD SP SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58457
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORD SP SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59283
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV BA FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58456
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV BA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58454
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV DF FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58453
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV DF SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58451
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV MG FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58450
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV MG SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58448
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RIO FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58447
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RIO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58445
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RS FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58444
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV RS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58442
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV SP FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58441
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RECORDTV SP SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58439
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE BRASIL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58438
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", Rede Gênesis
-http://lista.g5iptv.space:8080/joseph1/joseph1/6012
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE GOSPEL SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/45130
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE GRAVA SD
-http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE METRÓPOLE DE COMUNICAÇÃO SD
-http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE SECULO 21
-http://lista.g5iptv.space:8080/joseph1/joseph1/6004
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE SUPER SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/45127
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE TV RJ
-http://lista.g5iptv.space:8080/joseph1/joseph1/4908
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE TV SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58436
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE TV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59281
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE VIDA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58434
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", REDE VIDA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59279
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", RIT TV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59278
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58433
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58431
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59275
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SBT SP INTERIOR SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58430
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SESC TV SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/49756
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SOBRENATURAL TV SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/42252
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPACE SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58428
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPACE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59271
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 2 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58427
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 2 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58425
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 2 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59269
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 3 FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58424
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 3 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58422
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV 3 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59267
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58421
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58419
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SPORTV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59265
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", STUDIO UNIVERSAL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58417
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", STUDIO UNIVERSAL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59263
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SYFY SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58415
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", SYFY SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59261
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TBS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58412
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TBS SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59259
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TCM SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58411
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TCM SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59257
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE ACTION FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58409
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE ACTION SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58410
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE ACTION SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59255
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE CULT SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58406
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE CULT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59253
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE FUN FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58405
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE FUN SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58403
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE FUN SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59251
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PIPOCA FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58402
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PIPOCA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58400
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PIPOCA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59249
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PREMIUM FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58399
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PREMIUM SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58397
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE PREMIUM SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59247
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE TOUCH FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58396
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE TOUCH SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58394
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TELECINE TOUCH SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59245
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TERRA VIVA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58393
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TERRA VIVA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59244
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TLC SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58391
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TLC SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59242
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58389
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59240
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SERIES SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58387
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TNT SERIES SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59238
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TOONCAST SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58386
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TOONCAST SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59236
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TRANSMAERICA POP FM
-http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TRUTV SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58384
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TRUTV SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59235
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV APARECIDA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58383
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV APARECIDA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59233
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV BOA VONTADE SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59232
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV BRASIL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58382
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV CAMARA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58381
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV CULTURA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58379
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV CULTURA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59230
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV DIARIO FORTALEZA SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/60076
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV ESCOLA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58378
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV ESCOLA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59229
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV EVANGELIZAR
-http://lista.g5iptv.space:8080/joseph1/joseph1/23786
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV GAZETA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59228
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV GIDEÕES HD
-http://lista.g5iptv.space:8080/joseph1/joseph1/50625
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV GIDEÕES SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/39535
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV JUSTICA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58376
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV JUSTIÇA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59227
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV MUNDO CATÓLICO SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/50626
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV MUNDO MAIOR SD
-https://youtu.be/ZzuAB1jsI40
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV RA TIM BUM SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58374
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV RA TIM BUM SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59226
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV RIO PRETO SD
-http://186.227.165.118:1935/insatv/livestream/playlist.m3u8?wowzasessionid=918902642
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV SENADO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58373
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", TV SHOPTIME SD
-http://lista.g5iptv.space:8080/joseph1/joseph1/50627
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", UNIVERSAL CHANNEL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58371
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", UNIVERSAL CHANNEL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59224
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", VH1 MEGA HITS SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58369
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", VH1 SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58368
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", VH1 SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59222
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", VIVA FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58367
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", VIVA SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58365
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", VIVA SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59220
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", WARNER CHANNEL SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58363
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", WARNER CHANNEL SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59218
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", WARNER FHD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58362
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", WEB TV LEÃO DE JUDÁ
-http://lista.g5iptv.space:8080/joseph1/joseph1/32552
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", WOOHOO SD (BR1)
-http://lista.g5iptv.space:8080/joseph1/joseph1/58360
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", WOOHOO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59216
-#EXTINF:-1, group-title="CANAIS PREMIUM 7", ZOOMOO SD (BR2)
-http://lista.g5iptv.space:8080/joseph1/joseph1/59214
