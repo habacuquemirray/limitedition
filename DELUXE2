@@ -2702,6 +2702,568 @@ http://xx2.servelive.net:80/andreia/andreia1234/44723
 #EXTINF:-1 tvg-id="LiveYuGiOh" tvg-name="YU GI OH 24h" tvg-logo="https://i.imgur.com/3VcOc9w.png" group-title="CANAIS PREMIUM 2",YU GI OH 24h
 http://xx2.servelive.net:80/andreia/andreia1234/28984
 
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD MT =
+http://iptv-line.com:6969/live:73de61d2c5e3cf97/ZIbuegoDSchange/5308
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE BRASIL =
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede TV =
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE TV SP =
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT - CENTRO OESTE MT =
+http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT - MA | IMPERATRIZ =
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT - PE | CARUARÚ =
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT GO HD =
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT GO SD =
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT MA =
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT PE HD =
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT PE SD =
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TERRA VIVA =
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV ACRITICA - RECORD AM =
+https://slbps-sambatech.akamaized.net/live/3256,7930,679f501d2054fc8514ea1fc28fe5f167;base64np;S52I5Up2XHDMC-c!/amlst:S51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CULTURA MG =
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CULTURA PA =
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV DIARIO =
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV UP HD =
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TVE BRASIL =
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB-19**
+http://fonte.iptvmaishd.com:25461/720/720/137031
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BBB-19*
+http://fonte.iptvmaishd.com:25461/720/720/137032
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:GLOBO BAHIA SD.
+http://fonte.iptvmaishd.com:25461/720/720/141878
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo Brasilia SD.
+http://fonte.iptvmaishd.com:25461/720/720/141879
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo EPTV Campinas SD.
+http://fonte.iptvmaishd.com:25461/720/720/141877
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo EPTV Ribeirao Preto SD.
+http://fonte.iptvmaishd.com:25461/720/720/141871
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo Goiania sd.
+http://fonte.iptvmaishd.com:25461/720/720/141870
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo MG HD.
+http://fonte.iptvmaishd.com:25461/720/720/141886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo MG SD.
+http://fonte.iptvmaishd.com:25461/720/720/141887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo News HD.
+http://fonte.iptvmaishd.com:25461/720/720/141884
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo News SD.
+http://fonte.iptvmaishd.com:25461/720/720/141885
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo Nordeste HD.
+http://fonte.iptvmaishd.com:25461/720/720/141881
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo Nordeste SD.
+http://fonte.iptvmaishd.com:25461/720/720/141882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo Paraná HD.
+http://fonte.iptvmaishd.com:25461/720/720/141876
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo RJ HD.
+http://fonte.iptvmaishd.com:25461/720/720/141889
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo RJ SD.
+http://fonte.iptvmaishd.com:25461/720/720/141890
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:GLOBO RPC SD.
+http://fonte.iptvmaishd.com:25461/720/720/141888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:GLOBO SAO JOSE DO RIO PRETO SD.
+http://fonte.iptvmaishd.com:25461/720/720/141869
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo SP HD.
+http://fonte.iptvmaishd.com:25461/720/720/141892
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo SP SD.
+http://fonte.iptvmaishd.com:25461/720/720/141893
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo TV Liberal SD.
+http://fonte.iptvmaishd.com:25461/720/720/141875
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globo Tv Tribuna Santos SD.
+http://fonte.iptvmaishd.com:25461/720/720/141874
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globosat HD.
+http://fonte.iptvmaishd.com:25461/720/720/141872
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Globosat SD.
+http://fonte.iptvmaishd.com:25461/720/720/141873
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: A&E SD
+http://fonte.iptvmaishd.com:25461/720/720/141994
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: TLC HD.
+http://fonte.iptvmaishd.com:25461/720/720/141742
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:A&E HD
+http://fonte.iptvmaishd.com:25461/720/720/141993
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:AMC HD
+http://fonte.iptvmaishd.com:25461/720/720/141987
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:AMC SD
+http://fonte.iptvmaishd.com:25461/720/720/141988
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Animal Planet HD.
+http://fonte.iptvmaishd.com:25461/720/720/141990
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Animal Planet SD
+http://fonte.iptvmaishd.com:25461/720/720/141991
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Arte SD
+http://fonte.iptvmaishd.com:25461/720/720/141982
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Arte1 HD
+http://fonte.iptvmaishd.com:25461/720/720/141981
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:AXN HD
+http://fonte.iptvmaishd.com:25461/720/720/141984
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:AXN SD
+http://fonte.iptvmaishd.com:25461/720/720/141985
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Baby TV HD
+http://fonte.iptvmaishd.com:25461/720/720/141978
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Baby TV SD
+http://fonte.iptvmaishd.com:25461/720/720/141979
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Band News HD
+http://fonte.iptvmaishd.com:25461/720/720/141968
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Band News SD
+http://fonte.iptvmaishd.com:25461/720/720/141969
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Band SP HD
+http://fonte.iptvmaishd.com:25461/720/720/141972
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:BAND SP SD
+http://fonte.iptvmaishd.com:25461/720/720/141973
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:BAND SPORTS HD
+http://fonte.iptvmaishd.com:25461/720/720/141966
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Band Sports SD
+http://fonte.iptvmaishd.com:25461/720/720/141967
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:BIS HD
+http://fonte.iptvmaishd.com:25461/720/720/141977
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:BIS SD
+http://fonte.iptvmaishd.com:25461/720/720/141980
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Boomerang HD.
+http://fonte.iptvmaishd.com:25461/720/720/141963
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Boomerang SD
+http://fonte.iptvmaishd.com:25461/720/720/141964
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Canal Sony HD.
+http://fonte.iptvmaishd.com:25461/720/720/141961
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Canal Sony SD.
+http://fonte.iptvmaishd.com:25461/720/720/141962
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Cartoon Network HD.
+http://fonte.iptvmaishd.com:25461/720/720/141956
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Cartoon Network SD.
+http://fonte.iptvmaishd.com:25461/720/720/141957
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Cinemax HD.
+http://fonte.iptvmaishd.com:25461/720/720/141958
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Cinemax SD.
+http://fonte.iptvmaishd.com:25461/720/720/141959
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Combate HD.
+http://fonte.iptvmaishd.com:25461/720/720/141953
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Combate SD.
+http://fonte.iptvmaishd.com:25461/720/720/141954
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Comedy Central HD.
+http://fonte.iptvmaishd.com:25461/720/720/141950
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Comedy Central SD.
+http://fonte.iptvmaishd.com:25461/720/720/141951
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Channel HD.
+http://fonte.iptvmaishd.com:25461/720/720/141947
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Channel SD.
+http://fonte.iptvmaishd.com:25461/720/720/141948
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Civilization HD.
+http://fonte.iptvmaishd.com:25461/720/720/141944
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Civilization SD.
+http://fonte.iptvmaishd.com:25461/720/720/141945
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery H&H HD.
+http://fonte.iptvmaishd.com:25461/720/720/141942
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery H&H SD.
+http://fonte.iptvmaishd.com:25461/720/720/141943
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:DISCOVERY KIDS HD.
+http://fonte.iptvmaishd.com:25461/720/720/141940
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Kids SD.
+http://fonte.iptvmaishd.com:25461/720/720/141941
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:DISCOVERY SCIENCE HD.
+http://fonte.iptvmaishd.com:25461/720/720/141939
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Science SD.
+http://fonte.iptvmaishd.com:25461/720/720/141938
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Theater HD.
+http://fonte.iptvmaishd.com:25461/720/720/141937
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Turbo HD.
+http://fonte.iptvmaishd.com:25461/720/720/141933
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery Turbo SD.
+http://fonte.iptvmaishd.com:25461/720/720/141934
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery World HD.
+http://fonte.iptvmaishd.com:25461/720/720/141935
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Discovery World SD.
+http://fonte.iptvmaishd.com:25461/720/720/141936
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Disney Channel HD.
+http://fonte.iptvmaishd.com:25461/720/720/141926
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Disney Channel SD.
+http://fonte.iptvmaishd.com:25461/720/720/141927
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Disney Junior HD.
+http://fonte.iptvmaishd.com:25461/720/720/141924
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Disney Junior SD.
+http://fonte.iptvmaishd.com:25461/720/720/141925
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Disney XD HD.
+http://fonte.iptvmaishd.com:25461/720/720/141922
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:E! HD.
+http://fonte.iptvmaishd.com:25461/720/720/141920
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:E! SD.
+http://fonte.iptvmaishd.com:25461/720/720/141921
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:ESPN + HD.
+http://fonte.iptvmaishd.com:25461/720/720/141918
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:ESPN 2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141913
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:ESPN Brasil HD.
+http://fonte.iptvmaishd.com:25461/720/720/141915
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:ESPN Brasil SD.
+http://fonte.iptvmaishd.com:25461/720/720/141916
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:ESPN SD.
+http://fonte.iptvmaishd.com:25461/720/720/141919
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Food Network SD.
+http://fonte.iptvmaishd.com:25461/720/720/141910
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:FOX HD.
+http://fonte.iptvmaishd.com:25461/720/720/141907
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:FOX LIFE HD.
+http://fonte.iptvmaishd.com:25461/720/720/141904
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:FOX LIFE SD*
+http://fonte.iptvmaishd.com:25461/720/720/141905
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Fox Premium 1 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141903
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Fox Premium 2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141901
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:FOX SD.
+http://fonte.iptvmaishd.com:25461/720/720/141908
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Fox Sports 2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141895
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Fox Sports 2 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141896
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Fox Sports HD.
+http://fonte.iptvmaishd.com:25461/720/720/141898
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Fox Sports SD.
+http://fonte.iptvmaishd.com:25461/720/720/141899
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:FX HD.
+http://fonte.iptvmaishd.com:25461/720/720/141866
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:FX SD.
+http://fonte.iptvmaishd.com:25461/720/720/141867
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Gloob HD.
+http://fonte.iptvmaishd.com:25461/720/720/141864
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Gloob SD.
+http://fonte.iptvmaishd.com:25461/720/720/141865
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:GNT HD.
+http://fonte.iptvmaishd.com:25461/720/720/141861
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:GNT SD.
+http://fonte.iptvmaishd.com:25461/720/720/141862
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:H2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141859
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:H2 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141860
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO 2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141854
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO 2 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141855
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Family HD.
+http://fonte.iptvmaishd.com:25461/720/720/141852
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Family SD.
+http://fonte.iptvmaishd.com:25461/720/720/141853
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO HD.
+http://fonte.iptvmaishd.com:25461/720/720/141856
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Plus HD.
+http://fonte.iptvmaishd.com:25461/720/720/141848
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Plus SD.
+http://fonte.iptvmaishd.com:25461/720/720/141849
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Plus*e HD.
+http://fonte.iptvmaishd.com:25461/720/720/141850
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Plus*e SD.
+http://fonte.iptvmaishd.com:25461/720/720/141851
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO SD.
+http://fonte.iptvmaishd.com:25461/720/720/141857
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Signature HD.
+http://fonte.iptvmaishd.com:25461/720/720/141846
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:HBO Signature SD.
+http://fonte.iptvmaishd.com:25461/720/720/141847
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:History Channel HD.
+http://fonte.iptvmaishd.com:25461/720/720/141843
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:History Channel SD.
+http://fonte.iptvmaishd.com:25461/720/720/141844
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Investigação Discovery HD.
+http://fonte.iptvmaishd.com:25461/720/720/141930
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Investigação Discovery SD.
+http://fonte.iptvmaishd.com:25461/720/720/141931
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Lifetime HD.
+http://fonte.iptvmaishd.com:25461/720/720/141840
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Lifetime SD.
+http://fonte.iptvmaishd.com:25461/720/720/141841
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Max HD.
+http://fonte.iptvmaishd.com:25461/720/720/141838
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Max Prime HD.
+http://fonte.iptvmaishd.com:25461/720/720/141836
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Max Prime SD.
+http://fonte.iptvmaishd.com:25461/720/720/141837
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Max Prime*e SD.
+http://fonte.iptvmaishd.com:25461/720/720/141835
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Max SD.
+http://fonte.iptvmaishd.com:25461/720/720/141839
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Max Up SD.
+http://fonte.iptvmaishd.com:25461/720/720/141831
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:MEGA PIX HD.
+http://fonte.iptvmaishd.com:25461/720/720/141833
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:MEGA PIX SD.
+http://fonte.iptvmaishd.com:25461/720/720/141834
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:MTV HD.
+http://fonte.iptvmaishd.com:25461/720/720/141828
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:MTV SD.
+http://fonte.iptvmaishd.com:25461/720/720/141829
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Multishow HD.
+http://fonte.iptvmaishd.com:25461/720/720/141825
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Multishow SD.
+http://fonte.iptvmaishd.com:25461/720/720/141826
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:NatGeo Kids HD.
+http://fonte.iptvmaishd.com:25461/720/720/141928
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:NatGeo Kids SD.
+http://fonte.iptvmaishd.com:25461/720/720/141929
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:NatGeo Wild HD.
+http://fonte.iptvmaishd.com:25461/720/720/141823
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:NatGeo Wild SD.
+http://fonte.iptvmaishd.com:25461/720/720/141824
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:National Geographic HD.
+http://fonte.iptvmaishd.com:25461/720/720/141821
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:National Geographic SD.
+http://fonte.iptvmaishd.com:25461/720/720/141822
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Nick Jr HD.
+http://fonte.iptvmaishd.com:25461/720/720/141819
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Nick Jr SD.
+http://fonte.iptvmaishd.com:25461/720/720/141820
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Nickelodeon HD.
+http://fonte.iptvmaishd.com:25461/720/720/141817
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Nickelodeon SD.
+http://fonte.iptvmaishd.com:25461/720/720/141818
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:OFF HD.
+http://fonte.iptvmaishd.com:25461/720/720/141815
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:OFF SD.
+http://fonte.iptvmaishd.com:25461/720/720/141816
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Paramount HD.
+http://fonte.iptvmaishd.com:25461/720/720/141795
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Paramount SD.
+http://fonte.iptvmaishd.com:25461/720/720/141796
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Food Network HD.
+http://fonte.iptvmaishd.com:25461/720/720/141909
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Max Up HD.
+http://fonte.iptvmaishd.com:25461/720/720/141830
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Telecine Premium HD.
+http://fonte.iptvmaishd.com:25461/720/720/141750
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141810
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 2 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141811
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 3 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141808
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 3 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141809
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:PREMIERE 4 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141806
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 5 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141803
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 5 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141804
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 6 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141800
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 6 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141801
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 7 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141797
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere 7 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141798
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere Clubes HD.
+http://fonte.iptvmaishd.com:25461/720/720/141813
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Premiere CLUBES SD.
+http://fonte.iptvmaishd.com:25461/720/720/141814
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Prime box brasil sd.
+http://fonte.iptvmaishd.com:25461/720/720/141717
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Record Campinas HD
+http://fonte.iptvmaishd.com:25461/720/720/141791
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Record News HD.
+http://fonte.iptvmaishd.com:25461/720/720/141789
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Record News SD.
+http://fonte.iptvmaishd.com:25461/720/720/141790
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Record SP HD.
+http://fonte.iptvmaishd.com:25461/720/720/141792
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Record SP SD.
+http://fonte.iptvmaishd.com:25461/720/720/141793
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Rede TV HD.
+http://fonte.iptvmaishd.com:25461/720/720/141788
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SBT HD.
+http://fonte.iptvmaishd.com:25461/720/720/141774
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SBT Nordeste HD.
+http://fonte.iptvmaishd.com:25461/720/720/141772
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SBT SD.
+http://fonte.iptvmaishd.com:25461/720/720/141775
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Space HD.
+http://fonte.iptvmaishd.com:25461/720/720/141777
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Space SD.
+http://fonte.iptvmaishd.com:25461/720/720/141778
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SporTV 2 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141783
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SporTV 2 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141784
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SPORTV 3 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141780
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SporTV 3 SD.
+http://fonte.iptvmaishd.com:25461/720/720/141781
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SPORTV HD.
+http://fonte.iptvmaishd.com:25461/720/720/141786
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SporTV SD.
+http://fonte.iptvmaishd.com:25461/720/720/141787
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Studio Universal HD.
+http://fonte.iptvmaishd.com:25461/720/720/141768
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Studio Universal SD.
+http://fonte.iptvmaishd.com:25461/720/720/141769
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SyFy HD.
+http://fonte.iptvmaishd.com:25461/720/720/141766
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:SyFy SD.
+http://fonte.iptvmaishd.com:25461/720/720/141767
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TBS HD.
+http://fonte.iptvmaishd.com:25461/720/720/141764
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TBS SD.
+http://fonte.iptvmaishd.com:25461/720/720/141765
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TCM HD.
+http://fonte.iptvmaishd.com:25461/720/720/141744
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TCM SD.
+http://fonte.iptvmaishd.com:25461/720/720/141745
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Action HD.
+http://fonte.iptvmaishd.com:25461/720/720/141762
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Action SD.
+http://fonte.iptvmaishd.com:25461/720/720/141763
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Cult HD.
+http://fonte.iptvmaishd.com:25461/720/720/141759
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Cult SD.
+http://fonte.iptvmaishd.com:25461/720/720/141760
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:telecine Fun HD.
+http://fonte.iptvmaishd.com:25461/720/720/141756
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Fun SD.
+http://fonte.iptvmaishd.com:25461/720/720/141757
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Pipoca HD.
+http://fonte.iptvmaishd.com:25461/720/720/141753
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Pipoca SD.
+http://fonte.iptvmaishd.com:25461/720/720/141754
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Premium SD.
+http://fonte.iptvmaishd.com:25461/720/720/141751
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Touch hd.
+http://fonte.iptvmaishd.com:25461/720/720/141747
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Telecine Touch sd.
+http://fonte.iptvmaishd.com:25461/720/720/141748
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TLC SD.
+http://fonte.iptvmaishd.com:25461/720/720/141743
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TNT HD.
+http://fonte.iptvmaishd.com:25461/720/720/141740
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TNT SD.
+http://fonte.iptvmaishd.com:25461/720/720/141741
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TNT Séries HD.
+http://fonte.iptvmaishd.com:25461/720/720/141737
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TNT Séries SD.
+http://fonte.iptvmaishd.com:25461/720/720/141738
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Tooncast HD.
+http://fonte.iptvmaishd.com:25461/720/720/141734
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Tooncast SD.
+http://fonte.iptvmaishd.com:25461/720/720/141735
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TV Aparecida HD.
+http://fonte.iptvmaishd.com:25461/720/720/141732
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TV Cultura HD.
+http://fonte.iptvmaishd.com:25461/720/720/141730
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:TV Cultura SD.
+http://fonte.iptvmaishd.com:25461/720/720/141731
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Universal Channel HD.
+http://fonte.iptvmaishd.com:25461/720/720/141728
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Universal Channel SD.
+http://fonte.iptvmaishd.com:25461/720/720/141729
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:VH1  megahits SD.
+http://fonte.iptvmaishd.com:25461/720/720/141726
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:VH1 HD.
+http://fonte.iptvmaishd.com:25461/720/720/141725
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:VIVA HD.
+http://fonte.iptvmaishd.com:25461/720/720/141723
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:VIVA SD.
+http://fonte.iptvmaishd.com:25461/720/720/141724
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Warner Channel HD.
+http://fonte.iptvmaishd.com:25461/720/720/141720
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Warner Channel SD.
+http://fonte.iptvmaishd.com:25461/720/720/141721
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR:Woohoo SD.
+http://fonte.iptvmaishd.com:25461/720/720/141718
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: A&E FHD
+http://fonte.iptvmaishd.com:25461/720/720/153748
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: AMC FHD
+http://fonte.iptvmaishd.com:25461/720/720/153727
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Anderson Freire
+http://fonte.iptvmaishd.com:25461/720/720/153763
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: AXN FHD
+http://fonte.iptvmaishd.com:25461/720/720/153747
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Bruna Karla
+http://fonte.iptvmaishd.com:25461/720/720/153762
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Bruno e Marrone
+http://fonte.iptvmaishd.com:25461/720/720/153756
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Bruno Mars
+http://fonte.iptvmaishd.com:25461/720/720/153755
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Canal OFF FHD
+http://fonte.iptvmaishd.com:25461/720/720/153746
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Capital Inicial
+http://fonte.iptvmaishd.com:25461/720/720/153757
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: COMBATE FHD
+http://fonte.iptvmaishd.com:25461/720/720/153726
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Discovery Kids HD
+http://fonte.iptvmaishd.com:25461/720/720/153745
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Disney JR FHD
+http://fonte.iptvmaishd.com:25461/720/720/153744
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Engenheiros Do Hawaii
+http://fonte.iptvmaishd.com:25461/720/720/153761
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Espn Brasil FHD
+http://fonte.iptvmaishd.com:25461/720/720/153743
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Fox FHD
+http://fonte.iptvmaishd.com:25461/720/720/153741
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: FOX LIFE FHD
+http://fonte.iptvmaishd.com:25461/720/720/153725
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Gabriela Rocha
+http://fonte.iptvmaishd.com:25461/720/720/153750
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Gigantes do Samba
+http://fonte.iptvmaishd.com:25461/720/720/153759
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Globo Nordeste FHD
+http://fonte.iptvmaishd.com:25461/720/720/153740
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Guns Roses
+http://fonte.iptvmaishd.com:25461/720/720/153758
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: HBO FHD
+http://fonte.iptvmaishd.com:25461/720/720/153739
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: History FHD
+http://fonte.iptvmaishd.com:25461/720/720/153738
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Lady Gaga
+http://fonte.iptvmaishd.com:25461/720/720/153760
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Michael Jakson
+http://fonte.iptvmaishd.com:25461/720/720/153754
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Multishow FHD
+http://fonte.iptvmaishd.com:25461/720/720/153737
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Nat Geo FHD
+http://fonte.iptvmaishd.com:25461/720/720/153736
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: OfFHD
+http://fonte.iptvmaishd.com:25461/720/720/153749
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Pitty
+http://fonte.iptvmaishd.com:25461/720/720/153753
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Premiere Clubes FHD
+http://fonte.iptvmaishd.com:25461/720/720/153734
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: RECORD FHD
+http://fonte.iptvmaishd.com:25461/720/720/153724
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Record NORDESTE FHD
+http://fonte.iptvmaishd.com:25461/720/720/153733
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: SBT NORDESTE FHD
+http://fonte.iptvmaishd.com:25461/720/720/153732
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Sertanejo Festival
+http://fonte.iptvmaishd.com:25461/720/720/153751
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Space FHD
+http://fonte.iptvmaishd.com:25461/720/720/153731
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: SporTV FHD
+http://fonte.iptvmaishd.com:25461/720/720/153730
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Studio Universal FHD
+http://fonte.iptvmaishd.com:25461/720/720/153729
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: SyFy FHD
+http://fonte.iptvmaishd.com:25461/720/720/153728
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: TELECINE ACTION FHD
+http://fonte.iptvmaishd.com:25461/720/720/153723
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: TELECINE FUN FHD
+http://fonte.iptvmaishd.com:25461/720/720/153722
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: TELECINE PIPOCA  FHD
+http://fonte.iptvmaishd.com:25461/720/720/153721
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: TELECINE PREMIUM FHD
+http://fonte.iptvmaishd.com:25461/720/720/153720
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BR: Zé Ramalho
+http://fonte.iptvmaishd.com:25461/720/720/153752
+
+
 #EXTINF:-1, group-title="CANAIS PREMIUM 8", A&E HD
 http://maxptv.ddns.net:25461/carlin/carlin/231
 #EXTINF:-1, group-title="CANAIS PREMIUM 8", A&E SD
