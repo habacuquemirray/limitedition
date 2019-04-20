@@ -1,472 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", VIP: BR - ANIMAL PLANET HD
-http://31.220.1.190:8080/Jessica/Jessica1/198618
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", VIP: BR - Warner Bros FHD
-http://31.220.1.190:8080/Jessica/Jessica1/206791
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - BAND SPORT HD
-http://31.220.1.190:8080/Jessica/Jessica1/206110
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - beIN SPORTS
-http://31.220.1.190:8080/Jessica/Jessica1/206111
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - ESPN Brasil FHD
-http://31.220.1.190:8080/Jessica/Jessica1/206113
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 1 HD
-http://31.220.1.190:8080/Jessica/Jessica1/198475
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 2 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/198476
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 3 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/198474
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", ♫: BR - Hit TV
-http://31.220.1.190:8080/Jessica/Jessica1/206129
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", CARTOON: BR - Cartoon Network FHD
-http://31.220.1.190:8080/Jessica/Jessica1/198174
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: A&E HD
-http://31.220.1.190:8080/Jessica/Jessica1/66059
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: All Sports
-http://31.220.1.190:8080/Jessica/Jessica1/66050
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: AMC FHD
-http://31.220.1.190:8080/Jessica/Jessica1/100805
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ANIMAL PLANET Brasil
-http://31.220.1.190:8080/Jessica/Jessica1/206328
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ANIMAL PLANET HD
-http://31.220.1.190:8080/Jessica/Jessica1/68999
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Anime Cartoon
-http://31.220.1.190:8080/Jessica/Jessica1/66019
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Aparceida
-http://31.220.1.190:8080/Jessica/Jessica1/159051
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ARTE 1 HD
-http://31.220.1.190:8080/Jessica/Jessica1/156983
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: AXN FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66021
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Azteca 13
-http://31.220.1.190:8080/Jessica/Jessica1/209683
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BABY TV HD
-http://31.220.1.190:8080/Jessica/Jessica1/157962
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Band
-http://31.220.1.190:8080/Jessica/Jessica1/100806
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND News HD
-http://31.220.1.190:8080/Jessica/Jessica1/66056
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND PARANA
-http://31.220.1.190:8080/Jessica/Jessica1/124369
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND SPORT HD
-http://31.220.1.190:8080/Jessica/Jessica1/66054
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: beIN SPORTS
-http://31.220.1.190:8080/Jessica/Jessica1/163992
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BIS FHD
-http://31.220.1.190:8080/Jessica/Jessica1/95823
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Boomerang FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66065
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Brazil 2
-http://31.220.1.190:8080/Jessica/Jessica1/209685
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Brasil
-http://31.220.1.190:8080/Jessica/Jessica1/156999
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CANAL DO BOI
-http://31.220.1.190:8080/Jessica/Jessica1/93196
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Escola
-http://31.220.1.190:8080/Jessica/Jessica1/95824
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CANAL RURAL
-http://31.220.1.190:8080/Jessica/Jessica1/124371
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Sony HD
-http://31.220.1.190:8080/Jessica/Jessica1/157000
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cartoon Network FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139121
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CAVALHEIROS DO ZODIACOS
-http://31.220.1.190:8080/Jessica/Jessica1/163975
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cine 1
-http://31.220.1.190:8080/Jessica/Jessica1/125480
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cinemax FHD
-http://31.220.1.190:8080/Jessica/Jessica1/100801
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Combate FHD
-http://31.220.1.190:8080/Jessica/Jessica1/156819
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: COMEDY CENTRAL HD
-http://31.220.1.190:8080/Jessica/Jessica1/163287
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CURTA! HD
-http://31.220.1.190:8080/Jessica/Jessica1/123157
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DAZN HD
-http://31.220.1.190:8080/Jessica/Jessica1/208359
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Channel FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139122
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Civilization FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66062
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Home&Health HD
-http://31.220.1.190:8080/Jessica/Jessica1/146294
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Kids FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139125
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Science FHD
-http://31.220.1.190:8080/Jessica/Jessica1/94188
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Theater FHD
-http://31.220.1.190:8080/Jessica/Jessica1/88099
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Turbo FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139128
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery World FHD
-http://31.220.1.190:8080/Jessica/Jessica1/100091
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Disney Channel FHD
-http://31.220.1.190:8080/Jessica/Jessica1/116367
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Disney Jr FHD
-http://31.220.1.190:8080/Jessica/Jessica1/196318
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DISNEY XD HD
-http://31.220.1.190:8080/Jessica/Jessica1/68980
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DOIS HOMENS E MEIO 24HRS
-http://31.220.1.190:8080/Jessica/Jessica1/163976
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DW Latin
-http://31.220.1.190:8080/Jessica/Jessica1/95827
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: E! HD
-http://31.220.1.190:8080/Jessica/Jessica1/88100
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: EI MAX HD
-http://31.220.1.190:8080/Jessica/Jessica1/208360
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ELEVEN SPORTS HD
-http://31.220.1.190:8080/Jessica/Jessica1/208372
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN + HD
-http://31.220.1.190:8080/Jessica/Jessica1/100804
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN 2 HD
-http://31.220.1.190:8080/Jessica/Jessica1/130202
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN Brasil FHD
-http://31.220.1.190:8080/Jessica/Jessica1/68955
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN EXTRA HD
-http://31.220.1.190:8080/Jessica/Jessica1/156829
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66036
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: EUROSPORT
-http://31.220.1.190:8080/Jessica/Jessica1/163853
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FILM & ARTS
-http://31.220.1.190:8080/Jessica/Jessica1/163854
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fish TV HD
-http://31.220.1.190:8080/Jessica/Jessica1/68974
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Food Network FHD
-http://31.220.1.190:8080/Jessica/Jessica1/88095
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fox HD
-http://31.220.1.190:8080/Jessica/Jessica1/196292
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX LIFE HD
-http://31.220.1.190:8080/Jessica/Jessica1/156831
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fox Premium 1 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/88101
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX PREMIUM 2 HD
-http://31.220.1.190:8080/Jessica/Jessica1/163856
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS 1 HD
-http://31.220.1.190:8080/Jessica/Jessica1/88071
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS 2
-http://31.220.1.190:8080/Jessica/Jessica1/68970
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS HD
-http://31.220.1.190:8080/Jessica/Jessica1/156834
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX USA
-http://31.220.1.190:8080/Jessica/Jessica1/124217
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Futura HD
-http://31.220.1.190:8080/Jessica/Jessica1/66041
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FX HD
-http://31.220.1.190:8080/Jessica/Jessica1/156832
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Amazonas
-http://31.220.1.190:8080/Jessica/Jessica1/123089
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO BRASILIA HD
-http://31.220.1.190:8080/Jessica/Jessica1/112287
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo EPTV Campinas
-http://31.220.1.190:8080/Jessica/Jessica1/149694
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo EPTV S
-http://31.220.1.190:8080/Jessica/Jessica1/123095
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo ES HD
-http://31.220.1.190:8080/Jessica/Jessica1/136658
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO FORTALEZA
-http://31.220.1.190:8080/Jessica/Jessica1/124244
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo MINAS
-http://31.220.1.190:8080/Jessica/Jessica1/92517
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo NE
-http://31.220.1.190:8080/Jessica/Jessica1/136662
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO NEWS HD
-http://31.220.1.190:8080/Jessica/Jessica1/156984
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO NORDESTE HD
-http://31.220.1.190:8080/Jessica/Jessica1/109201
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO PARANA HD
-http://31.220.1.190:8080/Jessica/Jessica1/163866
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO PORTUGAL
-http://31.220.1.190:8080/Jessica/Jessica1/124231
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Premium
-http://31.220.1.190:8080/Jessica/Jessica1/88051
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RBS TV PORTO ALEGRE
-http://31.220.1.190:8080/Jessica/Jessica1/163872
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RJ HD
-http://31.220.1.190:8080/Jessica/Jessica1/110340
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RN HD
-http://31.220.1.190:8080/Jessica/Jessica1/124245
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Rural HD
-http://31.220.1.190:8080/Jessica/Jessica1/209527
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo SP
-http://31.220.1.190:8080/Jessica/Jessica1/196249
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Tv Tem Bauru HD
-http://31.220.1.190:8080/Jessica/Jessica1/149697
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Tv Verdes Mares Fortaleza
-http://31.220.1.190:8080/Jessica/Jessica1/139137
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globosat HD
-http://31.220.1.190:8080/Jessica/Jessica1/102991
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOOB HD
-http://31.220.1.190:8080/Jessica/Jessica1/156987
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Gloobinho
-http://31.220.1.190:8080/Jessica/Jessica1/136680
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GNT HD
-http://31.220.1.190:8080/Jessica/Jessica1/88049
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GOSPEL CARTOON
-http://31.220.1.190:8080/Jessica/Jessica1/163954
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: H2 Brasil
-http://31.220.1.190:8080/Jessica/Jessica1/110344
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: H2 HD
-http://31.220.1.190:8080/Jessica/Jessica1/139141
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO 2 HD
-http://31.220.1.190:8080/Jessica/Jessica1/156835
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO FAMILY
-http://31.220.1.190:8080/Jessica/Jessica1/208364
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO HD
-http://31.220.1.190:8080/Jessica/Jessica1/156837
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO Plus
-http://31.220.1.190:8080/Jessica/Jessica1/209698
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO PLUS E
-http://31.220.1.190:8080/Jessica/Jessica1/68962
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO Signature FHD
-http://31.220.1.190:8080/Jessica/Jessica1/68961
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: History 2
-http://31.220.1.190:8080/Jessica/Jessica1/210715
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: History Channel HD
-http://31.220.1.190:8080/Jessica/Jessica1/66051
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Hit TV
-http://31.220.1.190:8080/Jessica/Jessica1/136697
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Home&Health
-http://31.220.1.190:8080/Jessica/Jessica1/95841
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HOMEM ARANHA 24 hrs
-http://31.220.1.190:8080/Jessica/Jessica1/163968
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ID: Investigação Discovery HD
-http://31.220.1.190:8080/Jessica/Jessica1/149711
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Investigation Disvovery
-http://31.220.1.190:8080/Jessica/Jessica1/175466
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Lifetime FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66068
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Mais Globo Sa
-http://31.220.1.190:8080/Jessica/Jessica1/114019
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Mana Sat
-http://31.220.1.190:8080/Jessica/Jessica1/66072
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MASTER TV
-http://31.220.1.190:8080/Jessica/Jessica1/105229
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139147
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max Prime HD
-http://31.220.1.190:8080/Jessica/Jessica1/157007
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max Up HD
-http://31.220.1.190:8080/Jessica/Jessica1/157008
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Megapix FHD
-http://31.220.1.190:8080/Jessica/Jessica1/156842
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MTV FHD
-http://31.220.1.190:8080/Jessica/Jessica1/104797
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MTV PORTUGAL
-http://31.220.1.190:8080/Jessica/Jessica1/124268
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MULTI SHOW HD
-http://31.220.1.190:8080/Jessica/Jessica1/156844
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Multi TV
-http://31.220.1.190:8080/Jessica/Jessica1/95842
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Music Box
-http://31.220.1.190:8080/Jessica/Jessica1/209701
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NAT GEO FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66048
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NAT GEO Kids FHD
-http://31.220.1.190:8080/Jessica/Jessica1/109218
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NATGEO WILD HD
-http://31.220.1.190:8080/Jessica/Jessica1/163892
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NBR
-http://31.220.1.190:8080/Jessica/Jessica1/124375
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Net Geo
-http://31.220.1.190:8080/Jessica/Jessica1/209702
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Nick Junior HD
-http://31.220.1.190:8080/Jessica/Jessica1/100803
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NICKELODEN
-http://31.220.1.190:8080/Jessica/Jessica1/196323
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Novo Tempo
-http://31.220.1.190:8080/Jessica/Jessica1/95844
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: OFF HD
-http://31.220.1.190:8080/Jessica/Jessica1/104801
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: OS SIMPSON 24hr
-http://31.220.1.190:8080/Jessica/Jessica1/163965
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Paramount Channel FHD
-http://31.220.1.190:8080/Jessica/Jessica1/68947
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 1 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136728
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 2 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136731
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 3 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136734
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 4 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136737
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 5 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136740
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 6 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136744
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 7 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136747
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 8
-http://31.220.1.190:8080/Jessica/Jessica1/136750
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC HD
-http://31.220.1.190:8080/Jessica/Jessica1/88065
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PLAY TV
-http://31.220.1.190:8080/Jessica/Jessica1/68946
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 2 HD
-http://31.220.1.190:8080/Jessica/Jessica1/156993
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 3 HD
-http://31.220.1.190:8080/Jessica/Jessica1/68943
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 24HS HD
-http://31.220.1.190:8080/Jessica/Jessica1/124282
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 1 HD
-http://31.220.1.190:8080/Jessica/Jessica1/104803
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 4 HD
-http://31.220.1.190:8080/Jessica/Jessica1/68942
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 5 HD
-http://31.220.1.190:8080/Jessica/Jessica1/164324
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 8
-http://31.220.1.190:8080/Jessica/Jessica1/163902
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 9
-http://31.220.1.190:8080/Jessica/Jessica1/196269
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere Clubes
-http://31.220.1.190:8080/Jessica/Jessica1/156848
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Prime Box
-http://31.220.1.190:8080/Jessica/Jessica1/95846
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Proyecto 40
-http://31.220.1.190:8080/Jessica/Jessica1/135023
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REAL MADRID TV
-http://31.220.1.190:8080/Jessica/Jessica1/124294
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record Campinas HD
-http://31.220.1.190:8080/Jessica/Jessica1/123123
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record FHD
-http://31.220.1.190:8080/Jessica/Jessica1/68934
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record News FHD
-http://31.220.1.190:8080/Jessica/Jessica1/66031
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record SP HD
-http://31.220.1.190:8080/Jessica/Jessica1/109214
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REDE BRASIL
-http://31.220.1.190:8080/Jessica/Jessica1/93193
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REDE TV HD
-http://31.220.1.190:8080/Jessica/Jessica1/93190
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT BRASIL
-http://31.220.1.190:8080/Jessica/Jessica1/111836
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT HD
-http://31.220.1.190:8080/Jessica/Jessica1/139151
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT SP HD
-http://31.220.1.190:8080/Jessica/Jessica1/208370
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SKY CINEMA HD UNO
-http://31.220.1.190:8080/Jessica/Jessica1/66080
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Sony FHD
-http://31.220.1.190:8080/Jessica/Jessica1/110357
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Space FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139152
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORT TV 3
-http://31.220.1.190:8080/Jessica/Jessica1/209704
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 1 HD
-http://31.220.1.190:8080/Jessica/Jessica1/88062
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 2 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139153
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 3 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139154
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV HD
-http://31.220.1.190:8080/Jessica/Jessica1/149745
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: STB
-http://31.220.1.190:8080/Jessica/Jessica1/68909
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Studio Universal HD
-http://31.220.1.190:8080/Jessica/Jessica1/157009
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SYFY HD
-http://31.220.1.190:8080/Jessica/Jessica1/156852
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TBS HD
-http://31.220.1.190:8080/Jessica/Jessica1/88081
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Action FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136774
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Cult
-http://31.220.1.190:8080/Jessica/Jessica1/206439
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Fun FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136780
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Premium FHD
-http://31.220.1.190:8080/Jessica/Jessica1/136785
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TCM
-http://31.220.1.190:8080/Jessica/Jessica1/157011
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE ACTION HD
-http://31.220.1.190:8080/Jessica/Jessica1/157013
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE CULT HD
-http://31.220.1.190:8080/Jessica/Jessica1/157014
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE FUN HD
-http://31.220.1.190:8080/Jessica/Jessica1/156970
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE PIPOCA HD
-http://31.220.1.190:8080/Jessica/Jessica1/156969
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE PREMIUM HD
-http://31.220.1.190:8080/Jessica/Jessica1/157016
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE TOUCH HD
-http://31.220.1.190:8080/Jessica/Jessica1/157012
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TERRA VIVA
-http://31.220.1.190:8080/Jessica/Jessica1/124379
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: THE HISTORY CHANNEL HD
-http://31.220.1.190:8080/Jessica/Jessica1/163882
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TLC HD
-http://31.220.1.190:8080/Jessica/Jessica1/88079
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TNT FHD
-http://31.220.1.190:8080/Jessica/Jessica1/139155
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TNT SERIES HD
-http://31.220.1.190:8080/Jessica/Jessica1/157018
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TOONCAST HD
-http://31.220.1.190:8080/Jessica/Jessica1/163823
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV APARECIDA HD
-http://31.220.1.190:8080/Jessica/Jessica1/68905
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV BRASIL
-http://31.220.1.190:8080/Jessica/Jessica1/66028
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Brazil
-http://31.220.1.190:8080/Jessica/Jessica1/95858
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 1 HD
-http://31.220.1.190:8080/Jessica/Jessica1/124324
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 3 FHD
-http://31.220.1.190:8080/Jessica/Jessica1/124325
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 4 HD
-http://31.220.1.190:8080/Jessica/Jessica1/163934
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Cultura HD
-http://31.220.1.190:8080/Jessica/Jessica1/123144
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Diario
-http://31.220.1.190:8080/Jessica/Jessica1/66076
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Faap
-http://31.220.1.190:8080/Jessica/Jessica1/66058
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Tv Gazeta
-http://31.220.1.190:8080/Jessica/Jessica1/139156
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Geral
-http://31.220.1.190:8080/Jessica/Jessica1/95859
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV GLOBO CAMPINAS
-http://31.220.1.190:8080/Jessica/Jessica1/124243
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Globo HD
-http://31.220.1.190:8080/Jessica/Jessica1/89540
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV GLOBO PREMIUM HD
-http://31.220.1.190:8080/Jessica/Jessica1/66024
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Ideal
-http://31.220.1.190:8080/Jessica/Jessica1/136799
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV JUSTICA H264
-http://31.220.1.190:8080/Jessica/Jessica1/163929
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV LIBERAL BELEM
-http://31.220.1.190:8080/Jessica/Jessica1/163871
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV NBR
-http://31.220.1.190:8080/Jessica/Jessica1/133582
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV NOVO TEMPO
-http://31.220.1.190:8080/Jessica/Jessica1/163932
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV RA TIM BUM
-http://31.220.1.190:8080/Jessica/Jessica1/124328
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Record
-http://31.220.1.190:8080/Jessica/Jessica1/66023
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVE
-http://31.220.1.190:8080/Jessica/Jessica1/136630
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVI
-http://31.220.1.190:8080/Jessica/Jessica1/95857
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVN Brasil
-http://31.220.1.190:8080/Jessica/Jessica1/68828
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: UM MALUCO NO PEDACO 24hrs
-http://31.220.1.190:8080/Jessica/Jessica1/163961
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Universal Channel FHD
-http://31.220.1.190:8080/Jessica/Jessica1/157019
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: VH1 Mega Hits
-http://31.220.1.190:8080/Jessica/Jessica1/206449
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Viva FHD
-http://31.220.1.190:8080/Jessica/Jessica1/104817
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Warner Bros FHD
-http://31.220.1.190:8080/Jessica/Jessica1/104818
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Woohoo Brasil
-http://31.220.1.190:8080/Jessica/Jessica1/163312
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Woohoo HD
-http://31.220.1.190:8080/Jessica/Jessica1/146621
-#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ZOOMOO
-http://31.220.1.190:8080/Jessica/Jessica1/164348
-
 #EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E
 http://streamtv.com.br:80/malek/malek/1667
 #EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E HD
@@ -1279,3 +811,2370 @@ http://streamtv.com.br:80/malek/malek/20944
 http://streamtv.com.br:80/malek/malek/20945
 #EXTINF:-1, group-title="CANAIS PREMIUM 1", EI PLUS HD
 http://streamtv.com.br:80/malek/malek/20949
+
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", VIP: BR - ANIMAL PLANET HD
+http://31.220.1.190:8080/Jessica/Jessica1/198618
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", VIP: BR - Warner Bros FHD
+http://31.220.1.190:8080/Jessica/Jessica1/206791
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - BAND SPORT HD
+http://31.220.1.190:8080/Jessica/Jessica1/206110
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - beIN SPORTS
+http://31.220.1.190:8080/Jessica/Jessica1/206111
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - ESPN Brasil FHD
+http://31.220.1.190:8080/Jessica/Jessica1/206113
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/198475
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 2 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/198476
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/198474
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", ♫: BR - Hit TV
+http://31.220.1.190:8080/Jessica/Jessica1/206129
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", CARTOON: BR - Cartoon Network FHD
+http://31.220.1.190:8080/Jessica/Jessica1/198174
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: A&E HD
+http://31.220.1.190:8080/Jessica/Jessica1/66059
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: All Sports
+http://31.220.1.190:8080/Jessica/Jessica1/66050
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: AMC FHD
+http://31.220.1.190:8080/Jessica/Jessica1/100805
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ANIMAL PLANET Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/206328
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ANIMAL PLANET HD
+http://31.220.1.190:8080/Jessica/Jessica1/68999
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Anime Cartoon
+http://31.220.1.190:8080/Jessica/Jessica1/66019
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Aparceida
+http://31.220.1.190:8080/Jessica/Jessica1/159051
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ARTE 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/156983
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: AXN FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66021
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Azteca 13
+http://31.220.1.190:8080/Jessica/Jessica1/209683
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BABY TV HD
+http://31.220.1.190:8080/Jessica/Jessica1/157962
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Band
+http://31.220.1.190:8080/Jessica/Jessica1/100806
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND News HD
+http://31.220.1.190:8080/Jessica/Jessica1/66056
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND PARANA
+http://31.220.1.190:8080/Jessica/Jessica1/124369
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND SPORT HD
+http://31.220.1.190:8080/Jessica/Jessica1/66054
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: beIN SPORTS
+http://31.220.1.190:8080/Jessica/Jessica1/163992
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BIS FHD
+http://31.220.1.190:8080/Jessica/Jessica1/95823
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Boomerang FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66065
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Brazil 2
+http://31.220.1.190:8080/Jessica/Jessica1/209685
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/156999
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CANAL DO BOI
+http://31.220.1.190:8080/Jessica/Jessica1/93196
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Escola
+http://31.220.1.190:8080/Jessica/Jessica1/95824
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CANAL RURAL
+http://31.220.1.190:8080/Jessica/Jessica1/124371
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Sony HD
+http://31.220.1.190:8080/Jessica/Jessica1/157000
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cartoon Network FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139121
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CAVALHEIROS DO ZODIACOS
+http://31.220.1.190:8080/Jessica/Jessica1/163975
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cine 1
+http://31.220.1.190:8080/Jessica/Jessica1/125480
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cinemax FHD
+http://31.220.1.190:8080/Jessica/Jessica1/100801
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Combate FHD
+http://31.220.1.190:8080/Jessica/Jessica1/156819
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: COMEDY CENTRAL HD
+http://31.220.1.190:8080/Jessica/Jessica1/163287
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CURTA! HD
+http://31.220.1.190:8080/Jessica/Jessica1/123157
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DAZN HD
+http://31.220.1.190:8080/Jessica/Jessica1/208359
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139122
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Civilization FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66062
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Home&Health HD
+http://31.220.1.190:8080/Jessica/Jessica1/146294
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Kids FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139125
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Science FHD
+http://31.220.1.190:8080/Jessica/Jessica1/94188
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Theater FHD
+http://31.220.1.190:8080/Jessica/Jessica1/88099
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Turbo FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139128
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery World FHD
+http://31.220.1.190:8080/Jessica/Jessica1/100091
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Disney Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/116367
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Disney Jr FHD
+http://31.220.1.190:8080/Jessica/Jessica1/196318
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DISNEY XD HD
+http://31.220.1.190:8080/Jessica/Jessica1/68980
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DOIS HOMENS E MEIO 24HRS
+http://31.220.1.190:8080/Jessica/Jessica1/163976
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DW Latin
+http://31.220.1.190:8080/Jessica/Jessica1/95827
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: E! HD
+http://31.220.1.190:8080/Jessica/Jessica1/88100
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: EI MAX HD
+http://31.220.1.190:8080/Jessica/Jessica1/208360
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ELEVEN SPORTS HD
+http://31.220.1.190:8080/Jessica/Jessica1/208372
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN + HD
+http://31.220.1.190:8080/Jessica/Jessica1/100804
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/130202
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN Brasil FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68955
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN EXTRA HD
+http://31.220.1.190:8080/Jessica/Jessica1/156829
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66036
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: EUROSPORT
+http://31.220.1.190:8080/Jessica/Jessica1/163853
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FILM & ARTS
+http://31.220.1.190:8080/Jessica/Jessica1/163854
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fish TV HD
+http://31.220.1.190:8080/Jessica/Jessica1/68974
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Food Network FHD
+http://31.220.1.190:8080/Jessica/Jessica1/88095
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fox HD
+http://31.220.1.190:8080/Jessica/Jessica1/196292
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX LIFE HD
+http://31.220.1.190:8080/Jessica/Jessica1/156831
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fox Premium 1 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/88101
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX PREMIUM 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/163856
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/88071
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS 2
+http://31.220.1.190:8080/Jessica/Jessica1/68970
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS HD
+http://31.220.1.190:8080/Jessica/Jessica1/156834
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX USA
+http://31.220.1.190:8080/Jessica/Jessica1/124217
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Futura HD
+http://31.220.1.190:8080/Jessica/Jessica1/66041
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FX HD
+http://31.220.1.190:8080/Jessica/Jessica1/156832
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Amazonas
+http://31.220.1.190:8080/Jessica/Jessica1/123089
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO BRASILIA HD
+http://31.220.1.190:8080/Jessica/Jessica1/112287
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo EPTV Campinas
+http://31.220.1.190:8080/Jessica/Jessica1/149694
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo EPTV S
+http://31.220.1.190:8080/Jessica/Jessica1/123095
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo ES HD
+http://31.220.1.190:8080/Jessica/Jessica1/136658
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO FORTALEZA
+http://31.220.1.190:8080/Jessica/Jessica1/124244
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo MINAS
+http://31.220.1.190:8080/Jessica/Jessica1/92517
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo NE
+http://31.220.1.190:8080/Jessica/Jessica1/136662
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO NEWS HD
+http://31.220.1.190:8080/Jessica/Jessica1/156984
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO NORDESTE HD
+http://31.220.1.190:8080/Jessica/Jessica1/109201
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO PARANA HD
+http://31.220.1.190:8080/Jessica/Jessica1/163866
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO PORTUGAL
+http://31.220.1.190:8080/Jessica/Jessica1/124231
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Premium
+http://31.220.1.190:8080/Jessica/Jessica1/88051
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RBS TV PORTO ALEGRE
+http://31.220.1.190:8080/Jessica/Jessica1/163872
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RJ HD
+http://31.220.1.190:8080/Jessica/Jessica1/110340
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RN HD
+http://31.220.1.190:8080/Jessica/Jessica1/124245
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Rural HD
+http://31.220.1.190:8080/Jessica/Jessica1/209527
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo SP
+http://31.220.1.190:8080/Jessica/Jessica1/196249
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Tv Tem Bauru HD
+http://31.220.1.190:8080/Jessica/Jessica1/149697
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Tv Verdes Mares Fortaleza
+http://31.220.1.190:8080/Jessica/Jessica1/139137
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globosat HD
+http://31.220.1.190:8080/Jessica/Jessica1/102991
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOOB HD
+http://31.220.1.190:8080/Jessica/Jessica1/156987
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Gloobinho
+http://31.220.1.190:8080/Jessica/Jessica1/136680
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GNT HD
+http://31.220.1.190:8080/Jessica/Jessica1/88049
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GOSPEL CARTOON
+http://31.220.1.190:8080/Jessica/Jessica1/163954
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: H2 Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/110344
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: H2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/139141
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/156835
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO FAMILY
+http://31.220.1.190:8080/Jessica/Jessica1/208364
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO HD
+http://31.220.1.190:8080/Jessica/Jessica1/156837
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO Plus
+http://31.220.1.190:8080/Jessica/Jessica1/209698
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO PLUS E
+http://31.220.1.190:8080/Jessica/Jessica1/68962
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO Signature FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68961
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: History 2
+http://31.220.1.190:8080/Jessica/Jessica1/210715
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: History Channel HD
+http://31.220.1.190:8080/Jessica/Jessica1/66051
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Hit TV
+http://31.220.1.190:8080/Jessica/Jessica1/136697
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Home&Health
+http://31.220.1.190:8080/Jessica/Jessica1/95841
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HOMEM ARANHA 24 hrs
+http://31.220.1.190:8080/Jessica/Jessica1/163968
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ID: Investigação Discovery HD
+http://31.220.1.190:8080/Jessica/Jessica1/149711
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Investigation Disvovery
+http://31.220.1.190:8080/Jessica/Jessica1/175466
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Lifetime FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66068
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Mais Globo Sa
+http://31.220.1.190:8080/Jessica/Jessica1/114019
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Mana Sat
+http://31.220.1.190:8080/Jessica/Jessica1/66072
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MASTER TV
+http://31.220.1.190:8080/Jessica/Jessica1/105229
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139147
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max Prime HD
+http://31.220.1.190:8080/Jessica/Jessica1/157007
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max Up HD
+http://31.220.1.190:8080/Jessica/Jessica1/157008
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Megapix FHD
+http://31.220.1.190:8080/Jessica/Jessica1/156842
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MTV FHD
+http://31.220.1.190:8080/Jessica/Jessica1/104797
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MTV PORTUGAL
+http://31.220.1.190:8080/Jessica/Jessica1/124268
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MULTI SHOW HD
+http://31.220.1.190:8080/Jessica/Jessica1/156844
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Multi TV
+http://31.220.1.190:8080/Jessica/Jessica1/95842
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Music Box
+http://31.220.1.190:8080/Jessica/Jessica1/209701
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NAT GEO FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66048
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NAT GEO Kids FHD
+http://31.220.1.190:8080/Jessica/Jessica1/109218
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NATGEO WILD HD
+http://31.220.1.190:8080/Jessica/Jessica1/163892
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NBR
+http://31.220.1.190:8080/Jessica/Jessica1/124375
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Net Geo
+http://31.220.1.190:8080/Jessica/Jessica1/209702
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Nick Junior HD
+http://31.220.1.190:8080/Jessica/Jessica1/100803
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NICKELODEN
+http://31.220.1.190:8080/Jessica/Jessica1/196323
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Novo Tempo
+http://31.220.1.190:8080/Jessica/Jessica1/95844
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: OFF HD
+http://31.220.1.190:8080/Jessica/Jessica1/104801
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: OS SIMPSON 24hr
+http://31.220.1.190:8080/Jessica/Jessica1/163965
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Paramount Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68947
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 1 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136728
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 2 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136731
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136734
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 4 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136737
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 5 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136740
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 6 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136744
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 7 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136747
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 8
+http://31.220.1.190:8080/Jessica/Jessica1/136750
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC HD
+http://31.220.1.190:8080/Jessica/Jessica1/88065
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PLAY TV
+http://31.220.1.190:8080/Jessica/Jessica1/68946
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/156993
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 3 HD
+http://31.220.1.190:8080/Jessica/Jessica1/68943
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 24HS HD
+http://31.220.1.190:8080/Jessica/Jessica1/124282
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/104803
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 4 HD
+http://31.220.1.190:8080/Jessica/Jessica1/68942
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 5 HD
+http://31.220.1.190:8080/Jessica/Jessica1/164324
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 8
+http://31.220.1.190:8080/Jessica/Jessica1/163902
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 9
+http://31.220.1.190:8080/Jessica/Jessica1/196269
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere Clubes
+http://31.220.1.190:8080/Jessica/Jessica1/156848
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Prime Box
+http://31.220.1.190:8080/Jessica/Jessica1/95846
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Proyecto 40
+http://31.220.1.190:8080/Jessica/Jessica1/135023
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REAL MADRID TV
+http://31.220.1.190:8080/Jessica/Jessica1/124294
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record Campinas HD
+http://31.220.1.190:8080/Jessica/Jessica1/123123
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68934
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record News FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66031
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record SP HD
+http://31.220.1.190:8080/Jessica/Jessica1/109214
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REDE BRASIL
+http://31.220.1.190:8080/Jessica/Jessica1/93193
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REDE TV HD
+http://31.220.1.190:8080/Jessica/Jessica1/93190
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT BRASIL
+http://31.220.1.190:8080/Jessica/Jessica1/111836
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT HD
+http://31.220.1.190:8080/Jessica/Jessica1/139151
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT SP HD
+http://31.220.1.190:8080/Jessica/Jessica1/208370
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SKY CINEMA HD UNO
+http://31.220.1.190:8080/Jessica/Jessica1/66080
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Sony FHD
+http://31.220.1.190:8080/Jessica/Jessica1/110357
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Space FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139152
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORT TV 3
+http://31.220.1.190:8080/Jessica/Jessica1/209704
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/88062
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 2 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139153
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139154
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV HD
+http://31.220.1.190:8080/Jessica/Jessica1/149745
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: STB
+http://31.220.1.190:8080/Jessica/Jessica1/68909
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Studio Universal HD
+http://31.220.1.190:8080/Jessica/Jessica1/157009
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SYFY HD
+http://31.220.1.190:8080/Jessica/Jessica1/156852
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TBS HD
+http://31.220.1.190:8080/Jessica/Jessica1/88081
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Action FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136774
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Cult
+http://31.220.1.190:8080/Jessica/Jessica1/206439
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Fun FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136780
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Premium FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136785
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TCM
+http://31.220.1.190:8080/Jessica/Jessica1/157011
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE ACTION HD
+http://31.220.1.190:8080/Jessica/Jessica1/157013
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE CULT HD
+http://31.220.1.190:8080/Jessica/Jessica1/157014
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE FUN HD
+http://31.220.1.190:8080/Jessica/Jessica1/156970
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE PIPOCA HD
+http://31.220.1.190:8080/Jessica/Jessica1/156969
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE PREMIUM HD
+http://31.220.1.190:8080/Jessica/Jessica1/157016
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE TOUCH HD
+http://31.220.1.190:8080/Jessica/Jessica1/157012
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TERRA VIVA
+http://31.220.1.190:8080/Jessica/Jessica1/124379
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: THE HISTORY CHANNEL HD
+http://31.220.1.190:8080/Jessica/Jessica1/163882
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TLC HD
+http://31.220.1.190:8080/Jessica/Jessica1/88079
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TNT FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139155
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TNT SERIES HD
+http://31.220.1.190:8080/Jessica/Jessica1/157018
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TOONCAST HD
+http://31.220.1.190:8080/Jessica/Jessica1/163823
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV APARECIDA HD
+http://31.220.1.190:8080/Jessica/Jessica1/68905
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV BRASIL
+http://31.220.1.190:8080/Jessica/Jessica1/66028
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Brazil
+http://31.220.1.190:8080/Jessica/Jessica1/95858
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/124324
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/124325
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 4 HD
+http://31.220.1.190:8080/Jessica/Jessica1/163934
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Cultura HD
+http://31.220.1.190:8080/Jessica/Jessica1/123144
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Diario
+http://31.220.1.190:8080/Jessica/Jessica1/66076
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Faap
+http://31.220.1.190:8080/Jessica/Jessica1/66058
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Tv Gazeta
+http://31.220.1.190:8080/Jessica/Jessica1/139156
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Geral
+http://31.220.1.190:8080/Jessica/Jessica1/95859
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV GLOBO CAMPINAS
+http://31.220.1.190:8080/Jessica/Jessica1/124243
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Globo HD
+http://31.220.1.190:8080/Jessica/Jessica1/89540
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV GLOBO PREMIUM HD
+http://31.220.1.190:8080/Jessica/Jessica1/66024
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Ideal
+http://31.220.1.190:8080/Jessica/Jessica1/136799
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV JUSTICA H264
+http://31.220.1.190:8080/Jessica/Jessica1/163929
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV LIBERAL BELEM
+http://31.220.1.190:8080/Jessica/Jessica1/163871
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV NBR
+http://31.220.1.190:8080/Jessica/Jessica1/133582
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV NOVO TEMPO
+http://31.220.1.190:8080/Jessica/Jessica1/163932
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV RA TIM BUM
+http://31.220.1.190:8080/Jessica/Jessica1/124328
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Record
+http://31.220.1.190:8080/Jessica/Jessica1/66023
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVE
+http://31.220.1.190:8080/Jessica/Jessica1/136630
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVI
+http://31.220.1.190:8080/Jessica/Jessica1/95857
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVN Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/68828
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: UM MALUCO NO PEDACO 24hrs
+http://31.220.1.190:8080/Jessica/Jessica1/163961
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Universal Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/157019
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: VH1 Mega Hits
+http://31.220.1.190:8080/Jessica/Jessica1/206449
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Viva FHD
+http://31.220.1.190:8080/Jessica/Jessica1/104817
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Warner Bros FHD
+http://31.220.1.190:8080/Jessica/Jessica1/104818
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Woohoo Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/163312
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Woohoo HD
+http://31.220.1.190:8080/Jessica/Jessica1/146621
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ZOOMOO
+http://31.220.1.190:8080/Jessica/Jessica1/164348
+
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61906
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E HD (BR1)
+http://51.15.15.119:8080/98765/98765/58733
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E HD (BR2)
+http://51.15.15.119:8080/98765/98765/61720
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E SD (BR1)
+http://51.15.15.119:8080/98765/98765/58732
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", A&E SD (BR2)
+http://51.15.15.119:8080/98765/98765/62915
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AGRO CANAL SD
+http://51.15.15.119:8080/98765/98765/32904
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61905
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC HD (BR1)
+http://51.15.15.119:8080/98765/98765/58731
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC HD (BR2)
+http://51.15.15.119:8080/98765/98765/61719
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC SD (BR1)
+http://51.15.15.119:8080/98765/98765/58730
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AMC SD (BR2)
+http://51.15.15.119:8080/98765/98765/62914
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ANIMAL  PLANET FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58729
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ANIMAL PLANET FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61904
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ANIMAL PLANET HD (BR1)
+http://51.15.15.119:8080/98765/98765/58728
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ANIMAL PLANET HD (BR2)
+http://51.15.15.119:8080/98765/98765/61718
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ANIMAL PLANET SD (BR1)
+http://51.15.15.119:8080/98765/98765/58727
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ANIMAL PLANET SD (BR2)
+http://51.15.15.119:8080/98765/98765/62913
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ARTE 1 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58726
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ARTE 1 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61717
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ARTE 1 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58725
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ARTE 1 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62912
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AUTO MOTO TV SD
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61903
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN HD (BR1)
+http://51.15.15.119:8080/98765/98765/58724
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN HD (BR2)
+http://51.15.15.119:8080/98765/98765/61716
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN SD (BR1)
+http://51.15.15.119:8080/98765/98765/58723
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", AXN SD (BR2)
+http://51.15.15.119:8080/98765/98765/62911
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BABY HD (BR2)
+http://51.15.15.119:8080/98765/98765/61715
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BABY TV SD (BR1)
+http://51.15.15.119:8080/98765/98765/58722
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BABY TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62910
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND CAMPINAS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61714
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61902
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND NEWS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58721
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND NEWS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61901
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND NEWS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58720
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND NEWS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61713
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND NEWS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58719
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND NEWS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62909
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SD (BR2)
+http://51.15.15.119:8080/98765/98765/62908
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SP FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58718
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SP HD (BR1)
+http://51.15.15.119:8080/98765/98765/58717
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SP HD (BR2)
+http://51.15.15.119:8080/98765/98765/61712
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SP SD (BR1)
+http://51.15.15.119:8080/98765/98765/58716
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SPORTS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61900
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SPORTS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58715
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SPORTS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61711
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SPORTS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58714
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BAND SPORTS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62907
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58684
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61899
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58683
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61710
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58682
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BIS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62906
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOA VONTADE TV HD (BR1)
+http://51.15.15.119:8080/98765/98765/58681
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOA VONTADE TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62905
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOOMERANG  FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58680
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOOMERANG FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61898
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOOMERANG HD (BR1)
+http://51.15.15.119:8080/98765/98765/58679
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOOMERANG HD (BR2)
+http://51.15.15.119:8080/98765/98765/61709
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOOMERANG SD (BR1)
+http://51.15.15.119:8080/98765/98765/58678
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", BOOMERANG SD (BR2)
+http://51.15.15.119:8080/98765/98765/62904
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL BRASIL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58677
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL BRASIL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61708
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL BRASIL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58676
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL BRASIL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62903
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Cliente G5
+http://51.15.15.119:8080/98765/98765/59915
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL LIBERTADORES (BR1)
+http://51.15.15.119:8080/98765/98765/62651
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Canal Rural SD
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL RURAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62902
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL SONY FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61897
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL SONY HD (BR1)
+http://51.15.15.119:8080/98765/98765/58675
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL SONY HD (BR2)
+http://51.15.15.119:8080/98765/98765/61707
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANAL SONY SD (BR1)
+http://51.15.15.119:8080/98765/98765/58674
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANCAO NOVA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58673
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CANCAO NOVA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62901
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CARTOON NETWORK FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61896
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CARTOON NETWORK HD (BR1)
+http://51.15.15.119:8080/98765/98765/58672
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CARTOON NETWORK HD (BR2)
+http://51.15.15.119:8080/98765/98765/61706
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CARTOON NETWORK SD (BR1)
+http://51.15.15.119:8080/98765/98765/58671
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CARTOON NETWORK SD (BR2)
+http://51.15.15.119:8080/98765/98765/62900
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 1 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58670
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 1 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58669
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58668
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58667
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 3 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58666
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CATARINENSE 3 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58665
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CBN SP SD
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINE SKY 1 SD (BR2)
+http://51.15.15.119:8080/98765/98765/61705
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINE SKY 2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/61704
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINE SKY 3 SD (BR2)
+http://51.15.15.119:8080/98765/98765/61703
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINE SKY 4 SD (BR2)
+http://51.15.15.119:8080/98765/98765/61702
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINE SKY 5 SD (BR2)
+http://51.15.15.119:8080/98765/98765/61701
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINEMAX FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61895
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINEMAX HD (BR1)
+http://51.15.15.119:8080/98765/98765/58664
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINEMAX HD (BR2)
+http://51.15.15.119:8080/98765/98765/61700
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINEMAX SD (BR1)
+http://51.15.15.119:8080/98765/98765/58663
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CINEMAX SD (BR2)
+http://51.15.15.119:8080/98765/98765/62899
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CNN ESPANHOL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62898
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CNN INTERNACIONAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62897
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CNT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62896
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMBATE FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58662
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMBATE FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61894
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMBATE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58661
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMBATE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61699
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMBATE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58660
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMBATE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62895
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMEDY CENTRAL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61893
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMEDY CENTRAL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58659
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMEDY CENTRAL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61698
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMEDY CENTRAL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58658
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COMEDY CENTRAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62894
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 1 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58657
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 1 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58656
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58655
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58654
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 3 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58653
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", COPA NORDESTE 3 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58652
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CURTA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62893
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CURTA! HD (BR1)
+http://51.15.15.119:8080/98765/98765/58651
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", CURTA! SD (BR1)
+http://51.15.15.119:8080/98765/98765/58650
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DAZN 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/61428
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DAZN 3 HD (BR1)
+http://51.15.15.119:8080/98765/98765/61426
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DAZN 3 SD (BR1)
+http://51.15.15.119:8080/98765/98765/61425
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DAZN HD (BR1)
+http://51.15.15.119:8080/98765/98765/60884
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DAZN SD (BR1)
+http://51.15.15.119:8080/98765/98765/60883
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DAZN SD (BR2)
+http://51.15.15.119:8080/98765/98765/62892
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CHANNEL FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58649
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61892
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CHANNEL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58648
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CHANNEL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61697
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CHANNEL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58647
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CHANNEL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62891
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CIVILIZATION FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61891
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CIVILIZATION HD (BR1)
+http://51.15.15.119:8080/98765/98765/58646
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CIVILIZATION HD (BR2)
+http://51.15.15.119:8080/98765/98765/61696
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY CIVILIZATION SD (BR1)
+http://51.15.15.119:8080/98765/98765/58645
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY H&H FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61890
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY H&H HD (BR1)
+http://51.15.15.119:8080/98765/98765/58644
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY H&H HD (BR2)
+http://51.15.15.119:8080/98765/98765/61695
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY H&H SD (BR1)
+http://51.15.15.119:8080/98765/98765/58643
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY H&H SD (BR2)
+http://51.15.15.119:8080/98765/98765/62890
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY HOME & HEALTH FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58642
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY KIDS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58641
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY KIDS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61889
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY KIDS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58640
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY KIDS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61694
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY KIDS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58639
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY KIDS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62889
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY SCIENCE FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY SCIENCE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58638
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY SCIENCE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61693
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY SCIENCE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58637
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY THEATER FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY THEATER HD (BR1)
+http://51.15.15.119:8080/98765/98765/58636
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY THEATER HD (BR2)
+http://51.15.15.119:8080/98765/98765/61692
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY THEATER SD (BR1)
+http://51.15.15.119:8080/98765/98765/58635
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY TURBO FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58634
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY TURBO FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY TURBO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58633
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY TURBO HD (BR2)
+http://51.15.15.119:8080/98765/98765/61691
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY TURBO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58632
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY TURBO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY WORLD  HD (BR1)
+http://51.15.15.119:8080/98765/98765/58631
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY WORLD FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58630
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY WORLD FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61885
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY WORLD HD (BR2)
+http://51.15.15.119:8080/98765/98765/61690
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISCOVERY WORLD SD (BR1)
+http://51.15.15.119:8080/98765/98765/58629
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY CHANNEL FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58628
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61884
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY CHANNEL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58627
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY CHANNEL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61689
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY CHANNEL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58626
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY CHANNEL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY JR FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61883
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY JR HD (BR1)
+http://51.15.15.119:8080/98765/98765/58625
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY JR HD (BR2)
+http://51.15.15.119:8080/98765/98765/61688
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY JUNIOR SD (BR1)
+http://51.15.15.119:8080/98765/98765/58624
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY JUNIOR SD (BR2)
+http://51.15.15.119:8080/98765/98765/62886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY XD HD (BR2)
+http://51.15.15.119:8080/98765/98765/61687
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY XD SD (BR1)
+http://51.15.15.119:8080/98765/98765/58623
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DISNEY XD SD (BR2)
+http://51.15.15.119:8080/98765/98765/62885
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", DW SD (BR2)
+http://51.15.15.119:8080/98765/98765/62884
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! HD (BR1)
+http://51.15.15.119:8080/98765/98765/58622
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! HD (BR2)
+http://51.15.15.119:8080/98765/98765/61686
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! SD (BR1)
+http://51.15.15.119:8080/98765/98765/58621
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", E! SD (BR2)
+http://51.15.15.119:8080/98765/98765/62883
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/60888
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/60887
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 3 HD (BR1)
+http://51.15.15.119:8080/98765/98765/60886
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS 3 SD
+http://51.15.15.119:8080/98765/98765/60885
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS HD (BR1)
+http://51.15.15.119:8080/98765/98765/60890
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61684
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS SD (BR1)
+http://51.15.15.119:8080/98765/98765/60889
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", EI PLUS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62881
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58620
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61683
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58619
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58618
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61881
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58617
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61682
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58616
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN BRASIL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62880
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN EXTRA FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58615
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN EXTRA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58614
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN EXTRA HD (BR2)
+http://51.15.15.119:8080/98765/98765/61681
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN EXTRA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58613
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN EXTRA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62879
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58612
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61880
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN HD (BR1)
+http://51.15.15.119:8080/98765/98765/58611
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN HD (BR2)
+http://51.15.15.119:8080/98765/98765/61680
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN SD (BR1)
+http://51.15.15.119:8080/98765/98765/58610
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ESPN SD (BR2)
+http://51.15.15.119:8080/98765/98765/62878
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FILM & ARTS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58609
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FISH TV HD (BR1)
+http://51.15.15.119:8080/98765/98765/58608
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FISH TV SD (BR1)
+http://51.15.15.119:8080/98765/98765/58607
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FISH TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62877
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOOD NETWORK FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61879
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOOD NETWORK HD (BR1)
+http://51.15.15.119:8080/98765/98765/58606
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOOD NETWORK HD (BR2)
+http://51.15.15.119:8080/98765/98765/61679
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOOD NETWORK SD (BR1)
+http://51.15.15.119:8080/98765/98765/58605
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOOD NETWORK SD (BR2)
+http://51.15.15.119:8080/98765/98765/62876
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58604
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61878
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX HD (BR1)
+http://51.15.15.119:8080/98765/98765/58603
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX HD (BR2)
+http://51.15.15.119:8080/98765/98765/61678
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX LIFE FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61877
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX LIFE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58602
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX LIFE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61677
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX LIFE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58601
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX LIFE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62875
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 1 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58600
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 1 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61676
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 1 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58599
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 2 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58598
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58597
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61675
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX PREMIUM 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58596
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SD (BR1)
+http://51.15.15.119:8080/98765/98765/58595
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SD (BR2)
+http://51.15.15.119:8080/98765/98765/62874
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS 2 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58594
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS 2 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61876
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58593
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS 2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61674
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58592
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS 2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62873
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58591
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61875
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58590
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61673
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58589
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FOX SPORTS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62872
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FUTURA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58588
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FUTURA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58587
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FUTURA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62871
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61874
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX HD (BR1)
+http://51.15.15.119:8080/98765/98765/58586
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX HD (BR2)
+http://51.15.15.119:8080/98765/98765/61672
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX SD (BR1)
+http://51.15.15.119:8080/98765/98765/58585
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", FX SD (BR2)
+http://51.15.15.119:8080/98765/98765/62870
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO  CAMPINAS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58584
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO ALTO LITORAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62869
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO ASA BRANCA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62868
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO BAHIA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62867
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO BAURU SD (BR2)
+http://51.15.15.119:8080/98765/98765/62866
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO BRASILIA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58583
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO BRASILIA HD (BR2)
+http://51.15.15.119:8080/98765/98765/61671
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO BRASILIA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58582
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO BRASILIA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62865
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO CABUGI SD (BR2)
+http://51.15.15.119:8080/98765/98765/62864
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO CAMPINAS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58581
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO CENTRO AMERICA CUIABA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62863
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO EPTV CAMPINAS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62862
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO EPTV CENTRAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62861
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO EPTV RIBEIRAO PRETO HD (BR2)
+http://51.15.15.119:8080/98765/98765/61670
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO EPTV RIBEIRAO PRETO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62860
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO EPTV SAO CARLOS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62859
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO EPTV SUL MINAS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62858
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO FRONTEIRA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62857
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO GAZETA ES SD (BR2)
+http://51.15.15.119:8080/98765/98765/62856
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO GOIANIA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58580
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO GOIANIA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58579
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO GOIANIA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62855
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO GRANDE MINAS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62854
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO INTEGRACAO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62853
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO ITAPETININGA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62852
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO LIBERAL BELEM SD (BR2)
+http://51.15.15.119:8080/98765/98765/62851
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MANAUS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62850
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MINAS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58578
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MINAS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58577
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MINAS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61669
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MINAS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58576
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MINAS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62849
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO MIRANTE COCAIS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62848
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NEWS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58575
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NEWS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61873
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NEWS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58574
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NEWS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61668
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NEWS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58573
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NEWS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62847
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NORDESTE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58572
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NORDESTE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61667
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NORDESTE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58571
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NORDESTE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62846
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NSC BLUMENAU SD (BR2)
+http://51.15.15.119:8080/98765/98765/62845
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NSC FLORIANOPOLIS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58569
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NSC FLORIANOPOLIS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58570
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO NSC JOINVILLE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62844
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RBS POA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58568
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RBS PORTO ALEGRE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61666
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RBS TV POA FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61872
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RBS TV POA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62843
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RBS TV PORTO ALEGRE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58567
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RIBEIRAO PRETO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58566
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RIBEIRAO PRETO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58565
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RIO SUL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62842
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RJ FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58564
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RJ FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61871
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RJ HD (BR1)
+http://51.15.15.119:8080/98765/98765/58563
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RJ HD (BR2)
+http://51.15.15.119:8080/98765/98765/61665
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RJ SD (BR1)
+http://51.15.15.119:8080/98765/98765/58562
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RJ SD (BR2)
+http://51.15.15.119:8080/98765/98765/62841
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RPC CURITIBA FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58561
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RPC CURITIBA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58560
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RPC CURITIBA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58559
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO RPC CURITIBA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62840
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO S.J RIO PRETO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62839
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SANTA CRUZ SD (BR2)
+http://51.15.15.119:8080/98765/98765/62838
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SERGIPE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62837
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SERRA MAR SD (BR2)
+http://51.15.15.119:8080/98765/98765/62836
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SOROCABA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62835
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SP FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58558
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SP FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61870
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SP HD (BR1)
+http://51.15.15.119:8080/98765/98765/58557
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SP HD (BR2)
+http://51.15.15.119:8080/98765/98765/61664
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SP SD (BR1)
+http://51.15.15.119:8080/98765/98765/58556
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SP SD (BR2)
+http://51.15.15.119:8080/98765/98765/62834
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO SUDOESTE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62833
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TRIBUNA SANTOS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62832
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV BAHIA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58555
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV BAHIA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58554
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV GAZETA ES HD (BR2)
+http://51.15.15.119:8080/98765/98765/61663
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV SERGIPE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61662
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV TEM BAURU SD (BR1)
+http://51.15.15.119:8080/98765/98765/58553
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV TEM S.J.RIO PRETO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58552
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV TEM S.J.RIO PRETO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58551
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV TEM SOROCABA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58550
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO TV VERDES MARES FORTALEZA SD (BR1)
+http://51.15.15.119:8080/98765/98765/60882
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO VANGUARDA S.J CAMPOS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62831
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO VANGUARDA TAUBATE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62830
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOBO VERDES MARES FORTALEZA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62829
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOB FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58549
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOB HD (BR1)
+http://51.15.15.119:8080/98765/98765/58548
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOB HD (BR2)
+http://51.15.15.119:8080/98765/98765/61661
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOB SD (BR1)
+http://51.15.15.119:8080/98765/98765/58547
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOB SD (BR2)
+http://51.15.15.119:8080/98765/98765/62828
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOBINHO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58546
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOBINHO HD (BR2)
+http://51.15.15.119:8080/98765/98765/61660
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOBINHO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58545
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GLOOBINHO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62827
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT HD (BR1)
+http://51.15.15.119:8080/98765/98765/58544
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT HD (BR2)
+http://51.15.15.119:8080/98765/98765/61659
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT SD (BR1)
+http://51.15.15.119:8080/98765/98765/58543
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GNT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62826
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", GOSPEL CARTOON TV
+http://51.15.15.119:8080/98765/98765/28387
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61868
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58542
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61658
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58541
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", H2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62825
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58540
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61867
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58539
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61657
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58538
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO 2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62824
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FAMILY FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61866
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FAMILY HD (BR1)
+http://51.15.15.119:8080/98765/98765/58537
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FAMILY HD (BR2)
+http://51.15.15.119:8080/98765/98765/61656
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FAMILY SD (BR1)
+http://51.15.15.119:8080/98765/98765/58536
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FAMILY SD (BR2)
+http://51.15.15.119:8080/98765/98765/62823
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58535
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61865
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58534
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO HD (BR2)
+http://51.15.15.119:8080/98765/98765/61655
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO PLUS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61864
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO PLUS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58533
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO PLUS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61654
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO PLUS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58532
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO PLUS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62822
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58531
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62821
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SIGNATURE FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61863
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SIGNATURE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58530
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SIGNATURE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61653
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SIGNATURE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58529
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HBO SIGNATURE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62820
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58528
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61862
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY HD (BR1)
+http://51.15.15.119:8080/98765/98765/58527
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY HD (BR2)
+http://51.15.15.119:8080/98765/98765/61652
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY SD (BR1)
+http://51.15.15.119:8080/98765/98765/58526
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HISTORY SD (BR2)
+http://51.15.15.119:8080/98765/98765/62819
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HIT TV HD (BR2)
+http://51.15.15.119:8080/98765/98765/61651
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", I SAT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62818
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID DISCOVERY FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61861
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID DISCOVERY HD (BR2)
+http://51.15.15.119:8080/98765/98765/61650
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ID DISCOVERY SD (BR2)
+http://51.15.15.119:8080/98765/98765/62817
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", IDEAL TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62816
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", INVESTIGATION DISCOVERY HD (BR1)
+http://51.15.15.119:8080/98765/98765/58525
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", INVESTIGATION DISCOVERY SD (BR1)
+http://51.15.15.119:8080/98765/98765/58524
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", JOVEM PAN  3 SD
+https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", JOVEM PAN 2 SD
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", JOVEM PAN SD
+https://evpp.mm.uol.com.br/jovempan/jp-jornaldamanha.sdp/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", LIFETIME FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61860
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", LIFETIME HD (BR1)
+http://51.15.15.119:8080/98765/98765/58523
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", LIFETIME HD (BR2)
+http://51.15.15.119:8080/98765/98765/61649
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", LIFETIME SD (BR1)
+http://51.15.15.119:8080/98765/98765/58522
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", LIFETIME SD (BR2)
+http://51.15.15.119:8080/98765/98765/62815
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAIS GLOBOSAT HD (BR1)
+http://51.15.15.119:8080/98765/98765/58521
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAIS GLOBOSAT HD (BR2)
+http://51.15.15.119:8080/98765/98765/61648
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAIS GLOBOSAT SD (BR1)
+http://51.15.15.119:8080/98765/98765/58520
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAIS GLOBOSAT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62814
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61859
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX HD (BR1)
+http://51.15.15.119:8080/98765/98765/58519
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX HD (BR2)
+http://51.15.15.119:8080/98765/98765/61647
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX PRIME FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61858
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX PRIME HD (BR1)
+http://51.15.15.119:8080/98765/98765/58518
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX PRIME HD (BR2)
+http://51.15.15.119:8080/98765/98765/61646
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX PRIME SD (BR1)
+http://51.15.15.119:8080/98765/98765/58517
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX PRIME SD (BR2)
+http://51.15.15.119:8080/98765/98765/62813
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX SD (BR1)
+http://51.15.15.119:8080/98765/98765/58516
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX SD (BR2)
+http://51.15.15.119:8080/98765/98765/62812
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61857
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP HD (BR1)
+http://51.15.15.119:8080/98765/98765/58515
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP HD (BR2)
+http://51.15.15.119:8080/98765/98765/61645
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP SD (BR1)
+http://51.15.15.119:8080/98765/98765/58514
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MAX UP SD (BR2)
+http://51.15.15.119:8080/98765/98765/62811
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MEGAPIX FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61856
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MEGAPIX HD (BR1)
+http://51.15.15.119:8080/98765/98765/58513
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MEGAPIX HD (BR2)
+http://51.15.15.119:8080/98765/98765/61644
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MEGAPIX SD (BR1)
+http://51.15.15.119:8080/98765/98765/58512
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MEGAPIX SD (BR2)
+http://51.15.15.119:8080/98765/98765/62810
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61855
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV HD (BR1)
+http://51.15.15.119:8080/98765/98765/58511
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV HD (BR2)
+http://51.15.15.119:8080/98765/98765/61643
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV LIVE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58510
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV LIVE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58509
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV SD (BR1)
+http://51.15.15.119:8080/98765/98765/58508
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MTV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62809
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MULTISHOW FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61854
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MULTISHOW HD (BR1)
+http://51.15.15.119:8080/98765/98765/58507
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MULTISHOW HD (BR2)
+http://51.15.15.119:8080/98765/98765/61642
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MULTISHOW SD (BR1)
+http://51.15.15.119:8080/98765/98765/58506
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MULTISHOW SD (BR2)
+http://51.15.15.119:8080/98765/98765/62808
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MUNDO AUTO SD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MUSIC BOX BRASIL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58505
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MUSIC BOX BRASIL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58504
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", MUSIC BOX BRASIL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62807
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NAT GEO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58503
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NAT GEO KIDS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58502
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NAT GEO KIDS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58501
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NAT GEO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58500
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NAT GEO WILD FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58499
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NAT GEO WILD HD (BR1)
+http://51.15.15.119:8080/98765/98765/58498
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61853
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO HD (BR2)
+http://51.15.15.119:8080/98765/98765/61641
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO KIDS FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61852
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO KIDS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61640
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO KIDS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62806
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62805
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO WILD FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61851
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO WILD HD (BR2)
+http://51.15.15.119:8080/98765/98765/61639
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO WILD SD (BR1)
+http://51.15.15.119:8080/98765/98765/58497
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NATGEO WILD SD (BR2)
+http://51.15.15.119:8080/98765/98765/62804
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NBR SD (BR1)
+http://51.15.15.119:8080/98765/98765/58496
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NBR SD (BR2)
+http://51.15.15.119:8080/98765/98765/62803
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NHK SD (BR2)
+http://51.15.15.119:8080/98765/98765/62802
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61850
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK HD (BR2)
+http://51.15.15.119:8080/98765/98765/61638
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK JR FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58495
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK JR FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61849
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK JR HD (BR1)
+http://51.15.15.119:8080/98765/98765/58494
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK JR HD (BR2)
+http://51.15.15.119:8080/98765/98765/61637
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK JR SD (BR1)
+http://51.15.15.119:8080/98765/98765/58493
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICK JR SD (BR2)
+http://51.15.15.119:8080/98765/98765/62801
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICKELODEN SD (BR1)
+http://51.15.15.119:8080/98765/98765/58492
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICKELODEON FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58491
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICKELODEON HD (BR1)
+http://51.15.15.119:8080/98765/98765/58490
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NICKELODEON SD (BR2)
+http://51.15.15.119:8080/98765/98765/62800
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", NOVO TEMPO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62799
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF HD (BR1)
+http://51.15.15.119:8080/98765/98765/58489
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF HD (BR2)
+http://51.15.15.119:8080/98765/98765/61636
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF SD (BR1)
+http://51.15.15.119:8080/98765/98765/58488
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", OFF SD (BR2)
+http://51.15.15.119:8080/98765/98765/62798
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PARAMOUNT CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61848
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PARAMOUNT CHANNEL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58487
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PARAMOUNT CHANNEL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58486
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PARAMOUNT HD (BR2)
+http://51.15.15.119:8080/98765/98765/61635
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PARAMOUNT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62797
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PLAY TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62796
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PLAYKIDS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58485
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PLAYKIDS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58484
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", POLISHOP TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62795
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 2 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58483
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 2 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61847
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58482
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61629
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58481
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62794
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 241 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61634
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 3 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58480
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 3 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61846
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 3 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58479
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 3 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61628
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 3 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58478
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 3 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62793
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 4 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58477
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 4 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61845
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 4 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58476
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 4 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61627
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 4 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58475
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 4 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62792
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 5 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58474
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 5 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61844
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 5 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58473
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 5 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61626
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 5 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58472
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 5 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62791
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 6 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58471
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 6 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61843
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 6 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58470
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 6 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61625
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 6 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58469
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 6 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62790
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 634 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61633
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 635 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61632
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 636 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61631
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 637 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61630
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 7 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58468
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 7 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61842
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 7 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58467
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 7 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61624
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 7 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58466
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 7 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62789
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE 8 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62788
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE CLUBES FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58465
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE CLUBES FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61841
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE CLUBES HD (BR1)
+http://51.15.15.119:8080/98765/98765/58464
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE CLUBES HD (BR2)
+http://51.15.15.119:8080/98765/98765/61623
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE CLUBES SD (BR1)
+http://51.15.15.119:8080/98765/98765/58463
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE CLUBES SD (BR2)
+http://51.15.15.119:8080/98765/98765/62787
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PREMIERE TABELA JOGOS (BR1)
+http://51.15.15.119:8080/98765/98765/58414
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PRIME BOX BRASIL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58462
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PRIME BOX BRASIL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58461
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", PRIME BOX BRASIL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62786
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rádio: KBOING FM
+http://52.206.124.3:1935/kboing-fm/kbostream/chunklist_w979262028.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RAI SD (BR2)
+http://51.15.15.119:8080/98765/98765/62785
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RBI SD (BR2)
+http://51.15.15.119:8080/98765/98765/62784
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RBI TV SD
+http://51.15.15.119:8080/98765/98765/50628
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RCI SD (BR2)
+http://51.15.15.119:8080/98765/98765/62783
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Real Madrid Tv Online
+http://51.15.15.119:8080/98765/98765/23782
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REAL MADRID TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62782
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD BA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62781
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD DF SD (BR2)
+http://51.15.15.119:8080/98765/98765/62780
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61840
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD HD (BR1) ALTERNATIVO
+http://51.15.15.119:8080/98765/98765/58460
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD HD (BR2)
+http://51.15.15.119:8080/98765/98765/61622
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD MG HD (BR2)
+http://51.15.15.119:8080/98765/98765/61621
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD MG SD (BR2)
+http://51.15.15.119:8080/98765/98765/62779
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD NEWS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58459
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD NEWS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61620
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD NEWS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58458
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD NEWS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62778
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD RJ HD (BR2)
+http://51.15.15.119:8080/98765/98765/61619
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD RJ SD (BR2)
+http://51.15.15.119:8080/98765/98765/62777
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD RS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61618
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD RS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62776
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD SP HD (BR2)
+http://51.15.15.119:8080/98765/98765/61617
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD SP SD (BR1)
+http://51.15.15.119:8080/98765/98765/58457
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORD TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62775
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV BA FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58456
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV BA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58455
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV BA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58454
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV DF FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58453
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV DF HD (BR1)
+http://51.15.15.119:8080/98765/98765/58452
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV DF SD (BR1)
+http://51.15.15.119:8080/98765/98765/58451
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV MG FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58450
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV MG HD (BR1)
+http://51.15.15.119:8080/98765/98765/58449
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV MG SD (BR1)
+http://51.15.15.119:8080/98765/98765/58448
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV RIO FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58447
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV RIO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58446
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV RIO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58445
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV RS FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58444
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV RS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58443
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV RS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58442
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV SP FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58441
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV SP HD (BR1)
+http://51.15.15.119:8080/98765/98765/58440
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RECORDTV SP SD (BR1)
+http://51.15.15.119:8080/98765/98765/58439
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE BRASIL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58438
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE BRASIL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62774
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", Rede Gênesis
+http://51.15.15.119:8080/98765/98765/6012
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE GOSPEL SD
+http://51.15.15.119:8080/98765/98765/45130
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE GRAVA SD
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE METRÓPOLE DE COMUNICAÇÃO SD
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE SUPER SD
+http://51.15.15.119:8080/98765/98765/45127
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE TV HD (BR1)
+http://51.15.15.119:8080/98765/98765/58437
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE TV HD (BR2)
+http://51.15.15.119:8080/98765/98765/61616
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE TV RJ
+http://51.15.15.119:8080/98765/98765/4908
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE TV SD (BR1)
+http://51.15.15.119:8080/98765/98765/58436
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE TV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62773
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE VIDA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58435
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE VIDA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58434
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", REDE VIDA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62772
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", RIT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62771
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58433
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT HD (BR1)
+http://51.15.15.119:8080/98765/98765/58432
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT HD (BR2)
+http://51.15.15.119:8080/98765/98765/61615
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT SD (BR1)
+http://51.15.15.119:8080/98765/98765/58431
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62770
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT SP INTERIOR SD (BR1)
+http://51.15.15.119:8080/98765/98765/58430
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SBT TV JORNAL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61614
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SIC INTERNACIONAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62769
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SOBRENATURAL TV SD
+http://51.15.15.119:8080/98765/98765/42252
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SONY SD (BR2)
+http://51.15.15.119:8080/98765/98765/62768
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPACE FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61839
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPACE HD (BR1)
+http://51.15.15.119:8080/98765/98765/58429
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPACE HD (BR2)
+http://51.15.15.119:8080/98765/98765/61613
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPACE SD (BR1)
+http://51.15.15.119:8080/98765/98765/58428
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPACE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62767
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 2 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58427
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 2 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61838
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 2 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58426
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 2 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61612
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 2 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58425
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 2 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62766
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 3 FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58424
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 3 FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61837
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 3 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58423
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 3 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61611
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 3 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58422
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV 3 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62765
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58421
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61836
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV HD (BR1)
+http://51.15.15.119:8080/98765/98765/58420
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV HD (BR2)
+http://51.15.15.119:8080/98765/98765/61610
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV SD (BR1)
+http://51.15.15.119:8080/98765/98765/58419
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SPORTV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62764
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", STUDIO UNIVERSAL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61835
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", STUDIO UNIVERSAL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58418
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", STUDIO UNIVERSAL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61609
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", STUDIO UNIVERSAL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58417
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", STUDIO UNIVERSAL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62763
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61834
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY HD (BR1)
+http://51.15.15.119:8080/98765/98765/58416
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY HD (BR2)
+http://51.15.15.119:8080/98765/98765/61608
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY SD (BR1)
+http://51.15.15.119:8080/98765/98765/58415
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", SYFY SD (BR2)
+http://51.15.15.119:8080/98765/98765/62762
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS HD (BR1)
+http://51.15.15.119:8080/98765/98765/58413
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS HD (BR2)
+http://51.15.15.119:8080/98765/98765/61607
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58412
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TBS SD (BR2)
+http://51.15.15.119:8080/98765/98765/62761
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TCM HD (BR2)
+http://51.15.15.119:8080/98765/98765/61606
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TCM SD (BR1)
+http://51.15.15.119:8080/98765/98765/58411
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TCM SD (BR2)
+http://51.15.15.119:8080/98765/98765/62760
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE ACTION FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58409
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE ACTION FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61833
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE ACTION HD (BR1)
+http://51.15.15.119:8080/98765/98765/58408
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE ACTION HD (BR2)
+http://51.15.15.119:8080/98765/98765/61605
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE ACTION SD (BR1)
+http://51.15.15.119:8080/98765/98765/58410
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE ACTION SD (BR2)
+http://51.15.15.119:8080/98765/98765/62759
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE CULT FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61832
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE CULT HD (BR1)
+http://51.15.15.119:8080/98765/98765/58407
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE CULT HD (BR2)
+http://51.15.15.119:8080/98765/98765/61604
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE CULT SD (BR1)
+http://51.15.15.119:8080/98765/98765/58406
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE CULT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62758
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE FUN FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58405
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE FUN FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61831
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE FUN HD (BR1)
+http://51.15.15.119:8080/98765/98765/58404
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE FUN HD (BR2)
+http://51.15.15.119:8080/98765/98765/61603
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE FUN SD (BR1)
+http://51.15.15.119:8080/98765/98765/58403
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE FUN SD (BR2)
+http://51.15.15.119:8080/98765/98765/62757
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PIPOCA FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58402
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PIPOCA FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61830
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PIPOCA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58401
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PIPOCA HD (BR2)
+http://51.15.15.119:8080/98765/98765/61602
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PIPOCA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58400
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PIPOCA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62756
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PREMIUM FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58399
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PREMIUM FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61829
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PREMIUM HD (BR1)
+http://51.15.15.119:8080/98765/98765/58398
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PREMIUM HD (BR2)
+http://51.15.15.119:8080/98765/98765/61601
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PREMIUM SD (BR1)
+http://51.15.15.119:8080/98765/98765/58397
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE PREMIUM SD (BR2)
+http://51.15.15.119:8080/98765/98765/62755
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE TOUCH FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58396
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE TOUCH FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61828
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE TOUCH HD (BR1)
+http://51.15.15.119:8080/98765/98765/58395
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE TOUCH HD (BR2)
+http://51.15.15.119:8080/98765/98765/61600
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE TOUCH SD (BR1)
+http://51.15.15.119:8080/98765/98765/58394
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TELECINE TOUCH SD (BR2)
+http://51.15.15.119:8080/98765/98765/62754
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TERRA VIVA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58393
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TERRA VIVA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62753
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC HD (BR1)
+http://51.15.15.119:8080/98765/98765/58392
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC HD (BR2)
+http://51.15.15.119:8080/98765/98765/61599
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC SD (BR1)
+http://51.15.15.119:8080/98765/98765/58391
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TLC SD (BR2)
+http://51.15.15.119:8080/98765/98765/62752
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61827
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT HD (BR1)
+http://51.15.15.119:8080/98765/98765/58390
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT HD (BR2)
+http://51.15.15.119:8080/98765/98765/61598
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SD (BR1)
+http://51.15.15.119:8080/98765/98765/58389
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SD (BR2)
+http://51.15.15.119:8080/98765/98765/62751
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SERIES FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61826
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SERIES HD (BR1)
+http://51.15.15.119:8080/98765/98765/58388
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SERIES HD (BR2)
+http://51.15.15.119:8080/98765/98765/61597
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SERIES SD (BR1)
+http://51.15.15.119:8080/98765/98765/58387
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TNT SERIES SD (BR2)
+http://51.15.15.119:8080/98765/98765/62750
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TOONCAST HD (BR2)
+http://51.15.15.119:8080/98765/98765/61596
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TOONCAST SD (BR1)
+http://51.15.15.119:8080/98765/98765/58386
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TOONCAST SD (BR2)
+http://51.15.15.119:8080/98765/98765/62749
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TRANSMAERICA POP FM
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TRUTV HD (BR1)
+http://51.15.15.119:8080/98765/98765/58385
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TRUTV SD (BR1)
+http://51.15.15.119:8080/98765/98765/58384
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TRUTV SD (BR2)
+http://51.15.15.119:8080/98765/98765/62748
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV APARECIDA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58383
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV APARECIDA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62747
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV BRASIL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58382
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV BRASIL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62746
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CAMARA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58381
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CAMARA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62745
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CIDADE OESTE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62744
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CLIMATEMPO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62743
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CULTURA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58380
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CULTURA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58379
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV CULTURA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62742
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV DIARIO FORTALEZA HD (BR1)
+http://51.15.15.119:8080/98765/98765/60891
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV DIARIO FORTALEZA SD
+http://51.15.15.119:8080/98765/98765/60076
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV DIARIO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62741
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV ESCOLA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58378
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV ESCOLA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62740
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV ESPANHA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62739
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV EVANGELIZAR
+http://51.15.15.119:8080/98765/98765/23786
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV GAZETA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62738
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV GAZETA SP HD (BR1)
+http://51.15.15.119:8080/98765/98765/58377
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV GIDEÕES HD
+http://51.15.15.119:8080/98765/98765/50625
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV GIDEÕES SD
+http://51.15.15.119:8080/98765/98765/39535
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV JUSTICA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58376
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV JUSTICA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62737
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV MUNDO CATÓLICO SD
+http://51.15.15.119:8080/98765/98765/50626
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV MUNDO MAIOR SD
+https://youtu.be/ZzuAB1jsI40
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV RA TIM BUM HD (BR1)
+http://51.15.15.119:8080/98765/98765/58375
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV RA TIM BUM HD (BR2)
+http://51.15.15.119:8080/98765/98765/61595
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV RA TIM BUM SD (BR1)
+http://51.15.15.119:8080/98765/98765/58374
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV RA TIM BUM SD (BR2)
+http://51.15.15.119:8080/98765/98765/62736
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV RIO PRETO SD
+http://186.227.165.118:1935/insatv/livestream/playlist.m3u8?wowzasessionid=918902642
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV SENADO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58373
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV SENADO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62735
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV SHOPTIME SD
+http://51.15.15.119:8080/98765/98765/50627
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TV5 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62734
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", TVE SD (BR2)
+http://51.15.15.119:8080/98765/98765/62733
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", UNIVERSAL CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61825
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", UNIVERSAL CHANNEL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58372
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", UNIVERSAL CHANNEL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58371
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", UNIVERSAL CHANNEL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62732
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", UNIVERSAL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61594
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 HD (BR1)
+http://51.15.15.119:8080/98765/98765/58370
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 HD (BR2)
+http://51.15.15.119:8080/98765/98765/61593
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 MEGA HITS SD (BR1)
+http://51.15.15.119:8080/98765/98765/58369
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 SD (BR1)
+http://51.15.15.119:8080/98765/98765/58368
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VH1 SD (BR2)
+http://51.15.15.119:8080/98765/98765/62731
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VIVA FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58367
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VIVA HD (BR1)
+http://51.15.15.119:8080/98765/98765/58366
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VIVA HD (BR2)
+http://51.15.15.119:8080/98765/98765/61592
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VIVA SD (BR1)
+http://51.15.15.119:8080/98765/98765/58365
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", VIVA SD (BR2)
+http://51.15.15.119:8080/98765/98765/62730
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WARNER CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/98765/98765/61824
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WARNER CHANNEL HD (BR1)
+http://51.15.15.119:8080/98765/98765/58364
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WARNER CHANNEL HD (BR2)
+http://51.15.15.119:8080/98765/98765/61591
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WARNER CHANNEL SD (BR1)
+http://51.15.15.119:8080/98765/98765/58363
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WARNER CHANNEL SD (BR2)
+http://51.15.15.119:8080/98765/98765/62729
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WARNER FHD (BR1)
+http://51.15.15.119:8080/98765/98765/58362
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WEB TV LEÃO DE JUDÁ
+http://51.15.15.119:8080/98765/98765/32552
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WOOHOO HD (BR1)
+http://51.15.15.119:8080/98765/98765/58361
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WOOHOO HD (BR2)
+http://51.15.15.119:8080/98765/98765/61590
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WOOHOO SD (BR1)
+http://51.15.15.119:8080/98765/98765/58360
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", WOOHOO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62728
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", ZOOMOO SD (BR2)
+http://51.15.15.119:8080/98765/98765/62727
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A Casa do Mickey
+http://51.15.15.119:8080/98765/98765/59178
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A Guarda do Leão
+http://51.15.15.119:8080/98765/98765/59179
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A Vila do Chaves
+http://51.15.15.119:8080/98765/98765/59546
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: As Aventuras de Jackie Chan
+http://51.15.15.119:8080/98765/98765/60030
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: As Meninas Superpoderosas
+http://51.15.15.119:8080/98765/98765/60032
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Avatar: A lenda de Aang
+http://51.15.15.119:8080/98765/98765/60035
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Batman
+http://51.15.15.119:8080/98765/98765/59545
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Bob ZooM
+http://51.15.15.119:8080/98765/98765/59176
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Diego GO
+http://51.15.15.119:8080/98765/98765/59189
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Dora A Aventureira
+http://51.15.15.119:8080/98765/98765/59180
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DuckTales
+http://51.15.15.119:8080/98765/98765/59192
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Galinha Pintadinha
+http://51.15.15.119:8080/98765/98765/59126
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Jakers! As Aventuras de Piggley Winks
+http://51.15.15.119:8080/98765/98765/60031
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Miraculous: As Aventuras de Ladybug
+http://51.15.15.119:8080/98765/98765/59128
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Múmias Vivas!
+http://51.15.15.119:8080/98765/98765/60034
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: O Mundo de BIta
+http://51.15.15.119:8080/98765/98765/59177
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Peppa Pig
+http://51.15.15.119:8080/98765/98765/59127
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Show da Luna
+http://51.15.15.119:8080/98765/98765/59174
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: Vampirina
+http://51.15.15.119:8080/98765/98765/59531
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS 101 DALMATAS (BR2)
+http://51.15.15.119:8080/98765/98765/62625
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS 3 PALAVRINHAS (BR2)
+http://51.15.15.119:8080/98765/98765/62624
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS A PANTERA COR DE ROSA (BR2)
+http://51.15.15.119:8080/98765/98765/62623
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS ALIEN 9 (BR2)
+http://51.15.15.119:8080/98765/98765/62622
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS AQUAMAN (BR2)
+http://51.15.15.119:8080/98765/98765/62621
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS AS AVENTURAS BABAR (BR2)
+http://51.15.15.119:8080/98765/98765/62620
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS BABY LOONEY TUNES (BR2)
+http://51.15.15.119:8080/98765/98765/62619
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS BAKUGAN (BR2)
+http://51.15.15.119:8080/98765/98765/62618
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS BICUDO O LOBISOMEM (BR2)
+http://51.15.15.119:8080/98765/98765/62617
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS BLUE DRAGON (BR2)
+http://51.15.15.119:8080/98765/98765/62616
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS CAVALO DE FOGO (BR2)
+http://51.15.15.119:8080/98765/98765/62615
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS CHAVES DESENHO (BR2)
+http://51.15.15.119:8080/98765/98765/62614
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS DIGIMON (BR2)
+http://51.15.15.119:8080/98765/98765/62613
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS DON DRACULA (BR2)
+http://51.15.15.119:8080/98765/98765/62612
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS DU DUDU E EDU (BR2)
+http://51.15.15.119:8080/98765/98765/62611
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS EFEITO CINDERELA (BR2)
+http://51.15.15.119:8080/98765/98765/62610
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS EUREKA SEVEN (BR2)
+http://51.15.15.119:8080/98765/98765/62609
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS FABULAS DA DISNEY (BR2)
+http://51.15.15.119:8080/98765/98765/62608
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS FRANGO KUNG FU (BR2)
+http://51.15.15.119:8080/98765/98765/62607
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS FUTEBOL ANIMAL (BR2)
+http://51.15.15.119:8080/98765/98765/62606
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS GARFIELD E AMIGOS (BR2)
+http://51.15.15.119:8080/98765/98765/62605
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS GENERATOR REX (BR2)
+http://51.15.15.119:8080/98765/98765/62604
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS GHOST HUNT (BR2)
+http://51.15.15.119:8080/98765/98765/62603
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS HA MEGAMI (BR2)
+http://51.15.15.119:8080/98765/98765/62602
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS HISTORIA DE FANTASMAS (BR2)
+http://51.15.15.119:8080/98765/98765/62601
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS HOMEM ARANHA (BR2)
+http://51.15.15.119:8080/98765/98765/62600
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS HOMEM DE FERRO (BR2)
+http://51.15.15.119:8080/98765/98765/62599
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS HONG KONG FU (BR2)
+http://51.15.15.119:8080/98765/98765/62598
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS HOT WHEELS BATTLE FORCE (BR2)
+http://51.15.15.119:8080/98765/98765/62597
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS IRMAOS A OBRA (BR2)
+http://51.15.15.119:8080/98765/98765/62596
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS KARATE KID (BR2)
+http://51.15.15.119:8080/98765/98765/62595
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS MASTERCHEF BRASIL (BR2)
+http://51.15.15.119:8080/98765/98765/62594
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS MEGA MAN (BR2)
+http://51.15.15.119:8080/98765/98765/62593
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS MICKEY E DONALD (BR2)
+http://51.15.15.119:8080/98765/98765/62592
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS MIKE LU E OG (BR2)
+http://51.15.15.119:8080/98765/98765/62591
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS MUSE (BR2)
+http://51.15.15.119:8080/98765/98765/62590
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS O ACAMPAMENTO DE LAZLO (BR2)
+http://51.15.15.119:8080/98765/98765/62589
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS O FANTANSTICO MUNDO DE BOBY (BR2)
+http://51.15.15.119:8080/98765/98765/62588
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS O LABORATORIO DE DEXTER (BR2)
+http://51.15.15.119:8080/98765/98765/62587
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS O MASKARA (BR2)
+http://51.15.15.119:8080/98765/98765/62586
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS O NOVO PICA PAU (BR2)
+http://51.15.15.119:8080/98765/98765/62585
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS OS APUROS DE PEN (BR2)
+http://51.15.15.119:8080/98765/98765/62584
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS OS CACA FANTASMAS (BR2)
+http://51.15.15.119:8080/98765/98765/62583
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS OS INCRIVEIS (BR2)
+http://51.15.15.119:8080/98765/98765/62582
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS OS VINGADORES (BR2)
+http://51.15.15.119:8080/98765/98765/62581
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS OTOGIZOUSHI (BR2)
+http://51.15.15.119:8080/98765/98765/62580
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS PATRULHA ESTRELAR (BR2)
+http://51.15.15.119:8080/98765/98765/62579
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS PEGADINHAS DE SILVIO SANTOS (BR2)
+http://51.15.15.119:8080/98765/98765/62578
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS PEGADINHAS JO (BR2)
+http://51.15.15.119:8080/98765/98765/62577
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS PEIXONAUTA (BR2)
+http://51.15.15.119:8080/98765/98765/62576
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS POLICIA 24 HORAS (BR2)
+http://51.15.15.119:8080/98765/98765/62575
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS RIQUINHO (BR2)
+http://51.15.15.119:8080/98765/98765/62574
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS THE BIG BANG THEORY  (BR2)
+http://51.15.15.119:8080/98765/98765/62573
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: 3 PALAVRINHAS (BR2)
+http://51.15.15.119:8080/98765/98765/62570
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A FAMILIA ADDAMS (BR2)
+http://51.15.15.119:8080/98765/98765/62569
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A FORMIGA ATOMICA (BR2)
+http://51.15.15.119:8080/98765/98765/62568
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A PEQUENA SEREIA (BR2)
+http://51.15.15.119:8080/98765/98765/62567
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A TURMA DO PERNALONGA (BR2)
+http://51.15.15.119:8080/98765/98765/62566
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: A VACA E O FRANGO (BR2)
+http://51.15.15.119:8080/98765/98765/62565
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: AH QUE KIKO! KIKO E SUA TURMA (BR2)
+http://51.15.15.119:8080/98765/98765/62564
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: ALADDIN (BR2)
+http://51.15.15.119:8080/98765/98765/62563
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: ANIMANIACS (BR2)
+http://51.15.15.119:8080/98765/98765/62562
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: ARNOLD (BR2)
+http://51.15.15.119:8080/98765/98765/62561
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: BATMAN E ROBIN (BR2)
+http://51.15.15.119:8080/98765/98765/62560
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: BEN 10 FORCA ALIENIGENA (BR2)
+http://51.15.15.119:8080/98765/98765/62559
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: BIBO PAI E BOB FILHO (BR2)
+http://51.15.15.119:8080/98765/98765/62558
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: BICUDO O LOBISOMEM (BR2)
+http://51.15.15.119:8080/98765/98765/62557
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: BOB ESPONJA (BR2)
+http://51.15.15.119:8080/98765/98765/62556
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: BUZZ LIGHTYEAR (BR2)
+http://51.15.15.119:8080/98765/98765/62555
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CASTELO RA TIM BUM (BR2)
+http://51.15.15.119:8080/98765/98765/62554
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CAVALO DE FOGO (BR2)
+http://51.15.15.119:8080/98765/98765/62553
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CHANGEMAN (BR2)
+http://51.15.15.119:8080/98765/98765/62552
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CHAPOLIN (BR2)
+http://51.15.15.119:8080/98765/98765/62551
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CHAVES (BR2)
+http://51.15.15.119:8080/98765/98765/62550
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE A
+http://51.15.15.119:8080/98765/98765/62549
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE ANIMA
+http://51.15.15.119:8080/98765/98765/62548
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE COMEDIA (BR2)
+http://51.15.15.119:8080/98765/98765/62547
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE DC (BR2)
+http://51.15.15.119:8080/98765/98765/62546
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE DRAMA (BR2)
+http://51.15.15.119:8080/98765/98765/62545
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE FAROESTE (BR2)
+http://51.15.15.119:8080/98765/98765/62544
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE GUERRA (BR2)
+http://51.15.15.119:8080/98765/98765/62543
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE LAN
+http://51.15.15.119:8080/98765/98765/62542
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE MARVEL (BR2)
+http://51.15.15.119:8080/98765/98765/62541
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE NACIONAL (BR2)
+http://51.15.15.119:8080/98765/98765/62540
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CINE TERROR (BR2)
+http://51.15.15.119:8080/98765/98765/62539
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: COLECAO BOB ZOOM (BR2)
+http://51.15.15.119:8080/98765/98765/62538
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CORAGEM C
+http://51.15.15.119:8080/98765/98765/62537
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: CORRIDA MALUCA (BR2)
+http://51.15.15.119:8080/98765/98765/62536
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DE VOLTA PARA O FUTURO (BR2)
+http://51.15.15.119:8080/98765/98765/62535
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DESENHOS BIBLICOS (BR2)
+http://51.15.15.119:8080/98765/98765/62534
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DORA A AVENTUREIRA (BR2)
+http://51.15.15.119:8080/98765/98765/62533
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DOUG (BR2)
+http://51.15.15.119:8080/98765/98765/62532
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DR HOUSE (BR2)
+http://51.15.15.119:8080/98765/98765/62531
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DRAGON BALL Z  SAGA DE MAJIN BOO (BR2)
+http://51.15.15.119:8080/98765/98765/62530
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DRAGON BALL Z: SAGA DE CELL (BR2)
+http://51.15.15.119:8080/98765/98765/62529
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DRAGON BALL Z: SAGA DE FREEZA (BR2)
+http://51.15.15.119:8080/98765/98765/62528
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DRAGON BALL Z: SAGA DE GARLIC JR (BR2)
+http://51.15.15.119:8080/98765/98765/62527
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DRAGON BALL Z: SAGA DOS ANDROIDE (BR2)
+http://51.15.15.119:8080/98765/98765/62526
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DRAGON BALL Z: SAGA DOS SAYAJINS (BR2)
+http://51.15.15.119:8080/98765/98765/62525
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: DU DUDU E EDU (BR2)
+http://51.15.15.119:8080/98765/98765/62524
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: EU A PATROA E AS CRIAN
+http://51.15.15.119:8080/98765/98765/62523
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: FAMILIA DINOSSAURO (BR2)
+http://51.15.15.119:8080/98765/98765/62522
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: FARMEES
+http://51.15.15.119:8080/98765/98765/56980
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: FLASHMAN (BR2)
+http://51.15.15.119:8080/98765/98765/62521
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: FRANKENSTEIN JUNIOR (BR2)
+http://51.15.15.119:8080/98765/98765/62520
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: GALINHA PINTADINHA (BR2)
+http://51.15.15.119:8080/98765/98765/62519
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: JAMBO E RUIVAO (BR2)
+http://51.15.15.119:8080/98765/98765/62518
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: JASPION (BR2)
+http://51.15.15.119:8080/98765/98765/62517
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: JIRAYA (BR2)
+http://51.15.15.119:8080/98765/98765/62516
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: LIGEIRINHO (BR2)
+http://51.15.15.119:8080/98765/98765/62515
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: MASTER CHEF (BR2)
+http://51.15.15.119:8080/98765/98765/62514
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: MOSQUITO E MOSCARDO (BR2)
+http://51.15.15.119:8080/98765/98765/62513
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: MR.BEAN (BR2)
+http://51.15.15.119:8080/98765/98765/62512
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: O INSPETOR (BR2)
+http://51.15.15.119:8080/98765/98765/62511
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: O MASKARA (BR2)
+http://51.15.15.119:8080/98765/98765/62510
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: O SHOW DA LUNA (BR2)
+http://51.15.15.119:8080/98765/98765/62509
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: O SOCIO (BR2)
+http://51.15.15.119:8080/98765/98765/62508
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: OS NORMAIS (BR2)
+http://51.15.15.119:8080/98765/98765/62507
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: OS TRAPALHOES (BR2)
+http://51.15.15.119:8080/98765/98765/62506
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: PATRULHA CANINA (BR2)
+http://51.15.15.119:8080/98765/98765/62505
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: PERNALONGA (BR2)
+http://51.15.15.119:8080/98765/98765/62504
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: PICA PAU (BR2)
+http://51.15.15.119:8080/98765/98765/62503
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: PJ MASKS (BR2)
+http://51.15.15.119:8080/98765/98765/62502
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: RICK AND MORTY (BR2)
+http://51.15.15.119:8080/98765/98765/62501
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: SAMURAI JACK (BR2)
+http://51.15.15.119:8080/98765/98765/62500
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: SILVIO SANTOS (BR2)
+http://51.15.15.119:8080/98765/98765/62499
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: SOUTH PARK (BR2)
+http://51.15.15.119:8080/98765/98765/62498
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: STANDUP (BR2)
+http://51.15.15.119:8080/98765/98765/62497
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: SUPER CAMPEOES (BR2)
+http://51.15.15.119:8080/98765/98765/62496
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: THE BIG BANG THEORY (BR2)
+http://51.15.15.119:8080/98765/98765/62495
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: TITIO AVO (BR2)
+http://51.15.15.119:8080/98765/98765/62494
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: TODO MUNDO ODEIA O CHRIS (BR2)
+http://51.15.15.119:8080/98765/98765/62493
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: TOM & JERRY (BR2)
+http://51.15.15.119:8080/98765/98765/62492
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: TOMA LA DA CA (BR2)
+http://51.15.15.119:8080/98765/98765/62491
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: UFC (BR2)
+http://51.15.15.119:8080/98765/98765/62490
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: ULTRAMAN (BR2)
+http://51.15.15.119:8080/98765/98765/62489
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: UM MALUCO NO PEDACO (BR2)
+http://51.15.15.119:8080/98765/98765/62488
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: WINSPECTOR (BR2)
+http://51.15.15.119:8080/98765/98765/62487
+#EXTINF:-1, group-title="CANAIS PREMIUM 3", 24HS: X MEN EVOLUTION (BR2)
+http://51.15.15.119:8080/98765/98765/62486
