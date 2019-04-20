@@ -1,524 +1,472 @@
 #EXTM3U
-#EXTINF:-1, group-title="CANAIS PREMIUM", A&E HD
-http://maxptv.ddns.net:25461/Erica/1234/231
-#EXTINF:-1, group-title="CANAIS PREMIUM", A&E SD
-http://maxptv.ddns.net:25461/Erica/1234/230
-#EXTINF:-1, group-title="CANAIS PREMIUM", AMC HD
-http://maxptv.ddns.net:25461/Erica/1234/229
-#EXTINF:-1, group-title="CANAIS PREMIUM", AMC SD
-http://maxptv.ddns.net:25461/Erica/1234/228
-#EXTINF:-1, group-title="CANAIS PREMIUM", AXN HD
-http://maxptv.ddns.net:25461/Erica/1234/224
-#EXTINF:-1, group-title="CANAIS PREMIUM", AXN SD
-http://maxptv.ddns.net:25461/Erica/1234/223
-#EXTINF:-1, group-title="CANAIS PREMIUM", Animal Planet HD
-http://maxptv.ddns.net:25461/Erica/1234/227
-#EXTINF:-1, group-title="CANAIS PREMIUM", Animal Planet SD
-http://maxptv.ddns.net:25461/Erica/1234/232
-#EXTINF:-1, group-title="CANAIS PREMIUM", Arte1 HD
-http://maxptv.ddns.net:25461/Erica/1234/226
-#EXTINF:-1, group-title="CANAIS PREMIUM", Arte1 SD
-http://maxptv.ddns.net:25461/Erica/1234/225
-#EXTINF:-1, group-title="CANAIS PREMIUM", BIS HD
-http://maxptv.ddns.net:25461/Erica/1234/212
-#EXTINF:-1, group-title="CANAIS PREMIUM", BIS SD
-http://maxptv.ddns.net:25461/Erica/1234/211
-#EXTINF:-1, group-title="CANAIS PREMIUM", BabyTV HD
-http://maxptv.ddns.net:25461/Erica/1234/222
-#EXTINF:-1, group-title="CANAIS PREMIUM", BabyTV SD
-http://maxptv.ddns.net:25461/Erica/1234/221
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band Campinas HD
-http://maxptv.ddns.net:25461/Erica/1234/220
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band Campinas SD
-http://maxptv.ddns.net:25461/Erica/1234/219
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band News HD
-http://maxptv.ddns.net:25461/Erica/1234/218
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band News SD
-http://maxptv.ddns.net:25461/Erica/1234/217
-#EXTINF:-1, group-title="CANAIS PREMIUM", BandSports HD
-http://maxptv.ddns.net:25461/Erica/1234/216
-#EXTINF:-1, group-title="CANAIS PREMIUM", BandSports SD
-http://maxptv.ddns.net:25461/Erica/1234/215
-#EXTINF:-1, group-title="CANAIS PREMIUM", Boomerang HD
-http://maxptv.ddns.net:25461/Erica/1234/210
-#EXTINF:-1, group-title="CANAIS PREMIUM", Boomerang SD
-http://maxptv.ddns.net:25461/Erica/1234/209
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal Curta! HD
-http://maxptv.ddns.net:25461/Erica/1234/208
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal Curta! SD
-http://maxptv.ddns.net:25461/Erica/1234/207
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal Futura HD
-http://maxptv.ddns.net:25461/Erica/1234/206
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal Futura SD
-http://maxptv.ddns.net:25461/Erica/1234/205
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal OFF HD
-http://maxptv.ddns.net:25461/Erica/1234/204
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal OFF SD
-http://maxptv.ddns.net:25461/Erica/1234/203
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal Woohoo HD
-http://maxptv.ddns.net:25461/Erica/1234/202
-#EXTINF:-1, group-title="CANAIS PREMIUM", Canal Woohoo SD
-http://maxptv.ddns.net:25461/Erica/1234/201
-#EXTINF:-1, group-title="CANAIS PREMIUM", Cartoon Network HD
-http://maxptv.ddns.net:25461/Erica/1234/200
-#EXTINF:-1, group-title="CANAIS PREMIUM", Cartoon Network SD
-http://maxptv.ddns.net:25461/Erica/1234/199
-#EXTINF:-1, group-title="CANAIS PREMIUM", Cinemax HD
-http://maxptv.ddns.net:25461/Erica/1234/198
-#EXTINF:-1, group-title="CANAIS PREMIUM", Cinemax SD
-http://maxptv.ddns.net:25461/Erica/1234/197
-#EXTINF:-1, group-title="CANAIS PREMIUM", Combate HD
-http://maxptv.ddns.net:25461/Erica/1234/196
-#EXTINF:-1, group-title="CANAIS PREMIUM", Combate SD
-http://maxptv.ddns.net:25461/Erica/1234/195
-#EXTINF:-1, group-title="CANAIS PREMIUM", Comedy Central HD
-http://maxptv.ddns.net:25461/Erica/1234/194
-#EXTINF:-1, group-title="CANAIS PREMIUM", Comedy Central SD
-http://maxptv.ddns.net:25461/Erica/1234/193
-#EXTINF:-1, group-title="CANAIS PREMIUM", Cultura HD
-http://maxptv.ddns.net:25461/Erica/1234/192
-#EXTINF:-1, group-title="CANAIS PREMIUM", Cultura SD
-http://maxptv.ddns.net:25461/Erica/1234/191
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Channel HD
-http://maxptv.ddns.net:25461/Erica/1234/190
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Channel SD
-http://maxptv.ddns.net:25461/Erica/1234/189
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Civilization HD
-http://maxptv.ddns.net:25461/Erica/1234/188
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Civilization SD
-http://maxptv.ddns.net:25461/Erica/1234/187
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Home & Health HD
-http://maxptv.ddns.net:25461/Erica/1234/186
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Home & Health SD
-http://maxptv.ddns.net:25461/Erica/1234/185
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Kids HD
-http://maxptv.ddns.net:25461/Erica/1234/184
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Kids SD
-http://maxptv.ddns.net:25461/Erica/1234/183
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Science HD
-http://maxptv.ddns.net:25461/Erica/1234/182
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Science SD
-http://maxptv.ddns.net:25461/Erica/1234/181
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Theater HD
-http://maxptv.ddns.net:25461/Erica/1234/180
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Turbo HD
-http://maxptv.ddns.net:25461/Erica/1234/178
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Turbo SD
-http://maxptv.ddns.net:25461/Erica/1234/177
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery World HD
-http://maxptv.ddns.net:25461/Erica/1234/176
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery World SD
-http://maxptv.ddns.net:25461/Erica/1234/175
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery theater SD
-http://maxptv.ddns.net:25461/Erica/1234/179
-#EXTINF:-1, group-title="CANAIS PREMIUM", Disney Channel  HD
-http://maxptv.ddns.net:25461/Erica/1234/174
-#EXTINF:-1, group-title="CANAIS PREMIUM", Disney Channel SD
-http://maxptv.ddns.net:25461/Erica/1234/173
-#EXTINF:-1, group-title="CANAIS PREMIUM", Disney Junior HD
-http://maxptv.ddns.net:25461/Erica/1234/172
-#EXTINF:-1, group-title="CANAIS PREMIUM", Disney Junior SD
-http://maxptv.ddns.net:25461/Erica/1234/171
-#EXTINF:-1, group-title="CANAIS PREMIUM", Disney XD HD
-http://maxptv.ddns.net:25461/Erica/1234/170
-#EXTINF:-1, group-title="CANAIS PREMIUM", Disney XD SD
-http://maxptv.ddns.net:25461/Erica/1234/169
-#EXTINF:-1, group-title="CANAIS PREMIUM", E! HD
-http://maxptv.ddns.net:25461/Erica/1234/168
-#EXTINF:-1, group-title="CANAIS PREMIUM", E! SD
-http://maxptv.ddns.net:25461/Erica/1234/167
-#EXTINF:-1, group-title="CANAIS PREMIUM", EPTV Campinas HD
-http://maxptv.ddns.net:25461/Erica/1234/166
-#EXTINF:-1, group-title="CANAIS PREMIUM", EPTV Campinas HD Alternativo
-http://maxptv.ddns.net:25461/Erica/1234/475
-#EXTINF:-1, group-title="CANAIS PREMIUM", EPTV Campinas HD Alternativo 2
-http://maxptv.ddns.net:25461/Erica/1234/476
-#EXTINF:-1, group-title="CANAIS PREMIUM", EPTV Campinas SD
-http://maxptv.ddns.net:25461/Erica/1234/165
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn Brasil HD
-http://maxptv.ddns.net:25461/Erica/1234/164
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn Brasil SD
-http://maxptv.ddns.net:25461/Erica/1234/163
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn HD
-http://maxptv.ddns.net:25461/Erica/1234/160
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn 2 HD
-http://maxptv.ddns.net:25461/Erica/1234/162
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn SD
-http://maxptv.ddns.net:25461/Erica/1234/159
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn 2 SD
-http://maxptv.ddns.net:25461/Erica/1234/161
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn Extra HD
-http://maxptv.ddns.net:25461/Erica/1234/158
-#EXTINF:-1, group-title="CANAIS PREMIUM", Espn Extra SD
-http://maxptv.ddns.net:25461/Erica/1234/157
-#EXTINF:-1, group-title="CANAIS PREMIUM", Film & Arts HD
-http://maxptv.ddns.net:25461/Erica/1234/156
-#EXTINF:-1, group-title="CANAIS PREMIUM", Film & Arts SD
-http://maxptv.ddns.net:25461/Erica/1234/155
-#EXTINF:-1, group-title="CANAIS PREMIUM", FOX HD
-http://maxptv.ddns.net:25461/Erica/1234/154
-#EXTINF:-1, group-title="CANAIS PREMIUM", FOX Life HD
-http://maxptv.ddns.net:25461/Erica/1234/153
-#EXTINF:-1, group-title="CANAIS PREMIUM", FOX Life SD
-http://maxptv.ddns.net:25461/Erica/1234/152
-#EXTINF:-1, group-title="CANAIS PREMIUM", FOX SD
-http://maxptv.ddns.net:25461/Erica/1234/147
-#EXTINF:-1, group-title="CANAIS PREMIUM", FX HD
-http://maxptv.ddns.net:25461/Erica/1234/142
-#EXTINF:-1, group-title="CANAIS PREMIUM", FX SD
-http://maxptv.ddns.net:25461/Erica/1234/141
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fish Tv
-http://maxptv.ddns.net:25461/Erica/1234/214
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fish Tv HD
-http://maxptv.ddns.net:25461/Erica/1234/213
-#EXTINF:-1, group-title="CANAIS PREMIUM", Food Network HD
-http://maxptv.ddns.net:25461/Erica/1234/333
-#EXTINF:-1, group-title="CANAIS PREMIUM", Food Network SD
-http://maxptv.ddns.net:25461/Erica/1234/334
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Premium 2 HD
-http://maxptv.ddns.net:25461/Erica/1234/151
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Premium 2 SD
-http://maxptv.ddns.net:25461/Erica/1234/150
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Premium HD
-http://maxptv.ddns.net:25461/Erica/1234/149
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Premium SD
-http://maxptv.ddns.net:25461/Erica/1234/148
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Sports 2 HD
-http://maxptv.ddns.net:25461/Erica/1234/146
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Sports 2 SD
-http://maxptv.ddns.net:25461/Erica/1234/145
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Sports HD
-http://maxptv.ddns.net:25461/Erica/1234/144
-#EXTINF:-1, group-title="CANAIS PREMIUM", Fox Sports SD
-http://maxptv.ddns.net:25461/Erica/1234/143
-#EXTINF:-1, group-title="CANAIS PREMIUM", GNT HD
-http://maxptv.ddns.net:25461/Erica/1234/136
-#EXTINF:-1, group-title="CANAIS PREMIUM", GNT SD
-http://maxptv.ddns.net:25461/Erica/1234/135
-#EXTINF:-1, group-title="CANAIS PREMIUM", GloboNews HD
-http://maxptv.ddns.net:25461/Erica/1234/140
-#EXTINF:-1, group-title="CANAIS PREMIUM", GloboNews SD
-http://maxptv.ddns.net:25461/Erica/1234/139
-#EXTINF:-1, group-title="CANAIS PREMIUM", Gloob HD
-http://maxptv.ddns.net:25461/Erica/1234/138
-#EXTINF:-1, group-title="CANAIS PREMIUM", Gloob SD
-http://maxptv.ddns.net:25461/Erica/1234/137
-#EXTINF:-1, group-title="CANAIS PREMIUM", H2 HD
-http://maxptv.ddns.net:25461/Erica/1234/134
-#EXTINF:-1, group-title="CANAIS PREMIUM", H2 SD
-http://maxptv.ddns.net:25461/Erica/1234/133
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO 2 HD
-http://maxptv.ddns.net:25461/Erica/1234/132
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO 2 SD
-http://maxptv.ddns.net:25461/Erica/1234/131
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO Family HD
-http://maxptv.ddns.net:25461/Erica/1234/130
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO Family SD
-http://maxptv.ddns.net:25461/Erica/1234/129
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO HD
-http://maxptv.ddns.net:25461/Erica/1234/128
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band Sp HD
-http://maxptv.ddns.net:25461/Erica/1234/127
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band Sp  SD
-http://maxptv.ddns.net:25461/Erica/1234/126
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO Plus HD
-http://maxptv.ddns.net:25461/Erica/1234/125
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO Plus SD
-http://maxptv.ddns.net:25461/Erica/1234/124
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO SD
-http://maxptv.ddns.net:25461/Erica/1234/123
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO Signature HD
-http://maxptv.ddns.net:25461/Erica/1234/122
-#EXTINF:-1, group-title="CANAIS PREMIUM", HBO Signature SD
-http://maxptv.ddns.net:25461/Erica/1234/121
-#EXTINF:-1, group-title="CANAIS PREMIUM", History Channel HD
-http://maxptv.ddns.net:25461/Erica/1234/120
-#EXTINF:-1, group-title="CANAIS PREMIUM", History Channel SD
-http://maxptv.ddns.net:25461/Erica/1234/119
-#EXTINF:-1, group-title="CANAIS PREMIUM", ID HD
-http://maxptv.ddns.net:25461/Erica/1234/118
-#EXTINF:-1, group-title="CANAIS PREMIUM", ID SD
-http://maxptv.ddns.net:25461/Erica/1234/117
-#EXTINF:-1, group-title="CANAIS PREMIUM", Lifetime HD
-http://maxptv.ddns.net:25461/Erica/1234/116
-#EXTINF:-1, group-title="CANAIS PREMIUM", Lifetime SD
-http://maxptv.ddns.net:25461/Erica/1234/115
-#EXTINF:-1, group-title="CANAIS PREMIUM", MAX Prime HD
-http://maxptv.ddns.net:25461/Erica/1234/109
-#EXTINF:-1, group-title="CANAIS PREMIUM", MAX Prime SD
-http://maxptv.ddns.net:25461/Erica/1234/108
-#EXTINF:-1, group-title="CANAIS PREMIUM", MTV HD
-http://maxptv.ddns.net:25461/Erica/1234/102
-#EXTINF:-1, group-title="CANAIS PREMIUM", MTV SD
-http://maxptv.ddns.net:25461/Erica/1234/101
-#EXTINF:-1, group-title="CANAIS PREMIUM", MULTISHOW HD
-http://maxptv.ddns.net:25461/Erica/1234/100
-#EXTINF:-1, group-title="CANAIS PREMIUM", MULTISHOW SD
-http://maxptv.ddns.net:25461/Erica/1234/99
-#EXTINF:-1, group-title="CANAIS PREMIUM", Mais Globosat HD
-http://maxptv.ddns.net:25461/Erica/1234/114
-#EXTINF:-1, group-title="CANAIS PREMIUM", Mais Globosat SD
-http://maxptv.ddns.net:25461/Erica/1234/113
-#EXTINF:-1, group-title="CANAIS PREMIUM", Max HD
-http://maxptv.ddns.net:25461/Erica/1234/112
-#EXTINF:-1, group-title="CANAIS PREMIUM", Record News HD
-http://maxptv.ddns.net:25461/Erica/1234/111
-#EXTINF:-1, group-title="CANAIS PREMIUM", Record News SD
-http://maxptv.ddns.net:25461/Erica/1234/110
-#EXTINF:-1, group-title="CANAIS PREMIUM", Max SD
-http://maxptv.ddns.net:25461/Erica/1234/107
-#EXTINF:-1, group-title="CANAIS PREMIUM", Max UP HD
-http://maxptv.ddns.net:25461/Erica/1234/106
-#EXTINF:-1, group-title="CANAIS PREMIUM", Max UP SD
-http://maxptv.ddns.net:25461/Erica/1234/105
-#EXTINF:-1, group-title="CANAIS PREMIUM", Megapix HD
-http://maxptv.ddns.net:25461/Erica/1234/104
-#EXTINF:-1, group-title="CANAIS PREMIUM", Megapix SD
-http://maxptv.ddns.net:25461/Erica/1234/103
-#EXTINF:-1, group-title="CANAIS PREMIUM", NHK HD
-http://maxptv.ddns.net:25461/Erica/1234/92
-#EXTINF:-1, group-title="CANAIS PREMIUM", NHK SD
-http://maxptv.ddns.net:25461/Erica/1234/91
-#EXTINF:-1, group-title="CANAIS PREMIUM", Nat Geo Kids HD
-http://maxptv.ddns.net:25461/Erica/1234/98
-#EXTINF:-1, group-title="CANAIS PREMIUM", Nat Geo Kids SD
-http://maxptv.ddns.net:25461/Erica/1234/97
-#EXTINF:-1, group-title="CANAIS PREMIUM", NatGeo Wild HD
-http://maxptv.ddns.net:25461/Erica/1234/96
-#EXTINF:-1, group-title="CANAIS PREMIUM", NatGeo Wild SD
-http://maxptv.ddns.net:25461/Erica/1234/95
-#EXTINF:-1, group-title="CANAIS PREMIUM", National Geographic HD
-http://maxptv.ddns.net:25461/Erica/1234/94
-#EXTINF:-1, group-title="CANAIS PREMIUM", National Geographic SD
-http://maxptv.ddns.net:25461/Erica/1234/93
-#EXTINF:-1, group-title="CANAIS PREMIUM", Nick Jr HD
-http://maxptv.ddns.net:25461/Erica/1234/90
-#EXTINF:-1, group-title="CANAIS PREMIUM", Nick Jr SD
-http://maxptv.ddns.net:25461/Erica/1234/89
-#EXTINF:-1, group-title="CANAIS PREMIUM", Nickelodeon HD
-http://maxptv.ddns.net:25461/Erica/1234/88
-#EXTINF:-1, group-title="CANAIS PREMIUM", Nickelodeon SD
-http://maxptv.ddns.net:25461/Erica/1234/87
-#EXTINF:-1, group-title="CANAIS PREMIUM", Paramount Channel HD
-http://maxptv.ddns.net:25461/Erica/1234/86
-#EXTINF:-1, group-title="CANAIS PREMIUM", Paramount Channel SD
-http://maxptv.ddns.net:25461/Erica/1234/85
-#EXTINF:-1, group-title="CANAIS PREMIUM", Playboy HD
-http://maxptv.ddns.net:25461/Erica/1234/84
-#EXTINF:-1, group-title="CANAIS PREMIUM", Playboy SD
-http://maxptv.ddns.net:25461/Erica/1234/83
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 1 HD
-http://maxptv.ddns.net:25461/Erica/1234/82
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 1 SD
-http://maxptv.ddns.net:25461/Erica/1234/81
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 2 HD
-http://maxptv.ddns.net:25461/Erica/1234/80
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 2 SD
-http://maxptv.ddns.net:25461/Erica/1234/79
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 3 HD
-http://maxptv.ddns.net:25461/Erica/1234/78
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 3 SD
-http://maxptv.ddns.net:25461/Erica/1234/77
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 4 HD
-http://maxptv.ddns.net:25461/Erica/1234/76
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 4 SD
-http://maxptv.ddns.net:25461/Erica/1234/75
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 5 HD
-http://maxptv.ddns.net:25461/Erica/1234/74
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 5 SD
-http://maxptv.ddns.net:25461/Erica/1234/73
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 6 HD
-http://maxptv.ddns.net:25461/Erica/1234/72
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 6 SD
-http://maxptv.ddns.net:25461/Erica/1234/71
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 7 HD
-http://maxptv.ddns.net:25461/Erica/1234/70
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 7 SD
-http://maxptv.ddns.net:25461/Erica/1234/69
-#EXTINF:-1, group-title="CANAIS PREMIUM", Globo Sp HD
-http://maxptv.ddns.net:25461/Erica/1234/68
-#EXTINF:-1, group-title="CANAIS PREMIUM", Globo Sp SD
-http://maxptv.ddns.net:25461/Erica/1234/67
-#EXTINF:-1, group-title="CANAIS PREMIUM", Record HD
-http://maxptv.ddns.net:25461/Erica/1234/64
-#EXTINF:-1, group-title="CANAIS PREMIUM", Record SD
-http://maxptv.ddns.net:25461/Erica/1234/63
-#EXTINF:-1, group-title="CANAIS PREMIUM", Rede Vida HD
-http://maxptv.ddns.net:25461/Erica/1234/62
-#EXTINF:-1, group-title="CANAIS PREMIUM", Rede Vida SD
-http://maxptv.ddns.net:25461/Erica/1234/61
-#EXTINF:-1, group-title="CANAIS PREMIUM", RedeTV HD
-http://maxptv.ddns.net:25461/Erica/1234/60
-#EXTINF:-1, group-title="CANAIS PREMIUM", RedeTV SD
-http://maxptv.ddns.net:25461/Erica/1234/59
-#EXTINF:-1, group-title="CANAIS PREMIUM", Rá-Tim-Bum HD
-http://maxptv.ddns.net:25461/Erica/1234/66
-#EXTINF:-1, group-title="CANAIS PREMIUM", Rá-Tim-Bum SD
-http://maxptv.ddns.net:25461/Erica/1234/65
-#EXTINF:-1, group-title="CANAIS PREMIUM", SBT HD
-http://maxptv.ddns.net:25461/Erica/1234/58
-#EXTINF:-1, group-title="CANAIS PREMIUM", SBT HD Alternativo
-http://maxptv.ddns.net:25461/Erica/1234/477
-#EXTINF:-1, group-title="CANAIS PREMIUM", SBT SD
-http://maxptv.ddns.net:25461/Erica/1234/57
-#EXTINF:-1, group-title="CANAIS PREMIUM", Sextreme HD
-http://maxptv.ddns.net:25461/Erica/1234/56
-#EXTINF:-1, group-title="CANAIS PREMIUM", Sextreme SD
-http://maxptv.ddns.net:25461/Erica/1234/55
-#EXTINF:-1, group-title="CANAIS PREMIUM", Sexy Hot HD
-http://maxptv.ddns.net:25461/Erica/1234/54
-#EXTINF:-1, group-title="CANAIS PREMIUM", Sexy Hot SD
-http://maxptv.ddns.net:25461/Erica/1234/53
-#EXTINF:-1, group-title="CANAIS PREMIUM", Sony HD
-http://maxptv.ddns.net:25461/Erica/1234/52
-#EXTINF:-1, group-title="CANAIS PREMIUM", Sony SD
-http://maxptv.ddns.net:25461/Erica/1234/51
-#EXTINF:-1, group-title="CANAIS PREMIUM", Space HD
-http://maxptv.ddns.net:25461/Erica/1234/50
-#EXTINF:-1, group-title="CANAIS PREMIUM", Space SD
-http://maxptv.ddns.net:25461/Erica/1234/49
-#EXTINF:-1, group-title="CANAIS PREMIUM", SporTV HD
-http://maxptv.ddns.net:25461/Erica/1234/48
-#EXTINF:-1, group-title="CANAIS PREMIUM", SporTV SD
-http://maxptv.ddns.net:25461/Erica/1234/47
-#EXTINF:-1, group-title="CANAIS PREMIUM", SporTV2 HD
-http://maxptv.ddns.net:25461/Erica/1234/46
-#EXTINF:-1, group-title="CANAIS PREMIUM", SporTV2 SD
-http://maxptv.ddns.net:25461/Erica/1234/45
-#EXTINF:-1, group-title="CANAIS PREMIUM", SporTV3 HD
-http://maxptv.ddns.net:25461/Erica/1234/44
-#EXTINF:-1, group-title="CANAIS PREMIUM", SporTV3 SD
-http://maxptv.ddns.net:25461/Erica/1234/43
-#EXTINF:-1, group-title="CANAIS PREMIUM", Studio Universal HD
-http://maxptv.ddns.net:25461/Erica/1234/42
-#EXTINF:-1, group-title="CANAIS PREMIUM", Studio Universal SD
-http://maxptv.ddns.net:25461/Erica/1234/41
-#EXTINF:-1, group-title="CANAIS PREMIUM", Syfy HD
-http://maxptv.ddns.net:25461/Erica/1234/40
-#EXTINF:-1, group-title="CANAIS PREMIUM", Syfy SD
-http://maxptv.ddns.net:25461/Erica/1234/39
-#EXTINF:-1, group-title="CANAIS PREMIUM", TBS HD
-http://maxptv.ddns.net:25461/Erica/1234/38
-#EXTINF:-1, group-title="CANAIS PREMIUM", TBS SD
-http://maxptv.ddns.net:25461/Erica/1234/37
-#EXTINF:-1, group-title="CANAIS PREMIUM", TCM HD
-http://maxptv.ddns.net:25461/Erica/1234/36
-#EXTINF:-1, group-title="CANAIS PREMIUM", TCM SD
-http://maxptv.ddns.net:25461/Erica/1234/35
-#EXTINF:-1, group-title="CANAIS PREMIUM", TLC HD
-http://maxptv.ddns.net:25461/Erica/1234/22
-#EXTINF:-1, group-title="CANAIS PREMIUM", TLC SD
-http://maxptv.ddns.net:25461/Erica/1234/21
-#EXTINF:-1, group-title="CANAIS PREMIUM", TNT HD
-http://maxptv.ddns.net:25461/Erica/1234/20
-#EXTINF:-1, group-title="CANAIS PREMIUM", TNT SD
-http://maxptv.ddns.net:25461/Erica/1234/19
-#EXTINF:-1, group-title="CANAIS PREMIUM", TNT Series HD
-http://maxptv.ddns.net:25461/Erica/1234/18
-#EXTINF:-1, group-title="CANAIS PREMIUM", TNT Series SD
-http://maxptv.ddns.net:25461/Erica/1234/17
-#EXTINF:-1, group-title="CANAIS PREMIUM", TV Aparecida HD
-http://maxptv.ddns.net:25461/Erica/1234/14
-#EXTINF:-1, group-title="CANAIS PREMIUM", TV Aparecida SD
-http://maxptv.ddns.net:25461/Erica/1234/13
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Action HD
-http://maxptv.ddns.net:25461/Erica/1234/34
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Action SD
-http://maxptv.ddns.net:25461/Erica/1234/33
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Cult  HD
-http://maxptv.ddns.net:25461/Erica/1234/31
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Cult SD
-http://maxptv.ddns.net:25461/Erica/1234/32
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Fun HD
-http://maxptv.ddns.net:25461/Erica/1234/30
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Fun SD
-http://maxptv.ddns.net:25461/Erica/1234/29
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Pipoca HD
-http://maxptv.ddns.net:25461/Erica/1234/28
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Pipoca SD
-http://maxptv.ddns.net:25461/Erica/1234/27
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Premium HD
-http://maxptv.ddns.net:25461/Erica/1234/26
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Premium SD
-http://maxptv.ddns.net:25461/Erica/1234/25
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Touch HD
-http://maxptv.ddns.net:25461/Erica/1234/24
-#EXTINF:-1, group-title="CANAIS PREMIUM", Telecine Touch SD
-http://maxptv.ddns.net:25461/Erica/1234/23
-#EXTINF:-1, group-title="CANAIS PREMIUM", Tooncast HD
-http://maxptv.ddns.net:25461/Erica/1234/16
-#EXTINF:-1, group-title="CANAIS PREMIUM", Tooncast SD
-http://maxptv.ddns.net:25461/Erica/1234/15
-#EXTINF:-1, group-title="CANAIS PREMIUM", Universal Channel HD
-http://maxptv.ddns.net:25461/Erica/1234/12
-#EXTINF:-1, group-title="CANAIS PREMIUM", Universal Channel SD
-http://maxptv.ddns.net:25461/Erica/1234/11
-#EXTINF:-1, group-title="CANAIS PREMIUM", VH1 HD
-http://maxptv.ddns.net:25461/Erica/1234/8
-#EXTINF:-1, group-title="CANAIS PREMIUM", VH1 SD
-http://maxptv.ddns.net:25461/Erica/1234/7
-#EXTINF:-1, group-title="CANAIS PREMIUM", Venus HD
-http://maxptv.ddns.net:25461/Erica/1234/10
-#EXTINF:-1, group-title="CANAIS PREMIUM", Venus SD
-http://maxptv.ddns.net:25461/Erica/1234/9
-#EXTINF:-1, group-title="CANAIS PREMIUM", Viva HD
-http://maxptv.ddns.net:25461/Erica/1234/6
-#EXTINF:-1, group-title="CANAIS PREMIUM", Viva SD
-http://maxptv.ddns.net:25461/Erica/1234/5
-#EXTINF:-1, group-title="CANAIS PREMIUM", Warner Bros HD
-http://maxptv.ddns.net:25461/Erica/1234/4
-#EXTINF:-1, group-title="CANAIS PREMIUM", Warner Bros SD
-http://maxptv.ddns.net:25461/Erica/1234/3
-#EXTINF:-1, group-title="CANAIS PREMIUM", Zoomoo HD
-http://maxptv.ddns.net:25461/Erica/1234/2
-#EXTINF:-1, group-title="CANAIS PREMIUM", Zoomoo SD
-http://maxptv.ddns.net:25461/Erica/1234/1
-#EXTINF:-1, group-title="CANAIS PREMIUM", Combate HD 2
-http://maxptv.ddns.net:25461/Erica/1234/573
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band - Ribeirão Preto HD
-http://maxptv.ddns.net:25461/Erica/1234/699
-#EXTINF:-1, group-title="CANAIS PREMIUM", Band - Ribeirão Preto SD
-http://maxptv.ddns.net:25461/Erica/1234/698
-#EXTINF:-1, group-title="CANAIS PREMIUM", EPTV RIBEIRAO PRETO HD
-http://maxptv.ddns.net:25461/Erica/1234/479
-#EXTINF:-1, group-title="CANAIS PREMIUM", EPTV RIBEIRAO PRETO SD
-http://maxptv.ddns.net:25461/Erica/1234/478
-#EXTINF:-1, group-title="CANAIS PREMIUM", Globo - EPTV R Preto HD
-http://maxptv.ddns.net:25461/Erica/1234/701
-#EXTINF:-1, group-title="CANAIS PREMIUM", Globo - EPTV R Preto SD
-http://maxptv.ddns.net:25461/Erica/1234/700
-#EXTINF:-1, group-title="CANAIS PREMIUM", Globo - NSC TV Floripa HD
-http://maxptv.ddns.net:25461/Erica/1234/697
-#EXTINF:-1, group-title="CANAIS PREMIUM", Globo - NSC TV Floripa SD
-http://maxptv.ddns.net:25461/Erica/1234/696
-#EXTINF:-1, group-title="CANAIS PREMIUM", Desenhos Animados
-http://maxptv.ddns.net:25461/Erica/1234/925
-#EXTINF:-1, group-title="CANAIS PREMIUM", Rede Minas HD
-http://maxptv.ddns.net:25461/Erica/1234/1184
-#EXTINF:-1, group-title="CANAIS PREMIUM", TV Igreja Mundial do Poder de Deus - IMPD TV
-http://maxptv.ddns.net:25461/Erica/1234/1191
-#EXTINF:-1, group-title="CANAIS PREMIUM", TV SÉCULO 21
-http://maxptv.ddns.net:25461/Erica/1234/1192
-#EXTINF:-1, group-title="CANAIS PREMIUM", Desenhos Clássicos TV
-http://maxptv.ddns.net:25461/Erica/1234/1205
-#EXTINF:-1, group-title="CANAIS PREMIUM", RedeTV HD Alternativo
-http://maxptv.ddns.net:25461/Erica/1234/1210
-#EXTINF:-1, group-title="CANAIS PREMIUM", Tv Canção Nova
-http://maxptv.ddns.net:25461/Erica/1234/1221
-#EXTINF:-1, group-title="CANAIS PREMIUM", Combate HD Alternativo
-http://maxptv.ddns.net:25461/Erica/1234/1304
-#EXTINF:-1, group-title="CANAIS PREMIUM", Combate SD Alternativo
-http://maxptv.ddns.net:25461/Erica/1234/1305
-#EXTINF:-1, group-title="CANAIS PREMIUM", Discovery Channel Alternativo HD
-http://maxptv.ddns.net:25461/Erica/1234/1380
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 1 HD Alternetivo
-http://maxptv.ddns.net:25461/Erica/1234/1129
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 3 HD Alternetivo
-http://maxptv.ddns.net:25461/Erica/1234/1130
-#EXTINF:-1, group-title="CANAIS PREMIUM", Premiere 4 HD Alternetivo
-http://maxptv.ddns.net:25461/Erica/1234/1131
 
-#EXTM3U
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", VIP: BR - ANIMAL PLANET HD
+http://31.220.1.190:8080/Jessica/Jessica1/198618
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", VIP: BR - Warner Bros FHD
+http://31.220.1.190:8080/Jessica/Jessica1/206791
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - BAND SPORT HD
+http://31.220.1.190:8080/Jessica/Jessica1/206110
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - beIN SPORTS
+http://31.220.1.190:8080/Jessica/Jessica1/206111
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - ESPN Brasil FHD
+http://31.220.1.190:8080/Jessica/Jessica1/206113
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/198475
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 2 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/198476
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", SPORT: BR - SPORTV 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/198474
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", ♫: BR - Hit TV
+http://31.220.1.190:8080/Jessica/Jessica1/206129
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", CARTOON: BR - Cartoon Network FHD
+http://31.220.1.190:8080/Jessica/Jessica1/198174
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: A&E HD
+http://31.220.1.190:8080/Jessica/Jessica1/66059
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: All Sports
+http://31.220.1.190:8080/Jessica/Jessica1/66050
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: AMC FHD
+http://31.220.1.190:8080/Jessica/Jessica1/100805
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ANIMAL PLANET Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/206328
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ANIMAL PLANET HD
+http://31.220.1.190:8080/Jessica/Jessica1/68999
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Anime Cartoon
+http://31.220.1.190:8080/Jessica/Jessica1/66019
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Aparceida
+http://31.220.1.190:8080/Jessica/Jessica1/159051
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ARTE 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/156983
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: AXN FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66021
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Azteca 13
+http://31.220.1.190:8080/Jessica/Jessica1/209683
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BABY TV HD
+http://31.220.1.190:8080/Jessica/Jessica1/157962
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Band
+http://31.220.1.190:8080/Jessica/Jessica1/100806
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND News HD
+http://31.220.1.190:8080/Jessica/Jessica1/66056
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND PARANA
+http://31.220.1.190:8080/Jessica/Jessica1/124369
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BAND SPORT HD
+http://31.220.1.190:8080/Jessica/Jessica1/66054
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: beIN SPORTS
+http://31.220.1.190:8080/Jessica/Jessica1/163992
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: BIS FHD
+http://31.220.1.190:8080/Jessica/Jessica1/95823
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Boomerang FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66065
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Brazil 2
+http://31.220.1.190:8080/Jessica/Jessica1/209685
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/156999
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CANAL DO BOI
+http://31.220.1.190:8080/Jessica/Jessica1/93196
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Escola
+http://31.220.1.190:8080/Jessica/Jessica1/95824
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CANAL RURAL
+http://31.220.1.190:8080/Jessica/Jessica1/124371
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Canal Sony HD
+http://31.220.1.190:8080/Jessica/Jessica1/157000
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cartoon Network FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139121
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CAVALHEIROS DO ZODIACOS
+http://31.220.1.190:8080/Jessica/Jessica1/163975
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cine 1
+http://31.220.1.190:8080/Jessica/Jessica1/125480
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Cinemax FHD
+http://31.220.1.190:8080/Jessica/Jessica1/100801
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Combate FHD
+http://31.220.1.190:8080/Jessica/Jessica1/156819
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: COMEDY CENTRAL HD
+http://31.220.1.190:8080/Jessica/Jessica1/163287
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: CURTA! HD
+http://31.220.1.190:8080/Jessica/Jessica1/123157
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DAZN HD
+http://31.220.1.190:8080/Jessica/Jessica1/208359
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139122
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Civilization FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66062
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Home&Health HD
+http://31.220.1.190:8080/Jessica/Jessica1/146294
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Kids FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139125
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Science FHD
+http://31.220.1.190:8080/Jessica/Jessica1/94188
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Theater FHD
+http://31.220.1.190:8080/Jessica/Jessica1/88099
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery Turbo FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139128
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Discovery World FHD
+http://31.220.1.190:8080/Jessica/Jessica1/100091
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Disney Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/116367
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Disney Jr FHD
+http://31.220.1.190:8080/Jessica/Jessica1/196318
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DISNEY XD HD
+http://31.220.1.190:8080/Jessica/Jessica1/68980
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DOIS HOMENS E MEIO 24HRS
+http://31.220.1.190:8080/Jessica/Jessica1/163976
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: DW Latin
+http://31.220.1.190:8080/Jessica/Jessica1/95827
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: E! HD
+http://31.220.1.190:8080/Jessica/Jessica1/88100
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: EI MAX HD
+http://31.220.1.190:8080/Jessica/Jessica1/208360
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ELEVEN SPORTS HD
+http://31.220.1.190:8080/Jessica/Jessica1/208372
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN + HD
+http://31.220.1.190:8080/Jessica/Jessica1/100804
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/130202
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN Brasil FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68955
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN EXTRA HD
+http://31.220.1.190:8080/Jessica/Jessica1/156829
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ESPN FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66036
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: EUROSPORT
+http://31.220.1.190:8080/Jessica/Jessica1/163853
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FILM & ARTS
+http://31.220.1.190:8080/Jessica/Jessica1/163854
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fish TV HD
+http://31.220.1.190:8080/Jessica/Jessica1/68974
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Food Network FHD
+http://31.220.1.190:8080/Jessica/Jessica1/88095
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fox HD
+http://31.220.1.190:8080/Jessica/Jessica1/196292
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX LIFE HD
+http://31.220.1.190:8080/Jessica/Jessica1/156831
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Fox Premium 1 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/88101
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX PREMIUM 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/163856
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/88071
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS 2
+http://31.220.1.190:8080/Jessica/Jessica1/68970
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX SPORTS HD
+http://31.220.1.190:8080/Jessica/Jessica1/156834
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FOX USA
+http://31.220.1.190:8080/Jessica/Jessica1/124217
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Futura HD
+http://31.220.1.190:8080/Jessica/Jessica1/66041
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: FX HD
+http://31.220.1.190:8080/Jessica/Jessica1/156832
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Amazonas
+http://31.220.1.190:8080/Jessica/Jessica1/123089
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO BRASILIA HD
+http://31.220.1.190:8080/Jessica/Jessica1/112287
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo EPTV Campinas
+http://31.220.1.190:8080/Jessica/Jessica1/149694
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo EPTV S
+http://31.220.1.190:8080/Jessica/Jessica1/123095
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo ES HD
+http://31.220.1.190:8080/Jessica/Jessica1/136658
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO FORTALEZA
+http://31.220.1.190:8080/Jessica/Jessica1/124244
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo MINAS
+http://31.220.1.190:8080/Jessica/Jessica1/92517
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo NE
+http://31.220.1.190:8080/Jessica/Jessica1/136662
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO NEWS HD
+http://31.220.1.190:8080/Jessica/Jessica1/156984
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO NORDESTE HD
+http://31.220.1.190:8080/Jessica/Jessica1/109201
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO PARANA HD
+http://31.220.1.190:8080/Jessica/Jessica1/163866
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO PORTUGAL
+http://31.220.1.190:8080/Jessica/Jessica1/124231
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Premium
+http://31.220.1.190:8080/Jessica/Jessica1/88051
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RBS TV PORTO ALEGRE
+http://31.220.1.190:8080/Jessica/Jessica1/163872
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RJ HD
+http://31.220.1.190:8080/Jessica/Jessica1/110340
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOBO RN HD
+http://31.220.1.190:8080/Jessica/Jessica1/124245
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Rural HD
+http://31.220.1.190:8080/Jessica/Jessica1/209527
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo SP
+http://31.220.1.190:8080/Jessica/Jessica1/196249
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Tv Tem Bauru HD
+http://31.220.1.190:8080/Jessica/Jessica1/149697
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globo Tv Verdes Mares Fortaleza
+http://31.220.1.190:8080/Jessica/Jessica1/139137
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Globosat HD
+http://31.220.1.190:8080/Jessica/Jessica1/102991
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GLOOB HD
+http://31.220.1.190:8080/Jessica/Jessica1/156987
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Gloobinho
+http://31.220.1.190:8080/Jessica/Jessica1/136680
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GNT HD
+http://31.220.1.190:8080/Jessica/Jessica1/88049
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: GOSPEL CARTOON
+http://31.220.1.190:8080/Jessica/Jessica1/163954
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: H2 Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/110344
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: H2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/139141
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/156835
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO FAMILY
+http://31.220.1.190:8080/Jessica/Jessica1/208364
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO HD
+http://31.220.1.190:8080/Jessica/Jessica1/156837
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO Plus
+http://31.220.1.190:8080/Jessica/Jessica1/209698
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO PLUS E
+http://31.220.1.190:8080/Jessica/Jessica1/68962
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HBO Signature FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68961
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: History 2
+http://31.220.1.190:8080/Jessica/Jessica1/210715
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: History Channel HD
+http://31.220.1.190:8080/Jessica/Jessica1/66051
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Hit TV
+http://31.220.1.190:8080/Jessica/Jessica1/136697
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Home&Health
+http://31.220.1.190:8080/Jessica/Jessica1/95841
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: HOMEM ARANHA 24 hrs
+http://31.220.1.190:8080/Jessica/Jessica1/163968
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ID: Investigação Discovery HD
+http://31.220.1.190:8080/Jessica/Jessica1/149711
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Investigation Disvovery
+http://31.220.1.190:8080/Jessica/Jessica1/175466
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Lifetime FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66068
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Mais Globo Sa
+http://31.220.1.190:8080/Jessica/Jessica1/114019
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Mana Sat
+http://31.220.1.190:8080/Jessica/Jessica1/66072
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MASTER TV
+http://31.220.1.190:8080/Jessica/Jessica1/105229
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139147
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max Prime HD
+http://31.220.1.190:8080/Jessica/Jessica1/157007
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Max Up HD
+http://31.220.1.190:8080/Jessica/Jessica1/157008
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Megapix FHD
+http://31.220.1.190:8080/Jessica/Jessica1/156842
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MTV FHD
+http://31.220.1.190:8080/Jessica/Jessica1/104797
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MTV PORTUGAL
+http://31.220.1.190:8080/Jessica/Jessica1/124268
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: MULTI SHOW HD
+http://31.220.1.190:8080/Jessica/Jessica1/156844
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Multi TV
+http://31.220.1.190:8080/Jessica/Jessica1/95842
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Music Box
+http://31.220.1.190:8080/Jessica/Jessica1/209701
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NAT GEO FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66048
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NAT GEO Kids FHD
+http://31.220.1.190:8080/Jessica/Jessica1/109218
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NATGEO WILD HD
+http://31.220.1.190:8080/Jessica/Jessica1/163892
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NBR
+http://31.220.1.190:8080/Jessica/Jessica1/124375
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Net Geo
+http://31.220.1.190:8080/Jessica/Jessica1/209702
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Nick Junior HD
+http://31.220.1.190:8080/Jessica/Jessica1/100803
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: NICKELODEN
+http://31.220.1.190:8080/Jessica/Jessica1/196323
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Novo Tempo
+http://31.220.1.190:8080/Jessica/Jessica1/95844
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: OFF HD
+http://31.220.1.190:8080/Jessica/Jessica1/104801
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: OS SIMPSON 24hr
+http://31.220.1.190:8080/Jessica/Jessica1/163965
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Paramount Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68947
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 1 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136728
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 2 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136731
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136734
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 4 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136737
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 5 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136740
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 6 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136744
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 7 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136747
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC 8
+http://31.220.1.190:8080/Jessica/Jessica1/136750
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PFC HD
+http://31.220.1.190:8080/Jessica/Jessica1/88065
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PLAY TV
+http://31.220.1.190:8080/Jessica/Jessica1/68946
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 2 HD
+http://31.220.1.190:8080/Jessica/Jessica1/156993
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 3 HD
+http://31.220.1.190:8080/Jessica/Jessica1/68943
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: PREMIER 24HS HD
+http://31.220.1.190:8080/Jessica/Jessica1/124282
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/104803
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 4 HD
+http://31.220.1.190:8080/Jessica/Jessica1/68942
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 5 HD
+http://31.220.1.190:8080/Jessica/Jessica1/164324
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 8
+http://31.220.1.190:8080/Jessica/Jessica1/163902
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere 9
+http://31.220.1.190:8080/Jessica/Jessica1/196269
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Premiere Clubes
+http://31.220.1.190:8080/Jessica/Jessica1/156848
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Prime Box
+http://31.220.1.190:8080/Jessica/Jessica1/95846
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Proyecto 40
+http://31.220.1.190:8080/Jessica/Jessica1/135023
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REAL MADRID TV
+http://31.220.1.190:8080/Jessica/Jessica1/124294
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record Campinas HD
+http://31.220.1.190:8080/Jessica/Jessica1/123123
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record FHD
+http://31.220.1.190:8080/Jessica/Jessica1/68934
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record News FHD
+http://31.220.1.190:8080/Jessica/Jessica1/66031
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Record SP HD
+http://31.220.1.190:8080/Jessica/Jessica1/109214
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REDE BRASIL
+http://31.220.1.190:8080/Jessica/Jessica1/93193
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: REDE TV HD
+http://31.220.1.190:8080/Jessica/Jessica1/93190
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT BRASIL
+http://31.220.1.190:8080/Jessica/Jessica1/111836
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT HD
+http://31.220.1.190:8080/Jessica/Jessica1/139151
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SBT SP HD
+http://31.220.1.190:8080/Jessica/Jessica1/208370
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SKY CINEMA HD UNO
+http://31.220.1.190:8080/Jessica/Jessica1/66080
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Sony FHD
+http://31.220.1.190:8080/Jessica/Jessica1/110357
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Space FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139152
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORT TV 3
+http://31.220.1.190:8080/Jessica/Jessica1/209704
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/88062
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 2 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139153
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139154
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SPORTV HD
+http://31.220.1.190:8080/Jessica/Jessica1/149745
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: STB
+http://31.220.1.190:8080/Jessica/Jessica1/68909
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Studio Universal HD
+http://31.220.1.190:8080/Jessica/Jessica1/157009
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: SYFY HD
+http://31.220.1.190:8080/Jessica/Jessica1/156852
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TBS HD
+http://31.220.1.190:8080/Jessica/Jessica1/88081
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Action FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136774
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Cult
+http://31.220.1.190:8080/Jessica/Jessica1/206439
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Fun FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136780
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TC Premium FHD
+http://31.220.1.190:8080/Jessica/Jessica1/136785
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TCM
+http://31.220.1.190:8080/Jessica/Jessica1/157011
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE ACTION HD
+http://31.220.1.190:8080/Jessica/Jessica1/157013
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE CULT HD
+http://31.220.1.190:8080/Jessica/Jessica1/157014
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE FUN HD
+http://31.220.1.190:8080/Jessica/Jessica1/156970
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE PIPOCA HD
+http://31.220.1.190:8080/Jessica/Jessica1/156969
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE PREMIUM HD
+http://31.220.1.190:8080/Jessica/Jessica1/157016
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TELECINE TOUCH HD
+http://31.220.1.190:8080/Jessica/Jessica1/157012
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TERRA VIVA
+http://31.220.1.190:8080/Jessica/Jessica1/124379
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: THE HISTORY CHANNEL HD
+http://31.220.1.190:8080/Jessica/Jessica1/163882
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TLC HD
+http://31.220.1.190:8080/Jessica/Jessica1/88079
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TNT FHD
+http://31.220.1.190:8080/Jessica/Jessica1/139155
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TNT SERIES HD
+http://31.220.1.190:8080/Jessica/Jessica1/157018
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TOONCAST HD
+http://31.220.1.190:8080/Jessica/Jessica1/163823
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV APARECIDA HD
+http://31.220.1.190:8080/Jessica/Jessica1/68905
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV BRASIL
+http://31.220.1.190:8080/Jessica/Jessica1/66028
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Brazil
+http://31.220.1.190:8080/Jessica/Jessica1/95858
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 1 HD
+http://31.220.1.190:8080/Jessica/Jessica1/124324
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 3 FHD
+http://31.220.1.190:8080/Jessica/Jessica1/124325
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV CINE 4 HD
+http://31.220.1.190:8080/Jessica/Jessica1/163934
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Cultura HD
+http://31.220.1.190:8080/Jessica/Jessica1/123144
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Diario
+http://31.220.1.190:8080/Jessica/Jessica1/66076
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Faap
+http://31.220.1.190:8080/Jessica/Jessica1/66058
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Tv Gazeta
+http://31.220.1.190:8080/Jessica/Jessica1/139156
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Geral
+http://31.220.1.190:8080/Jessica/Jessica1/95859
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV GLOBO CAMPINAS
+http://31.220.1.190:8080/Jessica/Jessica1/124243
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Globo HD
+http://31.220.1.190:8080/Jessica/Jessica1/89540
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV GLOBO PREMIUM HD
+http://31.220.1.190:8080/Jessica/Jessica1/66024
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Ideal
+http://31.220.1.190:8080/Jessica/Jessica1/136799
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV JUSTICA H264
+http://31.220.1.190:8080/Jessica/Jessica1/163929
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV LIBERAL BELEM
+http://31.220.1.190:8080/Jessica/Jessica1/163871
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV NBR
+http://31.220.1.190:8080/Jessica/Jessica1/133582
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV NOVO TEMPO
+http://31.220.1.190:8080/Jessica/Jessica1/163932
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV RA TIM BUM
+http://31.220.1.190:8080/Jessica/Jessica1/124328
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TV Record
+http://31.220.1.190:8080/Jessica/Jessica1/66023
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVE
+http://31.220.1.190:8080/Jessica/Jessica1/136630
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVI
+http://31.220.1.190:8080/Jessica/Jessica1/95857
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: TVN Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/68828
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: UM MALUCO NO PEDACO 24hrs
+http://31.220.1.190:8080/Jessica/Jessica1/163961
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Universal Channel FHD
+http://31.220.1.190:8080/Jessica/Jessica1/157019
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: VH1 Mega Hits
+http://31.220.1.190:8080/Jessica/Jessica1/206449
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Viva FHD
+http://31.220.1.190:8080/Jessica/Jessica1/104817
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Warner Bros FHD
+http://31.220.1.190:8080/Jessica/Jessica1/104818
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Woohoo Brasil
+http://31.220.1.190:8080/Jessica/Jessica1/163312
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: Woohoo HD
+http://31.220.1.190:8080/Jessica/Jessica1/146621
+#EXTINF:-1, group-title="CANAIS PREMIUM 2", BR: ZOOMOO
+http://31.220.1.190:8080/Jessica/Jessica1/164348
+
 #EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E
 http://streamtv.com.br:80/malek/malek/1667
 #EXTINF:-1, group-title="CANAIS PREMIUM 1", A&E HD
