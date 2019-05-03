@@ -887,3 +887,205 @@ http://load.kudaplay.tv/aovivo/HD_WARNER/video.m3u8?token=e77f76e51c3394cafdac24
 http://load.kudaplay.tv/aovivo/SD_WOOHOO/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
 #EXTINF:-1 type="stream" tvg-id="WOOHOO HD" tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Woohoo-clarohdtv-tv.jpg" group-title="Variedade",WOOHOO HD
 http://load.kudaplay.tv/aovivo/HD_WOOHOO/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 22 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/6402.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 22 (Cena 1)
+http://load.kudaplay.tv/vod/filme/6245.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 22 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/6403.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 22 (Cena 2)
+http://load.kudaplay.tv/vod/filme/6246.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 22 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/6404.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 22 (Cena 3)
+http://load.kudaplay.tv/vod/filme/6247.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 22 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/6405.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 22 (Cena 4)
+http://load.kudaplay.tv/vod/filme/6248.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 23 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-a-casa-das-brasileirinhas-temporada-Frente-1012.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 23 (Cena 1)
+http://load.kudaplay.tv/vod/filme/6337.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 23 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-a-casa-das-brasileirinhas-temporada-Frente-1012.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 23 (Cena 2)
+http://load.kudaplay.tv/vod/filme/6338.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 23 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-a-casa-das-brasileirinhas-temporada-Frente-1012.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 23 (Cena 3)
+http://load.kudaplay.tv/vod/filme/6339.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 23 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-a-casa-das-brasileirinhas-temporada-Frente-1012.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 23 (Cena 4)
+http://load.kudaplay.tv/vod/filme/6340.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 23 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-a-casa-das-brasileirinhas-temporada-Frente-1012.jpg" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 23 (Cena 5)
+http://load.kudaplay.tv/vod/filme/6341.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 24 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6484.gif" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 24 (Cena 1)
+http://load.kudaplay.tv/vod/filme/8982.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 24 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6485.gif" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 24 (Cena 2)
+http://load.kudaplay.tv/vod/filme/8983.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 24 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6486.gif" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 24 (Cena 3)
+http://load.kudaplay.tv/vod/filme/8984.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa das Brasileirinhas - Vol. 24 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6487.gif" group-title="Filme: Adulto",A Casa das Brasileirinhas - Vol. 24 (Cena 4)
+http://load.kudaplay.tv/vod/filme/8985.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 1 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4387.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 1 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4470.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 1 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4418.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 1 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4471.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 1 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4419.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 1 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4472.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 1 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4420.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 1 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4473.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 10" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5551.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 10
+http://load.kudaplay.tv/vod/filme/4509.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 11 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5716.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 11 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4510.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 11 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5717.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 11 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4511.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 11 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5718.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 11 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4512.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 11 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5719.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 11 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4513.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 12 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5852.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 12 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4514.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 12 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5853.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 12 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4515.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 12 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5854.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 12 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4516.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 12 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5855.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 12 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4517.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 12 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/5856.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 12 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4518.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 13 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6001.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 13 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4519.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 13 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6002.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 13 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4520.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 13 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6003.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 13 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4521.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 13 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6004.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 13 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4522.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 14 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6081.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 14 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4523.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 14 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6082.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 14 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4524.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 14 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6083.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 14 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4525.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 14 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6084.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 14 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4526.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 15 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6116.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 15 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4527.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 15 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6117.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 15 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4528.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 15 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6118.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 15 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4529.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 15 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6119.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 15 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4530.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 16 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6145.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 16 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4531.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 16 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6146.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 16 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4532.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 16 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6147.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 16 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4533.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 16 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6148.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 16 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4534.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 16 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6149.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 16 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4535.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 17 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6208.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 17 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4536.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 17 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6209.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 17 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4537.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 17 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6210.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 17 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4538.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 17 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6211.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 17 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4539.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 18 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6253.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 18 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4540.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 18 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6254.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 18 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4541.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 18 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6255.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 18 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4542.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 18 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6256.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 18 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4543.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 18 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6257.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 18 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4544.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 19 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6313.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 19 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4545.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 19 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6314.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 19 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4546.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 19 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6315.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 19 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4547.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 19 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6316.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 19 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4548.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 2 (Cena 1)" tvg-logo="http://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12494.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 2 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4474.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 2 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4505.jpg" group-title="Nao categorizado",A Casa Das Brasileirinhas: Vol. 2 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4475.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 2 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4521.jpg" group-title="Nao categorizado",A Casa Das Brasileirinhas: Vol. 2 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4476.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 2 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4556.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 2 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4477.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 2 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-casa-das-brasileirinhas-temporada-Frente-679.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 2 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4478.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 20 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6341.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 20 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4549.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 20 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6342.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 20 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4550.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 20 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6343.gif" group-title="Nao categorizado",A Casa Das Brasileirinhas: Vol. 20 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4551.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 20 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6344.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 20 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4552.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 21 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6357.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 21 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4553.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 21 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6358.gif" group-title="Nao categorizado",A Casa Das Brasileirinhas: Vol. 21 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4554.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 21 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6359.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 21 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4555.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 21 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6360.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 21 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4556.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 21 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/home/gif/6361.gif" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 21 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4557.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 3 (Cena 1)" tvg-logo="http://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12501.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 3 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4479.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 3 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4621.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 3 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4480.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 3 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4646.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 3 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4481.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 3 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4676.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 3 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4482.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 4 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4718.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 4 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4483.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 4 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4719.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 4 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4484.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 4 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4799.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 4 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4485.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 4 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-casa-das-brasileirinhas-temporada-Frente-713.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 4 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4486.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 5 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4816.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 5 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4487.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 5 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4822.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 5 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4488.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 5 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4823.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 5 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4489.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 5 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/4824.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 5 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4490.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 5 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-casa-das-brasileirinhas-temporada-Frente-728.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 5 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4491.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 6 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4941.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 6 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4492.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 6 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4942.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 6 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4493.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 6 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4943.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 6 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4494.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 6 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4944.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 6 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4495.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 7 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/5007.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 7 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4496.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 7 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/5008.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 7 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4497.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 7 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/5009.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 7 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4498.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 7 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/5010.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 7 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4499.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 8 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5095.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 8 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4500.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 8 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5096.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 8 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4501.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 8 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5097.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 8 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4502.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 8 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5098.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 8 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4503.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 8 (Cena 5)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5099.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 8 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4504.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 9 (Cena 1)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5427.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 9 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4505.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 9 (Cena 2)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5428.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 9 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4506.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 9 (Cena 3)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5429.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 9 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4507.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
+#EXTINF:-1 type="video" tvg-id="A Casa Das Brasileirinhas: Vol. 9 (Cena 4)" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/5430.jpg" group-title="Filme: Adulto",A Casa Das Brasileirinhas: Vol. 9 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4508.mp4/video.m3u8?token=e77f76e51c3394cafdac24790ed9aa46
