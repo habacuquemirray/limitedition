@@ -5372,3 +5372,1209 @@ http://iptv.wtf:8080/liehuwpt/xvXFd963d4/16769
 http://iptv.wtf:8080/liehuwpt/xvXFd963d4/16768
 #EXTINF:-1, group-title="CANAIS PREMIUM 5", BR | SPORT TV 3 HD
 http://iptv.wtf:8080/liehuwpt/xvXFd963d4/16767
+
+#EXTM3U
+#EXTINF:-1, group-title="NEW2019", A&E FHD H265 1
+http://samuraihd.com.br:80/977/977/5825
+#EXTINF:-1, group-title="NEW2019", A&E HD 1
+http://samuraihd.com.br:80/977/977/5824
+#EXTINF:-1, group-title="NEW2019", A&E SD 1
+http://samuraihd.com.br:80/977/977/5823
+#EXTINF:-1, group-title="NEW2019", AXN FHD H265 1
+http://samuraihd.com.br:80/977/977/5817
+#EXTINF:-1, group-title="NEW2019", AXN FHD 1*
+http://samuraihd.com.br:80/977/977/5818
+#EXTINF:-1, group-title="NEW2019", AXN FHD 2
+http://samuraihd.com.br:80/977/977/7463
+#EXTINF:-1, group-title="NEW2019", AXN HD 1*
+http://samuraihd.com.br:80/977/977/5816
+#EXTINF:-1, group-title="NEW2019", AXN SD 1
+http://samuraihd.com.br:80/977/977/5815
+#EXTINF:-1, group-title="NEW2019", AMC FHD 1
+http://samuraihd.com.br:80/977/977/5822
+#EXTINF:-1, group-title="NEW2019", AMC FHD H265 1
+http://samuraihd.com.br:80/977/977/5821
+#EXTINF:-1, group-title="NEW2019", AMC HD 1
+http://samuraihd.com.br:80/977/977/5820
+#EXTINF:-1, group-title="NEW2019", AMC SD 1
+http://samuraihd.com.br:80/977/977/5819
+#EXTINF:-1, group-title="NEW2019", ARTE 1 FHD 2
+http://samuraihd.com.br:80/977/977/7414
+#EXTINF:-1, group-title="NEW2019", ARTE1 HD 1
+http://samuraihd.com.br:80/977/977/6152
+#EXTINF:-1, group-title="NEW2019", ARTE1 SD 1
+http://samuraihd.com.br:80/977/977/6151
+#EXTINF:-1, group-title="NEW2019", DAZN 01²
+http://samuraihd.com.br:80/977/977/17325
+#EXTINF:-1, group-title="NEW2019", DAZN 02²
+http://samuraihd.com.br:80/977/977/17324
+#EXTINF:-1, group-title="NEW2019", BAND SPORTS FHD H265 1
+http://samuraihd.com.br:80/977/977/5828
+#EXTINF:-1, group-title="NEW2019", BAND SPORTS HD 1*
+http://samuraihd.com.br:80/977/977/5827
+#EXTINF:-1, group-title="NEW2019", BAND SPORTS SD 1
+http://samuraihd.com.br:80/977/977/5826
+#EXTINF:-1, group-title="NEW2019", BAND SPORTS HD²
+http://samuraihd.com.br:80/977/977/7493
+#EXTINF:-1, group-title="NEW2019", COMBATE FHD H265 1
+http://samuraihd.com.br:80/977/977/5830
+#EXTINF:-1, group-title="NEW2019", COMBATE FHD 1*
+http://samuraihd.com.br:80/977/977/5831
+#EXTINF:-1, group-title="NEW2019", COMBATE FHD²
+http://samuraihd.com.br:80/977/977/7476
+#EXTINF:-1, group-title="NEW2019", COMBATE HD*
+http://samuraihd.com.br:80/977/977/16725
+#EXTINF:-1, group-title="NEW2019", COMBATE HD²
+http://samuraihd.com.br:80/977/977/7426
+#EXTINF:-1, group-title="NEW2019", COMBATE HD 1*
+http://samuraihd.com.br:80/977/977/5829
+#EXTINF:-1, group-title="NEW2019", COMBATE SD*
+http://samuraihd.com.br:80/977/977/16724
+#EXTINF:-1, group-title="NEW2019", BAND FHD H265¹
+http://samuraihd.com.br:80/977/977/6285
+#EXTINF:-1, group-title="NEW2019", BAND FHD²
+http://samuraihd.com.br:80/977/977/7477
+#EXTINF:-1, group-title="NEW2019", BAND FHD¹
+http://samuraihd.com.br:80/977/977/6287
+#EXTINF:-1, group-title="NEW2019", BAND FHD¹*
+http://samuraihd.com.br:80/977/977/6286
+#EXTINF:-1, group-title="NEW2019", BAND SP HD¹*
+http://samuraihd.com.br:80/977/977/6282
+#EXTINF:-1, group-title="NEW2019", Band Hd 2
+http://samuraihd.com.br:80/977/977/7434
+#EXTINF:-1, group-title="NEW2019", BAND HD¹
+http://samuraihd.com.br:80/977/977/6284
+#EXTINF:-1, group-title="NEW2019", BAND SD¹
+http://samuraihd.com.br:80/977/977/6283
+#EXTINF:-1, group-title="NEW2019", BOOMERANG FHD H265 1
+http://samuraihd.com.br:80/977/977/6003
+#EXTINF:-1, group-title="NEW2019", BOOMBERANG FHD 2
+http://samuraihd.com.br:80/977/977/7488
+#EXTINF:-1, group-title="NEW2019", BOOMERANG FHD 1*
+http://samuraihd.com.br:80/977/977/6004
+#EXTINF:-1, group-title="NEW2019", BOOMBERANG HD 2
+http://samuraihd.com.br:80/977/977/7479
+#EXTINF:-1, group-title="NEW2019", CARTOON NETWORK FHD¹*
+http://samuraihd.com.br:80/977/977/6000
+#EXTINF:-1, group-title="NEW2019", CARTOON NETWORK  FHD²
+http://samuraihd.com.br:80/977/977/7328
+#EXTINF:-1, group-title="NEW2019", CARTOON NETWORK FHD H265¹
+http://samuraihd.com.br:80/977/977/5999
+#EXTINF:-1, group-title="NEW2019", CARTOON NETWORK HD¹*
+http://samuraihd.com.br:80/977/977/5998
+#EXTINF:-1, group-title="NEW2019", CARTOON NETWORK SD¹
+http://samuraihd.com.br:80/977/977/5997
+#EXTINF:-1, group-title="NEW2019", CINE SKY 1 SD 1
+http://samuraihd.com.br:80/977/977/5814
+#EXTINF:-1, group-title="NEW2019", CINE SKY 2 SD 1
+http://samuraihd.com.br:80/977/977/5813
+#EXTINF:-1, group-title="NEW2019", CINE SKY 3 SD 1
+http://samuraihd.com.br:80/977/977/5812
+#EXTINF:-1, group-title="NEW2019", CINE SKY 4 SD 1
+http://samuraihd.com.br:80/977/977/5811
+#EXTINF:-1, group-title="NEW2019", CINE SKY 5 SD 1
+http://samuraihd.com.br:80/977/977/5810
+#EXTINF:-1, group-title="NEW2019", EI PLUS 2 SD 1
+http://samuraihd.com.br:80/977/977/5845
+#EXTINF:-1, group-title="NEW2019", EI PLUS SD 1
+http://samuraihd.com.br:80/977/977/5844
+#EXTINF:-1, group-title="NEW2019", ESPN FHD H265 1
+http://samuraihd.com.br:80/977/977/5834
+#EXTINF:-1, group-title="NEW2019", ESPN FHD 1*
+http://samuraihd.com.br:80/977/977/5835
+#EXTINF:-1, group-title="NEW2019", ESPN HD 1*
+http://samuraihd.com.br:80/977/977/5833
+#EXTINF:-1, group-title="NEW2019", ESPN BRASIL FHD 1*
+http://samuraihd.com.br:80/977/977/5841
+#EXTINF:-1, group-title="NEW2019", ESPN BRASIL FHD H265 1
+http://samuraihd.com.br:80/977/977/5840
+#EXTINF:-1, group-title="NEW2019", ESPN BRASIL HD 1*
+http://samuraihd.com.br:80/977/977/5839
+#EXTINF:-1, group-title="NEW2019", ESPN BRASIL SD 1
+http://samuraihd.com.br:80/977/977/5838
+#EXTINF:-1, group-title="NEW2019", ESPN  BRASIL HD 2
+http://samuraihd.com.br:80/977/977/7327
+#EXTINF:-1, group-title="NEW2019", Espn BRASIL FHD 2
+http://samuraihd.com.br:80/977/977/7326
+#EXTINF:-1, group-title="NEW2019", ESPN 2 FHD H265 (BR1)
+http://samuraihd.com.br:80/977/977/5843
+#EXTINF:-1, group-title="NEW2019", ESPN 2 HD 1*
+http://samuraihd.com.br:80/977/977/5842
+#EXTINF:-1, group-title="NEW2019", ESPN EXTRA FHD²
+http://samuraihd.com.br:80/977/977/7492
+#EXTINF:-1, group-title="NEW2019", ESPN EXTRA HD 1
+http://samuraihd.com.br:80/977/977/5837
+#EXTINF:-1, group-title="NEW2019", ESPN EXTRA HD²
+http://samuraihd.com.br:80/977/977/7491
+#EXTINF:-1, group-title="NEW2019", ESPN EXTRA SD 1
+http://samuraihd.com.br:80/977/977/5836
+#EXTINF:-1, group-title="NEW2019", ESPN MAIS FHD 1*
+http://samuraihd.com.br:80/977/977/5832
+#EXTINF:-1, group-title="NEW2019", FOX FHD H265 1
+http://samuraihd.com.br:80/977/977/5808
+#EXTINF:-1, group-title="NEW2019", FOX FHD 1*
+http://samuraihd.com.br:80/977/977/5809
+#EXTINF:-1, group-title="NEW2019", FOX FHD 2
+http://samuraihd.com.br:80/977/977/7459
+#EXTINF:-1, group-title="NEW2019", FOX HD 1*
+http://samuraihd.com.br:80/977/977/5807
+#EXTINF:-1, group-title="NEW2019", FX FHD H265 1
+http://samuraihd.com.br:80/977/977/5801
+#EXTINF:-1, group-title="NEW2019", FX FHD 2
+http://samuraihd.com.br:80/977/977/7361
+#EXTINF:-1, group-title="NEW2019", FX HD 1
+http://samuraihd.com.br:80/977/977/5800
+#EXTINF:-1, group-title="NEW2019", FX SD 1
+http://samuraihd.com.br:80/977/977/5799
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM FHD1²
+http://samuraihd.com.br:80/977/977/7474
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM FHD 2 2
+http://samuraihd.com.br:80/977/977/7436
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM HD2²
+http://samuraihd.com.br:80/977/977/7435
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM1 FHD 1*
+http://samuraihd.com.br:80/977/977/5805
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM 1 HD 1
+http://samuraihd.com.br:80/977/977/5804
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM2 FHD 1
+http://samuraihd.com.br:80/977/977/5803
+#EXTINF:-1, group-title="NEW2019", FOX PREMIUM 2 HD 1
+http://samuraihd.com.br:80/977/977/5802
+#EXTINF:-1, group-title="NEW2019", GLOBO FHD RJ 2
+http://samuraihd.com.br:80/977/977/7403
+#EXTINF:-1, group-title="NEW2019", GLOBO RJ HD¹
+http://samuraihd.com.br:80/977/977/5903
+#EXTINF:-1, group-title="NEW2019", GLOBO HD RJ ²
+http://samuraihd.com.br:80/977/977/7402
+#EXTINF:-1, group-title="NEW2019", GLOBO RJ SD¹
+http://samuraihd.com.br:80/977/977/5902
+#EXTINF:-1, group-title="NEW2019", GLOBO RJ SD²
+http://samuraihd.com.br:80/977/977/7387
+#EXTINF:-1, group-title="NEW2019", GLOBO SP FHD H265¹
+http://samuraihd.com.br:80/977/977/5895
+#EXTINF:-1, group-title="NEW2019", GLOBO SP FHD²
+http://samuraihd.com.br:80/977/977/7321
+#EXTINF:-1, group-title="NEW2019", GLOBO SP HD 1*
+http://samuraihd.com.br:80/977/977/5894
+#EXTINF:-1, group-title="NEW2019", GLOBO SP SD¹
+http://samuraihd.com.br:80/977/977/5893
+#EXTINF:-1, group-title="NEW2019", GLOBO DF FHD¹
+http://samuraihd.com.br:80/977/977/5929
+#EXTINF:-1, group-title="NEW2019", GLOBO DF HD¹
+http://samuraihd.com.br:80/977/977/5939
+#EXTINF:-1, group-title="NEW2019", GLOBO DF SD¹
+http://samuraihd.com.br:80/977/977/5938
+#EXTINF:-1, group-title="NEW2019", GLOBO DF SD²
+http://samuraihd.com.br:80/977/977/7395
+#EXTINF:-1, group-title="NEW2019", GLOBO MINAS HD¹
+http://samuraihd.com.br:80/977/977/5919
+#EXTINF:-1, group-title="NEW2019", GLOBO MINAS HD²
+http://samuraihd.com.br:80/977/977/7398
+#EXTINF:-1, group-title="NEW2019", GLOBO MINAS SD¹
+http://samuraihd.com.br:80/977/977/5918
+#EXTINF:-1, group-title="NEW2019", GLOBO MINAS SD²
+http://samuraihd.com.br:80/977/977/7397
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV SUL MINAS SD 1
+http://samuraihd.com.br:80/977/977/5930
+#EXTINF:-1, group-title="NEW2019", GLOBO GRANDE MINAS SD¹
+http://samuraihd.com.br:80/977/977/5925
+#EXTINF:-1, group-title="NEW2019", GLOBO MANAUS HD¹
+http://samuraihd.com.br:80/977/977/5921
+#EXTINF:-1, group-title="NEW2019", GLOBO MANAUS SD¹
+http://samuraihd.com.br:80/977/977/5920
+#EXTINF:-1, group-title="NEW2019", GLOBO MANAUS SD²
+http://samuraihd.com.br:80/977/977/7388
+#EXTINF:-1, group-title="NEW2019", GLOBO VERDES MARES HD²
+http://samuraihd.com.br:80/977/977/7399
+#EXTINF:-1, group-title="NEW2019", GLOBO VERDES MARES FORTALEZA SD¹
+http://samuraihd.com.br:80/977/977/5886
+#EXTINF:-1, group-title="NEW2019", GLOBO TV BAHIA SD²
+http://samuraihd.com.br:80/977/977/7384
+#EXTINF:-1, group-title="NEW2019", GLOBO BAHIA SD¹
+http://samuraihd.com.br:80/977/977/5941
+#EXTINF:-1, group-title="NEW2019", GLOBO NE FHD¹
+http://samuraihd.com.br:80/977/977/5916
+#EXTINF:-1, group-title="NEW2019", GLOBO NORDESTE HD¹
+http://samuraihd.com.br:80/977/977/5912
+#EXTINF:-1, group-title="NEW2019", GLOBO NORDESTE SD¹
+http://samuraihd.com.br:80/977/977/5911
+#EXTINF:-1, group-title="NEW2019", GLOBO NORDESTE SD²
+http://samuraihd.com.br:80/977/977/7389
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV CAMPINAS SD¹
+http://samuraihd.com.br:80/977/977/5935
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV CAMPINAS SD²
+http://samuraihd.com.br:80/977/977/7394
+#EXTINF:-1, group-title="NEW2019", GLOBO TRIBUNA SANTOS SD¹
+http://samuraihd.com.br:80/977/977/5891
+#EXTINF:-1, group-title="NEW2019", GLOBO TV TRIBUNA SANTOS SD²
+http://samuraihd.com.br:80/977/977/7379
+#EXTINF:-1, group-title="NEW2019", GLOBO VANGUARDA S.J CAMPO SD 1
+http://samuraihd.com.br:80/977/977/5888
+#EXTINF:-1, group-title="NEW2019", GLOBO VANGUARDA TAUBATE SD 1
+http://samuraihd.com.br:80/977/977/5887
+#EXTINF:-1, group-title="NEW2019", GLOBO TV VANGUARDA S. J. DOS CAMPOS SD²
+http://samuraihd.com.br:80/977/977/7378
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV RIBEIRAO PRETO HD 1
+http://samuraihd.com.br:80/977/977/5933
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV RIBEIRAO PRETO SD 1
+http://samuraihd.com.br:80/977/977/5932
+#EXTINF:-1, group-title="NEW2019", GLOBO SOROCABA SD²
+http://samuraihd.com.br:80/977/977/5896
+#EXTINF:-1, group-title="NEW2019", GLOBO TV TEM SOROCABA SD²
+http://samuraihd.com.br:80/977/977/7380
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV SAO CARLOS SD 1
+http://samuraihd.com.br:80/977/977/5931
+#EXTINF:-1, group-title="NEW2019", GLOBO ALTO LITORAL SD 1
+http://samuraihd.com.br:80/977/977/5943
+#EXTINF:-1, group-title="NEW2019", GLOBO ASA BRANCA SD 1
+http://samuraihd.com.br:80/977/977/5942
+#EXTINF:-1, group-title="NEW2019", GLOBO BAURU SD 1
+http://samuraihd.com.br:80/977/977/5940
+#EXTINF:-1, group-title="NEW2019", GLOBO CABUGI SD (BR1)
+http://samuraihd.com.br:80/977/977/5937
+#EXTINF:-1, group-title="NEW2019", GLOBO CENTRO AMERICA CUIABA SD 1
+http://samuraihd.com.br:80/977/977/5936
+#EXTINF:-1, group-title="NEW2019", GLOBO FRONTEIRA SD 1
+http://samuraihd.com.br:80/977/977/5928
+#EXTINF:-1, group-title="NEW2019", GLOBO GAZETA ES SD 1
+http://samuraihd.com.br:80/977/977/5927
+#EXTINF:-1, group-title="NEW2019", GLOBO GOIANIA SD 1
+http://samuraihd.com.br:80/977/977/5926
+#EXTINF:-1, group-title="NEW2019", GLOBO INTEGRACAO SD 1
+http://samuraihd.com.br:80/977/977/5924
+#EXTINF:-1, group-title="NEW2019", GLOBO ITAPETININGA SD 1
+http://samuraihd.com.br:80/977/977/5923
+#EXTINF:-1, group-title="NEW2019", GLOBO LIBERAL BELEM SD 1
+http://samuraihd.com.br:80/977/977/5922
+#EXTINF:-1, group-title="NEW2019", GLOBO MIRANTE COCAIS SD 1
+http://samuraihd.com.br:80/977/977/5917
+#EXTINF:-1, group-title="NEW2019", GLOBO RBS TV POA SD 1
+http://samuraihd.com.br:80/977/977/5906
+#EXTINF:-1, group-title="NEW2019", GLOBO NSC BLUMENAU SD 1
+http://samuraihd.com.br:80/977/977/5910
+#EXTINF:-1, group-title="NEW2019", GLOBO NSC JOINVILLE SD 1
+http://samuraihd.com.br:80/977/977/5909
+#EXTINF:-1, group-title="NEW2019", GLOBO RBS PORTO ALEGRE HD 1*
+http://samuraihd.com.br:80/977/977/5908
+#EXTINF:-1, group-title="NEW2019", GLOBO RBS TV POA FHD H265 1
+http://samuraihd.com.br:80/977/977/5907
+#EXTINF:-1, group-title="NEW2019", GLOBO RIO SUL SD 1
+http://samuraihd.com.br:80/977/977/5905
+#EXTINF:-1, group-title="NEW2019", GLOBO RPC CURITIBA SD 1
+http://samuraihd.com.br:80/977/977/5901
+#EXTINF:-1, group-title="NEW2019", GLOBO S.J RIO PRETO SD 1
+http://samuraihd.com.br:80/977/977/5900
+#EXTINF:-1, group-title="NEW2019", GLOBO SANTA CRUZ SD 1
+http://samuraihd.com.br:80/977/977/5899
+#EXTINF:-1, group-title="NEW2019", GLOBO SERGIPE SD 1
+http://samuraihd.com.br:80/977/977/5898
+#EXTINF:-1, group-title="NEW2019", GLOBO SERRA MAR SD 1
+http://samuraihd.com.br:80/977/977/5897
+#EXTINF:-1, group-title="NEW2019", GLOBO SUDOESTE SD 1
+http://samuraihd.com.br:80/977/977/5892
+#EXTINF:-1, group-title="NEW2019", GLOBO TV GAZETA ES HD 1
+http://samuraihd.com.br:80/977/977/5890
+#EXTINF:-1, group-title="NEW2019", GLOBO TV SERGIPE HD 1
+http://samuraihd.com.br:80/977/977/5889
+#EXTINF:-1, group-title="NEW2019", GLOBO  GAZETA SUL FHD 2
+http://samuraihd.com.br:80/977/977/7401
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV RIBEIRAO PRETO SD 2
+http://samuraihd.com.br:80/977/977/7393
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV SAO CARLOS SD 2
+http://samuraihd.com.br:80/977/977/7392
+#EXTINF:-1, group-title="NEW2019", GLOBO ES HD 2
+http://samuraihd.com.br:80/977/977/7400
+#EXTINF:-1, group-title="NEW2019", GLOBO HD 2
+http://samuraihd.com.br:80/977/977/7320
+#EXTINF:-1, group-title="NEW2019", GLOBO INTER TV CABUGI SD 2
+http://samuraihd.com.br:80/977/977/7391
+#EXTINF:-1, group-title="NEW2019", GLOBO RPC TV CURITIBA SD 2
+http://samuraihd.com.br:80/977/977/7386
+#EXTINF:-1, group-title="NEW2019", GLOBO TV CENTRO AMERICA CUIABA SD 2
+http://samuraihd.com.br:80/977/977/7383
+#EXTINF:-1, group-title="NEW2019", GLOBO TV LIBERAL BELEM SD 2
+http://samuraihd.com.br:80/977/977/7382
+#EXTINF:-1, group-title="NEW2019", GLOBO TV TEM BAURU SD 2
+http://samuraihd.com.br:80/977/977/7381
+#EXTINF:-1, group-title="NEW2019", GLOBO EPTV CENTRAL SD 1
+http://samuraihd.com.br:80/977/977/5934
+#EXTINF:-1, group-title="NEW2019", TV VITORIA ES HD 2
+http://samuraihd.com.br:80/977/977/7368
+#EXTINF:-1, group-title="NEW2019", GLOBO NEWS FHD H265 1
+http://samuraihd.com.br:80/977/977/5915
+#EXTINF:-1, group-title="NEW2019", GLOBO NEWS HD FHD 2
+http://samuraihd.com.br:80/977/977/7437
+#EXTINF:-1, group-title="NEW2019", GLOBO NEWS HD 1
+http://samuraihd.com.br:80/977/977/5914
+#EXTINF:-1, group-title="NEW2019", GLOBO NEWS SD 1
+http://samuraihd.com.br:80/977/977/5913
+#EXTINF:-1, group-title="NEW2019", MEGAPIX FHD 1*
+http://samuraihd.com.br:80/977/977/5797
+#EXTINF:-1, group-title="NEW2019", MEGAPIX FHD H265 1
+http://samuraihd.com.br:80/977/977/5796
+#EXTINF:-1, group-title="NEW2019", MEGAPIX HD 1*
+http://samuraihd.com.br:80/977/977/5795
+#EXTINF:-1, group-title="NEW2019", MEGAPIX SD 1
+http://samuraihd.com.br:80/977/977/5794
+#EXTINF:-1, group-title="NEW2019", OFF FHD 1*
+http://samuraihd.com.br:80/977/977/5854
+#EXTINF:-1, group-title="NEW2019", OFF HD 1
+http://samuraihd.com.br:80/977/977/5853
+#EXTINF:-1, group-title="NEW2019", PARAMOUNT FHD 1*
+http://samuraihd.com.br:80/977/977/5793
+#EXTINF:-1, group-title="NEW2019", PARAMOUNT FHD H265 1
+http://samuraihd.com.br:80/977/977/5792
+#EXTINF:-1, group-title="NEW2019", PARAMOUNT HD 1*
+http://samuraihd.com.br:80/977/977/5791
+#EXTINF:-1, group-title="NEW2019", PARAMOUNT SD 1
+http://samuraihd.com.br:80/977/977/5790
+#EXTINF:-1, group-title="NEW2019", PARAMOUNT FHD 2
+http://samuraihd.com.br:80/977/977/7408
+#EXTINF:-1, group-title="NEW2019", PLAY TV SD 1
+http://samuraihd.com.br:80/977/977/5858
+#EXTINF:-1, group-title="NEW2019", POLISHOP TV SD 1
+http://samuraihd.com.br:80/977/977/5857
+#EXTINF:-1, group-title="NEW2019", SPACE FHD 1*
+http://samuraihd.com.br:80/977/977/5785
+#EXTINF:-1, group-title="NEW2019", SPACE FHD H265 1
+http://samuraihd.com.br:80/977/977/5784
+#EXTINF:-1, group-title="NEW2019", SPACE FHD 2
+http://samuraihd.com.br:80/977/977/7456
+#EXTINF:-1, group-title="NEW2019", SPACE HD 1*
+http://samuraihd.com.br:80/977/977/5783
+#EXTINF:-1, group-title="NEW2019", SPACE SD (BR1)
+http://samuraihd.com.br:80/977/977/5782
+#EXTINF:-1, group-title="NEW2019", SPORTV FHD 1*
+http://samuraihd.com.br:80/977/977/5866
+#EXTINF:-1, group-title="NEW2019", SPORTV FHD H265 1
+http://samuraihd.com.br:80/977/977/5865
+#EXTINF:-1, group-title="NEW2019", SPORTV HD 1*
+http://samuraihd.com.br:80/977/977/5864
+#EXTINF:-1, group-title="NEW2019", SPORTV FHD*2²
+http://samuraihd.com.br:80/977/977/7513
+#EXTINF:-1, group-title="NEW2019", SPORT TV FHD3²
+http://samuraihd.com.br:80/977/977/7511
+#EXTINF:-1, group-title="NEW2019", SPORTV FHD2²
+http://samuraihd.com.br:80/977/977/7512
+#EXTINF:-1, group-title="NEW2019", SPORTV HD¹
+http://samuraihd.com.br:80/977/977/7510
+#EXTINF:-1, group-title="NEW2019", SPORTV HD2²
+http://samuraihd.com.br:80/977/977/7509
+#EXTINF:-1, group-title="NEW2019", SPORTV HD3²
+http://samuraihd.com.br:80/977/977/7508
+#EXTINF:-1, group-title="NEW2019", SPORTV 2 FHD 1
+http://samuraihd.com.br:80/977/977/5873
+#EXTINF:-1, group-title="NEW2019", SPORTV 2 FHD H265 1
+http://samuraihd.com.br:80/977/977/5872
+#EXTINF:-1, group-title="NEW2019", SPORTV 2 HD 1
+http://samuraihd.com.br:80/977/977/5871
+#EXTINF:-1, group-title="NEW2019", SPORTV 2 SD 1
+http://samuraihd.com.br:80/977/977/5870
+#EXTINF:-1, group-title="NEW2019", SPORTV 3 FHD H265 1
+http://samuraihd.com.br:80/977/977/5869
+#EXTINF:-1, group-title="NEW2019", SPORTV 3 HD 1
+http://samuraihd.com.br:80/977/977/5868
+#EXTINF:-1, group-title="NEW2019", STUDIO UNIVERSAL FHD 1*
+http://samuraihd.com.br:80/977/977/5781
+#EXTINF:-1, group-title="NEW2019", STUDIO UNIVERSAL FHD H265 1
+http://samuraihd.com.br:80/977/977/5780
+#EXTINF:-1, group-title="NEW2019", STUDIO UNIVERSAL HD 1
+http://samuraihd.com.br:80/977/977/5779
+#EXTINF:-1, group-title="NEW2019", STUDIO UNIVERSAL SD 1
+http://samuraihd.com.br:80/977/977/5778
+#EXTINF:-1, group-title="NEW2019", SYFY FHD (BR1)*
+http://samuraihd.com.br:80/977/977/5777
+#EXTINF:-1, group-title="NEW2019", SYFY FHD H265 1
+http://samuraihd.com.br:80/977/977/5776
+#EXTINF:-1, group-title="NEW2019", SYFY HD 1
+http://samuraihd.com.br:80/977/977/5775
+#EXTINF:-1, group-title="NEW2019", SYFY SD 1
+http://samuraihd.com.br:80/977/977/5774
+#EXTINF:-1, group-title="NEW2019", TNT SERIES FHD H265 1
+http://samuraihd.com.br:80/977/977/5764
+#EXTINF:-1, group-title="NEW2019", TNT SERIES FHD 1
+http://samuraihd.com.br:80/977/977/5765
+#EXTINF:-1, group-title="NEW2019", TNT SERIES FHD  2
+http://samuraihd.com.br:80/977/977/7469
+#EXTINF:-1, group-title="NEW2019", TNT SERIES HD 1
+http://samuraihd.com.br:80/977/977/5763
+#EXTINF:-1, group-title="NEW2019", TNT SERIES HD 2
+http://samuraihd.com.br:80/977/977/7440
+#EXTINF:-1, group-title="NEW2019", TNT SERIES SD 1
+http://samuraihd.com.br:80/977/977/5762
+#EXTINF:-1, group-title="NEW2019", TCM HD 1
+http://samuraihd.com.br:80/977/977/5771
+#EXTINF:-1, group-title="NEW2019", TCM SD 1
+http://samuraihd.com.br:80/977/977/5770
+#EXTINF:-1, group-title="NEW2019", TNT FHD 1*
+http://samuraihd.com.br:80/977/977/5769
+#EXTINF:-1, group-title="NEW2019", TNT FHD H265 1
+http://samuraihd.com.br:80/977/977/5768
+#EXTINF:-1, group-title="NEW2019", TNT HD 1*
+http://samuraihd.com.br:80/977/977/5767
+#EXTINF:-1, group-title="NEW2019", TNT SD 1
+http://samuraihd.com.br:80/977/977/5766
+#EXTINF:-1, group-title="NEW2019", UNIVERSAL CHANNEL FHD 1*
+http://samuraihd.com.br:80/977/977/5761
+#EXTINF:-1, group-title="NEW2019", UNIVERSAL CHANNEL FHD H265 1
+http://samuraihd.com.br:80/977/977/5760
+#EXTINF:-1, group-title="NEW2019", UNIVERSAL CHANNEL SD 1
+http://samuraihd.com.br:80/977/977/5759
+#EXTINF:-1, group-title="NEW2019", UNIVERSAL HD 1*
+http://samuraihd.com.br:80/977/977/5758
+#EXTINF:-1, group-title="NEW2019", WARNER CHANNEL FHD 1*
+http://samuraihd.com.br:80/977/977/5757
+#EXTINF:-1, group-title="NEW2019", WARNER CHANNEL FHD H265 1
+http://samuraihd.com.br:80/977/977/5756
+#EXTINF:-1, group-title="NEW2019", WARNER CHANNEL HD 1*
+http://samuraihd.com.br:80/977/977/5755
+#EXTINF:-1, group-title="NEW2019", WARNER CHANNEL SD 1
+http://samuraihd.com.br:80/977/977/5754
+#EXTINF:-1, group-title="NEW2019", WOOHOO HD (BR1)
+http://samuraihd.com.br:80/977/977/5874
+#EXTINF:-1, group-title="NEW2019", BABY HD 1
+http://samuraihd.com.br:80/977/977/6006
+#EXTINF:-1, group-title="NEW2019", BABY TV SD 1
+http://samuraihd.com.br:80/977/977/6005
+#EXTINF:-1, group-title="NEW2019", DISNEY CHANNEL FHD¹
+http://samuraihd.com.br:80/977/977/5992
+#EXTINF:-1, group-title="NEW2019", DISNEY CHANNEL FHD H265 1
+http://samuraihd.com.br:80/977/977/5991
+#EXTINF:-1, group-title="NEW2019", DISNEY CHANNEL FHD 2
+http://samuraihd.com.br:80/977/977/7420
+#EXTINF:-1, group-title="NEW2019", DISNEY CHANNEL HD 1
+http://samuraihd.com.br:80/977/977/5990
+#EXTINF:-1, group-title="NEW2019", DISNEY CHANNEL HD 1*
+http://samuraihd.com.br:80/977/977/5989
+#EXTINF:-1, group-title="NEW2019", DISNEY CHANNEL SD 1
+http://samuraihd.com.br:80/977/977/5988
+#EXTINF:-1, group-title="NEW2019", DISCOVERY KIDS FHD 1*
+http://samuraihd.com.br:80/977/977/5996
+#EXTINF:-1, group-title="NEW2019", DISCOVERY KIDS FHD H265 1
+http://samuraihd.com.br:80/977/977/5995
+#EXTINF:-1, group-title="NEW2019", DISCOVERY KIDS HD 1*
+http://samuraihd.com.br:80/977/977/5994
+#EXTINF:-1, group-title="NEW2019", DISCOVERY KIDS SD 1
+http://samuraihd.com.br:80/977/977/5993
+#EXTINF:-1, group-title="NEW2019", DISNEY JR FHD 2
+http://samuraihd.com.br:80/977/977/7423
+#EXTINF:-1, group-title="NEW2019", DISNEY JR FHD 1*
+http://samuraihd.com.br:80/977/977/5987
+#EXTINF:-1, group-title="NEW2019", DISNEY JR FHD H265 1
+http://samuraihd.com.br:80/977/977/5986
+#EXTINF:-1, group-title="NEW2019", DISNEY JR HD 1*
+http://samuraihd.com.br:80/977/977/5985
+#EXTINF:-1, group-title="NEW2019", DISNEY JUNIOR SD 1
+http://samuraihd.com.br:80/977/977/5984
+#EXTINF:-1, group-title="NEW2019", DISNEY XD FHD 2
+http://samuraihd.com.br:80/977/977/7421
+#EXTINF:-1, group-title="NEW2019", DISNEY XD HD 1
+http://samuraihd.com.br:80/977/977/5983
+#EXTINF:-1, group-title="NEW2019", DISNEY XD SD 1
+http://samuraihd.com.br:80/977/977/5982
+#EXTINF:-1, group-title="NEW2019", GLOBINHO HD 1
+http://samuraihd.com.br:80/977/977/5981
+#EXTINF:-1, group-title="NEW2019", GLOOB FHD 1*
+http://samuraihd.com.br:80/977/977/5980
+#EXTINF:-1, group-title="NEW2019", GLOOB HD 1
+http://samuraihd.com.br:80/977/977/5979
+#EXTINF:-1, group-title="NEW2019", GLOOB SD 1
+http://samuraihd.com.br:80/977/977/5978
+#EXTINF:-1, group-title="NEW2019", GLOOBINHO FHD H265 1
+http://samuraihd.com.br:80/977/977/5977
+#EXTINF:-1, group-title="NEW2019", GLOOBINHO SD 1
+http://samuraihd.com.br:80/977/977/5975
+#EXTINF:-1, group-title="NEW2019", NATGEO KIDS FHD H265 1
+http://samuraihd.com.br:80/977/977/5974
+#EXTINF:-1, group-title="NEW2019", NATGEO KIDS HD 1
+http://samuraihd.com.br:80/977/977/5973
+#EXTINF:-1, group-title="NEW2019", NATGEO KIDS SD 1
+http://samuraihd.com.br:80/977/977/5972
+#EXTINF:-1, group-title="NEW2019", NICK FHD¹*
+http://samuraihd.com.br:80/977/977/5970
+#EXTINF:-1, group-title="NEW2019", NICK HD¹
+http://samuraihd.com.br:80/977/977/5968
+#EXTINF:-1, group-title="NEW2019", NICK FHD H265¹
+http://samuraihd.com.br:80/977/977/5969
+#EXTINF:-1, group-title="NEW2019", NICK JR FHD H265¹
+http://samuraihd.com.br:80/977/977/5967
+#EXTINF:-1, group-title="NEW2019", NICK JR FHD²
+http://samuraihd.com.br:80/977/977/7418
+#EXTINF:-1, group-title="NEW2019", NICK JR HD¹
+http://samuraihd.com.br:80/977/977/5966
+#EXTINF:-1, group-title="NEW2019", NICK JR SD¹
+http://samuraihd.com.br:80/977/977/5965
+#EXTINF:-1, group-title="NEW2019", NICEKLODEON FHD 1
+http://samuraihd.com.br:80/977/977/5971
+#EXTINF:-1, group-title="NEW2019", NICKELODEON HD (BR1)
+http://samuraihd.com.br:80/977/977/5964
+#EXTINF:-1, group-title="NEW2019", NICKELODEON SD (BR1)
+http://samuraihd.com.br:80/977/977/5963
+#EXTINF:-1, group-title="NEW2019", TELECINE ACTION FHD 1*
+http://samuraihd.com.br:80/977/977/6037
+#EXTINF:-1, group-title="NEW2019", TELECINE ACTION FHD H265 1
+http://samuraihd.com.br:80/977/977/6036
+#EXTINF:-1, group-title="NEW2019", TELECINE ACTION HD 1
+http://samuraihd.com.br:80/977/977/6035
+#EXTINF:-1, group-title="NEW2019", TELECINE ACTION SD 1
+http://samuraihd.com.br:80/977/977/6034
+#EXTINF:-1, group-title="NEW2019", TELECINE ACTION FHD H265²
+http://samuraihd.com.br:80/977/977/7315
+#EXTINF:-1, group-title="NEW2019", TELECINE ACTION HD²
+http://samuraihd.com.br:80/977/977/7314
+#EXTINF:-1, group-title="NEW2019", TELECINE CULT FHD 1*
+http://samuraihd.com.br:80/977/977/6033
+#EXTINF:-1, group-title="NEW2019", TELECINE CULT FHD H265 1
+http://samuraihd.com.br:80/977/977/6032
+#EXTINF:-1, group-title="NEW2019", TELECINE CULT HD 1
+http://samuraihd.com.br:80/977/977/6031
+#EXTINF:-1, group-title="NEW2019", TELECINE CULT SD 1
+http://samuraihd.com.br:80/977/977/6030
+#EXTINF:-1, group-title="NEW2019", TELECINE FUN FHD 1*
+http://samuraihd.com.br:80/977/977/6029
+#EXTINF:-1, group-title="NEW2019", TELECINE FUN HD²
+http://samuraihd.com.br:80/977/977/7312
+#EXTINF:-1, group-title="NEW2019", TELECINE FUNFHD H265²
+http://samuraihd.com.br:80/977/977/7313
+#EXTINF:-1, group-title="NEW2019", TELECINE FUN FHD H265 1
+http://samuraihd.com.br:80/977/977/6028
+#EXTINF:-1, group-title="NEW2019", TELECINE FUN HD 1*
+http://samuraihd.com.br:80/977/977/6026
+#EXTINF:-1, group-title="NEW2019", TELECINE FUN SD 1
+http://samuraihd.com.br:80/977/977/6025
+#EXTINF:-1, group-title="NEW2019", TELECINE PIPOCA FHD 1*
+http://samuraihd.com.br:80/977/977/6024
+#EXTINF:-1, group-title="NEW2019", TELECINE PIPOCA FHD H265 1
+http://samuraihd.com.br:80/977/977/6023
+#EXTINF:-1, group-title="NEW2019", TELECINE PIPOCA HD 1*
+http://samuraihd.com.br:80/977/977/6022
+#EXTINF:-1, group-title="NEW2019", TELECINE PIPOCA HD²
+http://samuraihd.com.br:80/977/977/7310
+#EXTINF:-1, group-title="NEW2019", TELECINE PIPOCA FHD H265²
+http://samuraihd.com.br:80/977/977/7311
+#EXTINF:-1, group-title="NEW2019", TELECINE PIPOCA SD 1
+http://samuraihd.com.br:80/977/977/6021
+#EXTINF:-1, group-title="NEW2019", TELECINE PREMIUM FHD 1*
+http://samuraihd.com.br:80/977/977/6020
+#EXTINF:-1, group-title="NEW2019", TELECINE PREMIUM FHD H265 1
+http://samuraihd.com.br:80/977/977/6019
+#EXTINF:-1, group-title="NEW2019", TELECINE PREMIUM HD²
+http://samuraihd.com.br:80/977/977/7308
+#EXTINF:-1, group-title="NEW2019", TELECINE PREMIUM FHD H265²
+http://samuraihd.com.br:80/977/977/7309
+#EXTINF:-1, group-title="NEW2019", TELECINE PREMIUM HD 1*
+http://samuraihd.com.br:80/977/977/6018
+#EXTINF:-1, group-title="NEW2019", TELECINE PREMIUM SD 1
+http://samuraihd.com.br:80/977/977/6017
+#EXTINF:-1, group-title="NEW2019", TELECINE TOUCH FHD H265¹
+http://samuraihd.com.br:80/977/977/6015
+#EXTINF:-1, group-title="NEW2019", TELECINE TOUCH FHD¹*
+http://samuraihd.com.br:80/977/977/6016
+#EXTINF:-1, group-title="NEW2019", TELECINE TOUCH FHD²
+http://samuraihd.com.br:80/977/977/7307
+#EXTINF:-1, group-title="NEW2019", TELECINE TOUCH HD²
+http://samuraihd.com.br:80/977/977/7306
+#EXTINF:-1, group-title="NEW2019", TELECINE TOUCH HD¹
+http://samuraihd.com.br:80/977/977/6014
+#EXTINF:-1, group-title="NEW2019", TELECINE TOUCH SD¹
+http://samuraihd.com.br:80/977/977/6013
+#EXTINF:-1, group-title="NEW2019", TOONCAST FHD 1
+http://samuraihd.com.br:80/977/977/5962
+#EXTINF:-1, group-title="NEW2019", TOONCAST HD 1
+http://samuraihd.com.br:80/977/977/5961
+#EXTINF:-1, group-title="NEW2019", TOONCAST SD 1
+http://samuraihd.com.br:80/977/977/5960
+#EXTINF:-1, group-title="NEW2019", ZOOMOO FHD 1
+http://samuraihd.com.br:80/977/977/5959
+#EXTINF:-1, group-title="NEW2019", ZOOMOO HD 1
+http://samuraihd.com.br:80/977/977/5958
+#EXTINF:-1, group-title="NEW2019", ZOOMOO SD 1
+http://samuraihd.com.br:80/977/977/5957
+#EXTINF:-1, group-title="NEW2019", CINEMAX FHD 1*
+http://samuraihd.com.br:80/977/977/6077
+#EXTINF:-1, group-title="NEW2019", CINEMAX FHD H265 1
+http://samuraihd.com.br:80/977/977/6076
+#EXTINF:-1, group-title="NEW2019", CINEMAX HD 1*
+http://samuraihd.com.br:80/977/977/6075
+#EXTINF:-1, group-title="NEW2019", CINEMAX SD 1
+http://samuraihd.com.br:80/977/977/6074
+#EXTINF:-1, group-title="NEW2019", HBO FHD H265 1
+http://samuraihd.com.br:80/977/977/6065
+#EXTINF:-1, group-title="NEW2019", HBO FHD 1*
+http://samuraihd.com.br:80/977/977/6066
+#EXTINF:-1, group-title="NEW2019", HBO FHD²
+http://samuraihd.com.br:80/977/977/7316
+#EXTINF:-1, group-title="NEW2019", HBO HD 1*
+http://samuraihd.com.br:80/977/977/6064
+#EXTINF:-1, group-title="NEW2019", HBO SD 1
+http://samuraihd.com.br:80/977/977/6060
+#EXTINF:-1, group-title="NEW2019", HBO 2 FHD H265 1
+http://samuraihd.com.br:80/977/977/6072
+#EXTINF:-1, group-title="NEW2019", HBO 2 FHD 1*
+http://samuraihd.com.br:80/977/977/6073
+#EXTINF:-1, group-title="NEW2019", HBO 2 HD¹*
+http://samuraihd.com.br:80/977/977/6071
+#EXTINF:-1, group-title="NEW2019", HBO 2 HD²
+http://samuraihd.com.br:80/977/977/7317
+#EXTINF:-1, group-title="NEW2019", HBO 2 HD¹
+http://samuraihd.com.br:80/977/977/7319
+#EXTINF:-1, group-title="NEW2019", HBO 2 SD 1
+http://samuraihd.com.br:80/977/977/6070
+#EXTINF:-1, group-title="NEW2019", HBO FAMILY FHD H265 1
+http://samuraihd.com.br:80/977/977/6069
+#EXTINF:-1, group-title="NEW2019", HBO FAMILY HD 1*
+http://samuraihd.com.br:80/977/977/6068
+#EXTINF:-1, group-title="NEW2019", HBO FAMILY SD 1
+http://samuraihd.com.br:80/977/977/6067
+#EXTINF:-1, group-title="NEW2019", HBO PLUS FHD H265 1
+http://samuraihd.com.br:80/977/977/6063
+#EXTINF:-1, group-title="NEW2019", HBO PLUS HD 1*
+http://samuraihd.com.br:80/977/977/6062
+#EXTINF:-1, group-title="NEW2019", HBO PLUS SD 1
+http://samuraihd.com.br:80/977/977/6061
+#EXTINF:-1, group-title="NEW2019", HBO SIGNATURE FHD H265 1
+http://samuraihd.com.br:80/977/977/6059
+#EXTINF:-1, group-title="NEW2019", HBO SIGNATURE HD 1*
+http://samuraihd.com.br:80/977/977/6058
+#EXTINF:-1, group-title="NEW2019", HBO SIGNATURE SD 1
+http://samuraihd.com.br:80/977/977/6057
+#EXTINF:-1, group-title="NEW2019", MAX FHD H265 1
+http://samuraihd.com.br:80/977/977/6056
+#EXTINF:-1, group-title="NEW2019", MAX HD 1
+http://samuraihd.com.br:80/977/977/6055
+#EXTINF:-1, group-title="NEW2019", MAX PRIME FHD H265 1
+http://samuraihd.com.br:80/977/977/6053
+#EXTINF:-1, group-title="NEW2019", MAX PRIME FHD 1*
+http://samuraihd.com.br:80/977/977/6054
+#EXTINF:-1, group-title="NEW2019", MAX PRIME HD 1
+http://samuraihd.com.br:80/977/977/6052
+#EXTINF:-1, group-title="NEW2019", MAX PRIME SD 1
+http://samuraihd.com.br:80/977/977/6051
+#EXTINF:-1, group-title="NEW2019", MAX UP FHD H265 1
+http://samuraihd.com.br:80/977/977/6049
+#EXTINF:-1, group-title="NEW2019", MAX UP HD 1*
+http://samuraihd.com.br:80/977/977/6048
+#EXTINF:-1, group-title="NEW2019", MAX UP SD 1
+http://samuraihd.com.br:80/977/977/6047
+#EXTINF:-1, group-title="NEW2019", MAX SD 1
+http://samuraihd.com.br:80/977/977/6050
+#EXTINF:-1, group-title="NEW2019", BIS FHD H265 1
+http://samuraihd.com.br:80/977/977/6150
+#EXTINF:-1, group-title="NEW2019", BIS HD 1*
+http://samuraihd.com.br:80/977/977/6149
+#EXTINF:-1, group-title="NEW2019", BIS SD 1
+http://samuraihd.com.br:80/977/977/6148
+#EXTINF:-1, group-title="NEW2019", COMEDY CENTRAL FHD H265 1
+http://samuraihd.com.br:80/977/977/6147
+#EXTINF:-1, group-title="NEW2019", COMEDY CENTRAL HD 1*
+http://samuraihd.com.br:80/977/977/6146
+#EXTINF:-1, group-title="NEW2019", COMEDY CENTRAL SD 1
+http://samuraihd.com.br:80/977/977/6145
+#EXTINF:-1, group-title="NEW2019", CURTA SD 1
+http://samuraihd.com.br:80/977/977/6144
+#EXTINF:-1, group-title="NEW2019", DISCOVERY H&H FHD 1*
+http://samuraihd.com.br:80/977/977/6143
+#EXTINF:-1, group-title="NEW2019", DISCOVERY H&H FHD H265 1
+http://samuraihd.com.br:80/977/977/6142
+#EXTINF:-1, group-title="NEW2019", DISCOVERY H&H HD 1
+http://samuraihd.com.br:80/977/977/6141
+#EXTINF:-1, group-title="NEW2019", DISCOVERY H&H SD 1
+http://samuraihd.com.br:80/977/977/6140
+#EXTINF:-1, group-title="NEW2019", E! HD 1
+http://samuraihd.com.br:80/977/977/6139
+#EXTINF:-1, group-title="NEW2019", E! SD 1
+http://samuraihd.com.br:80/977/977/6138
+#EXTINF:-1, group-title="NEW2019", FISH TV SD 1
+http://samuraihd.com.br:80/977/977/6137
+#EXTINF:-1, group-title="NEW2019", FOOD NETWORK FHD H265 1
+http://samuraihd.com.br:80/977/977/6135
+#EXTINF:-1, group-title="NEW2019", FOOD NETWORK FHD 1*
+http://samuraihd.com.br:80/977/977/6136
+#EXTINF:-1, group-title="NEW2019", FOOD NETWORK FHD 2
+http://samuraihd.com.br:80/977/977/7412
+#EXTINF:-1, group-title="NEW2019", FOOD NETWORK HD 1*
+http://samuraihd.com.br:80/977/977/6134
+#EXTINF:-1, group-title="NEW2019", FOOD NETWORK SD 1
+http://samuraihd.com.br:80/977/977/6133
+#EXTINF:-1, group-title="NEW2019", FOX LIFE FHD 1*
+http://samuraihd.com.br:80/977/977/6132
+#EXTINF:-1, group-title="NEW2019", FOX LIFE FHD H265 1
+http://samuraihd.com.br:80/977/977/6131
+#EXTINF:-1, group-title="NEW2019", FOX LIFE HD 1
+http://samuraihd.com.br:80/977/977/6130
+#EXTINF:-1, group-title="NEW2019", FOX LIFE SD 1
+http://samuraihd.com.br:80/977/977/6129
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS FHD 1*
+http://samuraihd.com.br:80/977/977/5848
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS FHD H265 1
+http://samuraihd.com.br:80/977/977/5847
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS HD 1*
+http://samuraihd.com.br:80/977/977/5846
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS 2 FHD H265 1
+http://samuraihd.com.br:80/977/977/5851
+#EXTINF:-1, group-title="NEW2019", FOX SPORT 2 FHD 1*
+http://samuraihd.com.br:80/977/977/5852
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS 2 HD 1*
+http://samuraihd.com.br:80/977/977/5850
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS 2 SD 1
+http://samuraihd.com.br:80/977/977/5849
+#EXTINF:-1, group-title="NEW2019", FOX SD¹
+http://samuraihd.com.br:80/977/977/5806
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS2 FHD²
+http://samuraihd.com.br:80/977/977/7358
+#EXTINF:-1, group-title="NEW2019", Fox Sports 2 HD 2
+http://samuraihd.com.br:80/977/977/7325
+#EXTINF:-1, group-title="NEW2019", FOX SPORTS FHD²*
+http://samuraihd.com.br:80/977/977/7350
+#EXTINF:-1, group-title="NEW2019", Fox Sports FHD2
+http://samuraihd.com.br:80/977/977/7324
+#EXTINF:-1, group-title="NEW2019", Fox Sports FHD 2  2
+http://samuraihd.com.br:80/977/977/7323
+#EXTINF:-1, group-title="NEW2019", GNT HD 1
+http://samuraihd.com.br:80/977/977/6128
+#EXTINF:-1, group-title="NEW2019", GNT SD 1
+http://samuraihd.com.br:80/977/977/6127
+#EXTINF:-1, group-title="NEW2019", HIT TV HD (BR1)
+http://samuraihd.com.br:80/977/977/6126
+#EXTINF:-1, group-title="NEW2019", IDEAL TV SD 1
+http://samuraihd.com.br:80/977/977/6125
+#EXTINF:-1, group-title="NEW2019", LIFETIME FHD H265 1
+http://samuraihd.com.br:80/977/977/6124
+#EXTINF:-1, group-title="NEW2019", LIFETIME HD 1
+http://samuraihd.com.br:80/977/977/6123
+#EXTINF:-1, group-title="NEW2019", LIFETIME SD 1
+http://samuraihd.com.br:80/977/977/6122
+#EXTINF:-1, group-title="NEW2019", MAIS GLOBOSAT HD 1
+http://samuraihd.com.br:80/977/977/6121
+#EXTINF:-1, group-title="NEW2019", MAIS GLOBOSAT SD 1
+http://samuraihd.com.br:80/977/977/6120
+#EXTINF:-1, group-title="NEW2019", MTV FHD H265 1
+http://samuraihd.com.br:80/977/977/6119
+#EXTINF:-1, group-title="NEW2019", MTV HD 1
+http://samuraihd.com.br:80/977/977/6118
+#EXTINF:-1, group-title="NEW2019", MTV SD 1
+http://samuraihd.com.br:80/977/977/6117
+#EXTINF:-1, group-title="NEW2019", MTV FHD 2
+http://samuraihd.com.br:80/977/977/7410
+#EXTINF:-1, group-title="NEW2019", MTV LIVE FHD 2
+http://samuraihd.com.br:80/977/977/7454
+#EXTINF:-1, group-title="NEW2019", MTV HD 2
+http://samuraihd.com.br:80/977/977/7417
+#EXTINF:-1, group-title="NEW2019", MTV LIVE HD 2
+http://samuraihd.com.br:80/977/977/7444
+#EXTINF:-1, group-title="NEW2019", MULTISHOW FHD 1*
+http://samuraihd.com.br:80/977/977/6116
+#EXTINF:-1, group-title="NEW2019", MULTISHOW FHD H265 1
+http://samuraihd.com.br:80/977/977/6115
+#EXTINF:-1, group-title="NEW2019", MULTISHOW HD (BR1)*
+http://samuraihd.com.br:80/977/977/6114
+#EXTINF:-1, group-title="NEW2019", MULTISHOW  FHD 2
+http://samuraihd.com.br:80/977/977/7452
+#EXTINF:-1, group-title="NEW2019", MULTISHOW SD 1
+http://samuraihd.com.br:80/977/977/6113
+#EXTINF:-1, group-title="NEW2019", MUSIC BOX BRASIL SD 1
+http://samuraihd.com.br:80/977/977/6112
+#EXTINF:-1, group-title="NEW2019", OFF SD 1
+http://samuraihd.com.br:80/977/977/6111
+#EXTINF:-1, group-title="NEW2019", PRIME BOX BRASIL SD 1
+http://samuraihd.com.br:80/977/977/6110
+#EXTINF:-1, group-title="NEW2019", TLC HD 1
+http://samuraihd.com.br:80/977/977/6109
+#EXTINF:-1, group-title="NEW2019", TLC SD 1
+http://samuraihd.com.br:80/977/977/6108
+#EXTINF:-1, group-title="NEW2019", TRUTV SD 1
+http://samuraihd.com.br:80/977/977/6107
+#EXTINF:-1, group-title="NEW2019", VH1 HD 1
+http://samuraihd.com.br:80/977/977/6106
+#EXTINF:-1, group-title="NEW2019", VH1 SD 1
+http://samuraihd.com.br:80/977/977/6105
+#EXTINF:-1, group-title="NEW2019", VIVA HD 1
+http://samuraihd.com.br:80/977/977/6103
+#EXTINF:-1, group-title="NEW2019", VIVA SD 1
+http://samuraihd.com.br:80/977/977/6102
+#EXTINF:-1, group-title="NEW2019", ANIMAL PLANET FHD²
+http://samuraihd.com.br:80/977/977/7375
+#EXTINF:-1, group-title="NEW2019", ANIMAL PLANET FHD¹*
+http://samuraihd.com.br:80/977/977/6205
+#EXTINF:-1, group-title="NEW2019", ANIMAL PLANET FHD H265¹
+http://samuraihd.com.br:80/977/977/6204
+#EXTINF:-1, group-title="NEW2019", ANIMAL PLANET HD¹
+http://samuraihd.com.br:80/977/977/6203
+#EXTINF:-1, group-title="NEW2019", ANIMAL PLANET HD¹*
+http://samuraihd.com.br:80/977/977/6202
+#EXTINF:-1, group-title="NEW2019", ANIMAL PLANET SD¹
+http://samuraihd.com.br:80/977/977/6201
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CHANNEL FHD¹
+http://samuraihd.com.br:80/977/977/6200
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CHANNEL FHD²
+http://samuraihd.com.br:80/977/977/7405
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CHANNEL FHD H265¹
+http://samuraihd.com.br:80/977/977/6199
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CHANNEL HD¹*
+http://samuraihd.com.br:80/977/977/6198
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CHANNEL SD¹
+http://samuraihd.com.br:80/977/977/6197
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CIVILIZATION FHD¹*
+http://samuraihd.com.br:80/977/977/6196
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CIVILIZATION FHD H265¹
+http://samuraihd.com.br:80/977/977/6195
+#EXTINF:-1, group-title="NEW2019", DISCOVERY CIVILIZATION HD¹*
+http://samuraihd.com.br:80/977/977/6194
+#EXTINF:-1, group-title="NEW2019", DISCOVERY SCIENCE FHD¹*
+http://samuraihd.com.br:80/977/977/6193
+#EXTINF:-1, group-title="NEW2019", DISCOVERY SCIENCE FHD H265¹
+http://samuraihd.com.br:80/977/977/6192
+#EXTINF:-1, group-title="NEW2019", DISCOVERY SCIENCE HD²*
+http://samuraihd.com.br:80/977/977/6191
+#EXTINF:-1, group-title="NEW2019", DISCOVERY THEATER FHD H265¹
+http://samuraihd.com.br:80/977/977/6190
+#EXTINF:-1, group-title="NEW2019", DISCOVERY THEATER FHD²
+http://samuraihd.com.br:80/977/977/7360
+#EXTINF:-1, group-title="NEW2019", DISCOVERY THEATER HD¹*
+http://samuraihd.com.br:80/977/977/6189
+#EXTINF:-1, group-title="NEW2019", DISCOVERY TURBO FHD H265¹
+http://samuraihd.com.br:80/977/977/6187
+#EXTINF:-1, group-title="NEW2019", DISCOVERY TURBO FHD h.265¹
+http://samuraihd.com.br:80/977/977/7329
+#EXTINF:-1, group-title="NEW2019", DISCOVERY TURBO HD²
+http://samuraihd.com.br:80/977/977/7495
+#EXTINF:-1, group-title="NEW2019", DISCOVERY TURBO FHD¹*
+http://samuraihd.com.br:80/977/977/6188
+#EXTINF:-1, group-title="NEW2019", DISCOVERY TURBO HD¹*
+http://samuraihd.com.br:80/977/977/6186
+#EXTINF:-1, group-title="NEW2019", DISCOVERY TURBO SD²
+http://samuraihd.com.br:80/977/977/6185
+#EXTINF:-1, group-title="NEW2019", DISCOVERY WORLD FHD H265¹
+http://samuraihd.com.br:80/977/977/6184
+#EXTINF:-1, group-title="NEW2019", DISCOVERY WORLD FHD²
+http://samuraihd.com.br:80/977/977/7359
+#EXTINF:-1, group-title="NEW2019", DISCOVERY WORLD HD¹*
+http://samuraihd.com.br:80/977/977/6183
+#EXTINF:-1, group-title="NEW2019", H2 FHD H265¹
+http://samuraihd.com.br:80/977/977/6181
+#EXTINF:-1, group-title="NEW2019", H2 FHD¹*
+http://samuraihd.com.br:80/977/977/6182
+#EXTINF:-1, group-title="NEW2019", H2 FHD²
+http://samuraihd.com.br:80/977/977/7468
+#EXTINF:-1, group-title="NEW2019", H2 HD¹*
+http://samuraihd.com.br:80/977/977/6180
+#EXTINF:-1, group-title="NEW2019", H2 SD¹
+http://samuraihd.com.br:80/977/977/6179
+#EXTINF:-1, group-title="NEW2019", HISTORY FHD H265¹
+http://samuraihd.com.br:80/977/977/6177
+#EXTINF:-1, group-title="NEW2019", HISTORY FHD¹*
+http://samuraihd.com.br:80/977/977/6178
+#EXTINF:-1, group-title="NEW2019", HISTORY FHD²
+http://samuraihd.com.br:80/977/977/7490
+#EXTINF:-1, group-title="NEW2019", HISTORY HD²
+http://samuraihd.com.br:80/977/977/7489
+#EXTINF:-1, group-title="NEW2019", HISTORY HD¹*
+http://samuraihd.com.br:80/977/977/6176
+#EXTINF:-1, group-title="NEW2019", HISTORY SD¹
+http://samuraihd.com.br:80/977/977/6175
+#EXTINF:-1, group-title="NEW2019", ID DISCOVERY FHD H265¹
+http://samuraihd.com.br:80/977/977/6174
+#EXTINF:-1, group-title="NEW2019", ID FHD¹*
+http://samuraihd.com.br:80/977/977/6171
+#EXTINF:-1, group-title="NEW2019", ID FHD²
+http://samuraihd.com.br:80/977/977/7457
+#EXTINF:-1, group-title="NEW2019", ID HD¹
+http://samuraihd.com.br:80/977/977/6173
+#EXTINF:-1, group-title="NEW2019", ID SD¹
+http://samuraihd.com.br:80/977/977/6172
+#EXTINF:-1, group-title="NEW2019", NATGEO WILD FHD 2
+http://samuraihd.com.br:80/977/977/7415
+#EXTINF:-1, group-title="NEW2019", NATGEO FHD²
+http://samuraihd.com.br:80/977/977/7409
+#EXTINF:-1, group-title="NEW2019", NATGEO FHD¹*
+http://samuraihd.com.br:80/977/977/6170
+#EXTINF:-1, group-title="NEW2019", NATGEO FHD H265¹
+http://samuraihd.com.br:80/977/977/6169
+#EXTINF:-1, group-title="NEW2019", NATGEO HD¹
+http://samuraihd.com.br:80/977/977/6168
+#EXTINF:-1, group-title="NEW2019", NATGEO SD¹
+http://samuraihd.com.br:80/977/977/6167
+#EXTINF:-1, group-title="NEW2019", NATGEO WILD FHD H265¹
+http://samuraihd.com.br:80/977/977/6166
+#EXTINF:-1, group-title="NEW2019", NATGEO WILD HD¹*
+http://samuraihd.com.br:80/977/977/6165
+#EXTINF:-1, group-title="NEW2019", NATGEO WILD SD¹
+http://samuraihd.com.br:80/977/977/6164
+#EXTINF:-1, group-title="NEW2019", TV RA TIM BUM HD (BR1)
+http://samuraihd.com.br:80/977/977/6154
+#EXTINF:-1, group-title="NEW2019", TV RA TIM BUM SD (BR1)
+http://samuraihd.com.br:80/977/977/6153
+#EXTINF:-1, group-title="NEW2019", BAND CAMPINAS HD 1
+http://samuraihd.com.br:80/977/977/6288
+#EXTINF:-1, group-title="NEW2019", CANAL BRASIL FHD 2
+http://samuraihd.com.br:80/977/977/7438
+#EXTINF:-1, group-title="NEW2019", CANAL BRASIL HD 1
+http://samuraihd.com.br:80/977/977/6281
+#EXTINF:-1, group-title="NEW2019", CANAL BRASIL SD 1
+http://samuraihd.com.br:80/977/977/6280
+#EXTINF:-1, group-title="NEW2019", CANAL RURAL SD (BR1)
+http://samuraihd.com.br:80/977/977/6279
+#EXTINF:-1, group-title="NEW2019", CNT SD (BR1)
+http://samuraihd.com.br:80/977/977/6278
+#EXTINF:-1, group-title="NEW2019", FUTURA SD (BR1)
+http://samuraihd.com.br:80/977/977/6277
+#EXTINF:-1, group-title="NEW2019", NBR SD (BR1)
+http://samuraihd.com.br:80/977/977/6276
+#EXTINF:-1, group-title="NEW2019", NOVA NORDESTE FHD (BR1)*
+http://samuraihd.com.br:80/977/977/6275
+#EXTINF:-1, group-title="NEW2019", NOVA NORDESTE HD (BR1)
+http://samuraihd.com.br:80/977/977/6274
+#EXTINF:-1, group-title="NEW2019", NOVO TEMPO FHD (BR1)*
+http://samuraihd.com.br:80/977/977/6273
+#EXTINF:-1, group-title="NEW2019", NOVO TEMPO HD (BR1)
+http://samuraihd.com.br:80/977/977/6272
+#EXTINF:-1, group-title="NEW2019", RECORD BA HD (BR1)
+http://samuraihd.com.br:80/977/977/6270
+#EXTINF:-1, group-title="NEW2019", RECORD BA SD (BR1)
+http://samuraihd.com.br:80/977/977/6269
+#EXTINF:-1, group-title="NEW2019", RECORD DF HD (BR1)
+http://samuraihd.com.br:80/977/977/6268
+#EXTINF:-1, group-title="NEW2019", RECORD DF SD (BR1)
+http://samuraihd.com.br:80/977/977/6267
+#EXTINF:-1, group-title="NEW2019", RECORD FHD (BR1)*
+http://samuraihd.com.br:80/977/977/6266
+#EXTINF:-1, group-title="NEW2019", RECORD FHD H265 (BR1)
+http://samuraihd.com.br:80/977/977/6265
+#EXTINF:-1, group-title="NEW2019", RECORD HD (BR1)
+http://samuraihd.com.br:80/977/977/6264
+#EXTINF:-1, group-title="NEW2019", RECORD MG HD (BR1)
+http://samuraihd.com.br:80/977/977/6263
+#EXTINF:-1, group-title="NEW2019", RECORD MG SD (BR1)
+http://samuraihd.com.br:80/977/977/6262
+#EXTINF:-1, group-title="NEW2019", RECORD RJ HD (BR1)
+http://samuraihd.com.br:80/977/977/6261
+#EXTINF:-1, group-title="NEW2019", RECORD RJ SD (BR1)
+http://samuraihd.com.br:80/977/977/6260
+#EXTINF:-1, group-title="NEW2019", RECORD RS HD (BR1)
+http://samuraihd.com.br:80/977/977/6259
+#EXTINF:-1, group-title="NEW2019", RECORD RS SD (BR1)
+http://samuraihd.com.br:80/977/977/6258
+#EXTINF:-1, group-title="NEW2019", RECORD SP HD (BR1)
+http://samuraihd.com.br:80/977/977/6257
+#EXTINF:-1, group-title="NEW2019", RECORD SP HD (BR1)*
+http://samuraihd.com.br:80/977/977/6256
+#EXTINF:-1, group-title="NEW2019", RECORD TV SD (BR1)
+http://samuraihd.com.br:80/977/977/6255
+#EXTINF:-1, group-title="NEW2019", REDE BRASIL SD (BR1)
+http://samuraihd.com.br:80/977/977/6254
+#EXTINF:-1, group-title="NEW2019", REDE TV HD (BR1)
+http://samuraihd.com.br:80/977/977/6253
+#EXTINF:-1, group-title="NEW2019", REDE TV SD (BR1)
+http://samuraihd.com.br:80/977/977/6252
+#EXTINF:-1, group-title="NEW2019", REDE VIDA SD (BR1)
+http://samuraihd.com.br:80/977/977/6251
+#EXTINF:-1, group-title="NEW2019", SBT CIDADE VERDE HD (BR1)
+http://samuraihd.com.br:80/977/977/6250
+#EXTINF:-1, group-title="NEW2019", SBT FHD H.265 2
+http://samuraihd.com.br:80/977/977/7497
+#EXTINF:-1, group-title="NEW2019", SBT HD 2
+http://samuraihd.com.br:80/977/977/7496
+#EXTINF:-1, group-title="NEW2019", SBT FHD (BR1)
+http://samuraihd.com.br:80/977/977/6249
+#EXTINF:-1, group-title="NEW2019", SBT FHD (BR1)*
+http://samuraihd.com.br:80/977/977/6248
+#EXTINF:-1, group-title="NEW2019", SBT HD (BR1)
+http://samuraihd.com.br:80/977/977/6247
+#EXTINF:-1, group-title="NEW2019", SBT SD (BR1)
+http://samuraihd.com.br:80/977/977/6246
+#EXTINF:-1, group-title="NEW2019", SBT TV JORNAL HD (BR1)
+http://samuraihd.com.br:80/977/977/6245
+#EXTINF:-1, group-title="NEW2019", TERRA VIVA SD (BR1)
+http://samuraihd.com.br:80/977/977/6244
+#EXTINF:-1, group-title="NEW2019", TV BRASIL SD (BR1)
+http://samuraihd.com.br:80/977/977/6243
+#EXTINF:-1, group-title="NEW2019", TV CAMARA SD (BR1)
+http://samuraihd.com.br:80/977/977/6242
+#EXTINF:-1, group-title="NEW2019", TV CIDADE OESTE SD (BR1)
+http://samuraihd.com.br:80/977/977/6241
+#EXTINF:-1, group-title="NEW2019", TV CULTURA SD (BR1)
+http://samuraihd.com.br:80/977/977/6239
+#EXTINF:-1, group-title="NEW2019", TV DIARIO SD (BR1)
+http://samuraihd.com.br:80/977/977/6238
+#EXTINF:-1, group-title="NEW2019", TV ESCOLA SD (BR1)
+http://samuraihd.com.br:80/977/977/6237
+#EXTINF:-1, group-title="NEW2019", TV ESTACAO FHD (BR1)
+http://samuraihd.com.br:80/977/977/6236
+#EXTINF:-1, group-title="NEW2019", TV ESTACAO HD (BR1)
+http://samuraihd.com.br:80/977/977/6235
+#EXTINF:-1, group-title="NEW2019", TV GUARULHOS HD (BR1)
+http://samuraihd.com.br:80/977/977/6233
+#EXTINF:-1, group-title="NEW2019", TV JUSTICA SD (BR1)
+http://samuraihd.com.br:80/977/977/6232
+#EXTINF:-1, group-title="NEW2019", TV SENADO SD (BR1)
+http://samuraihd.com.br:80/977/977/6231
+#EXTINF:-1, group-title="NEW2019", TV UNIVERSITARIA FHD (BR1)
+http://samuraihd.com.br:80/977/977/6230
+#EXTINF:-1, group-title="NEW2019", TV UNIVERSITARIA HD (BR1)
+http://samuraihd.com.br:80/977/977/6229
+#EXTINF:-1, group-title="NEW2019", TV5 SD (BR1)
+http://samuraihd.com.br:80/977/977/6228
+#EXTINF:-1, group-title="NEW2019", TVE SD (BR1)
+http://samuraihd.com.br:80/977/977/6227
+#EXTINF:-1, group-title="NEW2019", BAND NEWS FHD H265 1
+http://samuraihd.com.br:80/977/977/6297
+#EXTINF:-1, group-title="NEW2019", BAND NEWS HD 1*
+http://samuraihd.com.br:80/977/977/6296
+#EXTINF:-1, group-title="NEW2019", BAND NEWS SD 1
+http://samuraihd.com.br:80/977/977/6295
+#EXTINF:-1, group-title="NEW2019", RECORD NEWS FHD¹
+http://samuraihd.com.br:80/977/977/6294
+#EXTINF:-1, group-title="NEW2019", RECORD NEWS FHD¹*
+http://samuraihd.com.br:80/977/977/6293
+#EXTINF:-1, group-title="NEW2019", RECORD NEWS HD¹
+http://samuraihd.com.br:80/977/977/6292
+#EXTINF:-1, group-title="NEW2019", RECORD NEWS SD¹
+http://samuraihd.com.br:80/977/977/6291
+#EXTINF:-1, group-title="NEW2019", BOA VONTADE TV SD 1
+http://samuraihd.com.br:80/977/977/6306
+#EXTINF:-1, group-title="NEW2019", CANCAO NOVA FHD 1*
+http://samuraihd.com.br:80/977/977/6305
+#EXTINF:-1, group-title="NEW2019", CANCAO NOVA HD 1
+http://samuraihd.com.br:80/977/977/6304
+#EXTINF:-1, group-title="NEW2019", TV APARECIDA SD 1
+http://samuraihd.com.br:80/977/977/6302
+#EXTINF:-1, group-title="NEW2019", CNN INTERNACIONAL SD 1
+http://samuraihd.com.br:80/977/977/6326
+#EXTINF:-1, group-title="NEW2019", DW SD 1
+http://samuraihd.com.br:80/977/977/6325
+#EXTINF:-1, group-title="NEW2019", NHK WORLD HD 2
+http://samuraihd.com.br:80/977/977/7465
+#EXTINF:-1, group-title="NEW2019", NHK SD 1
+http://samuraihd.com.br:80/977/977/6324
+#EXTINF:-1, group-title="NEW2019", RAI SD 1
+http://samuraihd.com.br:80/977/977/6323
+#EXTINF:-1, group-title="NEW2019", TV PAI ETERNO SD 1
+http://samuraihd.com.br:80/977/977/6321
+#EXTINF:-1, group-title="NEW2019", SPORTV 3 SD 1
+http://samuraihd.com.br:80/977/977/5867
+#EXTINF:-1, group-title="NEW2019", COMEDY FHD²
+http://samuraihd.com.br:80/977/977/7475
+#EXTINF:-1, group-title="NEW2019", COMEDY HD 2
+http://samuraihd.com.br:80/977/977/7449
+#EXTINF:-1, group-title="NEW2019", DOG TV FHD²
+http://samuraihd.com.br:80/977/977/7432
+#EXTINF:-1, group-title="NEW2019", DOG TV HD²
+http://samuraihd.com.br:80/977/977/7431
+#EXTINF:-1, group-title="NEW2019", FASHION FHD 2
+http://samuraihd.com.br:80/977/977/7353
+#EXTINF:-1, group-title="NEW2019", FILM ARTS FHD²
+http://samuraihd.com.br:80/977/977/7352
+#EXTINF:-1, group-title="NEW2019", FOX LIFE FHD 2
+http://samuraihd.com.br:80/977/977/7473
+#EXTINF:-1, group-title="NEW2019", GLOOB FHD 2
+http://samuraihd.com.br:80/977/977/7486
+#EXTINF:-1, group-title="NEW2019", GLOOB HD 2
+http://samuraihd.com.br:80/977/977/7481
+#EXTINF:-1, group-title="NEW2019", GNT FHD²
+http://samuraihd.com.br:80/977/977/7349
+#EXTINF:-1, group-title="NEW2019", HBO 2 FHD²
+http://samuraihd.com.br:80/977/977/7318
+#EXTINF:-1, group-title="NEW2019", HBO PLUS FHD 2
+http://samuraihd.com.br:80/977/977/7464
+#EXTINF:-1, group-title="NEW2019", HBO PLUS HD 2
+http://samuraihd.com.br:80/977/977/7447
+#EXTINF:-1, group-title="NEW2019", HBO SIGNATURE FHD 2
+http://samuraihd.com.br:80/977/977/7478
+#EXTINF:-1, group-title="NEW2019", LIFE TIME FHD 2
+http://samuraihd.com.br:80/977/977/7411
+#EXTINF:-1, group-title="NEW2019", MAXPRIME FHD 2
+http://samuraihd.com.br:80/977/977/7451
+#EXTINF:-1, group-title="NEW2019", MAXPRIME HD 2
+http://samuraihd.com.br:80/977/977/7445
+#EXTINF:-1, group-title="NEW2019", MLB HD²
+http://samuraihd.com.br:80/977/977/7347
+#EXTINF:-1, group-title="NEW2019", TV CULTURA FHD 2
+http://samuraihd.com.br:80/977/977/7429
+#EXTINF:-1, group-title="NEW2019", TOP TV HD  2
+http://samuraihd.com.br:80/977/977/7430
+#EXTINF:-1, group-title="NEW2019", PREMIERE CLUBES FHD h.265²
+http://samuraihd.com.br:80/977/977/7505
+#EXTINF:-1, group-title="NEW2019", PREMIERE CLUBES HD²
+http://samuraihd.com.br:80/977/977/7507
+#EXTINF:-1, group-title="NEW2019", PREMIERE CLUBES HD*
+http://samuraihd.com.br:80/977/977/15154
+#EXTINF:-1, group-title="NEW2019", Premiere CLUBES SD*
+http://samuraihd.com.br:80/977/977/15153
+#EXTINF:-1, group-title="NEW2019", PREMIERE2 FHD²
+http://samuraihd.com.br:80/977/977/7504
+#EXTINF:-1, group-title="NEW2019", PREMIERE2 HD²
+http://samuraihd.com.br:80/977/977/7501
+#EXTINF:-1, group-title="NEW2019", PREMIERE 2 HD*
+http://samuraihd.com.br:80/977/977/15167
+#EXTINF:-1, group-title="NEW2019", PREMIERE 2 SD*
+http://samuraihd.com.br:80/977/977/15166
+#EXTINF:-1, group-title="NEW2019", PREMIERE3  FHD h265²
+http://samuraihd.com.br:80/977/977/7503
+#EXTINF:-1, group-title="NEW2019", PREMIERE3 HD²
+http://samuraihd.com.br:80/977/977/7500
+#EXTINF:-1, group-title="NEW2019", PREMIERE 3 HD*
+http://samuraihd.com.br:80/977/977/15165
+#EXTINF:-1, group-title="NEW2019", PREMIERE 3 SD*
+http://samuraihd.com.br:80/977/977/15164
+#EXTINF:-1, group-title="NEW2019", PREMIERE4 FHD h.265²
+http://samuraihd.com.br:80/977/977/7502
+#EXTINF:-1, group-title="NEW2019", PREMIERE4  HD²
+http://samuraihd.com.br:80/977/977/7506
+#EXTINF:-1, group-title="NEW2019", PREMIERE 4 HD*
+http://samuraihd.com.br:80/977/977/15163
+#EXTINF:-1, group-title="NEW2019", PREMIERE 4 SD*
+http://samuraihd.com.br:80/977/977/15162
+#EXTINF:-1, group-title="NEW2019", PREMIERE5 FHD²
+http://samuraihd.com.br:80/977/977/7485
+#EXTINF:-1, group-title="NEW2019", PREMIERE5 HD²
+http://samuraihd.com.br:80/977/977/7482
+#EXTINF:-1, group-title="NEW2019", PREMIERE 5 HD*
+http://samuraihd.com.br:80/977/977/15161
+#EXTINF:-1, group-title="NEW2019", PREMIERE 5 SD*
+http://samuraihd.com.br:80/977/977/15160
+#EXTINF:-1, group-title="NEW2019", PREMIERE6 FHD²
+http://samuraihd.com.br:80/977/977/7484
+#EXTINF:-1, group-title="NEW2019", PREMIERE6 HD²
+http://samuraihd.com.br:80/977/977/7483
+#EXTINF:-1, group-title="NEW2019", PREMIERE 6 HD*
+http://samuraihd.com.br:80/977/977/15159
+#EXTINF:-1, group-title="NEW2019", PREMIERE 6 SD*
+http://samuraihd.com.br:80/977/977/15158
+#EXTINF:-1, group-title="NEW2019", PREMIERE7 FHD²
+http://samuraihd.com.br:80/977/977/7374
+#EXTINF:-1, group-title="NEW2019", PREMIERE 7 HD**
+http://samuraihd.com.br:80/977/977/5860
+#EXTINF:-1, group-title="NEW2019", PREMIERE 7 HD*
+http://samuraihd.com.br:80/977/977/15157
+#EXTINF:-1, group-title="NEW2019", PREMIERE 7 SD*
+http://samuraihd.com.br:80/977/977/15156
+#EXTINF:-1, group-title="NEW2019", PREMIERER 8 FHD H265¹
+http://samuraihd.com.br:80/977/977/5904
+#EXTINF:-1, group-title="NEW2019", PREMIERE 8 FHD*
+http://samuraihd.com.br:80/977/977/5855
+#EXTINF:-1, group-title="NEW2019", PREMIERE 8 HD*
+http://samuraihd.com.br:80/977/977/5856
+#EXTINF:-1, group-title="NEW2019", PREMIERE 8 SD*
+http://samuraihd.com.br:80/977/977/15155
+#EXTINF:-1, group-title="NEW2019", RPC PY HD 2
+http://samuraihd.com.br:80/977/977/7363
+#EXTINF:-1, group-title="NEW2019", TBS FHD 2
+http://samuraihd.com.br:80/977/977/7470
+#EXTINF:-1, group-title="NEW2019", TBS HD 1
+http://samuraihd.com.br:80/977/977/5773
+#EXTINF:-1, group-title="NEW2019", TBS HD 2
+http://samuraihd.com.br:80/977/977/7441
+#EXTINF:-1, group-title="NEW2019", TBS SD 1
+http://samuraihd.com.br:80/977/977/5772
+#EXTINF:-1, group-title="NEW2019", I SAT SD 1
+http://samuraihd.com.br:80/977/977/5798
+#EXTINF:-1, group-title="NEW2019", SONY FHD H265¹
+http://samuraihd.com.br:80/977/977/5787
+#EXTINF:-1, group-title="NEW2019", SONY FHD¹*
+http://samuraihd.com.br:80/977/977/5788
+#EXTINF:-1, group-title="NEW2019", SONY FHD²
+http://samuraihd.com.br:80/977/977/7413
+#EXTINF:-1, group-title="NEW2019", SONY HD¹*
+http://samuraihd.com.br:80/977/977/5786
+#EXTINF:-1, group-title="NEW2019", SONY SD¹
+http://samuraihd.com.br:80/977/977/5789
