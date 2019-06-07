@@ -1783,7 +1783,6 @@ http://51.15.15.119:8080/gina/gina/62487
 http://51.15.15.119:8080/gina/gina/62486
 
 
-#EXTM3U
 #EXTINF:-1, group-title="TWO", HBO+ SD (BR2)
 http://51.15.15.119:8080/john/john/62822
 #EXTINF:-1, group-title="TWO", A&E FHD H265 (BR2)
@@ -3037,7 +3036,7 @@ http://51.15.15.119:8080/john/john/62487
 #EXTINF:-1, group-title="TWO", 24HS: X MEN EVOLUTION (BR2)
 http://51.15.15.119:8080/john/john/62486
 
-#EXTM3U
+
 #EXTINF:-1, group-title="THREE", 24HS: 3 PALAVRINHAS (BR2)
 http://51.15.15.119:8080/ramon/ramon/62570
 #EXTINF:-1, group-title="THREE", 24HS: A FAMILIA ADDAMS (BR2)
@@ -4839,3 +4838,1764 @@ http://51.15.15.119:8080/ramon/ramon/58356
 #EXTINF:-1, group-title="THREE", XXX: VENUS SD (BR1)
 http://51.15.15.119:8080/ramon/ramon/58355
 
+
+#EXTM3U
+
+#EXTINF:-1, group-title="FIVER", 24HS: 3 PALAVRINHAS (BR2)
+http://51.15.15.119:8080/max/max/62570
+#EXTINF:-1, group-title="FIVER", 24HS: A FAMILIA ADDAMS (BR2)
+http://51.15.15.119:8080/max/max/62569
+#EXTINF:-1, group-title="FIVER", 24HS: A FORMIGA ATOMICA (BR2)
+http://51.15.15.119:8080/max/max/62568
+#EXTINF:-1, group-title="FIVER", 24HS: A PEQUENA SEREIA (BR2)
+http://51.15.15.119:8080/max/max/62567
+#EXTINF:-1, group-title="FIVER", 24HS: A TURMA DO PERNALONGA (BR2)
+http://51.15.15.119:8080/max/max/62566
+#EXTINF:-1, group-title="FIVER", 24HS: A VACA E O FRANGO (BR2)
+http://51.15.15.119:8080/max/max/62565
+#EXTINF:-1, group-title="FIVER", 24HS: AH QUE KIKO! KIKO E SUA TURMA (BR2)
+http://51.15.15.119:8080/max/max/62564
+#EXTINF:-1, group-title="FIVER", 24HS: ALADDIN (BR2)
+http://51.15.15.119:8080/max/max/62563
+#EXTINF:-1, group-title="FIVER", 24HS: ANIMANIACS (BR2)
+http://51.15.15.119:8080/max/max/62562
+#EXTINF:-1, group-title="FIVER", 24HS: ARNOLD (BR2)
+http://51.15.15.119:8080/max/max/62561
+#EXTINF:-1, group-title="FIVER", 24HS: BATMAN E ROBIN (BR2)
+http://51.15.15.119:8080/max/max/62560
+#EXTINF:-1, group-title="FIVER", 24HS: BEN 10 FORCA ALIENIGENA (BR2)
+http://51.15.15.119:8080/max/max/62559
+#EXTINF:-1, group-title="FIVER", 24HS: BIBO PAI E BOB FILHO (BR2)
+http://51.15.15.119:8080/max/max/62558
+#EXTINF:-1, group-title="FIVER", 24HS: BICUDO O LOBISOMEM (BR2)
+http://51.15.15.119:8080/max/max/62557
+#EXTINF:-1, group-title="FIVER", 24HS: BOB ESPONJA (BR2)
+http://51.15.15.119:8080/max/max/62556
+#EXTINF:-1, group-title="FIVER", 24HS: BUZZ LIGHTYEAR (BR2)
+http://51.15.15.119:8080/max/max/62555
+#EXTINF:-1, group-title="FIVER", 24HS: CASTELO RA TIM BUM (BR2)
+http://51.15.15.119:8080/max/max/62554
+#EXTINF:-1, group-title="FIVER", 24HS: CAVALO DE FOGO (BR2)
+http://51.15.15.119:8080/max/max/62553
+#EXTINF:-1, group-title="FIVER", 24HS: CHANGEMAN (BR2)
+http://51.15.15.119:8080/max/max/62552
+#EXTINF:-1, group-title="FIVER", 24HS: CHAPOLIN (BR2)
+http://51.15.15.119:8080/max/max/62551
+#EXTINF:-1, group-title="FIVER", 24HS: CHAVES (BR2)
+http://51.15.15.119:8080/max/max/62550
+#EXTINF:-1, group-title="FIVER", 24HS: CINE COMEDIA (BR2)
+http://51.15.15.119:8080/max/max/62547
+#EXTINF:-1, group-title="FIVER", 24HS: CINE DC (BR2)
+http://51.15.15.119:8080/max/max/62546
+#EXTINF:-1, group-title="FIVER", 24HS: CINE DRAMA (BR2)
+http://51.15.15.119:8080/max/max/62545
+#EXTINF:-1, group-title="FIVER", 24HS: CINE FAROESTE (BR2)
+http://51.15.15.119:8080/max/max/62544
+#EXTINF:-1, group-title="FIVER", 24HS: CINE GUERRA (BR2)
+http://51.15.15.119:8080/max/max/62543
+#EXTINF:-1, group-title="FIVER", 24HS: CINE MARVEL (BR2)
+http://51.15.15.119:8080/max/max/62541
+#EXTINF:-1, group-title="FIVER", 24HS: CINE NACIONAL (BR2)
+http://51.15.15.119:8080/max/max/62540
+#EXTINF:-1, group-title="FIVER", 24HS: CINE TERROR (BR2)
+http://51.15.15.119:8080/max/max/62539
+#EXTINF:-1, group-title="FIVER", 24HS: COLECAO BOB ZOOM (BR2)
+http://51.15.15.119:8080/max/max/62538
+#EXTINF:-1, group-title="FIVER", 24HS: CORRIDA MALUCA (BR2)
+http://51.15.15.119:8080/max/max/62536
+#EXTINF:-1, group-title="FIVER", 24HS: DE VOLTA PARA O FUTURO (BR2)
+http://51.15.15.119:8080/max/max/62535
+#EXTINF:-1, group-title="FIVER", 24HS: DESENHOS BIBLICOS (BR2)
+http://51.15.15.119:8080/max/max/62534
+#EXTINF:-1, group-title="FIVER", 24HS: DORA A AVENTUREIRA (BR2)
+http://51.15.15.119:8080/max/max/62533
+#EXTINF:-1, group-title="FIVER", 24HS: DOUG (BR2)
+http://51.15.15.119:8080/max/max/62532
+#EXTINF:-1, group-title="FIVER", 24HS: DR HOUSE (BR2)
+http://51.15.15.119:8080/max/max/62531
+#EXTINF:-1, group-title="FIVER", 24HS: DRAGON BALL Z  SAGA DE MAJIN BOO (BR2)
+http://51.15.15.119:8080/max/max/62530
+#EXTINF:-1, group-title="FIVER", 24HS: DRAGON BALL Z: SAGA DE CELL (BR2)
+http://51.15.15.119:8080/max/max/62529
+#EXTINF:-1, group-title="FIVER", 24HS: DRAGON BALL Z: SAGA DE FREEZA (BR2)
+http://51.15.15.119:8080/max/max/62528
+#EXTINF:-1, group-title="FIVER", 24HS: DRAGON BALL Z: SAGA DE GARLIC JR (BR2)
+http://51.15.15.119:8080/max/max/62527
+#EXTINF:-1, group-title="FIVER", 24HS: DRAGON BALL Z: SAGA DOS ANDROIDE (BR2)
+http://51.15.15.119:8080/max/max/62526
+#EXTINF:-1, group-title="FIVER", 24HS: DRAGON BALL Z: SAGA DOS SAYAJINS (BR2)
+http://51.15.15.119:8080/max/max/62525
+#EXTINF:-1, group-title="FIVER", 24HS: DU DUDU E EDU (BR2)
+http://51.15.15.119:8080/max/max/62524
+#EXTINF:-1, group-title="FIVER", 24HS: FAMILIA DINOSSAURO (BR2)
+http://51.15.15.119:8080/max/max/62522
+#EXTINF:-1, group-title="FIVER", 24HS: FLASHMAN (BR2)
+http://51.15.15.119:8080/max/max/62521
+#EXTINF:-1, group-title="FIVER", 24HS: FRANKENSTEIN JUNIOR (BR2)
+http://51.15.15.119:8080/max/max/62520
+#EXTINF:-1, group-title="FIVER", 24HS: GALINHA PINTADINHA (BR2)
+http://51.15.15.119:8080/max/max/62519
+#EXTINF:-1, group-title="FIVER", 24HS: JAMBO E RUIVAO (BR2)
+http://51.15.15.119:8080/max/max/62518
+#EXTINF:-1, group-title="FIVER", 24HS: JASPION (BR2)
+http://51.15.15.119:8080/max/max/62517
+#EXTINF:-1, group-title="FIVER", 24HS: JIRAYA (BR2)
+http://51.15.15.119:8080/max/max/62516
+#EXTINF:-1, group-title="FIVER", 24HS: LIGEIRINHO (BR2)
+http://51.15.15.119:8080/max/max/62515
+#EXTINF:-1, group-title="FIVER", 24HS: MASTER CHEF (BR2)
+http://51.15.15.119:8080/max/max/62514
+#EXTINF:-1, group-title="FIVER", 24HS: MOSQUITO E MOSCARDO (BR2)
+http://51.15.15.119:8080/max/max/62513
+#EXTINF:-1, group-title="FIVER", 24HS: MR.BEAN (BR2)
+http://51.15.15.119:8080/max/max/62512
+#EXTINF:-1, group-title="FIVER", 24HS: O INSPETOR (BR2)
+http://51.15.15.119:8080/max/max/62511
+#EXTINF:-1, group-title="FIVER", 24HS: O MASKARA (BR2)
+http://51.15.15.119:8080/max/max/62510
+#EXTINF:-1, group-title="FIVER", 24HS: O SHOW DA LUNA (BR2)
+http://51.15.15.119:8080/max/max/62509
+#EXTINF:-1, group-title="FIVER", 24HS: O SOCIO (BR2)
+http://51.15.15.119:8080/max/max/62508
+#EXTINF:-1, group-title="FIVER", 24HS: OS NORMAIS (BR2)
+http://51.15.15.119:8080/max/max/62507
+#EXTINF:-1, group-title="FIVER", 24HS: OS TRAPALHOES (BR2)
+http://51.15.15.119:8080/max/max/62506
+#EXTINF:-1, group-title="FIVER", 24HS: PATRULHA CANINA (BR2)
+http://51.15.15.119:8080/max/max/62505
+#EXTINF:-1, group-title="FIVER", 24HS: PERNALONGA (BR2)
+http://51.15.15.119:8080/max/max/62504
+#EXTINF:-1, group-title="FIVER", 24HS: PICA PAU (BR2)
+http://51.15.15.119:8080/max/max/62503
+#EXTINF:-1, group-title="FIVER", 24HS: PJ MASKS (BR2)
+http://51.15.15.119:8080/max/max/62502
+#EXTINF:-1, group-title="FIVER", 24HS: RICK AND MORTY (BR2)
+http://51.15.15.119:8080/max/max/62501
+#EXTINF:-1, group-title="FIVER", 24HS: SAMURAI JACK (BR2)
+http://51.15.15.119:8080/max/max/62500
+#EXTINF:-1, group-title="FIVER", 24HS: SILVIO SANTOS (BR2)
+http://51.15.15.119:8080/max/max/62499
+#EXTINF:-1, group-title="FIVER", 24HS: SOUTH PARK (BR2)
+http://51.15.15.119:8080/max/max/62498
+#EXTINF:-1, group-title="FIVER", 24HS: STANDUP (BR2)
+http://51.15.15.119:8080/max/max/62497
+#EXTINF:-1, group-title="FIVER", 24HS: SUPER CAMPEOES (BR2)
+http://51.15.15.119:8080/max/max/62496
+#EXTINF:-1, group-title="FIVER", 24HS: THE BIG BANG THEORY (BR2)
+http://51.15.15.119:8080/max/max/62495
+#EXTINF:-1, group-title="FIVER", 24HS: TITIO AVO (BR2)
+http://51.15.15.119:8080/max/max/62494
+#EXTINF:-1, group-title="FIVER", 24HS: TODO MUNDO ODEIA O CHRIS (BR2)
+http://51.15.15.119:8080/max/max/62493
+#EXTINF:-1, group-title="FIVER", 24HS: TOM & JERRY (BR2)
+http://51.15.15.119:8080/max/max/62492
+#EXTINF:-1, group-title="FIVER", 24HS: TOMA LA DA CA (BR2)
+http://51.15.15.119:8080/max/max/62491
+#EXTINF:-1, group-title="FIVER", 24HS: UFC (BR2)
+http://51.15.15.119:8080/max/max/62490
+#EXTINF:-1, group-title="FIVER", 24HS: ULTRAMAN (BR2)
+http://51.15.15.119:8080/max/max/62489
+#EXTINF:-1, group-title="FIVER", 24HS: UM MALUCO NO PEDACO (BR2)
+http://51.15.15.119:8080/max/max/62488
+#EXTINF:-1, group-title="FIVER", 24HS: WINSPECTOR (BR2)
+http://51.15.15.119:8080/max/max/62487
+#EXTINF:-1, group-title="FIVER", 24HS: Câmera Escondida Silvio Santos
+http://51.15.15.119:8080/max/max/63851
+#EXTINF:-1, group-title="FIVER", 24HS: Canal G5 Pagode
+http://51.15.15.119:8080/max/max/64110
+#EXTINF:-1, group-title="FIVER", 24HS: Canal G5 Sertanejo Top
+http://51.15.15.119:8080/max/max/63852
+#EXTINF:-1, group-title="FIVER", 24HS: Canal G5 Vendas
+http://51.15.15.119:8080/max/max/63864
+#EXTINF:-1, group-title="FIVER", 24HS: Pegadinhas Mução Véio Davi
+http://51.15.15.119:8080/max/max/63783
+#EXTINF:-1, group-title="FIVER", DAZN: BRASILEIRAO SERIE C HD (BR1)
+http://51.15.15.119:8080/max/max/63867
+#EXTINF:-1, group-title="FIVER", COPA DO NORDESTE (FINAIS)(BR2)
+http://51.15.15.119:8080/max/max/63788
+#EXTINF:-1, group-title="FIVER", COPA LIBERTADORES HD (BR1)
+http://51.15.15.119:8080/max/max/63866
+#EXTINF:-1, group-title="FIVER", DAZN: COPA SULAMERICANA HD (BR1)
+http://51.15.15.119:8080/max/max/63865
+#EXTINF:-1, group-title="FIVER", DAZN 01
+http://51.15.15.119:8080/max/max/63787
+#EXTINF:-1, group-title="FIVER", DAZN 02
+http://51.15.15.119:8080/max/max/63786
+#EXTINF:-1, group-title="FIVER", DAZN: G02 :: (BR2)
+http://51.15.15.119:8080/max/max/63868
+#EXTINF:-1, group-title="FIVER", DAZN: P01 :: (BR2)
+http://51.15.15.119:8080/max/max/63869
+#EXTINF:-1, group-title="FIVER", ESPN EXTRA FHD (BR2)
+http://51.15.15.119:8080/max/max/63792
+#EXTINF:-1, group-title="FIVER", POWER COUPLE BRASIL (BR2)
+http://51.15.15.119:8080/max/max/63790
+#EXTINF:-1, group-title="FIVER", POWER COUPLE BRASIL HD (BR2)
+http://51.15.15.119:8080/max/max/63789
+#EXTINF:-1, group-title="FIVER", RECORD DF FHD (BR2)
+http://51.15.15.119:8080/max/max/63799
+#EXTINF:-1, group-title="FIVER", RECORD GO FHD (BR2)
+http://51.15.15.119:8080/max/max/63798
+#EXTINF:-1, group-title="FIVER", RECORD GO HD (BR2)
+http://51.15.15.119:8080/max/max/63797
+#EXTINF:-1, group-title="FIVER", RECORD GO SD (BR2)
+http://51.15.15.119:8080/max/max/63796
+#EXTINF:-1, group-title="FIVER", RECORD MG FHD (BR2)
+http://51.15.15.119:8080/max/max/63795
+#EXTINF:-1, group-title="FIVER", RECORD RJ FHD (BR2)
+http://51.15.15.119:8080/max/max/63794
+#EXTINF:-1, group-title="FIVER", RECORD RS FHD (BR2)
+http://51.15.15.119:8080/max/max/63793
+#EXTINF:-1, group-title="FIVER", 24HS: X MEN EVOLUTION (BR2)
+http://51.15.15.119:8080/max/max/62486
+#EXTINF:-1, group-title="FIVER", A&E HD (BR1)
+http://51.15.15.119:8080/max/max/58733
+#EXTINF:-1, group-title="FIVER", A&E SD (BR1)
+http://51.15.15.119:8080/max/max/58732
+#EXTINF:-1, group-title="FIVER", AMC HD (BR1)
+http://51.15.15.119:8080/max/max/58731
+#EXTINF:-1, group-title="FIVER", AMC SD (BR1)
+http://51.15.15.119:8080/max/max/58730
+#EXTINF:-1, group-title="FIVER", ANIMAL  PLANET FHD (BR1)
+http://51.15.15.119:8080/max/max/58729
+#EXTINF:-1, group-title="FIVER", ANIMAL PLANET HD (BR1)
+http://51.15.15.119:8080/max/max/58728
+#EXTINF:-1, group-title="FIVER", ANIMAL PLANET SD (BR1)
+http://51.15.15.119:8080/max/max/58727
+#EXTINF:-1, group-title="FIVER", ARTE 1 HD (BR1)
+http://51.15.15.119:8080/max/max/58726
+#EXTINF:-1, group-title="FIVER", ARTE 1 SD (BR1)
+http://51.15.15.119:8080/max/max/58725
+#EXTINF:-1, group-title="FIVER", AXN HD (BR1)
+http://51.15.15.119:8080/max/max/58724
+#EXTINF:-1, group-title="FIVER", AXN SD (BR1)
+http://51.15.15.119:8080/max/max/58723
+#EXTINF:-1, group-title="FIVER", BABY TV SD (BR1)
+http://51.15.15.119:8080/max/max/58722
+#EXTINF:-1, group-title="FIVER", BAND NEWS FHD (BR1)
+http://51.15.15.119:8080/max/max/58721
+#EXTINF:-1, group-title="FIVER", BAND NEWS HD (BR1)
+http://51.15.15.119:8080/max/max/58720
+#EXTINF:-1, group-title="FIVER", BAND NEWS SD (BR1)
+http://51.15.15.119:8080/max/max/58719
+#EXTINF:-1, group-title="FIVER", BAND SP FHD (BR1)
+http://51.15.15.119:8080/max/max/58718
+#EXTINF:-1, group-title="FIVER", BAND SP HD (BR1)
+http://51.15.15.119:8080/max/max/58717
+#EXTINF:-1, group-title="FIVER", BAND SP SD (BR1)
+http://51.15.15.119:8080/max/max/58716
+#EXTINF:-1, group-title="FIVER", BAND SPORTS HD (BR1)
+http://51.15.15.119:8080/max/max/58715
+#EXTINF:-1, group-title="FIVER", BAND SPORTS SD (BR1)
+http://51.15.15.119:8080/max/max/58714
+#EXTINF:-1, group-title="FIVER", BIS FHD (BR1)
+http://51.15.15.119:8080/max/max/58684
+#EXTINF:-1, group-title="FIVER", BIS HD (BR1)
+http://51.15.15.119:8080/max/max/58683
+#EXTINF:-1, group-title="FIVER", BIS SD (BR1)
+http://51.15.15.119:8080/max/max/58682
+#EXTINF:-1, group-title="FIVER", BOA VONTADE TV HD (BR1)
+http://51.15.15.119:8080/max/max/58681
+#EXTINF:-1, group-title="FIVER", BOOMERANG  FHD (BR1)
+http://51.15.15.119:8080/max/max/58680
+#EXTINF:-1, group-title="FIVER", BOOMERANG HD (BR1)
+http://51.15.15.119:8080/max/max/58679
+#EXTINF:-1, group-title="FIVER", BOOMERANG SD (BR1)
+http://51.15.15.119:8080/max/max/58678
+#EXTINF:-1, group-title="FIVER", CANAL BRASIL HD (BR1)
+http://51.15.15.119:8080/max/max/58677
+#EXTINF:-1, group-title="FIVER", CANAL BRASIL SD (BR1)
+http://51.15.15.119:8080/max/max/58676
+#EXTINF:-1, group-title="FIVER", CANAL SONY HD (BR1)
+http://51.15.15.119:8080/max/max/58675
+#EXTINF:-1, group-title="FIVER", CANAL SONY SD (BR1)
+http://51.15.15.119:8080/max/max/58674
+#EXTINF:-1, group-title="FIVER", CANCAO NOVA SD (BR1)
+http://51.15.15.119:8080/max/max/58673
+#EXTINF:-1, group-title="FIVER", CARTOON NETWORK HD (BR1)
+http://51.15.15.119:8080/max/max/58672
+#EXTINF:-1, group-title="FIVER", CARTOON NETWORK SD (BR1)
+http://51.15.15.119:8080/max/max/58671
+#EXTINF:-1, group-title="FIVER", CINEMAX HD (BR1)
+http://51.15.15.119:8080/max/max/58664
+#EXTINF:-1, group-title="FIVER", CINEMAX SD (BR1)
+http://51.15.15.119:8080/max/max/58663
+#EXTINF:-1, group-title="FIVER", COMBATE FHD (BR1)
+http://51.15.15.119:8080/max/max/58662
+#EXTINF:-1, group-title="FIVER", COMBATE HD (BR1)
+http://51.15.15.119:8080/max/max/58661
+#EXTINF:-1, group-title="FIVER", COMBATE SD (BR1)
+http://51.15.15.119:8080/max/max/58660
+#EXTINF:-1, group-title="FIVER", COMEDY CENTRAL HD (BR1)
+http://51.15.15.119:8080/max/max/58659
+#EXTINF:-1, group-title="FIVER", COMEDY CENTRAL SD (BR1)
+http://51.15.15.119:8080/max/max/58658
+#EXTINF:-1, group-title="FIVER", CURTA! HD (BR1)
+http://51.15.15.119:8080/max/max/58651
+#EXTINF:-1, group-title="FIVER", CURTA! SD (BR1)
+http://51.15.15.119:8080/max/max/58650
+#EXTINF:-1, group-title="FIVER", DISCOVERY CHANNEL FHD (BR1)
+http://51.15.15.119:8080/max/max/58649
+#EXTINF:-1, group-title="FIVER", DISCOVERY CHANNEL HD (BR1)
+http://51.15.15.119:8080/max/max/58648
+#EXTINF:-1, group-title="FIVER", DISCOVERY CHANNEL SD (BR1)
+http://51.15.15.119:8080/max/max/58647
+#EXTINF:-1, group-title="FIVER", DISCOVERY CIVILIZATION HD (BR1)
+http://51.15.15.119:8080/max/max/58646
+#EXTINF:-1, group-title="FIVER", DISCOVERY CIVILIZATION SD (BR1)
+http://51.15.15.119:8080/max/max/58645
+#EXTINF:-1, group-title="FIVER", DISCOVERY H&H HD (BR1)
+http://51.15.15.119:8080/max/max/58644
+#EXTINF:-1, group-title="FIVER", DISCOVERY H&H SD (BR1)
+http://51.15.15.119:8080/max/max/58643
+#EXTINF:-1, group-title="FIVER", DISCOVERY HOME & HEALTH FHD (BR1)
+http://51.15.15.119:8080/max/max/58642
+#EXTINF:-1, group-title="FIVER", DISCOVERY KIDS FHD (BR1)
+http://51.15.15.119:8080/max/max/58641
+#EXTINF:-1, group-title="FIVER", DISCOVERY KIDS HD (BR1)
+http://51.15.15.119:8080/max/max/58640
+#EXTINF:-1, group-title="FIVER", DISCOVERY KIDS SD (BR1)
+http://51.15.15.119:8080/max/max/58639
+#EXTINF:-1, group-title="FIVER", DISCOVERY SCIENCE HD (BR1)
+http://51.15.15.119:8080/max/max/58638
+#EXTINF:-1, group-title="FIVER", DISCOVERY SCIENCE SD (BR1)
+http://51.15.15.119:8080/max/max/58637
+#EXTINF:-1, group-title="FIVER", DISCOVERY THEATER HD (BR1)
+http://51.15.15.119:8080/max/max/58636
+#EXTINF:-1, group-title="FIVER", DISCOVERY THEATER SD (BR1)
+http://51.15.15.119:8080/max/max/58635
+#EXTINF:-1, group-title="FIVER", DISCOVERY TURBO FHD (BR1)
+http://51.15.15.119:8080/max/max/58634
+#EXTINF:-1, group-title="FIVER", DISCOVERY TURBO HD (BR1)
+http://51.15.15.119:8080/max/max/58633
+#EXTINF:-1, group-title="FIVER", DISCOVERY TURBO SD (BR1)
+http://51.15.15.119:8080/max/max/58632
+#EXTINF:-1, group-title="FIVER", DISCOVERY WORLD  HD (BR1)
+http://51.15.15.119:8080/max/max/58631
+#EXTINF:-1, group-title="FIVER", DISCOVERY WORLD FHD (BR1)
+http://51.15.15.119:8080/max/max/58630
+#EXTINF:-1, group-title="FIVER", DISCOVERY WORLD SD (BR1)
+http://51.15.15.119:8080/max/max/58629
+#EXTINF:-1, group-title="FIVER", DISNEY CHANNEL FHD (BR1)
+http://51.15.15.119:8080/max/max/58628
+#EXTINF:-1, group-title="FIVER", DISNEY CHANNEL HD (BR1)
+http://51.15.15.119:8080/max/max/58627
+#EXTINF:-1, group-title="FIVER", DISNEY CHANNEL SD (BR1)
+http://51.15.15.119:8080/max/max/58626
+#EXTINF:-1, group-title="FIVER", DISNEY JR HD (BR1)
+http://51.15.15.119:8080/max/max/58625
+#EXTINF:-1, group-title="FIVER", DISNEY JUNIOR SD (BR1)
+http://51.15.15.119:8080/max/max/58624
+#EXTINF:-1, group-title="FIVER", DISNEY XD SD (BR1)
+http://51.15.15.119:8080/max/max/58623
+#EXTINF:-1, group-title="FIVER", E! HD (BR1)
+http://51.15.15.119:8080/max/max/58622
+#EXTINF:-1, group-title="FIVER", E! SD (BR1)
+http://51.15.15.119:8080/max/max/58621
+#EXTINF:-1, group-title="FIVER", ESPN 2 HD (BR1)
+http://51.15.15.119:8080/max/max/58620
+#EXTINF:-1, group-title="FIVER", ESPN 2 SD (BR1)
+http://51.15.15.119:8080/max/max/58619
+#EXTINF:-1, group-title="FIVER", ESPN BRASIL FHD (BR1)
+http://51.15.15.119:8080/max/max/58618
+#EXTINF:-1, group-title="FIVER", ESPN BRASIL HD (BR1)
+http://51.15.15.119:8080/max/max/58617
+#EXTINF:-1, group-title="FIVER", ESPN BRASIL SD (BR1)
+http://51.15.15.119:8080/max/max/58616
+#EXTINF:-1, group-title="FIVER", ESPN EXTRA FHD (BR1)
+http://51.15.15.119:8080/max/max/58615
+#EXTINF:-1, group-title="FIVER", ESPN EXTRA HD (BR1)
+http://51.15.15.119:8080/max/max/58614
+#EXTINF:-1, group-title="FIVER", ESPN EXTRA SD (BR1)
+http://51.15.15.119:8080/max/max/58613
+#EXTINF:-1, group-title="FIVER", ESPN FHD (BR1)
+http://51.15.15.119:8080/max/max/58612
+#EXTINF:-1, group-title="FIVER", ESPN HD (BR1)
+http://51.15.15.119:8080/max/max/58611
+#EXTINF:-1, group-title="FIVER", ESPN SD (BR1)
+http://51.15.15.119:8080/max/max/58610
+#EXTINF:-1, group-title="FIVER", FILM & ARTS SD (BR1)
+http://51.15.15.119:8080/max/max/58609
+#EXTINF:-1, group-title="FIVER", FISH TV HD (BR1)
+http://51.15.15.119:8080/max/max/58608
+#EXTINF:-1, group-title="FIVER", FISH TV SD (BR1)
+http://51.15.15.119:8080/max/max/58607
+#EXTINF:-1, group-title="FIVER", FOOD NETWORK HD (BR1)
+http://51.15.15.119:8080/max/max/58606
+#EXTINF:-1, group-title="FIVER", FOOD NETWORK SD (BR1)
+http://51.15.15.119:8080/max/max/58605
+#EXTINF:-1, group-title="FIVER", FOX FHD (BR1)
+http://51.15.15.119:8080/max/max/58604
+#EXTINF:-1, group-title="FIVER", FOX HD (BR1)
+http://51.15.15.119:8080/max/max/58603
+#EXTINF:-1, group-title="FIVER", FOX LIFE HD (BR1)
+http://51.15.15.119:8080/max/max/58602
+#EXTINF:-1, group-title="FIVER", FOX LIFE SD (BR1)
+http://51.15.15.119:8080/max/max/58601
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 1 HD (BR1)
+http://51.15.15.119:8080/max/max/58600
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 1 SD (BR1)
+http://51.15.15.119:8080/max/max/58599
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 2 FHD (BR1)
+http://51.15.15.119:8080/max/max/58598
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 2 HD (BR1)
+http://51.15.15.119:8080/max/max/58597
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 2 SD (BR1)
+http://51.15.15.119:8080/max/max/58596
+#EXTINF:-1, group-title="FIVER", FOX SD (BR1)
+http://51.15.15.119:8080/max/max/58595
+#EXTINF:-1, group-title="FIVER", FOX SPORTS 2 FHD (BR1)
+http://51.15.15.119:8080/max/max/58594
+#EXTINF:-1, group-title="FIVER", FOX SPORTS 2 HD (BR1)
+http://51.15.15.119:8080/max/max/58593
+#EXTINF:-1, group-title="FIVER", FOX SPORTS 2 SD (BR1)
+http://51.15.15.119:8080/max/max/58592
+#EXTINF:-1, group-title="FIVER", FOX SPORTS FHD (BR1)
+http://51.15.15.119:8080/max/max/58591
+#EXTINF:-1, group-title="FIVER", FOX SPORTS HD (BR1)
+http://51.15.15.119:8080/max/max/58590
+#EXTINF:-1, group-title="FIVER", FOX SPORTS SD (BR1)
+http://51.15.15.119:8080/max/max/58589
+#EXTINF:-1, group-title="FIVER", FUTURA HD (BR1)
+http://51.15.15.119:8080/max/max/58588
+#EXTINF:-1, group-title="FIVER", FUTURA SD (BR1)
+http://51.15.15.119:8080/max/max/58587
+#EXTINF:-1, group-title="FIVER", FX HD (BR1)
+http://51.15.15.119:8080/max/max/58586
+#EXTINF:-1, group-title="FIVER", FX SD (BR1)
+http://51.15.15.119:8080/max/max/58585
+#EXTINF:-1, group-title="FIVER", GLOBO  CAMPINAS HD (BR1)
+http://51.15.15.119:8080/max/max/58584
+#EXTINF:-1, group-title="FIVER", GLOBO BRASILIA HD (BR1)
+http://51.15.15.119:8080/max/max/58583
+#EXTINF:-1, group-title="FIVER", GLOBO BRASILIA SD (BR1)
+http://51.15.15.119:8080/max/max/58582
+#EXTINF:-1, group-title="FIVER", GLOBO CAMPINAS SD (BR1)
+http://51.15.15.119:8080/max/max/58581
+#EXTINF:-1, group-title="FIVER", GLOBO GOIANIA HD (BR1)
+http://51.15.15.119:8080/max/max/58580
+#EXTINF:-1, group-title="FIVER", GLOBO GOIANIA SD (BR1)
+http://51.15.15.119:8080/max/max/58579
+#EXTINF:-1, group-title="FIVER", GLOBO MINAS FHD (BR1)
+http://51.15.15.119:8080/max/max/58578
+#EXTINF:-1, group-title="FIVER", GLOBO MINAS HD (BR1)
+http://51.15.15.119:8080/max/max/58577
+#EXTINF:-1, group-title="FIVER", GLOBO MINAS SD (BR1)
+http://51.15.15.119:8080/max/max/58576
+#EXTINF:-1, group-title="FIVER", GLOBO NEWS FHD (BR1)
+http://51.15.15.119:8080/max/max/58575
+#EXTINF:-1, group-title="FIVER", GLOBO NEWS HD (BR1)
+http://51.15.15.119:8080/max/max/58574
+#EXTINF:-1, group-title="FIVER", GLOBO NEWS SD (BR1)
+http://51.15.15.119:8080/max/max/58573
+#EXTINF:-1, group-title="FIVER", GLOBO NORDESTE HD (BR1)
+http://51.15.15.119:8080/max/max/58572
+#EXTINF:-1, group-title="FIVER", GLOBO NORDESTE SD (BR1)
+http://51.15.15.119:8080/max/max/58571
+#EXTINF:-1, group-title="FIVER", GLOBO NSC FLORIANOPOLIS HD (BR1)
+http://51.15.15.119:8080/max/max/58569
+#EXTINF:-1, group-title="FIVER", GLOBO NSC FLORIANOPOLIS SD (BR1)
+http://51.15.15.119:8080/max/max/58570
+#EXTINF:-1, group-title="FIVER", GLOBO RBS POA HD (BR1)
+http://51.15.15.119:8080/max/max/58568
+#EXTINF:-1, group-title="FIVER", GLOBO RBS TV PORTO ALEGRE SD (BR1)
+http://51.15.15.119:8080/max/max/58567
+#EXTINF:-1, group-title="FIVER", GLOBO RIBEIRAO PRETO HD (BR1)
+http://51.15.15.119:8080/max/max/58566
+#EXTINF:-1, group-title="FIVER", GLOBO RIBEIRAO PRETO SD (BR1)
+http://51.15.15.119:8080/max/max/58565
+#EXTINF:-1, group-title="FIVER", GLOBO RJ FHD (BR1)
+http://51.15.15.119:8080/max/max/58564
+#EXTINF:-1, group-title="FIVER", GLOBO RJ HD (BR1)
+http://51.15.15.119:8080/max/max/58563
+#EXTINF:-1, group-title="FIVER", GLOBO RJ SD (BR1)
+http://51.15.15.119:8080/max/max/58562
+#EXTINF:-1, group-title="FIVER", GLOBO RPC CURITIBA FHD (BR1)
+http://51.15.15.119:8080/max/max/58561
+#EXTINF:-1, group-title="FIVER", GLOBO RPC CURITIBA HD (BR1)
+http://51.15.15.119:8080/max/max/58560
+#EXTINF:-1, group-title="FIVER", GLOBO RPC CURITIBA SD (BR1)
+http://51.15.15.119:8080/max/max/58559
+#EXTINF:-1, group-title="FIVER", GLOBO SP FHD (BR1)
+http://51.15.15.119:8080/max/max/58558
+#EXTINF:-1, group-title="FIVER", GLOBO SP HD (BR1)
+http://51.15.15.119:8080/max/max/58557
+#EXTINF:-1, group-title="FIVER", GLOBO SP SD (BR1)
+http://51.15.15.119:8080/max/max/58556
+#EXTINF:-1, group-title="FIVER", GLOBO TV BAHIA HD (BR1)
+http://51.15.15.119:8080/max/max/58555
+#EXTINF:-1, group-title="FIVER", GLOBO TV BAHIA SD (BR1)
+http://51.15.15.119:8080/max/max/58554
+#EXTINF:-1, group-title="FIVER", GLOBO TV TEM BAURU SD (BR1)
+http://51.15.15.119:8080/max/max/58553
+#EXTINF:-1, group-title="FIVER", GLOBO TV TEM S.J.RIO PRETO HD (BR1)
+http://51.15.15.119:8080/max/max/58552
+#EXTINF:-1, group-title="FIVER", GLOBO TV TEM S.J.RIO PRETO SD (BR1)
+http://51.15.15.119:8080/max/max/58551
+#EXTINF:-1, group-title="FIVER", GLOBO TV TEM SOROCABA SD (BR1)
+http://51.15.15.119:8080/max/max/58550
+#EXTINF:-1, group-title="FIVER", GLOOB FHD (BR1)
+http://51.15.15.119:8080/max/max/58549
+#EXTINF:-1, group-title="FIVER", GLOOB HD (BR1)
+http://51.15.15.119:8080/max/max/58548
+#EXTINF:-1, group-title="FIVER", GLOOB SD (BR1)
+http://51.15.15.119:8080/max/max/58547
+#EXTINF:-1, group-title="FIVER", GLOOBINHO HD (BR1)
+http://51.15.15.119:8080/max/max/58546
+#EXTINF:-1, group-title="FIVER", GLOOBINHO SD (BR1)
+http://51.15.15.119:8080/max/max/58545
+#EXTINF:-1, group-title="FIVER", GNT HD (BR1)
+http://51.15.15.119:8080/max/max/58544
+#EXTINF:-1, group-title="FIVER", GNT SD (BR1)
+http://51.15.15.119:8080/max/max/58543
+#EXTINF:-1, group-title="FIVER", H2 HD (BR1)
+http://51.15.15.119:8080/max/max/58542
+#EXTINF:-1, group-title="FIVER", H2 SD (BR1)
+http://51.15.15.119:8080/max/max/58541
+#EXTINF:-1, group-title="FIVER", HBO 2 FHD (BR1)
+http://51.15.15.119:8080/max/max/58540
+#EXTINF:-1, group-title="FIVER", HBO 2 HD (BR1)
+http://51.15.15.119:8080/max/max/58539
+#EXTINF:-1, group-title="FIVER", HBO 2 SD (BR1)
+http://51.15.15.119:8080/max/max/58538
+#EXTINF:-1, group-title="FIVER", HBO FAMILY HD (BR1)
+http://51.15.15.119:8080/max/max/58537
+#EXTINF:-1, group-title="FIVER", HBO FAMILY SD (BR1)
+http://51.15.15.119:8080/max/max/58536
+#EXTINF:-1, group-title="FIVER", HBO FHD (BR1)
+http://51.15.15.119:8080/max/max/58535
+#EXTINF:-1, group-title="FIVER", HBO HD (BR1)
+http://51.15.15.119:8080/max/max/58534
+#EXTINF:-1, group-title="FIVER", HBO+ HD (BR1)
+http://51.15.15.119:8080/max/max/58533
+#EXTINF:-1, group-title="FIVER", HBO+ SD (BR1)
+http://51.15.15.119:8080/max/max/58532
+#EXTINF:-1, group-title="FIVER", HBO SD (BR1)
+http://51.15.15.119:8080/max/max/58531
+#EXTINF:-1, group-title="FIVER", HBO SIGNATURE HD (BR1)
+http://51.15.15.119:8080/max/max/58530
+#EXTINF:-1, group-title="FIVER", HBO SIGNATURE SD (BR1)
+http://51.15.15.119:8080/max/max/58529
+#EXTINF:-1, group-title="FIVER", HISTORY FHD (BR1)
+http://51.15.15.119:8080/max/max/58528
+#EXTINF:-1, group-title="FIVER", HISTORY HD (BR1)
+http://51.15.15.119:8080/max/max/58527
+#EXTINF:-1, group-title="FIVER", HISTORY SD (BR1)
+http://51.15.15.119:8080/max/max/58526
+#EXTINF:-1, group-title="FIVER", INVESTIGATION DISCOVERY HD (BR1)
+http://51.15.15.119:8080/max/max/58525
+#EXTINF:-1, group-title="FIVER", INVESTIGATION DISCOVERY SD (BR1)
+http://51.15.15.119:8080/max/max/58524
+#EXTINF:-1, group-title="FIVER", LIFETIME HD (BR1)
+http://51.15.15.119:8080/max/max/58523
+#EXTINF:-1, group-title="FIVER", LIFETIME SD (BR1)
+http://51.15.15.119:8080/max/max/58522
+#EXTINF:-1, group-title="FIVER", MAIS GLOBOSAT HD (BR1)
+http://51.15.15.119:8080/max/max/58521
+#EXTINF:-1, group-title="FIVER", MAIS GLOBOSAT SD (BR1)
+http://51.15.15.119:8080/max/max/58520
+#EXTINF:-1, group-title="FIVER", MAX HD (BR1)
+http://51.15.15.119:8080/max/max/58519
+#EXTINF:-1, group-title="FIVER", MAX PRIME HD (BR1)
+http://51.15.15.119:8080/max/max/58518
+#EXTINF:-1, group-title="FIVER", MAX PRIME SD (BR1)
+http://51.15.15.119:8080/max/max/58517
+#EXTINF:-1, group-title="FIVER", MAX SD (BR1)
+http://51.15.15.119:8080/max/max/58516
+#EXTINF:-1, group-title="FIVER", MAX UP HD (BR1)
+http://51.15.15.119:8080/max/max/58515
+#EXTINF:-1, group-title="FIVER", MAX UP SD (BR1)
+http://51.15.15.119:8080/max/max/58514
+#EXTINF:-1, group-title="FIVER", MEGAPIX HD (BR1)
+http://51.15.15.119:8080/max/max/58513
+#EXTINF:-1, group-title="FIVER", MEGAPIX SD (BR1)
+http://51.15.15.119:8080/max/max/58512
+#EXTINF:-1, group-title="FIVER", MTV HD (BR1)
+http://51.15.15.119:8080/max/max/58511
+#EXTINF:-1, group-title="FIVER", MTV LIVE HD (BR1)
+http://51.15.15.119:8080/max/max/58510
+#EXTINF:-1, group-title="FIVER", MTV LIVE SD (BR1)
+http://51.15.15.119:8080/max/max/58509
+#EXTINF:-1, group-title="FIVER", MTV SD (BR1)
+http://51.15.15.119:8080/max/max/58508
+#EXTINF:-1, group-title="FIVER", MULTISHOW HD (BR1)
+http://51.15.15.119:8080/max/max/58507
+#EXTINF:-1, group-title="FIVER", MULTISHOW SD (BR1)
+http://51.15.15.119:8080/max/max/58506
+#EXTINF:-1, group-title="FIVER", MUSIC BOX BRASIL HD (BR1)
+http://51.15.15.119:8080/max/max/58505
+#EXTINF:-1, group-title="FIVER", MUSIC BOX BRASIL SD (BR1)
+http://51.15.15.119:8080/max/max/58504
+#EXTINF:-1, group-title="FIVER", NAT GEO HD (BR1)
+http://51.15.15.119:8080/max/max/58503
+#EXTINF:-1, group-title="FIVER", NAT GEO KIDS HD (BR1)
+http://51.15.15.119:8080/max/max/58502
+#EXTINF:-1, group-title="FIVER", NAT GEO KIDS SD (BR1)
+http://51.15.15.119:8080/max/max/58501
+#EXTINF:-1, group-title="FIVER", NAT GEO SD (BR1)
+http://51.15.15.119:8080/max/max/58500
+#EXTINF:-1, group-title="FIVER", NAT GEO WILD FHD (BR1)
+http://51.15.15.119:8080/max/max/58499
+#EXTINF:-1, group-title="FIVER", NAT GEO WILD HD (BR1)
+http://51.15.15.119:8080/max/max/58498
+#EXTINF:-1, group-title="FIVER", NATGEO WILD SD (BR1)
+http://51.15.15.119:8080/max/max/58497
+#EXTINF:-1, group-title="FIVER", NBR SD (BR1)
+http://51.15.15.119:8080/max/max/58496
+#EXTINF:-1, group-title="FIVER", NICK JR FHD (BR1)
+http://51.15.15.119:8080/max/max/58495
+#EXTINF:-1, group-title="FIVER", NICK JR HD (BR1)
+http://51.15.15.119:8080/max/max/58494
+#EXTINF:-1, group-title="FIVER", NICK JR SD (BR1)
+http://51.15.15.119:8080/max/max/58493
+#EXTINF:-1, group-title="FIVER", NICKELODEN SD (BR1)
+http://51.15.15.119:8080/max/max/58492
+#EXTINF:-1, group-title="FIVER", NICKELODEON FHD (BR1)
+http://51.15.15.119:8080/max/max/58491
+#EXTINF:-1, group-title="FIVER", NICKELODEON HD (BR1)
+http://51.15.15.119:8080/max/max/58490
+#EXTINF:-1, group-title="FIVER", OFF HD (BR1)
+http://51.15.15.119:8080/max/max/58489
+#EXTINF:-1, group-title="FIVER", OFF SD (BR1)
+http://51.15.15.119:8080/max/max/58488
+#EXTINF:-1, group-title="FIVER", PARAMOUNT CHANNEL HD (BR1)
+http://51.15.15.119:8080/max/max/58487
+#EXTINF:-1, group-title="FIVER", PARAMOUNT CHANNEL SD (BR1)
+http://51.15.15.119:8080/max/max/58486
+#EXTINF:-1, group-title="FIVER", PLAYKIDS HD (BR1)
+http://51.15.15.119:8080/max/max/58485
+#EXTINF:-1, group-title="FIVER", PLAYKIDS SD (BR1)
+http://51.15.15.119:8080/max/max/58484
+#EXTINF:-1, group-title="FIVER", PREMIERE 2 FHD (BR1)
+http://51.15.15.119:8080/max/max/58483
+#EXTINF:-1, group-title="FIVER", PREMIERE 2 HD (BR1)
+http://51.15.15.119:8080/max/max/58482
+#EXTINF:-1, group-title="FIVER", PREMIERE 2 SD (BR1)
+http://51.15.15.119:8080/max/max/58481
+#EXTINF:-1, group-title="FIVER", PREMIERE 3 FHD (BR1)
+http://51.15.15.119:8080/max/max/58480
+#EXTINF:-1, group-title="FIVER", PREMIERE 3 HD (BR1)
+http://51.15.15.119:8080/max/max/58479
+#EXTINF:-1, group-title="FIVER", PREMIERE 3 SD (BR1)
+http://51.15.15.119:8080/max/max/58478
+#EXTINF:-1, group-title="FIVER", PREMIERE 4 FHD (BR1)
+http://51.15.15.119:8080/max/max/58477
+#EXTINF:-1, group-title="FIVER", PREMIERE 4 HD (BR1)
+http://51.15.15.119:8080/max/max/58476
+#EXTINF:-1, group-title="FIVER", PREMIERE 4 SD (BR1)
+http://51.15.15.119:8080/max/max/58475
+#EXTINF:-1, group-title="FIVER", PREMIERE 5 FHD (BR1)
+http://51.15.15.119:8080/max/max/58474
+#EXTINF:-1, group-title="FIVER", PREMIERE 5 HD (BR1)
+http://51.15.15.119:8080/max/max/58473
+#EXTINF:-1, group-title="FIVER", PREMIERE 5 SD (BR1)
+http://51.15.15.119:8080/max/max/58472
+#EXTINF:-1, group-title="FIVER", PREMIERE 6 FHD (BR1)
+http://51.15.15.119:8080/max/max/58471
+#EXTINF:-1, group-title="FIVER", PREMIERE 6 HD (BR1)
+http://51.15.15.119:8080/max/max/58470
+#EXTINF:-1, group-title="FIVER", PREMIERE 6 SD (BR1)
+http://51.15.15.119:8080/max/max/58469
+#EXTINF:-1, group-title="FIVER", PREMIERE 7 FHD (BR1)
+http://51.15.15.119:8080/max/max/58468
+#EXTINF:-1, group-title="FIVER", PREMIERE 7 HD (BR1)
+http://51.15.15.119:8080/max/max/58467
+#EXTINF:-1, group-title="FIVER", PREMIERE 7 SD (BR1)
+http://51.15.15.119:8080/max/max/58466
+#EXTINF:-1, group-title="FIVER", PREMIERE CLUBES FHD (BR1)
+http://51.15.15.119:8080/max/max/58465
+#EXTINF:-1, group-title="FIVER", PREMIERE CLUBES HD (BR1)
+http://51.15.15.119:8080/max/max/58464
+#EXTINF:-1, group-title="FIVER", PREMIERE CLUBES SD (BR1)
+http://51.15.15.119:8080/max/max/58463
+#EXTINF:-1, group-title="FIVER", PRIME BOX BRASIL HD (BR1)
+http://51.15.15.119:8080/max/max/58462
+#EXTINF:-1, group-title="FIVER", PRIME BOX BRASIL SD (BR1)
+http://51.15.15.119:8080/max/max/58461
+#EXTINF:-1, group-title="FIVER", RECORD HD (BR1) ALTERNATIVO
+http://51.15.15.119:8080/max/max/58460
+#EXTINF:-1, group-title="FIVER", RECORD NEWS HD (BR1)
+http://51.15.15.119:8080/max/max/58459
+#EXTINF:-1, group-title="FIVER", RECORD NEWS SD (BR1)
+http://51.15.15.119:8080/max/max/58458
+#EXTINF:-1, group-title="FIVER", RECORD SP SD (BR1)
+http://51.15.15.119:8080/max/max/58457
+#EXTINF:-1, group-title="FIVER", RECORDTV BA FHD (BR1)
+http://51.15.15.119:8080/max/max/58456
+#EXTINF:-1, group-title="FIVER", RECORDTV BA HD (BR1)
+http://51.15.15.119:8080/max/max/58455
+#EXTINF:-1, group-title="FIVER", RECORDTV BA SD (BR1)
+http://51.15.15.119:8080/max/max/58454
+#EXTINF:-1, group-title="FIVER", RECORDTV DF FHD (BR1)
+http://51.15.15.119:8080/max/max/58453
+#EXTINF:-1, group-title="FIVER", RECORDTV DF HD (BR1)
+http://51.15.15.119:8080/max/max/58452
+#EXTINF:-1, group-title="FIVER", RECORDTV DF SD (BR1)
+http://51.15.15.119:8080/max/max/58451
+#EXTINF:-1, group-title="FIVER", RECORDTV MG FHD (BR1)
+http://51.15.15.119:8080/max/max/58450
+#EXTINF:-1, group-title="FIVER", RECORDTV MG HD (BR1)
+http://51.15.15.119:8080/max/max/58449
+#EXTINF:-1, group-title="FIVER", RECORDTV MG SD (BR1)
+http://51.15.15.119:8080/max/max/58448
+#EXTINF:-1, group-title="FIVER", RECORDTV RIO FHD (BR1)
+http://51.15.15.119:8080/max/max/58447
+#EXTINF:-1, group-title="FIVER", RECORDTV RIO HD (BR1)
+http://51.15.15.119:8080/max/max/58446
+#EXTINF:-1, group-title="FIVER", RECORDTV RIO SD (BR1)
+http://51.15.15.119:8080/max/max/58445
+#EXTINF:-1, group-title="FIVER", RECORDTV RS FHD (BR1)
+http://51.15.15.119:8080/max/max/58444
+#EXTINF:-1, group-title="FIVER", RECORDTV RS HD (BR1)
+http://51.15.15.119:8080/max/max/58443
+#EXTINF:-1, group-title="FIVER", RECORDTV RS SD (BR1)
+http://51.15.15.119:8080/max/max/58442
+#EXTINF:-1, group-title="FIVER", RECORDTV SP FHD (BR1)
+http://51.15.15.119:8080/max/max/58441
+#EXTINF:-1, group-title="FIVER", RECORDTV SP HD (BR1)
+http://51.15.15.119:8080/max/max/58440
+#EXTINF:-1, group-title="FIVER", RECORDTV SP SD (BR1)
+http://51.15.15.119:8080/max/max/58439
+#EXTINF:-1, group-title="FIVER", REDE BRASIL SD (BR1)
+http://51.15.15.119:8080/max/max/58438
+#EXTINF:-1, group-title="FIVER", REDE TV HD (BR1)
+http://51.15.15.119:8080/max/max/58437
+#EXTINF:-1, group-title="FIVER", REDE TV SD (BR1)
+http://51.15.15.119:8080/max/max/58436
+#EXTINF:-1, group-title="FIVER", REDE VIDA HD (BR1)
+http://51.15.15.119:8080/max/max/58435
+#EXTINF:-1, group-title="FIVER", REDE VIDA SD (BR1)
+http://51.15.15.119:8080/max/max/58434
+#EXTINF:-1, group-title="FIVER", SBT FHD (BR1)
+http://51.15.15.119:8080/max/max/58433
+#EXTINF:-1, group-title="FIVER", SBT HD (BR1)
+http://51.15.15.119:8080/max/max/58432
+#EXTINF:-1, group-title="FIVER", SBT SD (BR1)
+http://51.15.15.119:8080/max/max/58431
+#EXTINF:-1, group-title="FIVER", SBT SP INTERIOR SD (BR1)
+http://51.15.15.119:8080/max/max/58430
+#EXTINF:-1, group-title="FIVER", SPACE HD (BR1)
+http://51.15.15.119:8080/max/max/58429
+#EXTINF:-1, group-title="FIVER", SPACE SD (BR1)
+http://51.15.15.119:8080/max/max/58428
+#EXTINF:-1, group-title="FIVER", SPORTV 2 FHD (BR1)
+http://51.15.15.119:8080/max/max/58427
+#EXTINF:-1, group-title="FIVER", SPORTV 2 HD (BR1)
+http://51.15.15.119:8080/max/max/58426
+#EXTINF:-1, group-title="FIVER", SPORTV 2 SD (BR1)
+http://51.15.15.119:8080/max/max/58425
+#EXTINF:-1, group-title="FIVER", SPORTV 3 FHD (BR1)
+http://51.15.15.119:8080/max/max/58424
+#EXTINF:-1, group-title="FIVER", SPORTV 3 HD (BR1)
+http://51.15.15.119:8080/max/max/58423
+#EXTINF:-1, group-title="FIVER", SPORTV 3 SD (BR1)
+http://51.15.15.119:8080/max/max/58422
+#EXTINF:-1, group-title="FIVER", SPORTV FHD (BR1)
+http://51.15.15.119:8080/max/max/58421
+#EXTINF:-1, group-title="FIVER", SPORTV HD (BR1)
+http://51.15.15.119:8080/max/max/58420
+#EXTINF:-1, group-title="FIVER", SPORTV SD (BR1)
+http://51.15.15.119:8080/max/max/58419
+#EXTINF:-1, group-title="FIVER", STUDIO UNIVERSAL HD (BR1)
+http://51.15.15.119:8080/max/max/58418
+#EXTINF:-1, group-title="FIVER", STUDIO UNIVERSAL SD (BR1)
+http://51.15.15.119:8080/max/max/58417
+#EXTINF:-1, group-title="FIVER", SYFY HD (BR1)
+http://51.15.15.119:8080/max/max/58416
+#EXTINF:-1, group-title="FIVER", SYFY SD (BR1)
+http://51.15.15.119:8080/max/max/58415
+#EXTINF:-1, group-title="FIVER", TBS HD (BR1)
+http://51.15.15.119:8080/max/max/58413
+#EXTINF:-1, group-title="FIVER", TBS SD (BR1)
+http://51.15.15.119:8080/max/max/58412
+#EXTINF:-1, group-title="FIVER", TCM SD (BR1)
+http://51.15.15.119:8080/max/max/58411
+#EXTINF:-1, group-title="FIVER", TELECINE ACTION FHD (BR1)
+http://51.15.15.119:8080/max/max/58409
+#EXTINF:-1, group-title="FIVER", TELECINE ACTION HD (BR1)
+http://51.15.15.119:8080/max/max/58408
+#EXTINF:-1, group-title="FIVER", TELECINE ACTION SD (BR1)
+http://51.15.15.119:8080/max/max/58410
+#EXTINF:-1, group-title="FIVER", TELECINE CULT HD (BR1)
+http://51.15.15.119:8080/max/max/58407
+#EXTINF:-1, group-title="FIVER", TELECINE CULT SD (BR1)
+http://51.15.15.119:8080/max/max/58406
+#EXTINF:-1, group-title="FIVER", TELECINE FUN FHD (BR1)
+http://51.15.15.119:8080/max/max/58405
+#EXTINF:-1, group-title="FIVER", TELECINE FUN HD (BR1)
+http://51.15.15.119:8080/max/max/58404
+#EXTINF:-1, group-title="FIVER", TELECINE FUN SD (BR1)
+http://51.15.15.119:8080/max/max/58403
+#EXTINF:-1, group-title="FIVER", TELECINE PIPOCA FHD (BR1)
+http://51.15.15.119:8080/max/max/58402
+#EXTINF:-1, group-title="FIVER", TELECINE PIPOCA HD (BR1)
+http://51.15.15.119:8080/max/max/58401
+#EXTINF:-1, group-title="FIVER", TELECINE PIPOCA SD (BR1)
+http://51.15.15.119:8080/max/max/58400
+#EXTINF:-1, group-title="FIVER", TELECINE PREMIUM FHD (BR1)
+http://51.15.15.119:8080/max/max/58399
+#EXTINF:-1, group-title="FIVER", TELECINE PREMIUM HD (BR1)
+http://51.15.15.119:8080/max/max/58398
+#EXTINF:-1, group-title="FIVER", TELECINE PREMIUM SD (BR1)
+http://51.15.15.119:8080/max/max/58397
+#EXTINF:-1, group-title="FIVER", TELECINE TOUCH FHD (BR1)
+http://51.15.15.119:8080/max/max/58396
+#EXTINF:-1, group-title="FIVER", TELECINE TOUCH HD (BR1)
+http://51.15.15.119:8080/max/max/58395
+#EXTINF:-1, group-title="FIVER", TELECINE TOUCH SD (BR1)
+http://51.15.15.119:8080/max/max/58394
+#EXTINF:-1, group-title="FIVER", TERRA VIVA SD (BR1)
+http://51.15.15.119:8080/max/max/58393
+#EXTINF:-1, group-title="FIVER", TLC HD (BR1)
+http://51.15.15.119:8080/max/max/58392
+#EXTINF:-1, group-title="FIVER", TLC SD (BR1)
+http://51.15.15.119:8080/max/max/58391
+#EXTINF:-1, group-title="FIVER", TNT HD (BR1)
+http://51.15.15.119:8080/max/max/58390
+#EXTINF:-1, group-title="FIVER", TNT SD (BR1)
+http://51.15.15.119:8080/max/max/58389
+#EXTINF:-1, group-title="FIVER", TNT SERIES HD (BR1)
+http://51.15.15.119:8080/max/max/58388
+#EXTINF:-1, group-title="FIVER", TNT SERIES SD (BR1)
+http://51.15.15.119:8080/max/max/58387
+#EXTINF:-1, group-title="FIVER", TOONCAST SD (BR1)
+http://51.15.15.119:8080/max/max/58386
+#EXTINF:-1, group-title="FIVER", TRUTV HD (BR1)
+http://51.15.15.119:8080/max/max/58385
+#EXTINF:-1, group-title="FIVER", TRUTV SD (BR1)
+http://51.15.15.119:8080/max/max/58384
+#EXTINF:-1, group-title="FIVER", TV APARECIDA SD (BR1)
+http://51.15.15.119:8080/max/max/58383
+#EXTINF:-1, group-title="FIVER", TV BRASIL SD (BR1)
+http://51.15.15.119:8080/max/max/58382
+#EXTINF:-1, group-title="FIVER", TV CAMARA SD (BR1)
+http://51.15.15.119:8080/max/max/58381
+#EXTINF:-1, group-title="FIVER", TV CULTURA HD (BR1)
+http://51.15.15.119:8080/max/max/58380
+#EXTINF:-1, group-title="FIVER", TV CULTURA SD (BR1)
+http://51.15.15.119:8080/max/max/58379
+#EXTINF:-1, group-title="FIVER", TV ESCOLA SD (BR1)
+http://51.15.15.119:8080/max/max/58378
+#EXTINF:-1, group-title="FIVER", TV GAZETA SP HD (BR1)
+http://51.15.15.119:8080/max/max/58377
+#EXTINF:-1, group-title="FIVER", TV JUSTICA SD (BR1)
+http://51.15.15.119:8080/max/max/58376
+#EXTINF:-1, group-title="FIVER", TV RA TIM BUM HD (BR1)
+http://51.15.15.119:8080/max/max/58375
+#EXTINF:-1, group-title="FIVER", TV RA TIM BUM SD (BR1)
+http://51.15.15.119:8080/max/max/58374
+#EXTINF:-1, group-title="FIVER", TV SENADO SD (BR1)
+http://51.15.15.119:8080/max/max/58373
+#EXTINF:-1, group-title="FIVER", UNIVERSAL CHANNEL HD (BR1)
+http://51.15.15.119:8080/max/max/58372
+#EXTINF:-1, group-title="FIVER", UNIVERSAL CHANNEL SD (BR1)
+http://51.15.15.119:8080/max/max/58371
+#EXTINF:-1, group-title="FIVER", VH1 HD (BR1)
+http://51.15.15.119:8080/max/max/58370
+#EXTINF:-1, group-title="FIVER", VH1 MEGA HITS SD (BR1)
+http://51.15.15.119:8080/max/max/58369
+#EXTINF:-1, group-title="FIVER", VH1 SD (BR1)
+http://51.15.15.119:8080/max/max/58368
+#EXTINF:-1, group-title="FIVER", VIVA FHD (BR1)
+http://51.15.15.119:8080/max/max/58367
+#EXTINF:-1, group-title="FIVER", VIVA HD (BR1)
+http://51.15.15.119:8080/max/max/58366
+#EXTINF:-1, group-title="FIVER", VIVA SD (BR1)
+http://51.15.15.119:8080/max/max/58365
+#EXTINF:-1, group-title="FIVER", WARNER CHANNEL HD (BR1)
+http://51.15.15.119:8080/max/max/58364
+#EXTINF:-1, group-title="FIVER", WARNER CHANNEL SD (BR1)
+http://51.15.15.119:8080/max/max/58363
+#EXTINF:-1, group-title="FIVER", WARNER FHD (BR1)
+http://51.15.15.119:8080/max/max/58362
+#EXTINF:-1, group-title="FIVER", WOOHOO HD (BR1)
+http://51.15.15.119:8080/max/max/58361
+#EXTINF:-1, group-title="FIVER", WOOHOO SD (BR1)
+http://51.15.15.119:8080/max/max/58360
+#EXTINF:-1, group-title="FIVER", A&E FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61906
+#EXTINF:-1, group-title="FIVER", A&E HD (BR2)
+http://51.15.15.119:8080/max/max/61720
+#EXTINF:-1, group-title="FIVER", A&E SD (BR2)
+http://51.15.15.119:8080/max/max/62915
+#EXTINF:-1, group-title="FIVER", AMC FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61905
+#EXTINF:-1, group-title="FIVER", AMC HD (BR2)
+http://51.15.15.119:8080/max/max/61719
+#EXTINF:-1, group-title="FIVER", AMC SD (BR2)
+http://51.15.15.119:8080/max/max/62914
+#EXTINF:-1, group-title="FIVER", ANIMAL PLANET FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61904
+#EXTINF:-1, group-title="FIVER", ANIMAL PLANET HD (BR2)
+http://51.15.15.119:8080/max/max/61718
+#EXTINF:-1, group-title="FIVER", ANIMAL PLANET SD (BR2)
+http://51.15.15.119:8080/max/max/62913
+#EXTINF:-1, group-title="FIVER", ARTE 1 HD (BR2)
+http://51.15.15.119:8080/max/max/61717
+#EXTINF:-1, group-title="FIVER", ARTE 1 SD (BR2)
+http://51.15.15.119:8080/max/max/62912
+#EXTINF:-1, group-title="FIVER", AXN FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61903
+#EXTINF:-1, group-title="FIVER", AXN HD (BR2)
+http://51.15.15.119:8080/max/max/61716
+#EXTINF:-1, group-title="FIVER", AXN SD (BR2)
+http://51.15.15.119:8080/max/max/62911
+#EXTINF:-1, group-title="FIVER", BABY HD (BR2)
+http://51.15.15.119:8080/max/max/61715
+#EXTINF:-1, group-title="FIVER", BABY TV SD (BR2)
+http://51.15.15.119:8080/max/max/62910
+#EXTINF:-1, group-title="FIVER", BAND CAMPINAS HD (BR2)
+http://51.15.15.119:8080/max/max/61714
+#EXTINF:-1, group-title="FIVER", BAND FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61902
+#EXTINF:-1, group-title="FIVER", BAND NEWS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61901
+#EXTINF:-1, group-title="FIVER", BAND NEWS HD (BR2)
+http://51.15.15.119:8080/max/max/61713
+#EXTINF:-1, group-title="FIVER", BAND NEWS SD (BR2)
+http://51.15.15.119:8080/max/max/62909
+#EXTINF:-1, group-title="FIVER", BAND SD (BR2)
+http://51.15.15.119:8080/max/max/62908
+#EXTINF:-1, group-title="FIVER", BAND SP HD (BR2)
+http://51.15.15.119:8080/max/max/61712
+#EXTINF:-1, group-title="FIVER", BAND SPORTS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61900
+#EXTINF:-1, group-title="FIVER", BAND SPORTS HD (BR2)
+http://51.15.15.119:8080/max/max/61711
+#EXTINF:-1, group-title="FIVER", BAND SPORTS SD (BR2)
+http://51.15.15.119:8080/max/max/62907
+#EXTINF:-1, group-title="FIVER", BIS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61899
+#EXTINF:-1, group-title="FIVER", BIS HD (BR2)
+http://51.15.15.119:8080/max/max/61710
+#EXTINF:-1, group-title="FIVER", BIS SD (BR2)
+http://51.15.15.119:8080/max/max/62906
+#EXTINF:-1, group-title="FIVER", BOA VONTADE TV SD (BR2)
+http://51.15.15.119:8080/max/max/62905
+#EXTINF:-1, group-title="FIVER", BOOMERANG FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61898
+#EXTINF:-1, group-title="FIVER", BOOMERANG HD (BR2)
+http://51.15.15.119:8080/max/max/61709
+#EXTINF:-1, group-title="FIVER", BOOMERANG SD (BR2)
+http://51.15.15.119:8080/max/max/62904
+#EXTINF:-1, group-title="FIVER", CANAL BRASIL HD (BR2)
+http://51.15.15.119:8080/max/max/61708
+#EXTINF:-1, group-title="FIVER", CANAL BRASIL SD (BR2)
+http://51.15.15.119:8080/max/max/62903
+#EXTINF:-1, group-title="FIVER", CANAL RURAL SD (BR2)
+http://51.15.15.119:8080/max/max/62902
+#EXTINF:-1, group-title="FIVER", CANAL SONY FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61897
+#EXTINF:-1, group-title="FIVER", CANAL SONY HD (BR2)
+http://51.15.15.119:8080/max/max/61707
+#EXTINF:-1, group-title="FIVER", CANAL SONY SD (BR2)
+http://51.15.15.119:8080/max/max/62768
+#EXTINF:-1, group-title="FIVER", CANCAO NOVA SD (BR2)
+http://51.15.15.119:8080/max/max/62901
+#EXTINF:-1, group-title="FIVER", CARTOON NETWORK FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61896
+#EXTINF:-1, group-title="FIVER", CARTOON NETWORK HD (BR2)
+http://51.15.15.119:8080/max/max/61706
+#EXTINF:-1, group-title="FIVER", CARTOON NETWORK SD (BR2)
+http://51.15.15.119:8080/max/max/62900
+#EXTINF:-1, group-title="FIVER", CINE SKY 1 SD (BR2)
+http://51.15.15.119:8080/max/max/61705
+#EXTINF:-1, group-title="FIVER", CINE SKY 2 SD (BR2)
+http://51.15.15.119:8080/max/max/61704
+#EXTINF:-1, group-title="FIVER", CINE SKY 3 SD (BR2)
+http://51.15.15.119:8080/max/max/61703
+#EXTINF:-1, group-title="FIVER", CINE SKY 4 SD (BR2)
+http://51.15.15.119:8080/max/max/61702
+#EXTINF:-1, group-title="FIVER", CINE SKY 5 SD (BR2)
+http://51.15.15.119:8080/max/max/61701
+#EXTINF:-1, group-title="FIVER", CINEMAX FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61895
+#EXTINF:-1, group-title="FIVER", CINEMAX HD (BR2)
+http://51.15.15.119:8080/max/max/61700
+#EXTINF:-1, group-title="FIVER", CINEMAX SD (BR2)
+http://51.15.15.119:8080/max/max/62899
+#EXTINF:-1, group-title="FIVER", CNN ESPANHOL SD (BR2)
+http://51.15.15.119:8080/max/max/62898
+#EXTINF:-1, group-title="FIVER", CNN INTERNACIONAL SD (BR2)
+http://51.15.15.119:8080/max/max/62897
+#EXTINF:-1, group-title="FIVER", CNT SD (BR2)
+http://51.15.15.119:8080/max/max/62896
+#EXTINF:-1, group-title="FIVER", COMBATE FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61894
+#EXTINF:-1, group-title="FIVER", COMBATE HD (BR2)
+http://51.15.15.119:8080/max/max/61699
+#EXTINF:-1, group-title="FIVER", COMBATE SD (BR2)
+http://51.15.15.119:8080/max/max/62895
+#EXTINF:-1, group-title="FIVER", COMEDY CENTRAL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61893
+#EXTINF:-1, group-title="FIVER", COMEDY CENTRAL HD (BR2)
+http://51.15.15.119:8080/max/max/61698
+#EXTINF:-1, group-title="FIVER", COMEDY CENTRAL SD (BR2)
+http://51.15.15.119:8080/max/max/62894
+#EXTINF:-1, group-title="FIVER", CURTA SD (BR2)
+http://51.15.15.119:8080/max/max/62893
+#EXTINF:-1, group-title="FIVER", DISCOVERY CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61892
+#EXTINF:-1, group-title="FIVER", DISCOVERY CHANNEL HD (BR2)
+http://51.15.15.119:8080/max/max/61697
+#EXTINF:-1, group-title="FIVER", DISCOVERY CHANNEL SD (BR2)
+http://51.15.15.119:8080/max/max/62891
+#EXTINF:-1, group-title="FIVER", DISCOVERY CIVILIZATION FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61891
+#EXTINF:-1, group-title="FIVER", DISCOVERY CIVILIZATION HD (BR2)
+http://51.15.15.119:8080/max/max/61696
+#EXTINF:-1, group-title="FIVER", DISCOVERY H&H FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61890
+#EXTINF:-1, group-title="FIVER", DISCOVERY H&H HD (BR2)
+http://51.15.15.119:8080/max/max/61695
+#EXTINF:-1, group-title="FIVER", DISCOVERY H&H SD (BR2)
+http://51.15.15.119:8080/max/max/62890
+#EXTINF:-1, group-title="FIVER", DISCOVERY KIDS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61889
+#EXTINF:-1, group-title="FIVER", DISCOVERY KIDS HD (BR2)
+http://51.15.15.119:8080/max/max/61694
+#EXTINF:-1, group-title="FIVER", DISCOVERY KIDS SD (BR2)
+http://51.15.15.119:8080/max/max/62889
+#EXTINF:-1, group-title="FIVER", DISCOVERY SCIENCE FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61888
+#EXTINF:-1, group-title="FIVER", DISCOVERY SCIENCE HD (BR2)
+http://51.15.15.119:8080/max/max/61693
+#EXTINF:-1, group-title="FIVER", DISCOVERY THEATER FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61887
+#EXTINF:-1, group-title="FIVER", DISCOVERY THEATER HD (BR2)
+http://51.15.15.119:8080/max/max/61692
+#EXTINF:-1, group-title="FIVER", DISCOVERY TURBO FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61886
+#EXTINF:-1, group-title="FIVER", DISCOVERY TURBO HD (BR2)
+http://51.15.15.119:8080/max/max/61691
+#EXTINF:-1, group-title="FIVER", DISCOVERY TURBO SD (BR2)
+http://51.15.15.119:8080/max/max/62888
+#EXTINF:-1, group-title="FIVER", DISCOVERY WORLD FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61885
+#EXTINF:-1, group-title="FIVER", DISCOVERY WORLD HD (BR2)
+http://51.15.15.119:8080/max/max/61690
+#EXTINF:-1, group-title="FIVER", DISNEY CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61884
+#EXTINF:-1, group-title="FIVER", DISNEY CHANNEL HD (BR2)
+http://51.15.15.119:8080/max/max/61689
+#EXTINF:-1, group-title="FIVER", DISNEY CHANNEL SD (BR2)
+http://51.15.15.119:8080/max/max/62887
+#EXTINF:-1, group-title="FIVER", DISNEY JR FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61883
+#EXTINF:-1, group-title="FIVER", DISNEY JR HD (BR2)
+http://51.15.15.119:8080/max/max/61688
+#EXTINF:-1, group-title="FIVER", DISNEY JUNIOR SD (BR2)
+http://51.15.15.119:8080/max/max/62886
+#EXTINF:-1, group-title="FIVER", DISNEY XD HD (BR2)
+http://51.15.15.119:8080/max/max/61687
+#EXTINF:-1, group-title="FIVER", DISNEY XD SD (BR2)
+http://51.15.15.119:8080/max/max/62885
+#EXTINF:-1, group-title="FIVER", DW SD (BR2)
+http://51.15.15.119:8080/max/max/62884
+#EXTINF:-1, group-title="FIVER", E! HD (BR2)
+http://51.15.15.119:8080/max/max/61686
+#EXTINF:-1, group-title="FIVER", E! SD (BR2)
+http://51.15.15.119:8080/max/max/62883
+#EXTINF:-1, group-title="FIVER", EI PLUS SD (BR2)
+http://51.15.15.119:8080/max/max/61684
+#EXTINF:-1, group-title="FIVER", ESPN 2 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61882
+#EXTINF:-1, group-title="FIVER", ESPN 2 HD (BR2)
+http://51.15.15.119:8080/max/max/61683
+#EXTINF:-1, group-title="FIVER", ESPN BRASIL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61881
+#EXTINF:-1, group-title="FIVER", ESPN BRASIL HD (BR2)
+http://51.15.15.119:8080/max/max/61682
+#EXTINF:-1, group-title="FIVER", ESPN BRASIL SD (BR2)
+http://51.15.15.119:8080/max/max/62880
+#EXTINF:-1, group-title="FIVER", ESPN EXTRA HD (BR2)
+http://51.15.15.119:8080/max/max/61681
+#EXTINF:-1, group-title="FIVER", ESPN EXTRA SD (BR2)
+http://51.15.15.119:8080/max/max/62879
+#EXTINF:-1, group-title="FIVER", ESPN FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61880
+#EXTINF:-1, group-title="FIVER", ESPN HD (BR2)
+http://51.15.15.119:8080/max/max/61680
+#EXTINF:-1, group-title="FIVER", ESPN SD (BR2)
+http://51.15.15.119:8080/max/max/62878
+#EXTINF:-1, group-title="FIVER", FISH TV SD (BR2)
+http://51.15.15.119:8080/max/max/62877
+#EXTINF:-1, group-title="FIVER", FOOD NETWORK FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61879
+#EXTINF:-1, group-title="FIVER", FOOD NETWORK HD (BR2)
+http://51.15.15.119:8080/max/max/61679
+#EXTINF:-1, group-title="FIVER", FOOD NETWORK SD (BR2)
+http://51.15.15.119:8080/max/max/62876
+#EXTINF:-1, group-title="FIVER", FOX FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61878
+#EXTINF:-1, group-title="FIVER", FOX HD (BR2)
+http://51.15.15.119:8080/max/max/61678
+#EXTINF:-1, group-title="FIVER", FOX LIFE FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61877
+#EXTINF:-1, group-title="FIVER", FOX LIFE HD (BR2)
+http://51.15.15.119:8080/max/max/61677
+#EXTINF:-1, group-title="FIVER", FOX LIFE SD (BR2)
+http://51.15.15.119:8080/max/max/62875
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 1 HD (BR2)
+http://51.15.15.119:8080/max/max/61676
+#EXTINF:-1, group-title="FIVER", FOX PREMIUM 2 HD (BR2)
+http://51.15.15.119:8080/max/max/61675
+#EXTINF:-1, group-title="FIVER", FOX SD (BR2)
+http://51.15.15.119:8080/max/max/62874
+#EXTINF:-1, group-title="FIVER", FOX SPORTS 2 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61876
+#EXTINF:-1, group-title="FIVER", FOX SPORTS 2 HD (BR2)
+http://51.15.15.119:8080/max/max/61674
+#EXTINF:-1, group-title="FIVER", FOX SPORTS 2 SD (BR2)
+http://51.15.15.119:8080/max/max/62873
+#EXTINF:-1, group-title="FIVER", FOX SPORTS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61875
+#EXTINF:-1, group-title="FIVER", FOX SPORTS HD (BR2)
+http://51.15.15.119:8080/max/max/61673
+#EXTINF:-1, group-title="FIVER", FOX SPORTS SD (BR2)
+http://51.15.15.119:8080/max/max/62872
+#EXTINF:-1, group-title="FIVER", FUTURA SD (BR2)
+http://51.15.15.119:8080/max/max/62871
+#EXTINF:-1, group-title="FIVER", FX FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61874
+#EXTINF:-1, group-title="FIVER", FX HD (BR2)
+http://51.15.15.119:8080/max/max/61672
+#EXTINF:-1, group-title="FIVER", FX SD (BR2)
+http://51.15.15.119:8080/max/max/62870
+#EXTINF:-1, group-title="FIVER", GLOBO ALTO LITORAL SD (BR2)
+http://51.15.15.119:8080/max/max/62869
+#EXTINF:-1, group-title="FIVER", GLOBO ASA BRANCA SD (BR2)
+http://51.15.15.119:8080/max/max/62868
+#EXTINF:-1, group-title="FIVER", GLOBO BAHIA SD (BR2)
+http://51.15.15.119:8080/max/max/62867
+#EXTINF:-1, group-title="FIVER", GLOBO BAURU SD (BR2)
+http://51.15.15.119:8080/max/max/62866
+#EXTINF:-1, group-title="FIVER", GLOBO BRASILIA HD (BR2)
+http://51.15.15.119:8080/max/max/61671
+#EXTINF:-1, group-title="FIVER", GLOBO BRASILIA SD (BR2)
+http://51.15.15.119:8080/max/max/62865
+#EXTINF:-1, group-title="FIVER", GLOBO CABUGI SD (BR2)
+http://51.15.15.119:8080/max/max/62864
+#EXTINF:-1, group-title="FIVER", GLOBO CENTRO AMERICA CUIABA SD (BR2)
+http://51.15.15.119:8080/max/max/62863
+#EXTINF:-1, group-title="FIVER", GLOBO EPTV CAMPINAS SD (BR2)
+http://51.15.15.119:8080/max/max/62862
+#EXTINF:-1, group-title="FIVER", GLOBO EPTV CENTRAL SD (BR2)
+http://51.15.15.119:8080/max/max/62861
+#EXTINF:-1, group-title="FIVER", GLOBO EPTV RIBEIRAO PRETO HD (BR2)
+http://51.15.15.119:8080/max/max/61670
+#EXTINF:-1, group-title="FIVER", GLOBO EPTV RIBEIRAO PRETO SD (BR2)
+http://51.15.15.119:8080/max/max/62860
+#EXTINF:-1, group-title="FIVER", GLOBO EPTV SAO CARLOS SD (BR2)
+http://51.15.15.119:8080/max/max/62859
+#EXTINF:-1, group-title="FIVER", GLOBO EPTV SUL MINAS SD (BR2)
+http://51.15.15.119:8080/max/max/62858
+#EXTINF:-1, group-title="FIVER", GLOBO FRONTEIRA SD (BR2)
+http://51.15.15.119:8080/max/max/62857
+#EXTINF:-1, group-title="FIVER", GLOBO GAZETA ES SD (BR2)
+http://51.15.15.119:8080/max/max/62856
+#EXTINF:-1, group-title="FIVER", GLOBO GOIANIA SD (BR2)
+http://51.15.15.119:8080/max/max/62855
+#EXTINF:-1, group-title="FIVER", GLOBO GRANDE MINAS SD (BR2)
+http://51.15.15.119:8080/max/max/62854
+#EXTINF:-1, group-title="FIVER", GLOBO INTEGRACAO SD (BR2)
+http://51.15.15.119:8080/max/max/62853
+#EXTINF:-1, group-title="FIVER", GLOBO ITAPETININGA SD (BR2)
+http://51.15.15.119:8080/max/max/62852
+#EXTINF:-1, group-title="FIVER", GLOBO LIBERAL BELEM SD (BR2)
+http://51.15.15.119:8080/max/max/62851
+#EXTINF:-1, group-title="FIVER", GLOBO MANAUS SD (BR2)
+http://51.15.15.119:8080/max/max/62850
+#EXTINF:-1, group-title="FIVER", GLOBO MINAS HD (BR2)
+http://51.15.15.119:8080/max/max/61669
+#EXTINF:-1, group-title="FIVER", GLOBO MINAS SD (BR2)
+http://51.15.15.119:8080/max/max/62849
+#EXTINF:-1, group-title="FIVER", GLOBO MIRANTE COCAIS SD (BR2)
+http://51.15.15.119:8080/max/max/62848
+#EXTINF:-1, group-title="FIVER", GLOBO NEWS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61873
+#EXTINF:-1, group-title="FIVER", GLOBO NEWS HD (BR2)
+http://51.15.15.119:8080/max/max/61668
+#EXTINF:-1, group-title="FIVER", GLOBO NEWS SD (BR2)
+http://51.15.15.119:8080/max/max/62847
+#EXTINF:-1, group-title="FIVER", GLOBO NORDESTE HD (BR2)
+http://51.15.15.119:8080/max/max/61667
+#EXTINF:-1, group-title="FIVER", GLOBO NORDESTE SD (BR2)
+http://51.15.15.119:8080/max/max/62846
+#EXTINF:-1, group-title="FIVER", GLOBO NSC BLUMENAU SD (BR2)
+http://51.15.15.119:8080/max/max/62845
+#EXTINF:-1, group-title="FIVER", GLOBO NSC JOINVILLE SD (BR2)
+http://51.15.15.119:8080/max/max/62844
+#EXTINF:-1, group-title="FIVER", GLOBO RBS PORTO ALEGRE HD (BR2)
+http://51.15.15.119:8080/max/max/61666
+#EXTINF:-1, group-title="FIVER", GLOBO RBS TV POA FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61872
+#EXTINF:-1, group-title="FIVER", GLOBO RBS TV POA SD (BR2)
+http://51.15.15.119:8080/max/max/62843
+#EXTINF:-1, group-title="FIVER", GLOBO RIO SUL SD (BR2)
+http://51.15.15.119:8080/max/max/62842
+#EXTINF:-1, group-title="FIVER", GLOBO RJ FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61871
+#EXTINF:-1, group-title="FIVER", GLOBO RJ HD (BR2)
+http://51.15.15.119:8080/max/max/61665
+#EXTINF:-1, group-title="FIVER", GLOBO RJ SD (BR2)
+http://51.15.15.119:8080/max/max/62841
+#EXTINF:-1, group-title="FIVER", GLOBO RPC CURITIBA SD (BR2)
+http://51.15.15.119:8080/max/max/62840
+#EXTINF:-1, group-title="FIVER", GLOBO S.J RIO PRETO SD (BR2)
+http://51.15.15.119:8080/max/max/62839
+#EXTINF:-1, group-title="FIVER", GLOBO SANTA CRUZ SD (BR2)
+http://51.15.15.119:8080/max/max/62838
+#EXTINF:-1, group-title="FIVER", GLOBO SERGIPE SD (BR2)
+http://51.15.15.119:8080/max/max/62837
+#EXTINF:-1, group-title="FIVER", GLOBO SERRA MAR SD (BR2)
+http://51.15.15.119:8080/max/max/62836
+#EXTINF:-1, group-title="FIVER", GLOBO SOROCABA SD (BR2)
+http://51.15.15.119:8080/max/max/62835
+#EXTINF:-1, group-title="FIVER", GLOBO SP FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61870
+#EXTINF:-1, group-title="FIVER", GLOBO SP HD (BR2)
+http://51.15.15.119:8080/max/max/61664
+#EXTINF:-1, group-title="FIVER", GLOBO SP SD (BR2)
+http://51.15.15.119:8080/max/max/62834
+#EXTINF:-1, group-title="FIVER", GLOBO SUDOESTE SD (BR2)
+http://51.15.15.119:8080/max/max/62833
+#EXTINF:-1, group-title="FIVER", GLOBO TRIBUNA SANTOS SD (BR2)
+http://51.15.15.119:8080/max/max/62832
+#EXTINF:-1, group-title="FIVER", GLOBO TV GAZETA ES HD (BR2)
+http://51.15.15.119:8080/max/max/61663
+#EXTINF:-1, group-title="FIVER", GLOBO TV SERGIPE HD (BR2)
+http://51.15.15.119:8080/max/max/61662
+#EXTINF:-1, group-title="FIVER", GLOBO VANGUARDA S.J CAMPOS SD (BR2)
+http://51.15.15.119:8080/max/max/62831
+#EXTINF:-1, group-title="FIVER", GLOBO VANGUARDA TAUBATE SD (BR2)
+http://51.15.15.119:8080/max/max/62830
+#EXTINF:-1, group-title="FIVER", GLOBO VERDES MARES FORTALEZA SD (BR2)
+http://51.15.15.119:8080/max/max/62829
+#EXTINF:-1, group-title="FIVER", GLOOB HD (BR2)
+http://51.15.15.119:8080/max/max/61661
+#EXTINF:-1, group-title="FIVER", GLOOB SD (BR2)
+http://51.15.15.119:8080/max/max/62828
+#EXTINF:-1, group-title="FIVER", GLOOBINHO HD (BR2)
+http://51.15.15.119:8080/max/max/61660
+#EXTINF:-1, group-title="FIVER", GLOOBINHO SD (BR2)
+http://51.15.15.119:8080/max/max/62827
+#EXTINF:-1, group-title="FIVER", GNT HD (BR2)
+http://51.15.15.119:8080/max/max/61659
+#EXTINF:-1, group-title="FIVER", GNT SD (BR2)
+http://51.15.15.119:8080/max/max/62826
+#EXTINF:-1, group-title="FIVER", H2 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61868
+#EXTINF:-1, group-title="FIVER", H2 HD (BR2)
+http://51.15.15.119:8080/max/max/61658
+#EXTINF:-1, group-title="FIVER", H2 SD (BR2)
+http://51.15.15.119:8080/max/max/62825
+#EXTINF:-1, group-title="FIVER", HBO 2 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61867
+#EXTINF:-1, group-title="FIVER", HBO 2 HD (BR2)
+http://51.15.15.119:8080/max/max/61657
+#EXTINF:-1, group-title="FIVER", HBO 2 SD (BR2)
+http://51.15.15.119:8080/max/max/62824
+#EXTINF:-1, group-title="FIVER", HBO FAMILY FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61866
+#EXTINF:-1, group-title="FIVER", HBO FAMILY HD (BR2)
+http://51.15.15.119:8080/max/max/61656
+#EXTINF:-1, group-title="FIVER", HBO FAMILY SD (BR2)
+http://51.15.15.119:8080/max/max/62823
+#EXTINF:-1, group-title="FIVER", HBO FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61865
+#EXTINF:-1, group-title="FIVER", HBO HD (BR2)
+http://51.15.15.119:8080/max/max/61655
+#EXTINF:-1, group-title="FIVER", HBO SD (BR2)
+http://51.15.15.119:8080/max/max/62821
+#EXTINF:-1, group-title="FIVER", HBO SIGNATURE FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61863
+#EXTINF:-1, group-title="FIVER", HBO SIGNATURE HD (BR2)
+http://51.15.15.119:8080/max/max/61653
+#EXTINF:-1, group-title="FIVER", HBO SIGNATURE SD (BR2)
+http://51.15.15.119:8080/max/max/62820
+#EXTINF:-1, group-title="FIVER", HBO+ FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61864
+#EXTINF:-1, group-title="FIVER", HBO+ HD (BR2)
+http://51.15.15.119:8080/max/max/61654
+#EXTINF:-1, group-title="FIVER", HBO+ SD (BR2)
+http://51.15.15.119:8080/max/max/62822
+#EXTINF:-1, group-title="FIVER", HISTORY FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61862
+#EXTINF:-1, group-title="FIVER", HISTORY HD (BR2)
+http://51.15.15.119:8080/max/max/61652
+#EXTINF:-1, group-title="FIVER", HISTORY SD (BR2)
+http://51.15.15.119:8080/max/max/62819
+#EXTINF:-1, group-title="FIVER", HIT TV HD (BR2)
+http://51.15.15.119:8080/max/max/61651
+#EXTINF:-1, group-title="FIVER", I SAT SD (BR2)
+http://51.15.15.119:8080/max/max/62818
+#EXTINF:-1, group-title="FIVER", ID DISCOVERY FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61861
+#EXTINF:-1, group-title="FIVER", ID DISCOVERY HD (BR2)
+http://51.15.15.119:8080/max/max/61650
+#EXTINF:-1, group-title="FIVER", ID DISCOVERY SD (BR2)
+http://51.15.15.119:8080/max/max/62817
+#EXTINF:-1, group-title="FIVER", IDEAL TV SD (BR2)
+http://51.15.15.119:8080/max/max/62816
+#EXTINF:-1, group-title="FIVER", LIFETIME FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61860
+#EXTINF:-1, group-title="FIVER", LIFETIME HD (BR2)
+http://51.15.15.119:8080/max/max/61649
+#EXTINF:-1, group-title="FIVER", LIFETIME SD (BR2)
+http://51.15.15.119:8080/max/max/62815
+#EXTINF:-1, group-title="FIVER", MAIS GLOBOSAT HD (BR2)
+http://51.15.15.119:8080/max/max/61648
+#EXTINF:-1, group-title="FIVER", MAIS GLOBOSAT SD (BR2)
+http://51.15.15.119:8080/max/max/62814
+#EXTINF:-1, group-title="FIVER", MAX FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61859
+#EXTINF:-1, group-title="FIVER", MAX HD (BR2)
+http://51.15.15.119:8080/max/max/61647
+#EXTINF:-1, group-title="FIVER", MAX PRIME FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61858
+#EXTINF:-1, group-title="FIVER", MAX PRIME HD (BR2)
+http://51.15.15.119:8080/max/max/61646
+#EXTINF:-1, group-title="FIVER", MAX PRIME SD (BR2)
+http://51.15.15.119:8080/max/max/62813
+#EXTINF:-1, group-title="FIVER", MAX SD (BR2)
+http://51.15.15.119:8080/max/max/62812
+#EXTINF:-1, group-title="FIVER", MAX UP FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61857
+#EXTINF:-1, group-title="FIVER", MAX UP HD (BR2)
+http://51.15.15.119:8080/max/max/61645
+#EXTINF:-1, group-title="FIVER", MAX UP SD (BR2)
+http://51.15.15.119:8080/max/max/62811
+#EXTINF:-1, group-title="FIVER", MEGAPIX FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61856
+#EXTINF:-1, group-title="FIVER", MEGAPIX HD (BR2)
+http://51.15.15.119:8080/max/max/61644
+#EXTINF:-1, group-title="FIVER", MEGAPIX SD (BR2)
+http://51.15.15.119:8080/max/max/62810
+#EXTINF:-1, group-title="FIVER", MTV FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61855
+#EXTINF:-1, group-title="FIVER", MTV HD (BR2)
+http://51.15.15.119:8080/max/max/61643
+#EXTINF:-1, group-title="FIVER", MTV SD (BR2)
+http://51.15.15.119:8080/max/max/62809
+#EXTINF:-1, group-title="FIVER", MULTISHOW FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61854
+#EXTINF:-1, group-title="FIVER", MULTISHOW HD (BR2)
+http://51.15.15.119:8080/max/max/61642
+#EXTINF:-1, group-title="FIVER", MULTISHOW SD (BR2)
+http://51.15.15.119:8080/max/max/62808
+#EXTINF:-1, group-title="FIVER", MUSIC BOX BRASIL SD (BR2)
+http://51.15.15.119:8080/max/max/62807
+#EXTINF:-1, group-title="FIVER", NATGEO FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61853
+#EXTINF:-1, group-title="FIVER", NATGEO HD (BR2)
+http://51.15.15.119:8080/max/max/61641
+#EXTINF:-1, group-title="FIVER", NATGEO KIDS FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61852
+#EXTINF:-1, group-title="FIVER", NATGEO KIDS HD (BR2)
+http://51.15.15.119:8080/max/max/61640
+#EXTINF:-1, group-title="FIVER", NATGEO KIDS SD (BR2)
+http://51.15.15.119:8080/max/max/62806
+#EXTINF:-1, group-title="FIVER", NATGEO SD (BR2)
+http://51.15.15.119:8080/max/max/62805
+#EXTINF:-1, group-title="FIVER", NATGEO WILD FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61851
+#EXTINF:-1, group-title="FIVER", NATGEO WILD HD (BR2)
+http://51.15.15.119:8080/max/max/61639
+#EXTINF:-1, group-title="FIVER", NATGEO WILD SD (BR2)
+http://51.15.15.119:8080/max/max/62804
+#EXTINF:-1, group-title="FIVER", NBR SD (BR2)
+http://51.15.15.119:8080/max/max/62803
+#EXTINF:-1, group-title="FIVER", NHK SD (BR2)
+http://51.15.15.119:8080/max/max/62802
+#EXTINF:-1, group-title="FIVER", NICK FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61850
+#EXTINF:-1, group-title="FIVER", NICK HD (BR2)
+http://51.15.15.119:8080/max/max/61638
+#EXTINF:-1, group-title="FIVER", NICK JR FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61849
+#EXTINF:-1, group-title="FIVER", NICK JR HD (BR2)
+http://51.15.15.119:8080/max/max/61637
+#EXTINF:-1, group-title="FIVER", NICK JR SD (BR2)
+http://51.15.15.119:8080/max/max/62801
+#EXTINF:-1, group-title="FIVER", NICKELODEON SD (BR2)
+http://51.15.15.119:8080/max/max/62800
+#EXTINF:-1, group-title="FIVER", NOVO TEMPO SD (BR2)
+http://51.15.15.119:8080/max/max/62799
+#EXTINF:-1, group-title="FIVER", OFF HD (BR2)
+http://51.15.15.119:8080/max/max/61636
+#EXTINF:-1, group-title="FIVER", OFF SD (BR2)
+http://51.15.15.119:8080/max/max/62798
+#EXTINF:-1, group-title="FIVER", PARAMOUNT CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61848
+#EXTINF:-1, group-title="FIVER", PARAMOUNT HD (BR2)
+http://51.15.15.119:8080/max/max/61635
+#EXTINF:-1, group-title="FIVER", PARAMOUNT SD (BR2)
+http://51.15.15.119:8080/max/max/62797
+#EXTINF:-1, group-title="FIVER", PLAY TV SD (BR2)
+http://51.15.15.119:8080/max/max/62796
+#EXTINF:-1, group-title="FIVER", POLISHOP TV SD (BR2)
+http://51.15.15.119:8080/max/max/62795
+#EXTINF:-1, group-title="FIVER", PREMIERE 2 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61847
+#EXTINF:-1, group-title="FIVER", PREMIERE 2 HD (BR2)
+http://51.15.15.119:8080/max/max/61629
+#EXTINF:-1, group-title="FIVER", PREMIERE 2 SD (BR2)
+http://51.15.15.119:8080/max/max/62794
+#EXTINF:-1, group-title="FIVER", PREMIERE 3 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61846
+#EXTINF:-1, group-title="FIVER", PREMIERE 3 HD (BR2)
+http://51.15.15.119:8080/max/max/61628
+#EXTINF:-1, group-title="FIVER", PREMIERE 3 SD (BR2)
+http://51.15.15.119:8080/max/max/62793
+#EXTINF:-1, group-title="FIVER", PREMIERE 4 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61845
+#EXTINF:-1, group-title="FIVER", PREMIERE 4 HD (BR2)
+http://51.15.15.119:8080/max/max/61627
+#EXTINF:-1, group-title="FIVER", PREMIERE 4 SD (BR2)
+http://51.15.15.119:8080/max/max/62792
+#EXTINF:-1, group-title="FIVER", PREMIERE 5 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61844
+#EXTINF:-1, group-title="FIVER", PREMIERE 5 HD (BR2)
+http://51.15.15.119:8080/max/max/61626
+#EXTINF:-1, group-title="FIVER", PREMIERE 5 SD (BR2)
+http://51.15.15.119:8080/max/max/62791
+#EXTINF:-1, group-title="FIVER", PREMIERE 6 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61843
+#EXTINF:-1, group-title="FIVER", PREMIERE 6 HD (BR2)
+http://51.15.15.119:8080/max/max/61625
+#EXTINF:-1, group-title="FIVER", PREMIERE 6 SD (BR2)
+http://51.15.15.119:8080/max/max/62790
+#EXTINF:-1, group-title="FIVER", PREMIERE 636 HD (BR2)
+http://51.15.15.119:8080/max/max/61631
+#EXTINF:-1, group-title="FIVER", PREMIERE 7 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61842
+#EXTINF:-1, group-title="FIVER", PREMIERE 7 HD (BR2)
+http://51.15.15.119:8080/max/max/61624
+#EXTINF:-1, group-title="FIVER", PREMIERE 7 SD (BR2)
+http://51.15.15.119:8080/max/max/62789
+#EXTINF:-1, group-title="FIVER", PREMIERE 8 SD (BR2)
+http://51.15.15.119:8080/max/max/62788
+#EXTINF:-1, group-title="FIVER", PREMIERE CLUBES FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61841
+#EXTINF:-1, group-title="FIVER", PREMIERE CLUBES HD (BR2)
+http://51.15.15.119:8080/max/max/61623
+#EXTINF:-1, group-title="FIVER", PREMIERE CLUBES SD (BR2)
+http://51.15.15.119:8080/max/max/62787
+#EXTINF:-1, group-title="FIVER", PRIME BOX BRASIL SD (BR2)
+http://51.15.15.119:8080/max/max/62786
+#EXTINF:-1, group-title="FIVER", RAI SD (BR2)
+http://51.15.15.119:8080/max/max/62785
+#EXTINF:-1, group-title="FIVER", RBI SD (BR2)
+http://51.15.15.119:8080/max/max/62784
+#EXTINF:-1, group-title="FIVER", RCI SD (BR2)
+http://51.15.15.119:8080/max/max/62783
+#EXTINF:-1, group-title="FIVER", REAL MADRID TV SD (BR2)
+http://51.15.15.119:8080/max/max/62782
+#EXTINF:-1, group-title="FIVER", RECORD BA SD (BR2)
+http://51.15.15.119:8080/max/max/62781
+#EXTINF:-1, group-title="FIVER", RECORD DF SD (BR2)
+http://51.15.15.119:8080/max/max/62780
+#EXTINF:-1, group-title="FIVER", RECORD FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61840
+#EXTINF:-1, group-title="FIVER", RECORD HD (BR2)
+http://51.15.15.119:8080/max/max/61622
+#EXTINF:-1, group-title="FIVER", RECORD MG HD (BR2)
+http://51.15.15.119:8080/max/max/61621
+#EXTINF:-1, group-title="FIVER", RECORD MG SD (BR2)
+http://51.15.15.119:8080/max/max/62779
+#EXTINF:-1, group-title="FIVER", RECORD NEWS HD (BR2)
+http://51.15.15.119:8080/max/max/61620
+#EXTINF:-1, group-title="FIVER", RECORD NEWS SD (BR2)
+http://51.15.15.119:8080/max/max/62778
+#EXTINF:-1, group-title="FIVER", RECORD RJ HD (BR2)
+http://51.15.15.119:8080/max/max/61619
+#EXTINF:-1, group-title="FIVER", RECORD RJ SD (BR2)
+http://51.15.15.119:8080/max/max/62777
+#EXTINF:-1, group-title="FIVER", RECORD RS HD (BR2)
+http://51.15.15.119:8080/max/max/61618
+#EXTINF:-1, group-title="FIVER", RECORD RS SD (BR2)
+http://51.15.15.119:8080/max/max/62776
+#EXTINF:-1, group-title="FIVER", RECORD SP HD (BR2)
+http://51.15.15.119:8080/max/max/61617
+#EXTINF:-1, group-title="FIVER", RECORD TV SD (BR2)
+http://51.15.15.119:8080/max/max/62775
+#EXTINF:-1, group-title="FIVER", REDE BRASIL SD (BR2)
+http://51.15.15.119:8080/max/max/62774
+#EXTINF:-1, group-title="FIVER", REDE TV HD (BR2)
+http://51.15.15.119:8080/max/max/61616
+#EXTINF:-1, group-title="FIVER", REDE TV SD (BR2)
+http://51.15.15.119:8080/max/max/62773
+#EXTINF:-1, group-title="FIVER", REDE VIDA SD (BR2)
+http://51.15.15.119:8080/max/max/62772
+#EXTINF:-1, group-title="FIVER", RIT SD (BR2)
+http://51.15.15.119:8080/max/max/62771
+#EXTINF:-1, group-title="FIVER", SBT HD (BR2)
+http://51.15.15.119:8080/max/max/61615
+#EXTINF:-1, group-title="FIVER", SBT SD (BR2)
+http://51.15.15.119:8080/max/max/62770
+#EXTINF:-1, group-title="FIVER", SBT TV JORNAL HD (BR2)
+http://51.15.15.119:8080/max/max/61614
+#EXTINF:-1, group-title="FIVER", SIC INTERNACIONAL SD (BR2)
+http://51.15.15.119:8080/max/max/62769
+#EXTINF:-1, group-title="FIVER", SPACE FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61839
+#EXTINF:-1, group-title="FIVER", SPACE HD (BR2)
+http://51.15.15.119:8080/max/max/61613
+#EXTINF:-1, group-title="FIVER", SPACE SD (BR2)
+http://51.15.15.119:8080/max/max/62767
+#EXTINF:-1, group-title="FIVER", SPORTV 2 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61838
+#EXTINF:-1, group-title="FIVER", SPORTV 2 HD (BR2)
+http://51.15.15.119:8080/max/max/61612
+#EXTINF:-1, group-title="FIVER", SPORTV 2 SD (BR2)
+http://51.15.15.119:8080/max/max/62766
+#EXTINF:-1, group-title="FIVER", SPORTV 3 FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61837
+#EXTINF:-1, group-title="FIVER", SPORTV 3 HD (BR2)
+http://51.15.15.119:8080/max/max/61611
+#EXTINF:-1, group-title="FIVER", SPORTV 3 SD (BR2)
+http://51.15.15.119:8080/max/max/62765
+#EXTINF:-1, group-title="FIVER", SPORTV FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61836
+#EXTINF:-1, group-title="FIVER", SPORTV HD (BR2)
+http://51.15.15.119:8080/max/max/61610
+#EXTINF:-1, group-title="FIVER", SPORTV SD (BR2)
+http://51.15.15.119:8080/max/max/62764
+#EXTINF:-1, group-title="FIVER", STUDIO UNIVERSAL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61835
+#EXTINF:-1, group-title="FIVER", STUDIO UNIVERSAL HD (BR2)
+http://51.15.15.119:8080/max/max/61609
+#EXTINF:-1, group-title="FIVER", STUDIO UNIVERSAL SD (BR2)
+http://51.15.15.119:8080/max/max/62763
+#EXTINF:-1, group-title="FIVER", SYFY FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61834
+#EXTINF:-1, group-title="FIVER", SYFY HD (BR2)
+http://51.15.15.119:8080/max/max/61608
+#EXTINF:-1, group-title="FIVER", SYFY SD (BR2)
+http://51.15.15.119:8080/max/max/62762
+#EXTINF:-1, group-title="FIVER", TBS HD (BR2)
+http://51.15.15.119:8080/max/max/61607
+#EXTINF:-1, group-title="FIVER", TBS SD (BR2)
+http://51.15.15.119:8080/max/max/62761
+#EXTINF:-1, group-title="FIVER", TCM HD (BR2)
+http://51.15.15.119:8080/max/max/61606
+#EXTINF:-1, group-title="FIVER", TCM SD (BR2)
+http://51.15.15.119:8080/max/max/62760
+#EXTINF:-1, group-title="FIVER", TELECINE ACTION FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61833
+#EXTINF:-1, group-title="FIVER", TELECINE ACTION HD (BR2)
+http://51.15.15.119:8080/max/max/61605
+#EXTINF:-1, group-title="FIVER", TELECINE ACTION SD (BR2)
+http://51.15.15.119:8080/max/max/62759
+#EXTINF:-1, group-title="FIVER", TELECINE CULT FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61832
+#EXTINF:-1, group-title="FIVER", TELECINE CULT HD (BR2)
+http://51.15.15.119:8080/max/max/61604
+#EXTINF:-1, group-title="FIVER", TELECINE CULT SD (BR2)
+http://51.15.15.119:8080/max/max/62758
+#EXTINF:-1, group-title="FIVER", TELECINE FUN FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61831
+#EXTINF:-1, group-title="FIVER", TELECINE FUN HD (BR2)
+http://51.15.15.119:8080/max/max/61603
+#EXTINF:-1, group-title="FIVER", TELECINE FUN SD (BR2)
+http://51.15.15.119:8080/max/max/62757
+#EXTINF:-1, group-title="FIVER", TELECINE PIPOCA FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61830
+#EXTINF:-1, group-title="FIVER", TELECINE PIPOCA HD (BR2)
+http://51.15.15.119:8080/max/max/61602
+#EXTINF:-1, group-title="FIVER", TELECINE PIPOCA SD (BR2)
+http://51.15.15.119:8080/max/max/62756
+#EXTINF:-1, group-title="FIVER", TELECINE PREMIUM FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61829
+#EXTINF:-1, group-title="FIVER", TELECINE PREMIUM HD (BR2)
+http://51.15.15.119:8080/max/max/61601
+#EXTINF:-1, group-title="FIVER", TELECINE PREMIUM SD (BR2)
+http://51.15.15.119:8080/max/max/62755
+#EXTINF:-1, group-title="FIVER", TELECINE TOUCH FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61828
+#EXTINF:-1, group-title="FIVER", TELECINE TOUCH HD (BR2)
+http://51.15.15.119:8080/max/max/61600
+#EXTINF:-1, group-title="FIVER", TELECINE TOUCH SD (BR2)
+http://51.15.15.119:8080/max/max/62754
+#EXTINF:-1, group-title="FIVER", TERRA VIVA SD (BR2)
+http://51.15.15.119:8080/max/max/62753
+#EXTINF:-1, group-title="FIVER", TLC HD (BR2)
+http://51.15.15.119:8080/max/max/61599
+#EXTINF:-1, group-title="FIVER", TLC SD (BR2)
+http://51.15.15.119:8080/max/max/62752
+#EXTINF:-1, group-title="FIVER", TNT FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61827
+#EXTINF:-1, group-title="FIVER", TNT HD (BR2)
+http://51.15.15.119:8080/max/max/61598
+#EXTINF:-1, group-title="FIVER", TNT SD (BR2)
+http://51.15.15.119:8080/max/max/62751
+#EXTINF:-1, group-title="FIVER", TNT SERIES FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61826
+#EXTINF:-1, group-title="FIVER", TNT SERIES HD (BR2)
+http://51.15.15.119:8080/max/max/61597
+#EXTINF:-1, group-title="FIVER", TNT SERIES SD (BR2)
+http://51.15.15.119:8080/max/max/62750
+#EXTINF:-1, group-title="FIVER", TOONCAST HD (BR2)
+http://51.15.15.119:8080/max/max/61596
+#EXTINF:-1, group-title="FIVER", TOONCAST SD (BR2)
+http://51.15.15.119:8080/max/max/62749
+#EXTINF:-1, group-title="FIVER", TRUTV SD (BR2)
+http://51.15.15.119:8080/max/max/62748
+#EXTINF:-1, group-title="FIVER", TV APARECIDA SD (BR2)
+http://51.15.15.119:8080/max/max/62747
+#EXTINF:-1, group-title="FIVER", TV BRASIL SD (BR2)
+http://51.15.15.119:8080/max/max/62746
+#EXTINF:-1, group-title="FIVER", TV CAMARA SD (BR2)
+http://51.15.15.119:8080/max/max/62745
+#EXTINF:-1, group-title="FIVER", TV CIDADE OESTE SD (BR2)
+http://51.15.15.119:8080/max/max/62744
+#EXTINF:-1, group-title="FIVER", TV CLIMATEMPO SD (BR2)
+http://51.15.15.119:8080/max/max/62743
+#EXTINF:-1, group-title="FIVER", TV CULTURA SD (BR2)
+http://51.15.15.119:8080/max/max/62742
+#EXTINF:-1, group-title="FIVER", TV DIARIO SD (BR2)
+http://51.15.15.119:8080/max/max/62741
+#EXTINF:-1, group-title="FIVER", TV ESCOLA SD (BR2)
+http://51.15.15.119:8080/max/max/62740
+#EXTINF:-1, group-title="FIVER", TV GAZETA SD (BR2)
+http://51.15.15.119:8080/max/max/62738
+#EXTINF:-1, group-title="FIVER", TV JUSTICA SD (BR2)
+http://51.15.15.119:8080/max/max/62737
+#EXTINF:-1, group-title="FIVER", TV RA TIM BUM HD (BR2)
+http://51.15.15.119:8080/max/max/61595
+#EXTINF:-1, group-title="FIVER", TV RA TIM BUM SD (BR2)
+http://51.15.15.119:8080/max/max/62736
+#EXTINF:-1, group-title="FIVER", TV SENADO SD (BR2)
+http://51.15.15.119:8080/max/max/62735
+#EXTINF:-1, group-title="FIVER", TV5 SD (BR2)
+http://51.15.15.119:8080/max/max/62734
+#EXTINF:-1, group-title="FIVER", TVE SD (BR2)
+http://51.15.15.119:8080/max/max/62733
+#EXTINF:-1, group-title="FIVER", UNIVERSAL CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61825
+#EXTINF:-1, group-title="FIVER", UNIVERSAL CHANNEL SD (BR2)
+http://51.15.15.119:8080/max/max/62732
+#EXTINF:-1, group-title="FIVER", UNIVERSAL HD (BR2)
+http://51.15.15.119:8080/max/max/61594
+#EXTINF:-1, group-title="FIVER", VH1 HD (BR2)
+http://51.15.15.119:8080/max/max/61593
+#EXTINF:-1, group-title="FIVER", VH1 SD (BR2)
+http://51.15.15.119:8080/max/max/62731
+#EXTINF:-1, group-title="FIVER", VIVA HD (BR2)
+http://51.15.15.119:8080/max/max/61592
+#EXTINF:-1, group-title="FIVER", VIVA SD (BR2)
+http://51.15.15.119:8080/max/max/62730
+#EXTINF:-1, group-title="FIVER", WARNER CHANNEL FHD H265 (BR2)
+http://51.15.15.119:8080/max/max/61824
+#EXTINF:-1, group-title="FIVER", WARNER CHANNEL HD (BR2)
+http://51.15.15.119:8080/max/max/61591
+#EXTINF:-1, group-title="FIVER", WARNER CHANNEL SD (BR2)
+http://51.15.15.119:8080/max/max/62729
+#EXTINF:-1, group-title="FIVER", WOOHOO HD (BR2)
+http://51.15.15.119:8080/max/max/61590
+#EXTINF:-1, group-title="FIVER", WOOHOO SD (BR2)
+http://51.15.15.119:8080/max/max/62728
+#EXTINF:-1, group-title="FIVER", XXX: 24HS: BRASILEIRINHAS (BR2)
+http://51.15.15.119:8080/max/max/62485
+#EXTINF:-1, group-title="FIVER", XXX: 24HS: LESBIAN (BR2)
+http://51.15.15.119:8080/max/max/62484
+#EXTINF:-1, group-title="FIVER", XXX: PLAYBOY SD (BR2)
+http://51.15.15.119:8080/max/max/62726
+#EXTINF:-1, group-title="FIVER", XXX: RD Big Ass (BR2)
+http://51.15.15.119:8080/max/max/63387
+#EXTINF:-1, group-title="FIVER", XXX: RD Big Dick (BR2)
+http://51.15.15.119:8080/max/max/63386
+#EXTINF:-1, group-title="FIVER", XXX: RD Big Tits (BR2)
+http://51.15.15.119:8080/max/max/63385
+#EXTINF:-1, group-title="FIVER", XXX: RD Blowjob (BR2)
+http://51.15.15.119:8080/max/max/63384
+#EXTINF:-1, group-title="FIVER", XXX: RD Cuckold (BR2)
+http://51.15.15.119:8080/max/max/63383
+#EXTINF:-1, group-title="FIVER", XXX: RD Fetish (BR2)
+http://51.15.15.119:8080/max/max/63382
+#EXTINF:-1, group-title="FIVER", XXX: RD Hardcore (BR2)
+http://51.15.15.119:8080/max/max/63381
+#EXTINF:-1, group-title="FIVER", XXX: RD Interracial (BR2)
+http://51.15.15.119:8080/max/max/63380
+#EXTINF:-1, group-title="FIVER", XXX: RD Latina (BR2)
+http://51.15.15.119:8080/max/max/63379
+#EXTINF:-1, group-title="FIVER", XXX: RD Lesbian (BR2)
+http://51.15.15.119:8080/max/max/63378
+#EXTINF:-1, group-title="FIVER", XXX: RD MILF (BR2)
+http://51.15.15.119:8080/max/max/63377
+#EXTINF:-1, group-title="FIVER", XXX: RD Pornstar (BR2)
+http://51.15.15.119:8080/max/max/63376
+#EXTINF:-1, group-title="FIVER", XXX: RD POV (BR2)
+http://51.15.15.119:8080/max/max/63375
+#EXTINF:-1, group-title="FIVER", XXX: RD Russian (BR2)
+http://51.15.15.119:8080/max/max/63374
+#EXTINF:-1, group-title="FIVER", XXX: RD Teen (BR2)
+http://51.15.15.119:8080/max/max/63373
+#EXTINF:-1, group-title="FIVER", XXX: RD Threesome (BR2)
+http://51.15.15.119:8080/max/max/63372
+#EXTINF:-1, group-title="FIVER", XXX: SEX PRIVE SD (BR2)
+http://51.15.15.119:8080/max/max/62725
+#EXTINF:-1, group-title="FIVER", XXX: SEX ZONE SD (BR2)
+http://51.15.15.119:8080/max/max/62724
+#EXTINF:-1, group-title="FIVER", XXX: SEXTREME SD (BR2)
+http://51.15.15.119:8080/max/max/62723
+#EXTINF:-1, group-title="FIVER", XXX: SEXY HOT SD (BR2)
+http://51.15.15.119:8080/max/max/62722
+#EXTINF:-1, group-title="FIVER", XXX: VENUS SD (BR2)
+http://51.15.15.119:8080/max/max/62721
+#EXTINF:-1, group-title="FIVER", ZOOMOO SD (BR2)
+http://51.15.15.119:8080/max/max/62727
+#EXTINF:-1, group-title="FIVER", AGRO CANAL SD
+http://51.15.15.119:8080/max/max/32904
+#EXTINF:-1, group-title="FIVER", AUTO MOTO TV SD
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1, group-title="FIVER", Canal Rural SD
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
+#EXTINF:-1, group-title="FIVER", CBN SP SD
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1, group-title="FIVER", GOSPEL CARTOON TV
+http://51.15.15.119:8080/max/max/28387
+#EXTINF:-1, group-title="FIVER", HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+#EXTINF:-1, group-title="FIVER", JOVEM PAN  3 SD
+https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/playlist.m3u8
+#EXTINF:-1, group-title="FIVER", JOVEM PAN 2 SD
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+#EXTINF:-1, group-title="FIVER", JOVEM PAN SD
+https://evpp.mm.uol.com.br/jovempan/jp-jornaldamanha.sdp/playlist.m3u8
+#EXTINF:-1, group-title="FIVER", MUNDO AUTO SD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1, group-title="FIVER", Rádio: KBOING FM
+http://52.206.124.3:1935/kboing-fm/kbostream/chunklist_w979262028.m3u8
+#EXTINF:-1, group-title="FIVER", RBI TV SD
+http://51.15.15.119:8080/max/max/50628
+#EXTINF:-1, group-title="FIVER", Real Madrid Tv Online
+http://51.15.15.119:8080/max/max/23782
+#EXTINF:-1, group-title="FIVER", Rede Gênesis
+http://51.15.15.119:8080/max/max/6012
+#EXTINF:-1, group-title="FIVER", REDE GOSPEL SD
+http://51.15.15.119:8080/max/max/45130
+#EXTINF:-1, group-title="FIVER", REDE GRAVA SD
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+#EXTINF:-1, group-title="FIVER", REDE METRÓPOLE DE COMUNICAÇÃO SD
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1, group-title="FIVER", REDE SUPER SD
+http://51.15.15.119:8080/max/max/45127
+#EXTINF:-1, group-title="FIVER", REDE TV RJ
+http://51.15.15.119:8080/max/max/4908
+#EXTINF:-1, group-title="FIVER", SOBRENATURAL TV SD
+http://51.15.15.119:8080/max/max/42252
+#EXTINF:-1, group-title="FIVER", TRANSMAERICA POP FM
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+#EXTINF:-1, group-title="FIVER", TV EVANGELIZAR
+http://51.15.15.119:8080/max/max/23786
+#EXTINF:-1, group-title="FIVER", TV GIDEÕES SD
+http://51.15.15.119:8080/max/max/39535
+#EXTINF:-1, group-title="FIVER", TV MUNDO CATÓLICO SD
+http://51.15.15.119:8080/max/max/50626
+#EXTINF:-1, group-title="FIVER", TV MUNDO MAIOR SD
+https://www.youtube.com/watch?v=Sjy2RPGO8fY
+#EXTINF:-1, group-title="FIVER", TV RIO PRETO SD
+http://186.227.165.118:1935/insatv/livestream/playlist.m3u8?wowzasessionid=918902642
+#EXTINF:-1, group-title="FIVER", WEB TV LEÃO DE JUDÁ
+http://51.15.15.119:8080/max/max/32552
